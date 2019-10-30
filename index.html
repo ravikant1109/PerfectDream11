@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/login.css">
+<link rel="stylesheet" type="text/css" href="css/google.css">
+<link rel="stylesheet" type="text/css" href="css/w3.css">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-quarter img{margin-bottom: -6px; cursor: pointer}
+.w3-quarter img:hover{opacity: 0.6; transition: 0.3s}
+</style>
+<script>
+function loadDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("demo").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "cgi-bin/project.py", true);
+  xhttp.send();
+}
+</script>
+<body class="w3-light-grey">
+<!--<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>-->
+<div id="id01" class="modal">
+  
+  <form class="modal-content animate" action="/action_page.php" method="post">
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+      <img src="images/home/avatar.png" alt="Avatar" class="avatar">
+    </div>
+
+    <div class="container">
+      <label for="uname"><b>Username</b></label>
+      <input type="text" placeholder="Enter Username" name="uname" required>
+
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" required>
+        
+      <button type="submit">Login</button>
+      <label>
+        <input type="checkbox" checked="checked" name="remember"> Remember me
+      </label>
+    </div>
+
+    <div class="container" style="background-color:#f1f1f1">
+      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+      <span class="psw">Forgot <a href="#">password?</a></span>
+    </div>
+  </form>
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById('id01');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-animate-right w3-top w3-text-light-grey w3-large" style="z-index:3;width:250px;font-weight:bold;display:none;right:0;" id="mySidebar">
+  <a href="javascript:void()" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-32">CLOSE</a> 
+  <a href="#" onclick="document.getElementById('id01').style.display='block'" class="w3-bar-item w3-button w3-center w3-padding-16">Login</a> 
+  <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-16">ABOUT ME</a> 
+  <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-16">CONTACT</a>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-white w3-xlarge w3-padding-16">
+  <span class="w3-left w3-padding">Dream!! Prediction</span>
+  <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main w3-content" style="max-width:1600px;margin-top:83px" >
+  
+<!-- Photo grid -->
+	<div class="w3-row w3-grayscale-min">
+		<a href='https://www.dream11.com/cricket/create-team/1218/16765?returnUrl=%2Fcricket%2Fleagues%2Faustralia-vs-sri-lanka-t20i%2F1218%2F16765'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Australia vs Sri Lanka T20i</b></h3>
+<h5 style='color:red'>43m 57s left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x.png' style='width:100%' alt='img'>
+<h4>AUS</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRI-CR1@2x.png' style='width:100%' alt='img'>
+<h4>SL</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1208/16541?returnUrl=%2Fcricket%2Fleagues%2Ficc-mens-t20-world-cup-qualifi%2F1208%2F16541'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>ICC Men's T20 World Cup Qualifiers</b></h3>
+<h5 style='color:red'>2h 43m left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png' style='width:100%' alt='img'>
+<h4>SCO</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UAE-CR1@2x.png' style='width:100%' alt='img'>
+<h4>UAE</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1208/16542?returnUrl=%2Fcricket%2Fleagues%2Ficc-mens-t20-world-cup-qualifi%2F1208%2F16542'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>ICC Men's T20 World Cup Qualifiers</b></h3>
+<h5 style='color:red'>8h left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HK-CR1@2x.png' style='width:100%' alt='img'>
+<h4>HK</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OMN-CR1@2x.png' style='width:100%' alt='img'>
+<h4>OMN</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1179/16162?returnUrl=%2Fcricket%2Fleagues%2Faustralian-odd%2F1179%2F16162'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Australian ODD</b></h3>
+<h5 style='color:red'>16h left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/QUN-CR1@2x.png' style='width:100%' alt='img'>
+<h4>QUN</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WAU-CR1@2x.png' style='width:100%' alt='img'>
+<h4>WAU</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1240/16912?returnUrl=%2Fcricket%2Fleagues%2FCricket%20Australia%20XI%20vs%20Pakist%2F1240%2F16912'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Cricket Australia XI vs Pakistan Practice T20</b></h3>
+<h5 style='color:red'>20h left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CAU-CR1@2x.png' style='width:100%' alt='img'>
+<h4>CAU</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x.png' style='width:100%' alt='img'>
+<h4>PAK</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1228/16843?returnUrl=%2Fcricket%2Fleagues%2FDeodhar%20Trophy%2F1228%2F16843'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Deodhar Trophy</b></h3>
+<h5 style='color:red'>25h left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/INA-CR1@2x.png' style='width:100%' alt='img'>
+<h4>IN-A</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/INB-CR1@2x.png' style='width:100%' alt='img'>
+<h4>IN-B</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1227/16840?returnUrl=%2Fcricket%2Fleagues%2FNew%20Zealand%20vs%20England%20T20I%2F1227%2F16840'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>New Zealand vs England T20I</b></h3>
+<h5 style='color:red'>41h left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ENG-CR1@2x.png' style='width:100%' alt='img'>
+<h4>ENG</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZ-CR1@2x.png' style='width:100%' alt='img'>
+<h4>NZ</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1210/16563?returnUrl=%2Fcricket%2Fleagues%2Fwomen's-big-bash-league%2F1210%2F16563'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Women's Big Bash League</b></h3>
+<h5 style='color:red'>2 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PS-CR2@2x.png' style='width:100%' alt='img'>
+<h4>PS-W</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MLR-CR2@2x.png' style='width:100%' alt='img'>
+<h4>MR-W</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1208/16544?returnUrl=%2Fcricket%2Fleagues%2Ficc-mens-t20-world-cup-qualifi%2F1208%2F16544'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>ICC Men's T20 World Cup Qualifiers</b></h3>
+<h5 style='color:red'>2 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR2@2x.png' style='width:100%' alt='img'>
+<h4>IRE</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png' style='width:100%' alt='img'>
+<h4>NED</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1208/16545?returnUrl=%2Fcricket%2Fleagues%2Ficc-mens-t20-world-cup-qualifi%2F1208%2F16545'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>ICC Men's T20 World Cup Qualifiers</b></h3>
+<h5 style='color:red'>2 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PNG-CR1@2x.png' style='width:100%' alt='img'>
+<h4>PNG</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAM-CR1@2x.png' style='width:100%' alt='img'>
+<h4>NAM</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1239/16877?returnUrl=%2Fcricket%2Fleagues%2FWest%20Indies%20Women%20vs%20India%20Wom%2F1239%2F16877'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>West Indies Women vs India Women ODI</b></h3>
+<h5 style='color:red'>2 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-W-CR2@2x.png' style='width:100%' alt='img'>
+<h4>WI-W</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IN-W-CR1@2x.png' style='width:100%' alt='img'>
+<h4>IN-W</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1210/16564?returnUrl=%2Fcricket%2Fleagues%2Fwomen's-big-bash-league%2F1210%2F16564'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Women's Big Bash League</b></h3>
+<h5 style='color:red'>2 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HBH-CR2@2x.png' style='width:100%' alt='img'>
+<h4>HB-W</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SDT-CR2@2x.png' style='width:100%' alt='img'>
+<h4>ST-W</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1210/16565?returnUrl=%2Fcricket%2Fleagues%2Fwomen's-big-bash-league%2F1210%2F16565'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Women's Big Bash League</b></h3>
+<h5 style='color:red'>2 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MLR-CR2@2x.png' style='width:100%' alt='img'>
+<h4>MR-W</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SDS-CR2@2x.png' style='width:100%' alt='img'>
+<h4>SS-W</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1210/16566?returnUrl=%2Fcricket%2Fleagues%2Fwomen's-big-bash-league%2F1210%2F16566'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Women's Big Bash League</b></h3>
+<h5 style='color:red'>3 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PS-CR2@2x.png' style='width:100%' alt='img'>
+<h4>PS-W</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MLS-CR2@2x.png' style='width:100%' alt='img'>
+<h4>MS-W</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1242/16932?returnUrl=%2Fcricket%2Fleagues%2FAustralia%20vs%20Pakistan%20T20I%2F1242%2F16932'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>Australia vs Pakistan T20I</b></h3>
+<h5 style='color:red'>3 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x.png' style='width:100%' alt='img'>
+<h4>AUS</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x.png' style='width:100%' alt='img'>
+<h4>PAK</h4>
+</div>
+</div></a>
+<a href='https://www.dream11.com/cricket/create-team/1229/16851?returnUrl=%2Fcricket%2Fleagues%2FIndia%20vs%20Bangladesh%20T20I%2F1229%2F16851'>
+<div class='w3-quarter' style='text-align:center'>
+<h3><b>India vs Bangladesh T20I</b></h3>
+<h5 style='color:red'>4 days left</h5>
+<div class='w3-quarter' style='float:left;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IND-CR1@2x.png' style='width:100%' alt='img'>
+<h4>IND</h4>
+</div>
+<div class='w3-quarter' style='float:right;margin-left:10%'>
+<img src='https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BAN-CR1@2x.png' style='width:100%' alt='img'>
+<h4>BAN</h4>
+</div>
+</div></a>
+		
+	</div>
+</div>
+
+  <!-- Pagination -->
+  <div class="w3-center w3-padding-32">
+    <div class="w3-bar">
+      <a href="#" class="w3-bar-item w3-button w3-hover-black">«</a>
+      <a href="#" class="w3-bar-item w3-black w3-button">1</a>
+      <a href="#" class="w3-bar-item w3-button w3-hover-black">2</a>
+      <a href="#" class="w3-bar-item w3-button w3-hover-black">3</a>
+      <a href="#" class="w3-bar-item w3-button w3-hover-black">4</a>
+      <a href="#" class="w3-bar-item w3-button w3-hover-black">»</a>
+    </div>
+  </div>
+  
+  <!-- Modal for full size images on click-->
+  <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+
+  <!-- About section -->
+  <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
+    <h4><b>About Me</b></h4>
+    <img src="/w3images/avatar_hat.jpg" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
+    <div class="w3-content w3-justify" style="max-width:600px">
+      <h4>My Name</h4>
+      <p>Some text about me. I love taking photos of PEOPLE. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </p>
+      <p>mail: example@example.com</p>
+      <p>tel: 5353 35531</p>
+      <hr class="w3-opacity">
+      <h4 class="w3-padding-16">Technical Skills</h4>
+      <p class="w3-wide">Photography</p>
+      <div class="w3-white">
+        <div class="w3-container w3-padding-small w3-center w3-grey" style="width:95%">95%</div>
+      </div>
+      <p class="w3-wide">Web Design</p>
+      <div class="w3-white">
+        <div class="w3-container w3-padding-small w3-center w3-grey" style="width:85%">85%</div>
+      </div>
+      <p class="w3-wide">Photoshop</p>
+      <div class="w3-white">
+        <div class="w3-container w3-padding-small w3-center w3-grey" style="width:80%">80%</div>
+      </div>
+      <p><button class="w3-button w3-light-grey w3-padding-large w3-margin-top w3-margin-bottom w3-hover-black">Download Resume</button></p>
+      <hr class="w3-opacity">
+
+      <h4 class="w3-padding-16">How much I charge</h4>
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half w3-margin-bottom">
+          <ul class="w3-ul w3-white w3-center">
+            <li class="w3-black w3-xlarge w3-padding-32">Basic</li>
+            <li class="w3-padding-16">Web Design</li>
+            <li class="w3-padding-16">Photography</li>
+            <li class="w3-padding-16">5GB Storage</li>
+            <li class="w3-padding-16">Mail Support</li>
+            <li class="w3-padding-16">
+              <h2>$ 10</h2>
+              <span class="w3-opacity">per month</span>
+            </li>
+            <li class="w3-light-grey w3-padding-24">
+              <button class="w3-button w3-white w3-padding-large">Sign Up</button>
+            </li>
+          </ul>
+        </div>
+        
+        <div class="w3-half">
+          <ul class="w3-ul w3-white w3-center">
+            <li class="w3-black w3-xlarge w3-padding-32">Pro</li>
+            <li class="w3-padding-16">Web Design</li>
+            <li class="w3-padding-16">Photography</li>
+            <li class="w3-padding-16">50GB Storage</li>
+            <li class="w3-padding-16">Endless Support</li>
+            <li class="w3-padding-16">
+              <h2>$ 25</h2>
+              <span class="w3-opacity">per month</span>
+            </li>
+            <li class="w3-light-grey w3-padding-24">
+              <button class="w3-button w3-white w3-padding-large">Sign Up</button>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contact section -->
+  <div class="w3-container w3-light-grey w3-padding-32 w3-padding-large" id="contact">
+    <div class="w3-content" style="max-width:600px">
+      <h4 class="w3-center"><b>Contact Me</b></h4>
+      <p>Do you want me to photograph you? Fill out the form and fill me in with the details :) I love meeting new people!</p>
+      <form action="/action_page.php" target="_blank">
+        <div class="w3-section">
+          <label>Name</label>
+          <input class="w3-input w3-border" type="text" name="Name" required>
+        </div>
+        <div class="w3-section">
+          <label>Email</label>
+          <input class="w3-input w3-border" type="text" name="Email" required>
+        </div>
+        <div class="w3-section">
+          <label>Message</label>
+          <input class="w3-input w3-border" type="text" name="Message" required>
+        </div>
+        <button type="submit" class="w3-button w3-block w3-black w3-margin-bottom">Send Message</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="w3-container w3-padding-32 w3-grey">  
+    <div class="w3-row-padding">
+      <div class="w3-third">
+        <h3>INFO</h3>
+        <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>      
+      </div>
+    
+      <div class="w3-third">
+        <h3>BLOG POSTS</h3>
+        <ul class="w3-ul">
+          <li class="w3-padding-16 w3-hover-black">
+            <img src="/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large">Lorem</span><br>
+            <span>Sed mattis nunc</span>
+          </li>
+          <li class="w3-padding-16 w3-hover-black">
+            <img src="/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large">Ipsum</span><br>
+            <span>Praes tinci sed</span>
+          </li> 
+        </ul>
+      </div>
+
+      <div class="w3-third">
+        <h3>POPULAR TAGS</h3>
+        <p>
+          <span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">London</span>
+          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">IKEA</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">NORWAY</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">DIY</span>
+          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Baby</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Family</span>
+          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Shopping</span>
+          <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Sports</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Games</span>
+        </p>
+      </div>
+    </div>
+  </footer>
+  
+  <div class="w3-black w3-center w3-padding-24">Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></div>
+
+<!-- End page content -->
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+</script>
+
+
+</body>
+</html>

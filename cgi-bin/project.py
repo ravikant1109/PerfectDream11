@@ -1,5 +1,8 @@
+#!/usr/bin/python3
 from bs4 import BeautifulSoup
 from selenium import webdriver
+import cgitb
+cgitb.enable()
 import time
 import getpass
 import requests
@@ -18,14 +21,20 @@ class Match:
 		self.wk = []
 		self.ar = []
 	def print_match(self):
-		print(self.tournament, end = ":\n")
-		print(self.first, end = " vs ")
-		print(self.second)
-		print(self.time)
-		print(self.url)
-		print(self.fimg)
-		print(self.simg, end = "\n\n")
-
+		if self.time!=None:
+			print("<a href='"+self.url+"'>")
+			print("<div class='w3-quarter' style='text-align:center'>")
+			print("<h3><b>"+self.tournament+"</b></h3>")
+			print("<h5 style='color:red'>"+self.time+"</h5>")
+			print("<div class='w3-quarter' style='float:left;margin-left:10%'>")
+			print("<img src='"+self.fimg+"' style='width:100%' alt='img'>")
+			print("<h4>"+self.first+"</h4>")
+			print("</div>")
+			print("<div class='w3-quarter' style='float:right;margin-right:10%'>")
+			print("<img src='"+self.simg+"' style='width:100%' alt='img'>")
+			print("<h4>"+self.second+"</h4>")
+			print("</div>")
+			print("</div></a>")
 
 class Project:
 	def __init__(self, url):
@@ -34,7 +43,6 @@ class Project:
 	def make_request(self):
 		self.driver = webdriver.Firefox()
 		self.driver.get(self.url)
-		print("connection successful")
 	def parse(self):
 		html = self.driver.page_source
 		soup = BeautifulSoup(html, 'html.parser')
@@ -54,3 +62,9 @@ class Project:
 			fimg = imgs[0]['src']
 			simg = imgs[1]['src']
 			self.matches.append(Match(url, tournament, first, second, time, fimg, simg))
+url = "https://www.dream11.com/leagues"
+p = Project(url)
+p.make_request()
+p.parse()
+for match in p.matches:
+	match.print_match()
