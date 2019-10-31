@@ -1,0 +1,118 @@
+\begin{theindex}
+
+  \item {\+\_\+\+\_\+init\+\_\+\+\_\+}
+    \subitem {player\+::\+Player}, \hyperpage{5}
+    \subitem {project\+::\+Match}, \hyperpage{2}
+    \subitem {project\+::\+Project}, \hyperpage{7}
+
+  \indexspace
+
+  \item {ar}
+    \subitem {project\+::\+Match}, \hyperpage{3}
+
+  \indexspace
+
+  \item {batsmen}
+    \subitem {project\+::\+Match}, \hyperpage{3}
+  \item {bowlers}
+    \subitem {project\+::\+Match}, \hyperpage{4}
+
+  \indexspace
+
+  \item {credit}
+    \subitem {player\+::\+Player}, \hyperpage{6}
+
+  \indexspace
+
+  \item {driver}
+    \subitem {project\+::\+Project}, \hyperpage{8}
+
+  \indexspace
+
+  \item {fimg}
+    \subitem {project\+::\+Match}, \hyperpage{4}
+  \item {first}
+    \subitem {project\+::\+Match}, \hyperpage{4}
+
+  \indexspace
+
+  \item {make\+\_\+request}
+    \subitem {project\+::\+Project}, \hyperpage{8}
+  \item {matches}
+    \subitem {project\+::\+Project}, \hyperpage{8}
+
+  \indexspace
+
+  \item {name}
+    \subitem {player\+::\+Player}, \hyperpage{6}
+
+  \indexspace
+
+  \item {open\+\_\+match}
+    \subitem {player\+::\+Player}, \hyperpage{6}
+
+  \indexspace
+
+  \item {parse}
+    \subitem {project\+::\+Project}, \hyperpage{8}
+  \item {player.\+Player}, \hyperpage{5}
+  \item {player\+::\+Player}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{5}
+    \subitem {credit}, \hyperpage{6}
+    \subitem {name}, \hyperpage{6}
+    \subitem {open\+\_\+match}, \hyperpage{6}
+    \subitem {print\+\_\+pl}, \hyperpage{6}
+  \item {print\+\_\+match}
+    \subitem {project\+::\+Match}, \hyperpage{3}
+  \item {print\+\_\+pl}
+    \subitem {player\+::\+Player}, \hyperpage{6}
+  \item {project.\+Match}, \hyperpage{2}
+  \item {project.\+Project}, \hyperpage{7}
+  \item {project\+::\+Match}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{2}
+    \subitem {ar}, \hyperpage{3}
+    \subitem {batsmen}, \hyperpage{3}
+    \subitem {bowlers}, \hyperpage{4}
+    \subitem {fimg}, \hyperpage{4}
+    \subitem {first}, \hyperpage{4}
+    \subitem {print\+\_\+match}, \hyperpage{3}
+    \subitem {second}, \hyperpage{4}
+    \subitem {simg}, \hyperpage{4}
+    \subitem {time}, \hyperpage{4}
+    \subitem {tournament}, \hyperpage{4}
+    \subitem {url}, \hyperpage{5}
+    \subitem {wk}, \hyperpage{5}
+  \item {project\+::\+Project}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{7}
+    \subitem {driver}, \hyperpage{8}
+    \subitem {make\+\_\+request}, \hyperpage{8}
+    \subitem {matches}, \hyperpage{8}
+    \subitem {parse}, \hyperpage{8}
+    \subitem {url}, \hyperpage{8}
+
+  \indexspace
+
+  \item {second}
+    \subitem {project\+::\+Match}, \hyperpage{4}
+  \item {simg}
+    \subitem {project\+::\+Match}, \hyperpage{4}
+
+  \indexspace
+
+  \item {time}
+    \subitem {project\+::\+Match}, \hyperpage{4}
+  \item {tournament}
+    \subitem {project\+::\+Match}, \hyperpage{4}
+
+  \indexspace
+
+  \item {url}
+    \subitem {project\+::\+Match}, \hyperpage{5}
+    \subitem {project\+::\+Project}, \hyperpage{8}
+
+  \indexspace
+
+  \item {wk}
+    \subitem {project\+::\+Match}, \hyperpage{5}
+
+\end{theindex}
