@@ -6,7 +6,7 @@ cgitb.enable()
 import time
 import getpass
 import requests
-
+from update import Update
 class Match:
 	def __init__(self, url, tournament, first, second, time, fimg, simg):
 		self.url = url
@@ -20,22 +20,23 @@ class Match:
 		self.bowlers = []
 		self.wk = []
 		self.ar = []
+		self.data = ""
 	def print_match(self):
 		if self.time!=None:
-			print("<a href='"+self.url+"'>")
-			print("<div class='w3-quarter' style='text-align:center'>")
-			print("<h3><b>"+self.tournament+"</b></h3>")
-			print("<h5 style='color:red'>"+self.time+"</h5>")
-			print("<div class='w3-quarter' style='float:left;margin-left:10%'>")
-			print("<img src='"+self.fimg+"' style='width:100%' alt='img'>")
-			print("<h4>"+self.first+"</h4>")
-			print("</div>")
-			print("<div class='w3-quarter' style='float:right;margin-right:10%'>")
-			print("<img src='"+self.simg+"' style='width:100%' alt='img'>")
-			print("<h4>"+self.second+"</h4>")
-			print("</div>")
-			print("</div></a>")
-
+			self.data = self.data + "<a href='"+self.url+"'>"
+			self.data = self.data + "<div class='w3-quarter' style='text-align:center'>"
+			self.data = self.data + "<h3><b>"+self.tournament+"</b></h3>"
+			self.data = self.data + "<h5 style='color:red'>"+self.time+"</h5>"
+			self.data = self.data + "<div class='w3-quarter' style='float:left;margin-left:10%'>"
+			self.data = self.data + "<img src='"+self.fimg+"' style='width:100%' alt='img'>"
+			self.data = self.data + "<h4>"+self.first+"</h4>"
+			self.data = self.data + "</div>"
+			self.data = self.data + "<div class='w3-quarter' style='float:right;margin-right:10%'>"
+			self.data = self.data + "<img src='"+self.simg+"' style='width:100%' alt='img'>"
+			self.data = self.data + "<h4>"+self.second+"</h4>"
+			self.data = self.data + "</div>"
+			self.data = self.data + "</div></a>"
+		return self.data
 class Project:
 	def __init__(self, url):
 		self.url = url
@@ -66,5 +67,11 @@ url = "https://www.dream11.com/leagues"
 p = Project(url)
 p.make_request()
 p.parse()
+data = ""
 for match in p.matches:
-	match.print_match()
+	data = data + match.print_match()
+#f = open('/home/rajat/PerfectDream11/PerfectDream11/update/update.txt','w')
+#f.write(data)
+#f.close()
+up = Update(data)
+up.run_update()

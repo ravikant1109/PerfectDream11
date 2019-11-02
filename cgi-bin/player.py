@@ -48,7 +48,6 @@ def open_match(p, match):
 	for player in players:
 		match.bowlers.append(Player(player.find('div', attrs = {'class':'playerName_73cad'}).text, player.findAll('div', attrs = {'class':'playerCardCell_bf9d8 playerPointsCell_aa0e3'})[1].text))
 	p.driver.quit()
-
 	for wk in match.wk:
 		wk.print_pl()
 	print("\n\n")
@@ -60,4 +59,3 @@ def open_match(p, match):
 	print("\n\n")
 	for bowler in match.bowlers:
 		bowler.print_pl()
-
