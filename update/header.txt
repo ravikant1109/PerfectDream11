@@ -10,6 +10,21 @@
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 .w3-quarter img{margin-bottom: -6px; cursor: pointer}
 .w3-quarter img:hover{opacity: 0.6; transition: 0.3s}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 20%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
 </style>
 <script type="text/javascript" src="javascript/myscript.js"></script>
 <body class="w3-light-grey">
@@ -101,7 +116,7 @@ window.onclick = function(event) {
 
 <!-- Top menu on small screens -->
 <header class="w3-container w3-top w3-white w3-xlarge w3-padding-16">
-  <span id="demo" class="w3-left w3-padding">Dream!! Prediction</span>
+  <span style="text-shadow:2px 2px 1px grey" id="demo" class="w3-left w3-padding">Dream!! Prediction</span>
   <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
 </header>
 
