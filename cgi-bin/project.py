@@ -24,9 +24,9 @@ class Match:
 	def print_match(self):
 		if self.time!=None:
 			self.data = self.data + "<a href='"+self.url+"'>"
-			self.data = self.data + "<div class='w3-quarter' style='text-align:center'>"
-			self.data = self.data + "<h3><b>"+self.tournament+"</b></h3>"
-			self.data = self.data + "<h5 style='color:red'>"+self.time+"</h5>"
+			self.data = self.data + "<div onMouseOver=\"this.style.boxShadow='10px 10px 5px grey';this.style.textShadow ='2px 2px 1px grey'\" onMouseOut=\"this.style.boxShadow='10px 10px 5px lightgrey';this.style.textShadow ='2px 2px 1px lightgrey'\" style=\"text-align:center;box-shadow: 10px 10px 5px lightgrey;text-shadow: 2px 2px 1px lightgrey\" class='w3-quarter' style='text-align:center'>"
+			self.data = self.data + "<h5><b>"+self.tournament+"</b></h5>"
+			self.data = self.data + "<h6 style='color:red'>"+self.time+"</h6>"
 			self.data = self.data + "<div class='w3-quarter' style='float:left;margin-left:10%'>"
 			self.data = self.data + "<img src='"+self.fimg+"' style='width:100%' alt='img'>"
 			self.data = self.data + "<h4>"+self.first+"</h4>"
