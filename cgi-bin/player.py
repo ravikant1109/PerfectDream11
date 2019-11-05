@@ -12,6 +12,7 @@ class Player:
 	def open_match(p, match):
 		p.driver = webdriver.Firefox()
 		p.driver.get(match.url)
+		time.sleep(1)
 		p.driver.find_element_by_xpath("/html/body/div[1]/div/div[2]/div/div/div[2]/div[2]/div[1]/button").click()
 		p.driver.find_element_by_xpath("/html/body/div[1]/div/div[2]/div/div/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]").click()
 		html = p.driver.page_source
@@ -49,14 +50,14 @@ class Player:
 		for batsman in match.batsmen:
 			name , credit = batsman.print_pl()
 			data = data + "<tr><td>"+name+"</td><td>"+credit+"</td></tr>"
-		data = data ="</table>"
-		data = data + "<table style='float:right'><caption>ALLROUNDER</caption>"
+		data = data + "</table>"
+		data = data + "<table style='float:left'><caption>ALLROUNDER</caption>"
 		data = data + "<th>Player</th><th>Credit</th>"
 		for ar in match.ar:
 			name , credit = ar.print_pl()
 			data = data + "<tr><td>"+name+"</td><td>"+credit+"</td></tr>"
 		data = data + "</table>"
-		data = data + "<table style='float:right'><caption>BOWLER</caption>"
+		data = data + "<table style='float:left'><caption>BOWLER</caption>"
 		data = data + "<th>Player</th><th>Credit</th>"
 		for bowler in match.bowlers:
 			name , credit = bowler.print_pl()

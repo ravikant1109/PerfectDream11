@@ -79,7 +79,6 @@ for match in p.matches:
 		data = data + "<h1>Players Details</h1><hr>"
 		data = data + Player.open_match(p, match)
 		data = data + "<div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none'\" class=\"cancelbtn\">Close</button></div></div></form></div>"
-	break
 #f = open('/home/rajat/PerfectDream11/PerfectDream11/update/update.txt','w')
 #f.write(data)
 #f.close()
