@@ -20,6 +20,7 @@ td, th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
+  font-size: 10px;
 }
 
 tr:nth-child(even) {
@@ -52,7 +53,7 @@ tr:nth-child(even) {
 
     <div class="container" style="background-color:#f1f1f1">
       <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-      <button onclick="document.getElementById('id02').style.display='block',document.getElementById('id01').style.display='none'" style="width:auto;">Sign Up</button>
+      <button type="button" onclick="document.getElementById('id02').style.display='block',document.getElementById('id01').style.display='none'" style="width:auto;">Sign Up</button>
       <span class="psw">Forgot <a href="#">password?</a></span>
     </div>
   </form>
@@ -116,7 +117,7 @@ window.onclick = function(event) {
 
 <!-- Top menu on small screens -->
 <header class="w3-container w3-top w3-white w3-xlarge w3-padding-16">
-  <span style="text-shadow:2px 2px 1px grey" id="demo" class="w3-left w3-padding">Dream!! Prediction</span>
+  <span style="text-shadow:2px 2px 1px grey" class="w3-left w3-padding">Dream!! Prediction</span>
   <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
 </header>
 
