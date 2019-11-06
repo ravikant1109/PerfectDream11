@@ -2,6 +2,8 @@ import glob
 import math
 import numpy as np
 import csv
+import os.path
+from os import path
 class Read:
 	def __init__(self, filename):
 		self.filename = filename
@@ -28,6 +30,7 @@ class Read:
 				teams.append(row[2])
 			if row[1] == 'venue':
 				venue = row[2]
+		venue = venue.replace(',' , '')
 		bats_name = ""
 		bow_name = ""
 		bowler_dict = {}
@@ -160,7 +163,8 @@ class Read:
 		for l, j in bowler_dict.items():
 			temp = j
 			temp[9] = temp[8] // 6
-			temp[13] = temp[10] / temp [9]
+			if temp[9] != 0:
+				temp[13] = temp[10] / temp [9]
 			bowler_dict[l] = temp
 
 
@@ -234,13 +238,34 @@ class Read:
 
 			temp[15] = score
 
-			batsmen_dict[l] = temp1					######## final score ##############
+			batsmen_dict[l] = temp				######## final score ##############
 			print(l, " : ", j)
+			filename = "all_csv/" + l + ".csv"
+			# print(filename)
+			# print(j[0])
+			# heading = [ "bat" , "bowl" , "field"]
+			# if not (path.exists("../all_csv/" + filename)):
+			# 		with open (filename , "a") as csvfile:
+			# 			writer = csv.writer(csvfile , delimiter = ',')
+			# 			writer.writerow(heading)
+				
+			with open (filename , "a") as csvfile:
+				writer = csv.writer(csvfile , delimiter = ',')
+				writer.writerow(temp)
+def addH():
 
+	header = ["Player name" , "Country" , "Opponent team" , "Runs Scored" , "Balls played" , "Four" , "Six" , "Strike Rate" , "Balls bowled" , "over" , "Runs Given" , "Wickets" , "Maiden Over" , "Economy" , "Venue" , "Total Score"]
+	files = []
+	for file in glob.glob("all_csv/*"):
+		with open(file , "r") as infile:
+			reader = list(csv.reader(infile))
+			reader.insert(0, header)
 
-		# 	# print()
+		with open(file, "w") as outfile:
+			writer = csv.writer(outfile)
+			for line in reader:
+				writer.writerow(line)
 
-		
 
 
 files = []
@@ -254,3 +279,4 @@ for file in glob.glob("t20_csv_male/*"):
 for f in files:
 	f.read_file()
 	f.gen_csv()
+addH()
