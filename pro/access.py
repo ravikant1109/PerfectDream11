@@ -1,4 +1,5 @@
 import glob
+import yaml
 import math
 import numpy as np
 import csv
@@ -18,6 +19,11 @@ class Read:
 					self.match_details.append(row)
 				else:
 					self.player_details.append(row)
+		with open("YAML/" + self.filename[12:-5] + ".yaml", "r") as stream:
+			try:
+				self.data = yaml.safe_load(stream))
+			except yaml.YAMLError as exc:
+				print(exc)
 	def print_file(self):
 		for d in self.player_details:
 			print(d)
@@ -39,11 +45,17 @@ class Read:
 		ball_count = 0
 		prev_over = 0
 		cur_over = 0
+		delivery = 0
+		inning = 1
 		for row in self.player_details:
 			bats_name = row[4]
 			bow_name = row[6]
 			bats_name = bats_name.replace(" ", "")
 			bow_name = bow_name.replace(" ", "")
+			if inning == 1 and row[1] == 2:
+				inning = 2
+				delivery = 0
+			delivery += 1
 			if bats_name not in self.batsmen:
 				ls = [bats_name, row[3]]	#0: batsman name,1: team of batsman
 				if teams[0] == row[3]:
@@ -70,6 +82,7 @@ class Read:
 				ls.append(0)				# 12: Maiden	
 				ls.append(0)				# 13: Economy
 				ls.append(venue)			# 14: Venue
+				ls.append("")
 				batsmen_dict[bats_name] = ls
 
 			else:
@@ -116,10 +129,14 @@ class Read:
 				ls2.append(0)				#12: maiden 
 				ls2.append(0)				#13: economy
 				ls2.append(venue)			#14: venue
+				if row[9] == 'caught':
+					ls2.append(self.data['inning'][inning - 1]['deliveries'][delivery]['wicket']['fielders'][0])
 				bowler_dict[bow_name] = ls2
 				
 			else:
 				ls2 = bowler_dict[bow_name]
+				if row[9] == 'caught':
+					ls2.append(self.data['inning'][inning - 1]['deliveries'][delivery]['wicket']['fielders'][0])
 
 				ls2[8] += 1 #8: Balls bowled
 				ls2[10] += int(row[7]) + int(row[8]) #10: Runs given

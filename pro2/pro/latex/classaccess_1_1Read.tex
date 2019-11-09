@@ -1,0 +1,113 @@
+\hypertarget{classaccess_1_1Read}{}\section{access.\+Read Class Reference}
+\label{classaccess_1_1Read}\index{access.\+Read@{access.\+Read}}
+
+
+Class Responsible for opening and preprocessing a single file This class is will open an instance of a single C\+SV file of a match, preprocess it and create/append to C\+SV files for players playing/contributing in the match.  
+
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classaccess_1_1Read_a2b5862fb02d0f371039b129c549356fc}\label{classaccess_1_1Read_a2b5862fb02d0f371039b129c549356fc}} 
+def \hyperlink{classaccess_1_1Read_a2b5862fb02d0f371039b129c549356fc}{\+\_\+\+\_\+init\+\_\+\+\_\+} (self, \hyperlink{classaccess_1_1Read_afc80365a54bec281993b7a257080b029}{filename})
+\begin{DoxyCompactList}\small\item\em Constructor to initialize the filename of the C\+SV file associated with the object. \end{DoxyCompactList}\item 
+def \hyperlink{classaccess_1_1Read_aeaf32257315cd5e6b99ce4bfef2d0bdb}{read\+\_\+file} (self)
+\begin{DoxyCompactList}\small\item\em Member function to initialize a few variables related to the match, like team names, venue of the match, etc. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classaccess_1_1Read_af9ec59006c0081393da1c4e3d8842208}\label{classaccess_1_1Read_af9ec59006c0081393da1c4e3d8842208}} 
+def {\bfseries print\+\_\+file} (self)
+\item 
+def \hyperlink{classaccess_1_1Read_a9fbc3733d085156a8ee1ac59327483d1}{gen\+\_\+csv} (self)
+\begin{DoxyCompactList}\small\item\em Function associated with preprocessing the tables and generating a C\+SV for each player playing in the match if no C\+SV is already generated, or appending to the C\+SV if the C\+SV is already generated. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classaccess_1_1Read_afc80365a54bec281993b7a257080b029}{filename}
+\begin{DoxyCompactList}\small\item\em Filename of the C\+SV file of the match. \end{DoxyCompactList}\item 
+\hyperlink{classaccess_1_1Read_a4682ffb3f43ec732d63d89d8ee78cc1a}{player\+\_\+details}
+\begin{DoxyCompactList}\small\item\em Matrix containing per ball data of the match. \end{DoxyCompactList}\item 
+\hyperlink{classaccess_1_1Read_afb6b007e7b4888e71b0aedc00e92708d}{match\+\_\+details}
+\begin{DoxyCompactList}\small\item\em Matrix containing match details of the match. \end{DoxyCompactList}\item 
+\hyperlink{classaccess_1_1Read_a5a7dbfc250ef34435c08e175135c7c90}{data}
+\begin{DoxyCompactList}\small\item\em Contains data of the match in Y\+A\+ML format, to get extra information of the match wrt the players who have caught/run out batsmen. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classaccess_1_1Read_ab6154e0bef5bd2a28c273032518a4323}\label{classaccess_1_1Read_ab6154e0bef5bd2a28c273032518a4323}} 
+\hyperlink{classaccess_1_1Read_ab6154e0bef5bd2a28c273032518a4323}{batsmen}
+\begin{DoxyCompactList}\small\item\em List of batsmen playing in the match, initialized to empty. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classaccess_1_1Read_a55d1e15ed23c47ad8f6b54d1341b5e36}\label{classaccess_1_1Read_a55d1e15ed23c47ad8f6b54d1341b5e36}} 
+\hyperlink{classaccess_1_1Read_a55d1e15ed23c47ad8f6b54d1341b5e36}{bowlers}
+\begin{DoxyCompactList}\small\item\em List of bowlers playing in the match, initialized to empty. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Class Responsible for opening and preprocessing a single file This class is will open an instance of a single C\+SV file of a match, preprocess it and create/append to C\+SV files for players playing/contributing in the match. 
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classaccess_1_1Read_a9fbc3733d085156a8ee1ac59327483d1}\label{classaccess_1_1Read_a9fbc3733d085156a8ee1ac59327483d1}} 
+\index{access\+::\+Read@{access\+::\+Read}!gen\+\_\+csv@{gen\+\_\+csv}}
+\index{gen\+\_\+csv@{gen\+\_\+csv}!access\+::\+Read@{access\+::\+Read}}
+\subsubsection{\texorpdfstring{gen\+\_\+csv()}{gen\_csv()}}
+{\footnotesize\ttfamily def access.\+Read.\+gen\+\_\+csv (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+
+
+Function associated with preprocessing the tables and generating a C\+SV for each player playing in the match if no C\+SV is already generated, or appending to the C\+SV if the C\+SV is already generated. 
+
+\mbox{\Hypertarget{classaccess_1_1Read_aeaf32257315cd5e6b99ce4bfef2d0bdb}\label{classaccess_1_1Read_aeaf32257315cd5e6b99ce4bfef2d0bdb}} 
+\index{access\+::\+Read@{access\+::\+Read}!read\+\_\+file@{read\+\_\+file}}
+\index{read\+\_\+file@{read\+\_\+file}!access\+::\+Read@{access\+::\+Read}}
+\subsubsection{\texorpdfstring{read\+\_\+file()}{read\_file()}}
+{\footnotesize\ttfamily def access.\+Read.\+read\+\_\+file (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+
+
+Member function to initialize a few variables related to the match, like team names, venue of the match, etc. 
+
+Function also reads the C\+SV file and stores it into two tables in the memory, player\+\_\+details, and match\+\_\+details. 
+
+\subsection{Member Data Documentation}
+\mbox{\Hypertarget{classaccess_1_1Read_a5a7dbfc250ef34435c08e175135c7c90}\label{classaccess_1_1Read_a5a7dbfc250ef34435c08e175135c7c90}} 
+\index{access\+::\+Read@{access\+::\+Read}!data@{data}}
+\index{data@{data}!access\+::\+Read@{access\+::\+Read}}
+\subsubsection{\texorpdfstring{data}{data}}
+{\footnotesize\ttfamily access.\+Read.\+data}
+
+
+
+Contains data of the match in Y\+A\+ML format, to get extra information of the match wrt the players who have caught/run out batsmen. 
+
+\mbox{\Hypertarget{classaccess_1_1Read_afc80365a54bec281993b7a257080b029}\label{classaccess_1_1Read_afc80365a54bec281993b7a257080b029}} 
+\index{access\+::\+Read@{access\+::\+Read}!filename@{filename}}
+\index{filename@{filename}!access\+::\+Read@{access\+::\+Read}}
+\subsubsection{\texorpdfstring{filename}{filename}}
+{\footnotesize\ttfamily access.\+Read.\+filename}
+
+
+
+Filename of the C\+SV file of the match. 
+
+\mbox{\Hypertarget{classaccess_1_1Read_afb6b007e7b4888e71b0aedc00e92708d}\label{classaccess_1_1Read_afb6b007e7b4888e71b0aedc00e92708d}} 
+\index{access\+::\+Read@{access\+::\+Read}!match\+\_\+details@{match\+\_\+details}}
+\index{match\+\_\+details@{match\+\_\+details}!access\+::\+Read@{access\+::\+Read}}
+\subsubsection{\texorpdfstring{match\+\_\+details}{match\_details}}
+{\footnotesize\ttfamily access.\+Read.\+match\+\_\+details}
+
+
+
+Matrix containing match details of the match. 
+
+\mbox{\Hypertarget{classaccess_1_1Read_a4682ffb3f43ec732d63d89d8ee78cc1a}\label{classaccess_1_1Read_a4682ffb3f43ec732d63d89d8ee78cc1a}} 
+\index{access\+::\+Read@{access\+::\+Read}!player\+\_\+details@{player\+\_\+details}}
+\index{player\+\_\+details@{player\+\_\+details}!access\+::\+Read@{access\+::\+Read}}
+\subsubsection{\texorpdfstring{player\+\_\+details}{player\_details}}
+{\footnotesize\ttfamily access.\+Read.\+player\+\_\+details}
+
+
+
+Matrix containing per ball data of the match. 
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+access.\+py\end{DoxyCompactItemize}
