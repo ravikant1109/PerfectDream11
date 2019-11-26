@@ -1,16 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,15
-AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,15
-AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,15
-AftabAhmed,Bangladesh,West Indies,62,52,8,1,119.23076923076923,0,0,0,0,0,0,New Wanderers Stadium,80
-AftabAhmed,Bangladesh,Kenya,17,6,2,1,283.33333333333337,0,0,0,0,0,0,Gymkhana Club Ground,21
-AftabAhmed,Bangladesh,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,National Stadium,1
-AftabAhmed,Bangladesh,Australia,31,35,2,0,88.57142857142857,0,0,0,0,0,0,Newlands,33
-AftabAhmed,Bangladesh,Pakistan,15,17,0,0,88.23529411764706,0,0,0,0,0,0,Newlands,15
-AftabAhmed,Bangladesh,Australia,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,-5
-AftabAhmed,Bangladesh,Pakistan,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Gymkhana Club Ground,6
-AftabAhmed,Bangladesh,Sri Lanka,18,11,3,0,163.63636363636365,0,0,0,0,0,0,New Wanderers Stadium,21
-AftabAhmed,Bangladesh,South Africa,36,14,5,2,257.14285714285717,0,0,0,0,0,0,Newlands,45
-AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,15
-AftabAhmed,Bangladesh,West Indies,62,52,8,1,119.23076923076923,0,0,0,0,0,0,New Wanderers Stadium,80
-AftabAhmed,Bangladesh,Kenya,17,6,2,1,283.33333333333337,0,0,0,0,0,0,Gymkhana Club Ground,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AftabAhmed,Bangladesh,West Indies,62,52,8,1,119.23076923076923,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,80
+AftabAhmed,Bangladesh,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,National Stadium,0,0,2008,1
+AftabAhmed,Bangladesh,South Africa,36,14,5,2,257.14285714285717,0,0,0,0,0,0,Newlands,0,0,2007,45
+AftabAhmed,Bangladesh,Sri Lanka,18,11,3,0,163.63636363636365,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,21
+AftabAhmed,Bangladesh,Pakistan,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Gymkhana Club Ground,0,1,2007,14
+AftabAhmed,Bangladesh,Australia,31,35,2,0,88.57142857142857,0,0,0,0,0,0,Newlands,0,0,2007,33
+AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,0,0,2010,15
+AftabAhmed,Bangladesh,Kenya,17,6,2,1,283.33333333333337,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,21
+AftabAhmed,Bangladesh,Pakistan,15,17,0,0,88.23529411764706,0,0,0,0,0,0,Newlands,0,1,2007,23
+AftabAhmed,Bangladesh,Australia,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2010,11

@@ -1,176 +1,96 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ShahidAfridi,Pakistan,Netherlands,13,7,0,1,185.71428571428572,25,4,11,4,0,2.75,Lord's,129
-ShahidAfridi,Pakistan,England,0,2,0,0,0.0,23,3,34,0,0,11.333333333333334,Dubai International Cricket Stadium,-14
-ShahidAfridi,Pakistan,New Zealand,6,5,1,0,120.0,25,4,25,1,0,6.25,Newlands,32
-ShahidAfridi,Pakistan,South Africa,3,3,0,0,100.0,23,3,14,1,0,4.666666666666667,Sheikh Zayed Stadium,32
-ShahidAfridi,Pakistan,Zimbabwe,23,16,1,1,143.75,23,3,25,3,0,8.333333333333334,Harare Sports Club,101
-ShahidAfridi,Pakistan,Sri Lanka,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,-2
-ShahidAfridi,Pakistan,India,0,2,0,0,0.0,23,3,31,0,0,10.333333333333334,New Wanderers Stadium,-12
-ShahidAfridi,Pakistan,India,3,2,0,0,150.0,17,2,26,1,0,13.0,M Chinnaswamy Stadium,22
-ShahidAfridi,Pakistan,New Zealand,28,11,1,3,254.54545454545453,27,4,33,2,0,8.25,Dubai International Cricket Stadium,85
-ShahidAfridi,Pakistan,New Zealand,0,0,0,0,0,23,3,27,1,0,9.0,Dubai International Cricket Stadium,25
-ShahidAfridi,Pakistan,West Indies,18,12,0,2,150.0,23,3,23,1,0,7.666666666666667,Shere Bangla National Stadium,47
-ShahidAfridi,Pakistan,South Africa,0,1,0,0,0.0,24,4,27,0,0,6.75,R Premadasa Stadium,-8
-ShahidAfridi,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,17,2,23,0,0,11.5,Harare Sports Club,-6
-ShahidAfridi,Pakistan,India,7,9,0,0,77.77777777777779,23,3,37,2,0,12.333333333333334,Kingsmead,51
-ShahidAfridi,Pakistan,New Zealand,20,13,1,2,153.84615384615387,17,2,19,0,0,9.5,Eden Park,23
-ShahidAfridi,Pakistan,Australia,18,13,2,1,138.46153846153845,23,3,31,2,0,10.333333333333334,Edgbaston,68
-ShahidAfridi,Pakistan,England,28,12,5,1,233.33333333333334,25,4,29,0,0,7.25,County Ground,35
-ShahidAfridi,Pakistan,New Zealand,8,10,0,1,80.0,23,3,27,1,0,9.0,Westpac Stadium,35
-ShahidAfridi,Pakistan,England,29,23,0,3,126.08695652173914,29,4,23,2,0,5.75,Sharjah Cricket Stadium,87
-ShahidAfridi,Pakistan,Sri Lanka,1,2,0,0,50.0,11,1,10,0,0,10.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,-3
-ShahidAfridi,Pakistan,New Zealand,7,3,0,1,233.33333333333334,23,3,38,0,0,12.666666666666666,Seddon Park,3
-ShahidAfridi,Pakistan,South Africa,14,10,0,1,140.0,24,4,43,0,0,10.75,Dubai International Cricket Stadium,12
-ShahidAfridi,Pakistan,Netherlands,13,7,0,1,185.71428571428572,25,4,11,4,0,2.75,Lord's,129
-ShahidAfridi,Pakistan,England,0,2,0,0,0.0,23,3,34,0,0,11.333333333333334,Dubai International Cricket Stadium,-14
-ShahidAfridi,Pakistan,New Zealand,6,5,1,0,120.0,25,4,25,1,0,6.25,Newlands,32
-ShahidAfridi,Pakistan,South Africa,3,3,0,0,100.0,23,3,14,1,0,4.666666666666667,Sheikh Zayed Stadium,32
-ShahidAfridi,Pakistan,Netherlands,13,7,0,1,185.71428571428572,25,4,11,4,0,2.75,Lord's,129
-ShahidAfridi,Pakistan,England,0,2,0,0,0.0,23,3,34,0,0,11.333333333333334,Dubai International Cricket Stadium,-14
-ShahidAfridi,Pakistan,New Zealand,6,5,1,0,120.0,25,4,25,1,0,6.25,Newlands,32
-ShahidAfridi,Pakistan,South Africa,3,3,0,0,100.0,23,3,14,1,0,4.666666666666667,Sheikh Zayed Stadium,32
-ShahidAfridi,Pakistan,Zimbabwe,23,16,1,1,143.75,23,3,25,3,0,8.333333333333334,Harare Sports Club,101
-ShahidAfridi,Pakistan,Sri Lanka,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,-2
-ShahidAfridi,Pakistan,India,0,2,0,0,0.0,23,3,31,0,0,10.333333333333334,New Wanderers Stadium,-12
-ShahidAfridi,Pakistan,India,3,2,0,0,150.0,17,2,26,1,0,13.0,M Chinnaswamy Stadium,22
-ShahidAfridi,Pakistan,New Zealand,28,11,1,3,254.54545454545453,27,4,33,2,0,8.25,Dubai International Cricket Stadium,85
-ShahidAfridi,Pakistan,New Zealand,0,0,0,0,0,23,3,27,1,0,9.0,Dubai International Cricket Stadium,25
-ShahidAfridi,Pakistan,West Indies,18,12,0,2,150.0,23,3,23,1,0,7.666666666666667,Shere Bangla National Stadium,47
-ShahidAfridi,Pakistan,South Africa,0,1,0,0,0.0,24,4,27,0,0,6.75,R Premadasa Stadium,-8
-ShahidAfridi,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,17,2,23,0,0,11.5,Harare Sports Club,-6
-ShahidAfridi,Pakistan,India,7,9,0,0,77.77777777777779,23,3,37,2,0,12.333333333333334,Kingsmead,51
-ShahidAfridi,Pakistan,New Zealand,20,13,1,2,153.84615384615387,17,2,19,0,0,9.5,Eden Park,23
-ShahidAfridi,Pakistan,Australia,18,13,2,1,138.46153846153845,23,3,31,2,0,10.333333333333334,Edgbaston,68
-ShahidAfridi,Pakistan,England,28,12,5,1,233.33333333333334,25,4,29,0,0,7.25,County Ground,35
-ShahidAfridi,Pakistan,New Zealand,8,10,0,1,80.0,23,3,27,1,0,9.0,Westpac Stadium,35
-ShahidAfridi,Pakistan,England,29,23,0,3,126.08695652173914,29,4,23,2,0,5.75,Sharjah Cricket Stadium,87
-ShahidAfridi,Pakistan,Sri Lanka,1,2,0,0,50.0,11,1,10,0,0,10.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,-3
-ShahidAfridi,Pakistan,New Zealand,7,3,0,1,233.33333333333334,23,3,38,0,0,12.666666666666666,Seddon Park,3
-ShahidAfridi,Pakistan,South Africa,14,10,0,1,140.0,24,4,43,0,0,10.75,Dubai International Cricket Stadium,12
-ShahidAfridi,Pakistan,Netherlands,13,7,0,1,185.71428571428572,25,4,11,4,0,2.75,Lord's,129
-ShahidAfridi,Pakistan,England,0,2,0,0,0.0,23,3,34,0,0,11.333333333333334,Dubai International Cricket Stadium,-14
-ShahidAfridi,Pakistan,Netherlands,13,7,0,1,185.71428571428572,25,4,11,4,0,2.75,Lord's,129
-ShahidAfridi,Pakistan,England,0,2,0,0,0.0,23,3,34,0,0,11.333333333333334,Dubai International Cricket Stadium,-14
-ShahidAfridi,Pakistan,New Zealand,6,5,1,0,120.0,25,4,25,1,0,6.25,Newlands,32
-ShahidAfridi,Pakistan,South Africa,3,3,0,0,100.0,23,3,14,1,0,4.666666666666667,Sheikh Zayed Stadium,32
-ShahidAfridi,Pakistan,Zimbabwe,23,16,1,1,143.75,23,3,25,3,0,8.333333333333334,Harare Sports Club,101
-ShahidAfridi,Pakistan,Sri Lanka,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,-2
-ShahidAfridi,Pakistan,India,0,2,0,0,0.0,23,3,31,0,0,10.333333333333334,New Wanderers Stadium,-12
-ShahidAfridi,Pakistan,India,3,2,0,0,150.0,17,2,26,1,0,13.0,M Chinnaswamy Stadium,22
-ShahidAfridi,Pakistan,New Zealand,28,11,1,3,254.54545454545453,27,4,33,2,0,8.25,Dubai International Cricket Stadium,85
-ShahidAfridi,Pakistan,New Zealand,0,0,0,0,0,23,3,27,1,0,9.0,Dubai International Cricket Stadium,25
-ShahidAfridi,Pakistan,West Indies,18,12,0,2,150.0,23,3,23,1,0,7.666666666666667,Shere Bangla National Stadium,47
-ShahidAfridi,Pakistan,South Africa,0,1,0,0,0.0,24,4,27,0,0,6.75,R Premadasa Stadium,-8
-ShahidAfridi,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,17,2,23,0,0,11.5,Harare Sports Club,-6
-ShahidAfridi,Pakistan,India,7,9,0,0,77.77777777777779,23,3,37,2,0,12.333333333333334,Kingsmead,51
-ShahidAfridi,Pakistan,New Zealand,20,13,1,2,153.84615384615387,17,2,19,0,0,9.5,Eden Park,23
-ShahidAfridi,Pakistan,Australia,18,13,2,1,138.46153846153845,23,3,31,2,0,10.333333333333334,Edgbaston,68
-ShahidAfridi,Pakistan,England,28,12,5,1,233.33333333333334,25,4,29,0,0,7.25,County Ground,35
-ShahidAfridi,Pakistan,New Zealand,8,10,0,1,80.0,23,3,27,1,0,9.0,Westpac Stadium,35
-ShahidAfridi,Pakistan,England,29,23,0,3,126.08695652173914,29,4,23,2,0,5.75,Sharjah Cricket Stadium,87
-ShahidAfridi,Pakistan,Sri Lanka,1,2,0,0,50.0,11,1,10,0,0,10.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,-3
-ShahidAfridi,Pakistan,New Zealand,7,3,0,1,233.33333333333334,23,3,38,0,0,12.666666666666666,Seddon Park,3
-ShahidAfridi,Pakistan,South Africa,14,10,0,1,140.0,24,4,43,0,0,10.75,Dubai International Cricket Stadium,12
-ShahidAfridi,Pakistan,Scotland,22,7,1,1,314.2857142857143,25,4,25,4,0,6.25,Kingsmead,133
-ShahidAfridi,Pakistan,South Africa,25,7,1,2,357.14285714285717,11,1,23,0,0,23.0,Sheikh Zayed Stadium,30
-ShahidAfridi,Pakistan,Bangladesh,8,7,0,1,114.28571428571428,23,3,19,1,0,6.333333333333333,Shere Bangla National Stadium,35
-ShahidAfridi,Pakistan,South Africa,30,18,4,1,166.66666666666669,23,3,22,0,0,7.333333333333333,Beausejour Stadium Gros Islet,36
-ShahidAfridi,Pakistan,Bangladesh,0,2,0,0,0.0,23,3,22,1,0,7.333333333333333,Shere Bangla National Stadium,17
-ShahidAfridi,Pakistan,Sri Lanka,0,1,0,0,0.0,25,4,23,2,0,5.75,Lord's,44
-ShahidAfridi,Pakistan,India,2,2,0,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,2
-ShahidAfridi,Pakistan,South Africa,0,0,0,0,0,23,3,14,1,0,4.666666666666667,New Wanderers Stadium,29
-ShahidAfridi,Pakistan,Sri Lanka,54,40,2,2,135.0,23,3,21,1,0,7.0,Lord's,93
-ShahidAfridi,Pakistan,South Africa,10,13,1,0,76.92307692307693,14,2,17,0,0,8.5,Dubai International Cricket Stadium,11
-ShahidAfridi,Pakistan,Australia,0,1,0,0,0.0,25,4,26,1,0,6.5,Edgbaston,17
-ShahidAfridi,Pakistan,Australia,20,11,2,1,181.8181818181818,23,3,32,2,0,10.666666666666666,Shere Bangla National Stadium,70
-ShahidAfridi,Pakistan,England,0,1,0,0,0.0,23,3,28,1,0,9.333333333333334,Kensington Oval Bridgetown,15
-ShahidAfridi,Pakistan,India,11,5,0,1,220.00000000000003,17,2,33,0,0,16.5,Sardar Patel Stadium Motera,7
-ShahidAfridi,Pakistan,Australia,8,10,0,0,80.0,23,3,35,1,0,11.666666666666666,Beausejour Stadium Gros Islet,27
-ShahidAfridi,Pakistan,Bangladesh,10,8,1,0,125.0,23,3,20,1,0,6.666666666666667,National Stadium,36
-ShahidAfridi,Pakistan,Sri Lanka,8,4,0,1,200.0,23,3,32,0,0,10.666666666666666,R Premadasa Stadium,6
-ShahidAfridi,Pakistan,Sri Lanka,0,1,0,0,0.0,23,3,29,1,0,9.666666666666666,R Premadasa Stadium,15
-ShahidAfridi,Pakistan,Australia,2,4,0,0,50.0,24,4,17,1,0,4.25,Dubai International Cricket Stadium,27
-ShahidAfridi,Pakistan,Australia,33,24,3,1,137.5,23,3,33,0,0,11.0,Beausejour Stadium Gros Islet,34
-ShahidAfridi,Pakistan,Sri Lanka,45,22,1,4,204.54545454545453,23,3,30,1,0,10.0,R Premadasa Stadium,77
-ShahidAfridi,Pakistan,Bangladesh,39,15,5,2,260.0,23,3,25,1,0,8.333333333333334,Newlands,73
-ShahidAfridi,Pakistan,Australia,14,7,0,2,200.0,23,3,27,0,0,9.0,Punjab Cricket Association IS Bindra Stadium Mohali,18
-ShahidAfridi,Pakistan,Afghanistan,1,4,0,0,25.0,11,1,24,1,0,24.0,Sharjah Cricket Stadium,20
-ShahidAfridi,Pakistan,England,2,4,0,0,50.0,17,2,19,1,0,9.5,Sophia Gardens,21
-ShahidAfridi,Pakistan,Sri Lanka,22,18,0,2,122.22222222222223,24,4,22,0,0,5.5,Sheikh Zayed Stadium,28
-ShahidAfridi,Pakistan,Bangladesh,12,10,0,1,120.0,17,2,25,0,0,12.5,Shere Bangla National Stadium,8
-ShahidAfridi,Pakistan,New Zealand,7,4,0,1,175.0,23,3,22,1,0,7.333333333333333,Seddon Park,34
-ShahidAfridi,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,23,3,26,0,0,8.666666666666666,Harare Sports Club,0
-ShahidAfridi,Pakistan,India,8,10,1,0,80.0,19,3,24,0,0,8.0,Shere Bangla National Stadium,9
-ShahidAfridi,Pakistan,New Zealand,14,10,1,1,140.0,16,2,14,4,0,7.0,AMI Stadium,125
-ShahidAfridi,Pakistan,Bangladesh,49,19,4,4,257.89473684210526,23,3,27,2,0,9.0,Eden Gardens,111
-ShahidAfridi,Pakistan,New Zealand,19,10,2,1,190.0,24,4,40,2,0,10.0,Punjab Cricket Association IS Bindra Stadium Mohali,71
-ShahidAfridi,Pakistan,West Indies,6,11,0,0,54.54545454545454,17,2,29,1,0,14.5,Arnos Vale Ground Kingstown,21
-ShahidAfridi,Pakistan,Zimbabwe,0,0,0,0,0,17,2,24,0,0,12.0,Harare Sports Club,-6
-ShahidAfridi,Pakistan,South Africa,19,13,3,0,146.15384615384613,0,0,0,0,0,0,SuperSport Park,22
-ShahidAfridi,Pakistan,Australia,0,0,0,0,0,23,3,36,1,0,12.0,New Wanderers Stadium,19
-ShahidAfridi,Pakistan,United Arab Emirates,0,0,0,0,0,25,4,24,1,0,6.0,Shere Bangla National Stadium,25
-ShahidAfridi,Pakistan,England,7,7,1,0,100.0,23,3,28,1,0,9.333333333333334,Dubai International Cricket Stadium,31
-ShahidAfridi,Pakistan,India,14,13,1,0,107.6923076923077,23,3,34,1,0,11.333333333333334,R Premadasa Stadium,34
-ShahidAfridi,Pakistan,New Zealand,11,9,1,0,122.22222222222223,24,4,30,2,0,7.5,Kensington Oval Bridgetown,62
-ShahidAfridi,Pakistan,England,8,9,1,0,88.88888888888889,23,3,27,0,0,9.0,Dubai International Cricket Stadium,9
-ShahidAfridi,Pakistan,Sri Lanka,17,9,2,0,188.88888888888889,24,4,19,3,0,4.75,New Wanderers Stadium,98
-ShahidAfridi,Pakistan,New Zealand,24,17,2,1,141.1764705882353,20,3,22,2,0,7.333333333333333,Dubai International Cricket Stadium,78
-ShahidAfridi,Pakistan,India,8,14,1,0,57.14285714285714,25,4,25,0,0,6.25,Eden Gardens,5
-ShahidAfridi,Pakistan,England,3,2,0,0,150.0,23,3,19,0,0,6.333333333333333,Sheikh Zayed Stadium,3
-ShahidAfridi,Pakistan,Bangladesh,0,0,0,0,0,25,4,20,1,0,5.0,Pallekele International Cricket Stadium,27
-ShahidAfridi,Pakistan,Sri Lanka,39,20,2,3,195.0,24,4,20,1,0,5.0,Dubai International Cricket Stadium,74
-ShahidAfridi,Pakistan,Australia,0,0,0,0,0,23,3,14,3,1,4.666666666666667,Dubai International Cricket Stadium,87
-ShahidAfridi,Pakistan,England,24,10,0,3,240.0,23,3,15,3,0,5.0,Dubai International Cricket Stadium,107
-ShahidAfridi,Pakistan,Bangladesh,22,9,1,2,244.44444444444446,23,3,21,1,0,7.0,Shere Bangla National Stadium,52
-ShahidAfridi,Pakistan,New Zealand,29,18,2,0,161.11111111111111,24,4,18,1,0,4.5,Kennington Oval,60
-ShahidAfridi,Pakistan,Australia,4,2,0,0,200.0,23,3,33,0,0,11.0,R Premadasa Stadium,0
-ShahidAfridi,Pakistan,West Indies,12,10,1,0,120.0,17,2,30,0,0,15.0,Beausejour Stadium Gros Islet,7
-ShahidAfridi,Pakistan,Zimbabwe,7,3,0,1,233.33333333333334,23,3,36,1,0,12.0,Gaddafi Stadium,28
-ShahidAfridi,Pakistan,New Zealand,22,19,1,1,115.78947368421053,17,2,22,1,0,11.0,Dubai International Cricket Stadium,46
-ShahidAfridi,Pakistan,South Africa,13,16,2,0,81.25,23,3,29,3,0,9.666666666666666,Newlands,88
-ShahidAfridi,Pakistan,Bangladesh,32,19,0,3,168.42105263157893,23,3,27,2,0,9.0,Gymkhana Club Ground,88
-ShahidAfridi,Pakistan,Ireland,24,13,3,0,184.6153846153846,24,4,27,1,0,6.75,Kennington Oval,52
-ShahidAfridi,Pakistan,Sri Lanka,28,15,2,2,186.66666666666666,11,1,25,0,0,25.0,Dubai International Cricket Stadium,34
-ShahidAfridi,Pakistan,Bangladesh,9,9,0,0,100.0,23,3,37,0,0,12.333333333333334,Beausejour Stadium Gros Islet,3
-ShahidAfridi,Pakistan,West Indies,46,30,4,1,153.33333333333334,23,3,26,0,0,8.666666666666666,Arnos Vale Ground Kingstown,52
-ShahidAfridi,Pakistan,Sri Lanka,52,33,5,1,157.57575757575756,23,3,17,2,0,5.666666666666667,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,119
-ShahidAfridi,Pakistan,New Zealand,12,7,1,0,171.42857142857142,25,4,30,1,0,7.5,Pallekele International Cricket Stadium,38
-ShahidAfridi,Pakistan,Sri Lanka,14,14,1,0,100.0,23,3,15,1,0,5.0,Maple Leaf North-West Ground,42
-ShahidAfridi,Pakistan,England,5,12,0,0,41.66666666666667,23,3,36,0,0,12.0,Kennington Oval,-7
-ShahidAfridi,Pakistan,Zimbabwe,4,1,0,0,400.0,17,2,28,0,0,14.0,Gaddafi Stadium,-2
-ShahidAfridi,Pakistan,England,16,14,1,0,114.28571428571428,23,3,27,2,0,9.0,Sophia Gardens,67
-ShahidAfridi,Pakistan,New Zealand,23,9,2,2,255.55555555555554,24,4,27,2,1,6.75,Eden Park,87
-ShahidAfridi,Pakistan,England,25,23,2,1,108.69565217391303,17,2,29,1,0,14.5,Dubai International Cricket Stadium,48
-ShahidAfridi,Pakistan,Sri Lanka,50,38,4,2,131.57894736842107,25,4,22,1,0,5.5,R Premadasa Stadium,93
-ShahidAfridi,Pakistan,Sri Lanka,1,2,0,0,50.0,23,3,22,1,0,7.333333333333333,Maple Leaf North-West Ground,22
-ShahidAfridi,Pakistan,South Africa,51,37,8,0,137.83783783783784,23,3,16,2,0,5.333333333333333,Trent Bridge,119
-ShahidAfridi,Pakistan,Netherlands,13,7,0,1,185.71428571428572,25,4,11,4,0,2.75,Lord's,129
-ShahidAfridi,Pakistan,England,0,2,0,0,0.0,23,3,34,0,0,11.333333333333334,Dubai International Cricket Stadium,-14
-ShahidAfridi,Pakistan,New Zealand,6,5,1,0,120.0,25,4,25,1,0,6.25,Newlands,32
-ShahidAfridi,Pakistan,South Africa,3,3,0,0,100.0,23,3,14,1,0,4.666666666666667,Sheikh Zayed Stadium,32
-ShahidAfridi,Pakistan,Zimbabwe,23,16,1,1,143.75,23,3,25,3,0,8.333333333333334,Harare Sports Club,101
-ShahidAfridi,Pakistan,Sri Lanka,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,-2
-ShahidAfridi,Pakistan,India,0,2,0,0,0.0,23,3,31,0,0,10.333333333333334,New Wanderers Stadium,-12
-ShahidAfridi,Pakistan,India,3,2,0,0,150.0,17,2,26,1,0,13.0,M Chinnaswamy Stadium,22
-ShahidAfridi,Pakistan,New Zealand,28,11,1,3,254.54545454545453,27,4,33,2,0,8.25,Dubai International Cricket Stadium,85
-ShahidAfridi,Pakistan,New Zealand,0,0,0,0,0,23,3,27,1,0,9.0,Dubai International Cricket Stadium,25
-ShahidAfridi,Pakistan,West Indies,18,12,0,2,150.0,23,3,23,1,0,7.666666666666667,Shere Bangla National Stadium,47
-ShahidAfridi,Pakistan,South Africa,0,1,0,0,0.0,24,4,27,0,0,6.75,R Premadasa Stadium,-8
-ShahidAfridi,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,17,2,23,0,0,11.5,Harare Sports Club,-6
-ShahidAfridi,Pakistan,India,7,9,0,0,77.77777777777779,23,3,37,2,0,12.333333333333334,Kingsmead,51
-ShahidAfridi,Pakistan,New Zealand,20,13,1,2,153.84615384615387,17,2,19,0,0,9.5,Eden Park,23
-ShahidAfridi,Pakistan,Australia,18,13,2,1,138.46153846153845,23,3,31,2,0,10.333333333333334,Edgbaston,68
-ShahidAfridi,Pakistan,England,28,12,5,1,233.33333333333334,25,4,29,0,0,7.25,County Ground,35
-ShahidAfridi,Pakistan,New Zealand,8,10,0,1,80.0,23,3,27,1,0,9.0,Westpac Stadium,35
-ShahidAfridi,Pakistan,England,29,23,0,3,126.08695652173914,29,4,23,2,0,5.75,Sharjah Cricket Stadium,87
-ShahidAfridi,Pakistan,Sri Lanka,1,2,0,0,50.0,11,1,10,0,0,10.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,-3
-ShahidAfridi,Pakistan,New Zealand,7,3,0,1,233.33333333333334,23,3,38,0,0,12.666666666666666,Seddon Park,3
-ShahidAfridi,Pakistan,South Africa,14,10,0,1,140.0,24,4,43,0,0,10.75,Dubai International Cricket Stadium,12
-ShahidAfridi,Pakistan,Scotland,22,7,1,1,314.2857142857143,25,4,25,4,0,6.25,Kingsmead,133
-ShahidAfridi,Pakistan,South Africa,25,7,1,2,357.14285714285717,11,1,23,0,0,23.0,Sheikh Zayed Stadium,30
-ShahidAfridi,Pakistan,Bangladesh,8,7,0,1,114.28571428571428,23,3,19,1,0,6.333333333333333,Shere Bangla National Stadium,35
-ShahidAfridi,Pakistan,South Africa,30,18,4,1,166.66666666666669,23,3,22,0,0,7.333333333333333,Beausejour Stadium Gros Islet,36
-ShahidAfridi,Pakistan,Bangladesh,0,2,0,0,0.0,23,3,22,1,0,7.333333333333333,Shere Bangla National Stadium,17
-ShahidAfridi,Pakistan,Sri Lanka,0,1,0,0,0.0,25,4,23,2,0,5.75,Lord's,44
-ShahidAfridi,Pakistan,India,2,2,0,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,2
-ShahidAfridi,Pakistan,South Africa,0,0,0,0,0,23,3,14,1,0,4.666666666666667,New Wanderers Stadium,29
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ShahidAfridi,Pakistan,Bangladesh,10,8,1,0,125.0,23,3,20,1,0,6.666666666666667,National Stadium,0,0,2008,36
+ShahidAfridi,Pakistan,India,3,2,0,0,150.0,17,2,26,1,0,13.0,M Chinnaswamy Stadium,0,0,2012,22
+ShahidAfridi,Pakistan,New Zealand,19,10,2,1,190.0,24,4,40,2,0,10.0,Punjab Cricket Association IS Bindra Stadium Mohali,0,1,2016,79
+ShahidAfridi,Pakistan,England,24,10,0,3,240.0,23,3,15,3,0,5.0,Dubai International Cricket Stadium,0,1,2015,115
+ShahidAfridi,Pakistan,Sri Lanka,0,1,0,0,0.0,23,3,29,1,0,9.666666666666666,R Premadasa Stadium,0,0,2012,15
+ShahidAfridi,Pakistan,New Zealand,23,9,2,2,255.55555555555554,24,4,27,2,1,6.75,Eden Park,1,3,2016,123
+ShahidAfridi,Pakistan,Australia,4,2,0,0,200.0,23,3,33,0,0,11.0,R Premadasa Stadium,0,0,2012,0
+ShahidAfridi,Pakistan,Bangladesh,0,2,0,0,0.0,23,3,22,1,0,7.333333333333333,Shere Bangla National Stadium,0,0,2016,17
+ShahidAfridi,Pakistan,Australia,8,10,0,0,80.0,23,3,35,1,0,11.666666666666666,Beausejour Stadium Gros Islet,0,0,2010,27
+ShahidAfridi,Pakistan,South Africa,19,13,3,0,146.15384615384613,0,0,0,0,0,0,SuperSport Park,0,1,2013,30
+ShahidAfridi,Pakistan,Sri Lanka,1,2,0,0,50.0,23,3,22,1,0,7.333333333333333,Maple Leaf North-West Ground,0,0,2008,22
+ShahidAfridi,Pakistan,England,0,1,0,0,0.0,23,3,28,1,0,9.333333333333334,Kensington Oval Bridgetown,0,0,2010,15
+ShahidAfridi,Pakistan,India,14,13,1,0,107.6923076923077,23,3,34,1,0,11.333333333333334,R Premadasa Stadium,0,0,2012,34
+ShahidAfridi,Pakistan,United Arab Emirates,0,0,0,0,0,25,4,24,1,0,6.0,Shere Bangla National Stadium,0,1,2016,33
+ShahidAfridi,Pakistan,South Africa,25,7,1,2,357.14285714285717,11,1,23,0,0,23.0,Sheikh Zayed Stadium,0,0,2010,30
+ShahidAfridi,Pakistan,Sri Lanka,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,0,0,2016,-2
+ShahidAfridi,Pakistan,England,7,7,1,0,100.0,23,3,28,1,0,9.333333333333334,Dubai International Cricket Stadium,0,0,2012,31
+ShahidAfridi,Pakistan,Netherlands,13,7,0,1,185.71428571428572,25,4,11,4,0,2.75,Lord's,0,0,2009,129
+ShahidAfridi,Pakistan,Zimbabwe,0,0,0,0,0,17,2,24,0,0,12.0,Harare Sports Club,0,1,2013,2
+ShahidAfridi,Pakistan,Australia,20,11,2,1,181.8181818181818,23,3,32,2,0,10.666666666666666,Shere Bangla National Stadium,0,0,2014,70
+ShahidAfridi,Pakistan,South Africa,51,37,8,0,137.83783783783784,23,3,16,2,0,5.333333333333333,Trent Bridge,0,0,2009,119
+ShahidAfridi,Pakistan,New Zealand,20,13,1,2,153.84615384615387,17,2,19,0,0,9.5,Eden Park,0,0,2010,23
+ShahidAfridi,Pakistan,Bangladesh,32,19,0,3,168.42105263157893,23,3,27,2,0,9.0,Gymkhana Club Ground,0,1,2007,96
+ShahidAfridi,Pakistan,England,16,14,1,0,114.28571428571428,23,3,27,2,0,9.0,Sophia Gardens,0,0,2010,67
+ShahidAfridi,Pakistan,Ireland,24,13,3,0,184.6153846153846,24,4,27,1,0,6.75,Kennington Oval,0,0,2009,52
+ShahidAfridi,Pakistan,Bangladesh,49,19,4,4,257.89473684210526,23,3,27,2,0,9.0,Eden Gardens,0,0,2016,111
+ShahidAfridi,Pakistan,Sri Lanka,1,2,0,0,50.0,11,1,10,0,0,10.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,-3
+ShahidAfridi,Pakistan,West Indies,18,12,0,2,150.0,23,3,23,1,0,7.666666666666667,Shere Bangla National Stadium,0,0,2014,47
+ShahidAfridi,Pakistan,New Zealand,28,11,1,3,254.54545454545453,27,4,33,2,0,8.25,Dubai International Cricket Stadium,0,0,2014,85
+ShahidAfridi,Pakistan,Sri Lanka,28,15,2,2,186.66666666666666,11,1,25,0,0,25.0,Dubai International Cricket Stadium,0,0,2013,34
+ShahidAfridi,Pakistan,West Indies,12,10,1,0,120.0,17,2,30,0,0,15.0,Beausejour Stadium Gros Islet,0,0,2011,7
+ShahidAfridi,Pakistan,Sri Lanka,54,40,2,2,135.0,23,3,21,1,0,7.0,Lord's,0,0,2009,93
+ShahidAfridi,Pakistan,England,29,23,0,3,126.08695652173914,29,4,23,2,0,5.75,Sharjah Cricket Stadium,0,0,2015,87
+ShahidAfridi,Pakistan,New Zealand,24,17,2,1,141.1764705882353,20,3,22,2,0,7.333333333333333,Dubai International Cricket Stadium,0,0,2009,78
+ShahidAfridi,Pakistan,New Zealand,0,0,0,0,0,23,3,27,1,0,9.0,Dubai International Cricket Stadium,0,0,2014,25
+ShahidAfridi,Pakistan,South Africa,0,1,0,0,0.0,24,4,27,0,0,6.75,R Premadasa Stadium,0,1,2012,0
+ShahidAfridi,Pakistan,India,2,2,0,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,2
+ShahidAfridi,Pakistan,South Africa,30,18,4,1,166.66666666666669,23,3,22,0,0,7.333333333333333,Beausejour Stadium Gros Islet,0,1,2010,44
+ShahidAfridi,Pakistan,West Indies,6,11,0,0,54.54545454545454,17,2,29,1,0,14.5,Arnos Vale Ground Kingstown,0,2,2013,37
+ShahidAfridi,Pakistan,Australia,0,0,0,0,0,23,3,14,3,1,4.666666666666667,Dubai International Cricket Stadium,0,1,2009,95
+ShahidAfridi,Pakistan,Zimbabwe,7,3,0,1,233.33333333333334,23,3,36,1,0,12.0,Gaddafi Stadium,0,0,2015,28
+ShahidAfridi,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,23,3,26,0,0,8.666666666666666,Harare Sports Club,0,0,2015,0
+ShahidAfridi,Pakistan,India,8,10,1,0,80.0,19,3,24,0,0,8.0,Shere Bangla National Stadium,0,0,2014,9
+ShahidAfridi,Pakistan,Afghanistan,1,4,0,0,25.0,11,1,24,1,0,24.0,Sharjah Cricket Stadium,0,0,2013,20
+ShahidAfridi,Pakistan,South Africa,10,13,1,0,76.92307692307693,14,2,17,0,0,8.5,Dubai International Cricket Stadium,0,0,2013,11
+ShahidAfridi,Pakistan,England,28,12,5,1,233.33333333333334,25,4,29,0,0,7.25,County Ground,0,0,2006,35
+ShahidAfridi,Pakistan,Sri Lanka,8,4,0,1,200.0,23,3,32,0,0,10.666666666666666,R Premadasa Stadium,0,1,2015,14
+ShahidAfridi,Pakistan,England,25,23,2,1,108.69565217391303,17,2,29,1,0,14.5,Dubai International Cricket Stadium,0,0,2012,48
+ShahidAfridi,Pakistan,Australia,0,0,0,0,0,23,3,36,1,0,12.0,New Wanderers Stadium,1,0,2007,31
+ShahidAfridi,Pakistan,Australia,33,24,3,1,137.5,23,3,33,0,0,11.0,Beausejour Stadium Gros Islet,0,0,2010,34
+ShahidAfridi,Pakistan,India,8,14,1,0,57.14285714285714,25,4,25,0,0,6.25,Eden Gardens,0,0,2016,5
+ShahidAfridi,Pakistan,Bangladesh,22,9,1,2,244.44444444444446,23,3,21,1,0,7.0,Shere Bangla National Stadium,0,0,2014,52
+ShahidAfridi,Pakistan,Sri Lanka,0,1,0,0,0.0,25,4,23,2,0,5.75,Lord's,0,1,2009,52
+ShahidAfridi,Pakistan,New Zealand,14,10,1,1,140.0,16,2,14,4,0,7.0,AMI Stadium,1,0,2010,137
+ShahidAfridi,Pakistan,South Africa,3,3,0,0,100.0,23,3,14,1,0,4.666666666666667,Sheikh Zayed Stadium,0,0,2010,32
+ShahidAfridi,Pakistan,England,8,9,1,0,88.88888888888889,23,3,27,0,0,9.0,Dubai International Cricket Stadium,0,1,2010,17
+ShahidAfridi,Pakistan,England,3,2,0,0,150.0,23,3,19,0,0,6.333333333333333,Sheikh Zayed Stadium,0,0,2012,3
+ShahidAfridi,Pakistan,New Zealand,11,9,1,0,122.22222222222223,24,4,30,2,0,7.5,Kensington Oval Bridgetown,0,0,2010,62
+ShahidAfridi,Pakistan,Australia,14,7,0,2,200.0,23,3,27,0,0,9.0,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,18
+ShahidAfridi,Pakistan,Australia,18,13,2,1,138.46153846153845,23,3,31,2,0,10.333333333333334,Edgbaston,0,0,2010,68
+ShahidAfridi,Pakistan,Bangladesh,39,15,5,2,260.0,23,3,25,1,0,8.333333333333334,Newlands,0,0,2007,73
+ShahidAfridi,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,17,2,23,0,0,11.5,Harare Sports Club,0,1,2015,2
+ShahidAfridi,Pakistan,Zimbabwe,4,1,0,0,400.0,17,2,28,0,0,14.0,Gaddafi Stadium,0,0,2015,-2
+ShahidAfridi,Pakistan,Australia,2,4,0,0,50.0,24,4,17,1,0,4.25,Dubai International Cricket Stadium,0,0,2014,27
+ShahidAfridi,Pakistan,Sri Lanka,39,20,2,3,195.0,24,4,20,1,0,5.0,Dubai International Cricket Stadium,0,1,2013,82
+ShahidAfridi,Pakistan,India,7,9,0,0,77.77777777777779,23,3,37,2,0,12.333333333333334,Kingsmead,0,0,2007,51
+ShahidAfridi,Pakistan,England,5,12,0,0,41.66666666666667,23,3,36,0,0,12.0,Kennington Oval,0,1,2009,1
+ShahidAfridi,Pakistan,New Zealand,6,5,1,0,120.0,25,4,25,1,0,6.25,Newlands,1,0,2007,44
+ShahidAfridi,Pakistan,South Africa,13,16,2,0,81.25,23,3,29,3,0,9.666666666666666,Newlands,0,0,2013,88
+ShahidAfridi,Pakistan,New Zealand,7,3,0,1,233.33333333333334,23,3,38,0,0,12.666666666666666,Seddon Park,0,0,2016,3
+ShahidAfridi,Pakistan,England,2,4,0,0,50.0,17,2,19,1,0,9.5,Sophia Gardens,0,0,2010,21
+ShahidAfridi,Pakistan,Sri Lanka,45,22,1,4,204.54545454545453,23,3,30,1,0,10.0,R Premadasa Stadium,0,0,2015,77
+ShahidAfridi,Pakistan,Bangladesh,8,7,0,1,114.28571428571428,23,3,19,1,0,6.333333333333333,Shere Bangla National Stadium,0,1,2011,43
+ShahidAfridi,Pakistan,Bangladesh,12,10,0,1,120.0,17,2,25,0,0,12.5,Shere Bangla National Stadium,0,0,2015,8
+ShahidAfridi,Pakistan,Sri Lanka,52,33,5,1,157.57575757575756,23,3,17,2,0,5.666666666666667,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2012,127
+ShahidAfridi,Pakistan,Sri Lanka,14,14,1,0,100.0,23,3,15,1,0,5.0,Maple Leaf North-West Ground,0,0,2008,42
+ShahidAfridi,Pakistan,Bangladesh,0,0,0,0,0,25,4,20,1,0,5.0,Pallekele International Cricket Stadium,0,0,2012,27
+ShahidAfridi,Pakistan,New Zealand,12,7,1,0,171.42857142857142,25,4,30,1,0,7.5,Pallekele International Cricket Stadium,0,0,2012,38
+ShahidAfridi,Pakistan,Sri Lanka,17,9,2,0,188.88888888888889,24,4,19,3,0,4.75,New Wanderers Stadium,0,1,2007,106
+ShahidAfridi,Pakistan,New Zealand,8,10,0,1,80.0,23,3,27,1,0,9.0,Westpac Stadium,0,0,2016,35
+ShahidAfridi,Pakistan,England,0,2,0,0,0.0,23,3,34,0,0,11.333333333333334,Dubai International Cricket Stadium,0,1,2015,-6
+ShahidAfridi,Pakistan,South Africa,0,0,0,0,0,23,3,14,1,0,4.666666666666667,New Wanderers Stadium,0,0,2013,29
+ShahidAfridi,Pakistan,Sri Lanka,22,18,0,2,122.22222222222223,24,4,22,0,0,5.5,Sheikh Zayed Stadium,0,0,2011,28
+ShahidAfridi,Pakistan,India,11,5,0,1,220.00000000000003,17,2,33,0,0,16.5,Sardar Patel Stadium Motera,0,0,2012,7
+ShahidAfridi,Pakistan,Sri Lanka,50,38,4,2,131.57894736842107,25,4,22,1,0,5.5,R Premadasa Stadium,1,0,2009,105
+ShahidAfridi,Pakistan,South Africa,14,10,0,1,140.0,24,4,43,0,0,10.75,Dubai International Cricket Stadium,0,0,2013,12
+ShahidAfridi,Pakistan,New Zealand,29,18,2,0,161.11111111111111,24,4,18,1,0,4.5,Kennington Oval,0,1,2009,68
+ShahidAfridi,Pakistan,New Zealand,22,19,1,1,115.78947368421053,17,2,22,1,0,11.0,Dubai International Cricket Stadium,0,0,2009,46
+ShahidAfridi,Pakistan,Bangladesh,9,9,0,0,100.0,23,3,37,0,0,12.333333333333334,Beausejour Stadium Gros Islet,0,0,2010,3
+ShahidAfridi,Pakistan,Zimbabwe,23,16,1,1,143.75,23,3,25,3,0,8.333333333333334,Harare Sports Club,0,0,2013,101
+ShahidAfridi,Pakistan,West Indies,46,30,4,1,153.33333333333334,23,3,26,0,0,8.666666666666666,Arnos Vale Ground Kingstown,0,0,2013,52
+ShahidAfridi,Pakistan,Scotland,22,7,1,1,314.2857142857143,25,4,25,4,0,6.25,Kingsmead,0,0,2007,133
+ShahidAfridi,Pakistan,New Zealand,7,4,0,1,175.0,23,3,22,1,0,7.333333333333333,Seddon Park,0,1,2010,42
+ShahidAfridi,Pakistan,India,0,2,0,0,0.0,23,3,31,0,0,10.333333333333334,New Wanderers Stadium,0,1,2007,-4
+ShahidAfridi,Pakistan,Australia,0,1,0,0,0.0,25,4,26,1,0,6.5,Edgbaston,0,2,2010,33

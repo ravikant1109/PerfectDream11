@@ -1,6 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MBvanSchelven,Netherlands,Nepal,0,0,0,0,0,23,3,24,2,0,8.0,VRA Ground,50
-MBvanSchelven,Netherlands,Nepal,0,0,0,0,0,23,3,24,2,0,8.0,VRA Ground,50
-MBvanSchelven,Netherlands,Nepal,0,0,0,0,0,23,3,24,2,0,8.0,VRA Ground,50
-MBvanSchelven,Netherlands,Nepal,0,0,0,0,0,17,2,13,1,0,6.5,Hazelaarweg,25
-MBvanSchelven,Netherlands,Nepal,0,0,0,0,0,23,3,24,2,0,8.0,VRA Ground,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MBvanSchelven,Netherlands,Nepal,0,0,0,0,0,17,2,13,1,0,6.5,Hazelaarweg,0,1,2015,33
+MBvanSchelven,Netherlands,Nepal,0,0,0,0,0,23,3,24,2,0,8.0,VRA Ground,0,0,2015,50

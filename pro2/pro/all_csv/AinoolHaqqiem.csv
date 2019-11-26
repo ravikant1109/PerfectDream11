@@ -1,3 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AinoolHaqqiem,Malaysia,Vanuatu,8,8,1,0,100.0,0,0,0,0,0,0,Kinrara Academy Oval,9
-AinoolHaqqiem,Malaysia,Vanuatu,12,13,0,0,92.3076923076923,0,0,0,0,0,0,Kinrara Academy Oval,12
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AinoolHaqqiem,Malaysia,Vanuatu,8,8,1,0,100.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,9
+AinoolHaqqiem,Malaysia,Vanuatu,12,13,0,0,92.3076923076923,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,12

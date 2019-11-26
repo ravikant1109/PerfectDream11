@@ -1,15 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KhurramNawaz,Oman,Ireland,9,8,0,1,112.5,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),11
-KhurramNawaz,Oman,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,6
-KhurramNawaz,Oman,Ireland,9,8,0,1,112.5,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),11
-KhurramNawaz,Oman,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,6
-KhurramNawaz,Oman,Ireland,9,8,0,1,112.5,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),11
-KhurramNawaz,Oman,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,6
-KhurramNawaz,Oman,Nigeria,5,3,0,0,166.66666666666669,0,0,0,0,0,0,Tolerance Oval,5
-KhurramNawaz,Oman,Scotland,23,28,2,1,82.14285714285714,0,0,0,0,0,0,Dubai International Cricket Stadium,27
-KhurramNawaz,Oman,Jersey,1,2,0,0,50.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-3
-KhurramNawaz,Oman,Netherlands,26,20,1,1,130.0,0,0,0,0,0,0,Sheikh Zayed Stadium,29
-KhurramNawaz,Oman,Ireland,11,14,0,0,78.57142857142857,0,0,0,0,0,0,Tolerance Oval,11
-KhurramNawaz,Oman,Afghanistan,24,19,0,1,126.3157894736842,0,0,0,0,0,0,Dubai International Cricket Stadium,26
-KhurramNawaz,Oman,Ireland,9,8,0,1,112.5,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),11
-KhurramNawaz,Oman,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KhurramNawaz,Oman,Afghanistan,24,19,0,1,126.3157894736842,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2017,26
+KhurramNawaz,Oman,Ireland,9,8,0,1,112.5,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,11
+KhurramNawaz,Oman,Ireland,11,14,0,0,78.57142857142857,0,0,0,0,0,0,Tolerance Oval,0,0,2019,11
+KhurramNawaz,Oman,Jersey,1,2,0,0,50.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,-3
+KhurramNawaz,Oman,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,6
+KhurramNawaz,Oman,Netherlands,26,20,1,1,130.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,29
+KhurramNawaz,Oman,Scotland,23,28,2,1,82.14285714285714,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2017,27
+KhurramNawaz,Oman,Nigeria,5,3,0,0,166.66666666666669,0,0,0,0,0,0,Tolerance Oval,0,1,2019,13

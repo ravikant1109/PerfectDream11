@@ -1,12 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PKMatautaava,Vanuatu,Malaysia,66,31,6,5,212.9032258064516,24,4,43,1,0,10.75,Kinrara Academy Oval,111
-PKMatautaava,Vanuatu,Malaysia,103,52,8,7,198.0769230769231,0,0,0,0,0,0,Kinrara Academy Oval,141
-PKMatautaava,Vanuatu,Malaysia,66,31,6,5,212.9032258064516,24,4,43,1,0,10.75,Kinrara Academy Oval,111
-PKMatautaava,Vanuatu,Malaysia,103,52,8,7,198.0769230769231,0,0,0,0,0,0,Kinrara Academy Oval,141
-PKMatautaava,Vanuatu,Malaysia,66,31,6,5,212.9032258064516,24,4,43,1,0,10.75,Kinrara Academy Oval,111
-PKMatautaava,Vanuatu,Malaysia,103,52,8,7,198.0769230769231,0,0,0,0,0,0,Kinrara Academy Oval,141
-PKMatautaava,Vanuatu,Malaysia,12,11,1,0,109.09090909090908,25,4,34,1,0,8.5,Kinrara Academy Oval,38
-PKMatautaava,Vanuatu,Malaysia,4,8,0,0,50.0,26,4,18,0,1,4.5,Kinrara Academy Oval,12
-PKMatautaava,Vanuatu,Malaysia,12,9,1,1,133.33333333333331,0,0,0,0,0,0,Kinrara Academy Oval,15
-PKMatautaava,Vanuatu,Malaysia,66,31,6,5,212.9032258064516,24,4,43,1,0,10.75,Kinrara Academy Oval,111
-PKMatautaava,Vanuatu,Malaysia,103,52,8,7,198.0769230769231,0,0,0,0,0,0,Kinrara Academy Oval,141
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PKMatautaava,Vanuatu,Malaysia,4,8,0,0,50.0,26,4,18,0,1,4.5,Kinrara Academy Oval,0,3,2019,36
+PKMatautaava,Vanuatu,Malaysia,66,31,6,5,212.9032258064516,24,4,43,1,0,10.75,Kinrara Academy Oval,1,0,2019,123
+PKMatautaava,Vanuatu,Malaysia,12,9,1,1,133.33333333333331,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,15
+PKMatautaava,Vanuatu,Malaysia,12,11,1,0,109.09090909090908,25,4,34,1,0,8.5,Kinrara Academy Oval,2,1,2019,70
+PKMatautaava,Vanuatu,Malaysia,103,52,8,7,198.0769230769231,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,141

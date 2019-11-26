@@ -1,36 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ABalbirnie,Ireland,Jersey,33,27,4,0,122.22222222222223,0,0,0,0,0,0,Tolerance Oval,37
-ABalbirnie,Ireland,Oman,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),22
-ABalbirnie,Ireland,Hong Kong,9,10,2,0,90.0,0,0,0,0,0,0,The Village Malahide,11
-ABalbirnie,Ireland,Nepal,38,28,5,1,135.71428571428572,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),45
-ABalbirnie,Ireland,United Arab Emirates,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,-4
-ABalbirnie,Ireland,Jersey,33,27,4,0,122.22222222222223,0,0,0,0,0,0,Tolerance Oval,37
-ABalbirnie,Ireland,Jersey,33,27,4,0,122.22222222222223,0,0,0,0,0,0,Tolerance Oval,37
-ABalbirnie,Ireland,Oman,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),22
-ABalbirnie,Ireland,Hong Kong,9,10,2,0,90.0,0,0,0,0,0,0,The Village Malahide,11
-ABalbirnie,Ireland,Nepal,38,28,5,1,135.71428571428572,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),45
-ABalbirnie,Ireland,United Arab Emirates,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,-4
-ABalbirnie,Ireland,Jersey,33,27,4,0,122.22222222222223,0,0,0,0,0,0,Tolerance Oval,37
-ABalbirnie,Ireland,Jersey,33,27,4,0,122.22222222222223,0,0,0,0,0,0,Tolerance Oval,37
-ABalbirnie,Ireland,Oman,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),22
-ABalbirnie,Ireland,Hong Kong,9,10,2,0,90.0,0,0,0,0,0,0,The Village Malahide,11
-ABalbirnie,Ireland,Nepal,38,28,5,1,135.71428571428572,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),45
-ABalbirnie,Ireland,United Arab Emirates,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,-4
-ABalbirnie,Ireland,Papua New Guinea,6,11,1,0,54.54545454545454,0,0,0,0,0,0,Civil Service Cricket Club Stormont,3
-ABalbirnie,Ireland,United Arab Emirates,11,13,0,0,84.61538461538461,0,0,0,0,0,0,Sheikh Zayed Stadium,11
-ABalbirnie,Ireland,Papua New Guinea,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Tony Ireland Stadium,-1
-ABalbirnie,Ireland,Hong Kong,70,53,8,0,132.0754716981132,0,0,0,0,0,0,Sheikh Zayed Stadium,86
-ABalbirnie,Ireland,Hong Kong,10,8,0,1,125.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),12
-ABalbirnie,Ireland,Scotland,31,26,3,0,119.23076923076923,0,0,0,0,0,0,Bready Cricket Club Magheramason,34
-ABalbirnie,Ireland,Scotland,64,32,7,3,200.0,0,0,0,0,0,0,The Village Malahide,85
-ABalbirnie,Ireland,Netherlands,31,31,3,0,100.0,0,0,0,0,0,0,The Village Malahide,34
-ABalbirnie,Ireland,Zimbabwe,28,17,4,0,164.70588235294116,0,0,0,0,0,0,Bready Cricket Club Magheramason,32
-ABalbirnie,Ireland,Papua New Guinea,0,1,0,0,0.0,0,0,0,0,0,0,Tony Ireland Stadium,-8
-ABalbirnie,Ireland,Canada,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-ABalbirnie,Ireland,Netherlands,32,20,3,1,160.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),37
-ABalbirnie,Ireland,Jersey,33,27,4,0,122.22222222222223,0,0,0,0,0,0,Tolerance Oval,37
-ABalbirnie,Ireland,Oman,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),22
-ABalbirnie,Ireland,Hong Kong,9,10,2,0,90.0,0,0,0,0,0,0,The Village Malahide,11
-ABalbirnie,Ireland,Nepal,38,28,5,1,135.71428571428572,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),45
-ABalbirnie,Ireland,United Arab Emirates,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,-4
-ABalbirnie,Ireland,Papua New Guinea,6,11,1,0,54.54545454545454,0,0,0,0,0,0,Civil Service Cricket Club Stormont,3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ABalbirnie,Ireland,Hong Kong,70,53,8,0,132.0754716981132,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2019,94
+ABalbirnie,Ireland,Scotland,31,26,3,0,119.23076923076923,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,0,2015,34
+ABalbirnie,Ireland,Canada,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,-8
+ABalbirnie,Ireland,Papua New Guinea,0,1,0,0,0.0,0,0,0,0,0,0,Tony Ireland Stadium,0,1,2016,0
+ABalbirnie,Ireland,Hong Kong,10,8,0,1,125.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,20
+ABalbirnie,Ireland,Oman,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,22
+ABalbirnie,Ireland,Netherlands,31,31,3,0,100.0,0,0,0,0,0,0,The Village Malahide,0,0,2015,34
+ABalbirnie,Ireland,Netherlands,32,20,3,1,160.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,37
+ABalbirnie,Ireland,Hong Kong,9,10,2,0,90.0,0,0,0,0,0,0,The Village Malahide,0,0,2015,11
+ABalbirnie,Ireland,Scotland,64,32,7,3,200.0,0,0,0,0,0,0,The Village Malahide,0,0,2019,85
+ABalbirnie,Ireland,Jersey,33,27,4,0,122.22222222222223,0,0,0,0,0,0,Tolerance Oval,0,1,2019,45
+ABalbirnie,Ireland,United Arab Emirates,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,1,0,2016,8
+ABalbirnie,Ireland,United Arab Emirates,11,13,0,0,84.61538461538461,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,11
+ABalbirnie,Ireland,Zimbabwe,28,17,4,0,164.70588235294116,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,1,2019,40
+ABalbirnie,Ireland,Papua New Guinea,6,11,1,0,54.54545454545454,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2015,11
+ABalbirnie,Ireland,Papua New Guinea,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Tony Ireland Stadium,0,1,2016,7
+ABalbirnie,Ireland,Nepal,38,28,5,1,135.71428571428572,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,45

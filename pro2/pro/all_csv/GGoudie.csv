@@ -1,6 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GGoudie,Scotland,Afghanistan,1,1,0,0,100.0,18,3,29,2,0,9.666666666666666,Sharjah Cricket Stadium,49
-GGoudie,Scotland,Netherlands,0,0,0,0,0,18,3,24,0,0,8.0,ICC Academy,0
-GGoudie,Scotland,Kenya,1,3,0,0,33.33333333333333,17,2,30,1,0,15.0,ICC Academy,14
-GGoudie,Scotland,Netherlands,0,0,0,0,0,11,1,17,0,0,17.0,Sheikh Zayed Stadium,0
-GGoudie,Scotland,Afghanistan,1,1,0,0,100.0,18,3,29,2,0,9.666666666666666,Sharjah Cricket Stadium,49
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GGoudie,Scotland,Kenya,1,3,0,0,33.33333333333333,17,2,30,1,0,15.0,ICC Academy,0,0,2013,14
+GGoudie,Scotland,Netherlands,0,0,0,0,0,18,3,24,0,0,8.0,ICC Academy,0,1,2013,8
+GGoudie,Scotland,Afghanistan,1,1,0,0,100.0,18,3,29,2,0,9.666666666666666,Sharjah Cricket Stadium,0,0,2013,49
+GGoudie,Scotland,Netherlands,0,0,0,0,0,11,1,17,0,0,17.0,Sheikh Zayed Stadium,0,0,2013,0

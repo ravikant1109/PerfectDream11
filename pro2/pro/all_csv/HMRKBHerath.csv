@@ -1,34 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HMRKBHerath,Sri Lanka,Pakistan,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,-2
-HMRKBHerath,Sri Lanka,United Arab Emirates,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Shere Bangla National Stadium,50
-HMRKBHerath,Sri Lanka,West Indies,0,0,0,0,0,11,1,16,0,0,16.0,Pallekele International Cricket Stadium,0
-HMRKBHerath,Sri Lanka,Australia,1,1,0,0,100.0,24,4,31,1,1,7.75,Pallekele International Cricket Stadium,34
-HMRKBHerath,Sri Lanka,India,0,0,0,0,0,19,3,26,1,0,8.666666666666666,Shere Bangla National Stadium,25
-HMRKBHerath,Sri Lanka,Pakistan,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,-2
-HMRKBHerath,Sri Lanka,United Arab Emirates,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Shere Bangla National Stadium,50
-HMRKBHerath,Sri Lanka,West Indies,0,0,0,0,0,11,1,16,0,0,16.0,Pallekele International Cricket Stadium,0
-HMRKBHerath,Sri Lanka,Australia,1,1,0,0,100.0,24,4,31,1,1,7.75,Pallekele International Cricket Stadium,34
-HMRKBHerath,Sri Lanka,India,0,0,0,0,0,19,3,26,1,0,8.666666666666666,Shere Bangla National Stadium,25
-HMRKBHerath,Sri Lanka,Pakistan,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,-2
-HMRKBHerath,Sri Lanka,United Arab Emirates,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Shere Bangla National Stadium,50
-HMRKBHerath,Sri Lanka,West Indies,0,0,0,0,0,11,1,16,0,0,16.0,Pallekele International Cricket Stadium,0
-HMRKBHerath,Sri Lanka,Australia,1,1,0,0,100.0,24,4,31,1,1,7.75,Pallekele International Cricket Stadium,34
-HMRKBHerath,Sri Lanka,India,0,0,0,0,0,19,3,26,1,0,8.666666666666666,Shere Bangla National Stadium,25
-HMRKBHerath,Sri Lanka,South Africa,0,0,0,0,0,11,1,21,1,0,21.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
-HMRKBHerath,Sri Lanka,Afghanistan,0,0,0,0,0,24,4,24,2,0,6.0,Eden Gardens,50
-HMRKBHerath,Sri Lanka,South Africa,2,5,0,0,40.0,23,3,21,0,0,7.0,Feroz Shah Kotla,-4
-HMRKBHerath,Sri Lanka,Pakistan,0,0,0,0,0,23,3,26,3,0,8.666666666666666,R Premadasa Stadium,75
-HMRKBHerath,Sri Lanka,West Indies,3,3,0,0,100.0,23,3,27,0,0,9.0,M Chinnaswamy Stadium,3
-HMRKBHerath,Sri Lanka,Australia,0,0,0,0,0,17,2,11,1,0,5.5,Pallekele International Cricket Stadium,27
-HMRKBHerath,Sri Lanka,India,0,0,0,0,0,17,2,17,0,0,8.5,Pallekele International Cricket Stadium,0
-HMRKBHerath,Sri Lanka,England,1,2,0,0,50.0,23,3,27,1,1,9.0,Feroz Shah Kotla,30
-HMRKBHerath,Sri Lanka,West Indies,0,0,0,0,0,24,4,27,0,0,6.75,Shere Bangla National Stadium,0
-HMRKBHerath,Sri Lanka,India,0,0,0,0,0,24,4,24,1,0,6.0,Shere Bangla National Stadium,25
-HMRKBHerath,Sri Lanka,New Zealand,1,1,0,0,100.0,20,3,3,5,2,1.0,Zahur Ahmed Chowdhury Stadium,164
-HMRKBHerath,Sri Lanka,Bangladesh,0,0,0,0,0,23,3,24,0,0,8.0,Shere Bangla National Stadium,0
-HMRKBHerath,Sri Lanka,Pakistan,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,-2
-HMRKBHerath,Sri Lanka,United Arab Emirates,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Shere Bangla National Stadium,50
-HMRKBHerath,Sri Lanka,West Indies,0,0,0,0,0,11,1,16,0,0,16.0,Pallekele International Cricket Stadium,0
-HMRKBHerath,Sri Lanka,Australia,1,1,0,0,100.0,24,4,31,1,1,7.75,Pallekele International Cricket Stadium,34
-HMRKBHerath,Sri Lanka,India,0,0,0,0,0,19,3,26,1,0,8.666666666666666,Shere Bangla National Stadium,25
-HMRKBHerath,Sri Lanka,South Africa,0,0,0,0,0,11,1,21,1,0,21.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HMRKBHerath,Sri Lanka,United Arab Emirates,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Shere Bangla National Stadium,0,0,2016,50
+HMRKBHerath,Sri Lanka,Pakistan,0,0,0,0,0,23,3,26,3,0,8.666666666666666,R Premadasa Stadium,0,0,2012,75
+HMRKBHerath,Sri Lanka,India,0,0,0,0,0,19,3,26,1,0,8.666666666666666,Shere Bangla National Stadium,0,0,2016,25
+HMRKBHerath,Sri Lanka,South Africa,2,5,0,0,40.0,23,3,21,0,0,7.0,Feroz Shah Kotla,0,0,2016,-4
+HMRKBHerath,Sri Lanka,Pakistan,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Shere Bangla National Stadium,0,0,2016,-2
+HMRKBHerath,Sri Lanka,West Indies,0,0,0,0,0,11,1,16,0,0,16.0,Pallekele International Cricket Stadium,0,0,2012,0
+HMRKBHerath,Sri Lanka,England,1,2,0,0,50.0,23,3,27,1,1,9.0,Feroz Shah Kotla,0,0,2016,30
+HMRKBHerath,Sri Lanka,Afghanistan,0,0,0,0,0,24,4,24,2,0,6.0,Eden Gardens,0,0,2016,50
+HMRKBHerath,Sri Lanka,West Indies,0,0,0,0,0,24,4,27,0,0,6.75,Shere Bangla National Stadium,0,0,2014,0
+HMRKBHerath,Sri Lanka,Australia,0,0,0,0,0,17,2,11,1,0,5.5,Pallekele International Cricket Stadium,0,0,2011,27
+HMRKBHerath,Sri Lanka,India,0,0,0,0,0,17,2,17,0,0,8.5,Pallekele International Cricket Stadium,0,0,2012,0
+HMRKBHerath,Sri Lanka,India,0,0,0,0,0,24,4,24,1,0,6.0,Shere Bangla National Stadium,0,0,2014,25
+HMRKBHerath,Sri Lanka,Australia,1,1,0,0,100.0,24,4,31,1,1,7.75,Pallekele International Cricket Stadium,0,0,2011,34
+HMRKBHerath,Sri Lanka,New Zealand,1,1,0,0,100.0,20,3,3,5,2,1.0,Zahur Ahmed Chowdhury Stadium,1,0,2014,176
+HMRKBHerath,Sri Lanka,Bangladesh,0,0,0,0,0,23,3,24,0,0,8.0,Shere Bangla National Stadium,0,0,2016,0
+HMRKBHerath,Sri Lanka,West Indies,3,3,0,0,100.0,23,3,27,0,0,9.0,M Chinnaswamy Stadium,0,0,2016,3
+HMRKBHerath,Sri Lanka,South Africa,0,0,0,0,0,11,1,21,1,0,21.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,25

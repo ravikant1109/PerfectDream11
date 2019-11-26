@@ -1,17 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LVvanBeek,Netherlands,Zimbabwe,0,0,0,0,0,20,3,32,0,0,10.666666666666666,Sylhet Stadium,-4
-LVvanBeek,Netherlands,England,0,0,0,0,0,11,1,9,3,0,9.0,Zahur Ahmed Chowdhury Stadium,75
-LVvanBeek,Netherlands,Zimbabwe,0,0,0,0,0,20,3,32,0,0,10.666666666666666,Sylhet Stadium,-4
-LVvanBeek,Netherlands,Zimbabwe,0,0,0,0,0,20,3,32,0,0,10.666666666666666,Sylhet Stadium,-4
-LVvanBeek,Netherlands,England,0,0,0,0,0,11,1,9,3,0,9.0,Zahur Ahmed Chowdhury Stadium,75
-LVvanBeek,Netherlands,Zimbabwe,0,0,0,0,0,20,3,32,0,0,10.666666666666666,Sylhet Stadium,-4
-LVvanBeek,Netherlands,Zimbabwe,0,0,0,0,0,20,3,32,0,0,10.666666666666666,Sylhet Stadium,-4
-LVvanBeek,Netherlands,England,0,0,0,0,0,11,1,9,3,0,9.0,Zahur Ahmed Chowdhury Stadium,75
-LVvanBeek,Netherlands,South Africa,1,5,0,0,20.0,13,2,14,1,0,7.0,Zahur Ahmed Chowdhury Stadium,20
-LVvanBeek,Netherlands,United Arab Emirates,0,0,0,0,0,20,3,31,0,0,10.333333333333334,Sylhet Stadium,-4
-LVvanBeek,Netherlands,Ireland,1,3,0,0,33.33333333333333,5,0,18,0,0,0,Sylhet Stadium,-5
-LVvanBeek,Netherlands,New Zealand,0,0,0,0,0,11,1,14,1,0,14.0,Zahur Ahmed Chowdhury Stadium,25
-LVvanBeek,Netherlands,Sri Lanka,1,4,0,0,25.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-5
-LVvanBeek,Netherlands,Bangladesh,4,3,0,0,133.33333333333331,23,3,43,0,0,14.333333333333334,Himachal Pradesh Cricket Association Stadium,-2
-LVvanBeek,Netherlands,Zimbabwe,0,0,0,0,0,20,3,32,0,0,10.666666666666666,Sylhet Stadium,-4
-LVvanBeek,Netherlands,England,0,0,0,0,0,11,1,9,3,0,9.0,Zahur Ahmed Chowdhury Stadium,75
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LVvanBeek,Netherlands,Sri Lanka,1,4,0,0,25.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,-5
+LVvanBeek,Netherlands,South Africa,1,5,0,0,20.0,13,2,14,1,0,7.0,Zahur Ahmed Chowdhury Stadium,0,1,2014,28
+LVvanBeek,Netherlands,England,0,0,0,0,0,11,1,9,3,0,9.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,75
+LVvanBeek,Netherlands,Bangladesh,4,3,0,0,133.33333333333331,23,3,43,0,0,14.333333333333334,Himachal Pradesh Cricket Association Stadium,0,0,2016,-2
+LVvanBeek,Netherlands,Zimbabwe,0,0,0,0,0,20,3,32,0,0,10.666666666666666,Sylhet Stadium,0,0,2014,-4
+LVvanBeek,Netherlands,Ireland,1,3,0,0,33.33333333333333,5,0,18,0,0,0,Sylhet Stadium,0,1,2014,3
+LVvanBeek,Netherlands,New Zealand,0,0,0,0,0,11,1,14,1,0,14.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,25
+LVvanBeek,Netherlands,United Arab Emirates,0,0,0,0,0,20,3,31,0,0,10.333333333333334,Sylhet Stadium,0,1,2014,4

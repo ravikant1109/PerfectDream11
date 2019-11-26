@@ -1,12 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TCBruce,New Zealand,Bangladesh,7,9,0,0,77.77777777777779,0,0,0,0,0,0,McLean Park,7
-TCBruce,New Zealand,Bangladesh,59,41,5,1,143.90243902439025,0,0,0,0,0,0,Bay Oval,74
-TCBruce,New Zealand,Bangladesh,7,9,0,0,77.77777777777779,0,0,0,0,0,0,McLean Park,7
-TCBruce,New Zealand,Bangladesh,59,41,5,1,143.90243902439025,0,0,0,0,0,0,Bay Oval,74
-TCBruce,New Zealand,Bangladesh,7,9,0,0,77.77777777777779,0,0,0,0,0,0,McLean Park,7
-TCBruce,New Zealand,Bangladesh,59,41,5,1,143.90243902439025,0,0,0,0,0,0,Bay Oval,74
-TCBruce,New Zealand,Bangladesh,5,4,1,0,125.0,0,0,0,0,0,0,Bay Oval,6
-TCBruce,New Zealand,Sri Lanka,53,46,3,0,115.21739130434783,0,0,0,0,0,0,Pallekele International Cricket Stadium,64
-TCBruce,New Zealand,South Africa,33,27,3,2,122.22222222222223,0,0,0,0,0,0,Eden Park,40
-TCBruce,New Zealand,Bangladesh,7,9,0,0,77.77777777777779,0,0,0,0,0,0,McLean Park,7
-TCBruce,New Zealand,Bangladesh,59,41,5,1,143.90243902439025,0,0,0,0,0,0,Bay Oval,74
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TCBruce,New Zealand,Sri Lanka,53,46,3,0,115.21739130434783,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,64
+TCBruce,New Zealand,South Africa,33,27,3,2,122.22222222222223,0,0,0,0,0,0,Eden Park,0,1,2017,48
+TCBruce,New Zealand,Bangladesh,7,9,0,0,77.77777777777779,0,0,0,0,0,0,McLean Park,0,1,2017,15
+TCBruce,New Zealand,Bangladesh,5,4,1,0,125.0,0,0,0,0,0,0,Bay Oval,0,0,2017,6
+TCBruce,New Zealand,Bangladesh,59,41,5,1,143.90243902439025,0,0,0,0,0,0,Bay Oval,0,2,2017,90

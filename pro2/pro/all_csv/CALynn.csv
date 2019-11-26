@@ -1,6 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CALynn,Australia,India,13,9,1,0,144.44444444444443,0,0,0,0,0,0,Sydney Cricket Ground,14
-CALynn,Australia,India,17,17,0,1,100.0,0,0,0,0,0,0,Adelaide Oval,19
-CALynn,Australia,India,2,4,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,-2
-CALynn,Australia,England,33,20,1,3,165.0,0,0,0,0,0,0,Bellerive Oval,40
-CALynn,Australia,India,13,9,1,0,144.44444444444443,0,0,0,0,0,0,Sydney Cricket Ground,14
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CALynn,Australia,England,33,20,1,3,165.0,0,0,0,0,0,0,Bellerive Oval,0,1,2014,48
+CALynn,Australia,India,2,4,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2016,6
+CALynn,Australia,India,13,9,1,0,144.44444444444443,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2016,14
+CALynn,Australia,India,17,17,0,1,100.0,0,0,0,0,0,0,Adelaide Oval,0,0,2016,19

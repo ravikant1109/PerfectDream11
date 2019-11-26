@@ -1,84 +1,52 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-VKohli,India,Australia,29,23,2,1,126.08695652173914,12,2,24,0,0,12.0,Saurashtra Cricket Association Stadium,27
-VKohli,India,Pakistan,9,11,1,0,81.81818181818183,11,1,21,0,0,21.0,M Chinnaswamy Stadium,10
-VKohli,India,West Indies,14,12,2,0,116.66666666666667,0,0,0,0,0,0,Queen's Park Oval Port of Spain,16
-VKohli,India,South Africa,43,31,1,3,138.70967741935485,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,50
-VKohli,India,South Africa,72,46,5,2,156.52173913043478,0,0,0,0,0,0,Shere Bangla National Stadium,89
-VKohli,India,New Zealand,23,28,2,0,82.14285714285714,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,25
-VKohli,India,England,66,42,9,1,157.14285714285714,0,0,0,0,0,0,Edgbaston,85
-VKohli,India,Australia,15,13,1,0,115.38461538461537,5,0,10,0,0,0,R Premadasa Stadium,16
-VKohli,India,Sri Lanka,56,47,7,0,119.14893617021276,0,0,0,0,0,0,Shere Bangla National Stadium,71
-VKohli,India,Australia,29,23,2,1,126.08695652173914,12,2,24,0,0,12.0,Saurashtra Cricket Association Stadium,27
-VKohli,India,Pakistan,9,11,1,0,81.81818181818183,11,1,21,0,0,21.0,M Chinnaswamy Stadium,10
-VKohli,India,West Indies,14,12,2,0,116.66666666666667,0,0,0,0,0,0,Queen's Park Oval Port of Spain,16
-VKohli,India,South Africa,43,31,1,3,138.70967741935485,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,50
-VKohli,India,South Africa,72,46,5,2,156.52173913043478,0,0,0,0,0,0,Shere Bangla National Stadium,89
-VKohli,India,New Zealand,23,28,2,0,82.14285714285714,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,25
-VKohli,India,England,66,42,9,1,157.14285714285714,0,0,0,0,0,0,Edgbaston,85
-VKohli,India,Australia,15,13,1,0,115.38461538461537,5,0,10,0,0,0,R Premadasa Stadium,16
-VKohli,India,Sri Lanka,56,47,7,0,119.14893617021276,0,0,0,0,0,0,Shere Bangla National Stadium,71
-VKohli,India,Australia,29,23,2,1,126.08695652173914,12,2,24,0,0,12.0,Saurashtra Cricket Association Stadium,27
-VKohli,India,Pakistan,9,11,1,0,81.81818181818183,11,1,21,0,0,21.0,M Chinnaswamy Stadium,10
-VKohli,India,West Indies,14,12,2,0,116.66666666666667,0,0,0,0,0,0,Queen's Park Oval Port of Spain,16
-VKohli,India,South Africa,43,31,1,3,138.70967741935485,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,50
-VKohli,India,South Africa,72,46,5,2,156.52173913043478,0,0,0,0,0,0,Shere Bangla National Stadium,89
-VKohli,India,New Zealand,23,28,2,0,82.14285714285714,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,25
-VKohli,India,England,66,42,9,1,157.14285714285714,0,0,0,0,0,0,Edgbaston,85
-VKohli,India,Australia,15,13,1,0,115.38461538461537,5,0,10,0,0,0,R Premadasa Stadium,16
-VKohli,India,Sri Lanka,56,47,7,0,119.14893617021276,0,0,0,0,0,0,Shere Bangla National Stadium,71
-VKohli,India,England,21,18,2,0,116.66666666666667,5,0,10,0,0,0,Subrata Roy Sahara Stadium,23
-VKohli,India,Australia,50,37,2,1,135.13513513513513,0,0,0,0,0,0,Sydney Cricket Ground,62
-VKohli,India,Bangladesh,24,24,0,1,100.0,0,0,0,0,0,0,M Chinnaswamy Stadium,26
-VKohli,India,Pakistan,49,52,7,0,94.23076923076923,0,0,0,0,0,0,Shere Bangla National Stadium,56
-VKohli,India,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Barabati Stadium,1
-VKohli,India,England,29,27,4,0,107.40740740740742,0,0,0,0,0,0,Green Park,33
-VKohli,India,Pakistan,27,22,3,0,122.72727272727273,0,0,0,0,0,0,Sardar Patel Stadium Motera,30
-VKohli,India,Afghanistan,50,39,4,2,128.2051282051282,0,0,0,0,0,0,R Premadasa Stadium,66
-VKohli,India,England,21,15,2,1,140.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,25
-VKohli,India,West Indies,16,9,3,0,177.77777777777777,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,19
-VKohli,India,West Indies,59,45,6,0,131.11111111111111,0,0,0,0,0,0,Providence Stadium Guyana,73
-VKohli,India,England,2,5,0,0,40.0,0,0,0,0,0,0,M Chinnaswamy Stadium,-4
-VKohli,India,Bangladesh,57,53,3,1,107.54716981132076,0,0,0,0,0,0,Shere Bangla National Stadium,70
-VKohli,India,Bangladesh,8,13,1,0,61.53846153846154,0,0,0,0,0,0,Shere Bangla National Stadium,7
-VKohli,India,West Indies,39,25,6,1,156.0,0,0,0,0,0,0,Sabina Park Kingston,47
-VKohli,India,England,40,32,6,0,125.0,0,0,0,0,0,0,R Premadasa Stadium,46
-VKohli,India,New Zealand,70,41,10,1,170.73170731707316,17,2,27,0,0,13.5,MA Chidambaram Stadium Chepauk,84
-VKohli,India,Pakistan,36,34,4,1,105.88235294117648,0,0,0,0,0,0,Shere Bangla National Stadium,42
-VKohli,India,West Indies,54,42,5,1,128.57142857142858,0,0,0,0,0,0,Shere Bangla National Stadium,69
-VKohli,India,Pakistan,78,61,8,2,127.86885245901641,18,3,22,1,0,7.333333333333333,R Premadasa Stadium,123
-VKohli,India,Bangladesh,41,28,5,0,146.42857142857142,0,0,0,0,0,0,Shere Bangla National Stadium,46
-VKohli,India,Australia,22,22,0,1,100.0,0,0,0,0,0,0,Stadium Australia,24
-VKohli,India,Sri Lanka,68,50,11,1,136.0,17,2,13,0,0,6.5,Pallekele International Cricket Stadium,89
-VKohli,India,Zimbabwe,26,21,3,1,123.80952380952381,0,0,0,0,0,0,Harare Sports Club,31
-VKohli,India,South Africa,28,19,5,0,147.36842105263156,0,0,0,0,0,0,Moses Mabhida Stadium,33
-VKohli,India,South Africa,0,0,0,0,0,5,0,15,0,0,0,New Wanderers Stadium,0
-VKohli,India,England,4,5,0,0,80.0,18,3,23,1,0,7.666666666666667,Old Trafford,29
-VKohli,India,West Indies,28,23,1,1,121.73913043478262,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,31
-VKohli,India,West Indies,19,30,1,0,63.33333333333333,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,18
-VKohli,India,Pakistan,55,38,7,1,144.73684210526315,0,0,0,0,0,0,Eden Gardens,72
-VKohli,India,England,38,22,7,0,172.72727272727272,0,0,0,0,0,0,Wankhede Stadium,45
-VKohli,India,Australia,90,57,9,2,157.89473684210526,0,0,0,0,0,0,Adelaide Oval,111
-VKohli,India,Australia,23,23,2,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,27
-VKohli,India,Australia,59,33,7,1,178.78787878787878,0,0,0,0,0,0,Melbourne Cricket Ground,76
-VKohli,India,South Africa,9,15,0,0,60.0,0,0,0,0,0,0,M.Chinnaswamy Stadium,7
-VKohli,India,England,15,16,3,0,93.75,15,2,14,1,0,7.0,Eden Gardens,43
-VKohli,India,West Indies,89,47,11,1,189.36170212765958,9,1,15,1,0,15.0,Wankhede Stadium,135
-VKohli,India,Sri Lanka,77,59,5,4,130.5084745762712,0,0,0,0,0,0,Shere Bangla National Stadium,98
-VKohli,India,South Africa,2,6,0,0,33.33333333333333,0,0,0,0,0,0,R Premadasa Stadium,-4
-VKohli,India,Australia,82,52,9,2,157.69230769230768,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,103
-VKohli,India,South Africa,72,52,4,3,138.46153846153845,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,90
-VKohli,India,Australia,31,25,3,0,124.0,5,0,7,0,0,0,Melbourne Cricket Ground,34
-VKohli,India,Australia,29,23,2,1,126.08695652173914,12,2,24,0,0,12.0,Saurashtra Cricket Association Stadium,27
-VKohli,India,Pakistan,9,11,1,0,81.81818181818183,11,1,21,0,0,21.0,M Chinnaswamy Stadium,10
-VKohli,India,West Indies,14,12,2,0,116.66666666666667,0,0,0,0,0,0,Queen's Park Oval Port of Spain,16
-VKohli,India,South Africa,43,31,1,3,138.70967741935485,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,50
-VKohli,India,South Africa,72,46,5,2,156.52173913043478,0,0,0,0,0,0,Shere Bangla National Stadium,89
-VKohli,India,New Zealand,23,28,2,0,82.14285714285714,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,25
-VKohli,India,England,66,42,9,1,157.14285714285714,0,0,0,0,0,0,Edgbaston,85
-VKohli,India,Australia,15,13,1,0,115.38461538461537,5,0,10,0,0,0,R Premadasa Stadium,16
-VKohli,India,Sri Lanka,56,47,7,0,119.14893617021276,0,0,0,0,0,0,Shere Bangla National Stadium,71
-VKohli,India,England,21,18,2,0,116.66666666666667,5,0,10,0,0,0,Subrata Roy Sahara Stadium,23
-VKohli,India,Australia,50,37,2,1,135.13513513513513,0,0,0,0,0,0,Sydney Cricket Ground,62
-VKohli,India,Bangladesh,24,24,0,1,100.0,0,0,0,0,0,0,M Chinnaswamy Stadium,26
-VKohli,India,Pakistan,49,52,7,0,94.23076923076923,0,0,0,0,0,0,Shere Bangla National Stadium,56
-VKohli,India,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Barabati Stadium,1
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+VKohli,India,West Indies,16,9,3,0,177.77777777777777,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,19
+VKohli,India,England,40,32,6,0,125.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,54
+VKohli,India,Pakistan,9,11,1,0,81.81818181818183,11,1,21,0,0,21.0,M Chinnaswamy Stadium,0,0,2012,10
+VKohli,India,West Indies,39,25,6,1,156.0,0,0,0,0,0,0,Sabina Park Kingston,0,0,2017,47
+VKohli,India,England,29,27,4,0,107.40740740740742,0,0,0,0,0,0,Green Park,0,0,2017,33
+VKohli,India,Sri Lanka,56,47,7,0,119.14893617021276,0,0,0,0,0,0,Shere Bangla National Stadium,1,0,2016,83
+VKohli,India,England,15,16,3,0,93.75,15,2,14,1,0,7.0,Eden Gardens,0,0,2011,43
+VKohli,India,Bangladesh,41,28,5,0,146.42857142857142,0,0,0,0,0,0,Shere Bangla National Stadium,1,1,2016,66
+VKohli,India,Australia,82,52,9,2,157.69230769230768,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,0,1,2016,111
+VKohli,India,New Zealand,70,41,10,1,170.73170731707316,17,2,27,0,0,13.5,MA Chidambaram Stadium Chepauk,0,0,2012,84
+VKohli,India,Pakistan,78,61,8,2,127.86885245901641,18,3,22,1,0,7.333333333333333,R Premadasa Stadium,0,0,2012,123
+VKohli,India,Australia,59,33,7,1,178.78787878787878,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2016,76
+VKohli,India,England,21,15,2,1,140.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2017,25
+VKohli,India,West Indies,28,23,1,1,121.73913043478262,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,31
+VKohli,India,Australia,31,25,3,0,124.0,5,0,7,0,0,0,Melbourne Cricket Ground,0,0,2012,34
+VKohli,India,England,21,18,2,0,116.66666666666667,5,0,10,0,0,0,Subrata Roy Sahara Stadium,0,1,2012,31
+VKohli,India,South Africa,9,15,0,0,60.0,0,0,0,0,0,0,M.Chinnaswamy Stadium,0,1,2019,15
+VKohli,India,Pakistan,49,52,7,0,94.23076923076923,0,0,0,0,0,0,Shere Bangla National Stadium,1,0,2016,68
+VKohli,India,Australia,15,13,1,0,115.38461538461537,5,0,10,0,0,0,R Premadasa Stadium,0,0,2012,16
+VKohli,India,West Indies,59,45,6,0,131.11111111111111,0,0,0,0,0,0,Providence Stadium Guyana,0,0,2019,73
+VKohli,India,South Africa,0,0,0,0,0,5,0,15,0,0,0,New Wanderers Stadium,0,0,2012,0
+VKohli,India,Bangladesh,24,24,0,1,100.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,1,2016,34
+VKohli,India,Pakistan,36,34,4,1,105.88235294117648,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,42
+VKohli,India,England,4,5,0,0,80.0,18,3,23,1,0,7.666666666666667,Old Trafford,0,0,2011,29
+VKohli,India,England,66,42,9,1,157.14285714285714,0,0,0,0,0,0,Edgbaston,0,0,2014,85
+VKohli,India,Afghanistan,50,39,4,2,128.2051282051282,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,66
+VKohli,India,West Indies,89,47,11,1,189.36170212765958,9,1,15,1,0,15.0,Wankhede Stadium,0,0,2016,135
+VKohli,India,Bangladesh,8,13,1,0,61.53846153846154,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,7
+VKohli,India,New Zealand,23,28,2,0,82.14285714285714,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,25
+VKohli,India,Australia,23,23,2,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2014,43
+VKohli,India,Pakistan,55,38,7,1,144.73684210526315,0,0,0,0,0,0,Eden Gardens,0,1,2016,80
+VKohli,India,England,38,22,7,0,172.72727272727272,0,0,0,0,0,0,Wankhede Stadium,0,0,2012,45
+VKohli,India,Sri Lanka,68,50,11,1,136.0,17,2,13,0,0,6.5,Pallekele International Cricket Stadium,0,1,2012,97
+VKohli,India,South Africa,28,19,5,0,147.36842105263156,0,0,0,0,0,0,Moses Mabhida Stadium,0,1,2011,41
+VKohli,India,South Africa,72,52,4,3,138.46153846153845,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,0,1,2019,98
+VKohli,India,Sri Lanka,77,59,5,4,130.5084745762712,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,106
+VKohli,India,Bangladesh,57,53,3,1,107.54716981132076,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,78
+VKohli,India,South Africa,2,6,0,0,33.33333333333333,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,-4
+VKohli,India,Zimbabwe,26,21,3,1,123.80952380952381,0,0,0,0,0,0,Harare Sports Club,0,0,2010,31
+VKohli,India,England,2,5,0,0,40.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,3,2017,20
+VKohli,India,West Indies,19,30,1,0,63.33333333333333,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,1,2019,26
+VKohli,India,West Indies,14,12,2,0,116.66666666666667,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2011,32
+VKohli,India,Australia,50,37,2,1,135.13513513513513,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2016,62
+VKohli,India,Australia,22,22,0,1,100.0,0,0,0,0,0,0,Stadium Australia,0,0,2012,24
+VKohli,India,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Barabati Stadium,0,0,2015,1
+VKohli,India,Australia,29,23,2,1,126.08695652173914,12,2,24,0,0,12.0,Saurashtra Cricket Association Stadium,0,0,2013,27
+VKohli,India,Pakistan,27,22,3,0,122.72727272727273,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,2,2012,46
+VKohli,India,Australia,90,57,9,2,157.89473684210526,0,0,0,0,0,0,Adelaide Oval,0,2,2016,127
+VKohli,India,West Indies,54,42,5,1,128.57142857142858,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,77
+VKohli,India,South Africa,72,46,5,2,156.52173913043478,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,89
+VKohli,India,South Africa,43,31,1,3,138.70967741935485,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2015,50

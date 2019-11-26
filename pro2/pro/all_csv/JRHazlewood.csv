@@ -1,8 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JRHazlewood,Australia,Pakistan,0,0,0,0,0,24,4,26,1,0,6.5,Punjab Cricket Association IS Bindra Stadium Mohali,25
-JRHazlewood,Australia,England,0,0,0,0,0,25,4,30,4,0,7.5,Melbourne Cricket Ground,108
-JRHazlewood,Australia,India,0,0,0,0,0,24,4,38,0,0,9.5,Punjab Cricket Association IS Bindra Stadium Mohali,-2
-JRHazlewood,Australia,West Indies,0,0,0,0,0,23,3,38,1,0,12.666666666666666,Brisbane Cricket Ground Woolloongabba,19
-JRHazlewood,Australia,South Africa,0,0,0,0,0,25,4,50,0,0,12.5,New Wanderers Stadium,-6
-JRHazlewood,Australia,England,0,0,0,0,0,25,4,46,0,0,11.5,Bellerive Oval,-6
-JRHazlewood,Australia,England,0,0,0,0,0,24,4,43,2,0,10.75,The Rose Bowl,46
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JRHazlewood,Australia,England,0,0,0,0,0,25,4,46,0,0,11.5,Bellerive Oval,0,0,2014,-6
+JRHazlewood,Australia,South Africa,0,0,0,0,0,25,4,50,0,0,12.5,New Wanderers Stadium,0,0,2016,-6
+JRHazlewood,Australia,India,0,0,0,0,0,24,4,38,0,0,9.5,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,-2
+JRHazlewood,Australia,England,0,0,0,0,0,25,4,30,4,0,7.5,Melbourne Cricket Ground,0,0,2014,108
+JRHazlewood,Australia,Pakistan,0,0,0,0,0,24,4,26,1,0,6.5,Punjab Cricket Association IS Bindra Stadium Mohali,0,1,2016,33
+JRHazlewood,Australia,England,0,0,0,0,0,24,4,43,2,0,10.75,The Rose Bowl,0,0,2013,46
+JRHazlewood,Australia,West Indies,0,0,0,0,0,23,3,38,1,0,12.666666666666666,Brisbane Cricket Ground Woolloongabba,0,0,2013,19

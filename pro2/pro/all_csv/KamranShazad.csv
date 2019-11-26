@@ -1,7 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KamranShazad,United Arab Emirates,Zimbabwe,21,16,1,2,131.25,9,1,30,0,0,30.0,Sylhet Stadium,26
-KamranShazad,United Arab Emirates,Zimbabwe,21,16,1,2,131.25,9,1,30,0,0,30.0,Sylhet Stadium,26
-KamranShazad,United Arab Emirates,Zimbabwe,21,16,1,2,131.25,9,1,30,0,0,30.0,Sylhet Stadium,26
-KamranShazad,United Arab Emirates,Netherlands,0,2,0,0,0.0,23,3,20,2,0,6.666666666666667,Sylhet Stadium,42
-KamranShazad,United Arab Emirates,Ireland,0,0,0,0,0,18,3,29,1,0,9.666666666666666,Sylhet Stadium,23
-KamranShazad,United Arab Emirates,Zimbabwe,21,16,1,2,131.25,9,1,30,0,0,30.0,Sylhet Stadium,26
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KamranShazad,United Arab Emirates,Ireland,0,0,0,0,0,18,3,29,1,0,9.666666666666666,Sylhet Stadium,0,0,2014,23
+KamranShazad,United Arab Emirates,Netherlands,0,2,0,0,0.0,23,3,20,2,0,6.666666666666667,Sylhet Stadium,0,0,2014,42
+KamranShazad,United Arab Emirates,Zimbabwe,21,16,1,2,131.25,9,1,30,0,0,30.0,Sylhet Stadium,0,1,2014,34

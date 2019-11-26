@@ -1,67 +1,43 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DWSteyn,South Africa,England,0,0,0,0,0,25,4,44,1,0,11.0,Zahur Ahmed Chowdhury Stadium,21
-DWSteyn,South Africa,England,0,0,0,0,0,12,2,35,0,0,17.5,Wankhede Stadium,-6
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,25,4,22,3,0,5.5,R Premadasa Stadium,77
-DWSteyn,South Africa,India,0,0,0,0,0,20,3,36,0,0,12.0,Shere Bangla National Stadium,-6
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,24,4,21,2,1,5.25,Dubai International Cricket Stadium,60
-DWSteyn,South Africa,England,0,0,0,0,0,25,4,44,1,0,11.0,Zahur Ahmed Chowdhury Stadium,21
-DWSteyn,South Africa,England,0,0,0,0,0,12,2,35,0,0,17.5,Wankhede Stadium,-6
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,25,4,22,3,0,5.5,R Premadasa Stadium,77
-DWSteyn,South Africa,India,0,0,0,0,0,20,3,36,0,0,12.0,Shere Bangla National Stadium,-6
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,24,4,21,2,1,5.25,Dubai International Cricket Stadium,60
-DWSteyn,South Africa,England,0,0,0,0,0,25,4,44,1,0,11.0,Zahur Ahmed Chowdhury Stadium,21
-DWSteyn,South Africa,England,0,0,0,0,0,12,2,35,0,0,17.5,Wankhede Stadium,-6
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,25,4,22,3,0,5.5,R Premadasa Stadium,77
-DWSteyn,South Africa,India,0,0,0,0,0,20,3,36,0,0,12.0,Shere Bangla National Stadium,-6
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,24,4,21,2,1,5.25,Dubai International Cricket Stadium,60
-DWSteyn,South Africa,Sri Lanka,0,0,0,0,0,12,2,10,2,0,5.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,52
-DWSteyn,South Africa,Bangladesh,0,0,0,0,0,18,3,19,2,0,6.333333333333333,New Wanderers Stadium,50
-DWSteyn,South Africa,England,0,0,0,0,0,24,4,20,1,0,5.0,Trent Bridge,27
-DWSteyn,South Africa,England,0,0,0,0,0,23,3,15,1,0,5.0,Riverside Ground,27
-DWSteyn,South Africa,India,0,0,0,0,0,18,3,25,2,0,8.333333333333334,Trent Bridge,50
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,24,4,26,1,0,6.5,Beausejour Stadium Gros Islet,25
-DWSteyn,South Africa,England,0,0,0,0,0,23,3,42,1,0,14.0,New Wanderers Stadium,19
-DWSteyn,South Africa,New Zealand,0,0,0,0,0,18,3,14,2,0,4.666666666666667,Kingsmead,54
-DWSteyn,South Africa,Pakistan,1,3,0,0,33.33333333333333,11,1,16,0,0,16.0,New Wanderers Stadium,-5
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,23,3,15,3,0,5.0,Dubai International Cricket Stadium,77
-DWSteyn,South Africa,Netherlands,5,4,1,0,125.0,24,4,24,2,0,6.0,Zahur Ahmed Chowdhury Stadium,56
-DWSteyn,South Africa,Australia,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Newlands,-4
-DWSteyn,South Africa,New Zealand,1,1,0,0,100.0,23,3,17,4,0,5.666666666666667,Zahur Ahmed Chowdhury Stadium,111
-DWSteyn,South Africa,Zimbabwe,0,0,0,0,0,23,3,9,1,1,3.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,39
-DWSteyn,South Africa,Afghanistan,1,1,0,0,100.0,20,3,7,2,0,2.3333333333333335,Kensington Oval Bridgetown,57
-DWSteyn,South Africa,Sri Lanka,0,0,0,0,0,24,4,34,1,0,8.5,Feroz Shah Kotla,25
-DWSteyn,South Africa,England,0,0,0,0,0,24,4,29,2,0,7.25,SuperSport Park,50
-DWSteyn,South Africa,Australia,0,0,0,0,0,18,3,16,0,0,5.333333333333333,R Premadasa Stadium,2
-DWSteyn,South Africa,West Indies,1,1,0,0,100.0,17,2,9,4,0,4.5,St George's Park,113
-DWSteyn,South Africa,New Zealand,0,0,0,0,0,25,4,26,1,0,6.5,Lord's,25
-DWSteyn,South Africa,Australia,0,0,0,0,0,20,3,21,1,0,7.0,Brisbane Cricket Ground Woolloongabba,25
-DWSteyn,South Africa,England,5,7,0,0,71.42857142857143,25,4,50,0,0,12.5,Kensington Oval Bridgetown,-1
-DWSteyn,South Africa,West Indies,0,0,0,0,0,31,5,23,0,0,4.6,Sir Vivian Richards Stadium North Sound,4
-DWSteyn,South Africa,Scotland,0,0,0,0,0,18,3,21,2,0,7.0,Kennington Oval,50
-DWSteyn,South Africa,New Zealand,0,0,0,0,0,26,4,25,1,0,6.25,Kensington Oval Bridgetown,25
-DWSteyn,South Africa,West Indies,0,0,0,0,0,23,3,30,2,0,10.0,Kennington Oval,48
-DWSteyn,South Africa,Australia,1,2,0,0,50.0,24,4,40,3,0,10.0,Melbourne Cricket Ground,70
-DWSteyn,South Africa,Australia,0,0,0,0,0,24,4,45,0,0,11.25,New Wanderers Stadium,-6
-DWSteyn,South Africa,Sri Lanka,0,2,0,0,0.0,25,4,37,2,0,9.25,Zahur Ahmed Chowdhury Stadium,40
-DWSteyn,South Africa,India,0,0,0,0,0,23,3,24,1,0,8.0,Beausejour Stadium Gros Islet,25
-DWSteyn,South Africa,West Indies,0,0,0,0,0,25,4,18,1,0,4.5,Sir Vivian Richards Stadium North Sound,29
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,23,3,29,2,0,9.666666666666666,Newlands,48
-DWSteyn,South Africa,England,0,0,0,0,0,6,1,10,1,0,10.0,Old Trafford,25
-DWSteyn,South Africa,India,0,0,0,0,0,23,3,35,0,0,11.666666666666666,R Premadasa Stadium,-6
-DWSteyn,South Africa,Australia,0,0,0,0,0,24,4,34,2,0,8.5,New Wanderers Stadium,50
-DWSteyn,South Africa,New Zealand,0,0,0,0,0,23,3,17,1,0,5.666666666666667,New Wanderers Stadium,27
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,23,3,28,1,0,9.333333333333334,Trent Bridge,23
-DWSteyn,South Africa,England,0,0,0,0,0,25,4,44,1,0,11.0,Zahur Ahmed Chowdhury Stadium,21
-DWSteyn,South Africa,England,0,0,0,0,0,12,2,35,0,0,17.5,Wankhede Stadium,-6
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,25,4,22,3,0,5.5,R Premadasa Stadium,77
-DWSteyn,South Africa,India,0,0,0,0,0,20,3,36,0,0,12.0,Shere Bangla National Stadium,-6
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,24,4,21,2,1,5.25,Dubai International Cricket Stadium,60
-DWSteyn,South Africa,Sri Lanka,0,0,0,0,0,12,2,10,2,0,5.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,52
-DWSteyn,South Africa,Bangladesh,0,0,0,0,0,18,3,19,2,0,6.333333333333333,New Wanderers Stadium,50
-DWSteyn,South Africa,England,0,0,0,0,0,24,4,20,1,0,5.0,Trent Bridge,27
-DWSteyn,South Africa,England,0,0,0,0,0,23,3,15,1,0,5.0,Riverside Ground,27
-DWSteyn,South Africa,India,0,0,0,0,0,18,3,25,2,0,8.333333333333334,Trent Bridge,50
-DWSteyn,South Africa,Pakistan,0,0,0,0,0,24,4,26,1,0,6.5,Beausejour Stadium Gros Islet,25
-DWSteyn,South Africa,England,0,0,0,0,0,23,3,42,1,0,14.0,New Wanderers Stadium,19
-DWSteyn,South Africa,New Zealand,0,0,0,0,0,18,3,14,2,0,4.666666666666667,Kingsmead,54
-DWSteyn,South Africa,Pakistan,1,3,0,0,33.33333333333333,11,1,16,0,0,16.0,New Wanderers Stadium,-5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DWSteyn,South Africa,Australia,0,0,0,0,0,24,4,34,2,0,8.5,New Wanderers Stadium,0,0,2016,50
+DWSteyn,South Africa,England,0,0,0,0,0,24,4,20,1,0,5.0,Trent Bridge,0,0,2009,27
+DWSteyn,South Africa,Sri Lanka,0,0,0,0,0,24,4,34,1,0,8.5,Feroz Shah Kotla,0,0,2016,25
+DWSteyn,South Africa,Zimbabwe,0,0,0,0,0,23,3,9,1,1,3.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,39
+DWSteyn,South Africa,India,0,0,0,0,0,23,3,24,1,0,8.0,Beausejour Stadium Gros Islet,0,0,2010,25
+DWSteyn,South Africa,New Zealand,0,0,0,0,0,26,4,25,1,0,6.25,Kensington Oval Bridgetown,0,1,2010,33
+DWSteyn,South Africa,England,0,0,0,0,0,25,4,44,1,0,11.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,21
+DWSteyn,South Africa,England,0,0,0,0,0,23,3,15,1,0,5.0,Riverside Ground,0,0,2012,27
+DWSteyn,South Africa,India,0,0,0,0,0,18,3,25,2,0,8.333333333333334,Trent Bridge,0,1,2009,58
+DWSteyn,South Africa,Pakistan,0,0,0,0,0,23,3,28,1,0,9.333333333333334,Trent Bridge,0,0,2009,23
+DWSteyn,South Africa,Netherlands,5,4,1,0,125.0,24,4,24,2,0,6.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,56
+DWSteyn,South Africa,Sri Lanka,0,2,0,0,0.0,25,4,37,2,0,9.25,Zahur Ahmed Chowdhury Stadium,0,1,2014,48
+DWSteyn,South Africa,England,5,7,0,0,71.42857142857143,25,4,50,0,0,12.5,Kensington Oval Bridgetown,0,1,2010,7
+DWSteyn,South Africa,Australia,1,2,0,0,50.0,24,4,40,3,0,10.0,Melbourne Cricket Ground,0,1,2009,78
+DWSteyn,South Africa,Afghanistan,1,1,0,0,100.0,20,3,7,2,0,2.3333333333333335,Kensington Oval Bridgetown,0,1,2010,65
+DWSteyn,South Africa,Pakistan,0,0,0,0,0,25,4,22,3,0,5.5,R Premadasa Stadium,0,1,2012,85
+DWSteyn,South Africa,Pakistan,0,0,0,0,0,24,4,26,1,0,6.5,Beausejour Stadium Gros Islet,0,1,2010,33
+DWSteyn,South Africa,Australia,0,0,0,0,0,18,3,16,0,0,5.333333333333333,R Premadasa Stadium,0,0,2012,2
+DWSteyn,South Africa,England,0,0,0,0,0,12,2,35,0,0,17.5,Wankhede Stadium,0,0,2016,-6
+DWSteyn,South Africa,Pakistan,0,0,0,0,0,23,3,15,3,0,5.0,Dubai International Cricket Stadium,0,0,2013,77
+DWSteyn,South Africa,England,0,0,0,0,0,6,1,10,1,0,10.0,Old Trafford,0,0,2012,25
+DWSteyn,South Africa,West Indies,1,1,0,0,100.0,17,2,9,4,0,4.5,St George's Park,0,0,2007,113
+DWSteyn,South Africa,Bangladesh,0,0,0,0,0,18,3,19,2,0,6.333333333333333,New Wanderers Stadium,0,0,2008,50
+DWSteyn,South Africa,West Indies,0,0,0,0,0,31,5,23,0,0,4.6,Sir Vivian Richards Stadium North Sound,0,0,2010,4
+DWSteyn,South Africa,India,0,0,0,0,0,23,3,35,0,0,11.666666666666666,R Premadasa Stadium,0,0,2012,-6
+DWSteyn,South Africa,Scotland,0,0,0,0,0,18,3,21,2,0,7.0,Kennington Oval,0,0,2009,50
+DWSteyn,South Africa,England,0,0,0,0,0,23,3,42,1,0,14.0,New Wanderers Stadium,0,0,2009,19
+DWSteyn,South Africa,Australia,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Newlands,0,0,2016,-4
+DWSteyn,South Africa,Australia,0,0,0,0,0,24,4,45,0,0,11.25,New Wanderers Stadium,0,0,2009,-6
+DWSteyn,South Africa,New Zealand,0,0,0,0,0,18,3,14,2,0,4.666666666666667,Kingsmead,0,1,2012,62
+DWSteyn,South Africa,New Zealand,0,0,0,0,0,25,4,26,1,0,6.5,Lord's,0,0,2009,25
+DWSteyn,South Africa,West Indies,0,0,0,0,0,25,4,18,1,0,4.5,Sir Vivian Richards Stadium North Sound,0,1,2010,37
+DWSteyn,South Africa,Pakistan,0,0,0,0,0,23,3,29,2,0,9.666666666666666,Newlands,0,0,2013,48
+DWSteyn,South Africa,New Zealand,0,0,0,0,0,23,3,17,1,0,5.666666666666667,New Wanderers Stadium,0,0,2007,27
+DWSteyn,South Africa,Australia,0,0,0,0,0,20,3,21,1,0,7.0,Brisbane Cricket Ground Woolloongabba,0,0,2009,25
+DWSteyn,South Africa,Pakistan,1,3,0,0,33.33333333333333,11,1,16,0,0,16.0,New Wanderers Stadium,0,0,2013,-5
+DWSteyn,South Africa,Sri Lanka,0,0,0,0,0,12,2,10,2,0,5.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,52
+DWSteyn,South Africa,New Zealand,1,1,0,0,100.0,23,3,17,4,0,5.666666666666667,Zahur Ahmed Chowdhury Stadium,1,0,2014,123
+DWSteyn,South Africa,West Indies,0,0,0,0,0,23,3,30,2,0,10.0,Kennington Oval,0,1,2009,56
+DWSteyn,South Africa,Pakistan,0,0,0,0,0,24,4,21,2,1,5.25,Dubai International Cricket Stadium,0,0,2013,60
+DWSteyn,South Africa,India,0,0,0,0,0,20,3,36,0,0,12.0,Shere Bangla National Stadium,0,0,2014,-6
+DWSteyn,South Africa,England,0,0,0,0,0,24,4,29,2,0,7.25,SuperSport Park,0,0,2009,50

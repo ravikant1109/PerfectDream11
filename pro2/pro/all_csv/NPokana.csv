@@ -1,10 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NPokana,Papua New Guinea,Netherlands,0,0,0,0,0,23,3,29,1,0,9.666666666666666,ICC Academy,23
-NPokana,Papua New Guinea,Ireland,0,0,0,0,0,11,1,6,1,0,6.0,Tony Ireland Stadium,25
-NPokana,Papua New Guinea,Scotland,1,1,0,0,100.0,24,4,43,1,0,10.75,ICC Academy,22
-NPokana,Papua New Guinea,Bermuda,0,0,0,0,0,17,2,18,2,0,9.0,ICC Academy,50
-NPokana,Papua New Guinea,Namibia,0,0,0,0,0,19,3,24,1,0,8.0,ICC Academy Ground No 2,25
-NPokana,Papua New Guinea,Ireland,2,3,0,0,66.66666666666666,6,1,8,0,0,8.0,Tony Ireland Stadium,0
-NPokana,Papua New Guinea,Singapore,0,0,0,0,0,24,4,28,1,0,7.0,Dubai International Cricket Stadium,25
-NPokana,Papua New Guinea,Kenya,7,9,0,0,77.77777777777779,25,4,21,3,0,5.25,Dubai International Cricket Stadium,84
-NPokana,Papua New Guinea,Netherlands,0,0,0,0,0,23,3,29,1,0,9.666666666666666,ICC Academy,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NPokana,Papua New Guinea,Netherlands,0,0,0,0,0,23,3,29,1,0,9.666666666666666,ICC Academy,0,0,2019,23
+NPokana,Papua New Guinea,Ireland,2,3,0,0,66.66666666666666,6,1,8,0,0,8.0,Tony Ireland Stadium,0,0,2016,0
+NPokana,Papua New Guinea,Scotland,1,1,0,0,100.0,24,4,43,1,0,10.75,ICC Academy,0,0,2019,22
+NPokana,Papua New Guinea,Kenya,7,9,0,0,77.77777777777779,25,4,21,3,0,5.25,Dubai International Cricket Stadium,0,0,2019,84
+NPokana,Papua New Guinea,Namibia,0,0,0,0,0,19,3,24,1,0,8.0,ICC Academy Ground No 2,0,0,2019,25
+NPokana,Papua New Guinea,Bermuda,0,0,0,0,0,17,2,18,2,0,9.0,ICC Academy,0,0,2019,50
+NPokana,Papua New Guinea,Ireland,0,0,0,0,0,11,1,6,1,0,6.0,Tony Ireland Stadium,0,0,2016,25
+NPokana,Papua New Guinea,Singapore,0,0,0,0,0,24,4,28,1,0,7.0,Dubai International Cricket Stadium,1,0,2019,37

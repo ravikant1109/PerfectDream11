@@ -1,3 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CZhuwao,Zimbabwe,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,-8
-CZhuwao,Zimbabwe,Pakistan,12,14,2,0,85.71428571428571,0,0,0,0,0,0,Harare Sports Club,14
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CZhuwao,Zimbabwe,Pakistan,12,14,2,0,85.71428571428571,0,0,0,0,0,0,Harare Sports Club,0,0,2011,14
+CZhuwao,Zimbabwe,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,0,0,2011,-8

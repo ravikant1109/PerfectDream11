@@ -1,8 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NPooran,West Indies,Pakistan,5,4,1,0,125.0,0,0,0,0,0,0,Dubai International Cricket Stadium,6
-NPooran,West Indies,India,17,24,1,1,70.83333333333334,0,0,0,0,0,0,Providence Stadium Guyana,20
-NPooran,West Indies,Pakistan,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Sheikh Zayed Stadium,18
-NPooran,West Indies,Pakistan,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-NPooran,West Indies,India,19,35,1,0,54.285714285714285,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,16
-NPooran,West Indies,India,20,17,1,2,117.64705882352942,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,25
-NPooran,West Indies,Pakistan,5,4,1,0,125.0,0,0,0,0,0,0,Dubai International Cricket Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NPooran,West Indies,Pakistan,5,4,1,0,125.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2016,6
+NPooran,West Indies,India,19,35,1,0,54.285714285714285,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,1,2019,24
+NPooran,West Indies,India,17,24,1,1,70.83333333333334,0,0,0,0,0,0,Providence Stadium Guyana,0,1,2019,28
+NPooran,West Indies,Pakistan,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,18
+NPooran,West Indies,India,20,17,1,2,117.64705882352942,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,25
+NPooran,West Indies,Pakistan,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2016,0

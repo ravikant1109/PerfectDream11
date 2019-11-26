@@ -1,6 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SRBhudia,Kenya,Namibia,0,1,0,0,0.0,5,0,6,1,0,0,Dubai International Cricket Stadium,17
-SRBhudia,Kenya,Singapore,0,0,0,0,0,11,1,11,0,0,11.0,ICC Academy Ground No 2,0
-SRBhudia,Kenya,Uganda,1,1,0,0,100.0,18,3,22,0,0,7.333333333333333,Lugogo Cricket Oval,1
-SRBhudia,Kenya,Papua New Guinea,3,14,0,0,21.428571428571427,19,3,24,0,0,8.0,Dubai International Cricket Stadium,-3
-SRBhudia,Kenya,Namibia,0,1,0,0,0.0,5,0,6,1,0,0,Dubai International Cricket Stadium,17
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SRBhudia,Kenya,Singapore,0,0,0,0,0,11,1,11,0,0,11.0,ICC Academy Ground No 2,0,1,2019,8
+SRBhudia,Kenya,Papua New Guinea,3,14,0,0,21.428571428571427,19,3,24,0,0,8.0,Dubai International Cricket Stadium,0,0,2019,-3
+SRBhudia,Kenya,Namibia,0,1,0,0,0.0,5,0,6,1,0,0,Dubai International Cricket Stadium,0,0,2019,17
+SRBhudia,Kenya,Uganda,1,1,0,0,100.0,18,3,22,0,0,7.333333333333333,Lugogo Cricket Oval,0,0,2019,1

@@ -1,14 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LitonDas,Bangladesh,Afghanistan,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-2
-LitonDas,Bangladesh,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,-8
-LitonDas,Bangladesh,Afghanistan,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-2
-LitonDas,Bangladesh,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,-8
-LitonDas,Bangladesh,Afghanistan,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-2
-LitonDas,Bangladesh,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,-8
-LitonDas,Bangladesh,Zimbabwe,38,22,4,2,172.72727272727272,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,46
-LitonDas,Bangladesh,South Africa,10,8,1,0,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,11
-LitonDas,Bangladesh,Zimbabwe,17,12,2,0,141.66666666666669,0,0,0,0,0,0,Shere Bangla National Stadium,19
-LitonDas,Bangladesh,South Africa,22,27,0,1,81.48148148148148,0,0,0,0,0,0,Shere Bangla National Stadium,24
-LitonDas,Bangladesh,Zimbabwe,19,14,1,1,135.71428571428572,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,22
-LitonDas,Bangladesh,Afghanistan,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-2
-LitonDas,Bangladesh,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LitonDas,Bangladesh,South Africa,22,27,0,1,81.48148148148148,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2015,32
+LitonDas,Bangladesh,Zimbabwe,17,12,2,0,141.66666666666669,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2015,35
+LitonDas,Bangladesh,Afghanistan,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2019,-2
+LitonDas,Bangladesh,South Africa,10,8,1,0,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,11
+LitonDas,Bangladesh,Zimbabwe,38,22,4,2,172.72727272727272,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2019,46
+LitonDas,Bangladesh,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,0,1,2019,0
+LitonDas,Bangladesh,Zimbabwe,19,14,1,1,135.71428571428572,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,0,0,2019,22

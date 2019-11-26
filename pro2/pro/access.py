@@ -36,7 +36,7 @@ class Read:
 			try:
 				##Contains data of the match in YAML format, to get extra information of the match wrt the players who have caught/run out batsmen.
 				self.data = yaml.safe_load(stream) 
-				print(s)
+				# print(s)
 			except yaml.YAMLError as exc:
 				print(exc)
 
@@ -50,17 +50,32 @@ class Read:
 		self.batsmen = set(()) 
 		##List of bowlers playing in the match, initialized to empty
 		self.bowlers = set(()) 
+
+		self.fielder = set(())
+
+		self.teamplayers = set(())
+		self.year_set = ['2003' , '2004' , '2005' , '2006' , '2007' , '2008' , '2009' , '2010' , '2011' , '2012' ,
+		 '2013' , '2014' , '2015' , '2016' , '2017' , '2018' , '2019' , '2020' , '2021']
 		teams = []
+		# print("--------------------------------------------")
 		for row in self.match_details:
 			if row[1] == 'team':
 				teams.append(row[2])
 			if row[1] == 'venue':
 				venue = row[2]
 		venue = venue.replace(',' , '')
+		for row in self.match_details:
+			if row[1] == 'date':
+				year = row[2]
+				year = year[:4]
+				# print(year)
 		bats_name = ""
 		bow_name = ""
+		fiel_name = ""
 		bowler_dict = {}
 		batsmen_dict = {}
+		fielder_dict = {}
+		encode_year = []
 		run_after = 0
 		ball_count = 0
 		prev_over = 0
@@ -78,6 +93,8 @@ class Read:
 				delivery = 0
 			#print(inning, "\t", row[1])
 			#print(row[2], "\t", delivery)
+			self.teamplayers.add(bats_name)
+			self.teamplayers.add(bow_name)
 			if bats_name not in self.batsmen:
 				ls = [bats_name, row[3]]	#0: batsman name,1: team of batsman
 				if teams[0] == row[3]:
@@ -160,16 +177,57 @@ class Read:
 						s = '2nd innings'
 					##In case the person who has run out the batsmen is the bowler itself.
 					try:
-						print(row[9], "\t", self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders'])
-					except:
-						print(bow_name)
+						runout = self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders']
+						# print(runout)
+						fiel_name = runout[0].replace(" ","")
+						# print(fiel_name)
+						if fiel_name not in self.fielder:
+							ls3 = [fiel_name]
+							ls3.append(1)
+							ls3.append(0)
+							fielder_dict[fiel_name] = ls3
+						else:
+							ls3 = fielder_dict[fiel_name]
+							ls3[1] += 1
+							fielder_dict[fiel_name] = ls3
 
+						# print(row[9], "\t", self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders'])
+					except:
+						# print("yaha3")
+						# print(bow_name)
+						fiel_name = bow_name
+						if fiel_name not in self.fielder:
+							ls3 = [fiel_name]
+							ls3.append(1)
+							ls3.append(0)
+							fielder_dict[fiel_name] = ls3
+						else:
+							ls3 = fielder_dict[fiel_name]
+							ls3[1] += 1
+							fielder_dict[fiel_name] = ls3
+
+					self.fielder.add(fiel_name)
+					self.teamplayers.add(fiel_name)
 				if row[9] == 'caught':
 					if inning == 1:
 						s = '1st innings'
 					else:
 						s = '2nd innings'
-					print(row[9], "\t", self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders'])
+					caughtout = self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders']
+					# print(caughtout)
+					fiel_name = caughtout[0].replace(" ","")
+					# print(fiel_name)
+					if fiel_name not in self.fielder:
+							ls3 = [fiel_name]
+							ls3.append(0)
+							ls3.append(1)
+							fielder_dict[fiel_name] = ls3
+					else:
+						ls3 = fielder_dict[fiel_name]
+						ls3[2] += 1
+						fielder_dict[fiel_name] = ls3
+					# print(row[9], "\t", self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders'])
+					self.fielder.add(fiel_name)
 				#################################FINISH PATCH WORK##############################################
 
 				bowler_dict[bow_name] = ls2
@@ -187,19 +245,72 @@ class Read:
 
 					##In case the person who has run out the batsmen is the bowler itself.
 					try:
-						print(row[9], "\t", self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders'])
+						runout = self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders']
+						# print("trty")
+						# print(runout)
+						fiel_name = runout[0].replace(" ","")
+						# print(fiel_name)
+						if fiel_name not in self.fielder:
+							ls3 = [fiel_name]
+							ls3.append(1)
+							ls3.append(0)
+							fielder_dict[fiel_name] = ls3
+						else:
+							ls3 = fielder_dict[fiel_name]
+							ls3[1] += 1
+							fielder_dict[fiel_name] = ls3
+						# print(row[9], "\t", self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders'])
 					except:
-						print(bow_name)
+						# print("yaha2")
+						# print(bow_name)
+						fiel_name = bow_name
+						if fiel_name not in self.fielder:
+							ls3 = [fiel_name]
+							ls3.append(1)
+							ls3.append(0)
+							fielder_dict[fiel_name] = ls3
+						else:
+							ls3 = fielder_dict[fiel_name]
+							ls3[1] += 1
+							fielder_dict[fiel_name] = ls3
+
+					self.fielder.add(fiel_name)
 				if row[9] == 'caught':
 					if inning == 1:
 						s = '1st innings'
 					else:
 						s = '2nd innings'
 					try:
-						print(row[9], "\t", self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders'])
-					except:
-						print()
 
+						caughtout = self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders']
+						# print(caughtout)
+						fiel_name = caughtout[0].replace(" ","")
+						# print(fiel_name)
+						if fiel_name not in self.fielder:
+							ls3 = [fiel_name]
+							ls3.append(0)
+							ls3.append(1)
+							fielder_dict[fiel_name] = ls3
+						else:
+							ls3 = fielder_dict[fiel_name]
+							ls3[2] += 1
+							fielder_dict[fiel_name] = ls3
+						# print(row[9], "\t", self.data['innings'][inning - 1][s]['deliveries'][delivery][float(row[2])]['wicket']['fielders'])
+					except:
+						# print("yaha1")
+						# print(bow_name)
+						fiel_name = bow_name
+						if fiel_name not in self.fielder:
+							ls3 = [fiel_name]
+							ls3.append(0)
+							ls3.append(1)
+							fielder_dict[fiel_name] = ls3
+						else:
+							ls3 = fielder_dict[fiel_name]
+							ls3[2] += 1
+							fielder_dict[fiel_name] = ls3
+
+					self.fielder.add(fiel_name)
 				##############################FINISH PATCH WORK###############################################
 				
 
@@ -236,6 +347,19 @@ class Read:
 			delivery += 1
 			#with open("players/" + bats_name + ".csv", 'w'):
 			#with open("players/" + bats_name + ".csv", 'w'):
+
+
+
+		# print( self.teamplayers)
+		# for l, j in fielder_dict.items():
+		# 	# print(l, " : ", j)
+
+
+
+
+
+
+
 		################# calc batsmen strike rate ##################
 		for l , j in batsmen_dict.items():
 			temp = j
@@ -249,6 +373,7 @@ class Read:
 			if temp[9] != 0:
 				temp[13] = temp[10] / temp [9]
 			bowler_dict[l] = temp
+
 
 
 		# print()
@@ -267,12 +392,49 @@ class Read:
 				# print(batsmen_dict[temp[0]])
 				del bowler_dict[temp[0]]
 
-		print()
+		# print()
 
 		########## still merging ####################
 		for l, j in bowler_dict.items():
 			batsmen_dict[l] = bowler_dict[l]
 		
+
+
+		# print( self.teamplayers)
+		# for l, j in batsmen_dict.items():
+		# 	print(l)
+
+		###########################################
+
+		for l, j in batsmen_dict.items():
+			temp = batsmen_dict[l]
+
+			temp.append(0)
+			temp.append(0)
+			temp.append(year)
+			batsmen_dict[l] = temp
+
+
+
+
+		################# append catch and runout ###########
+		for l , j in batsmen_dict.items():
+
+			if l in fielder_dict.keys():
+				temp = batsmen_dict[l]
+				temp1 = fielder_dict[l]
+				temp[15] = temp1[1]							#runout
+				temp[16] = temp1[2]							#catchout
+				batsmen_dict[l] = temp
+
+		print()
+#"Player name" , "Country" , "Opponent team" , "Runs Scored" , "Balls played" , "Four" , "Six" , "Strike Rate" , "Balls bowled" 
+#, "over" , "Runs Given" , "Wickets" , "Maiden Over" , "Economy" , "Venue" , "runout" , "catch" , "year" ,"Total Score"]
+		for l,j in fielder_dict.items():
+			if l not in fielder_dict.keys():
+				temp=[l ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,over,0 ,0 ,0 ,0 ,venue , j[1], j[2] , year ]
+				batsmen_dict[l] = temp
+				print(batsmen_dict[l])
 		############# calculating total score ########
 		for l, j in batsmen_dict.items():
 			temp = batsmen_dict[l]
@@ -313,13 +475,17 @@ class Read:
 				elif temp[13] < 6:
 					score += 2
 				elif temp[13] >9 and temp[13] <= 10:
-					score -= 2
+					score -= 2	
 				elif temp[13] >10 and temp[13] <= 11:
 					score -= 4
 				elif temp[13] > 11:
 					score -= 6
+			########## catch and run out #################
 
-			temp[15] = score
+			score += temp[15]*12
+			score += temp[16]*8
+
+			temp[18] = score
 
 			batsmen_dict[l] = temp				######## final score ##############
 			#print(l, " : ", j)
@@ -331,13 +497,68 @@ class Read:
 			# 		with open (filename , "a") as csvfile:
 			# 			writer = csv.writer(csvfile , delimiter = ',')
 			# 			writer.writerow(heading)
-				
+			
+
+
+
 			with open (filename , "a") as csvfile:
 				writer = csv.writer(csvfile , delimiter = ',')
 				writer.writerow(temp)
+
+			
+		encode = []
+		encode_year = []
+		with open ("temp.csv" , "r") as playercsv:
+			reader = csv.reader( playercsv , delimiter = ',')
+			for row in reader:
+				# print(row[1])
+				# print()
+				if row[1] in self.teamplayers:
+					encode.append(1)
+				else:
+					encode.append(0) 
+		# print(self.filename)
+		for i in self.year_set:
+			# print(year)
+			if year == i:
+
+
+				# print(year)
+				encode_year.append(1)
+			else:
+				encode_year.append(0)
+		# print(encode_year)
+		encode += encode_year
+		# encode.append(encode_year)
+		# print(encode)
+		counter = 0
+		# print(self.filename)
+		for i in self.teamplayers:
+			encode_temp = []
+			if counter != 0:
+				encode_temp = encode[:-counter]
+			else:
+				encode_temp = encode
+			counter += 1
+			filename2 = "train/" + i + ".csv"
+			# print(i)
+			if i not in batsmen_dict:
+				continue
+			templist = batsmen_dict[i]
+			# print(templist)
+			player_score = templist[-1:]
+			# print(i)
+			# print(player_score)
+			encode_temp += player_score
+			# print(encode_temp)
+			# print(encode_temp)
+			with open ( filename2 , "a" ) as traincsv:
+					writer = csv.writer(traincsv , delimiter = ',')
+					writer.writerow(encode_temp)
+
 def addH():
 
-	header = ["Player name" , "Country" , "Opponent team" , "Runs Scored" , "Balls played" , "Four" , "Six" , "Strike Rate" , "Balls bowled" , "over" , "Runs Given" , "Wickets" , "Maiden Over" , "Economy" , "Venue" , "Total Score"]
+	header = ["Player name" , "Country" , "Opponent team" , "Runs Scored" , "Balls played" , "Four" , "Six" , "Strike Rate" , "Balls bowled" , "over" , "Runs Given" , "Wickets" , "Maiden Over" , "Economy" , "Venue" , "runout" , "catch" , "year" ,"Total Score"]
 	files = []
 	for file in glob.glob("all_csv/*"):
 		with open(file , "r") as infile:

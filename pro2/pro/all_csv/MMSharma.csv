@@ -1,19 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MMSharma,India,South Africa,0,0,0,0,0,24,4,41,0,0,10.25,Himachal Pradesh Cricket Association Stadium,-4
-MMSharma,India,South Africa,0,0,0,0,0,17,2,34,0,0,17.0,Shere Bangla National Stadium,-6
-MMSharma,India,England,0,0,0,0,0,23,3,40,1,0,13.333333333333334,Edgbaston,19
-MMSharma,India,South Africa,0,0,0,0,0,24,4,41,0,0,10.25,Himachal Pradesh Cricket Association Stadium,-4
-MMSharma,India,South Africa,0,0,0,0,0,17,2,34,0,0,17.0,Shere Bangla National Stadium,-6
-MMSharma,India,England,0,0,0,0,0,23,3,40,1,0,13.333333333333334,Edgbaston,19
-MMSharma,India,South Africa,0,0,0,0,0,24,4,41,0,0,10.25,Himachal Pradesh Cricket Association Stadium,-4
-MMSharma,India,South Africa,0,0,0,0,0,17,2,34,0,0,17.0,Shere Bangla National Stadium,-6
-MMSharma,India,England,0,0,0,0,0,23,3,40,1,0,13.333333333333334,Edgbaston,19
-MMSharma,India,South Africa,0,5,0,0,0.0,5,0,7,0,0,0,Barabati Stadium,-8
-MMSharma,India,Australia,0,0,0,0,0,11,1,12,1,0,12.0,Shere Bangla National Stadium,25
-MMSharma,India,Zimbabwe,0,0,0,0,0,17,2,10,1,0,5.0,Harare Sports Club,27
-MMSharma,India,Sri Lanka,0,0,0,0,0,11,1,18,1,0,18.0,Shere Bangla National Stadium,25
-MMSharma,India,Zimbabwe,3,3,0,0,100.0,23,3,28,2,0,9.333333333333334,Harare Sports Club,51
-MMSharma,India,South Africa,0,0,0,0,0,24,4,41,0,0,10.25,Himachal Pradesh Cricket Association Stadium,-4
-MMSharma,India,South Africa,0,0,0,0,0,17,2,34,0,0,17.0,Shere Bangla National Stadium,-6
-MMSharma,India,England,0,0,0,0,0,23,3,40,1,0,13.333333333333334,Edgbaston,19
-MMSharma,India,South Africa,0,5,0,0,0.0,5,0,7,0,0,0,Barabati Stadium,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MMSharma,India,Zimbabwe,0,0,0,0,0,17,2,10,1,0,5.0,Harare Sports Club,1,0,2015,39
+MMSharma,India,England,0,0,0,0,0,23,3,40,1,0,13.333333333333334,Edgbaston,0,0,2014,19
+MMSharma,India,Australia,0,0,0,0,0,11,1,12,1,0,12.0,Shere Bangla National Stadium,0,0,2014,25
+MMSharma,India,Sri Lanka,0,0,0,0,0,11,1,18,1,0,18.0,Shere Bangla National Stadium,0,0,2014,25
+MMSharma,India,Zimbabwe,3,3,0,0,100.0,23,3,28,2,0,9.333333333333334,Harare Sports Club,0,0,2015,51
+MMSharma,India,South Africa,0,5,0,0,0.0,5,0,7,0,0,0,Barabati Stadium,0,1,2015,0
+MMSharma,India,South Africa,0,0,0,0,0,17,2,34,0,0,17.0,Shere Bangla National Stadium,0,0,2014,-6
+MMSharma,India,South Africa,0,0,0,0,0,24,4,41,0,0,10.25,Himachal Pradesh Cricket Association Stadium,0,0,2015,-4

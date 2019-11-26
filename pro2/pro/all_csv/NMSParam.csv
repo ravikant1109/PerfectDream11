@@ -1,12 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NMSParam,Singapore,Netherlands,13,16,0,0,81.25,0,0,0,0,0,0,ICC Academy,13
-NMSParam,Singapore,Netherlands,13,16,0,0,81.25,0,0,0,0,0,0,ICC Academy,13
-NMSParam,Singapore,Netherlands,13,16,0,0,81.25,0,0,0,0,0,0,ICC Academy,13
-NMSParam,Singapore,Scotland,13,8,0,1,162.5,0,0,0,0,0,0,ICC Academy,15
-NMSParam,Singapore,Kenya,21,11,2,1,190.9090909090909,11,1,13,0,0,13.0,ICC Academy Ground No 2,25
-NMSParam,Singapore,Zimbabwe,2,5,0,0,40.0,0,0,0,0,0,0,Indian Association Ground,-4
-NMSParam,Singapore,Papua New Guinea,11,13,1,0,84.61538461538461,24,4,24,2,0,6.0,Dubai International Cricket Stadium,62
-NMSParam,Singapore,Namibia,28,28,2,0,100.0,11,1,20,0,0,20.0,Dubai International Cricket Stadium,30
-NMSParam,Singapore,Bermuda,72,44,7,4,163.63636363636365,0,0,0,0,0,0,ICC Academy Ground No 2,95
-NMSParam,Singapore,Netherlands,13,16,0,0,81.25,0,0,0,0,0,0,ICC Academy,13
-NMSParam,Singapore,Scotland,13,8,0,1,162.5,0,0,0,0,0,0,ICC Academy,15
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NMSParam,Singapore,Kenya,21,11,2,1,190.9090909090909,11,1,13,0,0,13.0,ICC Academy Ground No 2,0,1,2019,33
+NMSParam,Singapore,Scotland,13,8,0,1,162.5,0,0,0,0,0,0,ICC Academy,0,0,2019,15
+NMSParam,Singapore,Zimbabwe,2,5,0,0,40.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,-4
+NMSParam,Singapore,Netherlands,13,16,0,0,81.25,0,0,0,0,0,0,ICC Academy,0,0,2019,13
+NMSParam,Singapore,Namibia,28,28,2,0,100.0,11,1,20,0,0,20.0,Dubai International Cricket Stadium,0,0,2019,30
+NMSParam,Singapore,Bermuda,72,44,7,4,163.63636363636365,0,0,0,0,0,0,ICC Academy Ground No 2,0,0,2019,95
+NMSParam,Singapore,Papua New Guinea,11,13,1,0,84.61538461538461,24,4,24,2,0,6.0,Dubai International Cricket Stadium,0,0,2019,62

@@ -1,23 +1,15 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RameezShahzad,United Arab Emirates,Afghanistan,47,20,5,3,235.0,0,0,0,0,0,0,Dubai International Cricket Stadium,58
-RameezShahzad,United Arab Emirates,Hong Kong,54,39,6,3,138.46153846153845,0,0,0,0,0,0,Sheikh Zayed Stadium,74
-RameezShahzad,United Arab Emirates,Afghanistan,47,20,5,3,235.0,0,0,0,0,0,0,Dubai International Cricket Stadium,58
-RameezShahzad,United Arab Emirates,Afghanistan,47,20,5,3,235.0,0,0,0,0,0,0,Dubai International Cricket Stadium,58
-RameezShahzad,United Arab Emirates,Hong Kong,54,39,6,3,138.46153846153845,0,0,0,0,0,0,Sheikh Zayed Stadium,74
-RameezShahzad,United Arab Emirates,Afghanistan,47,20,5,3,235.0,0,0,0,0,0,0,Dubai International Cricket Stadium,58
-RameezShahzad,United Arab Emirates,Hong Kong,54,39,6,3,138.46153846153845,0,0,0,0,0,0,Sheikh Zayed Stadium,74
-RameezShahzad,United Arab Emirates,Papua New Guinea,47,48,2,0,97.91666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,49
-RameezShahzad,United Arab Emirates,Ireland,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Sheikh Zayed Stadium,-3
-RameezShahzad,United Arab Emirates,Papua New Guinea,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Sheikh Zayed Stadium,7
-RameezShahzad,United Arab Emirates,Netherlands,49,42,6,0,116.66666666666667,0,0,0,0,0,0,VRA Ground,55
-RameezShahzad,United Arab Emirates,Afghanistan,3,5,0,0,60.0,0,0,0,0,0,0,Sheikh Zayed Stadium,1
-RameezShahzad,United Arab Emirates,Papua New Guinea,29,32,1,0,90.625,0,0,0,0,0,0,Sheikh Zayed Stadium,30
-RameezShahzad,United Arab Emirates,Oman,14,17,1,0,82.35294117647058,0,0,0,0,0,0,Sheikh Zayed Stadium,15
-RameezShahzad,United Arab Emirates,Afghanistan,49,32,6,2,153.125,0,0,0,0,0,0,ICC Academy,59
-RameezShahzad,United Arab Emirates,Jersey,7,14,0,0,50.0,0,0,0,0,0,0,Tolerance Oval,3
-RameezShahzad,United Arab Emirates,Canada,27,26,3,0,103.84615384615385,0,0,0,0,0,0,Sheikh Zayed Stadium,30
-RameezShahzad,United Arab Emirates,Ireland,0,1,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-RameezShahzad,United Arab Emirates,Afghanistan,15,17,1,0,88.23529411764706,0,0,0,0,0,0,ICC Academy,16
-RameezShahzad,United Arab Emirates,Afghanistan,47,20,5,3,235.0,0,0,0,0,0,0,Dubai International Cricket Stadium,58
-RameezShahzad,United Arab Emirates,Hong Kong,54,39,6,3,138.46153846153845,0,0,0,0,0,0,Sheikh Zayed Stadium,74
-RameezShahzad,United Arab Emirates,Papua New Guinea,47,48,2,0,97.91666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,49
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RameezShahzad,United Arab Emirates,Ireland,0,1,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2017,0
+RameezShahzad,United Arab Emirates,Afghanistan,3,5,0,0,60.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,1
+RameezShahzad,United Arab Emirates,Papua New Guinea,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,7
+RameezShahzad,United Arab Emirates,Hong Kong,54,39,6,3,138.46153846153845,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2019,90
+RameezShahzad,United Arab Emirates,Papua New Guinea,47,48,2,0,97.91666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,49
+RameezShahzad,United Arab Emirates,Canada,27,26,3,0,103.84615384615385,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,30
+RameezShahzad,United Arab Emirates,Papua New Guinea,29,32,1,0,90.625,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,30
+RameezShahzad,United Arab Emirates,Jersey,7,14,0,0,50.0,0,0,0,0,0,0,Tolerance Oval,0,0,2019,3
+RameezShahzad,United Arab Emirates,Oman,14,17,1,0,82.35294117647058,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2019,23
+RameezShahzad,United Arab Emirates,Afghanistan,15,17,1,0,88.23529411764706,0,0,0,0,0,0,ICC Academy,0,0,2016,16
+RameezShahzad,United Arab Emirates,Afghanistan,49,32,6,2,153.125,0,0,0,0,0,0,ICC Academy,0,1,2016,67
+RameezShahzad,United Arab Emirates,Ireland,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,-3
+RameezShahzad,United Arab Emirates,Afghanistan,47,20,5,3,235.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2016,66
+RameezShahzad,United Arab Emirates,Netherlands,49,42,6,0,116.66666666666667,0,0,0,0,0,0,VRA Ground,0,0,2019,55

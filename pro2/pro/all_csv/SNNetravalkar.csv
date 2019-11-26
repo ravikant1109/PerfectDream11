@@ -1,8 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SNNetravalkar,United States of America,Canada,7,9,1,0,77.77777777777779,23,3,27,1,0,9.0,White Hill Field Sandys Parish,33
-SNNetravalkar,United States of America,Cayman Islands,0,0,0,0,0,13,2,10,0,0,5.0,White Hill Field Sandys Parish,2
-SNNetravalkar,United States of America,Bermuda,12,7,0,1,171.42857142857142,20,3,33,0,0,11.0,Bermuda National Stadium,10
-SNNetravalkar,United States of America,Bermuda,0,0,0,0,0,17,2,24,0,0,12.0,White Hill Field Sandys Parish,-6
-SNNetravalkar,United States of America,Canada,0,0,0,0,0,18,3,21,1,0,7.0,White Hill Field Sandys Parish,25
-SNNetravalkar,United States of America,Cayman Islands,0,0,0,0,0,12,2,10,0,0,5.0,National Stadium,2
-SNNetravalkar,United States of America,Canada,7,9,1,0,77.77777777777779,23,3,27,1,0,9.0,White Hill Field Sandys Parish,33
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SNNetravalkar,United States of America,Canada,0,0,0,0,0,18,3,21,1,0,7.0,White Hill Field Sandys Parish,0,0,2019,25
+SNNetravalkar,United States of America,Canada,7,9,1,0,77.77777777777779,23,3,27,1,0,9.0,White Hill Field Sandys Parish,0,1,2019,41
+SNNetravalkar,United States of America,Cayman Islands,0,0,0,0,0,13,2,10,0,0,5.0,White Hill Field Sandys Parish,0,0,2019,2
+SNNetravalkar,United States of America,Cayman Islands,0,0,0,0,0,12,2,10,0,0,5.0,National Stadium,0,1,2019,10
+SNNetravalkar,United States of America,Bermuda,12,7,0,1,171.42857142857142,20,3,33,0,0,11.0,Bermuda National Stadium,0,0,2019,10
+SNNetravalkar,United States of America,Bermuda,0,0,0,0,0,17,2,24,0,0,12.0,White Hill Field Sandys Parish,0,1,2019,2

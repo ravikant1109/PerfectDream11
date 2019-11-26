@@ -1,30 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-WaqasBarkat,Hong Kong,Nepal,37,48,2,0,77.08333333333334,5,0,9,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),39
-WaqasBarkat,Hong Kong,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-WaqasBarkat,Hong Kong,Oman,19,15,1,0,126.66666666666666,24,4,24,1,0,6.0,Sheikh Zayed Stadium,45
-WaqasBarkat,Hong Kong,United Arab Emirates,9,7,1,0,128.57142857142858,11,1,17,0,0,17.0,Sheikh Zayed Stadium,10
-WaqasBarkat,Hong Kong,Nepal,37,48,2,0,77.08333333333334,5,0,9,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),39
-WaqasBarkat,Hong Kong,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-WaqasBarkat,Hong Kong,Oman,19,15,1,0,126.66666666666666,24,4,24,1,0,6.0,Sheikh Zayed Stadium,45
-WaqasBarkat,Hong Kong,United Arab Emirates,9,7,1,0,128.57142857142858,11,1,17,0,0,17.0,Sheikh Zayed Stadium,10
-WaqasBarkat,Hong Kong,Nepal,37,48,2,0,77.08333333333334,5,0,9,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),39
-WaqasBarkat,Hong Kong,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-WaqasBarkat,Hong Kong,Oman,19,15,1,0,126.66666666666666,24,4,24,1,0,6.0,Sheikh Zayed Stadium,45
-WaqasBarkat,Hong Kong,United Arab Emirates,9,7,1,0,128.57142857142858,11,1,17,0,0,17.0,Sheikh Zayed Stadium,10
-WaqasBarkat,Hong Kong,Nepal,18,19,3,0,94.73684210526315,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,21
-WaqasBarkat,Hong Kong,Canada,27,23,2,0,117.3913043478261,11,1,11,0,0,11.0,Tolerance Oval,29
-WaqasBarkat,Hong Kong,Ireland,9,20,0,0,45.0,7,1,16,0,0,16.0,Sheikh Zayed Stadium,3
-WaqasBarkat,Hong Kong,Ireland,13,15,0,0,86.66666666666667,5,0,15,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),13
-WaqasBarkat,Hong Kong,Nigeria,10,7,0,0,142.85714285714286,17,2,13,2,0,6.5,Tolerance Oval,60
-WaqasBarkat,Hong Kong,Netherlands,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-3
-WaqasBarkat,Hong Kong,Scotland,4,9,0,0,44.44444444444444,0,0,0,0,0,0,Mission Road Ground Mong Kok,-2
-WaqasBarkat,Hong Kong,Scotland,10,9,0,0,111.11111111111111,5,0,10,0,0,0,Sheikh Zayed Stadium,10
-WaqasBarkat,Hong Kong,Oman,10,7,2,0,142.85714285714286,0,0,0,0,0,0,Sheikh Zayed Stadium,12
-WaqasBarkat,Hong Kong,Oman,5,10,0,0,50.0,0,0,0,0,0,0,Sheikh Zayed Stadium,1
-WaqasBarkat,Hong Kong,Nepal,4,8,1,0,50.0,0,0,0,0,0,0,P Sara Oval,1
-WaqasBarkat,Hong Kong,Jersey,22,18,2,0,122.22222222222223,23,3,25,1,0,8.333333333333334,Sheikh Zayed Stadium,49
-WaqasBarkat,Hong Kong,Afghanistan,32,32,3,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,35
-WaqasBarkat,Hong Kong,Nepal,37,48,2,0,77.08333333333334,5,0,9,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),39
-WaqasBarkat,Hong Kong,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-WaqasBarkat,Hong Kong,Oman,19,15,1,0,126.66666666666666,24,4,24,1,0,6.0,Sheikh Zayed Stadium,45
-WaqasBarkat,Hong Kong,United Arab Emirates,9,7,1,0,128.57142857142858,11,1,17,0,0,17.0,Sheikh Zayed Stadium,10
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+WaqasBarkat,Hong Kong,Ireland,9,20,0,0,45.0,7,1,16,0,0,16.0,Sheikh Zayed Stadium,0,0,2019,3
+WaqasBarkat,Hong Kong,Jersey,22,18,2,0,122.22222222222223,23,3,25,1,0,8.333333333333334,Sheikh Zayed Stadium,0,0,2019,49
+WaqasBarkat,Hong Kong,Scotland,4,9,0,0,44.44444444444444,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,0,2016,-2
+WaqasBarkat,Hong Kong,Oman,10,7,2,0,142.85714285714286,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2015,20
+WaqasBarkat,Hong Kong,Oman,19,15,1,0,126.66666666666666,24,4,24,1,0,6.0,Sheikh Zayed Stadium,0,0,2019,45
+WaqasBarkat,Hong Kong,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,-8
+WaqasBarkat,Hong Kong,Ireland,13,15,0,0,86.66666666666667,5,0,15,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,21
+WaqasBarkat,Hong Kong,United Arab Emirates,9,7,1,0,128.57142857142858,11,1,17,0,0,17.0,Sheikh Zayed Stadium,0,0,2019,10
+WaqasBarkat,Hong Kong,Nepal,18,19,3,0,94.73684210526315,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,2,2014,37
+WaqasBarkat,Hong Kong,Nepal,37,48,2,0,77.08333333333334,5,0,9,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,39
+WaqasBarkat,Hong Kong,Nepal,4,8,1,0,50.0,0,0,0,0,0,0,P Sara Oval,0,1,2014,9
+WaqasBarkat,Hong Kong,Nigeria,10,7,0,0,142.85714285714286,17,2,13,2,0,6.5,Tolerance Oval,0,0,2019,60
+WaqasBarkat,Hong Kong,Canada,27,23,2,0,117.3913043478261,11,1,11,0,0,11.0,Tolerance Oval,0,0,2019,29
+WaqasBarkat,Hong Kong,Oman,5,10,0,0,50.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2015,1
+WaqasBarkat,Hong Kong,Netherlands,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,-3
+WaqasBarkat,Hong Kong,Scotland,10,9,0,0,111.11111111111111,5,0,10,0,0,0,Sheikh Zayed Stadium,0,0,2017,10
+WaqasBarkat,Hong Kong,Afghanistan,32,32,3,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,35

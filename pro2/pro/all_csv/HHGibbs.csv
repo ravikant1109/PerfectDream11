@@ -1,32 +1,24 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HHGibbs,South Africa,India,1,5,0,0,20.0,0,0,0,0,0,0,Kingsmead,-5
-HHGibbs,South Africa,India,1,5,0,0,20.0,0,0,0,0,0,0,Kingsmead,-5
-HHGibbs,South Africa,India,1,5,0,0,20.0,0,0,0,0,0,0,Kingsmead,-5
-HHGibbs,South Africa,Bangladesh,18,10,4,0,180.0,0,0,0,0,0,0,New Wanderers Stadium,22
-HHGibbs,South Africa,England,30,32,2,1,93.75,0,0,0,0,0,0,Trent Bridge,34
-HHGibbs,South Africa,India,5,3,1,0,166.66666666666669,0,0,0,0,0,0,Trent Bridge,6
-HHGibbs,South Africa,Pakistan,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Beausejour Stadium Gros Islet,-3
-HHGibbs,South Africa,New Zealand,19,20,4,0,95.0,0,0,0,0,0,0,Kingsmead,23
-HHGibbs,South Africa,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,-8
-HHGibbs,South Africa,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,-8
-HHGibbs,South Africa,West Indies,0,4,0,0,0.0,0,0,0,0,0,0,St George's Park,-8
-HHGibbs,South Africa,New Zealand,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Lord's,-3
-HHGibbs,South Africa,Australia,6,13,0,0,46.15384615384615,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0
-HHGibbs,South Africa,New Zealand,9,7,0,0,128.57142857142858,0,0,0,0,0,0,New Wanderers Stadium,9
-HHGibbs,South Africa,England,8,8,1,0,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,9
-HHGibbs,South Africa,Scotland,16,14,0,0,114.28571428571428,0,0,0,0,0,0,Kennington Oval,16
-HHGibbs,South Africa,Australia,56,35,4,4,160.0,0,0,0,0,0,0,New Wanderers Stadium,76
-HHGibbs,South Africa,New Zealand,30,24,1,2,125.0,0,0,0,0,0,0,Kensington Oval Bridgetown,35
-HHGibbs,South Africa,West Indies,55,35,8,1,157.14285714285714,0,0,0,0,0,0,Kennington Oval,73
-HHGibbs,South Africa,India,7,7,1,0,100.0,0,0,0,0,0,0,New Wanderers Stadium,8
-HHGibbs,South Africa,Australia,20,14,1,1,142.85714285714286,0,0,0,0,0,0,SuperSport Park,23
-HHGibbs,South Africa,Australia,0,4,0,0,0.0,0,0,0,0,0,0,Melbourne Cricket Ground,-8
-HHGibbs,South Africa,Australia,19,12,2,1,158.33333333333331,0,0,0,0,0,0,New Wanderers Stadium,23
-HHGibbs,South Africa,West Indies,90,61,14,2,147.54098360655738,0,0,0,0,0,0,New Wanderers Stadium,116
-HHGibbs,South Africa,Pakistan,5,4,0,0,125.0,0,0,0,0,0,0,Trent Bridge,5
-HHGibbs,South Africa,India,1,5,0,0,20.0,0,0,0,0,0,0,Kingsmead,-5
-HHGibbs,South Africa,Bangladesh,18,10,4,0,180.0,0,0,0,0,0,0,New Wanderers Stadium,22
-HHGibbs,South Africa,England,30,32,2,1,93.75,0,0,0,0,0,0,Trent Bridge,34
-HHGibbs,South Africa,India,5,3,1,0,166.66666666666669,0,0,0,0,0,0,Trent Bridge,6
-HHGibbs,South Africa,Pakistan,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Beausejour Stadium Gros Islet,-3
-HHGibbs,South Africa,New Zealand,19,20,4,0,95.0,0,0,0,0,0,0,Kingsmead,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HHGibbs,South Africa,New Zealand,19,20,4,0,95.0,0,0,0,0,0,0,Kingsmead,0,0,2007,23
+HHGibbs,South Africa,England,30,32,2,1,93.75,0,0,0,0,0,0,Trent Bridge,0,0,2009,34
+HHGibbs,South Africa,India,1,5,0,0,20.0,0,0,0,0,0,0,Kingsmead,0,0,2007,-5
+HHGibbs,South Africa,New Zealand,30,24,1,2,125.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,3,2010,59
+HHGibbs,South Africa,New Zealand,9,7,0,0,128.57142857142858,0,0,0,0,0,0,New Wanderers Stadium,0,0,2005,9
+HHGibbs,South Africa,India,5,3,1,0,166.66666666666669,0,0,0,0,0,0,Trent Bridge,0,0,2009,6
+HHGibbs,South Africa,Pakistan,5,4,0,0,125.0,0,0,0,0,0,0,Trent Bridge,0,0,2009,5
+HHGibbs,South Africa,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2006,0
+HHGibbs,South Africa,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2008,-8
+HHGibbs,South Africa,England,8,8,1,0,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,9
+HHGibbs,South Africa,Australia,0,4,0,0,0.0,0,0,0,0,0,0,Melbourne Cricket Ground,1,0,2009,4
+HHGibbs,South Africa,Pakistan,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,2,2010,13
+HHGibbs,South Africa,India,7,7,1,0,100.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2006,8
+HHGibbs,South Africa,Australia,20,14,1,1,142.85714285714286,0,0,0,0,0,0,SuperSport Park,0,1,2009,31
+HHGibbs,South Africa,West Indies,0,4,0,0,0.0,0,0,0,0,0,0,St George's Park,0,0,2007,-8
+HHGibbs,South Africa,Bangladesh,18,10,4,0,180.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2008,22
+HHGibbs,South Africa,Scotland,16,14,0,0,114.28571428571428,0,0,0,0,0,0,Kennington Oval,0,0,2009,16
+HHGibbs,South Africa,Australia,19,12,2,1,158.33333333333331,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,23
+HHGibbs,South Africa,Australia,56,35,4,4,160.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2006,76
+HHGibbs,South Africa,New Zealand,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Lord's,0,0,2009,-3
+HHGibbs,South Africa,Australia,6,13,0,0,46.15384615384615,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2009,0
+HHGibbs,South Africa,West Indies,90,61,14,2,147.54098360655738,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,124
+HHGibbs,South Africa,West Indies,55,35,8,1,157.14285714285714,0,0,0,0,0,0,Kennington Oval,0,0,2009,73

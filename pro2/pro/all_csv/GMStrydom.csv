@@ -1,11 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GMStrydom,Cayman Islands,Bermuda,0,1,0,0,0.0,0,0,0,0,0,0,White Hill Field Sandys Parish,-8
-GMStrydom,Cayman Islands,Bermuda,0,1,0,0,0.0,0,0,0,0,0,0,White Hill Field Sandys Parish,-8
-GMStrydom,Cayman Islands,Bermuda,0,1,0,0,0.0,0,0,0,0,0,0,White Hill Field Sandys Parish,-8
-GMStrydom,Cayman Islands,Canada,23,33,0,1,69.6969696969697,0,0,0,0,0,0,White Hill Field Sandys Parish,23
-GMStrydom,Cayman Islands,United States of America,2,5,0,0,40.0,0,0,0,0,0,0,White Hill Field Sandys Parish,-4
-GMStrydom,Cayman Islands,Bermuda,23,15,1,2,153.33333333333334,0,0,0,0,0,0,White Hill Field Sandys Parish,28
-GMStrydom,Cayman Islands,Canada,49,35,5,2,140.0,0,0,0,0,0,0,White Hill Field Sandys Parish,58
-GMStrydom,Cayman Islands,United States of America,0,4,0,0,0.0,0,0,0,0,0,0,National Stadium,-8
-GMStrydom,Cayman Islands,Bermuda,0,1,0,0,0.0,0,0,0,0,0,0,White Hill Field Sandys Parish,-8
-GMStrydom,Cayman Islands,Canada,23,33,0,1,69.6969696969697,0,0,0,0,0,0,White Hill Field Sandys Parish,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GMStrydom,Cayman Islands,United States of America,2,5,0,0,40.0,0,0,0,0,0,0,White Hill Field Sandys Parish,0,0,2019,-4
+GMStrydom,Cayman Islands,Bermuda,23,15,1,2,153.33333333333334,0,0,0,0,0,0,White Hill Field Sandys Parish,0,0,2019,28
+GMStrydom,Cayman Islands,United States of America,0,4,0,0,0.0,0,0,0,0,0,0,National Stadium,0,1,2019,0
+GMStrydom,Cayman Islands,Canada,49,35,5,2,140.0,0,0,0,0,0,0,White Hill Field Sandys Parish,0,1,2019,66
+GMStrydom,Cayman Islands,Bermuda,0,1,0,0,0.0,0,0,0,0,0,0,White Hill Field Sandys Parish,0,0,2019,-8
+GMStrydom,Cayman Islands,Canada,23,33,0,1,69.6969696969697,0,0,0,0,0,0,White Hill Field Sandys Parish,0,0,2019,23

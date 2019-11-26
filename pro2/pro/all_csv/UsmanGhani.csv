@@ -1,17 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-UsmanGhani,Afghanistan,United Arab Emirates,18,18,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,18
-UsmanGhani,Afghanistan,United Arab Emirates,18,18,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,18
-UsmanGhani,Afghanistan,United Arab Emirates,18,18,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,18
-UsmanGhani,Afghanistan,United Arab Emirates,18,18,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,18
-UsmanGhani,Afghanistan,Oman,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,6
-UsmanGhani,Afghanistan,West Indies,8,13,1,0,61.53846153846154,0,0,0,0,0,0,Warner Park Basseterre,7
-UsmanGhani,Afghanistan,West Indies,4,6,1,0,66.66666666666666,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,3
-UsmanGhani,Afghanistan,Zimbabwe,13,18,2,0,72.22222222222221,0,0,0,0,0,0,Queens Sports Club,15
-UsmanGhani,Afghanistan,Zimbabwe,42,40,5,1,105.0,0,0,0,0,0,0,Sharjah Cricket Stadium,49
-UsmanGhani,Afghanistan,Ireland,23,21,3,0,109.52380952380953,0,0,0,0,0,0,Greater Noida Sports Complex Ground,26
-UsmanGhani,Afghanistan,Zimbabwe,65,49,6,3,132.6530612244898,0,0,0,0,0,0,Queens Sports Club,85
-UsmanGhani,Afghanistan,Zimbabwe,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Sharjah Cricket Stadium,-1
-UsmanGhani,Afghanistan,United Arab Emirates,3,6,0,0,50.0,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,-1
-UsmanGhani,Afghanistan,United Arab Emirates,27,18,0,2,150.0,0,0,0,0,0,0,ICC Academy,31
-UsmanGhani,Afghanistan,United Arab Emirates,18,18,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,18
-UsmanGhani,Afghanistan,Oman,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+UsmanGhani,Afghanistan,Ireland,23,21,3,0,109.52380952380953,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,1,2017,34
+UsmanGhani,Afghanistan,United Arab Emirates,3,6,0,0,50.0,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,-1
+UsmanGhani,Afghanistan,West Indies,4,6,1,0,66.66666666666666,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,3
+UsmanGhani,Afghanistan,Zimbabwe,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Sharjah Cricket Stadium,1,2,2016,27
+UsmanGhani,Afghanistan,United Arab Emirates,27,18,0,2,150.0,0,0,0,0,0,0,ICC Academy,0,0,2016,31
+UsmanGhani,Afghanistan,United Arab Emirates,18,18,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2016,26
+UsmanGhani,Afghanistan,Oman,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2015,6
+UsmanGhani,Afghanistan,West Indies,8,13,1,0,61.53846153846154,0,0,0,0,0,0,Warner Park Basseterre,0,1,2017,15
+UsmanGhani,Afghanistan,Zimbabwe,13,18,2,0,72.22222222222221,0,0,0,0,0,0,Queens Sports Club,0,0,2015,15
+UsmanGhani,Afghanistan,Zimbabwe,65,49,6,3,132.6530612244898,0,0,0,0,0,0,Queens Sports Club,0,0,2015,85
+UsmanGhani,Afghanistan,Zimbabwe,42,40,5,1,105.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,49

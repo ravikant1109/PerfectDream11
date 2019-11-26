@@ -1,10 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GJHopkins,New Zealand,Australia,36,17,2,2,211.76470588235296,0,0,0,0,0,0,AMI Stadium,42
-GJHopkins,New Zealand,Sri Lanka,1,8,0,0,12.5,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-5
-GJHopkins,New Zealand,Sri Lanka,1,1,0,0,100.0,0,0,0,0,0,0,Providence Stadium,1
-GJHopkins,New Zealand,England,1,2,0,0,50.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,-3
-GJHopkins,New Zealand,Pakistan,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kensington Oval Bridgetown,-4
-GJHopkins,New Zealand,South Africa,18,14,0,2,128.57142857142858,0,0,0,0,0,0,Kensington Oval Bridgetown,22
-GJHopkins,New Zealand,Australia,21,13,2,1,161.53846153846155,0,0,0,0,0,0,Westpac Stadium,25
-GJHopkins,New Zealand,South Africa,6,10,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,4
-GJHopkins,New Zealand,Australia,36,17,2,2,211.76470588235296,0,0,0,0,0,0,AMI Stadium,42
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GJHopkins,New Zealand,South Africa,18,14,0,2,128.57142857142858,0,0,0,0,0,0,Kensington Oval Bridgetown,1,0,2010,34
+GJHopkins,New Zealand,England,1,2,0,0,50.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,-3
+GJHopkins,New Zealand,Sri Lanka,1,1,0,0,100.0,0,0,0,0,0,0,Providence Stadium,0,0,2010,1
+GJHopkins,New Zealand,Pakistan,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2010,12
+GJHopkins,New Zealand,Australia,21,13,2,1,161.53846153846155,0,0,0,0,0,0,Westpac Stadium,0,0,2010,25
+GJHopkins,New Zealand,South Africa,6,10,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,4
+GJHopkins,New Zealand,Sri Lanka,1,8,0,0,12.5,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2010,-5
+GJHopkins,New Zealand,Australia,36,17,2,2,211.76470588235296,0,0,0,0,0,0,AMI Stadium,0,0,2010,42

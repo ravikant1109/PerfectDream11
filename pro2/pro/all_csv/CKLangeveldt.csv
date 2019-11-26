@@ -1,12 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CKLangeveldt,South Africa,Pakistan,0,0,0,0,0,23,3,19,4,0,6.333333333333333,Beausejour Stadium Gros Islet,108
-CKLangeveldt,South Africa,England,0,0,0,0,0,25,4,40,1,0,10.0,New Wanderers Stadium,23
-CKLangeveldt,South Africa,Afghanistan,0,0,0,0,0,26,4,12,3,0,3.0,Kensington Oval Bridgetown,81
-CKLangeveldt,South Africa,New Zealand,2,4,0,0,50.0,13,2,15,2,0,7.5,New Wanderers Stadium,48
-CKLangeveldt,South Africa,England,2,3,0,0,66.66666666666666,24,4,35,2,0,8.75,Kensington Oval Bridgetown,50
-CKLangeveldt,South Africa,West Indies,0,0,0,0,0,17,2,31,1,0,15.5,Sir Vivian Richards Stadium North Sound,19
-CKLangeveldt,South Africa,New Zealand,0,0,0,0,0,25,4,40,2,0,10.0,Kensington Oval Bridgetown,48
-CKLangeveldt,South Africa,India,0,1,0,0,0.0,25,4,21,2,0,5.25,New Wanderers Stadium,44
-CKLangeveldt,South Africa,New Zealand,0,0,0,0,0,26,4,35,0,0,8.75,New Wanderers Stadium,0
-CKLangeveldt,South Africa,Pakistan,0,0,0,0,0,23,3,19,4,0,6.333333333333333,Beausejour Stadium Gros Islet,108
-CKLangeveldt,South Africa,England,0,0,0,0,0,25,4,40,1,0,10.0,New Wanderers Stadium,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CKLangeveldt,South Africa,New Zealand,0,0,0,0,0,25,4,40,2,0,10.0,Kensington Oval Bridgetown,0,0,2010,48
+CKLangeveldt,South Africa,New Zealand,2,4,0,0,50.0,13,2,15,2,0,7.5,New Wanderers Stadium,0,0,2005,48
+CKLangeveldt,South Africa,England,2,3,0,0,66.66666666666666,24,4,35,2,0,8.75,Kensington Oval Bridgetown,0,0,2010,50
+CKLangeveldt,South Africa,Afghanistan,0,0,0,0,0,26,4,12,3,0,3.0,Kensington Oval Bridgetown,0,0,2010,81
+CKLangeveldt,South Africa,Pakistan,0,0,0,0,0,23,3,19,4,0,6.333333333333333,Beausejour Stadium Gros Islet,0,0,2010,108
+CKLangeveldt,South Africa,India,0,1,0,0,0.0,25,4,21,2,0,5.25,New Wanderers Stadium,1,1,2006,64
+CKLangeveldt,South Africa,West Indies,0,0,0,0,0,17,2,31,1,0,15.5,Sir Vivian Richards Stadium North Sound,0,0,2010,19
+CKLangeveldt,South Africa,England,0,0,0,0,0,25,4,40,1,0,10.0,New Wanderers Stadium,0,0,2009,23
+CKLangeveldt,South Africa,New Zealand,0,0,0,0,0,26,4,35,0,0,8.75,New Wanderers Stadium,0,0,2007,0

@@ -1,7 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-UsmanMushtaq,United Arab Emirates,Ireland,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-UsmanMushtaq,United Arab Emirates,Ireland,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-UsmanMushtaq,United Arab Emirates,Ireland,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-UsmanMushtaq,United Arab Emirates,Pakistan,9,19,1,0,47.368421052631575,0,0,0,0,0,0,Shere Bangla National Stadium,4
-UsmanMushtaq,United Arab Emirates,Afghanistan,23,20,3,0,114.99999999999999,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,26
-UsmanMushtaq,United Arab Emirates,Ireland,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+UsmanMushtaq,United Arab Emirates,Pakistan,9,19,1,0,47.368421052631575,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,4
+UsmanMushtaq,United Arab Emirates,Afghanistan,23,20,3,0,114.99999999999999,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,26
+UsmanMushtaq,United Arab Emirates,Ireland,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,2

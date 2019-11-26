@@ -1,40 +1,24 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,24,4,24,1,0,6.0,Vidarbha Cricket Association Stadium Jamtha,25
-NadeemAhmed,Hong Kong,Bangladesh,2,2,0,0,100.0,20,3,21,4,0,7.0,Zahur Ahmed Chowdhury Stadium,110
-NadeemAhmed,Hong Kong,Oman,7,16,0,0,43.75,23,3,29,1,0,9.666666666666666,Sheikh Zayed Stadium,24
-NadeemAhmed,Hong Kong,Netherlands,0,0,0,0,0,23,3,27,2,0,9.0,Dubai International Cricket Stadium,50
-NadeemAhmed,Hong Kong,Ireland,0,0,0,0,0,11,1,16,0,0,16.0,The Village Malahide,0
-NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,24,4,24,1,0,6.0,Vidarbha Cricket Association Stadium Jamtha,25
-NadeemAhmed,Hong Kong,Bangladesh,2,2,0,0,100.0,20,3,21,4,0,7.0,Zahur Ahmed Chowdhury Stadium,110
-NadeemAhmed,Hong Kong,Oman,7,16,0,0,43.75,23,3,29,1,0,9.666666666666666,Sheikh Zayed Stadium,24
-NadeemAhmed,Hong Kong,Netherlands,0,0,0,0,0,23,3,27,2,0,9.0,Dubai International Cricket Stadium,50
-NadeemAhmed,Hong Kong,Ireland,0,0,0,0,0,11,1,16,0,0,16.0,The Village Malahide,0
-NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,24,4,24,1,0,6.0,Vidarbha Cricket Association Stadium Jamtha,25
-NadeemAhmed,Hong Kong,Bangladesh,2,2,0,0,100.0,20,3,21,4,0,7.0,Zahur Ahmed Chowdhury Stadium,110
-NadeemAhmed,Hong Kong,Oman,7,16,0,0,43.75,23,3,29,1,0,9.666666666666666,Sheikh Zayed Stadium,24
-NadeemAhmed,Hong Kong,Netherlands,0,0,0,0,0,23,3,27,2,0,9.0,Dubai International Cricket Stadium,50
-NadeemAhmed,Hong Kong,Ireland,0,0,0,0,0,11,1,16,0,0,16.0,The Village Malahide,0
-NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,23,3,25,1,0,8.333333333333334,The Village Malahide,25
-NadeemAhmed,Hong Kong,Nepal,0,0,0,0,0,6,1,10,0,0,10.0,Civil Service Cricket Club Stormont,0
-NadeemAhmed,Hong Kong,Nepal,5,11,0,0,45.45454545454545,24,4,26,2,0,6.5,Zahur Ahmed Chowdhury Stadium,49
-NadeemAhmed,Hong Kong,Ireland,0,0,0,0,0,24,4,25,2,0,6.25,Bready Cricket Club Magheramason,50
-NadeemAhmed,Hong Kong,Oman,0,0,0,0,0,23,3,22,0,1,7.333333333333333,Sheikh Zayed Stadium,8
-NadeemAhmed,Hong Kong,Oman,0,0,0,0,0,23,3,28,3,0,9.333333333333334,Khan Shaheb Osman Ali Stadium,73
-NadeemAhmed,Hong Kong,Scotland,10,4,1,0,250.0,11,1,21,0,0,21.0,The Village Malahide,11
-NadeemAhmed,Hong Kong,Afghanistan,2,5,0,0,40.0,24,4,33,0,0,8.25,Shere Bangla National Stadium,-4
-NadeemAhmed,Hong Kong,Scotland,1,2,0,0,50.0,25,4,23,3,0,5.75,Mission Road Ground Mong Kok,74
-NadeemAhmed,Hong Kong,Scotland,0,0,0,0,0,23,3,36,0,0,12.0,Sheikh Zayed Stadium,-6
-NadeemAhmed,Hong Kong,Zimbabwe,0,0,0,0,0,23,3,26,1,0,8.666666666666666,Vidarbha Cricket Association Stadium Jamtha,25
-NadeemAhmed,Hong Kong,Scotland,0,0,0,0,0,11,1,20,1,0,20.0,Vidarbha Cricket Association Stadium Jamtha,25
-NadeemAhmed,Hong Kong,United Arab Emirates,0,0,0,0,0,23,3,18,1,0,6.0,Khan Shaheb Osman Ali Stadium,25
-NadeemAhmed,Hong Kong,Oman,0,3,0,0,0.0,17,2,25,0,0,12.5,Sheikh Zayed Stadium,-14
-NadeemAhmed,Hong Kong,Scotland,0,0,0,0,0,11,1,9,1,0,9.0,Mission Road Ground Mong Kok,25
-NadeemAhmed,Hong Kong,Oman,6,9,0,0,66.66666666666666,24,4,26,0,0,6.5,Sheikh Zayed Stadium,4
-NadeemAhmed,Hong Kong,Nepal,1,3,0,0,33.33333333333333,23,3,11,2,1,3.6666666666666665,P Sara Oval,59
-NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,18,3,23,0,0,7.666666666666667,Zahur Ahmed Chowdhury Stadium,0
-NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,24,4,24,1,0,6.0,Vidarbha Cricket Association Stadium Jamtha,25
-NadeemAhmed,Hong Kong,Bangladesh,2,2,0,0,100.0,20,3,21,4,0,7.0,Zahur Ahmed Chowdhury Stadium,110
-NadeemAhmed,Hong Kong,Oman,7,16,0,0,43.75,23,3,29,1,0,9.666666666666666,Sheikh Zayed Stadium,24
-NadeemAhmed,Hong Kong,Netherlands,0,0,0,0,0,23,3,27,2,0,9.0,Dubai International Cricket Stadium,50
-NadeemAhmed,Hong Kong,Ireland,0,0,0,0,0,11,1,16,0,0,16.0,The Village Malahide,0
-NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,23,3,25,1,0,8.333333333333334,The Village Malahide,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NadeemAhmed,Hong Kong,Scotland,1,2,0,0,50.0,25,4,23,3,0,5.75,Mission Road Ground Mong Kok,0,1,2016,82
+NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,23,3,25,1,0,8.333333333333334,The Village Malahide,0,0,2015,25
+NadeemAhmed,Hong Kong,Oman,0,3,0,0,0.0,17,2,25,0,0,12.5,Sheikh Zayed Stadium,0,0,2015,-14
+NadeemAhmed,Hong Kong,Bangladesh,2,2,0,0,100.0,20,3,21,4,0,7.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,110
+NadeemAhmed,Hong Kong,Zimbabwe,0,0,0,0,0,23,3,26,1,0,8.666666666666666,Vidarbha Cricket Association Stadium Jamtha,0,1,2016,33
+NadeemAhmed,Hong Kong,Afghanistan,2,5,0,0,40.0,24,4,33,0,0,8.25,Shere Bangla National Stadium,0,1,2016,4
+NadeemAhmed,Hong Kong,Ireland,0,0,0,0,0,24,4,25,2,0,6.25,Bready Cricket Club Magheramason,0,2,2016,66
+NadeemAhmed,Hong Kong,Netherlands,0,0,0,0,0,23,3,27,2,0,9.0,Dubai International Cricket Stadium,0,0,2017,50
+NadeemAhmed,Hong Kong,Nepal,5,11,0,0,45.45454545454545,24,4,26,2,0,6.5,Zahur Ahmed Chowdhury Stadium,0,0,2014,49
+NadeemAhmed,Hong Kong,Ireland,0,0,0,0,0,11,1,16,0,0,16.0,The Village Malahide,0,1,2015,8
+NadeemAhmed,Hong Kong,Nepal,1,3,0,0,33.33333333333333,23,3,11,2,1,3.6666666666666665,P Sara Oval,0,0,2014,59
+NadeemAhmed,Hong Kong,Oman,0,0,0,0,0,23,3,22,0,1,7.333333333333333,Sheikh Zayed Stadium,0,1,2015,16
+NadeemAhmed,Hong Kong,Scotland,0,0,0,0,0,11,1,20,1,0,20.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,25
+NadeemAhmed,Hong Kong,Oman,7,16,0,0,43.75,23,3,29,1,0,9.666666666666666,Sheikh Zayed Stadium,0,0,2017,24
+NadeemAhmed,Hong Kong,Scotland,10,4,1,0,250.0,11,1,21,0,0,21.0,The Village Malahide,0,1,2015,19
+NadeemAhmed,Hong Kong,United Arab Emirates,0,0,0,0,0,23,3,18,1,0,6.0,Khan Shaheb Osman Ali Stadium,0,0,2016,25
+NadeemAhmed,Hong Kong,Oman,0,0,0,0,0,23,3,28,3,0,9.333333333333334,Khan Shaheb Osman Ali Stadium,0,0,2016,73
+NadeemAhmed,Hong Kong,Scotland,0,0,0,0,0,11,1,9,1,0,9.0,Mission Road Ground Mong Kok,0,0,2016,25
+NadeemAhmed,Hong Kong,Oman,6,9,0,0,66.66666666666666,24,4,26,0,0,6.5,Sheikh Zayed Stadium,0,0,2015,4
+NadeemAhmed,Hong Kong,Scotland,0,0,0,0,0,23,3,36,0,0,12.0,Sheikh Zayed Stadium,0,0,2017,-6
+NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,18,3,23,0,0,7.666666666666667,Zahur Ahmed Chowdhury Stadium,0,1,2014,8
+NadeemAhmed,Hong Kong,Nepal,0,0,0,0,0,6,1,10,0,0,10.0,Civil Service Cricket Club Stormont,0,1,2015,8
+NadeemAhmed,Hong Kong,Afghanistan,0,0,0,0,0,24,4,24,1,0,6.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,25

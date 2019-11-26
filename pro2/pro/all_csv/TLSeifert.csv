@@ -1,7 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TLSeifert,New Zealand,Sri Lanka,15,21,1,0,71.42857142857143,0,0,0,0,0,0,Pallekele International Cricket Stadium,16
-TLSeifert,New Zealand,Sri Lanka,15,21,1,0,71.42857142857143,0,0,0,0,0,0,Pallekele International Cricket Stadium,16
-TLSeifert,New Zealand,Sri Lanka,15,21,1,0,71.42857142857143,0,0,0,0,0,0,Pallekele International Cricket Stadium,16
-TLSeifert,New Zealand,Sri Lanka,15,9,2,0,166.66666666666669,0,0,0,0,0,0,Pallekele International Cricket Stadium,17
-TLSeifert,New Zealand,Sri Lanka,8,14,1,0,57.14285714285714,0,0,0,0,0,0,Pallekele International Cricket Stadium,5
-TLSeifert,New Zealand,Sri Lanka,15,21,1,0,71.42857142857143,0,0,0,0,0,0,Pallekele International Cricket Stadium,16
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TLSeifert,New Zealand,Sri Lanka,15,9,2,0,166.66666666666669,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,17
+TLSeifert,New Zealand,Sri Lanka,15,21,1,0,71.42857142857143,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,16
+TLSeifert,New Zealand,Sri Lanka,8,14,1,0,57.14285714285714,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,5

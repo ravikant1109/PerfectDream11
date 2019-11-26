@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LNgidi,South Africa,Sri Lanka,0,0,0,0,0,11,1,15,0,0,15.0,Newlands,0
-LNgidi,South Africa,Sri Lanka,2,3,0,0,66.66666666666666,24,4,19,4,0,4.75,New Wanderers Stadium,112
-LNgidi,South Africa,Sri Lanka,0,0,0,0,0,11,1,13,2,0,13.0,SuperSport Park,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LNgidi,South Africa,Sri Lanka,0,0,0,0,0,11,1,13,2,0,13.0,SuperSport Park,0,0,2017,50
+LNgidi,South Africa,Sri Lanka,0,0,0,0,0,11,1,15,0,0,15.0,Newlands,0,0,2017,0
+LNgidi,South Africa,Sri Lanka,2,3,0,0,66.66666666666666,24,4,19,4,0,4.75,New Wanderers Stadium,0,0,2017,112

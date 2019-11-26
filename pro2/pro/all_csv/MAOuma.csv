@@ -1,20 +1,14 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MAOuma,Kenya,Netherlands,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Wanderers Cricket Ground,-3
-MAOuma,Kenya,Netherlands,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Wanderers Cricket Ground,-3
-MAOuma,Kenya,Netherlands,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Wanderers Cricket Ground,-3
-MAOuma,Kenya,Netherlands,11,12,2,0,91.66666666666666,0,0,0,0,0,0,Wanderers Cricket Ground,13
-MAOuma,Kenya,Sri Lanka,0,3,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,-8
-MAOuma,Kenya,Ireland,6,5,1,0,120.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,7
-MAOuma,Kenya,Canada,9,8,0,0,112.5,0,0,0,0,0,0,Sharjah Cricket Stadium,9
-MAOuma,Kenya,Ireland,4,6,1,0,66.66666666666666,0,0,0,0,0,0,Mombasa Sports Club Ground,3
-MAOuma,Kenya,Afghanistan,14,13,1,0,107.6923076923077,0,0,0,0,0,0,Sharjah Cricket Stadium,15
-MAOuma,Kenya,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Kingsmead,-8
-MAOuma,Kenya,Canada,13,15,2,0,86.66666666666667,0,0,0,0,0,0,ICC Global Cricket Academy,15
-MAOuma,Kenya,Scotland,5,4,1,0,125.0,0,0,0,0,0,0,ICC Academy,6
-MAOuma,Kenya,Canada,6,7,1,0,85.71428571428571,0,0,0,0,0,0,ICC Global Cricket Academy,7
-MAOuma,Kenya,Netherlands,2,8,0,0,25.0,0,0,0,0,0,0,ICC Academy,-4
-MAOuma,Kenya,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,-8
-MAOuma,Kenya,Netherlands,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Wanderers Cricket Ground,-3
-MAOuma,Kenya,Netherlands,11,12,2,0,91.66666666666666,0,0,0,0,0,0,Wanderers Cricket Ground,13
-MAOuma,Kenya,Sri Lanka,0,3,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,-8
-MAOuma,Kenya,Ireland,6,5,1,0,120.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,7
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MAOuma,Kenya,Netherlands,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Wanderers Cricket Ground,0,1,2013,5
+MAOuma,Kenya,Scotland,5,4,1,0,125.0,0,0,0,0,0,0,ICC Academy,0,0,2013,6
+MAOuma,Kenya,Ireland,6,5,1,0,120.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2008,7
+MAOuma,Kenya,Netherlands,11,12,2,0,91.66666666666666,0,0,0,0,0,0,Wanderers Cricket Ground,0,1,2013,21
+MAOuma,Kenya,Netherlands,2,8,0,0,25.0,0,0,0,0,0,0,ICC Academy,0,0,2013,-4
+MAOuma,Kenya,Canada,6,7,1,0,85.71428571428571,0,0,0,0,0,0,ICC Global Cricket Academy,0,1,2013,15
+MAOuma,Kenya,Canada,9,8,0,0,112.5,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,9
+MAOuma,Kenya,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,-8
+MAOuma,Kenya,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Kingsmead,0,0,2007,-8
+MAOuma,Kenya,Canada,13,15,2,0,86.66666666666667,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2013,15
+MAOuma,Kenya,Ireland,4,6,1,0,66.66666666666666,0,0,0,0,0,0,Mombasa Sports Club Ground,0,0,2012,3
+MAOuma,Kenya,Afghanistan,14,13,1,0,107.6923076923077,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,15
+MAOuma,Kenya,Sri Lanka,0,3,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,-8

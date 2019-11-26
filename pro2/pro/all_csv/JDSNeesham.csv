@@ -1,28 +1,15 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JDSNeesham,New Zealand,Pakistan,7,4,1,0,175.0,19,3,26,3,0,8.666666666666666,Dubai International Cricket Stadium,83
-JDSNeesham,New Zealand,Pakistan,6,9,0,0,66.66666666666666,0,0,6,0,0,0,Dubai International Cricket Stadium,4
-JDSNeesham,New Zealand,Zimbabwe,0,0,0,0,0,19,3,21,1,0,7.0,Harare Sports Club,25
-JDSNeesham,New Zealand,Bangladesh,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Bay Oval,5
-JDSNeesham,New Zealand,Pakistan,7,4,1,0,175.0,19,3,26,3,0,8.666666666666666,Dubai International Cricket Stadium,83
-JDSNeesham,New Zealand,Pakistan,6,9,0,0,66.66666666666666,0,0,6,0,0,0,Dubai International Cricket Stadium,4
-JDSNeesham,New Zealand,Zimbabwe,0,0,0,0,0,19,3,21,1,0,7.0,Harare Sports Club,25
-JDSNeesham,New Zealand,Bangladesh,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Bay Oval,5
-JDSNeesham,New Zealand,Pakistan,7,4,1,0,175.0,19,3,26,3,0,8.666666666666666,Dubai International Cricket Stadium,83
-JDSNeesham,New Zealand,Pakistan,6,9,0,0,66.66666666666666,0,0,6,0,0,0,Dubai International Cricket Stadium,4
-JDSNeesham,New Zealand,Zimbabwe,0,0,0,0,0,19,3,21,1,0,7.0,Harare Sports Club,25
-JDSNeesham,New Zealand,Bangladesh,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Bay Oval,5
-JDSNeesham,New Zealand,South Africa,10,7,2,0,142.85714285714286,0,0,2,0,0,0,Kingsmead,12
-JDSNeesham,New Zealand,Netherlands,7,8,0,0,87.5,11,1,9,0,1,9.0,Zahur Ahmed Chowdhury Stadium,15
-JDSNeesham,New Zealand,Bangladesh,15,13,2,0,115.38461538461537,5,0,17,0,0,0,Bay Oval,17
-JDSNeesham,New Zealand,West Indies,11,8,1,1,137.5,19,3,15,0,0,5.0,Windsor Park Roseau,16
-JDSNeesham,New Zealand,South Africa,12,10,2,0,120.0,20,3,36,0,0,12.0,St George's Park,8
-JDSNeesham,New Zealand,South Africa,28,19,3,1,147.36842105263156,17,2,22,1,0,11.0,SuperSport Park,54
-JDSNeesham,New Zealand,West Indies,14,6,2,1,233.33333333333334,25,4,39,0,0,9.75,Westpac Stadium,16
-JDSNeesham,New Zealand,West Indies,7,5,1,0,140.0,23,3,31,0,0,10.333333333333334,Windsor Park Roseau,4
-JDSNeesham,New Zealand,Sri Lanka,0,1,0,0,0.0,13,2,22,3,0,11.0,Zahur Ahmed Chowdhury Stadium,63
-JDSNeesham,New Zealand,West Indies,0,0,0,0,0,28,4,16,3,0,4.0,Eden Park,79
-JDSNeesham,New Zealand,Pakistan,7,4,1,0,175.0,19,3,26,3,0,8.666666666666666,Dubai International Cricket Stadium,83
-JDSNeesham,New Zealand,Pakistan,6,9,0,0,66.66666666666666,0,0,6,0,0,0,Dubai International Cricket Stadium,4
-JDSNeesham,New Zealand,Zimbabwe,0,0,0,0,0,19,3,21,1,0,7.0,Harare Sports Club,25
-JDSNeesham,New Zealand,Bangladesh,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Bay Oval,5
-JDSNeesham,New Zealand,South Africa,10,7,2,0,142.85714285714286,0,0,2,0,0,0,Kingsmead,12
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JDSNeesham,New Zealand,South Africa,28,19,3,1,147.36842105263156,17,2,22,1,0,11.0,SuperSport Park,0,1,2015,62
+JDSNeesham,New Zealand,Pakistan,7,4,1,0,175.0,19,3,26,3,0,8.666666666666666,Dubai International Cricket Stadium,0,0,2014,83
+JDSNeesham,New Zealand,Zimbabwe,0,0,0,0,0,19,3,21,1,0,7.0,Harare Sports Club,0,2,2015,41
+JDSNeesham,New Zealand,Pakistan,6,9,0,0,66.66666666666666,0,0,6,0,0,0,Dubai International Cricket Stadium,0,0,2014,4
+JDSNeesham,New Zealand,West Indies,14,6,2,1,233.33333333333334,25,4,39,0,0,9.75,Westpac Stadium,0,1,2014,24
+JDSNeesham,New Zealand,Sri Lanka,0,1,0,0,0.0,13,2,22,3,0,11.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,63
+JDSNeesham,New Zealand,West Indies,0,0,0,0,0,28,4,16,3,0,4.0,Eden Park,0,0,2014,79
+JDSNeesham,New Zealand,Bangladesh,15,13,2,0,115.38461538461537,5,0,17,0,0,0,Bay Oval,0,0,2017,17
+JDSNeesham,New Zealand,South Africa,10,7,2,0,142.85714285714286,0,0,2,0,0,0,Kingsmead,0,0,2012,12
+JDSNeesham,New Zealand,West Indies,7,5,1,0,140.0,23,3,31,0,0,10.333333333333334,Windsor Park Roseau,0,0,2014,4
+JDSNeesham,New Zealand,South Africa,12,10,2,0,120.0,20,3,36,0,0,12.0,St George's Park,0,0,2012,8
+JDSNeesham,New Zealand,Netherlands,7,8,0,0,87.5,11,1,9,0,1,9.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,15
+JDSNeesham,New Zealand,Bangladesh,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Bay Oval,0,1,2017,13
+JDSNeesham,New Zealand,West Indies,11,8,1,1,137.5,19,3,15,0,0,5.0,Windsor Park Roseau,1,0,2014,28

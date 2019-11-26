@@ -1,25 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CRDFernando,Sri Lanka,Australia,0,2,0,0,0.0,17,2,18,0,0,9.0,Newlands,-8
-CRDFernando,Sri Lanka,New Zealand,0,0,0,0,0,24,4,31,2,0,7.75,New Wanderers Stadium,50
-CRDFernando,Sri Lanka,Australia,0,2,0,0,0.0,17,2,18,0,0,9.0,Newlands,-8
-CRDFernando,Sri Lanka,New Zealand,0,0,0,0,0,24,4,31,2,0,7.75,New Wanderers Stadium,50
-CRDFernando,Sri Lanka,Australia,0,2,0,0,0.0,17,2,18,0,0,9.0,Newlands,-8
-CRDFernando,Sri Lanka,New Zealand,0,0,0,0,0,24,4,31,2,0,7.75,New Wanderers Stadium,50
-CRDFernando,Sri Lanka,India,0,0,0,0,0,27,4,45,0,0,11.25,R Premadasa Stadium,-6
-CRDFernando,Sri Lanka,Kenya,0,0,0,0,0,22,3,23,0,0,7.666666666666667,New Wanderers Stadium,0
-CRDFernando,Sri Lanka,Pakistan,0,1,0,0,0.0,23,3,36,1,0,12.0,Sheikh Zayed Stadium,11
-CRDFernando,Sri Lanka,India,1,6,0,0,16.666666666666664,11,1,7,0,0,7.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,-5
-CRDFernando,Sri Lanka,New Zealand,21,15,4,0,140.0,23,3,19,3,0,6.333333333333333,Eden Park,100
-CRDFernando,Sri Lanka,Pakistan,0,0,0,0,0,24,4,18,2,1,4.5,New Wanderers Stadium,62
-CRDFernando,Sri Lanka,Australia,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Western Australia Cricket Association Ground,23
-CRDFernando,Sri Lanka,India,0,0,0,0,0,18,3,28,0,0,9.333333333333334,Vidarbha Cricket Association Stadium Jamtha,-2
-CRDFernando,Sri Lanka,New Zealand,0,0,0,0,0,17,2,37,0,0,18.5,Westpac Stadium,-6
-CRDFernando,Sri Lanka,India,0,0,0,0,0,23,3,30,1,0,10.0,Punjab Cricket Association Stadium Mohali,23
-CRDFernando,Sri Lanka,Pakistan,0,0,0,0,0,26,4,31,1,0,7.75,Maple Leaf North-West Ground,25
-CRDFernando,Sri Lanka,Bangladesh,0,0,0,0,0,17,2,21,2,1,10.5,New Wanderers Stadium,54
-CRDFernando,Sri Lanka,England,3,4,0,0,75.0,23,3,24,1,0,8.0,The Rose Bowl,28
-CRDFernando,Sri Lanka,Pakistan,0,0,0,0,0,25,4,33,1,0,8.25,Maple Leaf North-West Ground,25
-CRDFernando,Sri Lanka,Australia,0,2,0,0,0.0,17,2,18,0,0,9.0,Newlands,-8
-CRDFernando,Sri Lanka,New Zealand,0,0,0,0,0,24,4,31,2,0,7.75,New Wanderers Stadium,50
-CRDFernando,Sri Lanka,India,0,0,0,0,0,27,4,45,0,0,11.25,R Premadasa Stadium,-6
-CRDFernando,Sri Lanka,Kenya,0,0,0,0,0,22,3,23,0,0,7.666666666666667,New Wanderers Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CRDFernando,Sri Lanka,India,0,0,0,0,0,18,3,28,0,0,9.333333333333334,Vidarbha Cricket Association Stadium Jamtha,1,0,2009,10
+CRDFernando,Sri Lanka,England,3,4,0,0,75.0,23,3,24,1,0,8.0,The Rose Bowl,0,0,2006,28
+CRDFernando,Sri Lanka,Pakistan,0,0,0,0,0,25,4,33,1,0,8.25,Maple Leaf North-West Ground,0,0,2008,25
+CRDFernando,Sri Lanka,Bangladesh,0,0,0,0,0,17,2,21,2,1,10.5,New Wanderers Stadium,0,0,2007,54
+CRDFernando,Sri Lanka,New Zealand,21,15,4,0,140.0,23,3,19,3,0,6.333333333333333,Eden Park,0,0,2006,100
+CRDFernando,Sri Lanka,India,0,0,0,0,0,27,4,45,0,0,11.25,R Premadasa Stadium,0,0,2009,-6
+CRDFernando,Sri Lanka,New Zealand,0,0,0,0,0,17,2,37,0,0,18.5,Westpac Stadium,0,0,2006,-6
+CRDFernando,Sri Lanka,Australia,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Western Australia Cricket Association Ground,0,1,2010,31
+CRDFernando,Sri Lanka,New Zealand,0,0,0,0,0,24,4,31,2,0,7.75,New Wanderers Stadium,1,0,2007,62
+CRDFernando,Sri Lanka,India,0,0,0,0,0,23,3,30,1,0,10.0,Punjab Cricket Association Stadium Mohali,0,0,2009,23
+CRDFernando,Sri Lanka,India,1,6,0,0,16.666666666666664,11,1,7,0,0,7.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,-5
+CRDFernando,Sri Lanka,Pakistan,0,0,0,0,0,26,4,31,1,0,7.75,Maple Leaf North-West Ground,0,0,2008,25
+CRDFernando,Sri Lanka,Pakistan,0,0,0,0,0,24,4,18,2,1,4.5,New Wanderers Stadium,0,0,2007,62
+CRDFernando,Sri Lanka,Australia,0,2,0,0,0.0,17,2,18,0,0,9.0,Newlands,0,0,2007,-8
+CRDFernando,Sri Lanka,Pakistan,0,1,0,0,0.0,23,3,36,1,0,12.0,Sheikh Zayed Stadium,0,0,2011,11
+CRDFernando,Sri Lanka,Kenya,0,0,0,0,0,22,3,23,0,0,7.666666666666667,New Wanderers Stadium,0,0,2007,0

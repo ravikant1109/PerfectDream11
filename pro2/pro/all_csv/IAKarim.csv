@@ -1,18 +1,14 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-IAKarim,Kenya,Bermuda,15,17,3,0,88.23529411764706,0,0,0,0,0,0,ICC Academy,18
-IAKarim,Kenya,Bermuda,15,17,3,0,88.23529411764706,0,0,0,0,0,0,ICC Academy,18
-IAKarim,Kenya,Bermuda,15,17,3,0,88.23529411764706,0,0,0,0,0,0,ICC Academy,18
-IAKarim,Kenya,Namibia,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Dubai International Cricket Stadium,6
-IAKarim,Kenya,Singapore,71,51,8,0,139.2156862745098,0,0,0,0,0,0,ICC Academy Ground No 2,87
-IAKarim,Kenya,Canada,0,1,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,-8
-IAKarim,Kenya,Afghanistan,14,23,0,1,60.86956521739131,0,0,0,0,0,0,Sharjah Cricket Stadium,14
-IAKarim,Kenya,Uganda,28,37,2,0,75.67567567567568,0,0,0,0,0,0,Lugogo Cricket Oval,30
-IAKarim,Kenya,Netherlands,2,4,0,0,50.0,0,0,0,0,0,0,ICC Academy,-2
-IAKarim,Kenya,Scotland,51,47,7,0,108.51063829787233,0,0,0,0,0,0,ICC Academy Ground No 2,66
-IAKarim,Kenya,Canada,15,18,2,0,83.33333333333334,0,0,0,0,0,0,ICC Global Cricket Academy,17
-IAKarim,Kenya,Afghanistan,3,6,0,0,50.0,0,0,0,0,0,0,Sharjah Cricket Stadium,-1
-IAKarim,Kenya,Ghana,24,33,1,1,72.72727272727273,0,0,0,0,0,0,Kyambogo Cricket Oval,27
-IAKarim,Kenya,Papua New Guinea,29,23,4,0,126.08695652173914,0,0,0,0,0,0,Dubai International Cricket Stadium,33
-IAKarim,Kenya,Afghanistan,0,1,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,-8
-IAKarim,Kenya,Bermuda,15,17,3,0,88.23529411764706,0,0,0,0,0,0,ICC Academy,18
-IAKarim,Kenya,Namibia,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Dubai International Cricket Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+IAKarim,Kenya,Singapore,71,51,8,0,139.2156862745098,0,0,0,0,0,0,ICC Academy Ground No 2,0,1,2019,95
+IAKarim,Kenya,Ghana,24,33,1,1,72.72727272727273,0,0,0,0,0,0,Kyambogo Cricket Oval,0,2,2019,43
+IAKarim,Kenya,Papua New Guinea,29,23,4,0,126.08695652173914,0,0,0,0,0,0,Dubai International Cricket Stadium,0,3,2019,57
+IAKarim,Kenya,Namibia,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2019,6
+IAKarim,Kenya,Canada,0,1,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2013,0
+IAKarim,Kenya,Afghanistan,0,1,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2013,0
+IAKarim,Kenya,Scotland,51,47,7,0,108.51063829787233,0,0,0,0,0,0,ICC Academy Ground No 2,0,1,2019,74
+IAKarim,Kenya,Uganda,28,37,2,0,75.67567567567568,0,0,0,0,0,0,Lugogo Cricket Oval,0,0,2019,30
+IAKarim,Kenya,Bermuda,15,17,3,0,88.23529411764706,0,0,0,0,0,0,ICC Academy,0,1,2019,26
+IAKarim,Kenya,Afghanistan,3,6,0,0,50.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,-1
+IAKarim,Kenya,Canada,15,18,2,0,83.33333333333334,0,0,0,0,0,0,ICC Global Cricket Academy,0,1,2013,25
+IAKarim,Kenya,Afghanistan,14,23,0,1,60.86956521739131,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,14
+IAKarim,Kenya,Netherlands,2,4,0,0,50.0,0,0,0,0,0,0,ICC Academy,0,0,2019,-2

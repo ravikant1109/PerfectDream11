@@ -1,36 +1,26 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JHKallis,South Africa,Pakistan,12,19,0,1,63.1578947368421,12,2,22,1,0,11.0,R Premadasa Stadium,33
-JHKallis,South Africa,England,8,6,0,0,133.33333333333331,5,0,11,0,0,0,Edgbaston,8
-JHKallis,South Africa,Pakistan,12,19,0,1,63.1578947368421,12,2,22,1,0,11.0,R Premadasa Stadium,33
-JHKallis,South Africa,England,8,6,0,0,133.33333333333331,5,0,11,0,0,0,Edgbaston,8
-JHKallis,South Africa,Pakistan,12,19,0,1,63.1578947368421,12,2,22,1,0,11.0,R Premadasa Stadium,33
-JHKallis,South Africa,England,8,6,0,0,133.33333333333331,5,0,11,0,0,0,Edgbaston,8
-JHKallis,South Africa,Sri Lanka,0,0,0,0,0,5,0,9,1,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
-JHKallis,South Africa,England,57,49,5,1,116.3265306122449,17,2,20,2,0,10.0,Trent Bridge,120
-JHKallis,South Africa,England,48,44,7,0,109.09090909090908,17,2,21,0,0,10.5,Riverside Ground,51
-JHKallis,South Africa,Pakistan,22,22,2,0,100.0,23,3,28,1,0,9.333333333333334,Beausejour Stadium Gros Islet,47
-JHKallis,South Africa,Australia,15,13,1,1,115.38461538461537,5,0,17,0,0,0,Brisbane Cricket Ground Woolloongabba,18
-JHKallis,South Africa,Zimbabwe,0,0,0,0,0,23,3,15,4,1,5.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,118
-JHKallis,South Africa,Afghanistan,34,34,0,2,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,38
-JHKallis,South Africa,England,7,5,1,0,140.0,0,0,0,0,0,0,SuperSport Park,8
-JHKallis,South Africa,Australia,6,7,1,0,85.71428571428571,6,1,8,0,0,8.0,R Premadasa Stadium,7
-JHKallis,South Africa,New Zealand,24,23,2,1,104.34782608695652,20,3,17,1,0,5.666666666666667,Lord's,55
-JHKallis,South Africa,New Zealand,20,18,1,1,111.11111111111111,0,0,0,0,0,0,New Wanderers Stadium,23
-JHKallis,South Africa,England,11,13,0,1,84.61538461538461,17,2,15,0,0,7.5,Kensington Oval Bridgetown,13
-JHKallis,South Africa,West Indies,53,46,1,3,115.21739130434783,11,1,13,0,0,13.0,Sir Vivian Richards Stadium North Sound,68
-JHKallis,South Africa,Scotland,48,31,8,0,154.83870967741936,5,0,5,0,0,0,Kennington Oval,56
-JHKallis,South Africa,India,61,43,5,2,141.86046511627907,0,0,0,0,0,0,New Wanderers Stadium,78
-JHKallis,South Africa,New Zealand,31,26,1,2,119.23076923076923,24,4,28,0,0,7.0,Kensington Oval Bridgetown,36
-JHKallis,South Africa,West Indies,45,31,6,1,145.16129032258064,11,1,23,0,0,23.0,Kennington Oval,53
-JHKallis,South Africa,Australia,4,6,1,0,66.66666666666666,11,1,25,0,0,25.0,Melbourne Cricket Ground,3
-JHKallis,South Africa,India,73,54,3,3,135.1851851851852,24,4,30,1,0,7.5,Beausejour Stadium Gros Islet,115
-JHKallis,South Africa,England,13,7,2,0,185.71428571428572,0,0,0,0,0,0,Old Trafford,15
-JHKallis,South Africa,India,6,8,1,0,75.0,17,2,24,1,0,12.0,R Premadasa Stadium,26
-JHKallis,South Africa,New Zealand,4,5,1,0,80.0,0,0,0,0,0,0,New Wanderers Stadium,5
-JHKallis,South Africa,Pakistan,64,54,7,1,118.5185185185185,12,2,14,0,0,7.0,Trent Bridge,81
-JHKallis,South Africa,Pakistan,12,19,0,1,63.1578947368421,12,2,22,1,0,11.0,R Premadasa Stadium,33
-JHKallis,South Africa,England,8,6,0,0,133.33333333333331,5,0,11,0,0,0,Edgbaston,8
-JHKallis,South Africa,Sri Lanka,0,0,0,0,0,5,0,9,1,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
-JHKallis,South Africa,England,57,49,5,1,116.3265306122449,17,2,20,2,0,10.0,Trent Bridge,120
-JHKallis,South Africa,England,48,44,7,0,109.09090909090908,17,2,21,0,0,10.5,Riverside Ground,51
-JHKallis,South Africa,Pakistan,22,22,2,0,100.0,23,3,28,1,0,9.333333333333334,Beausejour Stadium Gros Islet,47
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JHKallis,South Africa,England,57,49,5,1,116.3265306122449,17,2,20,2,0,10.0,Trent Bridge,0,0,2009,120
+JHKallis,South Africa,Zimbabwe,0,0,0,0,0,23,3,15,4,1,5.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,118
+JHKallis,South Africa,India,73,54,3,3,135.1851851851852,24,4,30,1,0,7.5,Beausejour Stadium Gros Islet,0,0,2010,115
+JHKallis,South Africa,England,8,6,0,0,133.33333333333331,5,0,11,0,0,0,Edgbaston,0,0,2012,8
+JHKallis,South Africa,New Zealand,31,26,1,2,119.23076923076923,24,4,28,0,0,7.0,Kensington Oval Bridgetown,0,0,2010,36
+JHKallis,South Africa,New Zealand,20,18,1,1,111.11111111111111,0,0,0,0,0,0,New Wanderers Stadium,0,0,2005,23
+JHKallis,South Africa,England,48,44,7,0,109.09090909090908,17,2,21,0,0,10.5,Riverside Ground,1,1,2012,71
+JHKallis,South Africa,Pakistan,64,54,7,1,118.5185185185185,12,2,14,0,0,7.0,Trent Bridge,0,0,2009,81
+JHKallis,South Africa,Australia,15,13,1,1,115.38461538461537,5,0,17,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2006,26
+JHKallis,South Africa,England,11,13,0,1,84.61538461538461,17,2,15,0,0,7.5,Kensington Oval Bridgetown,0,0,2010,13
+JHKallis,South Africa,Australia,4,6,1,0,66.66666666666666,11,1,25,0,0,25.0,Melbourne Cricket Ground,0,1,2009,11
+JHKallis,South Africa,Afghanistan,34,34,0,2,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2010,54
+JHKallis,South Africa,Pakistan,12,19,0,1,63.1578947368421,12,2,22,1,0,11.0,R Premadasa Stadium,0,0,2012,33
+JHKallis,South Africa,Pakistan,22,22,2,0,100.0,23,3,28,1,0,9.333333333333334,Beausejour Stadium Gros Islet,0,0,2010,47
+JHKallis,South Africa,India,61,43,5,2,141.86046511627907,0,0,0,0,0,0,New Wanderers Stadium,0,0,2012,78
+JHKallis,South Africa,Australia,6,7,1,0,85.71428571428571,6,1,8,0,0,8.0,R Premadasa Stadium,0,0,2012,7
+JHKallis,South Africa,England,13,7,2,0,185.71428571428572,0,0,0,0,0,0,Old Trafford,0,0,2012,15
+JHKallis,South Africa,West Indies,53,46,1,3,115.21739130434783,11,1,13,0,0,13.0,Sir Vivian Richards Stadium North Sound,0,0,2010,68
+JHKallis,South Africa,India,6,8,1,0,75.0,17,2,24,1,0,12.0,R Premadasa Stadium,0,0,2012,26
+JHKallis,South Africa,Scotland,48,31,8,0,154.83870967741936,5,0,5,0,0,0,Kennington Oval,0,0,2009,56
+JHKallis,South Africa,New Zealand,24,23,2,1,104.34782608695652,20,3,17,1,0,5.666666666666667,Lord's,0,0,2009,55
+JHKallis,South Africa,New Zealand,4,5,1,0,80.0,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,13
+JHKallis,South Africa,Sri Lanka,0,0,0,0,0,5,0,9,1,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,25
+JHKallis,South Africa,West Indies,45,31,6,1,145.16129032258064,11,1,23,0,0,23.0,Kennington Oval,0,0,2009,53
+JHKallis,South Africa,England,7,5,1,0,140.0,0,0,0,0,0,0,SuperSport Park,1,0,2009,20

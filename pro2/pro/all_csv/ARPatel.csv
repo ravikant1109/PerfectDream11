@@ -1,12 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ARPatel,India,South Africa,2,3,0,0,66.66666666666666,24,4,45,0,0,11.25,Himachal Pradesh Cricket Association Stadium,-6
-ARPatel,India,South Africa,2,3,0,0,66.66666666666666,24,4,45,0,0,11.25,Himachal Pradesh Cricket Association Stadium,-6
-ARPatel,India,South Africa,2,3,0,0,66.66666666666666,24,4,45,0,0,11.25,Himachal Pradesh Cricket Association Stadium,-6
-ARPatel,India,South Africa,9,12,0,0,75.0,17,2,18,1,0,9.0,Barabati Stadium,34
-ARPatel,India,Zimbabwe,20,11,0,1,181.8181818181818,23,3,19,1,0,6.333333333333333,Harare Sports Club,47
-ARPatel,India,Zimbabwe,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Harare Sports Club,0
-ARPatel,India,Zimbabwe,0,0,0,0,0,23,3,18,3,0,6.0,Harare Sports Club,75
-ARPatel,India,Zimbabwe,18,9,1,2,200.0,23,3,18,1,0,6.0,Harare Sports Club,48
-ARPatel,India,Zimbabwe,13,15,1,0,86.66666666666667,23,3,27,1,0,9.0,Harare Sports Club,39
-ARPatel,India,South Africa,2,3,0,0,66.66666666666666,24,4,45,0,0,11.25,Himachal Pradesh Cricket Association Stadium,-6
-ARPatel,India,South Africa,9,12,0,0,75.0,17,2,18,1,0,9.0,Barabati Stadium,34
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ARPatel,India,Zimbabwe,0,0,0,0,0,23,3,18,3,0,6.0,Harare Sports Club,0,0,2015,75
+ARPatel,India,Zimbabwe,18,9,1,2,200.0,23,3,18,1,0,6.0,Harare Sports Club,0,0,2016,48
+ARPatel,India,Zimbabwe,20,11,0,1,181.8181818181818,23,3,19,1,0,6.333333333333333,Harare Sports Club,0,0,2016,47
+ARPatel,India,Zimbabwe,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Harare Sports Club,0,2,2016,16
+ARPatel,India,Zimbabwe,13,15,1,0,86.66666666666667,23,3,27,1,0,9.0,Harare Sports Club,0,1,2015,47
+ARPatel,India,South Africa,9,12,0,0,75.0,17,2,18,1,0,9.0,Barabati Stadium,0,0,2015,34
+ARPatel,India,South Africa,2,3,0,0,66.66666666666666,24,4,45,0,0,11.25,Himachal Pradesh Cricket Association Stadium,0,0,2015,-6

@@ -1,10 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DPHyatt,West Indies,India,14,7,1,1,200.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,17
-DPHyatt,West Indies,India,14,7,1,1,200.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,17
-DPHyatt,West Indies,India,14,7,1,1,200.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,17
-DPHyatt,West Indies,Bangladesh,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Shere Bangla National Stadium,0
-DPHyatt,West Indies,England,28,27,1,2,103.7037037037037,0,0,0,0,0,0,Kennington Oval,33
-DPHyatt,West Indies,Pakistan,14,11,1,1,127.27272727272727,0,0,0,0,0,0,Beausejour Stadium Gros Islet,17
-DPHyatt,West Indies,Australia,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Kensington Oval Bridgetown,7
-DPHyatt,West Indies,India,14,7,1,1,200.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,17
-DPHyatt,West Indies,Bangladesh,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Shere Bangla National Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DPHyatt,West Indies,Pakistan,14,11,1,1,127.27272727272727,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2011,25
+DPHyatt,West Indies,England,28,27,1,2,103.7037037037037,0,0,0,0,0,0,Kennington Oval,0,0,2011,33
+DPHyatt,West Indies,Australia,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2012,15
+DPHyatt,West Indies,India,14,7,1,1,200.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2011,25
+DPHyatt,West Indies,Bangladesh,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2011,8

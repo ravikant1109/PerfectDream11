@@ -1,10 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AmirMangal,Germany,Denmark,8,3,0,1,266.66666666666663,0,0,0,0,0,0,King George V Sports Ground,10
-AmirMangal,Germany,Denmark,8,3,0,1,266.66666666666663,0,0,0,0,0,0,King George V Sports Ground,10
-AmirMangal,Germany,Denmark,8,3,0,1,266.66666666666663,0,0,0,0,0,0,King George V Sports Ground,10
-AmirMangal,Germany,Norway,4,3,1,0,133.33333333333331,0,0,0,0,0,0,College Field,5
-AmirMangal,Germany,Guernsey,8,6,0,1,133.33333333333331,0,0,0,0,0,0,King George V Sports Ground,10
-AmirMangal,Germany,Italy,7,6,0,1,116.66666666666667,17,2,17,1,0,8.5,Sportpark Maarschalkerweerd,34
-AmirMangal,Germany,Jersey,11,8,0,0,137.5,0,0,0,0,0,0,College Field,11
-AmirMangal,Germany,Denmark,8,3,0,1,266.66666666666663,0,0,0,0,0,0,King George V Sports Ground,10
-AmirMangal,Germany,Norway,4,3,1,0,133.33333333333331,0,0,0,0,0,0,College Field,5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AmirMangal,Germany,Guernsey,8,6,0,1,133.33333333333331,0,0,0,0,0,0,King George V Sports Ground,0,0,2019,10
+AmirMangal,Germany,Jersey,11,8,0,0,137.5,0,0,0,0,0,0,College Field,0,0,2019,11
+AmirMangal,Germany,Norway,4,3,1,0,133.33333333333331,0,0,0,0,0,0,College Field,0,1,2019,13
+AmirMangal,Germany,Denmark,8,3,0,1,266.66666666666663,0,0,0,0,0,0,King George V Sports Ground,0,0,2019,10
+AmirMangal,Germany,Italy,7,6,0,1,116.66666666666667,17,2,17,1,0,8.5,Sportpark Maarschalkerweerd,0,0,2019,34

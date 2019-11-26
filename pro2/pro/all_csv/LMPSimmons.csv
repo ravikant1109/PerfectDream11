@@ -1,75 +1,45 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LMPSimmons,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-LMPSimmons,West Indies,India,9,10,1,0,90.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,10
-LMPSimmons,West Indies,England,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-LMPSimmons,West Indies,England,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Kensington Oval Bridgetown,22
-LMPSimmons,West Indies,Pakistan,31,30,2,2,103.33333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,37
-LMPSimmons,West Indies,Australia,26,24,3,0,108.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,29
-LMPSimmons,West Indies,India,44,39,5,0,112.82051282051282,0,0,0,0,0,0,Lord's,49
-LMPSimmons,West Indies,England,69,55,7,2,125.45454545454547,0,0,0,0,0,0,Kensington Oval Bridgetown,88
-LMPSimmons,West Indies,England,0,1,0,0,0.0,0,0,0,0,0,0,Eden Gardens,-8
-LMPSimmons,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-LMPSimmons,West Indies,India,9,10,1,0,90.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,10
-LMPSimmons,West Indies,England,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-LMPSimmons,West Indies,England,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Kensington Oval Bridgetown,22
-LMPSimmons,West Indies,Pakistan,31,30,2,2,103.33333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,37
-LMPSimmons,West Indies,Australia,26,24,3,0,108.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,29
-LMPSimmons,West Indies,India,44,39,5,0,112.82051282051282,0,0,0,0,0,0,Lord's,49
-LMPSimmons,West Indies,England,69,55,7,2,125.45454545454547,0,0,0,0,0,0,Kensington Oval Bridgetown,88
-LMPSimmons,West Indies,England,0,1,0,0,0.0,0,0,0,0,0,0,Eden Gardens,-8
-LMPSimmons,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-LMPSimmons,West Indies,India,9,10,1,0,90.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,10
-LMPSimmons,West Indies,England,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-LMPSimmons,West Indies,England,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Kensington Oval Bridgetown,22
-LMPSimmons,West Indies,Pakistan,31,30,2,2,103.33333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,37
-LMPSimmons,West Indies,Australia,26,24,3,0,108.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,29
-LMPSimmons,West Indies,India,44,39,5,0,112.82051282051282,0,0,0,0,0,0,Lord's,49
-LMPSimmons,West Indies,England,69,55,7,2,125.45454545454547,0,0,0,0,0,0,Kensington Oval Bridgetown,88
-LMPSimmons,West Indies,England,0,1,0,0,0.0,0,0,0,0,0,0,Eden Gardens,-8
-LMPSimmons,West Indies,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-3
-LMPSimmons,West Indies,Bangladesh,23,24,2,1,95.83333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,27
-LMPSimmons,West Indies,Sri Lanka,29,20,5,0,145.0,17,2,19,4,0,9.5,Trent Bridge,140
-LMPSimmons,West Indies,Afghanistan,6,3,0,1,200.0,0,0,0,0,0,0,Warner Park Basseterre,8
-LMPSimmons,West Indies,Ireland,12,18,0,0,66.66666666666666,0,0,0,0,0,0,Sabina Park Kingston,10
-LMPSimmons,West Indies,India,0,1,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-8
-LMPSimmons,West Indies,India,19,20,3,0,95.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,22
-LMPSimmons,West Indies,Afghanistan,15,10,1,1,150.0,0,0,0,0,0,0,Warner Park Basseterre,18
-LMPSimmons,West Indies,England,6,5,1,0,120.0,0,0,0,0,0,0,Trent Bridge,7
-LMPSimmons,West Indies,England,9,12,2,0,75.0,0,0,0,0,0,0,Kennington Oval,11
-LMPSimmons,West Indies,Australia,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Bellerive Oval,5
-LMPSimmons,West Indies,Afghanistan,17,14,1,0,121.42857142857142,0,0,0,0,0,0,Warner Park Basseterre,18
-LMPSimmons,West Indies,Bangladesh,0,1,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,-8
-LMPSimmons,West Indies,Pakistan,3,16,0,0,18.75,0,0,0,0,0,0,Arnos Vale Ground Kingstown,-3
-LMPSimmons,West Indies,England,23,34,1,0,67.64705882352942,0,0,0,0,0,0,Queen's Park Oval Port of Spain,22
-LMPSimmons,West Indies,India,27,24,1,2,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,32
-LMPSimmons,West Indies,New Zealand,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Windsor Park Roseau,-5
-LMPSimmons,West Indies,Bangladesh,18,12,2,0,150.0,0,0,0,0,0,0,Shere Bangla National Stadium,20
-LMPSimmons,West Indies,South Africa,49,36,6,2,136.11111111111111,0,0,0,0,0,0,Kingsmead,59
-LMPSimmons,West Indies,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-5
-LMPSimmons,West Indies,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,-5
-LMPSimmons,West Indies,Zimbabwe,41,40,1,2,102.49999999999999,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,46
-LMPSimmons,West Indies,South Africa,77,52,12,1,148.0769230769231,11,1,22,1,0,22.0,Kennington Oval,124
-LMPSimmons,West Indies,New Zealand,29,19,5,1,152.63157894736844,0,0,0,0,0,0,Westpac Stadium,36
-LMPSimmons,West Indies,England,0,1,0,0,0.0,6,1,14,1,0,14.0,Kennington Oval,17
-LMPSimmons,West Indies,New Zealand,18,16,0,2,112.5,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,22
-LMPSimmons,West Indies,Pakistan,4,1,0,0,400.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,4
-LMPSimmons,West Indies,Pakistan,65,45,7,2,144.44444444444443,0,0,0,0,0,0,Beausejour Stadium Gros Islet,84
-LMPSimmons,West Indies,India,82,51,7,5,160.7843137254902,0,0,0,0,0,0,Wankhede Stadium,107
-LMPSimmons,West Indies,Sri Lanka,4,8,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,0
-LMPSimmons,West Indies,New Zealand,36,35,3,2,102.85714285714285,0,0,0,0,0,0,Windsor Park Roseau,43
-LMPSimmons,West Indies,Pakistan,6,5,0,1,120.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,8
-LMPSimmons,West Indies,Ireland,16,23,2,0,69.56521739130434,0,0,0,0,0,0,Sabina Park Kingston,16
-LMPSimmons,West Indies,Zimbabwe,63,50,1,6,126.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,84
-LMPSimmons,West Indies,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-LMPSimmons,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-LMPSimmons,West Indies,India,9,10,1,0,90.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,10
-LMPSimmons,West Indies,England,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-LMPSimmons,West Indies,England,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Kensington Oval Bridgetown,22
-LMPSimmons,West Indies,Pakistan,31,30,2,2,103.33333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,37
-LMPSimmons,West Indies,Australia,26,24,3,0,108.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,29
-LMPSimmons,West Indies,India,44,39,5,0,112.82051282051282,0,0,0,0,0,0,Lord's,49
-LMPSimmons,West Indies,England,69,55,7,2,125.45454545454547,0,0,0,0,0,0,Kensington Oval Bridgetown,88
-LMPSimmons,West Indies,England,0,1,0,0,0.0,0,0,0,0,0,0,Eden Gardens,-8
-LMPSimmons,West Indies,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-3
-LMPSimmons,West Indies,Bangladesh,23,24,2,1,95.83333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,27
-LMPSimmons,West Indies,Sri Lanka,29,20,5,0,145.0,17,2,19,4,0,9.5,Trent Bridge,140
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LMPSimmons,West Indies,India,0,1,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,-8
+LMPSimmons,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,0,0,2009,-8
+LMPSimmons,West Indies,England,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2014,38
+LMPSimmons,West Indies,Bangladesh,0,1,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,0
+LMPSimmons,West Indies,Australia,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Bellerive Oval,0,0,2010,5
+LMPSimmons,West Indies,Afghanistan,17,14,1,0,121.42857142857142,0,0,0,0,0,0,Warner Park Basseterre,0,1,2017,26
+LMPSimmons,West Indies,South Africa,49,36,6,2,136.11111111111111,0,0,0,0,0,0,Kingsmead,0,0,2015,59
+LMPSimmons,West Indies,Zimbabwe,41,40,1,2,102.49999999999999,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,1,0,2013,58
+LMPSimmons,West Indies,England,23,34,1,0,67.64705882352942,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2009,30
+LMPSimmons,West Indies,England,69,55,7,2,125.45454545454547,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2014,96
+LMPSimmons,West Indies,Zimbabwe,63,50,1,6,126.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2013,92
+LMPSimmons,West Indies,Pakistan,4,1,0,0,400.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2017,12
+LMPSimmons,West Indies,Pakistan,31,30,2,2,103.33333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,45
+LMPSimmons,West Indies,Pakistan,65,45,7,2,144.44444444444443,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2011,84
+LMPSimmons,West Indies,England,6,5,1,0,120.0,0,0,0,0,0,0,Trent Bridge,0,0,2012,7
+LMPSimmons,West Indies,Pakistan,3,16,0,0,18.75,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,2,2013,13
+LMPSimmons,West Indies,Sri Lanka,4,8,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,1,1,2014,20
+LMPSimmons,West Indies,England,0,1,0,0,0.0,0,0,0,0,0,0,Eden Gardens,0,1,2016,0
+LMPSimmons,West Indies,Sri Lanka,29,20,5,0,145.0,17,2,19,4,0,9.5,Trent Bridge,0,0,2009,140
+LMPSimmons,West Indies,Ireland,16,23,2,0,69.56521739130434,0,0,0,0,0,0,Sabina Park Kingston,0,0,2014,16
+LMPSimmons,West Indies,New Zealand,29,19,5,1,152.63157894736844,0,0,0,0,0,0,Westpac Stadium,0,1,2014,44
+LMPSimmons,West Indies,India,82,51,7,5,160.7843137254902,0,0,0,0,0,0,Wankhede Stadium,0,0,2016,107
+LMPSimmons,West Indies,England,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2014,-3
+LMPSimmons,West Indies,Australia,26,24,3,0,108.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,29
+LMPSimmons,West Indies,New Zealand,18,16,0,2,112.5,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,1,0,2012,34
+LMPSimmons,West Indies,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Eden Park,0,0,2014,-8
+LMPSimmons,West Indies,India,44,39,5,0,112.82051282051282,0,0,0,0,0,0,Lord's,0,3,2009,73
+LMPSimmons,West Indies,India,9,10,1,0,90.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2011,10
+LMPSimmons,West Indies,India,19,20,3,0,95.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,22
+LMPSimmons,West Indies,England,9,12,2,0,75.0,0,0,0,0,0,0,Kennington Oval,0,0,2007,11
+LMPSimmons,West Indies,Bangladesh,23,24,2,1,95.83333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,27
+LMPSimmons,West Indies,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,-3
+LMPSimmons,West Indies,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,-5
+LMPSimmons,West Indies,New Zealand,36,35,3,2,102.85714285714285,0,0,0,0,0,0,Windsor Park Roseau,0,1,2014,51
+LMPSimmons,West Indies,England,0,1,0,0,0.0,6,1,14,1,0,14.0,Kennington Oval,0,0,2009,17
+LMPSimmons,West Indies,Bangladesh,18,12,2,0,150.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,20
+LMPSimmons,West Indies,Afghanistan,6,3,0,1,200.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,8
+LMPSimmons,West Indies,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2017,-5
+LMPSimmons,West Indies,India,27,24,1,2,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,32
+LMPSimmons,West Indies,South Africa,77,52,12,1,148.0769230769231,11,1,22,1,0,22.0,Kennington Oval,0,0,2009,124
+LMPSimmons,West Indies,New Zealand,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Windsor Park Roseau,0,0,2014,-5
+LMPSimmons,West Indies,Afghanistan,15,10,1,1,150.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,18
+LMPSimmons,West Indies,Pakistan,6,5,0,1,120.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,1,1,2013,28
+LMPSimmons,West Indies,Ireland,12,18,0,0,66.66666666666666,0,0,0,0,0,0,Sabina Park Kingston,0,0,2014,10

@@ -1,8 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-StevenRyanTaylor,United States of America,Canada,10,5,0,1,200.0,0,0,0,0,0,0,White Hill Field Sandys Parish,12
-StevenRyanTaylor,United States of America,Cayman Islands,56,40,9,2,140.0,11,1,5,1,1,5.0,White Hill Field Sandys Parish,110
-StevenRyanTaylor,United States of America,Bermuda,23,31,1,0,74.19354838709677,17,2,29,0,0,14.5,Bermuda National Stadium,18
-StevenRyanTaylor,United States of America,Bermuda,0,1,0,0,0.0,11,1,12,0,0,12.0,White Hill Field Sandys Parish,-8
-StevenRyanTaylor,United States of America,Canada,38,31,2,3,122.58064516129032,11,1,14,0,0,14.0,White Hill Field Sandys Parish,46
-StevenRyanTaylor,United States of America,Cayman Islands,17,24,2,0,70.83333333333334,26,4,11,2,0,2.75,National Stadium,75
-StevenRyanTaylor,United States of America,Canada,10,5,0,1,200.0,0,0,0,0,0,0,White Hill Field Sandys Parish,12
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+StevenRyanTaylor,United States of America,Canada,38,31,2,3,122.58064516129032,11,1,14,0,0,14.0,White Hill Field Sandys Parish,0,0,2019,46
+StevenRyanTaylor,United States of America,Canada,10,5,0,1,200.0,0,0,0,0,0,0,White Hill Field Sandys Parish,0,2,2019,28
+StevenRyanTaylor,United States of America,Cayman Islands,56,40,9,2,140.0,11,1,5,1,1,5.0,White Hill Field Sandys Parish,0,1,2019,118
+StevenRyanTaylor,United States of America,Cayman Islands,17,24,2,0,70.83333333333334,26,4,11,2,0,2.75,National Stadium,0,0,2019,75
+StevenRyanTaylor,United States of America,Bermuda,23,31,1,0,74.19354838709677,17,2,29,0,0,14.5,Bermuda National Stadium,0,0,2019,18
+StevenRyanTaylor,United States of America,Bermuda,0,1,0,0,0.0,11,1,12,0,0,12.0,White Hill Field Sandys Parish,0,1,2019,0

@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-Inam-ul-Haq,Qatar,Singapore,11,9,1,0,122.22222222222223,23,3,26,0,1,8.666666666666666,Indian Association Ground,20
-Inam-ul-Haq,Qatar,Nepal,41,33,6,0,124.24242424242425,17,2,28,1,0,14.0,Indian Association Ground,66
-Inam-ul-Haq,Qatar,Kuwait,28,33,4,0,84.84848484848484,17,2,28,1,0,14.0,Indian Association Ground,51
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+Inam-ul-Haq,Qatar,Singapore,11,9,1,0,122.22222222222223,23,3,26,0,1,8.666666666666666,Indian Association Ground,0,0,2019,20
+Inam-ul-Haq,Qatar,Nepal,41,33,6,0,124.24242424242425,17,2,28,1,0,14.0,Indian Association Ground,0,0,2019,66
+Inam-ul-Haq,Qatar,Kuwait,28,33,4,0,84.84848484848484,17,2,28,1,0,14.0,Indian Association Ground,0,0,2019,51

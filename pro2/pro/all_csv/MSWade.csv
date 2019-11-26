@@ -1,25 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,4
-MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,4
-MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,4
-MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,6
-MSWade,Australia,West Indies,1,5,0,0,20.0,0,0,0,0,0,0,R Premadasa Stadium,-5
-MSWade,Australia,England,2,2,0,0,100.0,0,0,0,0,0,0,Sophia Gardens,2
-MSWade,Australia,India,72,44,5,3,163.63636363636365,0,0,0,0,0,0,Stadium Australia,91
-MSWade,Australia,South Africa,10,14,0,1,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,12
-MSWade,Australia,India,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Adelaide Oval,5
-MSWade,Australia,India,16,15,0,1,106.66666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,18
-MSWade,Australia,Pakistan,13,14,1,0,92.85714285714286,0,0,0,0,0,0,R Premadasa Stadium,14
-MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,6
-MSWade,Australia,Sri Lanka,14,23,0,0,60.86956521739131,0,0,0,0,0,0,R Premadasa Stadium,12
-MSWade,Australia,West Indies,17,20,1,1,85.0,0,0,0,0,0,0,Kensington Oval Bridgetown,20
-MSWade,Australia,England,15,7,2,1,214.28571428571428,0,0,0,0,0,0,The Rose Bowl,19
-MSWade,Australia,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Newlands,1
-MSWade,Australia,India,32,30,1,1,106.66666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,35
-MSWade,Australia,England,19,11,1,1,172.72727272727272,0,0,0,0,0,0,Stadium Australia,22
-MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,4
-MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MSWade,Australia,Pakistan,13,14,1,0,92.85714285714286,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,14
+MSWade,Australia,India,16,15,0,1,106.66666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2016,18
+MSWade,Australia,India,32,30,1,1,106.66666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2012,43
+MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,0
+MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,0,1,2013,12
+MSWade,Australia,England,19,11,1,1,172.72727272727272,0,0,0,0,0,0,Stadium Australia,0,0,2014,22
+MSWade,Australia,England,2,2,0,0,100.0,0,0,0,0,0,0,Sophia Gardens,0,0,2015,2
+MSWade,Australia,South Africa,10,14,0,1,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,0,0,2011,12
+MSWade,Australia,West Indies,17,20,1,1,85.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2012,36
+MSWade,Australia,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Newlands,0,0,2011,1
+MSWade,Australia,England,15,7,2,1,214.28571428571428,0,0,0,0,0,0,The Rose Bowl,0,2,2013,35
+MSWade,Australia,India,72,44,5,3,163.63636363636365,0,0,0,0,0,0,Stadium Australia,0,0,2012,91
+MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,6
+MSWade,Australia,West Indies,1,5,0,0,20.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,3
+MSWade,Australia,India,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Adelaide Oval,0,1,2016,13
+MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,6
+MSWade,Australia,Sri Lanka,14,23,0,0,60.86956521739131,0,0,0,0,0,0,R Premadasa Stadium,0,0,2016,12

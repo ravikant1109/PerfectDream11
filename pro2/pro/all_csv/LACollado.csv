@@ -1,3 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LACollado,Gibraltar,Spain,8,17,0,0,47.05882352941176,0,0,0,0,0,0,La Manga Club Bottom Ground,2
-LACollado,Gibraltar,Portugal,3,4,0,0,75.0,0,0,0,0,0,0,La Manga Club Bottom Ground,3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LACollado,Gibraltar,Portugal,3,4,0,0,75.0,0,0,0,0,0,0,La Manga Club Bottom Ground,0,1,2019,11
+LACollado,Gibraltar,Spain,8,17,0,0,47.05882352941176,0,0,0,0,0,0,La Manga Club Bottom Ground,0,0,2019,2

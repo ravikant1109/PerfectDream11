@@ -1,16 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NDutta,Canada,Oman,1,2,0,0,50.0,18,3,33,0,0,11.0,Sheikh Zayed Stadium,-7
-NDutta,Canada,Oman,1,2,0,0,50.0,18,3,33,0,0,11.0,Sheikh Zayed Stadium,-7
-NDutta,Canada,Oman,1,2,0,0,50.0,18,3,33,0,0,11.0,Sheikh Zayed Stadium,-7
-NDutta,Canada,Cayman Islands,0,0,0,0,0,26,4,17,1,0,4.25,White Hill Field Sandys Parish,29
-NDutta,Canada,Jersey,0,0,0,0,0,20,3,25,1,0,8.333333333333334,Tolerance Oval,25
-NDutta,Canada,Nigeria,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Sheikh Zayed Stadium,25
-NDutta,Canada,Cayman Islands,2,2,0,0,100.0,19,3,30,1,0,10.0,White Hill Field Sandys Parish,25
-NDutta,Canada,Bermuda,0,0,0,0,0,18,3,12,2,0,4.0,National Stadium,54
-NDutta,Canada,Hong Kong,12,11,1,0,109.09090909090908,25,4,25,1,0,6.25,Tolerance Oval,38
-NDutta,Canada,United States of America,0,0,0,0,0,24,4,27,2,0,6.75,White Hill Field Sandys Parish,50
-NDutta,Canada,Ireland,0,0,0,0,0,17,2,12,1,0,6.0,Sheikh Zayed Stadium,25
-NDutta,Canada,United Arab Emirates,0,0,0,0,0,23,3,27,0,0,9.0,Sheikh Zayed Stadium,0
-NDutta,Canada,Oman,1,2,0,0,50.0,18,3,33,0,0,11.0,Sheikh Zayed Stadium,-7
-NDutta,Canada,Cayman Islands,0,0,0,0,0,26,4,17,1,0,4.25,White Hill Field Sandys Parish,29
-NDutta,Canada,Jersey,0,0,0,0,0,20,3,25,1,0,8.333333333333334,Tolerance Oval,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NDutta,Canada,Oman,1,2,0,0,50.0,18,3,33,0,0,11.0,Sheikh Zayed Stadium,0,0,2019,-7
+NDutta,Canada,Ireland,0,0,0,0,0,17,2,12,1,0,6.0,Sheikh Zayed Stadium,0,0,2019,25
+NDutta,Canada,United States of America,0,0,0,0,0,24,4,27,2,0,6.75,White Hill Field Sandys Parish,0,0,2019,50
+NDutta,Canada,United Arab Emirates,0,0,0,0,0,23,3,27,0,0,9.0,Sheikh Zayed Stadium,0,0,2019,0
+NDutta,Canada,Cayman Islands,2,2,0,0,100.0,19,3,30,1,0,10.0,White Hill Field Sandys Parish,0,0,2019,25
+NDutta,Canada,Nigeria,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Sheikh Zayed Stadium,0,0,2019,25
+NDutta,Canada,Hong Kong,12,11,1,0,109.09090909090908,25,4,25,1,0,6.25,Tolerance Oval,0,0,2019,38
+NDutta,Canada,Bermuda,0,0,0,0,0,18,3,12,2,0,4.0,National Stadium,0,2,2019,70
+NDutta,Canada,Cayman Islands,0,0,0,0,0,26,4,17,1,0,4.25,White Hill Field Sandys Parish,0,0,2019,29
+NDutta,Canada,Jersey,0,0,0,0,0,20,3,25,1,0,8.333333333333334,Tolerance Oval,0,0,2019,25

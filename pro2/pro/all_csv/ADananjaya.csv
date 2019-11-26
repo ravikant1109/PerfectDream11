@@ -1,17 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ADananjaya,Sri Lanka,Australia,0,0,0,0,0,5,0,12,0,0,0,Melbourne Cricket Ground,0
-ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,18,3,30,1,0,10.0,Pallekele International Cricket Stadium,23
-ADananjaya,Sri Lanka,Australia,0,0,0,0,0,5,0,12,0,0,0,Melbourne Cricket Ground,0
-ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,18,3,30,1,0,10.0,Pallekele International Cricket Stadium,23
-ADananjaya,Sri Lanka,Australia,0,0,0,0,0,5,0,12,0,0,0,Melbourne Cricket Ground,0
-ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,18,3,30,1,0,10.0,Pallekele International Cricket Stadium,23
-ADananjaya,Sri Lanka,West Indies,0,0,0,0,0,17,2,17,1,0,8.5,R Premadasa Stadium,25
-ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,11,1,9,2,0,9.0,Pallekele International Cricket Stadium,50
-ADananjaya,Sri Lanka,New Zealand,0,2,0,0,0.0,24,4,36,3,0,9.0,Pallekele International Cricket Stadium,67
-ADananjaya,Sri Lanka,England,0,0,0,0,0,23,3,27,2,0,9.0,Pallekele International Cricket Stadium,50
-ADananjaya,Sri Lanka,New Zealand,0,2,0,0,0.0,24,4,29,2,0,7.25,Pallekele International Cricket Stadium,42
-ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Pallekele International Cricket Stadium,44
-ADananjaya,Sri Lanka,Australia,0,0,0,0,0,5,0,12,0,0,0,Melbourne Cricket Ground,0
-ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,18,3,30,1,0,10.0,Pallekele International Cricket Stadium,23
-ADananjaya,Sri Lanka,West Indies,0,0,0,0,0,17,2,17,1,0,8.5,R Premadasa Stadium,25
-ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,11,1,9,2,0,9.0,Pallekele International Cricket Stadium,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ADananjaya,Sri Lanka,New Zealand,0,2,0,0,0.0,24,4,36,3,0,9.0,Pallekele International Cricket Stadium,0,0,2019,67
+ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Pallekele International Cricket Stadium,0,0,2012,44
+ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,18,3,30,1,0,10.0,Pallekele International Cricket Stadium,0,0,2019,23
+ADananjaya,Sri Lanka,England,0,0,0,0,0,23,3,27,2,0,9.0,Pallekele International Cricket Stadium,0,0,2012,50
+ADananjaya,Sri Lanka,New Zealand,0,0,0,0,0,11,1,9,2,0,9.0,Pallekele International Cricket Stadium,0,0,2012,50
+ADananjaya,Sri Lanka,New Zealand,0,2,0,0,0.0,24,4,29,2,0,7.25,Pallekele International Cricket Stadium,1,0,2019,54
+ADananjaya,Sri Lanka,West Indies,0,0,0,0,0,17,2,17,1,0,8.5,R Premadasa Stadium,0,1,2012,33
+ADananjaya,Sri Lanka,Australia,0,0,0,0,0,5,0,12,0,0,0,Melbourne Cricket Ground,0,0,2013,0

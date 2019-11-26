@@ -1,12 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SPKhakurel,Nepal,Netherlands,6,13,0,0,46.15384615384615,0,0,0,0,0,0,VRA Ground,0
-SPKhakurel,Nepal,Netherlands,6,13,0,0,46.15384615384615,0,0,0,0,0,0,VRA Ground,0
-SPKhakurel,Nepal,Netherlands,6,13,0,0,46.15384615384615,0,0,0,0,0,0,VRA Ground,0
-SPKhakurel,Nepal,Afghanistan,56,56,6,1,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,72
-SPKhakurel,Nepal,Hong Kong,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0
-SPKhakurel,Nepal,Hong Kong,22,17,4,0,129.41176470588235,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,26
-SPKhakurel,Nepal,Bangladesh,8,16,0,0,50.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,4
-SPKhakurel,Nepal,Netherlands,14,27,0,0,51.85185185185185,0,0,0,0,0,0,Hazelaarweg,10
-SPKhakurel,Nepal,Hong Kong,2,8,0,0,25.0,0,0,0,0,0,0,P Sara Oval,-4
-SPKhakurel,Nepal,Netherlands,6,13,0,0,46.15384615384615,0,0,0,0,0,0,VRA Ground,0
-SPKhakurel,Nepal,Afghanistan,56,56,6,1,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,72
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SPKhakurel,Nepal,Netherlands,14,27,0,0,51.85185185185185,0,0,0,0,0,0,Hazelaarweg,0,0,2015,10
+SPKhakurel,Nepal,Hong Kong,22,17,4,0,129.41176470588235,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,2,2014,42
+SPKhakurel,Nepal,Afghanistan,56,56,6,1,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,72
+SPKhakurel,Nepal,Hong Kong,2,8,0,0,25.0,0,0,0,0,0,0,P Sara Oval,1,0,2014,8
+SPKhakurel,Nepal,Netherlands,6,13,0,0,46.15384615384615,0,0,0,0,0,0,VRA Ground,0,0,2015,0
+SPKhakurel,Nepal,Bangladesh,8,16,0,0,50.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,4
+SPKhakurel,Nepal,Hong Kong,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2015,8

@@ -1,21 +1,16 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-EOtieno,Kenya,Bermuda,0,0,0,0,0,11,1,8,1,0,8.0,ICC Academy,25
-EOtieno,Kenya,Bermuda,0,0,0,0,0,11,1,8,1,0,8.0,ICC Academy,25
-EOtieno,Kenya,Bermuda,0,0,0,0,0,11,1,8,1,0,8.0,ICC Academy,25
-EOtieno,Kenya,Netherlands,0,0,0,0,0,6,1,16,0,0,16.0,Wanderers Cricket Ground,0
-EOtieno,Kenya,Namibia,0,1,0,0,0.0,20,3,43,0,0,14.333333333333334,Dubai International Cricket Stadium,-14
-EOtieno,Kenya,Singapore,0,0,0,0,0,25,4,29,3,0,7.25,ICC Academy Ground No 2,75
-EOtieno,Kenya,Ireland,2,6,0,0,33.33333333333333,11,1,17,0,0,17.0,Mombasa Sports Club Ground,-4
-EOtieno,Kenya,Afghanistan,0,0,0,0,0,23,3,17,3,0,5.666666666666667,Sharjah Cricket Stadium,77
-EOtieno,Kenya,Uganda,0,0,0,0,0,26,4,38,3,0,9.5,Lugogo Cricket Oval,73
-EOtieno,Kenya,Netherlands,3,3,0,0,100.0,20,3,32,0,0,10.666666666666666,ICC Academy,-1
-EOtieno,Kenya,Scotland,1,1,0,0,100.0,17,2,29,0,0,14.5,ICC Academy Ground No 2,-5
-EOtieno,Kenya,Canada,0,0,0,0,0,22,3,18,3,0,6.0,ICC Global Cricket Academy,75
-EOtieno,Kenya,Scotland,0,0,0,0,0,11,1,16,0,0,16.0,ICC Academy,0
-EOtieno,Kenya,Canada,4,6,0,0,66.66666666666666,20,3,27,0,0,9.0,ICC Global Cricket Academy,2
-EOtieno,Kenya,Ghana,0,0,0,0,0,15,2,14,1,0,7.0,Kyambogo Cricket Oval,25
-EOtieno,Kenya,Netherlands,5,11,0,0,45.45454545454545,7,1,15,0,0,15.0,ICC Academy,-1
-EOtieno,Kenya,Afghanistan,8,10,0,1,80.0,17,2,19,0,0,9.5,Sharjah Cricket Stadium,8
-EOtieno,Kenya,Bermuda,0,0,0,0,0,11,1,8,1,0,8.0,ICC Academy,25
-EOtieno,Kenya,Netherlands,0,0,0,0,0,6,1,16,0,0,16.0,Wanderers Cricket Ground,0
-EOtieno,Kenya,Namibia,0,1,0,0,0.0,20,3,43,0,0,14.333333333333334,Dubai International Cricket Stadium,-14
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+EOtieno,Kenya,Singapore,0,0,0,0,0,25,4,29,3,0,7.25,ICC Academy Ground No 2,0,0,2019,75
+EOtieno,Kenya,Scotland,0,0,0,0,0,11,1,16,0,0,16.0,ICC Academy,0,0,2013,0
+EOtieno,Kenya,Netherlands,0,0,0,0,0,6,1,16,0,0,16.0,Wanderers Cricket Ground,0,1,2013,8
+EOtieno,Kenya,Ghana,0,0,0,0,0,15,2,14,1,0,7.0,Kyambogo Cricket Oval,0,0,2019,25
+EOtieno,Kenya,Netherlands,5,11,0,0,45.45454545454545,7,1,15,0,0,15.0,ICC Academy,0,0,2013,-1
+EOtieno,Kenya,Namibia,0,1,0,0,0.0,20,3,43,0,0,14.333333333333334,Dubai International Cricket Stadium,0,1,2019,-6
+EOtieno,Kenya,Canada,4,6,0,0,66.66666666666666,20,3,27,0,0,9.0,ICC Global Cricket Academy,0,0,2013,2
+EOtieno,Kenya,Afghanistan,8,10,0,1,80.0,17,2,19,0,0,9.5,Sharjah Cricket Stadium,0,0,2013,8
+EOtieno,Kenya,Scotland,1,1,0,0,100.0,17,2,29,0,0,14.5,ICC Academy Ground No 2,0,0,2019,-5
+EOtieno,Kenya,Uganda,0,0,0,0,0,26,4,38,3,0,9.5,Lugogo Cricket Oval,1,0,2019,85
+EOtieno,Kenya,Bermuda,0,0,0,0,0,11,1,8,1,0,8.0,ICC Academy,0,0,2019,25
+EOtieno,Kenya,Canada,0,0,0,0,0,22,3,18,3,0,6.0,ICC Global Cricket Academy,0,0,2013,75
+EOtieno,Kenya,Ireland,2,6,0,0,33.33333333333333,11,1,17,0,0,17.0,Mombasa Sports Club Ground,0,0,2012,-4
+EOtieno,Kenya,Afghanistan,0,0,0,0,0,23,3,17,3,0,5.666666666666667,Sharjah Cricket Stadium,0,0,2013,77
+EOtieno,Kenya,Netherlands,3,3,0,0,100.0,20,3,32,0,0,10.666666666666666,ICC Academy,0,0,2019,-1

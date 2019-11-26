@@ -1,8 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-AJStrauss,England,West Indies,22,26,2,0,84.61538461538461,0,0,0,0,0,0,Queen's Park Oval Port of Spain,24
-AJStrauss,England,Australia,18,17,1,0,105.88235294117648,0,0,0,0,0,0,The Rose Bowl,19
-AJStrauss,England,Sri Lanka,33,23,6,0,143.47826086956522,0,0,0,0,0,0,The Rose Bowl,39
-AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AJStrauss,England,Sri Lanka,33,23,6,0,143.47826086956522,0,0,0,0,0,0,The Rose Bowl,0,1,2006,47
+AJStrauss,England,Australia,18,17,1,0,105.88235294117648,0,0,0,0,0,0,The Rose Bowl,0,0,2005,19
+AJStrauss,England,West Indies,22,26,2,0,84.61538461538461,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2009,24
+AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,0,0,2006,-8

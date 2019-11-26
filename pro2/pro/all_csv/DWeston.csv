@@ -1,3 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DWeston,Germany,Guernsey,14,12,0,1,116.66666666666667,0,0,0,0,0,0,King George V Sports Ground,16
-DWeston,Germany,Italy,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Sportpark Maarschalkerweerd,5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DWeston,Germany,Guernsey,14,12,0,1,116.66666666666667,0,0,0,0,0,0,King George V Sports Ground,0,3,2019,40
+DWeston,Germany,Italy,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Sportpark Maarschalkerweerd,0,2,2019,21

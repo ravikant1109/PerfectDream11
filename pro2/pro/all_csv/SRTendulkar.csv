@@ -1,2 +1,2 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SRTendulkar,India,South Africa,10,13,2,0,76.92307692307693,14,2,13,1,0,6.5,New Wanderers Stadium,37
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SRTendulkar,India,South Africa,10,13,2,0,76.92307692307693,14,2,13,1,0,6.5,New Wanderers Stadium,0,1,2006,45

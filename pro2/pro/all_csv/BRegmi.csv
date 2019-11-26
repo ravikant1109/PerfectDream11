@@ -1,26 +1,15 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BRegmi,Nepal,Kuwait,0,0,0,0,0,23,3,20,3,0,6.666666666666667,Indian Association Ground,75
-BRegmi,Nepal,Malaysia,0,0,0,0,0,6,1,9,2,0,9.0,Indian Association Ground,50
-BRegmi,Nepal,Netherlands,2,13,0,0,15.384615384615385,23,3,32,0,0,10.666666666666666,VRA Ground,-8
-BRegmi,Nepal,Kuwait,0,0,0,0,0,23,3,20,3,0,6.666666666666667,Indian Association Ground,75
-BRegmi,Nepal,Malaysia,0,0,0,0,0,6,1,9,2,0,9.0,Indian Association Ground,50
-BRegmi,Nepal,Netherlands,2,13,0,0,15.384615384615385,23,3,32,0,0,10.666666666666666,VRA Ground,-8
-BRegmi,Nepal,Kuwait,0,0,0,0,0,23,3,20,3,0,6.666666666666667,Indian Association Ground,75
-BRegmi,Nepal,Malaysia,0,0,0,0,0,6,1,9,2,0,9.0,Indian Association Ground,50
-BRegmi,Nepal,Netherlands,2,13,0,0,15.384615384615385,23,3,32,0,0,10.666666666666666,VRA Ground,-8
-BRegmi,Nepal,Afghanistan,0,0,0,0,0,17,2,32,1,0,16.0,Zahur Ahmed Chowdhury Stadium,19
-BRegmi,Nepal,Malaysia,0,0,0,0,0,23,3,28,2,0,9.333333333333334,Kinrara Academy Oval,48
-BRegmi,Nepal,Hong Kong,11,21,2,0,52.38095238095239,23,3,16,4,0,5.333333333333333,Civil Service Cricket Club Stormont,119
-BRegmi,Nepal,Hong Kong,0,0,0,0,0,23,3,14,3,0,4.666666666666667,Zahur Ahmed Chowdhury Stadium,79
-BRegmi,Nepal,Singapore,1,3,0,0,33.33333333333333,23,3,54,0,0,18.0,Indian Association Ground,-11
-BRegmi,Nepal,Qatar,1,2,0,0,50.0,23,3,14,0,0,4.666666666666667,Indian Association Ground,1
-BRegmi,Nepal,Ireland,2,4,0,0,50.0,5,0,6,0,0,0,Civil Service Cricket Club Stormont,-2
-BRegmi,Nepal,Bangladesh,0,0,0,0,0,17,2,15,1,0,7.5,Zahur Ahmed Chowdhury Stadium,25
-BRegmi,Nepal,Netherlands,0,1,0,0,0.0,23,3,29,1,0,9.666666666666666,Hazelaarweg,15
-BRegmi,Nepal,Hong Kong,3,9,0,0,33.33333333333333,24,4,16,0,0,4.0,P Sara Oval,1
-BRegmi,Nepal,Papua New Guinea,1,3,0,0,33.33333333333333,21,3,22,1,0,7.333333333333333,The Village Malahide,20
-BRegmi,Nepal,Kuwait,0,0,0,0,0,23,3,20,3,0,6.666666666666667,Indian Association Ground,75
-BRegmi,Nepal,Malaysia,0,0,0,0,0,6,1,9,2,0,9.0,Indian Association Ground,50
-BRegmi,Nepal,Netherlands,2,13,0,0,15.384615384615385,23,3,32,0,0,10.666666666666666,VRA Ground,-8
-BRegmi,Nepal,Afghanistan,0,0,0,0,0,17,2,32,1,0,16.0,Zahur Ahmed Chowdhury Stadium,19
-BRegmi,Nepal,Malaysia,0,0,0,0,0,23,3,28,2,0,9.333333333333334,Kinrara Academy Oval,48
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BRegmi,Nepal,Papua New Guinea,1,3,0,0,33.33333333333333,21,3,22,1,0,7.333333333333333,The Village Malahide,0,0,2015,20
+BRegmi,Nepal,Qatar,1,2,0,0,50.0,23,3,14,0,0,4.666666666666667,Indian Association Ground,1,0,2019,13
+BRegmi,Nepal,Netherlands,0,1,0,0,0.0,23,3,29,1,0,9.666666666666666,Hazelaarweg,0,0,2015,15
+BRegmi,Nepal,Hong Kong,0,0,0,0,0,23,3,14,3,0,4.666666666666667,Zahur Ahmed Chowdhury Stadium,0,0,2014,79
+BRegmi,Nepal,Afghanistan,0,0,0,0,0,17,2,32,1,0,16.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,19
+BRegmi,Nepal,Ireland,2,4,0,0,50.0,5,0,6,0,0,0,Civil Service Cricket Club Stormont,0,0,2015,-2
+BRegmi,Nepal,Malaysia,0,0,0,0,0,23,3,28,2,0,9.333333333333334,Kinrara Academy Oval,0,0,2019,48
+BRegmi,Nepal,Hong Kong,3,9,0,0,33.33333333333333,24,4,16,0,0,4.0,P Sara Oval,0,0,2014,1
+BRegmi,Nepal,Singapore,1,3,0,0,33.33333333333333,23,3,54,0,0,18.0,Indian Association Ground,0,0,2019,-11
+BRegmi,Nepal,Netherlands,2,13,0,0,15.384615384615385,23,3,32,0,0,10.666666666666666,VRA Ground,0,0,2015,-8
+BRegmi,Nepal,Bangladesh,0,0,0,0,0,17,2,15,1,0,7.5,Zahur Ahmed Chowdhury Stadium,0,0,2014,25
+BRegmi,Nepal,Kuwait,0,0,0,0,0,23,3,20,3,0,6.666666666666667,Indian Association Ground,0,1,2019,83
+BRegmi,Nepal,Malaysia,0,0,0,0,0,6,1,9,2,0,9.0,Indian Association Ground,0,0,2019,50
+BRegmi,Nepal,Hong Kong,11,21,2,0,52.38095238095239,23,3,16,4,0,5.333333333333333,Civil Service Cricket Club Stormont,0,0,2015,119

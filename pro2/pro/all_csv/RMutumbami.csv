@@ -1,31 +1,20 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RMutumbami,Zimbabwe,Pakistan,9,10,1,0,90.0,0,0,0,0,0,0,Harare Sports Club,10
-RMutumbami,Zimbabwe,Nepal,40,28,1,4,142.85714285714286,0,0,0,0,0,0,Indian Association Ground,49
-RMutumbami,Zimbabwe,Pakistan,9,10,1,0,90.0,0,0,0,0,0,0,Harare Sports Club,10
-RMutumbami,Zimbabwe,Nepal,40,28,1,4,142.85714285714286,0,0,0,0,0,0,Indian Association Ground,49
-RMutumbami,Zimbabwe,Pakistan,9,10,1,0,90.0,0,0,0,0,0,0,Harare Sports Club,10
-RMutumbami,Zimbabwe,Nepal,40,28,1,4,142.85714285714286,0,0,0,0,0,0,Indian Association Ground,49
-RMutumbami,Zimbabwe,Bangladesh,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Sheikh Abu Naser Stadium,5
-RMutumbami,Zimbabwe,Bangladesh,20,14,1,2,142.85714285714286,0,0,0,0,0,0,Sheikh Abu Naser Stadium,25
-RMutumbami,Zimbabwe,Scotland,19,17,2,1,111.76470588235294,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,23
-RMutumbami,Zimbabwe,Bangladesh,32,26,3,1,123.07692307692308,0,0,0,0,0,0,Sheikh Abu Naser Stadium,37
-RMutumbami,Zimbabwe,Singapore,5,5,1,0,100.0,0,0,0,0,0,0,Indian Association Ground,6
-RMutumbami,Zimbabwe,Bangladesh,54,34,4,3,158.8235294117647,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,72
-RMutumbami,Zimbabwe,Afghanistan,6,4,0,1,150.0,0,0,0,0,0,0,Queens Sports Club,8
-RMutumbami,Zimbabwe,Afghanistan,19,18,1,2,105.55555555555556,0,0,0,0,0,0,Sharjah Cricket Stadium,24
-RMutumbami,Zimbabwe,Pakistan,3,10,0,0,30.0,0,0,0,0,0,0,Harare Sports Club,-3
-RMutumbami,Zimbabwe,Nepal,17,16,1,0,106.25,0,0,0,0,0,0,Indian Association Ground,18
-RMutumbami,Zimbabwe,Afghanistan,43,34,1,2,126.47058823529412,0,0,0,0,0,0,Queens Sports Club,48
-RMutumbami,Zimbabwe,Afghanistan,10,13,2,0,76.92307692307693,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,12
-RMutumbami,Zimbabwe,Ireland,5,3,0,0,166.66666666666669,0,0,0,0,0,0,Bready Cricket Club Magheramason,5
-RMutumbami,Zimbabwe,India,0,4,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,-8
-RMutumbami,Zimbabwe,Hong Kong,0,3,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,-8
-RMutumbami,Zimbabwe,Afghanistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Sharjah Cricket Stadium,-5
-RMutumbami,Zimbabwe,Pakistan,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Gaddafi Stadium,0
-RMutumbami,Zimbabwe,Pakistan,9,10,1,0,90.0,0,0,0,0,0,0,Harare Sports Club,10
-RMutumbami,Zimbabwe,Nepal,40,28,1,4,142.85714285714286,0,0,0,0,0,0,Indian Association Ground,49
-RMutumbami,Zimbabwe,Bangladesh,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Sheikh Abu Naser Stadium,5
-RMutumbami,Zimbabwe,Bangladesh,20,14,1,2,142.85714285714286,0,0,0,0,0,0,Sheikh Abu Naser Stadium,25
-RMutumbami,Zimbabwe,Scotland,19,17,2,1,111.76470588235294,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,23
-RMutumbami,Zimbabwe,Bangladesh,32,26,3,1,123.07692307692308,0,0,0,0,0,0,Sheikh Abu Naser Stadium,37
-RMutumbami,Zimbabwe,Singapore,5,5,1,0,100.0,0,0,0,0,0,0,Indian Association Ground,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RMutumbami,Zimbabwe,Hong Kong,0,3,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,-8
+RMutumbami,Zimbabwe,Afghanistan,10,13,2,0,76.92307692307693,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,1,0,2016,24
+RMutumbami,Zimbabwe,Nepal,17,16,1,0,106.25,0,0,0,0,0,0,Indian Association Ground,0,1,2019,26
+RMutumbami,Zimbabwe,Scotland,19,17,2,1,111.76470588235294,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2016,31
+RMutumbami,Zimbabwe,Pakistan,3,10,0,0,30.0,0,0,0,0,0,0,Harare Sports Club,0,0,2015,-3
+RMutumbami,Zimbabwe,Afghanistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,-5
+RMutumbami,Zimbabwe,India,0,4,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,0,0,2016,-8
+RMutumbami,Zimbabwe,Singapore,5,5,1,0,100.0,0,0,0,0,0,0,Indian Association Ground,0,4,2019,38
+RMutumbami,Zimbabwe,Bangladesh,54,34,4,3,158.8235294117647,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2019,72
+RMutumbami,Zimbabwe,Bangladesh,32,26,3,1,123.07692307692308,0,0,0,0,0,0,Sheikh Abu Naser Stadium,0,1,2016,45
+RMutumbami,Zimbabwe,Bangladesh,20,14,1,2,142.85714285714286,0,0,0,0,0,0,Sheikh Abu Naser Stadium,0,1,2016,33
+RMutumbami,Zimbabwe,Nepal,40,28,1,4,142.85714285714286,0,0,0,0,0,0,Indian Association Ground,0,0,2019,49
+RMutumbami,Zimbabwe,Pakistan,9,10,1,0,90.0,0,0,0,0,0,0,Harare Sports Club,1,0,2015,22
+RMutumbami,Zimbabwe,Pakistan,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Gaddafi Stadium,0,2,2015,16
+RMutumbami,Zimbabwe,Bangladesh,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Sheikh Abu Naser Stadium,0,1,2016,13
+RMutumbami,Zimbabwe,Ireland,5,3,0,0,166.66666666666669,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,0,2019,5
+RMutumbami,Zimbabwe,Afghanistan,6,4,0,1,150.0,0,0,0,0,0,0,Queens Sports Club,0,1,2015,16
+RMutumbami,Zimbabwe,Afghanistan,43,34,1,2,126.47058823529412,0,0,0,0,0,0,Queens Sports Club,0,0,2015,48
+RMutumbami,Zimbabwe,Afghanistan,19,18,1,2,105.55555555555556,0,0,0,0,0,0,Sharjah Cricket Stadium,1,0,2016,36

@@ -1,31 +1,20 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HamidHassan,Afghanistan,Hong Kong,0,0,0,0,0,23,3,21,0,0,7.0,Vidarbha Cricket Association Stadium Jamtha,0
-HamidHassan,Afghanistan,Scotland,6,3,0,0,200.0,23,3,29,0,0,9.666666666666666,Sharjah Cricket Stadium,4
-HamidHassan,Afghanistan,India,6,5,1,0,120.0,17,2,9,1,0,4.5,Beausejour Stadium Gros Islet,36
-HamidHassan,Afghanistan,Hong Kong,0,0,0,0,0,23,3,21,0,0,7.0,Vidarbha Cricket Association Stadium Jamtha,0
-HamidHassan,Afghanistan,Scotland,6,3,0,0,200.0,23,3,29,0,0,9.666666666666666,Sharjah Cricket Stadium,4
-HamidHassan,Afghanistan,India,6,5,1,0,120.0,17,2,9,1,0,4.5,Beausejour Stadium Gros Islet,36
-HamidHassan,Afghanistan,Hong Kong,0,0,0,0,0,23,3,21,0,0,7.0,Vidarbha Cricket Association Stadium Jamtha,0
-HamidHassan,Afghanistan,Scotland,6,3,0,0,200.0,23,3,29,0,0,9.666666666666666,Sharjah Cricket Stadium,4
-HamidHassan,Afghanistan,India,6,5,1,0,120.0,17,2,9,1,0,4.5,Beausejour Stadium Gros Islet,36
-HamidHassan,Afghanistan,Scotland,0,0,0,0,0,25,4,27,4,0,6.75,Sharjah Cricket Stadium,108
-HamidHassan,Afghanistan,Netherlands,3,4,0,0,75.0,17,2,26,0,0,13.0,Sharjah Cricket Stadium,-3
-HamidHassan,Afghanistan,Scotland,0,0,0,0,0,23,3,29,3,0,9.666666666666666,Grange Cricket Club Ground Raeburn Place,73
-HamidHassan,Afghanistan,Sri Lanka,0,0,0,0,0,22,3,38,0,0,12.666666666666666,Eden Gardens,-6
-HamidHassan,Afghanistan,United Arab Emirates,0,0,0,0,0,24,4,30,2,0,7.5,Grange Cricket Club Ground Raeburn Place,50
-HamidHassan,Afghanistan,West Indies,0,0,0,0,0,17,2,19,1,0,9.5,Vidarbha Cricket Association Stadium Jamtha,23
-HamidHassan,Afghanistan,South Africa,22,21,1,2,104.76190476190477,23,3,22,3,0,7.333333333333333,Kensington Oval Bridgetown,102
-HamidHassan,Afghanistan,Netherlands,0,0,0,0,0,17,2,26,1,0,13.0,Grange Cricket Club Ground Raeburn Place,19
-HamidHassan,Afghanistan,Ireland,1,1,0,0,100.0,20,3,21,2,0,7.0,Dubai International Cricket Stadium,51
-HamidHassan,Afghanistan,Kenya,4,3,1,0,133.33333333333331,24,4,41,1,0,10.25,Sharjah Cricket Stadium,26
-HamidHassan,Afghanistan,Pakistan,4,4,0,0,100.0,23,3,30,0,0,10.0,Sharjah Cricket Stadium,2
-HamidHassan,Afghanistan,Ireland,0,0,0,0,0,26,4,27,1,0,6.75,Dubai International Cricket Stadium,25
-HamidHassan,Afghanistan,Netherlands,2,2,0,0,100.0,22,3,22,1,0,7.333333333333333,Dubai International Cricket Stadium,27
-HamidHassan,Afghanistan,Papua New Guinea,0,0,0,0,0,23,3,37,1,0,12.333333333333334,The Village Malahide,19
-HamidHassan,Afghanistan,Zimbabwe,0,0,0,0,0,18,3,11,2,0,3.6666666666666665,Vidarbha Cricket Association Stadium Jamtha,56
-HamidHassan,Afghanistan,Kenya,0,0,0,0,0,18,3,5,3,1,1.6666666666666667,Sharjah Cricket Stadium,89
-HamidHassan,Afghanistan,Hong Kong,0,0,0,0,0,23,3,21,0,0,7.0,Vidarbha Cricket Association Stadium Jamtha,0
-HamidHassan,Afghanistan,Scotland,6,3,0,0,200.0,23,3,29,0,0,9.666666666666666,Sharjah Cricket Stadium,4
-HamidHassan,Afghanistan,India,6,5,1,0,120.0,17,2,9,1,0,4.5,Beausejour Stadium Gros Islet,36
-HamidHassan,Afghanistan,Scotland,0,0,0,0,0,25,4,27,4,0,6.75,Sharjah Cricket Stadium,108
-HamidHassan,Afghanistan,Netherlands,3,4,0,0,75.0,17,2,26,0,0,13.0,Sharjah Cricket Stadium,-3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HamidHassan,Afghanistan,Ireland,0,0,0,0,0,26,4,27,1,0,6.75,Dubai International Cricket Stadium,0,1,2010,33
+HamidHassan,Afghanistan,Papua New Guinea,0,0,0,0,0,23,3,37,1,0,12.333333333333334,The Village Malahide,0,0,2015,19
+HamidHassan,Afghanistan,Netherlands,0,0,0,0,0,17,2,26,1,0,13.0,Grange Cricket Club Ground Raeburn Place,0,0,2015,19
+HamidHassan,Afghanistan,India,6,5,1,0,120.0,17,2,9,1,0,4.5,Beausejour Stadium Gros Islet,0,0,2010,36
+HamidHassan,Afghanistan,Zimbabwe,0,0,0,0,0,18,3,11,2,0,3.6666666666666665,Vidarbha Cricket Association Stadium Jamtha,0,1,2016,64
+HamidHassan,Afghanistan,Sri Lanka,0,0,0,0,0,22,3,38,0,0,12.666666666666666,Eden Gardens,0,0,2016,-6
+HamidHassan,Afghanistan,South Africa,22,21,1,2,104.76190476190477,23,3,22,3,0,7.333333333333333,Kensington Oval Bridgetown,0,0,2010,102
+HamidHassan,Afghanistan,Scotland,6,3,0,0,200.0,23,3,29,0,0,9.666666666666666,Sharjah Cricket Stadium,0,0,2013,4
+HamidHassan,Afghanistan,Kenya,0,0,0,0,0,18,3,5,3,1,1.6666666666666667,Sharjah Cricket Stadium,0,0,2013,89
+HamidHassan,Afghanistan,West Indies,0,0,0,0,0,17,2,19,1,0,9.5,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,23
+HamidHassan,Afghanistan,Pakistan,4,4,0,0,100.0,23,3,30,0,0,10.0,Sharjah Cricket Stadium,0,0,2013,2
+HamidHassan,Afghanistan,Netherlands,2,2,0,0,100.0,22,3,22,1,0,7.333333333333333,Dubai International Cricket Stadium,0,0,2010,27
+HamidHassan,Afghanistan,Netherlands,3,4,0,0,75.0,17,2,26,0,0,13.0,Sharjah Cricket Stadium,0,0,2013,-3
+HamidHassan,Afghanistan,Ireland,1,1,0,0,100.0,20,3,21,2,0,7.0,Dubai International Cricket Stadium,1,0,2010,63
+HamidHassan,Afghanistan,United Arab Emirates,0,0,0,0,0,24,4,30,2,0,7.5,Grange Cricket Club Ground Raeburn Place,0,0,2015,50
+HamidHassan,Afghanistan,Kenya,4,3,1,0,133.33333333333331,24,4,41,1,0,10.25,Sharjah Cricket Stadium,0,0,2013,26
+HamidHassan,Afghanistan,Scotland,0,0,0,0,0,23,3,29,3,0,9.666666666666666,Grange Cricket Club Ground Raeburn Place,0,0,2015,73
+HamidHassan,Afghanistan,Hong Kong,0,0,0,0,0,23,3,21,0,0,7.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,0
+HamidHassan,Afghanistan,Scotland,0,0,0,0,0,25,4,27,4,0,6.75,Sharjah Cricket Stadium,0,0,2013,108

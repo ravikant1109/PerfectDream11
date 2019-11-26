@@ -1,10 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DRTuffey,New Zealand,Bangladesh,0,0,0,0,0,23,3,16,2,2,5.333333333333333,Seddon Park,68
-DRTuffey,New Zealand,Australia,5,2,0,0,250.0,24,4,52,1,0,13.0,Eden Park,24
-DRTuffey,New Zealand,Bangladesh,0,0,0,0,0,23,3,16,2,2,5.333333333333333,Seddon Park,68
-DRTuffey,New Zealand,Australia,5,2,0,0,250.0,24,4,52,1,0,13.0,Eden Park,24
-DRTuffey,New Zealand,Bangladesh,0,0,0,0,0,23,3,16,2,2,5.333333333333333,Seddon Park,68
-DRTuffey,New Zealand,Australia,5,2,0,0,250.0,24,4,52,1,0,13.0,Eden Park,24
-DRTuffey,New Zealand,Australia,0,3,0,0,0.0,11,1,27,0,0,27.0,Westpac Stadium,-8
-DRTuffey,New Zealand,Bangladesh,0,0,0,0,0,23,3,16,2,2,5.333333333333333,Seddon Park,68
-DRTuffey,New Zealand,Australia,5,2,0,0,250.0,24,4,52,1,0,13.0,Eden Park,24
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DRTuffey,New Zealand,Australia,5,2,0,0,250.0,24,4,52,1,0,13.0,Eden Park,0,0,2005,24
+DRTuffey,New Zealand,Bangladesh,0,0,0,0,0,23,3,16,2,2,5.333333333333333,Seddon Park,0,0,2010,68
+DRTuffey,New Zealand,Australia,0,3,0,0,0.0,11,1,27,0,0,27.0,Westpac Stadium,0,0,2010,-8

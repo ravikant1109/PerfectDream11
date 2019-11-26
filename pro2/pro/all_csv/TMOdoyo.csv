@@ -1,12 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TMOdoyo,Kenya,Bangladesh,22,13,2,1,169.23076923076923,24,4,29,1,0,7.25,Gymkhana Club Ground,51
-TMOdoyo,Kenya,Sri Lanka,0,0,0,0,0,18,3,16,1,0,5.333333333333333,New Wanderers Stadium,27
-TMOdoyo,Kenya,Ireland,10,16,1,0,62.5,25,4,13,2,0,3.25,Civil Service Cricket Club Stormont,65
-TMOdoyo,Kenya,Pakistan,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Gymkhana Club Ground,5
-TMOdoyo,Kenya,New Zealand,18,27,3,0,66.66666666666666,20,3,26,1,0,8.666666666666666,Kingsmead,44
-TMOdoyo,Kenya,Scotland,0,1,0,0,0.0,17,2,12,1,0,6.0,ICC Academy,17
-TMOdoyo,Kenya,Afghanistan,7,5,0,1,140.0,23,3,19,1,0,6.333333333333333,Sharjah Cricket Stadium,34
-TMOdoyo,Kenya,Netherlands,3,12,0,0,25.0,23,3,19,3,0,6.333333333333333,ICC Academy,72
-TMOdoyo,Kenya,Bangladesh,22,13,2,1,169.23076923076923,24,4,29,1,0,7.25,Gymkhana Club Ground,51
-TMOdoyo,Kenya,Sri Lanka,0,0,0,0,0,18,3,16,1,0,5.333333333333333,New Wanderers Stadium,27
-TMOdoyo,Kenya,Ireland,10,16,1,0,62.5,25,4,13,2,0,3.25,Civil Service Cricket Club Stormont,65
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TMOdoyo,Kenya,Scotland,0,1,0,0,0.0,17,2,12,1,0,6.0,ICC Academy,0,1,2013,25
+TMOdoyo,Kenya,Ireland,10,16,1,0,62.5,25,4,13,2,0,3.25,Civil Service Cricket Club Stormont,0,0,2008,65
+TMOdoyo,Kenya,Netherlands,3,12,0,0,25.0,23,3,19,3,0,6.333333333333333,ICC Academy,0,0,2013,72
+TMOdoyo,Kenya,Pakistan,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,5
+TMOdoyo,Kenya,Bangladesh,22,13,2,1,169.23076923076923,24,4,29,1,0,7.25,Gymkhana Club Ground,0,2,2007,67
+TMOdoyo,Kenya,New Zealand,18,27,3,0,66.66666666666666,20,3,26,1,0,8.666666666666666,Kingsmead,0,0,2007,44
+TMOdoyo,Kenya,Afghanistan,7,5,0,1,140.0,23,3,19,1,0,6.333333333333333,Sharjah Cricket Stadium,0,0,2013,34
+TMOdoyo,Kenya,Sri Lanka,0,0,0,0,0,18,3,16,1,0,5.333333333333333,New Wanderers Stadium,0,0,2007,27

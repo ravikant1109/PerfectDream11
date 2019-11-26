@@ -1,9 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GALamb,Zimbabwe,Sri Lanka,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Providence Stadium,44
-GALamb,Zimbabwe,Sri Lanka,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Providence Stadium,44
-GALamb,Zimbabwe,Sri Lanka,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Providence Stadium,44
-GALamb,Zimbabwe,West Indies,11,28,0,0,39.285714285714285,25,4,14,2,0,3.5,Queen's Park Oval Port of Spain,61
-GALamb,Zimbabwe,India,0,1,0,0,0.0,5,0,10,0,0,0,Harare Sports Club,-8
-GALamb,Zimbabwe,India,7,4,1,0,175.0,17,2,21,0,0,10.5,Harare Sports Club,4
-GALamb,Zimbabwe,New Zealand,14,22,0,0,63.63636363636363,0,0,1,0,0,0,Providence Stadium,12
-GALamb,Zimbabwe,Sri Lanka,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Providence Stadium,44
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GALamb,Zimbabwe,Sri Lanka,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Providence Stadium,0,0,2010,44
+GALamb,Zimbabwe,New Zealand,14,22,0,0,63.63636363636363,0,0,1,0,0,0,Providence Stadium,0,0,2010,12
+GALamb,Zimbabwe,India,0,1,0,0,0.0,5,0,10,0,0,0,Harare Sports Club,0,0,2010,-8
+GALamb,Zimbabwe,India,7,4,1,0,175.0,17,2,21,0,0,10.5,Harare Sports Club,0,0,2010,4
+GALamb,Zimbabwe,West Indies,11,28,0,0,39.285714285714285,25,4,14,2,0,3.5,Queen's Park Oval Port of Spain,0,0,2010,61

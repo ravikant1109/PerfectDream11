@@ -1,6 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,19
-SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,19
-SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,19
-SSPathirana,Sri Lanka,Australia,6,6,1,0,100.0,16,2,23,2,0,11.5,R Premadasa Stadium,51
-SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,19
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,0,0,2016,19
+SSPathirana,Sri Lanka,Australia,6,6,1,0,100.0,16,2,23,2,0,11.5,R Premadasa Stadium,0,0,2016,51

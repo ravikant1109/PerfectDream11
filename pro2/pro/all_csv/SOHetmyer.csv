@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SOHetmyer,West Indies,India,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Providence Stadium Guyana,-5
-SOHetmyer,West Indies,India,6,4,0,0,150.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,6
-SOHetmyer,West Indies,India,0,1,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SOHetmyer,West Indies,India,6,4,0,0,150.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,1,2019,14
+SOHetmyer,West Indies,India,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Providence Stadium Guyana,0,0,2019,-5
+SOHetmyer,West Indies,India,0,1,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,-8

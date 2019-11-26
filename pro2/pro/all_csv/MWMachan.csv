@@ -1,22 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MWMachan,Scotland,Afghanistan,36,32,0,1,112.5,11,1,22,0,0,22.0,Vidarbha Cricket Association Stadium Jamtha,38
-MWMachan,Scotland,Afghanistan,42,38,6,0,110.5263157894737,23,3,23,3,0,7.666666666666667,Sharjah Cricket Stadium,123
-MWMachan,Scotland,Afghanistan,36,32,0,1,112.5,11,1,22,0,0,22.0,Vidarbha Cricket Association Stadium Jamtha,38
-MWMachan,Scotland,Afghanistan,42,38,6,0,110.5263157894737,23,3,23,3,0,7.666666666666667,Sharjah Cricket Stadium,123
-MWMachan,Scotland,Afghanistan,36,32,0,1,112.5,11,1,22,0,0,22.0,Vidarbha Cricket Association Stadium Jamtha,38
-MWMachan,Scotland,Afghanistan,42,38,6,0,110.5263157894737,23,3,23,3,0,7.666666666666667,Sharjah Cricket Stadium,123
-MWMachan,Scotland,Afghanistan,54,39,4,2,138.46153846153845,5,0,15,0,0,0,Sharjah Cricket Stadium,70
-MWMachan,Scotland,Zimbabwe,9,6,2,0,150.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,11
-MWMachan,Scotland,Afghanistan,39,29,3,1,134.48275862068965,20,3,20,0,0,6.666666666666667,Sharjah Cricket Stadium,44
-MWMachan,Scotland,United Arab Emirates,12,10,1,0,120.0,0,0,0,0,0,0,ICC Academy,13
-MWMachan,Scotland,Netherlands,67,48,6,1,139.58333333333331,23,3,27,0,0,9.0,ICC Academy,83
-MWMachan,Scotland,Hong Kong,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Mission Road Ground Mong Kok,5
-MWMachan,Scotland,Kenya,13,6,3,0,216.66666666666666,0,0,0,0,0,0,ICC Academy,16
-MWMachan,Scotland,Hong Kong,15,4,1,1,375.0,23,3,26,2,0,8.666666666666666,Vidarbha Cricket Association Stadium Jamtha,68
-MWMachan,Scotland,Netherlands,61,53,7,0,115.09433962264151,23,3,28,0,0,9.333333333333334,Sheikh Zayed Stadium,74
-MWMachan,Scotland,Hong Kong,10,7,1,0,142.85714285714286,0,0,0,0,0,0,Mission Road Ground Mong Kok,11
-MWMachan,Scotland,Afghanistan,36,32,0,1,112.5,11,1,22,0,0,22.0,Vidarbha Cricket Association Stadium Jamtha,38
-MWMachan,Scotland,Afghanistan,42,38,6,0,110.5263157894737,23,3,23,3,0,7.666666666666667,Sharjah Cricket Stadium,123
-MWMachan,Scotland,Afghanistan,54,39,4,2,138.46153846153845,5,0,15,0,0,0,Sharjah Cricket Stadium,70
-MWMachan,Scotland,Zimbabwe,9,6,2,0,150.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,11
-MWMachan,Scotland,Afghanistan,39,29,3,1,134.48275862068965,20,3,20,0,0,6.666666666666667,Sharjah Cricket Stadium,44
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MWMachan,Scotland,Hong Kong,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,1,2016,13
+MWMachan,Scotland,Kenya,13,6,3,0,216.66666666666666,0,0,0,0,0,0,ICC Academy,0,0,2013,16
+MWMachan,Scotland,Netherlands,67,48,6,1,139.58333333333331,23,3,27,0,0,9.0,ICC Academy,0,0,2013,83
+MWMachan,Scotland,Zimbabwe,9,6,2,0,150.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2016,19
+MWMachan,Scotland,Afghanistan,42,38,6,0,110.5263157894737,23,3,23,3,0,7.666666666666667,Sharjah Cricket Stadium,0,1,2013,131
+MWMachan,Scotland,Afghanistan,54,39,4,2,138.46153846153845,5,0,15,0,0,0,Sharjah Cricket Stadium,0,1,2013,78
+MWMachan,Scotland,Hong Kong,15,4,1,1,375.0,23,3,26,2,0,8.666666666666666,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,68
+MWMachan,Scotland,Hong Kong,10,7,1,0,142.85714285714286,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,1,2016,19
+MWMachan,Scotland,United Arab Emirates,12,10,1,0,120.0,0,0,0,0,0,0,ICC Academy,0,0,2016,13
+MWMachan,Scotland,Netherlands,61,53,7,0,115.09433962264151,23,3,28,0,0,9.333333333333334,Sheikh Zayed Stadium,0,0,2013,74
+MWMachan,Scotland,Afghanistan,36,32,0,1,112.5,11,1,22,0,0,22.0,Vidarbha Cricket Association Stadium Jamtha,0,1,2016,46
+MWMachan,Scotland,Afghanistan,39,29,3,1,134.48275862068965,20,3,20,0,0,6.666666666666667,Sharjah Cricket Stadium,0,0,2013,44

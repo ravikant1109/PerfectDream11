@@ -1,7 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TLBest,West Indies,Pakistan,17,9,0,1,188.88888888888889,12,2,20,0,0,10.0,Arnos Vale Ground Kingstown,17
-TLBest,West Indies,New Zealand,0,0,0,0,0,18,3,39,0,0,13.0,Westpac Stadium,-6
-TLBest,West Indies,Australia,0,0,0,0,0,19,3,22,0,0,7.333333333333333,Brisbane Cricket Ground Woolloongabba,0
-TLBest,West Indies,Pakistan,0,0,0,0,0,24,4,25,0,0,6.25,Arnos Vale Ground Kingstown,0
-TLBest,West Indies,Zimbabwe,0,0,0,0,0,25,4,20,3,0,5.0,Sir Vivian Richards Stadium North Sound,77
-TLBest,West Indies,New Zealand,0,0,0,0,0,23,3,41,3,0,13.666666666666666,Eden Park,69
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TLBest,West Indies,Zimbabwe,0,0,0,0,0,25,4,20,3,0,5.0,Sir Vivian Richards Stadium North Sound,0,0,2013,77
+TLBest,West Indies,Pakistan,17,9,0,1,188.88888888888889,12,2,20,0,0,10.0,Arnos Vale Ground Kingstown,0,0,2013,17
+TLBest,West Indies,New Zealand,0,0,0,0,0,18,3,39,0,0,13.0,Westpac Stadium,0,0,2014,-6
+TLBest,West Indies,New Zealand,0,0,0,0,0,23,3,41,3,0,13.666666666666666,Eden Park,0,0,2014,69
+TLBest,West Indies,Australia,0,0,0,0,0,19,3,22,0,0,7.333333333333333,Brisbane Cricket Ground Woolloongabba,1,0,2013,12
+TLBest,West Indies,Pakistan,0,0,0,0,0,24,4,25,0,0,6.25,Arnos Vale Ground Kingstown,0,0,2013,0

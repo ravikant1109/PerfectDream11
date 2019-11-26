@@ -1,29 +1,15 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ISSodhi,New Zealand,Zimbabwe,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Harare Sports Club,27
-ISSodhi,New Zealand,India,0,0,0,0,0,25,4,18,3,0,4.5,Vidarbha Cricket Association Stadium Jamtha,79
-ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,20,3,24,0,0,8.0,Pallekele International Cricket Stadium,0
-ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,26,4,36,3,0,9.0,Bay Oval,75
-ISSodhi,New Zealand,Zimbabwe,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Harare Sports Club,27
-ISSodhi,New Zealand,India,0,0,0,0,0,25,4,18,3,0,4.5,Vidarbha Cricket Association Stadium Jamtha,79
-ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,20,3,24,0,0,8.0,Pallekele International Cricket Stadium,0
-ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,26,4,36,3,0,9.0,Bay Oval,75
-ISSodhi,New Zealand,Zimbabwe,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Harare Sports Club,27
-ISSodhi,New Zealand,India,0,0,0,0,0,25,4,18,3,0,4.5,Vidarbha Cricket Association Stadium Jamtha,79
-ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,20,3,24,0,0,8.0,Pallekele International Cricket Stadium,0
-ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,26,4,36,3,0,9.0,Bay Oval,75
-ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,21,3,21,3,0,7.0,Eden Gardens,75
-ISSodhi,New Zealand,Australia,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Himachal Pradesh Cricket Association Stadium,29
-ISSodhi,New Zealand,England,0,0,0,0,0,23,3,42,2,0,14.0,Feroz Shah Kotla,44
-ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,23,3,33,1,0,11.0,Bay Oval,21
-ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,24,4,22,2,0,5.5,Bay Oval,52
-ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,23,3,35,1,0,11.666666666666666,Pallekele International Cricket Stadium,19
-ISSodhi,New Zealand,Pakistan,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Punjab Cricket Association IS Bindra Stadium Mohali,25
-ISSodhi,New Zealand,West Indies,0,0,0,0,0,18,3,35,1,0,11.666666666666666,Windsor Park Roseau,19
-ISSodhi,New Zealand,South Africa,0,0,0,0,0,23,3,27,2,0,9.0,SuperSport Park,50
-ISSodhi,New Zealand,West Indies,0,0,0,0,0,11,1,16,1,0,16.0,Windsor Park Roseau,25
-ISSodhi,New Zealand,Zimbabwe,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Harare Sports Club,27
-ISSodhi,New Zealand,India,0,0,0,0,0,25,4,18,3,0,4.5,Vidarbha Cricket Association Stadium Jamtha,79
-ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,20,3,24,0,0,8.0,Pallekele International Cricket Stadium,0
-ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,26,4,36,3,0,9.0,Bay Oval,75
-ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,21,3,21,3,0,7.0,Eden Gardens,75
-ISSodhi,New Zealand,Australia,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Himachal Pradesh Cricket Association Stadium,29
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,23,3,35,1,0,11.666666666666666,Pallekele International Cricket Stadium,0,0,2019,19
+ISSodhi,New Zealand,Pakistan,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,25
+ISSodhi,New Zealand,South Africa,0,0,0,0,0,23,3,27,2,0,9.0,SuperSport Park,0,0,2015,50
+ISSodhi,New Zealand,Zimbabwe,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Harare Sports Club,0,0,2015,27
+ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,21,3,21,3,0,7.0,Eden Gardens,0,0,2016,75
+ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,20,3,24,0,0,8.0,Pallekele International Cricket Stadium,0,0,2019,0
+ISSodhi,New Zealand,India,0,0,0,0,0,25,4,18,3,0,4.5,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,79
+ISSodhi,New Zealand,England,0,0,0,0,0,23,3,42,2,0,14.0,Feroz Shah Kotla,0,0,2016,44
+ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,24,4,22,2,0,5.5,Bay Oval,0,0,2017,52
+ISSodhi,New Zealand,Australia,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Himachal Pradesh Cricket Association Stadium,0,0,2016,29
+ISSodhi,New Zealand,West Indies,0,0,0,0,0,11,1,16,1,0,16.0,Windsor Park Roseau,0,0,2014,25
+ISSodhi,New Zealand,Bangladesh,0,0,0,0,0,26,4,36,3,0,9.0,Bay Oval,0,0,2017,75
+ISSodhi,New Zealand,Sri Lanka,0,0,0,0,0,23,3,33,1,0,11.0,Bay Oval,0,1,2016,29
+ISSodhi,New Zealand,West Indies,0,0,0,0,0,18,3,35,1,0,11.666666666666666,Windsor Park Roseau,0,0,2014,19

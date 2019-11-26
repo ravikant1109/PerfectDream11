@@ -1,12 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ImranKhan(1),Pakistan,England,0,1,0,0,0.0,24,4,42,0,0,10.5,Dubai International Cricket Stadium,-12
-ImranKhan(1),Pakistan,Zimbabwe,0,0,0,0,0,24,4,29,0,0,7.25,Harare Sports Club,0
-ImranKhan(1),Pakistan,England,0,1,0,0,0.0,24,4,42,0,0,10.5,Dubai International Cricket Stadium,-12
-ImranKhan(1),Pakistan,England,0,1,0,0,0.0,24,4,42,0,0,10.5,Dubai International Cricket Stadium,-12
-ImranKhan(1),Pakistan,Zimbabwe,0,0,0,0,0,24,4,29,0,0,7.25,Harare Sports Club,0
-ImranKhan(1),Pakistan,England,0,1,0,0,0.0,24,4,42,0,0,10.5,Dubai International Cricket Stadium,-12
-ImranKhan(1),Pakistan,England,0,1,0,0,0.0,24,4,42,0,0,10.5,Dubai International Cricket Stadium,-12
-ImranKhan(1),Pakistan,Zimbabwe,0,0,0,0,0,24,4,29,0,0,7.25,Harare Sports Club,0
-ImranKhan(1),Pakistan,Zimbabwe,0,0,0,0,0,23,3,35,2,0,11.666666666666666,Harare Sports Club,44
-ImranKhan(1),Pakistan,England,0,1,0,0,0.0,24,4,42,0,0,10.5,Dubai International Cricket Stadium,-12
-ImranKhan(1),Pakistan,Zimbabwe,0,0,0,0,0,24,4,29,0,0,7.25,Harare Sports Club,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ImranKhan(1),Pakistan,Zimbabwe,0,0,0,0,0,23,3,35,2,0,11.666666666666666,Harare Sports Club,0,1,2015,52
+ImranKhan(1),Pakistan,Zimbabwe,0,0,0,0,0,24,4,29,0,0,7.25,Harare Sports Club,0,0,2015,0
+ImranKhan(1),Pakistan,England,0,1,0,0,0.0,24,4,42,0,0,10.5,Dubai International Cricket Stadium,0,1,2015,-4

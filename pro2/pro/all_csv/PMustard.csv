@@ -1,6 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PMustard,England,New Zealand,40,25,3,3,160.0,0,0,0,0,0,0,Jade Stadium,49
-PMustard,England,New Zealand,40,25,3,3,160.0,0,0,0,0,0,0,Jade Stadium,49
-PMustard,England,New Zealand,40,25,3,3,160.0,0,0,0,0,0,0,Jade Stadium,49
-PMustard,England,New Zealand,20,13,2,1,153.84615384615387,0,0,0,0,0,0,Eden Park,24
-PMustard,England,New Zealand,40,25,3,3,160.0,0,0,0,0,0,0,Jade Stadium,49
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PMustard,England,New Zealand,40,25,3,3,160.0,0,0,0,0,0,0,Jade Stadium,0,0,2008,49
+PMustard,England,New Zealand,20,13,2,1,153.84615384615387,0,0,0,0,0,0,Eden Park,0,0,2008,24

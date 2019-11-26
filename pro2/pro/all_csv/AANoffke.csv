@@ -1,4 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AANoffke,Australia,New Zealand,0,0,0,0,0,21,3,18,3,1,6.0,Western Australia Cricket Association Ground,83
-AANoffke,Australia,India,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Melbourne Cricket Ground,25
-AANoffke,Australia,New Zealand,0,0,0,0,0,21,3,18,3,1,6.0,Western Australia Cricket Association Ground,83
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AANoffke,Australia,India,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Melbourne Cricket Ground,0,0,2008,25
+AANoffke,Australia,New Zealand,0,0,0,0,0,21,3,18,3,1,6.0,Western Australia Cricket Association Ground,0,0,2007,83

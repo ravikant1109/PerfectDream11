@@ -1,19 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-WKMcCallan,Ireland,Bangladesh,0,0,0,0,0,23,3,17,1,0,5.666666666666667,Trent Bridge,27
-WKMcCallan,Ireland,India,9,7,1,0,128.57142857142858,21,3,28,1,0,9.333333333333334,Trent Bridge,33
-WKMcCallan,Ireland,New Zealand,0,2,0,0,0.0,23,3,33,2,0,11.0,Trent Bridge,38
-WKMcCallan,Ireland,Bangladesh,0,0,0,0,0,23,3,17,1,0,5.666666666666667,Trent Bridge,27
-WKMcCallan,Ireland,Bangladesh,0,0,0,0,0,23,3,17,1,0,5.666666666666667,Trent Bridge,27
-WKMcCallan,Ireland,India,9,7,1,0,128.57142857142858,21,3,28,1,0,9.333333333333334,Trent Bridge,33
-WKMcCallan,Ireland,New Zealand,0,2,0,0,0.0,23,3,33,2,0,11.0,Trent Bridge,38
-WKMcCallan,Ireland,Bangladesh,0,0,0,0,0,23,3,17,1,0,5.666666666666667,Trent Bridge,27
-WKMcCallan,Ireland,India,9,7,1,0,128.57142857142858,21,3,28,1,0,9.333333333333334,Trent Bridge,33
-WKMcCallan,Ireland,New Zealand,0,2,0,0,0.0,23,3,33,2,0,11.0,Trent Bridge,38
-WKMcCallan,Ireland,Sri Lanka,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Lord's,44
-WKMcCallan,Ireland,Kenya,0,0,0,0,0,1,0,0,0,0,0,Civil Service Cricket Club Stormont,0
-WKMcCallan,Ireland,Pakistan,2,6,0,0,33.33333333333333,23,3,26,2,0,8.666666666666666,Kennington Oval,46
-WKMcCallan,Ireland,Bangladesh,0,0,0,0,0,23,3,17,1,0,5.666666666666667,Trent Bridge,27
-WKMcCallan,Ireland,India,9,7,1,0,128.57142857142858,21,3,28,1,0,9.333333333333334,Trent Bridge,33
-WKMcCallan,Ireland,New Zealand,0,2,0,0,0.0,23,3,33,2,0,11.0,Trent Bridge,38
-WKMcCallan,Ireland,Sri Lanka,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Lord's,44
-WKMcCallan,Ireland,Kenya,0,0,0,0,0,1,0,0,0,0,0,Civil Service Cricket Club Stormont,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+WKMcCallan,Ireland,New Zealand,0,2,0,0,0.0,23,3,33,2,0,11.0,Trent Bridge,0,0,2009,38
+WKMcCallan,Ireland,India,9,7,1,0,128.57142857142858,21,3,28,1,0,9.333333333333334,Trent Bridge,0,0,2009,33
+WKMcCallan,Ireland,Kenya,0,0,0,0,0,1,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2008,8
+WKMcCallan,Ireland,Pakistan,2,6,0,0,33.33333333333333,23,3,26,2,0,8.666666666666666,Kennington Oval,0,1,2009,54
+WKMcCallan,Ireland,Bangladesh,0,0,0,0,0,23,3,17,1,0,5.666666666666667,Trent Bridge,0,0,2009,27
+WKMcCallan,Ireland,Sri Lanka,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Lord's,0,0,2009,44

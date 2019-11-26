@@ -1,6 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GDMcGrath,Australia,New Zealand,0,0,0,0,0,23,3,48,2,0,16.0,Eden Park,44
-GDMcGrath,Australia,New Zealand,0,0,0,0,0,23,3,48,2,0,16.0,Eden Park,44
-GDMcGrath,Australia,New Zealand,0,0,0,0,0,23,3,48,2,0,16.0,Eden Park,44
-GDMcGrath,Australia,England,5,12,0,0,41.66666666666667,24,4,31,3,0,7.75,The Rose Bowl,74
-GDMcGrath,Australia,New Zealand,0,0,0,0,0,23,3,48,2,0,16.0,Eden Park,44
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GDMcGrath,Australia,England,5,12,0,0,41.66666666666667,24,4,31,3,0,7.75,The Rose Bowl,0,0,2005,74
+GDMcGrath,Australia,New Zealand,0,0,0,0,0,23,3,48,2,0,16.0,Eden Park,1,1,2005,64

@@ -1,78 +1,36 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-WBRankin,Ireland,Jersey,0,0,0,0,0,24,4,32,1,0,8.0,Tolerance Oval,25
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,36,1,0,12.0,Trent Bridge,19
-WBRankin,Ireland,India,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Trent Bridge,-4
-WBRankin,Ireland,Scotland,0,0,0,0,0,17,2,10,1,1,5.0,Dubai International Cricket Stadium,35
-WBRankin,Ireland,Afghanistan,0,0,0,0,0,24,4,23,1,0,5.75,Dubai International Cricket Stadium,27
-WBRankin,Ireland,United Arab Emirates,16,9,1,1,177.77777777777777,25,4,16,2,0,4.0,Sheikh Zayed Stadium,73
-WBRankin,Ireland,Afghanistan,2,5,0,0,40.0,6,1,16,0,0,16.0,Dubai International Cricket Stadium,-4
-WBRankin,Ireland,Nigeria,0,0,0,0,0,24,4,10,0,1,2.5,Sheikh Zayed Stadium,14
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Civil Service Cricket Club Stormont,21
-WBRankin,Ireland,Nepal,0,0,0,0,0,17,2,19,0,0,9.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-2
-WBRankin,Ireland,Netherlands,0,0,0,0,0,5,0,9,0,0,0,Himachal Pradesh Cricket Association Stadium,0
-WBRankin,Ireland,United Arab Emirates,0,3,0,0,0.0,24,4,17,3,1,4.25,Sheikh Zayed Stadium,79
-WBRankin,Ireland,Jersey,0,0,0,0,0,24,4,32,1,0,8.0,Tolerance Oval,25
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,36,1,0,12.0,Trent Bridge,19
-WBRankin,Ireland,Jersey,0,0,0,0,0,24,4,32,1,0,8.0,Tolerance Oval,25
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,36,1,0,12.0,Trent Bridge,19
-WBRankin,Ireland,India,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Trent Bridge,-4
-WBRankin,Ireland,Scotland,0,0,0,0,0,17,2,10,1,1,5.0,Dubai International Cricket Stadium,35
-WBRankin,Ireland,Afghanistan,0,0,0,0,0,24,4,23,1,0,5.75,Dubai International Cricket Stadium,27
-WBRankin,Ireland,United Arab Emirates,16,9,1,1,177.77777777777777,25,4,16,2,0,4.0,Sheikh Zayed Stadium,73
-WBRankin,Ireland,Afghanistan,2,5,0,0,40.0,6,1,16,0,0,16.0,Dubai International Cricket Stadium,-4
-WBRankin,Ireland,Nigeria,0,0,0,0,0,24,4,10,0,1,2.5,Sheikh Zayed Stadium,14
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Civil Service Cricket Club Stormont,21
-WBRankin,Ireland,Nepal,0,0,0,0,0,17,2,19,0,0,9.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-2
-WBRankin,Ireland,Netherlands,0,0,0,0,0,5,0,9,0,0,0,Himachal Pradesh Cricket Association Stadium,0
-WBRankin,Ireland,United Arab Emirates,0,3,0,0,0.0,24,4,17,3,1,4.25,Sheikh Zayed Stadium,79
-WBRankin,Ireland,Jersey,0,0,0,0,0,24,4,32,1,0,8.0,Tolerance Oval,25
-WBRankin,Ireland,Jersey,0,0,0,0,0,24,4,32,1,0,8.0,Tolerance Oval,25
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,36,1,0,12.0,Trent Bridge,19
-WBRankin,Ireland,India,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Trent Bridge,-4
-WBRankin,Ireland,Scotland,0,0,0,0,0,17,2,10,1,1,5.0,Dubai International Cricket Stadium,35
-WBRankin,Ireland,Afghanistan,0,0,0,0,0,24,4,23,1,0,5.75,Dubai International Cricket Stadium,27
-WBRankin,Ireland,United Arab Emirates,16,9,1,1,177.77777777777777,25,4,16,2,0,4.0,Sheikh Zayed Stadium,73
-WBRankin,Ireland,Afghanistan,2,5,0,0,40.0,6,1,16,0,0,16.0,Dubai International Cricket Stadium,-4
-WBRankin,Ireland,Nigeria,0,0,0,0,0,24,4,10,0,1,2.5,Sheikh Zayed Stadium,14
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Civil Service Cricket Club Stormont,21
-WBRankin,Ireland,Nepal,0,0,0,0,0,17,2,19,0,0,9.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-2
-WBRankin,Ireland,Netherlands,0,0,0,0,0,5,0,9,0,0,0,Himachal Pradesh Cricket Association Stadium,0
-WBRankin,Ireland,United Arab Emirates,0,3,0,0,0.0,24,4,17,3,1,4.25,Sheikh Zayed Stadium,79
-WBRankin,Ireland,Australia,0,0,0,0,0,28,4,30,0,0,7.5,R Premadasa Stadium,0
-WBRankin,Ireland,Sri Lanka,0,0,0,0,0,25,4,28,2,0,7.0,Lord's,50
-WBRankin,England,New Zealand,0,0,0,0,0,24,4,29,1,0,7.25,Kennington Oval,25
-WBRankin,Ireland,Kenya,0,0,0,0,0,23,3,26,1,1,8.666666666666666,Mombasa Sports Club Ground,33
-WBRankin,Ireland,Kenya,0,0,0,0,0,28,4,23,3,0,5.75,Dubai International Cricket Stadium,77
-WBRankin,Ireland,United Arab Emirates,1,1,0,0,100.0,26,4,26,1,0,6.5,Sheikh Zayed Stadium,26
-WBRankin,Ireland,Oman,0,0,0,0,0,17,2,23,1,0,11.5,Himachal Pradesh Cricket Association Stadium,19
-WBRankin,Ireland,Scotland,0,0,0,0,0,17,2,12,1,0,6.0,Dubai International Cricket Stadium,25
-WBRankin,Ireland,England,0,0,0,0,0,24,4,28,2,0,7.0,Providence Stadium,50
-WBRankin,Ireland,Canada,0,0,0,0,0,25,4,27,0,0,6.75,Dubai International Cricket Stadium,0
-WBRankin,Ireland,Hong Kong,0,0,0,0,0,25,4,18,0,0,4.5,Sheikh Zayed Stadium,4
-WBRankin,Ireland,Hong Kong,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),50
-WBRankin,Ireland,Oman,0,0,0,0,0,25,4,20,1,0,5.0,Tolerance Oval,27
-WBRankin,Ireland,West Indies,1,5,0,0,20.0,23,3,36,2,0,12.0,Providence Stadium,39
-WBRankin,Ireland,Afghanistan,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Sheikh Zayed Stadium,-4
-WBRankin,Ireland,Scotland,0,0,0,0,0,25,4,30,3,0,7.5,The Village Malahide,75
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,5,0,16,0,0,0,Himachal Pradesh Cricket Association Stadium,0
-WBRankin,Ireland,Canada,0,0,0,0,0,25,4,32,2,0,8.0,Sheikh Zayed Stadium,50
-WBRankin,Ireland,Pakistan,5,6,0,0,83.33333333333334,23,3,12,0,0,4.0,Kennington Oval,9
-WBRankin,Ireland,United Arab Emirates,0,0,0,0,0,18,3,16,3,0,5.333333333333333,Dubai International Cricket Stadium,77
-WBRankin,Ireland,Netherlands,0,0,0,0,0,23,3,27,1,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),25
-WBRankin,Ireland,Netherlands,0,0,0,0,0,23,3,17,1,0,5.666666666666667,Dubai International Cricket Stadium,27
-WBRankin,Ireland,Kenya,7,6,1,0,116.66666666666667,23,3,25,2,0,8.333333333333334,Mombasa Sports Club Ground,58
-WBRankin,Ireland,Jersey,0,0,0,0,0,24,4,32,1,0,8.0,Tolerance Oval,25
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,36,1,0,12.0,Trent Bridge,19
-WBRankin,Ireland,India,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Trent Bridge,-4
-WBRankin,Ireland,Scotland,0,0,0,0,0,17,2,10,1,1,5.0,Dubai International Cricket Stadium,35
-WBRankin,Ireland,Afghanistan,0,0,0,0,0,24,4,23,1,0,5.75,Dubai International Cricket Stadium,27
-WBRankin,Ireland,United Arab Emirates,16,9,1,1,177.77777777777777,25,4,16,2,0,4.0,Sheikh Zayed Stadium,73
-WBRankin,Ireland,Afghanistan,2,5,0,0,40.0,6,1,16,0,0,16.0,Dubai International Cricket Stadium,-4
-WBRankin,Ireland,Nigeria,0,0,0,0,0,24,4,10,0,1,2.5,Sheikh Zayed Stadium,14
-WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Civil Service Cricket Club Stormont,21
-WBRankin,Ireland,Nepal,0,0,0,0,0,17,2,19,0,0,9.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-2
-WBRankin,Ireland,Netherlands,0,0,0,0,0,5,0,9,0,0,0,Himachal Pradesh Cricket Association Stadium,0
-WBRankin,Ireland,United Arab Emirates,0,3,0,0,0.0,24,4,17,3,1,4.25,Sheikh Zayed Stadium,79
-WBRankin,Ireland,Australia,0,0,0,0,0,28,4,30,0,0,7.5,R Premadasa Stadium,0
-WBRankin,Ireland,Sri Lanka,0,0,0,0,0,25,4,28,2,0,7.0,Lord's,50
-WBRankin,England,New Zealand,0,0,0,0,0,24,4,29,1,0,7.25,Kennington Oval,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+WBRankin,Ireland,Netherlands,0,0,0,0,0,5,0,9,0,0,0,Himachal Pradesh Cricket Association Stadium,0,1,2016,8
+WBRankin,Ireland,Hong Kong,0,0,0,0,0,25,4,18,0,0,4.5,Sheikh Zayed Stadium,0,1,2019,12
+WBRankin,Ireland,Afghanistan,2,5,0,0,40.0,6,1,16,0,0,16.0,Dubai International Cricket Stadium,0,0,2017,-4
+WBRankin,Ireland,United Arab Emirates,0,0,0,0,0,18,3,16,3,0,5.333333333333333,Dubai International Cricket Stadium,0,0,2017,77
+WBRankin,Ireland,Nigeria,0,0,0,0,0,24,4,10,0,1,2.5,Sheikh Zayed Stadium,0,0,2019,14
+WBRankin,Ireland,Canada,0,0,0,0,0,25,4,32,2,0,8.0,Sheikh Zayed Stadium,0,0,2019,50
+WBRankin,Ireland,India,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Trent Bridge,0,1,2009,4
+WBRankin,Ireland,Netherlands,0,0,0,0,0,23,3,17,1,0,5.666666666666667,Dubai International Cricket Stadium,0,1,2012,35
+WBRankin,Ireland,Hong Kong,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,58
+WBRankin,England,New Zealand,0,0,0,0,0,24,4,29,1,0,7.25,Kennington Oval,0,0,2013,25
+WBRankin,Ireland,Oman,0,0,0,0,0,25,4,20,1,0,5.0,Tolerance Oval,0,0,2019,27
+WBRankin,Ireland,Netherlands,0,0,0,0,0,23,3,27,1,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,33
+WBRankin,Ireland,Pakistan,5,6,0,0,83.33333333333334,23,3,12,0,0,4.0,Kennington Oval,0,0,2009,9
+WBRankin,Ireland,United Arab Emirates,16,9,1,1,177.77777777777777,25,4,16,2,0,4.0,Sheikh Zayed Stadium,0,0,2016,73
+WBRankin,Ireland,Canada,0,0,0,0,0,25,4,27,0,0,6.75,Dubai International Cricket Stadium,0,0,2012,0
+WBRankin,Ireland,Scotland,0,0,0,0,0,25,4,30,3,0,7.5,The Village Malahide,0,0,2019,75
+WBRankin,Ireland,Jersey,0,0,0,0,0,24,4,32,1,0,8.0,Tolerance Oval,0,0,2019,25
+WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Civil Service Cricket Club Stormont,0,0,2012,21
+WBRankin,Ireland,Australia,0,0,0,0,0,28,4,30,0,0,7.5,R Premadasa Stadium,0,0,2012,0
+WBRankin,Ireland,Bangladesh,0,0,0,0,0,23,3,36,1,0,12.0,Trent Bridge,0,0,2009,19
+WBRankin,Ireland,West Indies,1,5,0,0,20.0,23,3,36,2,0,12.0,Providence Stadium,0,0,2010,39
+WBRankin,Ireland,Scotland,0,0,0,0,0,17,2,10,1,1,5.0,Dubai International Cricket Stadium,0,0,2012,35
+WBRankin,Ireland,England,0,0,0,0,0,24,4,28,2,0,7.0,Providence Stadium,0,1,2010,58
+WBRankin,Ireland,United Arab Emirates,0,3,0,0,0.0,24,4,17,3,1,4.25,Sheikh Zayed Stadium,0,0,2016,79
+WBRankin,Ireland,United Arab Emirates,1,1,0,0,100.0,26,4,26,1,0,6.5,Sheikh Zayed Stadium,0,0,2019,26
+WBRankin,Ireland,Bangladesh,0,0,0,0,0,5,0,16,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,0
+WBRankin,Ireland,Kenya,0,0,0,0,0,23,3,26,1,1,8.666666666666666,Mombasa Sports Club Ground,0,0,2012,33
+WBRankin,Ireland,Scotland,0,0,0,0,0,17,2,12,1,0,6.0,Dubai International Cricket Stadium,0,1,2017,33
+WBRankin,Ireland,Kenya,0,0,0,0,0,28,4,23,3,0,5.75,Dubai International Cricket Stadium,0,0,2012,77
+WBRankin,Ireland,Sri Lanka,0,0,0,0,0,25,4,28,2,0,7.0,Lord's,0,1,2009,58
+WBRankin,Ireland,Afghanistan,0,0,0,0,0,24,4,23,1,0,5.75,Dubai International Cricket Stadium,0,2,2012,43
+WBRankin,Ireland,Afghanistan,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Sheikh Zayed Stadium,0,0,2017,-4
+WBRankin,Ireland,Kenya,7,6,1,0,116.66666666666667,23,3,25,2,0,8.333333333333334,Mombasa Sports Club Ground,0,0,2012,58
+WBRankin,Ireland,Oman,0,0,0,0,0,17,2,23,1,0,11.5,Himachal Pradesh Cricket Association Stadium,0,0,2016,19
+WBRankin,Ireland,Nepal,0,0,0,0,0,17,2,19,0,0,9.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,-2

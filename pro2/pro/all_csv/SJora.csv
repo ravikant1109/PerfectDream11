@@ -1,10 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SJora,Nepal,Zimbabwe,17,15,2,0,113.33333333333333,0,0,0,0,0,0,Indian Association Ground,19
-SJora,Nepal,Ireland,2,5,0,0,40.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-4
-SJora,Nepal,Zimbabwe,17,15,2,0,113.33333333333333,0,0,0,0,0,0,Indian Association Ground,19
-SJora,Nepal,Ireland,2,5,0,0,40.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-4
-SJora,Nepal,Zimbabwe,17,15,2,0,113.33333333333333,0,0,0,0,0,0,Indian Association Ground,19
-SJora,Nepal,Ireland,2,5,0,0,40.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-4
-SJora,Nepal,Oman,0,2,0,0,0.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-8
-SJora,Nepal,Zimbabwe,17,15,2,0,113.33333333333333,0,0,0,0,0,0,Indian Association Ground,19
-SJora,Nepal,Ireland,2,5,0,0,40.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SJora,Nepal,Oman,0,2,0,0,0.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,0
+SJora,Nepal,Zimbabwe,17,15,2,0,113.33333333333333,0,0,0,0,0,0,Indian Association Ground,0,0,2019,19
+SJora,Nepal,Ireland,2,5,0,0,40.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,-4

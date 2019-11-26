@@ -1,17 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NDickwella,Sri Lanka,India,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,5
-NDickwella,Sri Lanka,New Zealand,33,25,2,0,132.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,35
-NDickwella,Sri Lanka,India,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,5
-NDickwella,Sri Lanka,New Zealand,33,25,2,0,132.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,35
-NDickwella,Sri Lanka,India,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,5
-NDickwella,Sri Lanka,New Zealand,33,25,2,0,132.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,35
-NDickwella,Sri Lanka,Australia,30,28,4,1,107.14285714285714,0,0,0,0,0,0,Melbourne Cricket Ground,36
-NDickwella,Sri Lanka,India,1,2,0,0,50.0,0,0,0,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,-3
-NDickwella,Sri Lanka,New Zealand,39,30,3,1,130.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,44
-NDickwella,Sri Lanka,South Africa,68,51,10,1,133.33333333333331,0,0,0,0,0,0,Newlands,88
-NDickwella,Sri Lanka,New Zealand,24,15,3,0,160.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,27
-NDickwella,Sri Lanka,Australia,14,8,3,0,175.0,0,0,0,0,0,0,Simonds Stadium South Geelong,17
-NDickwella,Sri Lanka,South Africa,22,15,5,0,146.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,27
-NDickwella,Sri Lanka,South Africa,43,19,6,2,226.3157894736842,0,0,0,0,0,0,SuperSport Park,53
-NDickwella,Sri Lanka,India,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,5
-NDickwella,Sri Lanka,New Zealand,33,25,2,0,132.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,35
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NDickwella,Sri Lanka,New Zealand,39,30,3,1,130.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,44
+NDickwella,Sri Lanka,South Africa,43,19,6,2,226.3157894736842,0,0,0,0,0,0,SuperSport Park,0,0,2017,53
+NDickwella,Sri Lanka,South Africa,68,51,10,1,133.33333333333331,0,0,0,0,0,0,Newlands,0,0,2017,88
+NDickwella,Sri Lanka,Australia,30,28,4,1,107.14285714285714,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2017,36
+NDickwella,Sri Lanka,New Zealand,33,25,2,0,132.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,35
+NDickwella,Sri Lanka,New Zealand,24,15,3,0,160.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,27
+NDickwella,Sri Lanka,Australia,14,8,3,0,175.0,0,0,0,0,0,0,Simonds Stadium South Geelong,0,2,2017,33
+NDickwella,Sri Lanka,South Africa,22,15,5,0,146.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,0,0,2017,27
+NDickwella,Sri Lanka,India,1,2,0,0,50.0,0,0,0,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,-3
+NDickwella,Sri Lanka,India,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,0,1,2016,13

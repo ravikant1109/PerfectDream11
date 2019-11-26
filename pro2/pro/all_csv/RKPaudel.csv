@@ -1,15 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RKPaudel,Nepal,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-RKPaudel,Nepal,Kuwait,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Indian Association Ground,5
-RKPaudel,Nepal,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-RKPaudel,Nepal,Kuwait,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Indian Association Ground,5
-RKPaudel,Nepal,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-RKPaudel,Nepal,Kuwait,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Indian Association Ground,5
-RKPaudel,Nepal,Malaysia,5,4,1,0,125.0,0,0,0,0,0,0,Kinrara Academy Oval,6
-RKPaudel,Nepal,Malaysia,19,23,1,0,82.6086956521739,0,0,0,0,0,0,Kinrara Academy Oval,20
-RKPaudel,Nepal,Netherlands,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1
-RKPaudel,Nepal,Singapore,5,4,1,0,125.0,0,0,0,0,0,0,Indian Association Ground,6
-RKPaudel,Nepal,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-RKPaudel,Nepal,Kuwait,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Indian Association Ground,5
-RKPaudel,Nepal,Malaysia,5,4,1,0,125.0,0,0,0,0,0,0,Kinrara Academy Oval,6
-RKPaudel,Nepal,Malaysia,19,23,1,0,82.6086956521739,0,0,0,0,0,0,Kinrara Academy Oval,20
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RKPaudel,Nepal,Hong Kong,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,14
+RKPaudel,Nepal,Malaysia,5,4,1,0,125.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,6
+RKPaudel,Nepal,Singapore,5,4,1,0,125.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,6
+RKPaudel,Nepal,Kuwait,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Indian Association Ground,0,0,2019,5
+RKPaudel,Nepal,Malaysia,19,23,1,0,82.6086956521739,0,0,0,0,0,0,Kinrara Academy Oval,0,1,2019,28
+RKPaudel,Nepal,Netherlands,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,2,2019,17

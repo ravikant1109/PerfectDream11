@@ -1,5 +1,2 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ABulow,Denmark,Germany,11,13,0,1,84.61538461538461,0,0,0,0,0,0,King George V Sports Ground,13
-ABulow,Denmark,Germany,11,13,0,1,84.61538461538461,0,0,0,0,0,0,King George V Sports Ground,13
-ABulow,Denmark,Germany,11,13,0,1,84.61538461538461,0,0,0,0,0,0,King George V Sports Ground,13
-ABulow,Denmark,Germany,11,13,0,1,84.61538461538461,0,0,0,0,0,0,King George V Sports Ground,13
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ABulow,Denmark,Germany,11,13,0,1,84.61538461538461,0,0,0,0,0,0,King George V Sports Ground,0,0,2019,13

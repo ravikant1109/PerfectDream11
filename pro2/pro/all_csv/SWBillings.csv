@@ -1,26 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SWBillings,England,Pakistan,53,25,5,2,212.0,0,0,0,0,0,0,Dubai International Cricket Stadium,70
-SWBillings,England,South Africa,5,6,1,0,83.33333333333334,0,0,0,0,0,0,New Wanderers Stadium,6
-SWBillings,England,South Africa,12,11,0,1,109.09090909090908,0,0,0,0,0,0,Sophia Gardens,14
-SWBillings,England,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Sharjah Cricket Stadium,8
-SWBillings,England,Pakistan,53,25,5,2,212.0,0,0,0,0,0,0,Dubai International Cricket Stadium,70
-SWBillings,England,Pakistan,53,25,5,2,212.0,0,0,0,0,0,0,Dubai International Cricket Stadium,70
-SWBillings,England,South Africa,5,6,1,0,83.33333333333334,0,0,0,0,0,0,New Wanderers Stadium,6
-SWBillings,England,South Africa,12,11,0,1,109.09090909090908,0,0,0,0,0,0,Sophia Gardens,14
-SWBillings,England,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Sharjah Cricket Stadium,8
-SWBillings,England,Pakistan,53,25,5,2,212.0,0,0,0,0,0,0,Dubai International Cricket Stadium,70
-SWBillings,England,Pakistan,53,25,5,2,212.0,0,0,0,0,0,0,Dubai International Cricket Stadium,70
-SWBillings,England,South Africa,5,6,1,0,83.33333333333334,0,0,0,0,0,0,New Wanderers Stadium,6
-SWBillings,England,South Africa,12,11,0,1,109.09090909090908,0,0,0,0,0,0,Sophia Gardens,14
-SWBillings,England,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Sharjah Cricket Stadium,8
-SWBillings,England,India,22,10,3,1,220.00000000000003,0,0,0,0,0,0,Green Park,27
-SWBillings,England,India,12,9,0,1,133.33333333333331,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,14
-SWBillings,England,Australia,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Sophia Gardens,-4
-SWBillings,England,India,0,1,0,0,0.0,0,0,0,0,0,0,M Chinnaswamy Stadium,-8
-SWBillings,England,New Zealand,21,11,2,1,190.9090909090909,0,0,0,0,0,0,Old Trafford,25
-SWBillings,England,Pakistan,11,9,0,1,122.22222222222223,0,0,0,0,0,0,Dubai International Cricket Stadium,13
-SWBillings,England,South Africa,3,4,0,0,75.0,0,0,0,0,0,0,County Ground,3
-SWBillings,England,Pakistan,53,25,5,2,212.0,0,0,0,0,0,0,Dubai International Cricket Stadium,70
-SWBillings,England,South Africa,5,6,1,0,83.33333333333334,0,0,0,0,0,0,New Wanderers Stadium,6
-SWBillings,England,South Africa,12,11,0,1,109.09090909090908,0,0,0,0,0,0,Sophia Gardens,14
-SWBillings,England,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Sharjah Cricket Stadium,8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SWBillings,England,Pakistan,11,9,0,1,122.22222222222223,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2015,21
+SWBillings,England,India,22,10,3,1,220.00000000000003,0,0,0,0,0,0,Green Park,0,1,2017,35
+SWBillings,England,South Africa,5,6,1,0,83.33333333333334,0,0,0,0,0,0,New Wanderers Stadium,0,0,2016,6
+SWBillings,England,India,12,9,0,1,133.33333333333331,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2017,14
+SWBillings,England,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2015,16
+SWBillings,England,South Africa,12,11,0,1,109.09090909090908,0,0,0,0,0,0,Sophia Gardens,0,2,2017,30
+SWBillings,England,Australia,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Sophia Gardens,0,1,2015,4
+SWBillings,England,South Africa,3,4,0,0,75.0,0,0,0,0,0,0,County Ground,0,0,2017,3
+SWBillings,England,India,0,1,0,0,0.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2017,-8
+SWBillings,England,New Zealand,21,11,2,1,190.9090909090909,0,0,0,0,0,0,Old Trafford,0,0,2015,25
+SWBillings,England,Pakistan,53,25,5,2,212.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,2,2015,86

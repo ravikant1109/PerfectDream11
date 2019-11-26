@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-VBvanJaarsveld,South Africa,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,-8
-VBvanJaarsveld,South Africa,Australia,12,15,0,0,80.0,0,0,0,0,0,0,Melbourne Cricket Ground,12
-VBvanJaarsveld,South Africa,Australia,3,7,0,0,42.857142857142854,0,0,0,0,0,0,New Wanderers Stadium,-3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+VBvanJaarsveld,South Africa,Australia,12,15,0,0,80.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2009,12
+VBvanJaarsveld,South Africa,Australia,3,7,0,0,42.857142857142854,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,-3
+VBvanJaarsveld,South Africa,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2009,-8

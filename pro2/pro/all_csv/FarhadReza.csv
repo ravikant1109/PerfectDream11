@@ -1,22 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-FarhadReza,Bangladesh,Hong Kong,0,4,0,0,0.0,11,1,23,0,0,23.0,Zahur Ahmed Chowdhury Stadium,-8
-FarhadReza,Bangladesh,Sri Lanka,7,5,1,0,140.0,12,2,20,0,0,10.0,Zahur Ahmed Chowdhury Stadium,6
-FarhadReza,Bangladesh,Hong Kong,0,4,0,0,0.0,11,1,23,0,0,23.0,Zahur Ahmed Chowdhury Stadium,-8
-FarhadReza,Bangladesh,Sri Lanka,7,5,1,0,140.0,12,2,20,0,0,10.0,Zahur Ahmed Chowdhury Stadium,6
-FarhadReza,Bangladesh,Hong Kong,0,4,0,0,0.0,11,1,23,0,0,23.0,Zahur Ahmed Chowdhury Stadium,-8
-FarhadReza,Bangladesh,Sri Lanka,7,5,1,0,140.0,12,2,20,0,0,10.0,Zahur Ahmed Chowdhury Stadium,6
-FarhadReza,Bangladesh,West Indies,0,0,0,0,0,11,1,23,0,0,23.0,New Wanderers Stadium,0
-FarhadReza,Bangladesh,Kenya,0,0,0,0,0,24,4,34,2,0,8.5,Gymkhana Club Ground,50
-FarhadReza,Bangladesh,Pakistan,6,12,0,0,50.0,5,0,10,0,0,0,Shere Bangla National Stadium,2
-FarhadReza,Bangladesh,Afghanistan,0,0,0,0,0,6,1,2,1,0,2.0,Shere Bangla National Stadium,25
-FarhadReza,Bangladesh,Pakistan,2,4,0,0,50.0,23,3,41,0,0,13.666666666666666,National Stadium,-8
-FarhadReza,Bangladesh,Australia,4,13,0,0,30.76923076923077,0,0,0,0,0,0,Newlands,-2
-FarhadReza,Bangladesh,Pakistan,18,14,2,0,128.57142857142858,25,4,55,2,0,13.75,Gymkhana Club Ground,64
-FarhadReza,Bangladesh,Sri Lanka,9,16,0,0,56.25,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,5
-FarhadReza,Bangladesh,Nepal,0,0,0,0,0,19,3,27,1,0,9.0,Zahur Ahmed Chowdhury Stadium,25
-FarhadReza,Bangladesh,South Africa,19,21,0,2,90.47619047619048,5,0,13,0,0,0,Newlands,23
-FarhadReza,Bangladesh,Hong Kong,0,4,0,0,0.0,11,1,23,0,0,23.0,Zahur Ahmed Chowdhury Stadium,-8
-FarhadReza,Bangladesh,Sri Lanka,7,5,1,0,140.0,12,2,20,0,0,10.0,Zahur Ahmed Chowdhury Stadium,6
-FarhadReza,Bangladesh,West Indies,0,0,0,0,0,11,1,23,0,0,23.0,New Wanderers Stadium,0
-FarhadReza,Bangladesh,Kenya,0,0,0,0,0,24,4,34,2,0,8.5,Gymkhana Club Ground,50
-FarhadReza,Bangladesh,Pakistan,6,12,0,0,50.0,5,0,10,0,0,0,Shere Bangla National Stadium,2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+FarhadReza,Bangladesh,West Indies,0,0,0,0,0,11,1,23,0,0,23.0,New Wanderers Stadium,0,0,2007,0
+FarhadReza,Bangladesh,Pakistan,2,4,0,0,50.0,23,3,41,0,0,13.666666666666666,National Stadium,0,0,2008,-8
+FarhadReza,Bangladesh,Sri Lanka,7,5,1,0,140.0,12,2,20,0,0,10.0,Zahur Ahmed Chowdhury Stadium,0,1,2014,14
+FarhadReza,Bangladesh,South Africa,19,21,0,2,90.47619047619048,5,0,13,0,0,0,Newlands,0,1,2007,31
+FarhadReza,Bangladesh,Hong Kong,0,4,0,0,0.0,11,1,23,0,0,23.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,-8
+FarhadReza,Bangladesh,Pakistan,18,14,2,0,128.57142857142858,25,4,55,2,0,13.75,Gymkhana Club Ground,0,0,2007,64
+FarhadReza,Bangladesh,Afghanistan,0,0,0,0,0,6,1,2,1,0,2.0,Shere Bangla National Stadium,1,0,2014,37
+FarhadReza,Bangladesh,Australia,4,13,0,0,30.76923076923077,0,0,0,0,0,0,Newlands,0,0,2007,-2
+FarhadReza,Bangladesh,Kenya,0,0,0,0,0,24,4,34,2,0,8.5,Gymkhana Club Ground,0,1,2007,58
+FarhadReza,Bangladesh,Sri Lanka,9,16,0,0,56.25,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,5
+FarhadReza,Bangladesh,Nepal,0,0,0,0,0,19,3,27,1,0,9.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,25
+FarhadReza,Bangladesh,Pakistan,6,12,0,0,50.0,5,0,10,0,0,0,Shere Bangla National Stadium,0,0,2011,2

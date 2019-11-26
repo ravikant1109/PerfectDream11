@@ -1,7 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-APoulose,Oman,Hong Kong,0,2,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-APoulose,Oman,Hong Kong,0,2,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-APoulose,Oman,Hong Kong,0,2,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-APoulose,Oman,Scotland,0,3,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-APoulose,Oman,Netherlands,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Sheikh Zayed Stadium,11
-APoulose,Oman,Hong Kong,0,2,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+APoulose,Oman,Hong Kong,0,2,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2017,0
+APoulose,Oman,Netherlands,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,11
+APoulose,Oman,Scotland,0,3,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2017,0

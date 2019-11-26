@@ -1,11 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ZulfiqarBabar,Pakistan,West Indies,3,4,0,0,75.0,25,4,29,1,0,7.25,Shere Bangla National Stadium,28
-ZulfiqarBabar,Pakistan,West Indies,3,4,0,0,75.0,25,4,29,1,0,7.25,Shere Bangla National Stadium,28
-ZulfiqarBabar,Pakistan,West Indies,3,4,0,0,75.0,25,4,29,1,0,7.25,Shere Bangla National Stadium,28
-ZulfiqarBabar,Pakistan,Australia,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Shere Bangla National Stadium,50
-ZulfiqarBabar,Pakistan,Afghanistan,0,0,0,0,0,17,2,27,1,0,13.5,Sharjah Cricket Stadium,19
-ZulfiqarBabar,Pakistan,West Indies,11,6,0,0,183.33333333333331,23,3,38,2,0,12.666666666666666,Arnos Vale Ground Kingstown,55
-ZulfiqarBabar,Pakistan,Zimbabwe,0,0,0,0,0,23,3,22,2,1,7.333333333333333,Harare Sports Club,58
-ZulfiqarBabar,Pakistan,Bangladesh,0,0,0,0,0,18,3,24,1,0,8.0,Shere Bangla National Stadium,25
-ZulfiqarBabar,Pakistan,West Indies,13,18,1,1,72.22222222222221,23,3,23,3,0,7.666666666666667,Arnos Vale Ground Kingstown,91
-ZulfiqarBabar,Pakistan,West Indies,3,4,0,0,75.0,25,4,29,1,0,7.25,Shere Bangla National Stadium,28
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ZulfiqarBabar,Pakistan,Zimbabwe,0,0,0,0,0,23,3,22,2,1,7.333333333333333,Harare Sports Club,0,0,2013,58
+ZulfiqarBabar,Pakistan,Australia,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Shere Bangla National Stadium,0,0,2014,50
+ZulfiqarBabar,Pakistan,West Indies,3,4,0,0,75.0,25,4,29,1,0,7.25,Shere Bangla National Stadium,0,0,2014,28
+ZulfiqarBabar,Pakistan,West Indies,11,6,0,0,183.33333333333331,23,3,38,2,0,12.666666666666666,Arnos Vale Ground Kingstown,0,0,2013,55
+ZulfiqarBabar,Pakistan,Afghanistan,0,0,0,0,0,17,2,27,1,0,13.5,Sharjah Cricket Stadium,0,0,2013,19
+ZulfiqarBabar,Pakistan,Bangladesh,0,0,0,0,0,18,3,24,1,0,8.0,Shere Bangla National Stadium,0,0,2014,25
+ZulfiqarBabar,Pakistan,West Indies,13,18,1,1,72.22222222222221,23,3,23,3,0,7.666666666666667,Arnos Vale Ground Kingstown,0,0,2013,91

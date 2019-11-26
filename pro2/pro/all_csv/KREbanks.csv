@@ -1,10 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KREbanks,Cayman Islands,Bermuda,3,5,0,0,60.0,19,3,19,0,0,6.333333333333333,White Hill Field Sandys Parish,1
-KREbanks,Cayman Islands,Bermuda,3,5,0,0,60.0,19,3,19,0,0,6.333333333333333,White Hill Field Sandys Parish,1
-KREbanks,Cayman Islands,Bermuda,3,5,0,0,60.0,19,3,19,0,0,6.333333333333333,White Hill Field Sandys Parish,1
-KREbanks,Cayman Islands,Canada,8,11,1,0,72.72727272727273,14,2,25,1,0,12.5,White Hill Field Sandys Parish,28
-KREbanks,Cayman Islands,United States of America,4,9,0,0,44.44444444444444,5,0,9,0,0,0,White Hill Field Sandys Parish,-2
-KREbanks,Cayman Islands,Bermuda,0,2,0,0,0.0,11,1,22,0,0,22.0,White Hill Field Sandys Parish,-8
-KREbanks,Cayman Islands,Canada,0,0,0,0,0,19,3,29,0,0,9.666666666666666,White Hill Field Sandys Parish,-2
-KREbanks,Cayman Islands,Bermuda,3,5,0,0,60.0,19,3,19,0,0,6.333333333333333,White Hill Field Sandys Parish,1
-KREbanks,Cayman Islands,Canada,8,11,1,0,72.72727272727273,14,2,25,1,0,12.5,White Hill Field Sandys Parish,28
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KREbanks,Cayman Islands,United States of America,4,9,0,0,44.44444444444444,5,0,9,0,0,0,White Hill Field Sandys Parish,0,0,2019,-2
+KREbanks,Cayman Islands,Bermuda,0,2,0,0,0.0,11,1,22,0,0,22.0,White Hill Field Sandys Parish,0,0,2019,-8
+KREbanks,Cayman Islands,Canada,0,0,0,0,0,19,3,29,0,0,9.666666666666666,White Hill Field Sandys Parish,0,0,2019,-2
+KREbanks,Cayman Islands,Bermuda,3,5,0,0,60.0,19,3,19,0,0,6.333333333333333,White Hill Field Sandys Parish,0,0,2019,1
+KREbanks,Cayman Islands,Canada,8,11,1,0,72.72727272727273,14,2,25,1,0,12.5,White Hill Field Sandys Parish,0,0,2019,28

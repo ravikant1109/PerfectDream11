@@ -1,7 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TThushara,Sri Lanka,India,0,0,0,0,0,20,3,28,1,0,9.333333333333334,R Premadasa Stadium,23
-TThushara,Sri Lanka,India,0,0,0,0,0,26,4,42,2,0,10.5,Beausejour Stadium Gros Islet,46
-TThushara,Sri Lanka,Pakistan,0,0,0,0,0,24,4,25,1,0,6.25,Maple Leaf North-West Ground,25
-TThushara,Sri Lanka,Pakistan,3,6,0,0,50.0,23,3,37,2,0,12.333333333333334,R Premadasa Stadium,43
-TThushara,Sri Lanka,Pakistan,1,2,0,0,50.0,24,4,30,0,0,7.5,Maple Leaf North-West Ground,-3
-TThushara,Sri Lanka,India,0,0,0,0,0,20,3,28,1,0,9.333333333333334,R Premadasa Stadium,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TThushara,Sri Lanka,Pakistan,1,2,0,0,50.0,24,4,30,0,0,7.5,Maple Leaf North-West Ground,0,1,2008,5
+TThushara,Sri Lanka,India,0,0,0,0,0,26,4,42,2,0,10.5,Beausejour Stadium Gros Islet,0,0,2010,46
+TThushara,Sri Lanka,India,0,0,0,0,0,20,3,28,1,0,9.333333333333334,R Premadasa Stadium,0,0,2009,23
+TThushara,Sri Lanka,Pakistan,0,0,0,0,0,24,4,25,1,0,6.25,Maple Leaf North-West Ground,0,1,2008,33
+TThushara,Sri Lanka,Pakistan,3,6,0,0,50.0,23,3,37,2,0,12.333333333333334,R Premadasa Stadium,0,0,2009,43

@@ -1,14 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MehranKhan,Oman,Bangladesh,3,5,0,0,60.0,5,0,11,0,0,0,Himachal Pradesh Cricket Association Stadium,1
-MehranKhan,Oman,Bangladesh,3,5,0,0,60.0,5,0,11,0,0,0,Himachal Pradesh Cricket Association Stadium,1
-MehranKhan,Oman,Bangladesh,3,5,0,0,60.0,5,0,11,0,0,0,Himachal Pradesh Cricket Association Stadium,1
-MehranKhan,Oman,Ireland,2,4,0,0,50.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-2
-MehranKhan,Oman,Afghanistan,12,8,1,0,150.0,23,3,19,3,0,6.333333333333333,Khan Shaheb Osman Ali Stadium,88
-MehranKhan,Oman,Hong Kong,0,0,0,0,0,23,3,24,1,0,8.0,Sheikh Zayed Stadium,25
-MehranKhan,Oman,Hong Kong,28,16,0,3,175.0,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,34
-MehranKhan,Oman,Afghanistan,10,10,0,1,100.0,5,0,11,0,0,0,Dubai International Cricket Stadium,12
-MehranKhan,Oman,United Arab Emirates,8,12,1,0,66.66666666666666,17,2,23,0,0,11.5,Shere Bangla National Stadium,1
-MehranKhan,Oman,United Arab Emirates,7,5,1,0,140.0,24,4,28,0,0,7.0,Sheikh Zayed Stadium,8
-MehranKhan,Oman,Afghanistan,1,4,0,0,25.0,24,4,33,0,0,8.25,Clontarf Cricket Club Ground,-5
-MehranKhan,Oman,Hong Kong,0,0,0,0,0,24,4,21,2,0,5.25,Sheikh Zayed Stadium,52
-MehranKhan,Oman,Bangladesh,3,5,0,0,60.0,5,0,11,0,0,0,Himachal Pradesh Cricket Association Stadium,1
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MehranKhan,Oman,Afghanistan,10,10,0,1,100.0,5,0,11,0,0,0,Dubai International Cricket Stadium,0,0,2017,12
+MehranKhan,Oman,Afghanistan,1,4,0,0,25.0,24,4,33,0,0,8.25,Clontarf Cricket Club Ground,0,0,2015,-5
+MehranKhan,Oman,Hong Kong,0,0,0,0,0,23,3,24,1,0,8.0,Sheikh Zayed Stadium,0,0,2015,25
+MehranKhan,Oman,Afghanistan,12,8,1,0,150.0,23,3,19,3,0,6.333333333333333,Khan Shaheb Osman Ali Stadium,0,0,2016,88
+MehranKhan,Oman,Bangladesh,3,5,0,0,60.0,5,0,11,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,1
+MehranKhan,Oman,United Arab Emirates,7,5,1,0,140.0,24,4,28,0,0,7.0,Sheikh Zayed Stadium,0,0,2015,8
+MehranKhan,Oman,Hong Kong,28,16,0,3,175.0,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,34
+MehranKhan,Oman,Hong Kong,0,0,0,0,0,24,4,21,2,0,5.25,Sheikh Zayed Stadium,0,0,2015,52
+MehranKhan,Oman,United Arab Emirates,8,12,1,0,66.66666666666666,17,2,23,0,0,11.5,Shere Bangla National Stadium,0,0,2016,1
+MehranKhan,Oman,Ireland,2,4,0,0,50.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,1,2016,6

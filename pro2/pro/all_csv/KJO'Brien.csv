@@ -1,120 +1,59 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KJO'Brien,Ireland,Jersey,11,13,1,0,84.61538461538461,0,0,0,0,0,0,Tolerance Oval,12
-KJO'Brien,Ireland,Kenya,9,9,1,0,100.0,12,2,19,1,0,9.5,Mombasa Sports Club Ground,33
-KJO'Brien,Ireland,Bangladesh,39,18,4,2,216.66666666666666,0,0,0,0,0,0,Trent Bridge,47
-KJO'Brien,Ireland,Oman,39,17,2,4,229.41176470588235,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),49
-KJO'Brien,Ireland,India,2,4,0,0,50.0,11,1,17,0,0,17.0,Trent Bridge,-2
-KJO'Brien,Ireland,Scotland,16,15,0,1,106.66666666666667,23,3,35,3,0,11.666666666666666,Dubai International Cricket Stadium,87
-KJO'Brien,Ireland,Afghanistan,11,14,1,0,78.57142857142857,26,4,53,1,0,13.25,Greater Noida Sports Complex Ground,31
-KJO'Brien,Ireland,Afghanistan,0,1,0,0,0.0,23,3,18,2,0,6.0,Dubai International Cricket Stadium,42
-KJO'Brien,Ireland,United Arab Emirates,23,29,2,0,79.3103448275862,23,3,14,3,1,4.666666666666667,Sheikh Zayed Stadium,112
-KJO'Brien,Ireland,West Indies,13,17,0,1,76.47058823529412,0,0,0,0,0,0,R Premadasa Stadium,15
-KJO'Brien,Ireland,Afghanistan,5,6,1,0,83.33333333333334,5,0,7,0,0,0,Dubai International Cricket Stadium,6
-KJO'Brien,Ireland,Nigeria,32,17,5,0,188.23529411764704,0,0,0,0,0,0,Sheikh Zayed Stadium,37
-KJO'Brien,Ireland,Hong Kong,5,10,0,0,50.0,24,4,32,3,0,8.0,The Village Malahide,76
-KJO'Brien,Ireland,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,-8
-KJO'Brien,Ireland,Nepal,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-KJO'Brien,Ireland,New Zealand,2,3,0,0,66.66666666666666,23,3,31,0,0,10.333333333333334,Trent Bridge,-4
-KJO'Brien,Ireland,Netherlands,0,3,0,0,0.0,5,0,12,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-KJO'Brien,Ireland,Jersey,11,13,1,0,84.61538461538461,0,0,0,0,0,0,Tolerance Oval,12
-KJO'Brien,Ireland,Kenya,9,9,1,0,100.0,12,2,19,1,0,9.5,Mombasa Sports Club Ground,33
-KJO'Brien,Ireland,Bangladesh,39,18,4,2,216.66666666666666,0,0,0,0,0,0,Trent Bridge,47
-KJO'Brien,Ireland,Jersey,11,13,1,0,84.61538461538461,0,0,0,0,0,0,Tolerance Oval,12
-KJO'Brien,Ireland,Kenya,9,9,1,0,100.0,12,2,19,1,0,9.5,Mombasa Sports Club Ground,33
-KJO'Brien,Ireland,Bangladesh,39,18,4,2,216.66666666666666,0,0,0,0,0,0,Trent Bridge,47
-KJO'Brien,Ireland,Oman,39,17,2,4,229.41176470588235,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),49
-KJO'Brien,Ireland,India,2,4,0,0,50.0,11,1,17,0,0,17.0,Trent Bridge,-2
-KJO'Brien,Ireland,Scotland,16,15,0,1,106.66666666666667,23,3,35,3,0,11.666666666666666,Dubai International Cricket Stadium,87
-KJO'Brien,Ireland,Afghanistan,11,14,1,0,78.57142857142857,26,4,53,1,0,13.25,Greater Noida Sports Complex Ground,31
-KJO'Brien,Ireland,Afghanistan,0,1,0,0,0.0,23,3,18,2,0,6.0,Dubai International Cricket Stadium,42
-KJO'Brien,Ireland,United Arab Emirates,23,29,2,0,79.3103448275862,23,3,14,3,1,4.666666666666667,Sheikh Zayed Stadium,112
-KJO'Brien,Ireland,West Indies,13,17,0,1,76.47058823529412,0,0,0,0,0,0,R Premadasa Stadium,15
-KJO'Brien,Ireland,Afghanistan,5,6,1,0,83.33333333333334,5,0,7,0,0,0,Dubai International Cricket Stadium,6
-KJO'Brien,Ireland,Nigeria,32,17,5,0,188.23529411764704,0,0,0,0,0,0,Sheikh Zayed Stadium,37
-KJO'Brien,Ireland,Hong Kong,5,10,0,0,50.0,24,4,32,3,0,8.0,The Village Malahide,76
-KJO'Brien,Ireland,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,-8
-KJO'Brien,Ireland,Nepal,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-KJO'Brien,Ireland,New Zealand,2,3,0,0,66.66666666666666,23,3,31,0,0,10.333333333333334,Trent Bridge,-4
-KJO'Brien,Ireland,Netherlands,0,3,0,0,0.0,5,0,12,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-KJO'Brien,Ireland,Jersey,11,13,1,0,84.61538461538461,0,0,0,0,0,0,Tolerance Oval,12
-KJO'Brien,Ireland,Jersey,11,13,1,0,84.61538461538461,0,0,0,0,0,0,Tolerance Oval,12
-KJO'Brien,Ireland,Kenya,9,9,1,0,100.0,12,2,19,1,0,9.5,Mombasa Sports Club Ground,33
-KJO'Brien,Ireland,Bangladesh,39,18,4,2,216.66666666666666,0,0,0,0,0,0,Trent Bridge,47
-KJO'Brien,Ireland,Oman,39,17,2,4,229.41176470588235,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),49
-KJO'Brien,Ireland,India,2,4,0,0,50.0,11,1,17,0,0,17.0,Trent Bridge,-2
-KJO'Brien,Ireland,Scotland,16,15,0,1,106.66666666666667,23,3,35,3,0,11.666666666666666,Dubai International Cricket Stadium,87
-KJO'Brien,Ireland,Afghanistan,11,14,1,0,78.57142857142857,26,4,53,1,0,13.25,Greater Noida Sports Complex Ground,31
-KJO'Brien,Ireland,Afghanistan,0,1,0,0,0.0,23,3,18,2,0,6.0,Dubai International Cricket Stadium,42
-KJO'Brien,Ireland,United Arab Emirates,23,29,2,0,79.3103448275862,23,3,14,3,1,4.666666666666667,Sheikh Zayed Stadium,112
-KJO'Brien,Ireland,West Indies,13,17,0,1,76.47058823529412,0,0,0,0,0,0,R Premadasa Stadium,15
-KJO'Brien,Ireland,Afghanistan,5,6,1,0,83.33333333333334,5,0,7,0,0,0,Dubai International Cricket Stadium,6
-KJO'Brien,Ireland,Nigeria,32,17,5,0,188.23529411764704,0,0,0,0,0,0,Sheikh Zayed Stadium,37
-KJO'Brien,Ireland,Hong Kong,5,10,0,0,50.0,24,4,32,3,0,8.0,The Village Malahide,76
-KJO'Brien,Ireland,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,-8
-KJO'Brien,Ireland,Nepal,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-KJO'Brien,Ireland,New Zealand,2,3,0,0,66.66666666666666,23,3,31,0,0,10.333333333333334,Trent Bridge,-4
-KJO'Brien,Ireland,Netherlands,0,3,0,0,0.0,5,0,12,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-KJO'Brien,Ireland,Australia,35,29,5,0,120.6896551724138,17,2,18,1,0,9.0,R Premadasa Stadium,65
-KJO'Brien,Ireland,Sri Lanka,0,2,0,0,0.0,5,0,9,0,0,0,Lord's,-8
-KJO'Brien,Ireland,Zimbabwe,22,13,2,1,169.23076923076923,0,0,0,0,0,0,Bready,26
-KJO'Brien,Ireland,Netherlands,0,2,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-KJO'Brien,Ireland,Papua New Guinea,4,2,0,0,200.0,24,4,11,2,0,2.75,Civil Service Cricket Club Stormont,60
-KJO'Brien,Ireland,Kenya,17,16,1,1,106.25,23,3,17,2,0,5.666666666666667,Civil Service Cricket Club Stormont,72
-KJO'Brien,Ireland,Scotland,10,4,0,0,250.0,14,2,12,1,0,6.0,Dubai International Cricket Stadium,35
-KJO'Brien,Ireland,Kenya,30,39,3,0,76.92307692307693,0,0,0,0,0,0,Mombasa Sports Club Ground,33
-KJO'Brien,Ireland,Zimbabwe,17,11,2,1,154.54545454545453,17,2,26,0,0,13.0,Sylhet Stadium,15
-KJO'Brien,Ireland,Afghanistan,7,9,0,0,77.77777777777779,11,1,20,0,0,20.0,Dubai International Cricket Stadium,7
-KJO'Brien,Ireland,United Arab Emirates,14,12,2,0,116.66666666666667,0,0,0,0,0,0,Sheikh Zayed Stadium,16
-KJO'Brien,Ireland,Netherlands,42,16,2,4,262.5,17,2,29,2,0,14.5,Sylhet Stadium,96
-KJO'Brien,Ireland,Oman,14,12,1,0,116.66666666666667,23,3,26,2,0,8.666666666666666,Himachal Pradesh Cricket Association Stadium,65
-KJO'Brien,Ireland,United Arab Emirates,0,2,0,0,0.0,23,3,18,2,0,6.0,Sylhet Stadium,42
-KJO'Brien,Ireland,West Indies,3,5,0,0,60.0,23,3,16,1,0,5.333333333333333,Sabina Park Kingston,28
-KJO'Brien,Ireland,Scotland,30,24,0,2,125.0,17,2,24,2,0,12.0,Dubai International Cricket Stadium,78
-KJO'Brien,Ireland,Canada,31,25,2,1,124.0,11,1,22,0,0,22.0,Sheikh Zayed Stadium,35
-KJO'Brien,Ireland,Papua New Guinea,0,1,0,0,0.0,19,3,25,1,0,8.333333333333334,Tony Ireland Stadium,17
-KJO'Brien,Ireland,England,0,0,0,0,0,18,3,22,2,0,7.333333333333333,Providence Stadium,50
-KJO'Brien,Ireland,Hong Kong,32,26,3,1,123.07692307692308,25,4,40,1,0,10.0,Bready Cricket Club Magheramason,60
-KJO'Brien,Ireland,Afghanistan,3,6,0,0,50.0,25,4,46,4,0,11.5,Greater Noida Sports Complex Ground,101
-KJO'Brien,Ireland,Hong Kong,124,64,12,7,193.75,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),166
-KJO'Brien,Ireland,Oman,41,28,4,1,146.42857142857142,0,0,0,0,0,0,Tolerance Oval,47
-KJO'Brien,Ireland,Afghanistan,2,3,0,0,66.66666666666666,11,1,16,1,0,16.0,Dubai International Cricket Stadium,25
-KJO'Brien,Ireland,Scotland,36,30,1,1,120.0,5,0,9,0,0,0,Bready Cricket Club Magheramason,39
-KJO'Brien,Ireland,West Indies,9,19,1,0,47.368421052631575,5,0,8,0,0,0,Providence Stadium,4
-KJO'Brien,Ireland,Afghanistan,20,12,1,1,166.66666666666669,0,0,0,0,0,0,Sheikh Zayed Stadium,23
-KJO'Brien,Ireland,Afghanistan,12,9,2,0,133.33333333333331,6,1,9,0,0,9.0,Sheikh Zayed Stadium,14
-KJO'Brien,Ireland,Scotland,17,10,1,1,170.0,0,0,0,0,0,0,The Village Malahide,20
-KJO'Brien,Ireland,Bangladesh,0,0,0,0,0,7,1,19,0,0,19.0,Himachal Pradesh Cricket Association Stadium,0
-KJO'Brien,Ireland,Afghanistan,5,8,0,0,62.5,24,4,35,0,0,8.75,Greater Noida Sports Complex Ground,3
-KJO'Brien,Ireland,Netherlands,33,18,0,3,183.33333333333331,23,3,26,3,0,8.666666666666666,The Village Malahide,114
-KJO'Brien,Ireland,Zimbabwe,19,15,4,0,126.66666666666666,0,0,0,0,0,0,Bready Cricket Club Magheramason,23
-KJO'Brien,Ireland,Nepal,1,1,0,0,100.0,23,3,9,3,1,3.0,Civil Service Cricket Club Stormont,90
-KJO'Brien,Ireland,Canada,4,5,0,0,80.0,0,0,0,0,0,0,Sheikh Zayed Stadium,4
-KJO'Brien,Ireland,Pakistan,26,32,1,0,81.25,0,0,0,0,0,0,Kennington Oval,27
-KJO'Brien,Ireland,United Arab Emirates,40,27,1,3,148.14814814814815,26,4,37,1,0,9.25,Dubai International Cricket Stadium,70
-KJO'Brien,Ireland,Netherlands,23,16,2,2,143.75,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),29
-KJO'Brien,Ireland,Netherlands,30,22,1,3,136.36363636363635,24,4,19,2,0,4.75,Dubai International Cricket Stadium,91
-KJO'Brien,Ireland,Kenya,4,4,1,0,100.0,0,0,0,0,0,0,Mombasa Sports Club Ground,5
-KJO'Brien,Ireland,West Indies,15,14,2,0,107.14285714285714,11,1,17,2,0,17.0,Sabina Park Kingston,67
-KJO'Brien,Ireland,Jersey,11,13,1,0,84.61538461538461,0,0,0,0,0,0,Tolerance Oval,12
-KJO'Brien,Ireland,Kenya,9,9,1,0,100.0,12,2,19,1,0,9.5,Mombasa Sports Club Ground,33
-KJO'Brien,Ireland,Bangladesh,39,18,4,2,216.66666666666666,0,0,0,0,0,0,Trent Bridge,47
-KJO'Brien,Ireland,Oman,39,17,2,4,229.41176470588235,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),49
-KJO'Brien,Ireland,India,2,4,0,0,50.0,11,1,17,0,0,17.0,Trent Bridge,-2
-KJO'Brien,Ireland,Scotland,16,15,0,1,106.66666666666667,23,3,35,3,0,11.666666666666666,Dubai International Cricket Stadium,87
-KJO'Brien,Ireland,Afghanistan,11,14,1,0,78.57142857142857,26,4,53,1,0,13.25,Greater Noida Sports Complex Ground,31
-KJO'Brien,Ireland,Afghanistan,0,1,0,0,0.0,23,3,18,2,0,6.0,Dubai International Cricket Stadium,42
-KJO'Brien,Ireland,United Arab Emirates,23,29,2,0,79.3103448275862,23,3,14,3,1,4.666666666666667,Sheikh Zayed Stadium,112
-KJO'Brien,Ireland,West Indies,13,17,0,1,76.47058823529412,0,0,0,0,0,0,R Premadasa Stadium,15
-KJO'Brien,Ireland,Afghanistan,5,6,1,0,83.33333333333334,5,0,7,0,0,0,Dubai International Cricket Stadium,6
-KJO'Brien,Ireland,Nigeria,32,17,5,0,188.23529411764704,0,0,0,0,0,0,Sheikh Zayed Stadium,37
-KJO'Brien,Ireland,Hong Kong,5,10,0,0,50.0,24,4,32,3,0,8.0,The Village Malahide,76
-KJO'Brien,Ireland,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,-8
-KJO'Brien,Ireland,Nepal,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-KJO'Brien,Ireland,New Zealand,2,3,0,0,66.66666666666666,23,3,31,0,0,10.333333333333334,Trent Bridge,-4
-KJO'Brien,Ireland,Netherlands,0,3,0,0,0.0,5,0,12,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-KJO'Brien,Ireland,Australia,35,29,5,0,120.6896551724138,17,2,18,1,0,9.0,R Premadasa Stadium,65
-KJO'Brien,Ireland,Sri Lanka,0,2,0,0,0.0,5,0,9,0,0,0,Lord's,-8
-KJO'Brien,Ireland,Zimbabwe,22,13,2,1,169.23076923076923,0,0,0,0,0,0,Bready,26
-KJO'Brien,Ireland,Netherlands,0,2,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-KJO'Brien,Ireland,Papua New Guinea,4,2,0,0,200.0,24,4,11,2,0,2.75,Civil Service Cricket Club Stormont,60
-KJO'Brien,Ireland,Kenya,17,16,1,1,106.25,23,3,17,2,0,5.666666666666667,Civil Service Cricket Club Stormont,72
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KJO'Brien,Ireland,Netherlands,0,3,0,0,0.0,5,0,12,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,-8
+KJO'Brien,Ireland,Afghanistan,5,6,1,0,83.33333333333334,5,0,7,0,0,0,Dubai International Cricket Stadium,0,0,2017,6
+KJO'Brien,Ireland,United Arab Emirates,40,27,1,3,148.14814814814815,26,4,37,1,0,9.25,Dubai International Cricket Stadium,0,0,2017,70
+KJO'Brien,Ireland,New Zealand,2,3,0,0,66.66666666666666,23,3,31,0,0,10.333333333333334,Trent Bridge,0,1,2009,4
+KJO'Brien,Ireland,Scotland,36,30,1,1,120.0,5,0,9,0,0,0,Bready Cricket Club Magheramason,0,0,2015,39
+KJO'Brien,Ireland,Afghanistan,2,3,0,0,66.66666666666666,11,1,16,1,0,16.0,Dubai International Cricket Stadium,0,0,2010,25
+KJO'Brien,Ireland,Nigeria,32,17,5,0,188.23529411764704,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,37
+KJO'Brien,Ireland,Canada,4,5,0,0,80.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2019,12
+KJO'Brien,Ireland,India,2,4,0,0,50.0,11,1,17,0,0,17.0,Trent Bridge,0,0,2009,-2
+KJO'Brien,Ireland,Netherlands,30,22,1,3,136.36363636363635,24,4,19,2,0,4.75,Dubai International Cricket Stadium,0,0,2012,91
+KJO'Brien,Ireland,United Arab Emirates,0,2,0,0,0.0,23,3,18,2,0,6.0,Sylhet Stadium,0,0,2014,42
+KJO'Brien,Ireland,Hong Kong,124,64,12,7,193.75,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,174
+KJO'Brien,Ireland,Oman,39,17,2,4,229.41176470588235,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,57
+KJO'Brien,Ireland,Netherlands,33,18,0,3,183.33333333333331,23,3,26,3,0,8.666666666666666,The Village Malahide,0,0,2015,114
+KJO'Brien,Ireland,Kenya,17,16,1,1,106.25,23,3,17,2,0,5.666666666666667,Civil Service Cricket Club Stormont,0,0,2008,72
+KJO'Brien,Ireland,Zimbabwe,22,13,2,1,169.23076923076923,0,0,0,0,0,0,Bready,0,0,2019,26
+KJO'Brien,Ireland,Hong Kong,32,26,3,1,123.07692307692308,25,4,40,1,0,10.0,Bready Cricket Club Magheramason,0,0,2016,60
+KJO'Brien,Ireland,Oman,41,28,4,1,146.42857142857142,0,0,0,0,0,0,Tolerance Oval,0,2,2019,63
+KJO'Brien,Ireland,Netherlands,23,16,2,2,143.75,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,29
+KJO'Brien,Ireland,Pakistan,26,32,1,0,81.25,0,0,0,0,0,0,Kennington Oval,0,0,2009,27
+KJO'Brien,Ireland,Hong Kong,5,10,0,0,50.0,24,4,32,3,0,8.0,The Village Malahide,0,0,2015,76
+KJO'Brien,Ireland,United Arab Emirates,23,29,2,0,79.3103448275862,23,3,14,3,1,4.666666666666667,Sheikh Zayed Stadium,0,0,2016,112
+KJO'Brien,Ireland,Afghanistan,3,6,0,0,50.0,25,4,46,4,0,11.5,Greater Noida Sports Complex Ground,0,0,2017,101
+KJO'Brien,Ireland,Nepal,1,1,0,0,100.0,23,3,9,3,1,3.0,Civil Service Cricket Club Stormont,0,1,2015,98
+KJO'Brien,Ireland,Scotland,17,10,1,1,170.0,0,0,0,0,0,0,The Village Malahide,0,0,2019,20
+KJO'Brien,Ireland,West Indies,13,17,0,1,76.47058823529412,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,15
+KJO'Brien,Ireland,Jersey,11,13,1,0,84.61538461538461,0,0,0,0,0,0,Tolerance Oval,0,1,2019,20
+KJO'Brien,Ireland,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2012,-8
+KJO'Brien,Ireland,Australia,35,29,5,0,120.6896551724138,17,2,18,1,0,9.0,R Premadasa Stadium,0,1,2012,73
+KJO'Brien,Ireland,West Indies,15,14,2,0,107.14285714285714,11,1,17,2,0,17.0,Sabina Park Kingston,0,1,2014,75
+KJO'Brien,Ireland,Kenya,9,9,1,0,100.0,12,2,19,1,0,9.5,Mombasa Sports Club Ground,0,0,2012,33
+KJO'Brien,Ireland,Bangladesh,39,18,4,2,216.66666666666666,0,0,0,0,0,0,Trent Bridge,0,1,2009,55
+KJO'Brien,Ireland,West Indies,9,19,1,0,47.368421052631575,5,0,8,0,0,0,Providence Stadium,0,1,2010,12
+KJO'Brien,Ireland,Scotland,16,15,0,1,106.66666666666667,23,3,35,3,0,11.666666666666666,Dubai International Cricket Stadium,0,0,2012,87
+KJO'Brien,Ireland,Afghanistan,7,9,0,0,77.77777777777779,11,1,20,0,0,20.0,Dubai International Cricket Stadium,1,0,2010,19
+KJO'Brien,Ireland,Zimbabwe,17,11,2,1,154.54545454545453,17,2,26,0,0,13.0,Sylhet Stadium,0,0,2014,15
+KJO'Brien,Ireland,Scotland,10,4,0,0,250.0,14,2,12,1,0,6.0,Dubai International Cricket Stadium,0,0,2010,35
+KJO'Brien,Ireland,Afghanistan,5,8,0,0,62.5,24,4,35,0,0,8.75,Greater Noida Sports Complex Ground,0,1,2017,11
+KJO'Brien,Ireland,England,0,0,0,0,0,18,3,22,2,0,7.333333333333333,Providence Stadium,0,0,2010,50
+KJO'Brien,Ireland,United Arab Emirates,14,12,2,0,116.66666666666667,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,16
+KJO'Brien,Ireland,Bangladesh,0,0,0,0,0,7,1,19,0,0,19.0,Himachal Pradesh Cricket Association Stadium,0,0,2016,0
+KJO'Brien,Ireland,Kenya,30,39,3,0,76.92307692307693,0,0,0,0,0,0,Mombasa Sports Club Ground,0,1,2012,41
+KJO'Brien,Ireland,Afghanistan,11,14,1,0,78.57142857142857,26,4,53,1,0,13.25,Greater Noida Sports Complex Ground,0,0,2017,31
+KJO'Brien,Ireland,Scotland,30,24,0,2,125.0,17,2,24,2,0,12.0,Dubai International Cricket Stadium,0,0,2017,78
+KJO'Brien,Ireland,Canada,31,25,2,1,124.0,11,1,22,0,0,22.0,Sheikh Zayed Stadium,0,0,2013,35
+KJO'Brien,Ireland,Sri Lanka,0,2,0,0,0.0,5,0,9,0,0,0,Lord's,0,0,2009,-8
+KJO'Brien,Ireland,Netherlands,42,16,2,4,262.5,17,2,29,2,0,14.5,Sylhet Stadium,0,1,2014,104
+KJO'Brien,Ireland,Afghanistan,20,12,1,1,166.66666666666669,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2013,23
+KJO'Brien,Ireland,Netherlands,0,2,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,2,2010,8
+KJO'Brien,Ireland,Zimbabwe,19,15,4,0,126.66666666666666,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,1,2019,31
+KJO'Brien,Ireland,Afghanistan,0,1,0,0,0.0,23,3,18,2,0,6.0,Dubai International Cricket Stadium,0,0,2012,42
+KJO'Brien,Ireland,Papua New Guinea,4,2,0,0,200.0,24,4,11,2,0,2.75,Civil Service Cricket Club Stormont,0,0,2015,60
+KJO'Brien,Ireland,Afghanistan,12,9,2,0,133.33333333333331,6,1,9,0,0,9.0,Sheikh Zayed Stadium,0,0,2017,14
+KJO'Brien,Ireland,Kenya,4,4,1,0,100.0,0,0,0,0,0,0,Mombasa Sports Club Ground,0,0,2012,5
+KJO'Brien,Ireland,Oman,14,12,1,0,116.66666666666667,23,3,26,2,0,8.666666666666666,Himachal Pradesh Cricket Association Stadium,0,0,2016,65
+KJO'Brien,Ireland,Papua New Guinea,0,1,0,0,0.0,19,3,25,1,0,8.333333333333334,Tony Ireland Stadium,0,0,2016,17
+KJO'Brien,Ireland,West Indies,3,5,0,0,60.0,23,3,16,1,0,5.333333333333333,Sabina Park Kingston,0,0,2014,28
+KJO'Brien,Ireland,Nepal,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,2,2019,22

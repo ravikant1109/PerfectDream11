@@ -1,25 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,32,3,0,10.666666666666666,Kinrara Academy Oval,71
-PavandeepSingh,Malaysia,Nepal,0,0,0,0,0,5,0,12,0,0,0,Indian Association Ground,0
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,28,1,0,9.333333333333334,Kinrara Academy Oval,23
-PavandeepSingh,Malaysia,Kuwait,1,1,0,0,100.0,25,4,19,2,0,4.75,Indian Association Ground,55
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,32,3,0,10.666666666666666,Kinrara Academy Oval,71
-PavandeepSingh,Malaysia,Nepal,0,0,0,0,0,5,0,12,0,0,0,Indian Association Ground,0
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,28,1,0,9.333333333333334,Kinrara Academy Oval,23
-PavandeepSingh,Malaysia,Kuwait,1,1,0,0,100.0,25,4,19,2,0,4.75,Indian Association Ground,55
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,32,3,0,10.666666666666666,Kinrara Academy Oval,71
-PavandeepSingh,Malaysia,Nepal,0,0,0,0,0,5,0,12,0,0,0,Indian Association Ground,0
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,28,1,0,9.333333333333334,Kinrara Academy Oval,23
-PavandeepSingh,Malaysia,Kuwait,1,1,0,0,100.0,25,4,19,2,0,4.75,Indian Association Ground,55
-PavandeepSingh,Malaysia,Nepal,1,1,0,0,100.0,27,4,28,0,0,7.0,Kinrara Academy Oval,1
-PavandeepSingh,Malaysia,Nepal,0,0,0,0,0,18,3,28,0,0,9.333333333333334,Kinrara Academy Oval,-2
-PavandeepSingh,Malaysia,Qatar,0,3,0,0,0.0,23,3,26,1,0,8.666666666666666,Indian Association Ground,17
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,34,1,0,11.333333333333334,Kinrara Academy Oval,19
-PavandeepSingh,Malaysia,Vanuatu,2,2,0,0,100.0,23,3,34,2,0,11.333333333333334,Kinrara Academy Oval,46
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,18,3,12,3,1,4.0,Kinrara Academy Oval,87
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,32,3,0,10.666666666666666,Kinrara Academy Oval,71
-PavandeepSingh,Malaysia,Nepal,0,0,0,0,0,5,0,12,0,0,0,Indian Association Ground,0
-PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,28,1,0,9.333333333333334,Kinrara Academy Oval,23
-PavandeepSingh,Malaysia,Kuwait,1,1,0,0,100.0,25,4,19,2,0,4.75,Indian Association Ground,55
-PavandeepSingh,Malaysia,Nepal,1,1,0,0,100.0,27,4,28,0,0,7.0,Kinrara Academy Oval,1
-PavandeepSingh,Malaysia,Nepal,0,0,0,0,0,18,3,28,0,0,9.333333333333334,Kinrara Academy Oval,-2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PavandeepSingh,Malaysia,Vanuatu,2,2,0,0,100.0,23,3,34,2,0,11.333333333333334,Kinrara Academy Oval,0,0,2019,46
+PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,32,3,0,10.666666666666666,Kinrara Academy Oval,0,0,2019,71
+PavandeepSingh,Malaysia,Nepal,1,1,0,0,100.0,27,4,28,0,0,7.0,Kinrara Academy Oval,0,0,2019,1
+PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,18,3,12,3,1,4.0,Kinrara Academy Oval,1,0,2019,99
+PavandeepSingh,Malaysia,Kuwait,1,1,0,0,100.0,25,4,19,2,0,4.75,Indian Association Ground,0,2,2019,71
+PavandeepSingh,Malaysia,Nepal,0,0,0,0,0,5,0,12,0,0,0,Indian Association Ground,0,1,2019,8
+PavandeepSingh,Malaysia,Nepal,0,0,0,0,0,18,3,28,0,0,9.333333333333334,Kinrara Academy Oval,0,0,2019,-2
+PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,34,1,0,11.333333333333334,Kinrara Academy Oval,0,0,2019,19
+PavandeepSingh,Malaysia,Vanuatu,0,0,0,0,0,23,3,28,1,0,9.333333333333334,Kinrara Academy Oval,0,0,2019,23
+PavandeepSingh,Malaysia,Qatar,0,3,0,0,0.0,23,3,26,1,0,8.666666666666666,Indian Association Ground,0,0,2019,17

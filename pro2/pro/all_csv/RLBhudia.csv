@@ -1,5 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RLBhudia,Kenya,Bangladesh,0,2,0,0,0.0,17,2,32,0,0,16.0,Gymkhana Club Ground,-14
-RLBhudia,Kenya,Pakistan,9,9,0,1,100.0,23,3,29,0,0,9.666666666666666,Gymkhana Club Ground,9
-RLBhudia,Kenya,New Zealand,11,9,0,1,122.22222222222223,3,0,17,0,0,0,Kingsmead,13
-RLBhudia,Kenya,Bangladesh,0,2,0,0,0.0,17,2,32,0,0,16.0,Gymkhana Club Ground,-14
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RLBhudia,Kenya,Pakistan,9,9,0,1,100.0,23,3,29,0,0,9.666666666666666,Gymkhana Club Ground,0,0,2007,9
+RLBhudia,Kenya,Bangladesh,0,2,0,0,0.0,17,2,32,0,0,16.0,Gymkhana Club Ground,0,1,2007,-6
+RLBhudia,Kenya,New Zealand,11,9,0,1,122.22222222222223,3,0,17,0,0,0,Kingsmead,0,0,2007,13

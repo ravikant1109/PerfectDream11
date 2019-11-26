@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MKlinger,Australia,Sri Lanka,38,33,4,0,115.15151515151516,0,0,0,0,0,0,Melbourne Cricket Ground,42
-MKlinger,Australia,Sri Lanka,62,44,6,1,140.9090909090909,0,0,0,0,0,0,Adelaide Oval,78
-MKlinger,Australia,Sri Lanka,43,39,2,1,110.25641025641026,0,0,0,0,0,0,Simonds Stadium South Geelong,47
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MKlinger,Australia,Sri Lanka,62,44,6,1,140.9090909090909,0,0,0,0,0,0,Adelaide Oval,0,0,2017,78
+MKlinger,Australia,Sri Lanka,38,33,4,0,115.15151515151516,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2017,50
+MKlinger,Australia,Sri Lanka,43,39,2,1,110.25641025641026,0,0,0,0,0,0,Simonds Stadium South Geelong,0,1,2017,55

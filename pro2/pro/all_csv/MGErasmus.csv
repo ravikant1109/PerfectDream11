@@ -1,23 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MGErasmus,Namibia,Bermuda,19,19,1,1,100.0,0,0,0,0,0,0,ICC Academy Ground No 2,22
-MGErasmus,Namibia,Netherlands,8,14,0,0,57.14285714285714,0,0,0,0,0,0,ICC Academy,4
-MGErasmus,Namibia,Uganda,11,13,2,0,84.61538461538461,23,3,18,1,0,6.0,Kyambogo Cricket Oval,38
-MGErasmus,Namibia,Bermuda,19,19,1,1,100.0,0,0,0,0,0,0,ICC Academy Ground No 2,22
-MGErasmus,Namibia,Netherlands,8,14,0,0,57.14285714285714,0,0,0,0,0,0,ICC Academy,4
-MGErasmus,Namibia,Uganda,11,13,2,0,84.61538461538461,23,3,18,1,0,6.0,Kyambogo Cricket Oval,38
-MGErasmus,Namibia,Bermuda,19,19,1,1,100.0,0,0,0,0,0,0,ICC Academy Ground No 2,22
-MGErasmus,Namibia,Netherlands,8,14,0,0,57.14285714285714,0,0,0,0,0,0,ICC Academy,4
-MGErasmus,Namibia,Uganda,11,13,2,0,84.61538461538461,23,3,18,1,0,6.0,Kyambogo Cricket Oval,38
-MGErasmus,Namibia,Kenya,52,25,4,3,208.0,0,0,0,0,0,0,Dubai International Cricket Stadium,70
-MGErasmus,Namibia,Scotland,37,26,2,2,142.30769230769232,0,0,0,0,0,0,ICC Academy,43
-MGErasmus,Namibia,Botswana,56,29,5,4,193.10344827586206,17,2,19,0,0,9.5,United Cricket Club Ground,75
-MGErasmus,Namibia,Botswana,46,33,4,3,139.3939393939394,17,2,9,2,0,4.5,United Cricket Club Ground,110
-MGErasmus,Namibia,Botswana,24,21,1,2,114.28571428571428,17,2,12,3,0,6.0,United Cricket Club Ground,104
-MGErasmus,Namibia,Papua New Guinea,10,8,2,0,125.0,25,4,35,0,0,8.75,ICC Academy Ground No 2,12
-MGErasmus,Namibia,Botswana,0,0,0,0,0,7,1,6,0,0,6.0,Kyambogo Cricket Oval,0
-MGErasmus,Namibia,Botswana,2,5,0,0,40.0,24,4,16,2,0,4.0,United Cricket Club Ground,50
-MGErasmus,Namibia,Singapore,72,46,5,4,156.52173913043478,0,0,0,0,0,0,Dubai International Cricket Stadium,93
-MGErasmus,Namibia,Bermuda,19,19,1,1,100.0,0,0,0,0,0,0,ICC Academy Ground No 2,22
-MGErasmus,Namibia,Netherlands,8,14,0,0,57.14285714285714,0,0,0,0,0,0,ICC Academy,4
-MGErasmus,Namibia,Uganda,11,13,2,0,84.61538461538461,23,3,18,1,0,6.0,Kyambogo Cricket Oval,38
-MGErasmus,Namibia,Kenya,52,25,4,3,208.0,0,0,0,0,0,0,Dubai International Cricket Stadium,70
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MGErasmus,Namibia,Botswana,24,21,1,2,114.28571428571428,17,2,12,3,0,6.0,United Cricket Club Ground,0,2,2019,120
+MGErasmus,Namibia,Botswana,46,33,4,3,139.3939393939394,17,2,9,2,0,4.5,United Cricket Club Ground,0,0,2019,110
+MGErasmus,Namibia,Kenya,52,25,4,3,208.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2019,70
+MGErasmus,Namibia,Papua New Guinea,10,8,2,0,125.0,25,4,35,0,0,8.75,ICC Academy Ground No 2,0,0,2019,12
+MGErasmus,Namibia,Botswana,56,29,5,4,193.10344827586206,17,2,19,0,0,9.5,United Cricket Club Ground,0,0,2019,75
+MGErasmus,Namibia,Singapore,72,46,5,4,156.52173913043478,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2019,93
+MGErasmus,Namibia,Netherlands,8,14,0,0,57.14285714285714,0,0,0,0,0,0,ICC Academy,0,0,2019,4
+MGErasmus,Namibia,Scotland,37,26,2,2,142.30769230769232,0,0,0,0,0,0,ICC Academy,0,2,2019,59
+MGErasmus,Namibia,Botswana,2,5,0,0,40.0,24,4,16,2,0,4.0,United Cricket Club Ground,0,0,2019,50
+MGErasmus,Namibia,Bermuda,19,19,1,1,100.0,0,0,0,0,0,0,ICC Academy Ground No 2,0,0,2019,22
+MGErasmus,Namibia,Botswana,0,0,0,0,0,7,1,6,0,0,6.0,Kyambogo Cricket Oval,1,1,2019,20
+MGErasmus,Namibia,Uganda,11,13,2,0,84.61538461538461,23,3,18,1,0,6.0,Kyambogo Cricket Oval,0,2,2019,54

@@ -1,12 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AlokKapali,Bangladesh,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,5
-AlokKapali,Bangladesh,Kenya,17,20,1,0,85.0,0,0,0,0,0,0,Gymkhana Club Ground,18
-AlokKapali,Bangladesh,West Indies,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Shere Bangla National Stadium,-4
-AlokKapali,Bangladesh,Pakistan,0,3,0,0,0.0,18,3,12,2,0,4.0,Shere Bangla National Stadium,46
-AlokKapali,Bangladesh,Australia,0,1,0,0,0.0,11,1,23,0,0,23.0,Newlands,-8
-AlokKapali,Bangladesh,Pakistan,19,12,2,1,158.33333333333331,0,0,0,0,0,0,Gymkhana Club Ground,23
-AlokKapali,Bangladesh,South Africa,14,37,0,0,37.83783783783784,0,0,0,0,0,0,Newlands,8
-AlokKapali,Bangladesh,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,5
-AlokKapali,Bangladesh,Kenya,17,20,1,0,85.0,0,0,0,0,0,0,Gymkhana Club Ground,18
-AlokKapali,Bangladesh,West Indies,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Shere Bangla National Stadium,-4
-AlokKapali,Bangladesh,Pakistan,0,3,0,0,0.0,18,3,12,2,0,4.0,Shere Bangla National Stadium,46
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AlokKapali,Bangladesh,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,13
+AlokKapali,Bangladesh,South Africa,14,37,0,0,37.83783783783784,0,0,0,0,0,0,Newlands,0,0,2007,8
+AlokKapali,Bangladesh,Pakistan,19,12,2,1,158.33333333333331,0,0,0,0,0,0,Gymkhana Club Ground,1,1,2007,43
+AlokKapali,Bangladesh,Australia,0,1,0,0,0.0,11,1,23,0,0,23.0,Newlands,0,0,2007,-8
+AlokKapali,Bangladesh,Kenya,17,20,1,0,85.0,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,18
+AlokKapali,Bangladesh,West Indies,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,-4
+AlokKapali,Bangladesh,Pakistan,0,3,0,0,0.0,18,3,12,2,0,4.0,Shere Bangla National Stadium,0,0,2011,46

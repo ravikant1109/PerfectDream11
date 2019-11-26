@@ -1,24 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RazaHasan,Pakistan,New Zealand,0,0,0,0,0,23,3,24,1,0,8.0,Dubai International Cricket Stadium,25
-RazaHasan,Pakistan,New Zealand,0,0,0,0,0,24,4,24,1,0,6.0,Dubai International Cricket Stadium,25
-RazaHasan,Pakistan,South Africa,0,0,0,0,0,17,2,12,0,1,6.0,R Premadasa Stadium,8
-RazaHasan,Pakistan,Australia,0,0,0,0,0,24,4,16,2,0,4.0,Dubai International Cricket Stadium,54
-RazaHasan,Pakistan,New Zealand,0,0,0,0,0,23,3,24,1,0,8.0,Dubai International Cricket Stadium,25
-RazaHasan,Pakistan,New Zealand,0,0,0,0,0,24,4,24,1,0,6.0,Dubai International Cricket Stadium,25
-RazaHasan,Pakistan,South Africa,0,0,0,0,0,17,2,12,0,1,6.0,R Premadasa Stadium,8
-RazaHasan,Pakistan,Australia,0,0,0,0,0,24,4,16,2,0,4.0,Dubai International Cricket Stadium,54
-RazaHasan,Pakistan,New Zealand,0,0,0,0,0,23,3,24,1,0,8.0,Dubai International Cricket Stadium,25
-RazaHasan,Pakistan,New Zealand,0,0,0,0,0,24,4,24,1,0,6.0,Dubai International Cricket Stadium,25
-RazaHasan,Pakistan,South Africa,0,0,0,0,0,17,2,12,0,1,6.0,R Premadasa Stadium,8
-RazaHasan,Pakistan,Australia,0,0,0,0,0,24,4,16,2,0,4.0,Dubai International Cricket Stadium,54
-RazaHasan,Pakistan,Australia,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Dubai International Cricket Stadium,-4
-RazaHasan,Pakistan,Sri Lanka,0,0,0,0,0,23,3,26,0,0,8.666666666666666,R Premadasa Stadium,0
-RazaHasan,Pakistan,Australia,13,13,1,0,100.0,23,3,21,2,0,7.0,Dubai International Cricket Stadium,64
-RazaHasan,Pakistan,India,0,0,0,0,0,24,4,22,1,0,5.5,R Premadasa Stadium,27
-RazaHasan,Pakistan,Australia,0,0,0,0,0,23,3,15,2,0,5.0,R Premadasa Stadium,52
-RazaHasan,Pakistan,Australia,5,12,1,0,41.66666666666667,19,3,34,1,0,11.333333333333334,Dubai International Cricket Stadium,19
-RazaHasan,Pakistan,New Zealand,0,0,0,0,0,23,3,24,1,0,8.0,Dubai International Cricket Stadium,25
-RazaHasan,Pakistan,New Zealand,0,0,0,0,0,24,4,24,1,0,6.0,Dubai International Cricket Stadium,25
-RazaHasan,Pakistan,South Africa,0,0,0,0,0,17,2,12,0,1,6.0,R Premadasa Stadium,8
-RazaHasan,Pakistan,Australia,0,0,0,0,0,24,4,16,2,0,4.0,Dubai International Cricket Stadium,54
-RazaHasan,Pakistan,Australia,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Dubai International Cricket Stadium,-4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RazaHasan,Pakistan,Sri Lanka,0,0,0,0,0,23,3,26,0,0,8.666666666666666,R Premadasa Stadium,0,1,2012,8
+RazaHasan,Pakistan,Australia,0,0,0,0,0,23,3,15,2,0,5.0,R Premadasa Stadium,0,0,2012,52
+RazaHasan,Pakistan,India,0,0,0,0,0,24,4,22,1,0,5.5,R Premadasa Stadium,0,0,2012,27
+RazaHasan,Pakistan,Australia,0,0,0,0,0,24,4,16,2,0,4.0,Dubai International Cricket Stadium,0,0,2012,54
+RazaHasan,Pakistan,New Zealand,0,0,0,0,0,23,3,24,1,0,8.0,Dubai International Cricket Stadium,0,0,2014,25
+RazaHasan,Pakistan,New Zealand,0,0,0,0,0,24,4,24,1,0,6.0,Dubai International Cricket Stadium,0,0,2014,25
+RazaHasan,Pakistan,South Africa,0,0,0,0,0,17,2,12,0,1,6.0,R Premadasa Stadium,0,0,2012,8
+RazaHasan,Pakistan,Australia,13,13,1,0,100.0,23,3,21,2,0,7.0,Dubai International Cricket Stadium,0,0,2014,64
+RazaHasan,Pakistan,Australia,5,12,1,0,41.66666666666667,19,3,34,1,0,11.333333333333334,Dubai International Cricket Stadium,0,0,2012,19
+RazaHasan,Pakistan,Australia,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Dubai International Cricket Stadium,0,0,2012,-4

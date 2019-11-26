@@ -1,8 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NDeonarine,West Indies,Australia,0,1,0,0,0.0,11,1,17,0,0,17.0,Bellerive Oval,-8
-NDeonarine,West Indies,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,-8
-NDeonarine,West Indies,Ireland,10,16,0,0,62.5,0,0,0,0,0,0,Providence Stadium,8
-NDeonarine,West Indies,South Africa,3,2,0,0,150.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,3
-NDeonarine,West Indies,Australia,6,3,1,0,200.0,17,2,37,0,0,18.5,Brisbane Cricket Ground Woolloongabba,1
-NDeonarine,West Indies,Australia,0,2,0,0,0.0,11,1,15,0,0,15.0,Beausejour Stadium Gros Islet,-8
-NDeonarine,West Indies,Australia,36,29,4,0,124.13793103448276,11,1,18,0,0,18.0,Sydney Cricket Ground,40
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NDeonarine,West Indies,Australia,36,29,4,0,124.13793103448276,11,1,18,0,0,18.0,Sydney Cricket Ground,0,0,2010,40
+NDeonarine,West Indies,Australia,0,1,0,0,0.0,11,1,17,0,0,17.0,Bellerive Oval,0,0,2010,-8
+NDeonarine,West Indies,Australia,0,2,0,0,0.0,11,1,15,0,0,15.0,Beausejour Stadium Gros Islet,0,0,2010,-8
+NDeonarine,West Indies,Ireland,10,16,0,0,62.5,0,0,0,0,0,0,Providence Stadium,0,0,2010,8
+NDeonarine,West Indies,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,-8
+NDeonarine,West Indies,South Africa,3,2,0,0,150.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,3
+NDeonarine,West Indies,Australia,6,3,1,0,200.0,17,2,37,0,0,18.5,Brisbane Cricket Ground Woolloongabba,0,2,2013,17

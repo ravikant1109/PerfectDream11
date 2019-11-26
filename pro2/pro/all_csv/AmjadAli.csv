@@ -1,9 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AmjadAli,United Arab Emirates,Zimbabwe,1,4,0,0,25.0,0,0,0,0,0,0,Sylhet Stadium,-5
-AmjadAli,United Arab Emirates,Zimbabwe,1,4,0,0,25.0,0,0,0,0,0,0,Sylhet Stadium,-5
-AmjadAli,United Arab Emirates,Zimbabwe,1,4,0,0,25.0,0,0,0,0,0,0,Sylhet Stadium,-5
-AmjadAli,United Arab Emirates,Netherlands,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Sylhet Stadium,5
-AmjadAli,United Arab Emirates,Ireland,20,19,4,0,105.26315789473684,0,0,0,0,0,0,Sylhet Stadium,24
-AmjadAli,United Arab Emirates,Oman,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-AmjadAli,United Arab Emirates,Scotland,14,23,1,0,60.86956521739131,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,13
-AmjadAli,United Arab Emirates,Zimbabwe,1,4,0,0,25.0,0,0,0,0,0,0,Sylhet Stadium,-5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AmjadAli,United Arab Emirates,Scotland,14,23,1,0,60.86956521739131,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2015,13
+AmjadAli,United Arab Emirates,Ireland,20,19,4,0,105.26315789473684,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,24
+AmjadAli,United Arab Emirates,Oman,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2015,10
+AmjadAli,United Arab Emirates,Netherlands,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,5
+AmjadAli,United Arab Emirates,Zimbabwe,1,4,0,0,25.0,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,-5

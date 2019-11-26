@@ -1,11 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MRMarsh,Australia,New Zealand,24,23,0,2,104.34782608695652,24,4,26,1,0,6.5,Himachal Pradesh Cricket Association Stadium,53
-MRMarsh,Australia,South Africa,4,1,0,0,400.0,0,0,0,0,0,0,Newlands,4
-MRMarsh,Australia,England,13,13,1,0,100.0,11,1,21,0,0,21.0,Sophia Gardens,14
-MRMarsh,Australia,India,0,1,0,0,0.0,0,0,0,0,0,0,Stadium Australia,-8
-MRMarsh,Australia,South Africa,36,21,0,4,171.42857142857142,6,1,11,0,0,11.0,New Wanderers Stadium,44
-MRMarsh,Australia,South Africa,35,25,1,2,140.0,17,2,17,1,0,8.5,Kingsmead,65
-MRMarsh,Australia,Bangladesh,6,6,1,0,100.0,5,0,12,0,0,0,M Chinnaswamy Stadium,7
-MRMarsh,Australia,South Africa,2,1,0,0,200.0,12,2,28,1,0,14.0,New Wanderers Stadium,21
-MRMarsh,Australia,India,13,13,2,0,100.0,24,4,30,1,0,7.5,Melbourne Cricket Ground,40
-MRMarsh,Australia,New Zealand,24,23,0,2,104.34782608695652,24,4,26,1,0,6.5,Himachal Pradesh Cricket Association Stadium,53
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MRMarsh,Australia,South Africa,2,1,0,0,200.0,12,2,28,1,0,14.0,New Wanderers Stadium,0,0,2016,21
+MRMarsh,Australia,India,13,13,2,0,100.0,24,4,30,1,0,7.5,Melbourne Cricket Ground,0,0,2012,40
+MRMarsh,Australia,Bangladesh,6,6,1,0,100.0,5,0,12,0,0,0,M Chinnaswamy Stadium,0,0,2016,7
+MRMarsh,Australia,South Africa,35,25,1,2,140.0,17,2,17,1,0,8.5,Kingsmead,0,0,2016,65
+MRMarsh,Australia,England,13,13,1,0,100.0,11,1,21,0,0,21.0,Sophia Gardens,0,0,2015,14
+MRMarsh,Australia,South Africa,36,21,0,4,171.42857142857142,6,1,11,0,0,11.0,New Wanderers Stadium,0,0,2011,44
+MRMarsh,Australia,South Africa,4,1,0,0,400.0,0,0,0,0,0,0,Newlands,0,0,2016,4
+MRMarsh,Australia,New Zealand,24,23,0,2,104.34782608695652,24,4,26,1,0,6.5,Himachal Pradesh Cricket Association Stadium,0,1,2016,61
+MRMarsh,Australia,India,0,1,0,0,0.0,0,0,0,0,0,0,Stadium Australia,0,1,2012,0

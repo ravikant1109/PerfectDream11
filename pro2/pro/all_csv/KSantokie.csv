@@ -1,25 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KSantokie,West Indies,England,0,0,0,0,0,23,3,24,4,0,8.0,Kensington Oval Bridgetown,108
-KSantokie,West Indies,Pakistan,0,0,0,0,0,18,3,9,2,0,3.0,Shere Bangla National Stadium,56
-KSantokie,West Indies,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Shere Bangla National Stadium,25
-KSantokie,West Indies,England,0,0,0,0,0,23,3,27,2,0,9.0,Kensington Oval Bridgetown,50
-KSantokie,West Indies,England,0,0,0,0,0,23,3,24,4,0,8.0,Kensington Oval Bridgetown,108
-KSantokie,West Indies,Pakistan,0,0,0,0,0,18,3,9,2,0,3.0,Shere Bangla National Stadium,56
-KSantokie,West Indies,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Shere Bangla National Stadium,25
-KSantokie,West Indies,England,0,0,0,0,0,23,3,27,2,0,9.0,Kensington Oval Bridgetown,50
-KSantokie,West Indies,England,0,0,0,0,0,23,3,24,4,0,8.0,Kensington Oval Bridgetown,108
-KSantokie,West Indies,Pakistan,0,0,0,0,0,18,3,9,2,0,3.0,Shere Bangla National Stadium,56
-KSantokie,West Indies,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Shere Bangla National Stadium,25
-KSantokie,West Indies,England,0,0,0,0,0,23,3,27,2,0,9.0,Kensington Oval Bridgetown,50
-KSantokie,West Indies,England,0,0,0,0,0,17,2,17,1,0,8.5,Kennington Oval,25
-KSantokie,West Indies,Ireland,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Sabina Park Kingston,29
-KSantokie,West Indies,Bangladesh,0,0,0,0,0,25,4,17,3,0,4.25,Shere Bangla National Stadium,79
-KSantokie,West Indies,India,0,0,0,0,0,23,3,27,0,0,9.0,Shere Bangla National Stadium,0
-KSantokie,West Indies,New Zealand,0,0,0,0,0,11,1,27,1,0,27.0,Windsor Park Roseau,25
-KSantokie,West Indies,Australia,0,0,0,0,0,18,3,27,1,0,9.0,Beausejour Stadium Gros Islet,25
-KSantokie,West Indies,Bangladesh,0,0,0,0,0,11,1,18,0,0,18.0,Warner Park Basseterre,0
-KSantokie,West Indies,Sri Lanka,0,0,0,0,0,23,3,47,2,0,15.666666666666666,Shere Bangla National Stadium,44
-KSantokie,West Indies,England,0,0,0,0,0,23,3,24,4,0,8.0,Kensington Oval Bridgetown,108
-KSantokie,West Indies,Pakistan,0,0,0,0,0,18,3,9,2,0,3.0,Shere Bangla National Stadium,56
-KSantokie,West Indies,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Shere Bangla National Stadium,25
-KSantokie,West Indies,England,0,0,0,0,0,23,3,27,2,0,9.0,Kensington Oval Bridgetown,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KSantokie,West Indies,England,0,0,0,0,0,23,3,24,4,0,8.0,Kensington Oval Bridgetown,0,0,2014,108
+KSantokie,West Indies,Bangladesh,0,0,0,0,0,25,4,17,3,0,4.25,Shere Bangla National Stadium,0,1,2014,87
+KSantokie,West Indies,England,0,0,0,0,0,23,3,27,2,0,9.0,Kensington Oval Bridgetown,1,0,2014,62
+KSantokie,West Indies,Pakistan,0,0,0,0,0,18,3,9,2,0,3.0,Shere Bangla National Stadium,0,0,2014,56
+KSantokie,West Indies,Bangladesh,0,0,0,0,0,11,1,18,0,0,18.0,Warner Park Basseterre,0,0,2014,0
+KSantokie,West Indies,Australia,0,0,0,0,0,18,3,27,1,0,9.0,Beausejour Stadium Gros Islet,0,0,2012,25
+KSantokie,West Indies,Sri Lanka,0,0,0,0,0,23,3,47,2,0,15.666666666666666,Shere Bangla National Stadium,0,0,2014,44
+KSantokie,West Indies,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Shere Bangla National Stadium,0,0,2014,25
+KSantokie,West Indies,India,0,0,0,0,0,23,3,27,0,0,9.0,Shere Bangla National Stadium,0,0,2014,0
+KSantokie,West Indies,New Zealand,0,0,0,0,0,11,1,27,1,0,27.0,Windsor Park Roseau,0,0,2014,25
+KSantokie,West Indies,Ireland,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Sabina Park Kingston,0,0,2014,29
+KSantokie,West Indies,England,0,0,0,0,0,17,2,17,1,0,8.5,Kennington Oval,0,0,2011,25

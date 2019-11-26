@@ -1,16 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DMBravo,West Indies,India,41,41,5,0,100.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,46
-DMBravo,West Indies,India,41,41,5,0,100.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,46
-DMBravo,West Indies,India,41,41,5,0,100.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,46
-DMBravo,West Indies,Bangladesh,7,7,0,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,9
-DMBravo,West Indies,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-8
-DMBravo,West Indies,New Zealand,16,22,0,1,72.72727272727273,0,0,0,0,0,0,Pallekele International Cricket Stadium,18
-DMBravo,West Indies,New Zealand,30,30,0,2,100.0,0,0,0,0,0,0,Windsor Park Roseau,34
-DMBravo,West Indies,Bangladesh,41,29,4,2,141.3793103448276,0,0,0,0,0,0,Shere Bangla National Stadium,49
-DMBravo,West Indies,Australia,12,14,1,0,85.71428571428571,0,0,0,0,0,0,Beausejour Stadium Gros Islet,13
-DMBravo,West Indies,Pakistan,42,34,4,2,123.52941176470588,0,0,0,0,0,0,Beausejour Stadium Gros Islet,50
-DMBravo,West Indies,New Zealand,14,8,1,1,175.0,0,0,0,0,0,0,Windsor Park Roseau,17
-DMBravo,West Indies,Australia,32,28,3,0,114.28571428571428,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,35
-DMBravo,West Indies,Zimbabwe,0,4,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,-8
-DMBravo,West Indies,India,41,41,5,0,100.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,46
-DMBravo,West Indies,Bangladesh,7,7,0,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,9
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DMBravo,West Indies,Zimbabwe,0,4,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2013,-8
+DMBravo,West Indies,Pakistan,42,34,4,2,123.52941176470588,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2011,50
+DMBravo,West Indies,Australia,12,14,1,0,85.71428571428571,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2012,13
+DMBravo,West Indies,New Zealand,16,22,0,1,72.72727272727273,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,18
+DMBravo,West Indies,India,41,41,5,0,100.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2011,46
+DMBravo,West Indies,Bangladesh,7,7,0,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,9
+DMBravo,West Indies,New Zealand,14,8,1,1,175.0,0,0,0,0,0,0,Windsor Park Roseau,1,2,2014,45
+DMBravo,West Indies,Bangladesh,41,29,4,2,141.3793103448276,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,49
+DMBravo,West Indies,Australia,32,28,3,0,114.28571428571428,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2013,35
+DMBravo,West Indies,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2010,-8
+DMBravo,West Indies,New Zealand,30,30,0,2,100.0,0,0,0,0,0,0,Windsor Park Roseau,0,0,2014,34

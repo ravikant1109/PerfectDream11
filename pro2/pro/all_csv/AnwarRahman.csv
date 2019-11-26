@@ -1,19 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AnwarRahman,Malaysia,Nepal,0,0,0,0,0,11,1,13,0,0,13.0,Indian Association Ground,0
-AnwarRahman,Malaysia,Kuwait,1,2,0,0,50.0,11,1,7,1,0,7.0,Indian Association Ground,22
-AnwarRahman,Malaysia,Singapore,3,3,0,0,100.0,11,1,5,0,0,5.0,Indian Association Ground,3
-AnwarRahman,Malaysia,Nepal,0,0,0,0,0,11,1,13,0,0,13.0,Indian Association Ground,0
-AnwarRahman,Malaysia,Kuwait,1,2,0,0,50.0,11,1,7,1,0,7.0,Indian Association Ground,22
-AnwarRahman,Malaysia,Singapore,3,3,0,0,100.0,11,1,5,0,0,5.0,Indian Association Ground,3
-AnwarRahman,Malaysia,Nepal,0,0,0,0,0,11,1,13,0,0,13.0,Indian Association Ground,0
-AnwarRahman,Malaysia,Kuwait,1,2,0,0,50.0,11,1,7,1,0,7.0,Indian Association Ground,22
-AnwarRahman,Malaysia,Singapore,3,3,0,0,100.0,11,1,5,0,0,5.0,Indian Association Ground,3
-AnwarRahman,Malaysia,Nepal,0,1,0,0,0.0,24,4,20,2,0,5.0,Kinrara Academy Oval,44
-AnwarRahman,Malaysia,Nepal,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Kinrara Academy Oval,-4
-AnwarRahman,Malaysia,Thailand,0,0,0,0,0,23,3,17,4,0,5.666666666666667,Kinrara Academy Oval,110
-AnwarRahman,Malaysia,Qatar,1,4,0,0,25.0,24,4,18,1,1,4.5,Indian Association Ground,32
-AnwarRahman,Malaysia,Nepal,0,0,0,0,0,11,1,13,0,0,13.0,Indian Association Ground,0
-AnwarRahman,Malaysia,Kuwait,1,2,0,0,50.0,11,1,7,1,0,7.0,Indian Association Ground,22
-AnwarRahman,Malaysia,Singapore,3,3,0,0,100.0,11,1,5,0,0,5.0,Indian Association Ground,3
-AnwarRahman,Malaysia,Nepal,0,1,0,0,0.0,24,4,20,2,0,5.0,Kinrara Academy Oval,44
-AnwarRahman,Malaysia,Nepal,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Kinrara Academy Oval,-4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AnwarRahman,Malaysia,Nepal,0,1,0,0,0.0,24,4,20,2,0,5.0,Kinrara Academy Oval,0,1,2019,52
+AnwarRahman,Malaysia,Thailand,0,0,0,0,0,23,3,17,4,0,5.666666666666667,Kinrara Academy Oval,0,0,2019,110
+AnwarRahman,Malaysia,Singapore,3,3,0,0,100.0,11,1,5,0,0,5.0,Indian Association Ground,0,0,2019,3
+AnwarRahman,Malaysia,Kuwait,1,2,0,0,50.0,11,1,7,1,0,7.0,Indian Association Ground,0,1,2019,30
+AnwarRahman,Malaysia,Nepal,0,0,0,0,0,11,1,13,0,0,13.0,Indian Association Ground,0,0,2019,0
+AnwarRahman,Malaysia,Nepal,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Kinrara Academy Oval,0,0,2019,-4
+AnwarRahman,Malaysia,Qatar,1,4,0,0,25.0,24,4,18,1,1,4.5,Indian Association Ground,1,0,2019,44

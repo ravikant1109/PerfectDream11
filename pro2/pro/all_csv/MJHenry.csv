@@ -1,16 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MJHenry,New Zealand,Bangladesh,0,0,0,0,0,26,4,44,1,0,11.0,McLean Park,21
-MJHenry,New Zealand,Pakistan,0,0,0,0,0,11,1,14,1,0,14.0,Dubai International Cricket Stadium,25
-MJHenry,New Zealand,Pakistan,0,0,0,0,0,24,4,32,0,0,8.0,Dubai International Cricket Stadium,0
-MJHenry,New Zealand,Bangladesh,0,0,0,0,0,26,4,44,1,0,11.0,McLean Park,21
-MJHenry,New Zealand,Pakistan,0,0,0,0,0,11,1,14,1,0,14.0,Dubai International Cricket Stadium,25
-MJHenry,New Zealand,Pakistan,0,0,0,0,0,24,4,32,0,0,8.0,Dubai International Cricket Stadium,0
-MJHenry,New Zealand,Bangladesh,0,0,0,0,0,26,4,44,1,0,11.0,McLean Park,21
-MJHenry,New Zealand,Pakistan,0,0,0,0,0,11,1,14,1,0,14.0,Dubai International Cricket Stadium,25
-MJHenry,New Zealand,Pakistan,0,0,0,0,0,24,4,32,0,0,8.0,Dubai International Cricket Stadium,0
-MJHenry,New Zealand,Sri Lanka,0,0,0,0,0,24,4,44,3,0,11.0,Bay Oval,71
-MJHenry,New Zealand,England,0,0,0,0,0,23,3,33,1,0,11.0,Old Trafford,21
-MJHenry,New Zealand,Pakistan,10,6,1,0,166.66666666666669,25,4,32,1,1,8.0,Eden Park,44
-MJHenry,New Zealand,Bangladesh,0,0,0,0,0,26,4,44,1,0,11.0,McLean Park,21
-MJHenry,New Zealand,Pakistan,0,0,0,0,0,11,1,14,1,0,14.0,Dubai International Cricket Stadium,25
-MJHenry,New Zealand,Pakistan,0,0,0,0,0,24,4,32,0,0,8.0,Dubai International Cricket Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MJHenry,New Zealand,Pakistan,10,6,1,0,166.66666666666669,25,4,32,1,1,8.0,Eden Park,0,0,2016,44
+MJHenry,New Zealand,Bangladesh,0,0,0,0,0,26,4,44,1,0,11.0,McLean Park,0,1,2017,29
+MJHenry,New Zealand,Pakistan,0,0,0,0,0,11,1,14,1,0,14.0,Dubai International Cricket Stadium,0,0,2014,25
+MJHenry,New Zealand,Pakistan,0,0,0,0,0,24,4,32,0,0,8.0,Dubai International Cricket Stadium,0,0,2014,0
+MJHenry,New Zealand,England,0,0,0,0,0,23,3,33,1,0,11.0,Old Trafford,0,0,2015,21
+MJHenry,New Zealand,Sri Lanka,0,0,0,0,0,24,4,44,3,0,11.0,Bay Oval,0,0,2016,71

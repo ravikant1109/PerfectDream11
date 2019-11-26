@@ -1,9 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RGunasekera,Canada,Kenya,15,7,1,1,214.28571428571428,0,0,0,0,0,0,Sharjah Cricket Stadium,18
-RGunasekera,Canada,Netherlands,9,13,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,8
-RGunasekera,Canada,Ireland,65,53,7,1,122.64150943396226,0,0,0,0,0,0,Sheikh Zayed Stadium,82
-RGunasekera,Canada,Ireland,26,34,2,0,76.47058823529412,0,0,0,0,0,0,Dubai International Cricket Stadium,28
-RGunasekera,Canada,Afghanistan,11,7,0,1,157.14285714285714,0,0,0,0,0,0,ICC Global Cricket Academy,13
-RGunasekera,Canada,Kenya,38,37,5,0,102.7027027027027,0,0,0,0,0,0,ICC Global Cricket Academy,43
-RGunasekera,Canada,Kenya,18,17,2,0,105.88235294117648,0,0,0,0,0,0,ICC Global Cricket Academy,20
-RGunasekera,Canada,Scotland,20,28,2,1,71.42857142857143,0,0,0,0,0,0,Dubai International Cricket Stadium,24
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RGunasekera,Canada,Netherlands,9,13,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,8
+RGunasekera,Canada,Kenya,18,17,2,0,105.88235294117648,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2013,20
+RGunasekera,Canada,Afghanistan,11,7,0,1,157.14285714285714,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2012,13
+RGunasekera,Canada,Ireland,26,34,2,0,76.47058823529412,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,28
+RGunasekera,Canada,Kenya,15,7,1,1,214.28571428571428,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,18
+RGunasekera,Canada,Scotland,20,28,2,1,71.42857142857143,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,24
+RGunasekera,Canada,Kenya,38,37,5,0,102.7027027027027,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2013,43
+RGunasekera,Canada,Ireland,65,53,7,1,122.64150943396226,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2013,82

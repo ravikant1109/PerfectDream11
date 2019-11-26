@@ -1,41 +1,19 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AFMilne,New Zealand,Sri Lanka,0,0,0,0,0,23,3,37,2,0,12.333333333333334,Eden Park,44
-AFMilne,New Zealand,Pakistan,2,3,0,0,66.66666666666666,23,3,18,0,0,6.0,Dubai International Cricket Stadium,0
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,23,3,47,0,0,15.666666666666666,Eden Park,-6
-AFMilne,New Zealand,Zimbabwe,0,0,0,0,0,23,3,11,2,0,3.6666666666666665,Harare Sports Club,56
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,18,3,9,3,1,3.0,Westpac Stadium,89
-AFMilne,New Zealand,India,0,0,0,0,0,13,2,8,1,0,4.0,Vidarbha Cricket Association Stadium Jamtha,29
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,24,4,37,1,0,9.25,Seddon Park,23
-AFMilne,New Zealand,Sri Lanka,0,0,0,0,0,23,3,37,2,0,12.333333333333334,Eden Park,44
-AFMilne,New Zealand,Pakistan,2,3,0,0,66.66666666666666,23,3,18,0,0,6.0,Dubai International Cricket Stadium,0
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,23,3,47,0,0,15.666666666666666,Eden Park,-6
-AFMilne,New Zealand,Zimbabwe,0,0,0,0,0,23,3,11,2,0,3.6666666666666665,Harare Sports Club,56
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,18,3,9,3,1,3.0,Westpac Stadium,89
-AFMilne,New Zealand,India,0,0,0,0,0,13,2,8,1,0,4.0,Vidarbha Cricket Association Stadium Jamtha,29
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,24,4,37,1,0,9.25,Seddon Park,23
-AFMilne,New Zealand,Sri Lanka,0,0,0,0,0,23,3,37,2,0,12.333333333333334,Eden Park,44
-AFMilne,New Zealand,Pakistan,2,3,0,0,66.66666666666666,23,3,18,0,0,6.0,Dubai International Cricket Stadium,0
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,23,3,47,0,0,15.666666666666666,Eden Park,-6
-AFMilne,New Zealand,Zimbabwe,0,0,0,0,0,23,3,11,2,0,3.6666666666666665,Harare Sports Club,56
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,18,3,9,3,1,3.0,Westpac Stadium,89
-AFMilne,New Zealand,India,0,0,0,0,0,13,2,8,1,0,4.0,Vidarbha Cricket Association Stadium Jamtha,29
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,24,4,37,1,0,9.25,Seddon Park,23
-AFMilne,New Zealand,Australia,2,2,0,0,100.0,13,2,23,0,0,11.5,Himachal Pradesh Cricket Association Stadium,-4
-AFMilne,New Zealand,England,0,0,0,0,0,17,2,27,0,0,13.5,Feroz Shah Kotla,-6
-AFMilne,New Zealand,India,0,0,0,0,0,17,2,36,0,0,18.0,MA Chidambaram Stadium Chepauk,-6
-AFMilne,New Zealand,South Africa,2,2,0,0,100.0,23,3,24,1,0,8.0,Kingsmead,27
-AFMilne,New Zealand,Pakistan,3,7,0,0,42.857142857142854,25,4,49,1,0,12.25,AMI Stadium,16
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Punjab Cricket Association IS Bindra Stadium Mohali,50
-AFMilne,New Zealand,South Africa,10,7,1,0,142.85714285714286,25,4,27,1,0,6.75,SuperSport Park,36
-AFMilne,New Zealand,West Indies,0,0,0,0,0,23,3,23,2,0,7.666666666666667,Westpac Stadium,50
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,5,0,12,0,0,0,Pallekele International Cricket Stadium,0
-AFMilne,New Zealand,Pakistan,2,2,0,0,100.0,23,3,37,4,0,12.333333333333334,Eden Park,104
-AFMilne,New Zealand,West Indies,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Eden Park,27
-AFMilne,New Zealand,Sri Lanka,0,0,0,0,0,23,3,37,2,0,12.333333333333334,Eden Park,44
-AFMilne,New Zealand,Pakistan,2,3,0,0,66.66666666666666,23,3,18,0,0,6.0,Dubai International Cricket Stadium,0
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,23,3,47,0,0,15.666666666666666,Eden Park,-6
-AFMilne,New Zealand,Zimbabwe,0,0,0,0,0,23,3,11,2,0,3.6666666666666665,Harare Sports Club,56
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,18,3,9,3,1,3.0,Westpac Stadium,89
-AFMilne,New Zealand,India,0,0,0,0,0,13,2,8,1,0,4.0,Vidarbha Cricket Association Stadium Jamtha,29
-AFMilne,New Zealand,Pakistan,0,0,0,0,0,24,4,37,1,0,9.25,Seddon Park,23
-AFMilne,New Zealand,Australia,2,2,0,0,100.0,13,2,23,0,0,11.5,Himachal Pradesh Cricket Association Stadium,-4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AFMilne,New Zealand,Pakistan,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,50
+AFMilne,New Zealand,Pakistan,2,2,0,0,100.0,23,3,37,4,0,12.333333333333334,Eden Park,0,0,2016,104
+AFMilne,New Zealand,India,0,0,0,0,0,17,2,36,0,0,18.0,MA Chidambaram Stadium Chepauk,0,0,2012,-6
+AFMilne,New Zealand,South Africa,10,7,1,0,142.85714285714286,25,4,27,1,0,6.75,SuperSport Park,0,0,2015,36
+AFMilne,New Zealand,Pakistan,0,0,0,0,0,23,3,47,0,0,15.666666666666666,Eden Park,0,0,2010,-6
+AFMilne,New Zealand,Zimbabwe,0,0,0,0,0,23,3,11,2,0,3.6666666666666665,Harare Sports Club,0,0,2015,56
+AFMilne,New Zealand,Pakistan,2,3,0,0,66.66666666666666,23,3,18,0,0,6.0,Dubai International Cricket Stadium,0,0,2014,0
+AFMilne,New Zealand,South Africa,2,2,0,0,100.0,23,3,24,1,0,8.0,Kingsmead,0,0,2015,27
+AFMilne,New Zealand,West Indies,0,0,0,0,0,23,3,23,2,0,7.666666666666667,Westpac Stadium,0,0,2014,50
+AFMilne,New Zealand,India,0,0,0,0,0,13,2,8,1,0,4.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,29
+AFMilne,New Zealand,England,0,0,0,0,0,17,2,27,0,0,13.5,Feroz Shah Kotla,0,0,2016,-6
+AFMilne,New Zealand,Pakistan,3,7,0,0,42.857142857142854,25,4,49,1,0,12.25,AMI Stadium,0,0,2010,16
+AFMilne,New Zealand,West Indies,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Eden Park,0,1,2014,35
+AFMilne,New Zealand,Australia,2,2,0,0,100.0,13,2,23,0,0,11.5,Himachal Pradesh Cricket Association Stadium,1,1,2016,16
+AFMilne,New Zealand,Pakistan,0,0,0,0,0,24,4,37,1,0,9.25,Seddon Park,1,1,2016,43
+AFMilne,New Zealand,Pakistan,0,0,0,0,0,5,0,12,0,0,0,Pallekele International Cricket Stadium,0,0,2012,0
+AFMilne,New Zealand,Pakistan,0,0,0,0,0,18,3,9,3,1,3.0,Westpac Stadium,0,1,2016,97
+AFMilne,New Zealand,Sri Lanka,0,0,0,0,0,23,3,37,2,0,12.333333333333334,Eden Park,0,1,2016,52

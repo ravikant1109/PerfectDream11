@@ -1,75 +1,38 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,25,4,11,2,0,2.75,Kennington Oval,56
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,23,3,15,2,0,5.0,Pallekele International Cricket Stadium,52
-BAWMendis,Sri Lanka,Australia,0,0,0,0,0,17,2,25,1,0,12.5,Melbourne Cricket Ground,19
-BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,11,1,9,0,0,9.0,Providence Stadium,0
-BAWMendis,Sri Lanka,Bangladesh,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Zahur Ahmed Chowdhury Stadium,23
-BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,23,3,8,6,2,2.6666666666666665,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,188
-BAWMendis,Sri Lanka,Australia,1,7,0,0,14.285714285714285,24,4,42,0,0,10.5,Kensington Oval Bridgetown,-9
-BAWMendis,Sri Lanka,New Zealand,0,1,0,0,0.0,23,3,26,1,0,8.666666666666666,R Premadasa Stadium,17
-BAWMendis,Sri Lanka,New Zealand,2,5,0,0,40.0,23,3,19,2,0,6.333333333333333,Central Broward Regional Park Stadium Turf Ground,46
-BAWMendis,Sri Lanka,England,0,0,0,0,0,23,3,19,0,0,6.333333333333333,Beausejour Stadium Gros Islet,0
-BAWMendis,Sri Lanka,Australia,0,2,0,0,0.0,23,3,20,6,1,6.666666666666667,Pallekele International Cricket Stadium,166
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,25,4,11,2,0,2.75,Kennington Oval,56
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,23,3,15,2,0,5.0,Pallekele International Cricket Stadium,52
-BAWMendis,Sri Lanka,Australia,0,0,0,0,0,17,2,25,1,0,12.5,Melbourne Cricket Ground,19
-BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,11,1,9,0,0,9.0,Providence Stadium,0
-BAWMendis,Sri Lanka,Bangladesh,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Zahur Ahmed Chowdhury Stadium,23
-BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,23,3,8,6,2,2.6666666666666665,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,188
-BAWMendis,Sri Lanka,Australia,1,7,0,0,14.285714285714285,24,4,42,0,0,10.5,Kensington Oval Bridgetown,-9
-BAWMendis,Sri Lanka,New Zealand,0,1,0,0,0.0,23,3,26,1,0,8.666666666666666,R Premadasa Stadium,17
-BAWMendis,Sri Lanka,New Zealand,2,5,0,0,40.0,23,3,19,2,0,6.333333333333333,Central Broward Regional Park Stadium Turf Ground,46
-BAWMendis,Sri Lanka,England,0,0,0,0,0,23,3,19,0,0,6.333333333333333,Beausejour Stadium Gros Islet,0
-BAWMendis,Sri Lanka,Australia,0,2,0,0,0.0,23,3,20,6,1,6.666666666666667,Pallekele International Cricket Stadium,166
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,25,4,11,2,0,2.75,Kennington Oval,56
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,23,3,15,2,0,5.0,Pallekele International Cricket Stadium,52
-BAWMendis,Sri Lanka,Australia,0,0,0,0,0,17,2,25,1,0,12.5,Melbourne Cricket Ground,19
-BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,11,1,9,0,0,9.0,Providence Stadium,0
-BAWMendis,Sri Lanka,Bangladesh,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Zahur Ahmed Chowdhury Stadium,23
-BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,23,3,8,6,2,2.6666666666666665,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,188
-BAWMendis,Sri Lanka,Australia,1,7,0,0,14.285714285714285,24,4,42,0,0,10.5,Kensington Oval Bridgetown,-9
-BAWMendis,Sri Lanka,New Zealand,0,1,0,0,0.0,23,3,26,1,0,8.666666666666666,R Premadasa Stadium,17
-BAWMendis,Sri Lanka,New Zealand,2,5,0,0,40.0,23,3,19,2,0,6.333333333333333,Central Broward Regional Park Stadium Turf Ground,46
-BAWMendis,Sri Lanka,England,0,0,0,0,0,23,3,19,0,0,6.333333333333333,Beausejour Stadium Gros Islet,0
-BAWMendis,Sri Lanka,Australia,0,2,0,0,0.0,23,3,20,6,1,6.666666666666667,Pallekele International Cricket Stadium,166
-BAWMendis,Sri Lanka,West Indies,1,2,0,0,50.0,24,4,12,4,0,3.0,R Premadasa Stadium,111
-BAWMendis,Sri Lanka,Ireland,4,1,0,0,400.0,24,4,24,2,0,6.0,Lord's,54
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,23,3,25,2,0,8.333333333333334,Trent Bridge,50
-BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,17,2,24,0,0,12.0,Lord's,-6
-BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,23,3,34,0,0,11.333333333333334,Lord's,-6
-BAWMendis,Sri Lanka,England,0,0,0,0,0,23,3,52,0,0,17.333333333333332,Zahur Ahmed Chowdhury Stadium,-6
-BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,25,4,19,2,0,4.75,Central Broward Regional Park Stadium Turf Ground,54
-BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,23,3,35,1,0,11.666666666666666,Providence Stadium,19
-BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,23,3,21,1,0,7.0,R Premadasa Stadium,25
-BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,17,2,20,1,0,10.0,Pallekele International Cricket Stadium,23
-BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,23,3,27,2,0,9.0,R Premadasa Stadium,50
-BAWMendis,Sri Lanka,South Africa,0,0,0,0,0,23,3,36,1,0,12.0,R Premadasa Stadium,19
-BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,18,3,20,1,0,6.666666666666667,Sheikh Zayed Stadium,25
-BAWMendis,Sri Lanka,Netherlands,0,0,0,0,0,14,2,16,3,0,8.0,Zahur Ahmed Chowdhury Stadium,75
-BAWMendis,Sri Lanka,England,0,0,0,0,0,24,4,41,0,0,10.25,Pallekele International Cricket Stadium,-4
-BAWMendis,Sri Lanka,South Africa,0,0,0,0,0,23,3,39,0,0,13.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,-6
-BAWMendis,Sri Lanka,Australia,0,0,0,0,0,23,3,27,0,0,9.0,Stadium Australia,0
-BAWMendis,Sri Lanka,South Africa,0,0,0,0,0,25,4,31,1,0,7.75,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,24,4,24,3,0,6.0,Kensington Oval Bridgetown,75
-BAWMendis,Sri Lanka,Australia,0,0,0,0,0,23,3,20,3,0,6.666666666666667,Trent Bridge,75
-BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Dubai International Cricket Stadium,23
-BAWMendis,Sri Lanka,South Africa,0,0,0,0,0,23,3,45,1,0,15.0,Zahur Ahmed Chowdhury Stadium,19
-BAWMendis,Sri Lanka,Bangladesh,0,0,0,0,0,24,4,21,1,0,5.25,Zahur Ahmed Chowdhury Stadium,27
-BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,23,3,23,3,0,7.666666666666667,Maple Leaf North-West Ground,75
-BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,17,2,9,3,0,4.5,Trent Bridge,79
-BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,24,4,48,1,0,12.0,Pallekele International Cricket Stadium,19
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,25,4,11,2,0,2.75,Kennington Oval,56
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,23,3,15,2,0,5.0,Pallekele International Cricket Stadium,52
-BAWMendis,Sri Lanka,Australia,0,0,0,0,0,17,2,25,1,0,12.5,Melbourne Cricket Ground,19
-BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,11,1,9,0,0,9.0,Providence Stadium,0
-BAWMendis,Sri Lanka,Bangladesh,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Zahur Ahmed Chowdhury Stadium,23
-BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,23,3,8,6,2,2.6666666666666665,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,188
-BAWMendis,Sri Lanka,Australia,1,7,0,0,14.285714285714285,24,4,42,0,0,10.5,Kensington Oval Bridgetown,-9
-BAWMendis,Sri Lanka,New Zealand,0,1,0,0,0.0,23,3,26,1,0,8.666666666666666,R Premadasa Stadium,17
-BAWMendis,Sri Lanka,New Zealand,2,5,0,0,40.0,23,3,19,2,0,6.333333333333333,Central Broward Regional Park Stadium Turf Ground,46
-BAWMendis,Sri Lanka,England,0,0,0,0,0,23,3,19,0,0,6.333333333333333,Beausejour Stadium Gros Islet,0
-BAWMendis,Sri Lanka,Australia,0,2,0,0,0.0,23,3,20,6,1,6.666666666666667,Pallekele International Cricket Stadium,166
-BAWMendis,Sri Lanka,West Indies,1,2,0,0,50.0,24,4,12,4,0,3.0,R Premadasa Stadium,111
-BAWMendis,Sri Lanka,Ireland,4,1,0,0,400.0,24,4,24,2,0,6.0,Lord's,54
-BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,23,3,25,2,0,8.333333333333334,Trent Bridge,50
-BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,17,2,24,0,0,12.0,Lord's,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,25,4,11,2,0,2.75,Kennington Oval,0,0,2009,56
+BAWMendis,Sri Lanka,Bangladesh,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Zahur Ahmed Chowdhury Stadium,0,0,2014,23
+BAWMendis,Sri Lanka,New Zealand,2,5,0,0,40.0,23,3,19,2,0,6.333333333333333,Central Broward Regional Park Stadium Turf Ground,0,0,2010,46
+BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,23,3,27,2,0,9.0,R Premadasa Stadium,0,0,2012,50
+BAWMendis,Sri Lanka,Australia,0,0,0,0,0,23,3,27,0,0,9.0,Stadium Australia,0,0,2013,0
+BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,17,2,9,3,0,4.5,Trent Bridge,0,0,2009,79
+BAWMendis,Sri Lanka,Australia,1,7,0,0,14.285714285714285,24,4,42,0,0,10.5,Kensington Oval Bridgetown,0,0,2010,-9
+BAWMendis,Sri Lanka,South Africa,0,0,0,0,0,23,3,39,0,0,13.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,-6
+BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,23,3,8,6,2,2.6666666666666665,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,188
+BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,23,3,15,2,0,5.0,Pallekele International Cricket Stadium,0,0,2012,52
+BAWMendis,Sri Lanka,England,0,0,0,0,0,23,3,19,0,0,6.333333333333333,Beausejour Stadium Gros Islet,0,0,2010,0
+BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,17,2,20,1,0,10.0,Pallekele International Cricket Stadium,0,1,2013,31
+BAWMendis,Sri Lanka,Netherlands,0,0,0,0,0,14,2,16,3,0,8.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,75
+BAWMendis,Sri Lanka,South Africa,0,0,0,0,0,25,4,31,1,0,7.75,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,25
+BAWMendis,Sri Lanka,Zimbabwe,0,0,0,0,0,11,1,9,0,0,9.0,Providence Stadium,0,0,2010,0
+BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,23,3,34,0,0,11.333333333333334,Lord's,0,0,2009,-6
+BAWMendis,Sri Lanka,South Africa,0,0,0,0,0,23,3,45,1,0,15.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,19
+BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,23,3,21,1,0,7.0,R Premadasa Stadium,0,0,2009,25
+BAWMendis,Sri Lanka,South Africa,0,0,0,0,0,23,3,36,1,0,12.0,R Premadasa Stadium,0,0,2013,19
+BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,24,4,48,1,0,12.0,Pallekele International Cricket Stadium,0,0,2012,19
+BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,23,3,25,2,0,8.333333333333334,Trent Bridge,0,0,2009,50
+BAWMendis,Sri Lanka,Australia,0,0,0,0,0,23,3,20,3,0,6.666666666666667,Trent Bridge,0,0,2009,75
+BAWMendis,Sri Lanka,England,0,0,0,0,0,24,4,41,0,0,10.25,Pallekele International Cricket Stadium,0,1,2012,4
+BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,17,2,24,0,0,12.0,Lord's,0,0,2009,-6
+BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,23,3,35,1,0,11.666666666666666,Providence Stadium,0,0,2010,19
+BAWMendis,Sri Lanka,England,0,0,0,0,0,23,3,52,0,0,17.333333333333332,Zahur Ahmed Chowdhury Stadium,0,0,2014,-6
+BAWMendis,Sri Lanka,Australia,0,2,0,0,0.0,23,3,20,6,1,6.666666666666667,Pallekele International Cricket Stadium,0,0,2011,166
+BAWMendis,Sri Lanka,Bangladesh,0,0,0,0,0,24,4,21,1,0,5.25,Zahur Ahmed Chowdhury Stadium,0,1,2014,35
+BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Dubai International Cricket Stadium,1,0,2013,35
+BAWMendis,Sri Lanka,West Indies,0,0,0,0,0,24,4,24,3,0,6.0,Kensington Oval Bridgetown,0,0,2010,75
+BAWMendis,Sri Lanka,Ireland,4,1,0,0,400.0,24,4,24,2,0,6.0,Lord's,0,0,2009,54
+BAWMendis,Sri Lanka,West Indies,1,2,0,0,50.0,24,4,12,4,0,3.0,R Premadasa Stadium,0,0,2012,111
+BAWMendis,Sri Lanka,New Zealand,0,0,0,0,0,25,4,19,2,0,4.75,Central Broward Regional Park Stadium Turf Ground,0,0,2010,54
+BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,23,3,23,3,0,7.666666666666667,Maple Leaf North-West Ground,0,0,2008,75
+BAWMendis,Sri Lanka,Australia,0,0,0,0,0,17,2,25,1,0,12.5,Melbourne Cricket Ground,0,0,2013,19
+BAWMendis,Sri Lanka,Pakistan,0,0,0,0,0,18,3,20,1,0,6.666666666666667,Sheikh Zayed Stadium,0,0,2011,25
+BAWMendis,Sri Lanka,New Zealand,0,1,0,0,0.0,23,3,26,1,0,8.666666666666666,R Premadasa Stadium,0,0,2009,17

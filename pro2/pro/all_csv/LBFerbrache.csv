@@ -1,6 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LBFerbrache,Guernsey,Italy,55,45,3,3,122.22222222222223,0,0,0,0,0,0,College Field,72
-LBFerbrache,Guernsey,Denmark,17,23,0,0,73.91304347826086,0,0,0,0,0,0,King George V Sports Ground,17
-LBFerbrache,Guernsey,Germany,4,7,0,0,57.14285714285714,0,0,0,0,0,0,King George V Sports Ground,0
-LBFerbrache,Guernsey,Norway,12,13,1,0,92.3076923076923,0,0,0,0,0,0,King George V Sports Ground,13
-LBFerbrache,Guernsey,Italy,55,45,3,3,122.22222222222223,0,0,0,0,0,0,College Field,72
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LBFerbrache,Guernsey,Germany,4,7,0,0,57.14285714285714,0,0,0,0,0,0,King George V Sports Ground,0,0,2019,0
+LBFerbrache,Guernsey,Italy,55,45,3,3,122.22222222222223,0,0,0,0,0,0,College Field,0,1,2019,80
+LBFerbrache,Guernsey,Denmark,17,23,0,0,73.91304347826086,0,0,0,0,0,0,King George V Sports Ground,0,1,2019,25
+LBFerbrache,Guernsey,Norway,12,13,1,0,92.3076923076923,0,0,0,0,0,0,King George V Sports Ground,0,1,2019,21

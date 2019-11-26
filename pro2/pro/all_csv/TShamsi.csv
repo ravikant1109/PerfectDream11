@@ -1,8 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TShamsi,South Africa,England,0,0,0,0,0,17,2,23,0,0,11.5,The Rose Bowl,-6
-TShamsi,South Africa,England,0,0,0,0,0,17,2,23,0,0,11.5,The Rose Bowl,-6
-TShamsi,South Africa,England,0,0,0,0,0,17,2,23,0,0,11.5,The Rose Bowl,-6
-TShamsi,South Africa,India,0,0,0,0,0,23,3,24,1,0,8.0,M.Chinnaswamy Stadium,25
-TShamsi,South Africa,England,0,0,0,0,0,17,2,24,0,0,12.0,County Ground,-6
-TShamsi,South Africa,India,0,0,0,0,0,18,3,19,1,0,6.333333333333333,Punjab Cricket Association IS Bindra Stadium Mohali,25
-TShamsi,South Africa,England,0,0,0,0,0,17,2,23,0,0,11.5,The Rose Bowl,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TShamsi,South Africa,England,0,0,0,0,0,17,2,23,0,0,11.5,The Rose Bowl,0,0,2017,-6
+TShamsi,South Africa,India,0,0,0,0,0,23,3,24,1,0,8.0,M.Chinnaswamy Stadium,0,0,2019,25
+TShamsi,South Africa,England,0,0,0,0,0,17,2,24,0,0,12.0,County Ground,0,0,2017,-6
+TShamsi,South Africa,India,0,0,0,0,0,18,3,19,1,0,6.333333333333333,Punjab Cricket Association IS Bindra Stadium Mohali,0,1,2019,33

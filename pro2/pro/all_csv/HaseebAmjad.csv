@@ -1,28 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HaseebAmjad,Hong Kong,Afghanistan,0,0,0,0,0,11,1,20,0,0,20.0,Vidarbha Cricket Association Stadium Jamtha,0
-HaseebAmjad,Hong Kong,Bangladesh,12,6,0,1,200.0,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,14
-HaseebAmjad,Hong Kong,Ireland,0,0,0,0,0,25,4,40,2,0,10.0,The Village Malahide,48
-HaseebAmjad,Hong Kong,Afghanistan,0,0,0,0,0,11,1,20,0,0,20.0,Vidarbha Cricket Association Stadium Jamtha,0
-HaseebAmjad,Hong Kong,Bangladesh,12,6,0,1,200.0,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,14
-HaseebAmjad,Hong Kong,Ireland,0,0,0,0,0,25,4,40,2,0,10.0,The Village Malahide,48
-HaseebAmjad,Hong Kong,Afghanistan,0,0,0,0,0,11,1,20,0,0,20.0,Vidarbha Cricket Association Stadium Jamtha,0
-HaseebAmjad,Hong Kong,Bangladesh,12,6,0,1,200.0,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,14
-HaseebAmjad,Hong Kong,Ireland,0,0,0,0,0,25,4,40,2,0,10.0,The Village Malahide,48
-HaseebAmjad,Hong Kong,Afghanistan,0,0,0,0,0,25,4,28,3,1,7.0,The Village Malahide,83
-HaseebAmjad,Hong Kong,Nepal,0,0,0,0,0,23,3,16,4,0,5.333333333333333,Civil Service Cricket Club Stormont,110
-HaseebAmjad,Hong Kong,Nepal,4,9,0,0,44.44444444444444,24,4,26,3,0,6.5,Zahur Ahmed Chowdhury Stadium,73
-HaseebAmjad,Hong Kong,Oman,0,0,0,0,0,27,4,53,3,0,13.25,Sheikh Zayed Stadium,69
-HaseebAmjad,Hong Kong,Oman,4,1,0,0,400.0,23,3,41,1,0,13.666666666666666,Khan Shaheb Osman Ali Stadium,23
-HaseebAmjad,Hong Kong,Scotland,5,7,0,0,71.42857142857143,13,2,15,1,1,7.5,The Village Malahide,38
-HaseebAmjad,Hong Kong,Scotland,8,9,1,0,88.88888888888889,25,4,22,3,0,5.5,Mission Road Ground Mong Kok,86
-HaseebAmjad,Hong Kong,Zimbabwe,0,0,0,0,0,19,3,42,0,0,14.0,Vidarbha Cricket Association Stadium Jamtha,-6
-HaseebAmjad,Hong Kong,United Arab Emirates,0,0,0,0,0,17,2,21,0,0,10.5,Khan Shaheb Osman Ali Stadium,-4
-HaseebAmjad,Hong Kong,Oman,2,2,0,0,100.0,25,4,19,1,0,4.75,Sheikh Zayed Stadium,31
-HaseebAmjad,Hong Kong,Scotland,0,0,0,0,0,12,2,8,1,0,4.0,Mission Road Ground Mong Kok,29
-HaseebAmjad,Hong Kong,Oman,1,2,0,0,50.0,17,2,17,0,0,8.5,Sheikh Zayed Stadium,-3
-HaseebAmjad,Hong Kong,Nepal,2,3,0,0,66.66666666666666,23,3,20,1,1,6.666666666666667,P Sara Oval,33
-HaseebAmjad,Hong Kong,Afghanistan,7,6,1,0,116.66666666666667,24,4,35,1,0,8.75,Zahur Ahmed Chowdhury Stadium,33
-HaseebAmjad,Hong Kong,Afghanistan,0,0,0,0,0,11,1,20,0,0,20.0,Vidarbha Cricket Association Stadium Jamtha,0
-HaseebAmjad,Hong Kong,Bangladesh,12,6,0,1,200.0,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,14
-HaseebAmjad,Hong Kong,Ireland,0,0,0,0,0,25,4,40,2,0,10.0,The Village Malahide,48
-HaseebAmjad,Hong Kong,Afghanistan,0,0,0,0,0,25,4,28,3,1,7.0,The Village Malahide,83
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HaseebAmjad,Hong Kong,Scotland,8,9,1,0,88.88888888888889,25,4,22,3,0,5.5,Mission Road Ground Mong Kok,0,0,2016,86
+HaseebAmjad,Hong Kong,Afghanistan,0,0,0,0,0,25,4,28,3,1,7.0,The Village Malahide,1,0,2015,95
+HaseebAmjad,Hong Kong,Oman,2,2,0,0,100.0,25,4,19,1,0,4.75,Sheikh Zayed Stadium,0,0,2015,31
+HaseebAmjad,Hong Kong,Bangladesh,12,6,0,1,200.0,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,14
+HaseebAmjad,Hong Kong,Zimbabwe,0,0,0,0,0,19,3,42,0,0,14.0,Vidarbha Cricket Association Stadium Jamtha,1,0,2016,6
+HaseebAmjad,Hong Kong,Nepal,4,9,0,0,44.44444444444444,24,4,26,3,0,6.5,Zahur Ahmed Chowdhury Stadium,1,0,2014,85
+HaseebAmjad,Hong Kong,Ireland,0,0,0,0,0,25,4,40,2,0,10.0,The Village Malahide,0,0,2015,48
+HaseebAmjad,Hong Kong,Nepal,2,3,0,0,66.66666666666666,23,3,20,1,1,6.666666666666667,P Sara Oval,0,0,2014,33
+HaseebAmjad,Hong Kong,Oman,0,0,0,0,0,27,4,53,3,0,13.25,Sheikh Zayed Stadium,0,0,2015,69
+HaseebAmjad,Hong Kong,Scotland,5,7,0,0,71.42857142857143,13,2,15,1,1,7.5,The Village Malahide,0,0,2015,38
+HaseebAmjad,Hong Kong,United Arab Emirates,0,0,0,0,0,17,2,21,0,0,10.5,Khan Shaheb Osman Ali Stadium,0,0,2016,-4
+HaseebAmjad,Hong Kong,Oman,4,1,0,0,400.0,23,3,41,1,0,13.666666666666666,Khan Shaheb Osman Ali Stadium,0,0,2016,23
+HaseebAmjad,Hong Kong,Scotland,0,0,0,0,0,12,2,8,1,0,4.0,Mission Road Ground Mong Kok,0,0,2016,29
+HaseebAmjad,Hong Kong,Oman,1,2,0,0,50.0,17,2,17,0,0,8.5,Sheikh Zayed Stadium,0,0,2015,-3
+HaseebAmjad,Hong Kong,Afghanistan,7,6,1,0,116.66666666666667,24,4,35,1,0,8.75,Zahur Ahmed Chowdhury Stadium,0,0,2014,33
+HaseebAmjad,Hong Kong,Nepal,0,0,0,0,0,23,3,16,4,0,5.333333333333333,Civil Service Cricket Club Stormont,1,1,2015,130
+HaseebAmjad,Hong Kong,Afghanistan,0,0,0,0,0,11,1,20,0,0,20.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,0

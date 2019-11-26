@@ -1,32 +1,14 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PVDChameera,Sri Lanka,Pakistan,0,0,0,0,0,24,4,36,0,0,9.0,Shere Bangla National Stadium,0
-PVDChameera,Sri Lanka,United Arab Emirates,1,1,0,0,100.0,22,3,23,0,0,7.666666666666667,Shere Bangla National Stadium,1
-PVDChameera,Sri Lanka,New Zealand,0,0,0,0,0,18,3,46,0,0,15.333333333333334,Eden Park,-6
-PVDChameera,Sri Lanka,India,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Maharashtra Cricket Association Stadium,52
-PVDChameera,Sri Lanka,West Indies,0,0,0,0,0,19,3,30,1,0,10.0,Pallekele International Cricket Stadium,23
-PVDChameera,Sri Lanka,India,2,2,0,0,100.0,24,4,27,0,0,6.75,Shere Bangla National Stadium,2
-PVDChameera,Sri Lanka,Pakistan,0,0,0,0,0,24,4,36,0,0,9.0,Shere Bangla National Stadium,0
-PVDChameera,Sri Lanka,United Arab Emirates,1,1,0,0,100.0,22,3,23,0,0,7.666666666666667,Shere Bangla National Stadium,1
-PVDChameera,Sri Lanka,New Zealand,0,0,0,0,0,18,3,46,0,0,15.333333333333334,Eden Park,-6
-PVDChameera,Sri Lanka,India,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Maharashtra Cricket Association Stadium,52
-PVDChameera,Sri Lanka,West Indies,0,0,0,0,0,19,3,30,1,0,10.0,Pallekele International Cricket Stadium,23
-PVDChameera,Sri Lanka,India,2,2,0,0,100.0,24,4,27,0,0,6.75,Shere Bangla National Stadium,2
-PVDChameera,Sri Lanka,Pakistan,0,0,0,0,0,24,4,36,0,0,9.0,Shere Bangla National Stadium,0
-PVDChameera,Sri Lanka,United Arab Emirates,1,1,0,0,100.0,22,3,23,0,0,7.666666666666667,Shere Bangla National Stadium,1
-PVDChameera,Sri Lanka,New Zealand,0,0,0,0,0,18,3,46,0,0,15.333333333333334,Eden Park,-6
-PVDChameera,Sri Lanka,India,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Maharashtra Cricket Association Stadium,52
-PVDChameera,Sri Lanka,West Indies,0,0,0,0,0,19,3,30,1,0,10.0,Pallekele International Cricket Stadium,23
-PVDChameera,Sri Lanka,India,2,2,0,0,100.0,24,4,27,0,0,6.75,Shere Bangla National Stadium,2
-PVDChameera,Sri Lanka,Afghanistan,0,0,0,0,0,25,4,20,0,0,5.0,Eden Gardens,2
-PVDChameera,Sri Lanka,West Indies,0,0,0,0,0,19,3,15,0,0,5.0,M Chinnaswamy Stadium,2
-PVDChameera,Sri Lanka,India,0,3,0,0,0.0,25,4,38,2,0,9.5,JSCA International Stadium Complex,40
-PVDChameera,Sri Lanka,India,9,9,1,0,100.0,11,1,16,1,0,16.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,35
-PVDChameera,Sri Lanka,West Indies,3,4,0,0,75.0,19,3,40,1,0,13.333333333333334,R Premadasa Stadium,22
-PVDChameera,Sri Lanka,England,0,0,0,0,0,25,4,37,0,0,9.25,Feroz Shah Kotla,-2
-PVDChameera,Sri Lanka,Bangladesh,1,1,0,0,100.0,26,4,31,3,0,7.75,Shere Bangla National Stadium,76
-PVDChameera,Sri Lanka,Pakistan,0,0,0,0,0,24,4,36,0,0,9.0,Shere Bangla National Stadium,0
-PVDChameera,Sri Lanka,United Arab Emirates,1,1,0,0,100.0,22,3,23,0,0,7.666666666666667,Shere Bangla National Stadium,1
-PVDChameera,Sri Lanka,New Zealand,0,0,0,0,0,18,3,46,0,0,15.333333333333334,Eden Park,-6
-PVDChameera,Sri Lanka,India,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Maharashtra Cricket Association Stadium,52
-PVDChameera,Sri Lanka,West Indies,0,0,0,0,0,19,3,30,1,0,10.0,Pallekele International Cricket Stadium,23
-PVDChameera,Sri Lanka,India,2,2,0,0,100.0,24,4,27,0,0,6.75,Shere Bangla National Stadium,2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PVDChameera,Sri Lanka,United Arab Emirates,1,1,0,0,100.0,22,3,23,0,0,7.666666666666667,Shere Bangla National Stadium,0,0,2016,1
+PVDChameera,Sri Lanka,India,2,2,0,0,100.0,24,4,27,0,0,6.75,Shere Bangla National Stadium,0,0,2016,2
+PVDChameera,Sri Lanka,Pakistan,0,0,0,0,0,24,4,36,0,0,9.0,Shere Bangla National Stadium,0,0,2016,0
+PVDChameera,Sri Lanka,England,0,0,0,0,0,25,4,37,0,0,9.25,Feroz Shah Kotla,0,0,2016,-2
+PVDChameera,Sri Lanka,India,0,3,0,0,0.0,25,4,38,2,0,9.5,JSCA International Stadium Complex,0,1,2016,48
+PVDChameera,Sri Lanka,Afghanistan,0,0,0,0,0,25,4,20,0,0,5.0,Eden Gardens,0,1,2016,10
+PVDChameera,Sri Lanka,West Indies,3,4,0,0,75.0,19,3,40,1,0,13.333333333333334,R Premadasa Stadium,0,0,2015,22
+PVDChameera,Sri Lanka,West Indies,0,0,0,0,0,19,3,30,1,0,10.0,Pallekele International Cricket Stadium,0,0,2015,23
+PVDChameera,Sri Lanka,Bangladesh,1,1,0,0,100.0,26,4,31,3,0,7.75,Shere Bangla National Stadium,0,0,2016,76
+PVDChameera,Sri Lanka,India,9,9,1,0,100.0,11,1,16,1,0,16.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,35
+PVDChameera,Sri Lanka,West Indies,0,0,0,0,0,19,3,15,0,0,5.0,M Chinnaswamy Stadium,0,0,2016,2
+PVDChameera,Sri Lanka,New Zealand,0,0,0,0,0,18,3,46,0,0,15.333333333333334,Eden Park,0,0,2016,-6
+PVDChameera,Sri Lanka,India,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Maharashtra Cricket Association Stadium,0,1,2016,60

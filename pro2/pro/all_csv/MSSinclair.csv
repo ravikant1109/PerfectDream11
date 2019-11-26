@@ -1,7 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MSSinclair,New Zealand,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-MSSinclair,New Zealand,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-MSSinclair,New Zealand,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-MSSinclair,New Zealand,Australia,0,4,0,0,0.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,-8
-MSSinclair,New Zealand,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-MSSinclair,New Zealand,Australia,0,4,0,0,0.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MSSinclair,New Zealand,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Eden Park,0,0,2005,-8
+MSSinclair,New Zealand,Australia,0,4,0,0,0.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2007,-8

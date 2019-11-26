@@ -1,6 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,81
-GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,81
-GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,81
-GHWorker,New Zealand,South Africa,28,26,3,1,107.6923076923077,12,2,19,1,0,9.5,Kingsmead,56
-GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,81
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,0,0,2015,81
+GHWorker,New Zealand,South Africa,28,26,3,1,107.6923076923077,12,2,19,1,0,9.5,Kingsmead,0,1,2015,64

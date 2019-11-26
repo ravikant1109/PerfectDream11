@@ -1,5 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TEKane,Ireland,Papua New Guinea,2,3,0,0,66.66666666666666,17,2,20,3,0,10.0,Civil Service Cricket Club Stormont,73
-TEKane,Ireland,Scotland,26,17,3,0,152.94117647058823,19,3,29,1,0,9.666666666666666,Bready Cricket Club Magheramason,52
-TEKane,Ireland,Zimbabwe,0,0,0,0,0,12,2,18,0,0,9.0,Bready Cricket Club Magheramason,0
-TEKane,Ireland,Papua New Guinea,2,3,0,0,66.66666666666666,17,2,20,3,0,10.0,Civil Service Cricket Club Stormont,73
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TEKane,Ireland,Scotland,26,17,3,0,152.94117647058823,19,3,29,1,0,9.666666666666666,Bready Cricket Club Magheramason,0,0,2015,52
+TEKane,Ireland,Zimbabwe,0,0,0,0,0,12,2,18,0,0,9.0,Bready Cricket Club Magheramason,0,1,2019,8
+TEKane,Ireland,Papua New Guinea,2,3,0,0,66.66666666666666,17,2,20,3,0,10.0,Civil Service Cricket Club Stormont,0,0,2015,73

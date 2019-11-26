@@ -1,9 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SurajKumar,Oman,Ireland,6,4,0,0,150.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-SurajKumar,Oman,Ireland,6,4,0,0,150.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-SurajKumar,Oman,Ireland,6,4,0,0,150.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-SurajKumar,Oman,Jersey,4,10,0,0,40.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-2
-SurajKumar,Oman,Ireland,16,14,2,0,114.28571428571428,0,0,0,0,0,0,Tolerance Oval,18
-SurajKumar,Oman,Netherlands,8,9,1,0,88.88888888888889,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),9
-SurajKumar,Oman,Nepal,42,30,2,3,140.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),50
-SurajKumar,Oman,Ireland,6,4,0,0,150.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SurajKumar,Oman,Ireland,6,4,0,0,150.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,14
+SurajKumar,Oman,Ireland,16,14,2,0,114.28571428571428,0,0,0,0,0,0,Tolerance Oval,0,0,2019,18
+SurajKumar,Oman,Netherlands,8,9,1,0,88.88888888888889,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,17
+SurajKumar,Oman,Jersey,4,10,0,0,40.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,-2
+SurajKumar,Oman,Nepal,42,30,2,3,140.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,2,2019,66

@@ -1,12 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HSBaidwan,Canada,Kenya,0,0,0,0,0,6,1,13,0,0,13.0,Dubai International Cricket Stadium,0
-HSBaidwan,Canada,Kenya,0,0,0,0,0,6,1,13,0,0,13.0,Dubai International Cricket Stadium,0
-HSBaidwan,Canada,Kenya,0,0,0,0,0,6,1,13,0,0,13.0,Dubai International Cricket Stadium,0
-HSBaidwan,Canada,Kenya,0,2,0,0,0.0,17,2,22,1,0,11.0,Sharjah Cricket Stadium,13
-HSBaidwan,Canada,Netherlands,21,14,2,0,150.0,23,3,29,3,0,9.666666666666666,Dubai International Cricket Stadium,96
-HSBaidwan,Canada,Ireland,0,0,0,0,0,19,3,33,2,0,11.0,Sheikh Zayed Stadium,46
-HSBaidwan,Canada,Ireland,6,9,0,0,66.66666666666666,12,2,16,0,0,8.0,Dubai International Cricket Stadium,4
-HSBaidwan,Canada,Afghanistan,0,1,0,0,0.0,23,3,49,2,0,16.333333333333332,ICC Global Cricket Academy,36
-HSBaidwan,Canada,Scotland,21,16,2,1,131.25,23,3,22,0,0,7.333333333333333,Dubai International Cricket Stadium,25
-HSBaidwan,Canada,Netherlands,4,2,0,0,200.0,26,4,27,1,0,6.75,Dubai International Cricket Stadium,29
-HSBaidwan,Canada,Kenya,0,0,0,0,0,6,1,13,0,0,13.0,Dubai International Cricket Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HSBaidwan,Canada,Netherlands,21,14,2,0,150.0,23,3,29,3,0,9.666666666666666,Dubai International Cricket Stadium,0,1,2012,104
+HSBaidwan,Canada,Afghanistan,0,1,0,0,0.0,23,3,49,2,0,16.333333333333332,ICC Global Cricket Academy,0,0,2012,36
+HSBaidwan,Canada,Netherlands,4,2,0,0,200.0,26,4,27,1,0,6.75,Dubai International Cricket Stadium,0,0,2010,29
+HSBaidwan,Canada,Ireland,6,9,0,0,66.66666666666666,12,2,16,0,0,8.0,Dubai International Cricket Stadium,0,0,2012,4
+HSBaidwan,Canada,Kenya,0,2,0,0,0.0,17,2,22,1,0,11.0,Sharjah Cricket Stadium,0,0,2013,13
+HSBaidwan,Canada,Scotland,21,16,2,1,131.25,23,3,22,0,0,7.333333333333333,Dubai International Cricket Stadium,0,1,2012,33
+HSBaidwan,Canada,Kenya,0,0,0,0,0,6,1,13,0,0,13.0,Dubai International Cricket Stadium,0,0,2010,0
+HSBaidwan,Canada,Ireland,0,0,0,0,0,19,3,33,2,0,11.0,Sheikh Zayed Stadium,0,0,2013,46

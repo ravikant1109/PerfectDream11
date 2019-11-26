@@ -1,40 +1,22 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TAMSiriwardana,Sri Lanka,Pakistan,4,4,0,0,100.0,11,1,20,1,0,20.0,Shere Bangla National Stadium,29
-TAMSiriwardana,Sri Lanka,United Arab Emirates,6,7,0,0,85.71428571428571,5,0,8,0,0,0,Shere Bangla National Stadium,6
-TAMSiriwardana,Sri Lanka,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-TAMSiriwardana,Sri Lanka,India,21,14,2,1,150.0,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,25
-TAMSiriwardana,Sri Lanka,West Indies,0,0,0,0,0,24,4,42,2,0,10.5,Pallekele International Cricket Stadium,46
-TAMSiriwardana,Sri Lanka,India,22,17,1,1,129.41176470588235,5,0,13,0,0,0,Shere Bangla National Stadium,25
-TAMSiriwardana,Sri Lanka,Pakistan,4,4,0,0,100.0,11,1,20,1,0,20.0,Shere Bangla National Stadium,29
-TAMSiriwardana,Sri Lanka,United Arab Emirates,6,7,0,0,85.71428571428571,5,0,8,0,0,0,Shere Bangla National Stadium,6
-TAMSiriwardana,Sri Lanka,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-TAMSiriwardana,Sri Lanka,India,21,14,2,1,150.0,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,25
-TAMSiriwardana,Sri Lanka,West Indies,0,0,0,0,0,24,4,42,2,0,10.5,Pallekele International Cricket Stadium,46
-TAMSiriwardana,Sri Lanka,India,22,17,1,1,129.41176470588235,5,0,13,0,0,0,Shere Bangla National Stadium,25
-TAMSiriwardana,Sri Lanka,Pakistan,4,4,0,0,100.0,11,1,20,1,0,20.0,Shere Bangla National Stadium,29
-TAMSiriwardana,Sri Lanka,United Arab Emirates,6,7,0,0,85.71428571428571,5,0,8,0,0,0,Shere Bangla National Stadium,6
-TAMSiriwardana,Sri Lanka,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-TAMSiriwardana,Sri Lanka,India,21,14,2,1,150.0,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,25
-TAMSiriwardana,Sri Lanka,West Indies,0,0,0,0,0,24,4,42,2,0,10.5,Pallekele International Cricket Stadium,46
-TAMSiriwardana,Sri Lanka,India,22,17,1,1,129.41176470588235,5,0,13,0,0,0,Shere Bangla National Stadium,25
-TAMSiriwardana,Sri Lanka,Afghanistan,0,0,0,0,0,5,0,16,0,0,0,Eden Gardens,0
-TAMSiriwardana,Sri Lanka,South Africa,15,10,2,0,150.0,5,0,5,0,0,0,Feroz Shah Kotla,17
-TAMSiriwardana,Sri Lanka,Pakistan,35,18,3,2,194.44444444444443,0,0,0,0,0,0,R Premadasa Stadium,42
-TAMSiriwardana,Sri Lanka,Australia,15,11,1,0,136.36363636363635,0,0,0,0,0,0,Melbourne Cricket Ground,16
-TAMSiriwardana,Sri Lanka,Australia,35,28,1,2,125.0,5,0,12,0,0,0,Adelaide Oval,40
-TAMSiriwardana,Sri Lanka,Pakistan,23,21,1,1,109.52380952380953,11,1,17,1,0,17.0,R Premadasa Stadium,51
-TAMSiriwardana,Sri Lanka,West Indies,0,3,0,0,0.0,23,3,33,2,0,11.0,M Chinnaswamy Stadium,38
-TAMSiriwardana,Sri Lanka,India,28,21,1,1,133.33333333333331,5,0,7,0,0,0,JSCA International Stadium Complex,31
-TAMSiriwardana,Sri Lanka,New Zealand,42,33,2,2,127.27272727272727,0,0,0,0,0,0,Bay Oval,48
-TAMSiriwardana,Sri Lanka,India,4,3,0,0,133.33333333333331,5,0,9,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,4
-TAMSiriwardana,Sri Lanka,Bangladesh,0,1,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-TAMSiriwardana,Sri Lanka,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Simonds Stadium South Geelong,-8
-TAMSiriwardana,Sri Lanka,West Indies,15,11,1,1,136.36363636363635,19,3,17,2,0,5.666666666666667,R Premadasa Stadium,70
-TAMSiriwardana,Sri Lanka,England,7,8,0,1,87.5,5,0,9,0,0,0,Feroz Shah Kotla,9
-TAMSiriwardana,Sri Lanka,Bangladesh,3,4,0,0,75.0,0,0,0,0,0,0,Shere Bangla National Stadium,3
-TAMSiriwardana,Sri Lanka,Pakistan,4,4,0,0,100.0,11,1,20,1,0,20.0,Shere Bangla National Stadium,29
-TAMSiriwardana,Sri Lanka,United Arab Emirates,6,7,0,0,85.71428571428571,5,0,8,0,0,0,Shere Bangla National Stadium,6
-TAMSiriwardana,Sri Lanka,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Eden Park,-8
-TAMSiriwardana,Sri Lanka,India,21,14,2,1,150.0,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,25
-TAMSiriwardana,Sri Lanka,West Indies,0,0,0,0,0,24,4,42,2,0,10.5,Pallekele International Cricket Stadium,46
-TAMSiriwardana,Sri Lanka,India,22,17,1,1,129.41176470588235,5,0,13,0,0,0,Shere Bangla National Stadium,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TAMSiriwardana,Sri Lanka,United Arab Emirates,6,7,0,0,85.71428571428571,5,0,8,0,0,0,Shere Bangla National Stadium,0,0,2016,6
+TAMSiriwardana,Sri Lanka,India,22,17,1,1,129.41176470588235,5,0,13,0,0,0,Shere Bangla National Stadium,0,0,2016,25
+TAMSiriwardana,Sri Lanka,South Africa,15,10,2,0,150.0,5,0,5,0,0,0,Feroz Shah Kotla,0,0,2016,17
+TAMSiriwardana,Sri Lanka,Australia,35,28,1,2,125.0,5,0,12,0,0,0,Adelaide Oval,0,1,2017,48
+TAMSiriwardana,Sri Lanka,Pakistan,4,4,0,0,100.0,11,1,20,1,0,20.0,Shere Bangla National Stadium,0,0,2016,29
+TAMSiriwardana,Sri Lanka,England,7,8,0,1,87.5,5,0,9,0,0,0,Feroz Shah Kotla,0,0,2016,9
+TAMSiriwardana,Sri Lanka,India,28,21,1,1,133.33333333333331,5,0,7,0,0,0,JSCA International Stadium Complex,0,0,2016,31
+TAMSiriwardana,Sri Lanka,Afghanistan,0,0,0,0,0,5,0,16,0,0,0,Eden Gardens,0,0,2016,0
+TAMSiriwardana,Sri Lanka,West Indies,15,11,1,1,136.36363636363635,19,3,17,2,0,5.666666666666667,R Premadasa Stadium,0,0,2015,70
+TAMSiriwardana,Sri Lanka,Australia,15,11,1,0,136.36363636363635,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2017,16
+TAMSiriwardana,Sri Lanka,Bangladesh,0,1,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2017,-8
+TAMSiriwardana,Sri Lanka,Pakistan,35,18,3,2,194.44444444444443,0,0,0,0,0,0,R Premadasa Stadium,0,0,2015,42
+TAMSiriwardana,Sri Lanka,West Indies,0,0,0,0,0,24,4,42,2,0,10.5,Pallekele International Cricket Stadium,0,2,2015,62
+TAMSiriwardana,Sri Lanka,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Simonds Stadium South Geelong,0,1,2017,0
+TAMSiriwardana,Sri Lanka,Bangladesh,3,4,0,0,75.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,3
+TAMSiriwardana,Sri Lanka,Pakistan,23,21,1,1,109.52380952380953,11,1,17,1,0,17.0,R Premadasa Stadium,0,0,2015,51
+TAMSiriwardana,Sri Lanka,India,4,3,0,0,133.33333333333331,5,0,9,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,4
+TAMSiriwardana,Sri Lanka,West Indies,0,3,0,0,0.0,23,3,33,2,0,11.0,M Chinnaswamy Stadium,0,0,2016,38
+TAMSiriwardana,Sri Lanka,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Eden Park,0,0,2016,-8
+TAMSiriwardana,Sri Lanka,New Zealand,42,33,2,2,127.27272727272727,0,0,0,0,0,0,Bay Oval,0,1,2016,56
+TAMSiriwardana,Sri Lanka,India,21,14,2,1,150.0,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,0,1,2016,33

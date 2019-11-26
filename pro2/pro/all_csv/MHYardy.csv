@@ -1,21 +1,14 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MHYardy,England,Pakistan,24,14,2,1,171.42857142857142,18,3,21,1,0,7.0,County Ground,53
-MHYardy,England,Sri Lanka,0,0,0,0,0,23,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0
-MHYardy,England,Pakistan,24,14,2,1,171.42857142857142,18,3,21,1,0,7.0,County Ground,53
-MHYardy,England,Sri Lanka,0,0,0,0,0,23,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0
-MHYardy,England,Pakistan,24,14,2,1,171.42857142857142,18,3,21,1,0,7.0,County Ground,53
-MHYardy,England,Sri Lanka,0,0,0,0,0,23,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0
-MHYardy,England,West Indies,23,18,2,0,127.77777777777777,26,4,36,1,0,9.0,Kennington Oval,50
-MHYardy,England,Pakistan,0,0,0,0,0,23,3,19,2,0,6.333333333333333,Kensington Oval Bridgetown,50
-MHYardy,England,New Zealand,0,2,0,0,0.0,23,3,25,0,0,8.333333333333334,Beausejour Stadium Gros Islet,-8
-MHYardy,England,Pakistan,6,6,1,0,100.0,23,3,10,0,0,3.3333333333333335,Sophia Gardens,13
-MHYardy,England,West Indies,0,0,0,0,0,17,2,30,0,0,15.0,Kennington Oval,-6
-MHYardy,England,South Africa,8,5,1,0,160.0,26,4,31,2,0,7.75,Kensington Oval Bridgetown,59
-MHYardy,England,Australia,0,0,0,0,0,17,2,34,0,0,17.0,Kensington Oval Bridgetown,-6
-MHYardy,England,Australia,0,1,0,0,0.0,23,3,28,2,0,9.333333333333334,Adelaide Oval,40
-MHYardy,England,West Indies,0,0,0,0,0,5,0,6,0,0,0,Providence Stadium,0
-MHYardy,England,Australia,0,0,0,0,0,23,3,19,2,0,6.333333333333333,Melbourne Cricket Ground,50
-MHYardy,England,Pakistan,35,26,4,0,134.6153846153846,23,3,21,1,0,7.0,Sophia Gardens,64
-MHYardy,England,Pakistan,24,14,2,1,171.42857142857142,18,3,21,1,0,7.0,County Ground,53
-MHYardy,England,Sri Lanka,0,0,0,0,0,23,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0
-MHYardy,England,West Indies,23,18,2,0,127.77777777777777,26,4,36,1,0,9.0,Kennington Oval,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MHYardy,England,Australia,0,1,0,0,0.0,23,3,28,2,0,9.333333333333334,Adelaide Oval,0,0,2011,40
+MHYardy,England,Pakistan,0,0,0,0,0,23,3,19,2,0,6.333333333333333,Kensington Oval Bridgetown,0,1,2010,58
+MHYardy,England,Sri Lanka,0,0,0,0,0,23,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0,0,2010,0
+MHYardy,England,Pakistan,35,26,4,0,134.6153846153846,23,3,21,1,0,7.0,Sophia Gardens,0,1,2010,72
+MHYardy,England,Australia,0,0,0,0,0,23,3,19,2,0,6.333333333333333,Melbourne Cricket Ground,0,0,2011,50
+MHYardy,England,South Africa,8,5,1,0,160.0,26,4,31,2,0,7.75,Kensington Oval Bridgetown,0,1,2010,67
+MHYardy,England,West Indies,0,0,0,0,0,5,0,6,0,0,0,Providence Stadium,0,1,2010,8
+MHYardy,England,Pakistan,24,14,2,1,171.42857142857142,18,3,21,1,0,7.0,County Ground,0,1,2006,61
+MHYardy,England,New Zealand,0,2,0,0,0.0,23,3,25,0,0,8.333333333333334,Beausejour Stadium Gros Islet,0,0,2010,-8
+MHYardy,England,Australia,0,0,0,0,0,17,2,34,0,0,17.0,Kensington Oval Bridgetown,0,0,2010,-6
+MHYardy,England,West Indies,23,18,2,0,127.77777777777777,26,4,36,1,0,9.0,Kennington Oval,0,1,2007,58
+MHYardy,England,West Indies,0,0,0,0,0,17,2,30,0,0,15.0,Kennington Oval,0,0,2007,-6
+MHYardy,England,Pakistan,6,6,1,0,100.0,23,3,10,0,0,3.3333333333333335,Sophia Gardens,0,1,2010,21

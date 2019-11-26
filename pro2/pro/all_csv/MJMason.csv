@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MJMason,New Zealand,England,2,2,0,0,100.0,17,2,18,1,0,9.0,Old Trafford,27
-MJMason,New Zealand,Sri Lanka,0,0,0,0,0,20,3,20,1,0,6.666666666666667,Eden Park,25
-MJMason,New Zealand,South Africa,0,0,0,0,0,18,3,28,0,0,9.333333333333334,New Wanderers Stadium,-2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MJMason,New Zealand,England,2,2,0,0,100.0,17,2,18,1,0,9.0,Old Trafford,0,0,2008,27
+MJMason,New Zealand,Sri Lanka,0,0,0,0,0,20,3,20,1,0,6.666666666666667,Eden Park,0,0,2006,25
+MJMason,New Zealand,South Africa,0,0,0,0,0,18,3,28,0,0,9.333333333333334,New Wanderers Stadium,0,0,2007,-2

@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BAPai,Gibraltar,Spain,14,21,1,0,66.66666666666666,19,3,13,1,0,4.333333333333333,La Manga Club Bottom Ground,42
-BAPai,Gibraltar,Portugal,52,53,1,1,98.11320754716981,24,4,18,2,0,4.5,La Manga Club Bottom Ground,117
-BAPai,Gibraltar,Spain,23,25,1,0,92.0,23,3,37,0,0,12.333333333333334,La Manga Club Bottom Ground,18
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BAPai,Gibraltar,Portugal,52,53,1,1,98.11320754716981,24,4,18,2,0,4.5,La Manga Club Bottom Ground,0,0,2019,117
+BAPai,Gibraltar,Spain,14,21,1,0,66.66666666666666,19,3,13,1,0,4.333333333333333,La Manga Club Bottom Ground,0,0,2019,42
+BAPai,Gibraltar,Spain,23,25,1,0,92.0,23,3,37,0,0,12.333333333333334,La Manga Club Bottom Ground,0,0,2019,18

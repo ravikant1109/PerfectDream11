@@ -1,13 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MVijay,India,Afghanistan,48,46,1,3,104.34782608695652,0,0,0,0,0,0,Beausejour Stadium Gros Islet,55
-MVijay,India,Afghanistan,48,46,1,3,104.34782608695652,0,0,0,0,0,0,Beausejour Stadium Gros Islet,55
-MVijay,India,Afghanistan,48,46,1,3,104.34782608695652,0,0,0,0,0,0,Beausejour Stadium Gros Islet,55
-MVijay,India,West Indies,7,17,0,0,41.17647058823529,0,0,0,0,0,0,Kensington Oval Bridgetown,1
-MVijay,India,Australia,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kensington Oval Bridgetown,-4
-MVijay,India,Zimbabwe,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Harare Sports Club,6
-MVijay,India,South Africa,14,13,3,0,107.6923076923077,0,0,0,0,0,0,Moses Mabhida Stadium,17
-MVijay,India,Zimbabwe,46,43,2,3,106.9767441860465,0,0,0,0,0,0,Harare Sports Club,54
-MVijay,India,Zimbabwe,34,21,5,1,161.9047619047619,0,0,0,0,0,0,Harare Sports Club,41
-MVijay,India,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,-8
-MVijay,India,Zimbabwe,13,11,0,1,118.18181818181819,11,1,10,0,0,10.0,Harare Sports Club,15
-MVijay,India,Afghanistan,48,46,1,3,104.34782608695652,0,0,0,0,0,0,Beausejour Stadium Gros Islet,55
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MVijay,India,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,-8
+MVijay,India,Zimbabwe,34,21,5,1,161.9047619047619,0,0,0,0,0,0,Harare Sports Club,0,0,2015,41
+MVijay,India,Australia,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2010,4
+MVijay,India,West Indies,7,17,0,0,41.17647058823529,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2010,9
+MVijay,India,Afghanistan,48,46,1,3,104.34782608695652,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,55
+MVijay,India,South Africa,14,13,3,0,107.6923076923077,0,0,0,0,0,0,Moses Mabhida Stadium,0,0,2011,17
+MVijay,India,Zimbabwe,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Harare Sports Club,0,1,2010,14
+MVijay,India,Zimbabwe,13,11,0,1,118.18181818181819,11,1,10,0,0,10.0,Harare Sports Club,0,0,2015,15
+MVijay,India,Zimbabwe,46,43,2,3,106.9767441860465,0,0,0,0,0,0,Harare Sports Club,0,0,2010,54

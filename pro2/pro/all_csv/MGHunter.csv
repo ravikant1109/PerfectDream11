@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MGHunter,Gibraltar,Spain,27,37,1,1,72.97297297297297,12,2,8,1,0,4.0,La Manga Club Bottom Ground,59
-MGHunter,Gibraltar,Portugal,1,8,0,0,12.5,25,4,22,2,0,5.5,La Manga Club Bottom Ground,47
-MGHunter,Gibraltar,Spain,0,0,0,0,0,11,1,17,0,0,17.0,La Manga Club Bottom Ground,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MGHunter,Gibraltar,Portugal,1,8,0,0,12.5,25,4,22,2,0,5.5,La Manga Club Bottom Ground,0,0,2019,47
+MGHunter,Gibraltar,Spain,27,37,1,1,72.97297297297297,12,2,8,1,0,4.0,La Manga Club Bottom Ground,0,0,2019,59
+MGHunter,Gibraltar,Spain,0,0,0,0,0,11,1,17,0,0,17.0,La Manga Club Bottom Ground,0,0,2019,0

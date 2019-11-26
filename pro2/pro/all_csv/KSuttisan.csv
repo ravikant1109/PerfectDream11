@@ -1,4 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KSuttisan,Thailand,Malaysia,0,3,0,0,0.0,0,0,0,0,0,0,Kinrara Academy Oval,-8
-KSuttisan,Thailand,Malaysia,4,2,0,0,200.0,0,0,0,0,0,0,Kinrara Academy Oval,4
-KSuttisan,Thailand,Malaysia,0,3,0,0,0.0,0,0,0,0,0,0,Kinrara Academy Oval,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KSuttisan,Thailand,Malaysia,0,3,0,0,0.0,0,0,0,0,0,0,Kinrara Academy Oval,0,2,2019,8
+KSuttisan,Thailand,Malaysia,4,2,0,0,200.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,4

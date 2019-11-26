@@ -1,11 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MdeLange,South Africa,India,0,0,0,0,0,26,4,47,0,0,11.75,Himachal Pradesh Cricket Association Stadium,-6
-MdeLange,South Africa,India,0,0,0,0,0,26,4,47,0,0,11.75,Himachal Pradesh Cricket Association Stadium,-6
-MdeLange,South Africa,India,0,0,0,0,0,26,4,47,0,0,11.75,Himachal Pradesh Cricket Association Stadium,-6
-MdeLange,South Africa,New Zealand,0,0,0,0,0,26,4,36,2,0,9.0,Eden Park,50
-MdeLange,South Africa,Australia,0,0,0,0,0,24,4,34,1,0,8.5,Stadium Australia,25
-MdeLange,South Africa,West Indies,0,0,0,0,0,25,4,27,2,0,6.75,Kingsmead,50
-MdeLange,South Africa,New Zealand,0,0,0,0,0,27,4,45,1,0,11.25,Seddon Park,19
-MdeLange,South Africa,West Indies,0,0,0,0,0,21,3,42,1,0,14.0,New Wanderers Stadium,19
-MdeLange,South Africa,India,0,0,0,0,0,26,4,47,0,0,11.75,Himachal Pradesh Cricket Association Stadium,-6
-MdeLange,South Africa,New Zealand,0,0,0,0,0,26,4,36,2,0,9.0,Eden Park,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MdeLange,South Africa,West Indies,0,0,0,0,0,25,4,27,2,0,6.75,Kingsmead,0,0,2015,50
+MdeLange,South Africa,Australia,0,0,0,0,0,24,4,34,1,0,8.5,Stadium Australia,0,1,2014,33
+MdeLange,South Africa,New Zealand,0,0,0,0,0,27,4,45,1,0,11.25,Seddon Park,0,0,2012,19
+MdeLange,South Africa,West Indies,0,0,0,0,0,21,3,42,1,0,14.0,New Wanderers Stadium,0,0,2015,19
+MdeLange,South Africa,New Zealand,0,0,0,0,0,26,4,36,2,0,9.0,Eden Park,0,0,2012,50
+MdeLange,South Africa,India,0,0,0,0,0,26,4,47,0,0,11.75,Himachal Pradesh Cricket Association Stadium,1,0,2015,6

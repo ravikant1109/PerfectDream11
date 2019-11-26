@@ -1,9 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RPMagar,Nepal,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,VRA Ground,-8
-RPMagar,Nepal,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,VRA Ground,-8
-RPMagar,Nepal,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,VRA Ground,-8
-RPMagar,Nepal,Hong Kong,25,37,0,2,67.56756756756756,0,0,0,0,0,0,Civil Service Cricket Club Stormont,27
-RPMagar,Nepal,Ireland,6,15,0,0,40.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0
-RPMagar,Nepal,Hong Kong,1,8,0,0,12.5,0,0,0,0,0,0,P Sara Oval,-5
-RPMagar,Nepal,Papua New Guinea,7,19,0,0,36.84210526315789,0,0,0,0,0,0,The Village Malahide,1
-RPMagar,Nepal,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,VRA Ground,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RPMagar,Nepal,Papua New Guinea,7,19,0,0,36.84210526315789,0,0,0,0,0,0,The Village Malahide,0,0,2015,1
+RPMagar,Nepal,Ireland,6,15,0,0,40.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2015,0
+RPMagar,Nepal,Hong Kong,1,8,0,0,12.5,0,0,0,0,0,0,P Sara Oval,0,0,2014,-5
+RPMagar,Nepal,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,VRA Ground,0,0,2015,-8
+RPMagar,Nepal,Hong Kong,25,37,0,2,67.56756756756756,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2015,27

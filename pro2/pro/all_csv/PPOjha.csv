@@ -1,16 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PPOjha,India,Ireland,0,0,0,0,0,23,3,20,2,0,6.666666666666667,Trent Bridge,50
-PPOjha,India,Bangladesh,0,0,0,0,0,23,3,21,4,0,7.0,Trent Bridge,108
-PPOjha,India,West Indies,0,0,0,0,0,17,2,29,1,0,14.5,Lord's,19
-PPOjha,India,Ireland,0,0,0,0,0,23,3,20,2,0,6.666666666666667,Trent Bridge,50
-PPOjha,India,Bangladesh,0,0,0,0,0,23,3,21,4,0,7.0,Trent Bridge,108
-PPOjha,India,West Indies,0,0,0,0,0,17,2,29,1,0,14.5,Lord's,19
-PPOjha,India,Ireland,0,0,0,0,0,23,3,20,2,0,6.666666666666667,Trent Bridge,50
-PPOjha,India,Bangladesh,0,0,0,0,0,23,3,21,4,0,7.0,Trent Bridge,108
-PPOjha,India,West Indies,0,0,0,0,0,17,2,29,1,0,14.5,Lord's,19
-PPOjha,India,Zimbabwe,0,0,0,0,0,24,4,12,2,0,3.0,Harare Sports Club,56
-PPOjha,India,Sri Lanka,10,6,0,1,166.66666666666669,11,1,27,0,0,27.0,Vidarbha Cricket Association Stadium Jamtha,12
-PPOjha,India,Zimbabwe,0,0,0,0,0,23,3,26,1,0,8.666666666666666,Harare Sports Club,25
-PPOjha,India,Ireland,0,0,0,0,0,23,3,20,2,0,6.666666666666667,Trent Bridge,50
-PPOjha,India,Bangladesh,0,0,0,0,0,23,3,21,4,0,7.0,Trent Bridge,108
-PPOjha,India,West Indies,0,0,0,0,0,17,2,29,1,0,14.5,Lord's,19
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PPOjha,India,Sri Lanka,10,6,0,1,166.66666666666669,11,1,27,0,0,27.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,12
+PPOjha,India,Ireland,0,0,0,0,0,23,3,20,2,0,6.666666666666667,Trent Bridge,0,0,2009,50
+PPOjha,India,Bangladesh,0,0,0,0,0,23,3,21,4,0,7.0,Trent Bridge,0,1,2009,116
+PPOjha,India,Zimbabwe,0,0,0,0,0,24,4,12,2,0,3.0,Harare Sports Club,0,0,2010,56
+PPOjha,India,West Indies,0,0,0,0,0,17,2,29,1,0,14.5,Lord's,0,0,2009,19
+PPOjha,India,Zimbabwe,0,0,0,0,0,23,3,26,1,0,8.666666666666666,Harare Sports Club,0,0,2010,25

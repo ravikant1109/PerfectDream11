@@ -1,5 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HayatullahNiazi,Norway,Germany,10,11,1,0,90.9090909090909,8,1,12,0,0,12.0,College Field,11
-HayatullahNiazi,Norway,Denmark,27,24,0,2,112.5,23,3,26,1,0,8.666666666666666,King George V Sports Ground,56
-HayatullahNiazi,Norway,Jersey,6,8,0,0,75.0,20,3,28,1,0,9.333333333333334,King George V Sports Ground,29
-HayatullahNiazi,Norway,Germany,10,11,1,0,90.9090909090909,8,1,12,0,0,12.0,College Field,11
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HayatullahNiazi,Norway,Germany,10,11,1,0,90.9090909090909,8,1,12,0,0,12.0,College Field,0,0,2019,11
+HayatullahNiazi,Norway,Denmark,27,24,0,2,112.5,23,3,26,1,0,8.666666666666666,King George V Sports Ground,0,0,2019,56
+HayatullahNiazi,Norway,Jersey,6,8,0,0,75.0,20,3,28,1,0,9.333333333333334,King George V Sports Ground,0,0,2019,29

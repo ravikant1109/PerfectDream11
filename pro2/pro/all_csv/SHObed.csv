@@ -1,8 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SHObed,Vanuatu,Malaysia,0,0,0,0,0,23,3,23,3,0,7.666666666666667,Kinrara Academy Oval,75
-SHObed,Vanuatu,Malaysia,0,0,0,0,0,23,3,23,3,0,7.666666666666667,Kinrara Academy Oval,75
-SHObed,Vanuatu,Malaysia,0,0,0,0,0,23,3,23,3,0,7.666666666666667,Kinrara Academy Oval,75
-SHObed,Vanuatu,Malaysia,0,0,0,0,0,11,1,19,1,0,19.0,Kinrara Academy Oval,25
-SHObed,Vanuatu,Malaysia,0,0,0,0,0,11,1,22,1,0,22.0,Kinrara Academy Oval,25
-SHObed,Vanuatu,Malaysia,3,3,0,0,100.0,17,2,30,1,0,15.0,Kinrara Academy Oval,22
-SHObed,Vanuatu,Malaysia,0,0,0,0,0,23,3,23,3,0,7.666666666666667,Kinrara Academy Oval,75
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SHObed,Vanuatu,Malaysia,0,0,0,0,0,11,1,22,1,0,22.0,Kinrara Academy Oval,0,0,2019,25
+SHObed,Vanuatu,Malaysia,3,3,0,0,100.0,17,2,30,1,0,15.0,Kinrara Academy Oval,0,0,2019,22
+SHObed,Vanuatu,Malaysia,0,0,0,0,0,11,1,19,1,0,19.0,Kinrara Academy Oval,0,0,2019,25
+SHObed,Vanuatu,Malaysia,0,0,0,0,0,23,3,23,3,0,7.666666666666667,Kinrara Academy Oval,0,0,2019,75

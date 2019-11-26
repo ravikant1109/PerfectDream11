@@ -1,13 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ShahadatHossain,Bangladesh,India,0,0,0,0,0,18,3,31,1,0,10.333333333333334,Trent Bridge,21
-ShahadatHossain,Bangladesh,New Zealand,1,3,0,0,33.33333333333333,18,3,28,0,0,9.333333333333334,Seddon Park,-7
-ShahadatHossain,Bangladesh,India,0,0,0,0,0,18,3,31,1,0,10.333333333333334,Trent Bridge,21
-ShahadatHossain,Bangladesh,New Zealand,1,3,0,0,33.33333333333333,18,3,28,0,0,9.333333333333334,Seddon Park,-7
-ShahadatHossain,Bangladesh,India,0,0,0,0,0,18,3,31,1,0,10.333333333333334,Trent Bridge,21
-ShahadatHossain,Bangladesh,New Zealand,1,3,0,0,33.33333333333333,18,3,28,0,0,9.333333333333334,Seddon Park,-7
-ShahadatHossain,Bangladesh,South Africa,4,4,0,0,100.0,11,1,24,0,0,24.0,New Wanderers Stadium,4
-ShahadatHossain,Bangladesh,Pakistan,0,1,0,0,0.0,23,3,44,1,0,14.666666666666666,National Stadium,11
-ShahadatHossain,Bangladesh,Sri Lanka,0,0,0,0,0,24,4,54,0,0,13.5,Pallekele International Cricket Stadium,-6
-ShahadatHossain,Bangladesh,India,0,0,0,0,0,18,3,31,1,0,10.333333333333334,Trent Bridge,21
-ShahadatHossain,Bangladesh,New Zealand,1,3,0,0,33.33333333333333,18,3,28,0,0,9.333333333333334,Seddon Park,-7
-ShahadatHossain,Bangladesh,South Africa,4,4,0,0,100.0,11,1,24,0,0,24.0,New Wanderers Stadium,4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ShahadatHossain,Bangladesh,Pakistan,0,1,0,0,0.0,23,3,44,1,0,14.666666666666666,National Stadium,0,0,2008,11
+ShahadatHossain,Bangladesh,New Zealand,1,3,0,0,33.33333333333333,18,3,28,0,0,9.333333333333334,Seddon Park,0,0,2010,-7
+ShahadatHossain,Bangladesh,Sri Lanka,0,0,0,0,0,24,4,54,0,0,13.5,Pallekele International Cricket Stadium,0,0,2013,-6
+ShahadatHossain,Bangladesh,India,0,0,0,0,0,18,3,31,1,0,10.333333333333334,Trent Bridge,0,0,2009,21
+ShahadatHossain,Bangladesh,South Africa,4,4,0,0,100.0,11,1,24,0,0,24.0,New Wanderers Stadium,0,0,2008,4

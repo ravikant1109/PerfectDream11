@@ -1,6 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JKMukhiya,Nepal,Afghanistan,0,0,0,0,0,23,3,18,3,0,6.0,Zahur Ahmed Chowdhury Stadium,75
-JKMukhiya,Nepal,Hong Kong,0,0,0,0,0,11,1,13,0,0,13.0,Civil Service Cricket Club Stormont,0
-JKMukhiya,Nepal,Hong Kong,0,0,0,0,0,11,1,12,1,0,12.0,Zahur Ahmed Chowdhury Stadium,25
-JKMukhiya,Nepal,Bangladesh,0,0,0,0,0,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,0
-JKMukhiya,Nepal,Afghanistan,0,0,0,0,0,23,3,18,3,0,6.0,Zahur Ahmed Chowdhury Stadium,75
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JKMukhiya,Nepal,Hong Kong,0,0,0,0,0,11,1,12,1,0,12.0,Zahur Ahmed Chowdhury Stadium,0,1,2014,33
+JKMukhiya,Nepal,Afghanistan,0,0,0,0,0,23,3,18,3,0,6.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,75
+JKMukhiya,Nepal,Bangladesh,0,0,0,0,0,11,1,16,0,0,16.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,0
+JKMukhiya,Nepal,Hong Kong,0,0,0,0,0,11,1,13,0,0,13.0,Civil Service Cricket Club Stormont,0,0,2015,0

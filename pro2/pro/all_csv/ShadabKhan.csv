@@ -1,13 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ShadabKhan,Pakistan,Sri Lanka,0,1,0,0,0.0,24,4,38,1,0,9.5,Gaddafi Stadium,15
-ShadabKhan,Pakistan,Sri Lanka,0,1,0,0,0.0,24,4,38,1,0,9.5,Gaddafi Stadium,15
-ShadabKhan,Pakistan,Sri Lanka,0,1,0,0,0.0,24,4,38,1,0,9.5,Gaddafi Stadium,15
-ShadabKhan,Pakistan,Sri Lanka,6,7,1,0,85.71428571428571,23,3,35,1,0,11.666666666666666,Gaddafi Stadium,26
-ShadabKhan,Pakistan,West Indies,13,10,1,0,130.0,23,3,14,4,1,4.666666666666667,Queen's Park Oval Port of Spain,134
-ShadabKhan,Pakistan,Sri Lanka,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Gaddafi Stadium,-4
-ShadabKhan,Pakistan,West Indies,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Queen's Park Oval Port of Spain,52
-ShadabKhan,Pakistan,West Indies,0,0,0,0,0,23,3,7,3,0,2.3333333333333335,Kensington Oval Bridgetown,81
-ShadabKhan,Pakistan,West Indies,3,2,0,0,150.0,22,3,38,1,0,12.666666666666666,Queen's Park Oval Port of Spain,22
-ShadabKhan,Pakistan,Sri Lanka,0,1,0,0,0.0,24,4,38,1,0,9.5,Gaddafi Stadium,15
-ShadabKhan,Pakistan,Sri Lanka,6,7,1,0,85.71428571428571,23,3,35,1,0,11.666666666666666,Gaddafi Stadium,26
-ShadabKhan,Pakistan,West Indies,13,10,1,0,130.0,23,3,14,4,1,4.666666666666667,Queen's Park Oval Port of Spain,134
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ShadabKhan,Pakistan,West Indies,3,2,0,0,150.0,22,3,38,1,0,12.666666666666666,Queen's Park Oval Port of Spain,0,0,2017,22
+ShadabKhan,Pakistan,Sri Lanka,6,7,1,0,85.71428571428571,23,3,35,1,0,11.666666666666666,Gaddafi Stadium,0,0,2019,26
+ShadabKhan,Pakistan,Sri Lanka,0,0,0,0,0,23,3,32,0,0,10.666666666666666,Gaddafi Stadium,0,0,2019,-4
+ShadabKhan,Pakistan,West Indies,13,10,1,0,130.0,23,3,14,4,1,4.666666666666667,Queen's Park Oval Port of Spain,0,0,2017,134
+ShadabKhan,Pakistan,West Indies,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Queen's Park Oval Port of Spain,0,0,2017,52
+ShadabKhan,Pakistan,West Indies,0,0,0,0,0,23,3,7,3,0,2.3333333333333335,Kensington Oval Bridgetown,0,0,2017,81
+ShadabKhan,Pakistan,Sri Lanka,0,1,0,0,0.0,24,4,38,1,0,9.5,Gaddafi Stadium,1,0,2019,27

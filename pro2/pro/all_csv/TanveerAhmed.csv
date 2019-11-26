@@ -1,12 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TanveerAhmed,Hong Kong,Oman,7,10,1,0,70.0,5,0,11,0,0,0,Sheikh Zayed Stadium,8
-TanveerAhmed,Hong Kong,Netherlands,0,0,0,0,0,5,0,2,0,0,0,Dubai International Cricket Stadium,0
-TanveerAhmed,Hong Kong,Oman,7,10,1,0,70.0,5,0,11,0,0,0,Sheikh Zayed Stadium,8
-TanveerAhmed,Hong Kong,Netherlands,0,0,0,0,0,5,0,2,0,0,0,Dubai International Cricket Stadium,0
-TanveerAhmed,Hong Kong,Oman,7,10,1,0,70.0,5,0,11,0,0,0,Sheikh Zayed Stadium,8
-TanveerAhmed,Hong Kong,Netherlands,0,0,0,0,0,5,0,2,0,0,0,Dubai International Cricket Stadium,0
-TanveerAhmed,Hong Kong,Ireland,0,0,0,0,0,21,3,30,2,0,10.0,Bready Cricket Club Magheramason,48
-TanveerAhmed,Hong Kong,Afghanistan,0,2,0,0,0.0,23,3,31,1,0,10.333333333333334,Shere Bangla National Stadium,13
-TanveerAhmed,Hong Kong,Scotland,0,0,0,0,0,24,4,47,0,0,11.75,Sheikh Zayed Stadium,-6
-TanveerAhmed,Hong Kong,Oman,7,10,1,0,70.0,5,0,11,0,0,0,Sheikh Zayed Stadium,8
-TanveerAhmed,Hong Kong,Netherlands,0,0,0,0,0,5,0,2,0,0,0,Dubai International Cricket Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TanveerAhmed,Hong Kong,Afghanistan,0,2,0,0,0.0,23,3,31,1,0,10.333333333333334,Shere Bangla National Stadium,0,0,2016,13
+TanveerAhmed,Hong Kong,Ireland,0,0,0,0,0,21,3,30,2,0,10.0,Bready Cricket Club Magheramason,0,1,2016,56
+TanveerAhmed,Hong Kong,Netherlands,0,0,0,0,0,5,0,2,0,0,0,Dubai International Cricket Stadium,0,0,2017,0
+TanveerAhmed,Hong Kong,Oman,7,10,1,0,70.0,5,0,11,0,0,0,Sheikh Zayed Stadium,0,0,2017,8
+TanveerAhmed,Hong Kong,Scotland,0,0,0,0,0,24,4,47,0,0,11.75,Sheikh Zayed Stadium,0,0,2017,-6

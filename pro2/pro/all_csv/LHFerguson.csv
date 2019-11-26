@@ -1,5 +1,2 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LHFerguson,New Zealand,Bangladesh,0,0,0,0,0,27,4,32,3,0,8.0,McLean Park,75
-LHFerguson,New Zealand,Bangladesh,0,0,0,0,0,27,4,32,3,0,8.0,McLean Park,75
-LHFerguson,New Zealand,Bangladesh,0,0,0,0,0,27,4,32,3,0,8.0,McLean Park,75
-LHFerguson,New Zealand,Bangladesh,0,0,0,0,0,27,4,32,3,0,8.0,McLean Park,75
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LHFerguson,New Zealand,Bangladesh,0,0,0,0,0,27,4,32,3,0,8.0,McLean Park,0,0,2017,75

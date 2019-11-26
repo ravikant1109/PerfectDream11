@@ -1,19 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KChristie,Hong Kong,Nepal,0,0,0,0,0,26,4,26,2,0,6.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),50
-KChristie,Hong Kong,Oman,2,4,0,0,50.0,17,2,9,0,0,4.5,Sheikh Zayed Stadium,2
-KChristie,Hong Kong,United Arab Emirates,0,0,0,0,0,18,3,28,2,0,9.333333333333334,Sheikh Zayed Stadium,48
-KChristie,Hong Kong,Nepal,0,0,0,0,0,26,4,26,2,0,6.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),50
-KChristie,Hong Kong,Oman,2,4,0,0,50.0,17,2,9,0,0,4.5,Sheikh Zayed Stadium,2
-KChristie,Hong Kong,United Arab Emirates,0,0,0,0,0,18,3,28,2,0,9.333333333333334,Sheikh Zayed Stadium,48
-KChristie,Hong Kong,Nepal,0,0,0,0,0,26,4,26,2,0,6.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),50
-KChristie,Hong Kong,Oman,2,4,0,0,50.0,17,2,9,0,0,4.5,Sheikh Zayed Stadium,2
-KChristie,Hong Kong,United Arab Emirates,0,0,0,0,0,18,3,28,2,0,9.333333333333334,Sheikh Zayed Stadium,48
-KChristie,Hong Kong,Canada,0,0,0,0,0,24,4,23,2,0,5.75,Tolerance Oval,52
-KChristie,Hong Kong,Ireland,0,0,0,0,0,23,3,36,0,0,12.0,Sheikh Zayed Stadium,-6
-KChristie,Hong Kong,Ireland,1,2,0,0,50.0,23,3,33,2,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),43
-KChristie,Hong Kong,Nigeria,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Tolerance Oval,25
-KChristie,Hong Kong,Netherlands,0,0,0,0,0,17,2,39,0,0,19.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-6
-KChristie,Hong Kong,Jersey,0,0,0,0,0,25,4,37,0,0,9.25,Sheikh Zayed Stadium,-2
-KChristie,Hong Kong,Nepal,0,0,0,0,0,26,4,26,2,0,6.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),50
-KChristie,Hong Kong,Oman,2,4,0,0,50.0,17,2,9,0,0,4.5,Sheikh Zayed Stadium,2
-KChristie,Hong Kong,United Arab Emirates,0,0,0,0,0,18,3,28,2,0,9.333333333333334,Sheikh Zayed Stadium,48
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KChristie,Hong Kong,Ireland,0,0,0,0,0,23,3,36,0,0,12.0,Sheikh Zayed Stadium,0,0,2019,-6
+KChristie,Hong Kong,Jersey,0,0,0,0,0,25,4,37,0,0,9.25,Sheikh Zayed Stadium,0,1,2019,6
+KChristie,Hong Kong,Oman,2,4,0,0,50.0,17,2,9,0,0,4.5,Sheikh Zayed Stadium,0,0,2019,2
+KChristie,Hong Kong,Ireland,1,2,0,0,50.0,23,3,33,2,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,43
+KChristie,Hong Kong,United Arab Emirates,0,0,0,0,0,18,3,28,2,0,9.333333333333334,Sheikh Zayed Stadium,0,0,2019,48
+KChristie,Hong Kong,Nepal,0,0,0,0,0,26,4,26,2,0,6.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,58
+KChristie,Hong Kong,Nigeria,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Tolerance Oval,0,0,2019,25
+KChristie,Hong Kong,Canada,0,0,0,0,0,24,4,23,2,0,5.75,Tolerance Oval,1,0,2019,64
+KChristie,Hong Kong,Netherlands,0,0,0,0,0,17,2,39,0,0,19.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,-6

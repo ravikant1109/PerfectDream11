@@ -1,11 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DLMaddy,England,Zimbabwe,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Newlands,16
-DLMaddy,England,New Zealand,50,31,4,2,161.29032258064515,5,0,6,2,0,0,Kingsmead,116
-DLMaddy,England,Zimbabwe,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Newlands,16
-DLMaddy,England,New Zealand,50,31,4,2,161.29032258064515,5,0,6,2,0,0,Kingsmead,116
-DLMaddy,England,Zimbabwe,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Newlands,16
-DLMaddy,England,New Zealand,50,31,4,2,161.29032258064515,5,0,6,2,0,0,Kingsmead,116
-DLMaddy,England,Australia,20,20,3,0,100.0,0,0,0,0,0,0,Newlands,23
-DLMaddy,England,India,29,20,3,1,145.0,11,1,21,1,0,21.0,Kingsmead,59
-DLMaddy,England,Zimbabwe,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Newlands,16
-DLMaddy,England,New Zealand,50,31,4,2,161.29032258064515,5,0,6,2,0,0,Kingsmead,116
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DLMaddy,England,New Zealand,50,31,4,2,161.29032258064515,5,0,6,2,0,0,Kingsmead,1,0,2007,128
+DLMaddy,England,Zimbabwe,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Newlands,0,1,2007,24
+DLMaddy,England,Australia,20,20,3,0,100.0,0,0,0,0,0,0,Newlands,0,0,2007,23
+DLMaddy,England,India,29,20,3,1,145.0,11,1,21,1,0,21.0,Kingsmead,0,0,2007,59

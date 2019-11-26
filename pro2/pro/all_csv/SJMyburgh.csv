@@ -1,43 +1,27 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SJMyburgh,Netherlands,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sylhet Stadium,-8
-SJMyburgh,Netherlands,England,39,31,5,1,125.80645161290323,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,46
-SJMyburgh,Netherlands,Kenya,41,32,4,1,128.125,0,0,0,0,0,0,Wanderers Cricket Ground,47
-SJMyburgh,Netherlands,Ireland,27,18,5,0,150.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,32
-SJMyburgh,Netherlands,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sylhet Stadium,-8
-SJMyburgh,Netherlands,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sylhet Stadium,-8
-SJMyburgh,Netherlands,England,39,31,5,1,125.80645161290323,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,46
-SJMyburgh,Netherlands,Kenya,41,32,4,1,128.125,0,0,0,0,0,0,Wanderers Cricket Ground,47
-SJMyburgh,Netherlands,Ireland,27,18,5,0,150.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,32
-SJMyburgh,Netherlands,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sylhet Stadium,-8
-SJMyburgh,Netherlands,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sylhet Stadium,-8
-SJMyburgh,Netherlands,England,39,31,5,1,125.80645161290323,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,46
-SJMyburgh,Netherlands,Kenya,41,32,4,1,128.125,0,0,0,0,0,0,Wanderers Cricket Ground,47
-SJMyburgh,Netherlands,Ireland,27,18,5,0,150.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,32
-SJMyburgh,Netherlands,Afghanistan,19,19,3,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,22
-SJMyburgh,Netherlands,Afghanistan,21,28,0,1,75.0,0,0,0,0,0,0,Sharjah Cricket Stadium,23
-SJMyburgh,Netherlands,South Africa,51,29,8,2,175.86206896551724,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,71
-SJMyburgh,Netherlands,United Arab Emirates,55,36,7,2,152.77777777777777,0,0,0,0,0,0,Sylhet Stadium,74
-SJMyburgh,Netherlands,Afghanistan,13,10,1,1,130.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,16
-SJMyburgh,Netherlands,Ireland,63,23,4,7,273.9130434782609,0,0,0,0,0,0,Sylhet Stadium,89
-SJMyburgh,Netherlands,Canada,16,22,3,0,72.72727272727273,0,0,0,0,0,0,Dubai International Cricket Stadium,19
-SJMyburgh,Netherlands,New Zealand,16,24,1,1,66.66666666666666,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,17
-SJMyburgh,Netherlands,United Arab Emirates,0,2,0,0,0.0,0,0,0,0,0,0,VRA Ground,-8
-SJMyburgh,Netherlands,United Arab Emirates,25,26,2,0,96.15384615384616,0,0,0,0,0,0,Sportpark Westvliet,27
-SJMyburgh,Netherlands,Oman,4,3,0,0,133.33333333333331,0,0,0,0,0,0,Sheikh Zayed Stadium,4
-SJMyburgh,Netherlands,Sri Lanka,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-SJMyburgh,Netherlands,Bangladesh,29,29,5,0,100.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,34
-SJMyburgh,Netherlands,Scotland,18,10,2,0,180.0,0,0,0,0,0,0,ICC Academy,20
-SJMyburgh,Netherlands,Ireland,1,3,0,0,33.33333333333333,0,0,0,0,0,0,The Village Malahide,-5
-SJMyburgh,Netherlands,Scotland,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,4
-SJMyburgh,Netherlands,Scotland,0,4,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-SJMyburgh,Netherlands,Ireland,2,12,0,0,16.666666666666664,0,0,0,0,0,0,Dubai International Cricket Stadium,-4
-SJMyburgh,Netherlands,United Arab Emirates,35,26,6,0,134.6153846153846,0,0,0,0,0,0,ICC Academy,41
-SJMyburgh,Netherlands,Kenya,0,2,0,0,0.0,0,0,0,0,0,0,ICC Academy,-8
-SJMyburgh,Netherlands,United Arab Emirates,10,10,2,0,100.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,12
-SJMyburgh,Netherlands,Nepal,71,57,5,2,124.56140350877195,0,0,0,0,0,0,Hazelaarweg,88
-SJMyburgh,Netherlands,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sylhet Stadium,-8
-SJMyburgh,Netherlands,England,39,31,5,1,125.80645161290323,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,46
-SJMyburgh,Netherlands,Kenya,41,32,4,1,128.125,0,0,0,0,0,0,Wanderers Cricket Ground,47
-SJMyburgh,Netherlands,Ireland,27,18,5,0,150.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,32
-SJMyburgh,Netherlands,Afghanistan,19,19,3,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,22
-SJMyburgh,Netherlands,Afghanistan,21,28,0,1,75.0,0,0,0,0,0,0,Sharjah Cricket Stadium,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SJMyburgh,Netherlands,Ireland,27,18,5,0,150.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,32
+SJMyburgh,Netherlands,Kenya,41,32,4,1,128.125,0,0,0,0,0,0,Wanderers Cricket Ground,0,0,2013,47
+SJMyburgh,Netherlands,United Arab Emirates,10,10,2,0,100.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2015,12
+SJMyburgh,Netherlands,United Arab Emirates,25,26,2,0,96.15384615384616,0,0,0,0,0,0,Sportpark Westvliet,0,0,2019,27
+SJMyburgh,Netherlands,Scotland,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2015,4
+SJMyburgh,Netherlands,Nepal,71,57,5,2,124.56140350877195,0,0,0,0,0,0,Hazelaarweg,0,0,2015,88
+SJMyburgh,Netherlands,Scotland,18,10,2,0,180.0,0,0,0,0,0,0,ICC Academy,0,0,2013,20
+SJMyburgh,Netherlands,Ireland,2,12,0,0,16.666666666666664,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,-4
+SJMyburgh,Netherlands,Ireland,1,3,0,0,33.33333333333333,0,0,0,0,0,0,The Village Malahide,0,0,2015,-5
+SJMyburgh,Netherlands,Sri Lanka,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,-8
+SJMyburgh,Netherlands,Canada,16,22,3,0,72.72727272727273,0,0,0,0,0,0,Dubai International Cricket Stadium,1,0,2012,31
+SJMyburgh,Netherlands,Kenya,0,2,0,0,0.0,0,0,0,0,0,0,ICC Academy,0,0,2013,-8
+SJMyburgh,Netherlands,Afghanistan,13,10,1,1,130.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2015,16
+SJMyburgh,Netherlands,South Africa,51,29,8,2,175.86206896551724,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2014,79
+SJMyburgh,Netherlands,United Arab Emirates,35,26,6,0,134.6153846153846,0,0,0,0,0,0,ICC Academy,0,1,2016,49
+SJMyburgh,Netherlands,England,39,31,5,1,125.80645161290323,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,46
+SJMyburgh,Netherlands,Bangladesh,29,29,5,0,100.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,1,2016,42
+SJMyburgh,Netherlands,Afghanistan,21,28,0,1,75.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,23
+SJMyburgh,Netherlands,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,-8
+SJMyburgh,Netherlands,Scotland,0,4,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2013,-8
+SJMyburgh,Netherlands,Oman,4,3,0,0,133.33333333333331,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,4
+SJMyburgh,Netherlands,Ireland,63,23,4,7,273.9130434782609,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,89
+SJMyburgh,Netherlands,Afghanistan,19,19,3,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2012,30
+SJMyburgh,Netherlands,New Zealand,16,24,1,1,66.66666666666666,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,17
+SJMyburgh,Netherlands,United Arab Emirates,55,36,7,2,152.77777777777777,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,74
+SJMyburgh,Netherlands,United Arab Emirates,0,2,0,0,0.0,0,0,0,0,0,0,VRA Ground,0,0,2019,-8

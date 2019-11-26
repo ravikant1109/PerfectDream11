@@ -1,75 +1,37 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GGambhir,India,New Zealand,6,7,1,0,85.71428571428571,0,0,0,0,0,0,AMI Stadium,7
-GGambhir,India,Australia,24,25,4,0,96.0,0,0,0,0,0,0,Kingsmead,28
-GGambhir,India,Ireland,37,32,2,1,115.625,0,0,0,0,0,0,Trent Bridge,41
-GGambhir,India,Bangladesh,50,47,4,0,106.38297872340425,0,0,0,0,0,0,Trent Bridge,62
-GGambhir,India,Pakistan,75,56,8,2,133.92857142857142,0,0,0,0,0,0,New Wanderers Stadium,95
-GGambhir,India,Pakistan,43,41,2,1,104.8780487804878,0,0,0,0,0,0,M Chinnaswamy Stadium,47
-GGambhir,India,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,Kingsmead,-8
-GGambhir,India,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Kingsmead,22
-GGambhir,India,West Indies,14,14,2,0,100.0,0,0,0,0,0,0,Lord's,16
-GGambhir,India,Afghanistan,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Beausejour Stadium Gros Islet,2
-GGambhir,India,Australia,17,12,3,0,141.66666666666669,0,0,0,0,0,0,R Premadasa Stadium,20
-GGambhir,India,New Zealand,6,7,1,0,85.71428571428571,0,0,0,0,0,0,AMI Stadium,7
-GGambhir,India,New Zealand,6,7,1,0,85.71428571428571,0,0,0,0,0,0,AMI Stadium,7
-GGambhir,India,Australia,24,25,4,0,96.0,0,0,0,0,0,0,Kingsmead,28
-GGambhir,India,Ireland,37,32,2,1,115.625,0,0,0,0,0,0,Trent Bridge,41
-GGambhir,India,Bangladesh,50,47,4,0,106.38297872340425,0,0,0,0,0,0,Trent Bridge,62
-GGambhir,India,Pakistan,75,56,8,2,133.92857142857142,0,0,0,0,0,0,New Wanderers Stadium,95
-GGambhir,India,Pakistan,43,41,2,1,104.8780487804878,0,0,0,0,0,0,M Chinnaswamy Stadium,47
-GGambhir,India,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,Kingsmead,-8
-GGambhir,India,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Kingsmead,22
-GGambhir,India,West Indies,14,14,2,0,100.0,0,0,0,0,0,0,Lord's,16
-GGambhir,India,Afghanistan,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Beausejour Stadium Gros Islet,2
-GGambhir,India,Australia,17,12,3,0,141.66666666666669,0,0,0,0,0,0,R Premadasa Stadium,20
-GGambhir,India,New Zealand,6,7,1,0,85.71428571428571,0,0,0,0,0,0,AMI Stadium,7
-GGambhir,India,New Zealand,6,7,1,0,85.71428571428571,0,0,0,0,0,0,AMI Stadium,7
-GGambhir,India,Australia,24,25,4,0,96.0,0,0,0,0,0,0,Kingsmead,28
-GGambhir,India,Ireland,37,32,2,1,115.625,0,0,0,0,0,0,Trent Bridge,41
-GGambhir,India,Bangladesh,50,47,4,0,106.38297872340425,0,0,0,0,0,0,Trent Bridge,62
-GGambhir,India,Pakistan,75,56,8,2,133.92857142857142,0,0,0,0,0,0,New Wanderers Stadium,95
-GGambhir,India,Pakistan,43,41,2,1,104.8780487804878,0,0,0,0,0,0,M Chinnaswamy Stadium,47
-GGambhir,India,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,Kingsmead,-8
-GGambhir,India,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Kingsmead,22
-GGambhir,India,West Indies,14,14,2,0,100.0,0,0,0,0,0,0,Lord's,16
-GGambhir,India,Afghanistan,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Beausejour Stadium Gros Islet,2
-GGambhir,India,Australia,17,12,3,0,141.66666666666669,0,0,0,0,0,0,R Premadasa Stadium,20
-GGambhir,India,South Africa,21,19,3,0,110.5263157894737,0,0,0,0,0,0,Trent Bridge,24
-GGambhir,India,Sri Lanka,13,6,2,0,216.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,15
-GGambhir,India,England,16,19,3,0,84.21052631578947,0,0,0,0,0,0,Subrata Roy Sahara Stadium,19
-GGambhir,India,Australia,9,8,1,0,112.5,0,0,0,0,0,0,Melbourne Cricket Ground,10
-GGambhir,India,West Indies,15,14,3,0,107.14285714285714,0,0,0,0,0,0,Kensington Oval Bridgetown,18
-GGambhir,India,Pakistan,21,11,4,0,190.9090909090909,0,0,0,0,0,0,Sardar Patel Stadium Motera,25
-GGambhir,India,Afghanistan,10,9,1,0,111.11111111111111,0,0,0,0,0,0,R Premadasa Stadium,11
-GGambhir,India,Sri Lanka,41,34,3,0,120.58823529411764,0,0,0,0,0,0,Beausejour Stadium Gros Islet,44
-GGambhir,India,Australia,9,10,1,0,90.0,0,0,0,0,0,0,Kensington Oval Bridgetown,10
-GGambhir,India,England,45,40,5,0,112.5,0,0,0,0,0,0,R Premadasa Stadium,50
-GGambhir,India,New Zealand,3,6,0,0,50.0,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,-1
-GGambhir,India,New Zealand,51,34,5,2,150.0,0,0,0,0,0,0,New Wanderers Stadium,68
-GGambhir,India,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-GGambhir,India,England,58,44,7,1,131.8181818181818,0,0,0,0,0,0,Kingsmead,75
-GGambhir,India,Australia,20,15,3,0,133.33333333333331,0,0,0,0,0,0,Stadium Australia,23
-GGambhir,India,Sri Lanka,6,8,1,0,75.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,7
-GGambhir,India,South Africa,49,29,7,1,168.9655172413793,0,0,0,0,0,0,New Wanderers Stadium,58
-GGambhir,India,Sri Lanka,55,27,11,0,203.70370370370372,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,74
-GGambhir,India,England,17,29,1,0,58.620689655172406,0,0,0,0,0,0,Wankhede Stadium,14
-GGambhir,India,Australia,63,57,6,1,110.5263157894737,0,0,0,0,0,0,Brabourne Stadium,79
-GGambhir,India,South Africa,8,12,0,0,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,6
-GGambhir,India,Sri Lanka,21,18,1,0,116.66666666666667,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,22
-GGambhir,India,England,26,26,4,0,100.0,0,0,0,0,0,0,Lord's,30
-GGambhir,India,New Zealand,10,14,0,1,71.42857142857143,0,0,0,0,0,0,Westpac Stadium,12
-GGambhir,India,Australia,56,62,4,0,90.32258064516128,0,0,0,0,0,0,Melbourne Cricket Ground,68
-GGambhir,India,New Zealand,6,7,1,0,85.71428571428571,0,0,0,0,0,0,AMI Stadium,7
-GGambhir,India,Australia,24,25,4,0,96.0,0,0,0,0,0,0,Kingsmead,28
-GGambhir,India,Ireland,37,32,2,1,115.625,0,0,0,0,0,0,Trent Bridge,41
-GGambhir,India,Bangladesh,50,47,4,0,106.38297872340425,0,0,0,0,0,0,Trent Bridge,62
-GGambhir,India,Pakistan,75,56,8,2,133.92857142857142,0,0,0,0,0,0,New Wanderers Stadium,95
-GGambhir,India,Pakistan,43,41,2,1,104.8780487804878,0,0,0,0,0,0,M Chinnaswamy Stadium,47
-GGambhir,India,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,Kingsmead,-8
-GGambhir,India,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Kingsmead,22
-GGambhir,India,West Indies,14,14,2,0,100.0,0,0,0,0,0,0,Lord's,16
-GGambhir,India,Afghanistan,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Beausejour Stadium Gros Islet,2
-GGambhir,India,Australia,17,12,3,0,141.66666666666669,0,0,0,0,0,0,R Premadasa Stadium,20
-GGambhir,India,South Africa,21,19,3,0,110.5263157894737,0,0,0,0,0,0,Trent Bridge,24
-GGambhir,India,Sri Lanka,13,6,2,0,216.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,15
-GGambhir,India,England,16,19,3,0,84.21052631578947,0,0,0,0,0,0,Subrata Roy Sahara Stadium,19
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GGambhir,India,England,45,40,5,0,112.5,0,0,0,0,0,0,R Premadasa Stadium,0,2,2012,66
+GGambhir,India,Pakistan,43,41,2,1,104.8780487804878,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2012,47
+GGambhir,India,Sri Lanka,55,27,11,0,203.70370370370372,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,74
+GGambhir,India,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Kingsmead,0,0,2007,22
+GGambhir,India,New Zealand,3,6,0,0,50.0,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2012,-1
+GGambhir,India,Ireland,37,32,2,1,115.625,0,0,0,0,0,0,Trent Bridge,0,0,2009,41
+GGambhir,India,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,-8
+GGambhir,India,South Africa,21,19,3,0,110.5263157894737,0,0,0,0,0,0,Trent Bridge,0,0,2009,24
+GGambhir,India,Sri Lanka,41,34,3,0,120.58823529411764,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,44
+GGambhir,India,Australia,9,10,1,0,90.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,10
+GGambhir,India,Australia,24,25,4,0,96.0,0,0,0,0,0,0,Kingsmead,0,0,2007,28
+GGambhir,India,West Indies,15,14,3,0,107.14285714285714,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,18
+GGambhir,India,New Zealand,10,14,0,1,71.42857142857143,0,0,0,0,0,0,Westpac Stadium,0,0,2009,12
+GGambhir,India,Australia,56,62,4,0,90.32258064516128,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2012,76
+GGambhir,India,Afghanistan,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2010,10
+GGambhir,India,England,16,19,3,0,84.21052631578947,0,0,0,0,0,0,Subrata Roy Sahara Stadium,0,0,2012,19
+GGambhir,India,Sri Lanka,13,6,2,0,216.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,15
+GGambhir,India,Australia,17,12,3,0,141.66666666666669,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,20
+GGambhir,India,South Africa,49,29,7,1,168.9655172413793,0,0,0,0,0,0,New Wanderers Stadium,0,0,2012,58
+GGambhir,India,Australia,9,8,1,0,112.5,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2008,18
+GGambhir,India,Afghanistan,10,9,1,0,111.11111111111111,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,19
+GGambhir,India,Bangladesh,50,47,4,0,106.38297872340425,0,0,0,0,0,0,Trent Bridge,0,1,2009,70
+GGambhir,India,England,17,29,1,0,58.620689655172406,0,0,0,0,0,0,Wankhede Stadium,0,1,2012,22
+GGambhir,India,Sri Lanka,6,8,1,0,75.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,7
+GGambhir,India,South Africa,8,12,0,0,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,14
+GGambhir,India,West Indies,14,14,2,0,100.0,0,0,0,0,0,0,Lord's,0,0,2009,16
+GGambhir,India,Australia,63,57,6,1,110.5263157894737,0,0,0,0,0,0,Brabourne Stadium,0,0,2007,79
+GGambhir,India,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,Kingsmead,0,0,2007,-8
+GGambhir,India,Australia,20,15,3,0,133.33333333333331,0,0,0,0,0,0,Stadium Australia,0,0,2012,23
+GGambhir,India,Sri Lanka,21,18,1,0,116.66666666666667,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2009,22
+GGambhir,India,New Zealand,51,34,5,2,150.0,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,76
+GGambhir,India,England,26,26,4,0,100.0,0,0,0,0,0,0,Lord's,0,0,2009,30
+GGambhir,India,Pakistan,21,11,4,0,190.9090909090909,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2012,25
+GGambhir,India,New Zealand,6,7,1,0,85.71428571428571,0,0,0,0,0,0,AMI Stadium,0,0,2009,7
+GGambhir,India,England,58,44,7,1,131.8181818181818,0,0,0,0,0,0,Kingsmead,0,1,2007,83
+GGambhir,India,Pakistan,75,56,8,2,133.92857142857142,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,95

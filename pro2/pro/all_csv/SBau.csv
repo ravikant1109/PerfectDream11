@@ -1,14 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SBau,Papua New Guinea,Netherlands,34,29,5,0,117.24137931034481,11,1,10,1,0,10.0,ICC Academy,64
-SBau,Papua New Guinea,United Arab Emirates,17,16,1,0,106.25,5,0,7,0,0,0,Sheikh Zayed Stadium,18
-SBau,Papua New Guinea,United Arab Emirates,22,24,1,1,91.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,25
-SBau,Papua New Guinea,Ireland,25,23,0,1,108.69565217391303,0,0,0,0,0,0,Tony Ireland Stadium,27
-SBau,Papua New Guinea,Scotland,4,7,0,0,57.14285714285714,5,0,12,0,0,0,ICC Academy,0
-SBau,Papua New Guinea,Bermuda,0,0,0,0,0,5,0,3,0,0,0,ICC Academy,0
-SBau,Papua New Guinea,United Arab Emirates,30,23,2,1,130.43478260869566,0,0,0,0,0,0,Sheikh Zayed Stadium,34
-SBau,Papua New Guinea,Namibia,26,15,1,2,173.33333333333334,23,3,23,1,0,7.666666666666667,ICC Academy Ground No 2,56
-SBau,Papua New Guinea,Ireland,0,3,0,0,0.0,0,0,0,0,0,0,Tony Ireland Stadium,-8
-SBau,Papua New Guinea,Singapore,11,15,0,0,73.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,11
-SBau,Papua New Guinea,Kenya,17,34,1,0,50.0,0,0,0,0,0,0,Dubai International Cricket Stadium,14
-SBau,Papua New Guinea,Netherlands,34,29,5,0,117.24137931034481,11,1,10,1,0,10.0,ICC Academy,64
-SBau,Papua New Guinea,United Arab Emirates,17,16,1,0,106.25,5,0,7,0,0,0,Sheikh Zayed Stadium,18
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SBau,Papua New Guinea,Netherlands,34,29,5,0,117.24137931034481,11,1,10,1,0,10.0,ICC Academy,0,0,2019,64
+SBau,Papua New Guinea,United Arab Emirates,22,24,1,1,91.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,25
+SBau,Papua New Guinea,Ireland,0,3,0,0,0.0,0,0,0,0,0,0,Tony Ireland Stadium,0,0,2016,-8
+SBau,Papua New Guinea,Scotland,4,7,0,0,57.14285714285714,5,0,12,0,0,0,ICC Academy,0,0,2019,0
+SBau,Papua New Guinea,United Arab Emirates,17,16,1,0,106.25,5,0,7,0,0,0,Sheikh Zayed Stadium,0,1,2017,26
+SBau,Papua New Guinea,Kenya,17,34,1,0,50.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2019,22
+SBau,Papua New Guinea,United Arab Emirates,30,23,2,1,130.43478260869566,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,34
+SBau,Papua New Guinea,Namibia,26,15,1,2,173.33333333333334,23,3,23,1,0,7.666666666666667,ICC Academy Ground No 2,0,0,2019,56
+SBau,Papua New Guinea,Bermuda,0,0,0,0,0,5,0,3,0,0,0,ICC Academy,0,0,2019,0
+SBau,Papua New Guinea,Ireland,25,23,0,1,108.69565217391303,0,0,0,0,0,0,Tony Ireland Stadium,0,2,2016,43
+SBau,Papua New Guinea,Singapore,11,15,0,0,73.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2019,11

@@ -1,4 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SSohal,United States of America,Canada,18,18,1,1,100.0,0,0,0,0,0,0,White Hill Field Sandys Parish,21
-SSohal,United States of America,Bermuda,5,12,0,0,41.66666666666667,0,0,0,0,0,0,Bermuda National Stadium,-1
-SSohal,United States of America,Canada,18,18,1,1,100.0,0,0,0,0,0,0,White Hill Field Sandys Parish,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SSohal,United States of America,Canada,18,18,1,1,100.0,0,0,0,0,0,0,White Hill Field Sandys Parish,0,0,2019,21
+SSohal,United States of America,Bermuda,5,12,0,0,41.66666666666667,0,0,0,0,0,0,Bermuda National Stadium,0,0,2019,-1

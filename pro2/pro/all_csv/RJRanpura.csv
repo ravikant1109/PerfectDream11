@@ -1,3 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RJRanpura,Oman,United Arab Emirates,0,0,0,0,0,11,1,15,1,0,15.0,Sheikh Zayed Stadium,25
-RJRanpura,Oman,Afghanistan,5,8,0,0,62.5,26,4,17,2,0,4.25,Clontarf Cricket Club Ground,57
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RJRanpura,Oman,Afghanistan,5,8,0,0,62.5,26,4,17,2,0,4.25,Clontarf Cricket Club Ground,0,0,2015,57
+RJRanpura,Oman,United Arab Emirates,0,0,0,0,0,11,1,15,1,0,15.0,Sheikh Zayed Stadium,0,0,2015,25

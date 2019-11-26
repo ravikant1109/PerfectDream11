@@ -1,10 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AbuHider,Bangladesh,Oman,0,0,0,0,0,12,2,15,0,0,7.5,Himachal Pradesh Cricket Association Stadium,0
-AbuHider,Bangladesh,Oman,0,0,0,0,0,12,2,15,0,0,7.5,Himachal Pradesh Cricket Association Stadium,0
-AbuHider,Bangladesh,Oman,0,0,0,0,0,12,2,15,0,0,7.5,Himachal Pradesh Cricket Association Stadium,0
-AbuHider,Bangladesh,Zimbabwe,0,0,0,0,0,23,3,41,2,0,13.666666666666666,Sheikh Abu Naser Stadium,44
-AbuHider,Bangladesh,Zimbabwe,14,10,1,1,140.0,26,4,34,1,0,8.5,Sheikh Abu Naser Stadium,42
-AbuHider,Bangladesh,India,0,0,0,0,0,5,0,14,0,0,0,Shere Bangla National Stadium,0
-AbuHider,Bangladesh,Oman,0,0,0,0,0,12,2,15,0,0,7.5,Himachal Pradesh Cricket Association Stadium,0
-AbuHider,Bangladesh,Zimbabwe,0,0,0,0,0,23,3,41,2,0,13.666666666666666,Sheikh Abu Naser Stadium,44
-AbuHider,Bangladesh,Zimbabwe,14,10,1,1,140.0,26,4,34,1,0,8.5,Sheikh Abu Naser Stadium,42
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AbuHider,Bangladesh,India,0,0,0,0,0,5,0,14,0,0,0,Shere Bangla National Stadium,0,0,2016,0
+AbuHider,Bangladesh,Oman,0,0,0,0,0,12,2,15,0,0,7.5,Himachal Pradesh Cricket Association Stadium,0,0,2016,0
+AbuHider,Bangladesh,Zimbabwe,14,10,1,1,140.0,26,4,34,1,0,8.5,Sheikh Abu Naser Stadium,0,0,2016,42
+AbuHider,Bangladesh,Zimbabwe,0,0,0,0,0,23,3,41,2,0,13.666666666666666,Sheikh Abu Naser Stadium,0,0,2016,44

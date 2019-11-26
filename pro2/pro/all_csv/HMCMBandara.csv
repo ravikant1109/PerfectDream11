@@ -1,9 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HMCMBandara,Sri Lanka,New Zealand,7,9,0,0,77.77777777777779,24,4,25,1,0,6.25,R Premadasa Stadium,32
-HMCMBandara,Sri Lanka,New Zealand,7,9,0,0,77.77777777777779,24,4,25,1,0,6.25,R Premadasa Stadium,32
-HMCMBandara,Sri Lanka,New Zealand,7,9,0,0,77.77777777777779,24,4,25,1,0,6.25,R Premadasa Stadium,32
-HMCMBandara,Sri Lanka,India,0,0,0,0,0,24,4,32,3,0,8.0,R Premadasa Stadium,75
-HMCMBandara,Sri Lanka,New Zealand,4,4,0,0,100.0,11,1,20,0,0,20.0,R Premadasa Stadium,4
-HMCMBandara,Sri Lanka,New Zealand,1,2,0,0,50.0,23,3,20,0,0,6.666666666666667,Eden Park,-3
-HMCMBandara,Sri Lanka,New Zealand,7,9,0,0,77.77777777777779,24,4,25,1,0,6.25,R Premadasa Stadium,32
-HMCMBandara,Sri Lanka,India,0,0,0,0,0,24,4,32,3,0,8.0,R Premadasa Stadium,75
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HMCMBandara,Sri Lanka,New Zealand,1,2,0,0,50.0,23,3,20,0,0,6.666666666666667,Eden Park,1,0,2006,9
+HMCMBandara,Sri Lanka,India,0,0,0,0,0,24,4,32,3,0,8.0,R Premadasa Stadium,0,0,2009,75
+HMCMBandara,Sri Lanka,New Zealand,4,4,0,0,100.0,11,1,20,0,0,20.0,R Premadasa Stadium,0,0,2009,4
+HMCMBandara,Sri Lanka,New Zealand,7,9,0,0,77.77777777777779,24,4,25,1,0,6.25,R Premadasa Stadium,0,1,2009,40

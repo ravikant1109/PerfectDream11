@@ -1,23 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JNFrylinck,Namibia,Bermuda,0,0,0,0,0,24,4,20,1,1,5.0,ICC Academy Ground No 2,35
-JNFrylinck,Namibia,Netherlands,0,1,0,0,0.0,25,4,25,3,0,6.25,ICC Academy,67
-JNFrylinck,Namibia,Uganda,19,10,1,1,190.0,20,3,27,1,0,9.0,Kyambogo Cricket Oval,47
-JNFrylinck,Namibia,Bermuda,0,0,0,0,0,24,4,20,1,1,5.0,ICC Academy Ground No 2,35
-JNFrylinck,Namibia,Netherlands,0,1,0,0,0.0,25,4,25,3,0,6.25,ICC Academy,67
-JNFrylinck,Namibia,Uganda,19,10,1,1,190.0,20,3,27,1,0,9.0,Kyambogo Cricket Oval,47
-JNFrylinck,Namibia,Bermuda,0,0,0,0,0,24,4,20,1,1,5.0,ICC Academy Ground No 2,35
-JNFrylinck,Namibia,Netherlands,0,1,0,0,0.0,25,4,25,3,0,6.25,ICC Academy,67
-JNFrylinck,Namibia,Uganda,19,10,1,1,190.0,20,3,27,1,0,9.0,Kyambogo Cricket Oval,47
-JNFrylinck,Namibia,Kenya,0,0,0,0,0,24,4,34,1,0,8.5,Dubai International Cricket Stadium,25
-JNFrylinck,Namibia,Scotland,1,1,0,0,100.0,23,3,17,2,0,5.666666666666667,ICC Academy,53
-JNFrylinck,Namibia,Ghana,0,0,0,0,0,25,4,21,2,0,5.25,Kyambogo Cricket Oval,52
-JNFrylinck,Namibia,Botswana,0,0,0,0,0,23,3,17,1,0,5.666666666666667,United Cricket Club Ground,27
-JNFrylinck,Namibia,Botswana,11,14,0,0,78.57142857142857,19,3,10,1,0,3.3333333333333335,United Cricket Club Ground,42
-JNFrylinck,Namibia,Papua New Guinea,13,16,1,0,81.25,13,2,18,3,0,9.0,ICC Academy Ground No 2,89
-JNFrylinck,Namibia,Botswana,0,0,0,0,0,5,0,1,1,0,0,Kyambogo Cricket Oval,25
-JNFrylinck,Namibia,Botswana,0,0,0,0,0,11,1,8,0,0,8.0,United Cricket Club Ground,0
-JNFrylinck,Namibia,Singapore,2,4,0,0,50.0,18,3,21,4,0,7.0,Dubai International Cricket Stadium,106
-JNFrylinck,Namibia,Bermuda,0,0,0,0,0,24,4,20,1,1,5.0,ICC Academy Ground No 2,35
-JNFrylinck,Namibia,Netherlands,0,1,0,0,0.0,25,4,25,3,0,6.25,ICC Academy,67
-JNFrylinck,Namibia,Uganda,19,10,1,1,190.0,20,3,27,1,0,9.0,Kyambogo Cricket Oval,47
-JNFrylinck,Namibia,Kenya,0,0,0,0,0,24,4,34,1,0,8.5,Dubai International Cricket Stadium,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JNFrylinck,Namibia,Botswana,11,14,0,0,78.57142857142857,19,3,10,1,0,3.3333333333333335,United Cricket Club Ground,0,2,2019,58
+JNFrylinck,Namibia,Botswana,0,0,0,0,0,23,3,17,1,0,5.666666666666667,United Cricket Club Ground,0,0,2019,27
+JNFrylinck,Namibia,Kenya,0,0,0,0,0,24,4,34,1,0,8.5,Dubai International Cricket Stadium,0,0,2019,25
+JNFrylinck,Namibia,Papua New Guinea,13,16,1,0,81.25,13,2,18,3,0,9.0,ICC Academy Ground No 2,1,0,2019,101
+JNFrylinck,Namibia,Singapore,2,4,0,0,50.0,18,3,21,4,0,7.0,Dubai International Cricket Stadium,0,0,2019,106
+JNFrylinck,Namibia,Netherlands,0,1,0,0,0.0,25,4,25,3,0,6.25,ICC Academy,0,1,2019,75
+JNFrylinck,Namibia,Scotland,1,1,0,0,100.0,23,3,17,2,0,5.666666666666667,ICC Academy,0,1,2019,61
+JNFrylinck,Namibia,Botswana,0,0,0,0,0,11,1,8,0,0,8.0,United Cricket Club Ground,0,0,2019,0
+JNFrylinck,Namibia,Bermuda,0,0,0,0,0,24,4,20,1,1,5.0,ICC Academy Ground No 2,0,0,2019,35
+JNFrylinck,Namibia,Ghana,0,0,0,0,0,25,4,21,2,0,5.25,Kyambogo Cricket Oval,0,1,2019,60
+JNFrylinck,Namibia,Botswana,0,0,0,0,0,5,0,1,1,0,0,Kyambogo Cricket Oval,0,0,2019,25
+JNFrylinck,Namibia,Uganda,19,10,1,1,190.0,20,3,27,1,0,9.0,Kyambogo Cricket Oval,0,0,2019,47

@@ -1,9 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AbdurRehman,Pakistan,South Africa,2,1,0,0,200.0,25,4,35,2,0,8.75,Beausejour Stadium Gros Islet,52
-AbdurRehman,Pakistan,South Africa,7,12,0,0,58.333333333333336,5,0,18,0,0,0,Dubai International Cricket Stadium,3
-AbdurRehman,Pakistan,Australia,0,0,0,0,0,24,4,33,2,0,8.25,Beausejour Stadium Gros Islet,50
-AbdurRehman,Pakistan,Kenya,0,0,0,0,0,17,2,7,2,0,3.5,Gymkhana Club Ground,56
-AbdurRehman,Pakistan,New Zealand,0,0,0,0,0,23,3,22,1,0,7.333333333333333,AMI Stadium,25
-AbdurRehman,Pakistan,New Zealand,2,3,0,0,66.66666666666666,19,3,19,2,0,6.333333333333333,Kensington Oval Bridgetown,50
-AbdurRehman,Pakistan,West Indies,7,8,0,0,87.5,24,4,22,2,0,5.5,Beausejour Stadium Gros Islet,59
-AbdurRehman,Pakistan,South Africa,2,1,0,0,200.0,25,4,35,2,0,8.75,Beausejour Stadium Gros Islet,52
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AbdurRehman,Pakistan,Australia,0,0,0,0,0,24,4,33,2,0,8.25,Beausejour Stadium Gros Islet,0,1,2010,58
+AbdurRehman,Pakistan,West Indies,7,8,0,0,87.5,24,4,22,2,0,5.5,Beausejour Stadium Gros Islet,0,1,2011,67
+AbdurRehman,Pakistan,Kenya,0,0,0,0,0,17,2,7,2,0,3.5,Gymkhana Club Ground,0,1,2007,64
+AbdurRehman,Pakistan,South Africa,2,1,0,0,200.0,25,4,35,2,0,8.75,Beausejour Stadium Gros Islet,0,0,2010,52
+AbdurRehman,Pakistan,South Africa,7,12,0,0,58.333333333333336,5,0,18,0,0,0,Dubai International Cricket Stadium,0,0,2013,3
+AbdurRehman,Pakistan,New Zealand,0,0,0,0,0,23,3,22,1,0,7.333333333333333,AMI Stadium,0,0,2010,25
+AbdurRehman,Pakistan,New Zealand,2,3,0,0,66.66666666666666,19,3,19,2,0,6.333333333333333,Kensington Oval Bridgetown,0,2,2010,66

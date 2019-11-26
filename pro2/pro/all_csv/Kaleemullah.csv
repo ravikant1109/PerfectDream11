@@ -1,10 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-Kaleemullah,Oman,Hong Kong,0,0,0,0,0,23,3,23,2,1,7.666666666666667,Sheikh Zayed Stadium,58
-Kaleemullah,Oman,Hong Kong,0,0,0,0,0,23,3,23,2,1,7.666666666666667,Sheikh Zayed Stadium,58
-Kaleemullah,Oman,Hong Kong,0,0,0,0,0,23,3,23,2,1,7.666666666666667,Sheikh Zayed Stadium,58
-Kaleemullah,Oman,Nigeria,0,0,0,0,0,11,1,13,0,0,13.0,Tolerance Oval,0
-Kaleemullah,Oman,Scotland,0,1,0,0,0.0,18,3,16,0,0,5.333333333333333,Dubai International Cricket Stadium,-6
-Kaleemullah,Oman,Jersey,9,6,0,1,150.0,19,3,28,0,0,9.333333333333334,Sheikh Zayed Stadium,9
-Kaleemullah,Oman,Netherlands,0,0,0,0,0,25,4,33,1,0,8.25,Sheikh Zayed Stadium,25
-Kaleemullah,Oman,Afghanistan,0,0,0,0,0,17,2,23,0,0,11.5,Dubai International Cricket Stadium,-6
-Kaleemullah,Oman,Hong Kong,0,0,0,0,0,23,3,23,2,1,7.666666666666667,Sheikh Zayed Stadium,58
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+Kaleemullah,Oman,Afghanistan,0,0,0,0,0,17,2,23,0,0,11.5,Dubai International Cricket Stadium,0,0,2017,-6
+Kaleemullah,Oman,Jersey,9,6,0,1,150.0,19,3,28,0,0,9.333333333333334,Sheikh Zayed Stadium,0,0,2019,9
+Kaleemullah,Oman,Hong Kong,0,0,0,0,0,23,3,23,2,1,7.666666666666667,Sheikh Zayed Stadium,1,0,2017,70
+Kaleemullah,Oman,Netherlands,0,0,0,0,0,25,4,33,1,0,8.25,Sheikh Zayed Stadium,0,0,2017,25
+Kaleemullah,Oman,Scotland,0,1,0,0,0.0,18,3,16,0,0,5.333333333333333,Dubai International Cricket Stadium,0,0,2017,-6
+Kaleemullah,Oman,Nigeria,0,0,0,0,0,11,1,13,0,0,13.0,Tolerance Oval,0,0,2019,0

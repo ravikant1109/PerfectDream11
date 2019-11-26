@@ -1,5 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JLPattinson,Australia,West Indies,0,0,0,0,0,18,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0
-JLPattinson,Australia,South Africa,5,3,1,0,166.66666666666669,24,4,18,2,0,4.5,New Wanderers Stadium,60
-JLPattinson,Australia,West Indies,0,0,0,0,0,13,2,34,0,0,17.0,Kensington Oval Bridgetown,-6
-JLPattinson,Australia,South Africa,0,0,0,0,0,24,4,32,1,0,8.0,Newlands,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JLPattinson,Australia,West Indies,0,0,0,0,0,18,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0,1,2012,8
+JLPattinson,Australia,South Africa,5,3,1,0,166.66666666666669,24,4,18,2,0,4.5,New Wanderers Stadium,0,1,2011,68
+JLPattinson,Australia,West Indies,0,0,0,0,0,13,2,34,0,0,17.0,Kensington Oval Bridgetown,0,0,2012,-6
+JLPattinson,Australia,South Africa,0,0,0,0,0,24,4,32,1,0,8.0,Newlands,0,0,2011,25

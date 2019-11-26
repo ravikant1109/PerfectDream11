@@ -1,9 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-Abdul-ShakoorRahimzei,Germany,Denmark,0,0,0,0,0,17,2,10,2,0,5.0,King George V Sports Ground,52
-Abdul-ShakoorRahimzei,Germany,Denmark,0,0,0,0,0,17,2,10,2,0,5.0,King George V Sports Ground,52
-Abdul-ShakoorRahimzei,Germany,Denmark,0,0,0,0,0,17,2,10,2,0,5.0,King George V Sports Ground,52
-Abdul-ShakoorRahimzei,Germany,Norway,17,11,2,0,154.54545454545453,0,0,0,0,0,0,College Field,19
-Abdul-ShakoorRahimzei,Germany,Italy,15,9,0,1,166.66666666666669,8,1,14,1,0,14.0,Sportpark Maarschalkerweerd,42
-Abdul-ShakoorRahimzei,Germany,Jersey,1,3,0,0,33.33333333333333,24,4,21,2,0,5.25,College Field,47
-Abdul-ShakoorRahimzei,Germany,Denmark,0,0,0,0,0,17,2,10,2,0,5.0,King George V Sports Ground,52
-Abdul-ShakoorRahimzei,Germany,Norway,17,11,2,0,154.54545454545453,0,0,0,0,0,0,College Field,19
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+Abdul-ShakoorRahimzei,Germany,Jersey,1,3,0,0,33.33333333333333,24,4,21,2,0,5.25,College Field,0,1,2019,55
+Abdul-ShakoorRahimzei,Germany,Norway,17,11,2,0,154.54545454545453,0,0,0,0,0,0,College Field,0,0,2019,19
+Abdul-ShakoorRahimzei,Germany,Denmark,0,0,0,0,0,17,2,10,2,0,5.0,King George V Sports Ground,0,0,2019,52
+Abdul-ShakoorRahimzei,Germany,Italy,15,9,0,1,166.66666666666669,8,1,14,1,0,14.0,Sportpark Maarschalkerweerd,0,1,2019,50

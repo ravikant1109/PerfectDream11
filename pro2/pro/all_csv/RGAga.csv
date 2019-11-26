@@ -1,25 +1,16 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RGAga,Kenya,Ireland,9,11,1,0,81.81818181818183,5,0,10,1,0,0,Mombasa Sports Club Ground,35
-RGAga,Kenya,Netherlands,2,2,0,0,100.0,23,3,24,3,0,8.0,Wanderers Cricket Ground,77
-RGAga,Kenya,Ireland,9,11,1,0,81.81818181818183,5,0,10,1,0,0,Mombasa Sports Club Ground,35
-RGAga,Kenya,Ireland,9,11,1,0,81.81818181818183,5,0,10,1,0,0,Mombasa Sports Club Ground,35
-RGAga,Kenya,Netherlands,2,2,0,0,100.0,23,3,24,3,0,8.0,Wanderers Cricket Ground,77
-RGAga,Kenya,Ireland,9,11,1,0,81.81818181818183,5,0,10,1,0,0,Mombasa Sports Club Ground,35
-RGAga,Kenya,Netherlands,2,2,0,0,100.0,23,3,24,3,0,8.0,Wanderers Cricket Ground,77
-RGAga,Kenya,Netherlands,0,0,0,0,0,15,2,4,1,0,2.0,Wanderers Cricket Ground,31
-RGAga,Kenya,Ireland,5,7,1,0,71.42857142857143,23,3,14,2,0,4.666666666666667,Civil Service Cricket Club Stormont,60
-RGAga,Kenya,Canada,3,5,0,0,60.0,12,2,15,2,0,7.5,Sharjah Cricket Stadium,51
-RGAga,Kenya,Ireland,25,27,2,0,92.5925925925926,7,1,8,0,0,8.0,Mombasa Sports Club Ground,27
-RGAga,Kenya,Ireland,3,8,0,0,37.5,11,1,9,0,0,9.0,Dubai International Cricket Stadium,-3
-RGAga,Kenya,Afghanistan,0,0,0,0,0,6,1,10,0,0,10.0,Sharjah Cricket Stadium,0
-RGAga,Kenya,Canada,31,23,2,1,134.7826086956522,0,0,0,0,0,0,ICC Global Cricket Academy,35
-RGAga,Kenya,Scotland,52,25,7,1,208.0,5,0,13,0,0,0,ICC Academy,69
-RGAga,Kenya,Canada,6,6,0,0,100.0,12,2,17,1,0,8.5,ICC Global Cricket Academy,31
-RGAga,Kenya,Afghanistan,2,4,0,0,50.0,24,4,24,1,0,6.0,Sharjah Cricket Stadium,23
-RGAga,Kenya,Netherlands,4,8,0,0,50.0,17,2,14,1,0,7.0,ICC Academy,25
-RGAga,Kenya,Ireland,12,12,0,0,100.0,11,1,14,0,0,14.0,Mombasa Sports Club Ground,12
-RGAga,Kenya,Afghanistan,3,4,0,0,75.0,17,2,15,1,0,7.5,Sharjah Cricket Stadium,28
-RGAga,Kenya,Ireland,9,11,1,0,81.81818181818183,5,0,10,1,0,0,Mombasa Sports Club Ground,35
-RGAga,Kenya,Netherlands,2,2,0,0,100.0,23,3,24,3,0,8.0,Wanderers Cricket Ground,77
-RGAga,Kenya,Netherlands,0,0,0,0,0,15,2,4,1,0,2.0,Wanderers Cricket Ground,31
-RGAga,Kenya,Ireland,5,7,1,0,71.42857142857143,23,3,14,2,0,4.666666666666667,Civil Service Cricket Club Stormont,60
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RGAga,Kenya,Netherlands,2,2,0,0,100.0,23,3,24,3,0,8.0,Wanderers Cricket Ground,1,0,2013,89
+RGAga,Kenya,Scotland,52,25,7,1,208.0,5,0,13,0,0,0,ICC Academy,0,2,2013,85
+RGAga,Kenya,Ireland,5,7,1,0,71.42857142857143,23,3,14,2,0,4.666666666666667,Civil Service Cricket Club Stormont,0,0,2008,60
+RGAga,Kenya,Netherlands,0,0,0,0,0,15,2,4,1,0,2.0,Wanderers Cricket Ground,0,1,2013,39
+RGAga,Kenya,Netherlands,4,8,0,0,50.0,17,2,14,1,0,7.0,ICC Academy,0,0,2013,25
+RGAga,Kenya,Canada,6,6,0,0,100.0,12,2,17,1,0,8.5,ICC Global Cricket Academy,0,0,2013,31
+RGAga,Kenya,Canada,3,5,0,0,60.0,12,2,15,2,0,7.5,Sharjah Cricket Stadium,0,0,2013,51
+RGAga,Kenya,Afghanistan,3,4,0,0,75.0,17,2,15,1,0,7.5,Sharjah Cricket Stadium,0,0,2013,28
+RGAga,Kenya,Ireland,9,11,1,0,81.81818181818183,5,0,10,1,0,0,Mombasa Sports Club Ground,0,0,2012,35
+RGAga,Kenya,Afghanistan,2,4,0,0,50.0,24,4,24,1,0,6.0,Sharjah Cricket Stadium,0,1,2013,31
+RGAga,Kenya,Canada,31,23,2,1,134.7826086956522,0,0,0,0,0,0,ICC Global Cricket Academy,0,1,2013,43
+RGAga,Kenya,Ireland,25,27,2,0,92.5925925925926,7,1,8,0,0,8.0,Mombasa Sports Club Ground,0,1,2012,35
+RGAga,Kenya,Ireland,3,8,0,0,37.5,11,1,9,0,0,9.0,Dubai International Cricket Stadium,0,0,2012,-3
+RGAga,Kenya,Afghanistan,0,0,0,0,0,6,1,10,0,0,10.0,Sharjah Cricket Stadium,0,0,2013,0
+RGAga,Kenya,Ireland,12,12,0,0,100.0,11,1,14,0,0,14.0,Mombasa Sports Club Ground,0,0,2012,12

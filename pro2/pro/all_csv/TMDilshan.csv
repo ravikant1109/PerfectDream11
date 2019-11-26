@@ -1,144 +1,77 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TMDilshan,Sri Lanka,West Indies,96,57,12,2,168.42105263157893,0,0,0,0,0,0,Kennington Oval,120
-TMDilshan,Sri Lanka,England,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kennington Oval,16
-TMDilshan,Sri Lanka,Pakistan,75,57,10,1,131.57894736842107,5,0,3,1,0,0,Shere Bangla National Stadium,120
-TMDilshan,Sri Lanka,United Arab Emirates,27,28,4,0,96.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,31
-TMDilshan,Sri Lanka,New Zealand,28,26,4,0,107.6923076923077,0,0,0,0,0,0,Eden Park,32
-TMDilshan,Sri Lanka,West Indies,13,10,2,0,130.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,15
-TMDilshan,Sri Lanka,Australia,6,11,0,0,54.54545454545454,11,1,10,0,0,10.0,Melbourne Cricket Ground,2
-TMDilshan,Sri Lanka,Zimbabwe,2,5,0,0,40.0,0,0,0,0,0,0,Providence Stadium,-4
-TMDilshan,Sri Lanka,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-TMDilshan,Sri Lanka,Australia,3,5,0,0,60.0,12,2,13,0,0,6.5,Newlands,1
-TMDilshan,Sri Lanka,Zimbabwe,39,31,5,0,125.80645161290323,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,44
-TMDilshan,Sri Lanka,West Indies,56,39,8,0,143.5897435897436,0,0,0,0,0,0,Pallekele International Cricket Stadium,72
-TMDilshan,Sri Lanka,Australia,20,13,1,1,153.84615384615387,0,0,0,0,0,0,Kensington Oval Bridgetown,23
-TMDilshan,Sri Lanka,Australia,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Pallekele International Cricket Stadium,5
-TMDilshan,Sri Lanka,New Zealand,57,28,8,2,203.57142857142856,0,0,0,0,0,0,R Premadasa Stadium,77
-TMDilshan,Sri Lanka,New Zealand,6,7,0,0,85.71428571428571,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,6
-TMDilshan,Sri Lanka,England,9,8,1,0,112.5,5,0,5,0,0,0,Beausejour Stadium Gros Islet,10
-TMDilshan,Sri Lanka,Australia,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,2
-TMDilshan,Sri Lanka,Pakistan,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1
-TMDilshan,Sri Lanka,India,18,18,2,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,20
-TMDilshan,Sri Lanka,West Indies,96,57,12,2,168.42105263157893,0,0,0,0,0,0,Kennington Oval,120
-TMDilshan,Sri Lanka,England,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kennington Oval,16
-TMDilshan,Sri Lanka,Pakistan,75,57,10,1,131.57894736842107,5,0,3,1,0,0,Shere Bangla National Stadium,120
-TMDilshan,Sri Lanka,United Arab Emirates,27,28,4,0,96.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,31
-TMDilshan,Sri Lanka,New Zealand,28,26,4,0,107.6923076923077,0,0,0,0,0,0,Eden Park,32
-TMDilshan,Sri Lanka,West Indies,13,10,2,0,130.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,15
-TMDilshan,Sri Lanka,Australia,6,11,0,0,54.54545454545454,11,1,10,0,0,10.0,Melbourne Cricket Ground,2
-TMDilshan,Sri Lanka,Zimbabwe,2,5,0,0,40.0,0,0,0,0,0,0,Providence Stadium,-4
-TMDilshan,Sri Lanka,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-TMDilshan,Sri Lanka,Australia,3,5,0,0,60.0,12,2,13,0,0,6.5,Newlands,1
-TMDilshan,Sri Lanka,Zimbabwe,39,31,5,0,125.80645161290323,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,44
-TMDilshan,Sri Lanka,West Indies,56,39,8,0,143.5897435897436,0,0,0,0,0,0,Pallekele International Cricket Stadium,72
-TMDilshan,Sri Lanka,Australia,20,13,1,1,153.84615384615387,0,0,0,0,0,0,Kensington Oval Bridgetown,23
-TMDilshan,Sri Lanka,Australia,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Pallekele International Cricket Stadium,5
-TMDilshan,Sri Lanka,New Zealand,57,28,8,2,203.57142857142856,0,0,0,0,0,0,R Premadasa Stadium,77
-TMDilshan,Sri Lanka,New Zealand,6,7,0,0,85.71428571428571,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,6
-TMDilshan,Sri Lanka,England,9,8,1,0,112.5,5,0,5,0,0,0,Beausejour Stadium Gros Islet,10
-TMDilshan,Sri Lanka,Australia,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,2
-TMDilshan,Sri Lanka,Pakistan,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1
-TMDilshan,Sri Lanka,India,18,18,2,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,20
-TMDilshan,Sri Lanka,West Indies,96,57,12,2,168.42105263157893,0,0,0,0,0,0,Kennington Oval,120
-TMDilshan,Sri Lanka,England,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kennington Oval,16
-TMDilshan,Sri Lanka,Pakistan,75,57,10,1,131.57894736842107,5,0,3,1,0,0,Shere Bangla National Stadium,120
-TMDilshan,Sri Lanka,United Arab Emirates,27,28,4,0,96.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,31
-TMDilshan,Sri Lanka,New Zealand,28,26,4,0,107.6923076923077,0,0,0,0,0,0,Eden Park,32
-TMDilshan,Sri Lanka,West Indies,13,10,2,0,130.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,15
-TMDilshan,Sri Lanka,Australia,6,11,0,0,54.54545454545454,11,1,10,0,0,10.0,Melbourne Cricket Ground,2
-TMDilshan,Sri Lanka,Zimbabwe,2,5,0,0,40.0,0,0,0,0,0,0,Providence Stadium,-4
-TMDilshan,Sri Lanka,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-TMDilshan,Sri Lanka,Australia,3,5,0,0,60.0,12,2,13,0,0,6.5,Newlands,1
-TMDilshan,Sri Lanka,Zimbabwe,39,31,5,0,125.80645161290323,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,44
-TMDilshan,Sri Lanka,West Indies,56,39,8,0,143.5897435897436,0,0,0,0,0,0,Pallekele International Cricket Stadium,72
-TMDilshan,Sri Lanka,Australia,20,13,1,1,153.84615384615387,0,0,0,0,0,0,Kensington Oval Bridgetown,23
-TMDilshan,Sri Lanka,Australia,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Pallekele International Cricket Stadium,5
-TMDilshan,Sri Lanka,New Zealand,57,28,8,2,203.57142857142856,0,0,0,0,0,0,R Premadasa Stadium,77
-TMDilshan,Sri Lanka,New Zealand,6,7,0,0,85.71428571428571,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,6
-TMDilshan,Sri Lanka,England,9,8,1,0,112.5,5,0,5,0,0,0,Beausejour Stadium Gros Islet,10
-TMDilshan,Sri Lanka,Australia,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,2
-TMDilshan,Sri Lanka,Pakistan,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1
-TMDilshan,Sri Lanka,India,18,18,2,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,20
-TMDilshan,Sri Lanka,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-TMDilshan,Sri Lanka,New Zealand,2,8,0,0,25.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-4
-TMDilshan,Sri Lanka,Ireland,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-TMDilshan,Sri Lanka,India,61,49,7,1,124.48979591836735,0,0,0,0,0,0,R Premadasa Stadium,78
-TMDilshan,Sri Lanka,West Indies,74,48,11,1,154.16666666666669,0,0,0,0,0,0,Trent Bridge,95
-TMDilshan,Sri Lanka,Pakistan,46,42,8,0,109.52380952380953,0,0,0,0,0,0,Lord's,54
-TMDilshan,Sri Lanka,Kenya,3,4,0,0,75.0,8,1,4,2,0,4.0,New Wanderers Stadium,53
-TMDilshan,Sri Lanka,Pakistan,0,5,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-TMDilshan,Sri Lanka,England,55,49,4,2,112.24489795918366,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,71
-TMDilshan,Sri Lanka,Afghanistan,83,56,8,3,148.21428571428572,0,0,0,0,0,0,Eden Gardens,105
-TMDilshan,Sri Lanka,New Zealand,33,49,2,0,67.3469387755102,5,0,4,0,0,0,Central Broward Regional Park Stadium Turf Ground,33
-TMDilshan,Sri Lanka,New Zealand,3,20,0,0,15.0,0,0,0,0,0,0,Providence Stadium,-3
-TMDilshan,Sri Lanka,New Zealand,1,3,0,0,33.33333333333333,11,1,31,0,0,31.0,R Premadasa Stadium,-5
-TMDilshan,Sri Lanka,South Africa,36,40,4,1,90.0,0,0,0,0,0,0,Feroz Shah Kotla,42
-TMDilshan,Sri Lanka,New Zealand,59,49,8,0,120.40816326530613,5,0,7,0,0,0,Pallekele International Cricket Stadium,75
-TMDilshan,Sri Lanka,Pakistan,6,5,1,0,120.0,0,0,0,0,0,0,R Premadasa Stadium,7
-TMDilshan,Sri Lanka,Pakistan,35,44,3,0,79.54545454545455,0,0,0,0,0,0,R Premadasa Stadium,38
-TMDilshan,Sri Lanka,India,33,26,5,0,126.92307692307692,12,2,15,0,0,7.5,Beausejour Stadium Gros Islet,38
-TMDilshan,Sri Lanka,Pakistan,10,8,2,0,125.0,0,0,0,0,0,0,R Premadasa Stadium,12
-TMDilshan,Sri Lanka,West Indies,12,10,1,0,120.0,0,0,0,0,0,0,M Chinnaswamy Stadium,13
-TMDilshan,Sri Lanka,India,0,1,0,0,0.0,0,0,0,0,0,0,JSCA International Stadium Complex,-8
-TMDilshan,Sri Lanka,South Africa,9,20,0,0,45.0,17,2,15,0,0,7.5,R Premadasa Stadium,3
-TMDilshan,Sri Lanka,Pakistan,28,19,4,0,147.36842105263156,11,1,8,1,0,8.0,Sheikh Zayed Stadium,57
-TMDilshan,Sri Lanka,New Zealand,0,1,0,0,0.0,11,1,20,0,0,20.0,Bay Oval,-8
-TMDilshan,Sri Lanka,India,1,2,0,0,50.0,5,0,4,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,-3
-TMDilshan,Sri Lanka,Australia,104,59,12,5,176.27118644067795,17,2,26,0,0,13.0,Pallekele International Cricket Stadium,136
-TMDilshan,Sri Lanka,Netherlands,12,12,1,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,13
-TMDilshan,Sri Lanka,England,16,13,1,1,123.07692307692308,0,0,0,0,0,0,Pallekele International Cricket Stadium,19
-TMDilshan,Sri Lanka,Australia,16,22,0,1,72.72727272727273,0,0,0,0,0,0,Stadium Australia,18
-TMDilshan,Sri Lanka,India,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-TMDilshan,Sri Lanka,New Zealand,3,11,0,0,27.27272727272727,20,3,8,0,0,2.6666666666666665,Eden Park,3
-TMDilshan,Sri Lanka,Pakistan,38,30,0,4,126.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,46
-TMDilshan,Sri Lanka,South Africa,74,51,9,2,145.09803921568627,11,1,21,0,0,21.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,95
-TMDilshan,Sri Lanka,West Indies,4,1,0,0,400.0,0,0,0,0,0,0,Kensington Oval Bridgetown,4
-TMDilshan,Sri Lanka,Australia,53,33,10,0,160.6060606060606,0,0,0,0,0,0,Trent Bridge,71
-TMDilshan,Sri Lanka,Australia,41,34,6,0,120.58823529411764,0,0,0,0,0,0,Western Australia Cricket Association Ground,47
-TMDilshan,Sri Lanka,India,34,33,5,0,103.03030303030303,5,0,14,1,0,0,Vidarbha Cricket Association Stadium Jamtha,64
-TMDilshan,Sri Lanka,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Dubai International Cricket Stadium,8
-TMDilshan,Sri Lanka,West Indies,52,39,5,0,133.33333333333331,0,0,0,0,0,0,R Premadasa Stadium,65
-TMDilshan,Sri Lanka,England,2,2,0,0,100.0,0,0,0,0,0,0,Feroz Shah Kotla,2
-TMDilshan,Sri Lanka,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-TMDilshan,Sri Lanka,Australia,1,3,0,0,33.33333333333333,11,1,8,2,0,8.0,R Premadasa Stadium,45
-TMDilshan,Sri Lanka,West Indies,39,39,2,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,43
-TMDilshan,Sri Lanka,Bangladesh,3,6,0,0,50.0,11,1,23,1,0,23.0,Zahur Ahmed Chowdhury Stadium,24
-TMDilshan,Sri Lanka,Pakistan,48,34,8,0,141.1764705882353,5,0,13,0,0,0,Dubai International Cricket Stadium,56
-TMDilshan,Sri Lanka,India,18,16,4,0,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,22
-TMDilshan,Sri Lanka,India,1,3,0,0,33.33333333333333,5,0,10,0,0,0,Punjab Cricket Association Stadium Mohali,-5
-TMDilshan,Sri Lanka,Pakistan,18,22,4,0,81.81818181818183,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,22
-TMDilshan,Sri Lanka,New Zealand,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,9
-TMDilshan,Sri Lanka,Pakistan,7,10,0,0,70.0,0,0,0,0,0,0,Maple Leaf North-West Ground,7
-TMDilshan,Sri Lanka,New Zealand,48,37,5,0,129.72972972972974,6,1,11,0,0,11.0,Trent Bridge,53
-TMDilshan,Sri Lanka,New Zealand,76,55,4,3,138.1818181818182,0,0,0,0,0,0,Pallekele International Cricket Stadium,94
-TMDilshan,Sri Lanka,Bangladesh,21,16,2,0,131.25,11,1,19,0,0,19.0,New Wanderers Stadium,23
-TMDilshan,Sri Lanka,Bangladesh,12,9,2,0,133.33333333333331,5,0,5,0,0,0,Shere Bangla National Stadium,14
-TMDilshan,Sri Lanka,England,2,5,0,0,40.0,11,1,18,1,0,18.0,The Rose Bowl,21
-TMDilshan,Sri Lanka,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Maple Leaf North-West Ground,-8
-TMDilshan,Sri Lanka,West Indies,96,57,12,2,168.42105263157893,0,0,0,0,0,0,Kennington Oval,120
-TMDilshan,Sri Lanka,England,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kennington Oval,16
-TMDilshan,Sri Lanka,Pakistan,75,57,10,1,131.57894736842107,5,0,3,1,0,0,Shere Bangla National Stadium,120
-TMDilshan,Sri Lanka,United Arab Emirates,27,28,4,0,96.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,31
-TMDilshan,Sri Lanka,New Zealand,28,26,4,0,107.6923076923077,0,0,0,0,0,0,Eden Park,32
-TMDilshan,Sri Lanka,West Indies,13,10,2,0,130.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,15
-TMDilshan,Sri Lanka,Australia,6,11,0,0,54.54545454545454,11,1,10,0,0,10.0,Melbourne Cricket Ground,2
-TMDilshan,Sri Lanka,Zimbabwe,2,5,0,0,40.0,0,0,0,0,0,0,Providence Stadium,-4
-TMDilshan,Sri Lanka,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-TMDilshan,Sri Lanka,Australia,3,5,0,0,60.0,12,2,13,0,0,6.5,Newlands,1
-TMDilshan,Sri Lanka,Zimbabwe,39,31,5,0,125.80645161290323,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,44
-TMDilshan,Sri Lanka,West Indies,56,39,8,0,143.5897435897436,0,0,0,0,0,0,Pallekele International Cricket Stadium,72
-TMDilshan,Sri Lanka,Australia,20,13,1,1,153.84615384615387,0,0,0,0,0,0,Kensington Oval Bridgetown,23
-TMDilshan,Sri Lanka,Australia,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Pallekele International Cricket Stadium,5
-TMDilshan,Sri Lanka,New Zealand,57,28,8,2,203.57142857142856,0,0,0,0,0,0,R Premadasa Stadium,77
-TMDilshan,Sri Lanka,New Zealand,6,7,0,0,85.71428571428571,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,6
-TMDilshan,Sri Lanka,England,9,8,1,0,112.5,5,0,5,0,0,0,Beausejour Stadium Gros Islet,10
-TMDilshan,Sri Lanka,Australia,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,2
-TMDilshan,Sri Lanka,Pakistan,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1
-TMDilshan,Sri Lanka,India,18,18,2,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,20
-TMDilshan,Sri Lanka,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-TMDilshan,Sri Lanka,New Zealand,2,8,0,0,25.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-4
-TMDilshan,Sri Lanka,Ireland,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-TMDilshan,Sri Lanka,India,61,49,7,1,124.48979591836735,0,0,0,0,0,0,R Premadasa Stadium,78
-TMDilshan,Sri Lanka,West Indies,74,48,11,1,154.16666666666669,0,0,0,0,0,0,Trent Bridge,95
-TMDilshan,Sri Lanka,Pakistan,46,42,8,0,109.52380952380953,0,0,0,0,0,0,Lord's,54
-TMDilshan,Sri Lanka,Kenya,3,4,0,0,75.0,8,1,4,2,0,4.0,New Wanderers Stadium,53
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TMDilshan,Sri Lanka,West Indies,96,57,12,2,168.42105263157893,0,0,0,0,0,0,Kennington Oval,0,0,2009,120
+TMDilshan,Sri Lanka,United Arab Emirates,27,28,4,0,96.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,31
+TMDilshan,Sri Lanka,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,-8
+TMDilshan,Sri Lanka,New Zealand,6,7,0,0,85.71428571428571,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2010,6
+TMDilshan,Sri Lanka,Pakistan,35,44,3,0,79.54545454545455,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,38
+TMDilshan,Sri Lanka,India,34,33,5,0,103.03030303030303,5,0,14,1,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2009,72
+TMDilshan,Sri Lanka,Australia,16,22,0,1,72.72727272727273,0,0,0,0,0,0,Stadium Australia,1,1,2013,38
+TMDilshan,Sri Lanka,New Zealand,48,37,5,0,129.72972972972974,6,1,11,0,0,11.0,Trent Bridge,1,0,2009,65
+TMDilshan,Sri Lanka,England,2,5,0,0,40.0,11,1,18,1,0,18.0,The Rose Bowl,0,0,2006,21
+TMDilshan,Sri Lanka,India,18,18,2,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,20
+TMDilshan,Sri Lanka,Australia,20,13,1,1,153.84615384615387,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,23
+TMDilshan,Sri Lanka,South Africa,36,40,4,1,90.0,0,0,0,0,0,0,Feroz Shah Kotla,1,0,2016,54
+TMDilshan,Sri Lanka,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,2,2008,8
+TMDilshan,Sri Lanka,Zimbabwe,39,31,5,0,125.80645161290323,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,44
+TMDilshan,Sri Lanka,Bangladesh,21,16,2,0,131.25,11,1,19,0,0,19.0,New Wanderers Stadium,0,1,2007,31
+TMDilshan,Sri Lanka,Pakistan,75,57,10,1,131.57894736842107,5,0,3,1,0,0,Shere Bangla National Stadium,0,0,2016,120
+TMDilshan,Sri Lanka,West Indies,13,10,2,0,130.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,2,2012,31
+TMDilshan,Sri Lanka,England,9,8,1,0,112.5,5,0,5,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,10
+TMDilshan,Sri Lanka,England,2,2,0,0,100.0,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2016,2
+TMDilshan,Sri Lanka,India,33,26,5,0,126.92307692307692,12,2,15,0,0,7.5,Beausejour Stadium Gros Islet,0,0,2010,38
+TMDilshan,Sri Lanka,New Zealand,59,49,8,0,120.40816326530613,5,0,7,0,0,0,Pallekele International Cricket Stadium,1,1,2013,95
+TMDilshan,Sri Lanka,Netherlands,12,12,1,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,13
+TMDilshan,Sri Lanka,Pakistan,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1,2,2012,29
+TMDilshan,Sri Lanka,South Africa,74,51,9,2,145.09803921568627,11,1,21,0,0,21.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,95
+TMDilshan,Sri Lanka,Zimbabwe,2,5,0,0,40.0,0,0,0,0,0,0,Providence Stadium,0,0,2010,-4
+TMDilshan,Sri Lanka,Pakistan,48,34,8,0,141.1764705882353,5,0,13,0,0,0,Dubai International Cricket Stadium,0,0,2013,56
+TMDilshan,Sri Lanka,India,0,1,0,0,0.0,0,0,0,0,0,0,JSCA International Stadium Complex,0,1,2016,0
+TMDilshan,Sri Lanka,New Zealand,3,11,0,0,27.27272727272727,20,3,8,0,0,2.6666666666666665,Eden Park,0,1,2006,11
+TMDilshan,Sri Lanka,Pakistan,0,5,0,0,0.0,0,0,0,0,0,0,Lord's,0,0,2009,-8
+TMDilshan,Sri Lanka,India,61,49,7,1,124.48979591836735,0,0,0,0,0,0,R Premadasa Stadium,0,1,2009,86
+TMDilshan,Sri Lanka,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,2,2014,8
+TMDilshan,Sri Lanka,New Zealand,1,3,0,0,33.33333333333333,11,1,31,0,0,31.0,R Premadasa Stadium,0,0,2009,-5
+TMDilshan,Sri Lanka,Afghanistan,83,56,8,3,148.21428571428572,0,0,0,0,0,0,Eden Gardens,0,0,2016,105
+TMDilshan,Sri Lanka,West Indies,52,39,5,0,133.33333333333331,0,0,0,0,0,0,R Premadasa Stadium,0,0,2015,65
+TMDilshan,Sri Lanka,West Indies,39,39,2,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,43
+TMDilshan,Sri Lanka,South Africa,9,20,0,0,45.0,17,2,15,0,0,7.5,R Premadasa Stadium,0,2,2013,19
+TMDilshan,Sri Lanka,New Zealand,76,55,4,3,138.1818181818182,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,102
+TMDilshan,Sri Lanka,West Indies,74,48,11,1,154.16666666666669,0,0,0,0,0,0,Trent Bridge,0,0,2009,95
+TMDilshan,Sri Lanka,Australia,104,59,12,5,176.27118644067795,17,2,26,0,0,13.0,Pallekele International Cricket Stadium,0,1,2011,144
+TMDilshan,Sri Lanka,Australia,41,34,6,0,120.58823529411764,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2010,47
+TMDilshan,Sri Lanka,Pakistan,6,5,1,0,120.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2015,7
+TMDilshan,Sri Lanka,Australia,53,33,10,0,160.6060606060606,0,0,0,0,0,0,Trent Bridge,0,1,2009,79
+TMDilshan,Sri Lanka,England,16,13,1,1,123.07692307692308,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,27
+TMDilshan,Sri Lanka,Pakistan,46,42,8,0,109.52380952380953,0,0,0,0,0,0,Lord's,0,1,2009,62
+TMDilshan,Sri Lanka,Australia,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2016,5
+TMDilshan,Sri Lanka,New Zealand,3,20,0,0,15.0,0,0,0,0,0,0,Providence Stadium,1,0,2010,9
+TMDilshan,Sri Lanka,India,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,-8
+TMDilshan,Sri Lanka,West Indies,56,39,8,0,143.5897435897436,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2015,72
+TMDilshan,Sri Lanka,England,55,49,4,2,112.24489795918366,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,71
+TMDilshan,Sri Lanka,India,18,16,4,0,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,22
+TMDilshan,Sri Lanka,New Zealand,2,8,0,0,25.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,-4
+TMDilshan,Sri Lanka,Australia,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,2
+TMDilshan,Sri Lanka,Bangladesh,3,6,0,0,50.0,11,1,23,1,0,23.0,Zahur Ahmed Chowdhury Stadium,1,0,2014,36
+TMDilshan,Sri Lanka,New Zealand,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,9
+TMDilshan,Sri Lanka,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2013,16
+TMDilshan,Sri Lanka,West Indies,4,1,0,0,400.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,4
+TMDilshan,Sri Lanka,Bangladesh,12,9,2,0,133.33333333333331,5,0,5,0,0,0,Shere Bangla National Stadium,0,0,2016,14
+TMDilshan,Sri Lanka,Ireland,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,0,1,2009,0
+TMDilshan,Sri Lanka,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,-8
+TMDilshan,Sri Lanka,Pakistan,10,8,2,0,125.0,0,0,0,0,0,0,R Premadasa Stadium,1,0,2015,24
+TMDilshan,Sri Lanka,New Zealand,33,49,2,0,67.3469387755102,5,0,4,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2010,33
+TMDilshan,Sri Lanka,India,1,3,0,0,33.33333333333333,5,0,10,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2009,-5
+TMDilshan,Sri Lanka,India,1,2,0,0,50.0,5,0,4,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,-3
+TMDilshan,Sri Lanka,Pakistan,18,22,4,0,81.81818181818183,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,2,2012,38
+TMDilshan,Sri Lanka,Pakistan,7,10,0,0,70.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2008,7
+TMDilshan,Sri Lanka,Pakistan,38,30,0,4,126.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,0,2,2007,62
+TMDilshan,Sri Lanka,Australia,3,5,0,0,60.0,12,2,13,0,0,6.5,Newlands,0,0,2007,1
+TMDilshan,Sri Lanka,West Indies,12,10,1,0,120.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2016,13
+TMDilshan,Sri Lanka,Australia,6,11,0,0,54.54545454545454,11,1,10,0,0,10.0,Melbourne Cricket Ground,0,0,2013,2
+TMDilshan,Sri Lanka,Pakistan,28,19,4,0,147.36842105263156,11,1,8,1,0,8.0,Sheikh Zayed Stadium,0,0,2011,57
+TMDilshan,Sri Lanka,New Zealand,28,26,4,0,107.6923076923077,0,0,0,0,0,0,Eden Park,0,0,2016,32
+TMDilshan,Sri Lanka,New Zealand,0,1,0,0,0.0,11,1,20,0,0,20.0,Bay Oval,0,0,2016,-8
+TMDilshan,Sri Lanka,Kenya,3,4,0,0,75.0,8,1,4,2,0,4.0,New Wanderers Stadium,0,0,2007,53
+TMDilshan,Sri Lanka,England,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kennington Oval,0,1,2014,24
+TMDilshan,Sri Lanka,New Zealand,57,28,8,2,203.57142857142856,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,77
+TMDilshan,Sri Lanka,Australia,1,3,0,0,33.33333333333333,11,1,8,2,0,8.0,R Premadasa Stadium,0,0,2016,45

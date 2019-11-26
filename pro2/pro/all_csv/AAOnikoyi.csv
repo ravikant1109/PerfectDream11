@@ -1,11 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AAOnikoyi,Nigeria,Ireland,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Sheikh Zayed Stadium,11
-AAOnikoyi,Nigeria,Ireland,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Sheikh Zayed Stadium,11
-AAOnikoyi,Nigeria,Ireland,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Sheikh Zayed Stadium,11
-AAOnikoyi,Nigeria,Jersey,17,17,1,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,18
-AAOnikoyi,Nigeria,Canada,0,2,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-AAOnikoyi,Nigeria,Oman,10,24,0,0,41.66666666666667,0,0,0,0,0,0,Tolerance Oval,4
-AAOnikoyi,Nigeria,Botswana,5,10,0,0,50.0,0,0,0,0,0,0,Lugogo Cricket Oval,1
-AAOnikoyi,Nigeria,Ghana,49,36,2,4,136.11111111111111,0,0,0,0,0,0,Kyambogo Cricket Oval,59
-AAOnikoyi,Nigeria,Hong Kong,18,35,1,0,51.42857142857142,0,0,0,0,0,0,Tolerance Oval,15
-AAOnikoyi,Nigeria,Ireland,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Sheikh Zayed Stadium,11
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AAOnikoyi,Nigeria,Ireland,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2019,19
+AAOnikoyi,Nigeria,Jersey,17,17,1,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,18
+AAOnikoyi,Nigeria,Ghana,49,36,2,4,136.11111111111111,0,0,0,0,0,0,Kyambogo Cricket Oval,0,0,2019,59
+AAOnikoyi,Nigeria,Hong Kong,18,35,1,0,51.42857142857142,0,0,0,0,0,0,Tolerance Oval,0,0,2019,15
+AAOnikoyi,Nigeria,Botswana,5,10,0,0,50.0,0,0,0,0,0,0,Lugogo Cricket Oval,0,0,2019,1
+AAOnikoyi,Nigeria,Canada,0,2,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2019,0
+AAOnikoyi,Nigeria,Oman,10,24,0,0,41.66666666666667,0,0,0,0,0,0,Tolerance Oval,0,0,2019,4

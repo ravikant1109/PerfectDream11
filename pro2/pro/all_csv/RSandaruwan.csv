@@ -1,10 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RSandaruwan,Kuwait,Nepal,15,16,1,0,93.75,0,0,0,0,0,0,Indian Association Ground,16
-RSandaruwan,Kuwait,Malaysia,0,3,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
-RSandaruwan,Kuwait,Nepal,15,16,1,0,93.75,0,0,0,0,0,0,Indian Association Ground,16
-RSandaruwan,Kuwait,Malaysia,0,3,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
-RSandaruwan,Kuwait,Nepal,15,16,1,0,93.75,0,0,0,0,0,0,Indian Association Ground,16
-RSandaruwan,Kuwait,Malaysia,0,3,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
-RSandaruwan,Kuwait,Qatar,26,13,4,1,200.0,0,0,0,0,0,0,Indian Association Ground,32
-RSandaruwan,Kuwait,Nepal,15,16,1,0,93.75,0,0,0,0,0,0,Indian Association Ground,16
-RSandaruwan,Kuwait,Malaysia,0,3,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RSandaruwan,Kuwait,Malaysia,0,3,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,-8
+RSandaruwan,Kuwait,Nepal,15,16,1,0,93.75,0,0,0,0,0,0,Indian Association Ground,0,0,2019,16
+RSandaruwan,Kuwait,Qatar,26,13,4,1,200.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,32

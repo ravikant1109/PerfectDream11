@@ -1,8 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,83
-SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,83
-SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,83
-SMBoland,Australia,India,0,0,0,0,0,19,3,34,0,0,11.333333333333334,Sydney Cricket Ground,-6
-SMBoland,Australia,India,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Melbourne Cricket Ground,-4
-SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,83
-SMBoland,Australia,India,0,0,0,0,0,19,3,34,0,0,11.333333333333334,Sydney Cricket Ground,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SMBoland,Australia,India,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Melbourne Cricket Ground,0,0,2016,-4
+SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,0,1,2016,91
+SMBoland,Australia,India,0,0,0,0,0,19,3,34,0,0,11.333333333333334,Sydney Cricket Ground,0,0,2016,-6

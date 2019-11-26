@@ -1,29 +1,22 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MRJWatt,Scotland,Afghanistan,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Vidarbha Cricket Association Stadium Jamtha,21
-MRJWatt,Scotland,Netherlands,0,0,0,0,0,24,4,18,0,0,4.5,Sheikh Zayed Stadium,4
-MRJWatt,Scotland,Afghanistan,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Vidarbha Cricket Association Stadium Jamtha,21
-MRJWatt,Scotland,Netherlands,0,0,0,0,0,24,4,18,0,0,4.5,Sheikh Zayed Stadium,4
-MRJWatt,Scotland,Afghanistan,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Vidarbha Cricket Association Stadium Jamtha,21
-MRJWatt,Scotland,Netherlands,0,0,0,0,0,24,4,18,0,0,4.5,Sheikh Zayed Stadium,4
-MRJWatt,Scotland,Zimbabwe,9,5,1,0,180.0,23,3,21,2,0,7.0,Vidarbha Cricket Association Stadium Jamtha,60
-MRJWatt,Scotland,Afghanistan,1,1,0,0,100.0,11,1,41,0,0,41.0,Grange Cricket Club Ground Raeburn Place,1
-MRJWatt,Scotland,Netherlands,0,0,0,0,0,23,3,40,1,0,13.333333333333334,The Village Malahide,19
-MRJWatt,Scotland,Bermuda,0,0,0,0,0,26,4,18,2,0,4.5,Dubai International Cricket Stadium,54
-MRJWatt,Scotland,Ireland,6,4,1,0,150.0,24,4,47,1,0,11.75,Dubai International Cricket Stadium,26
-MRJWatt,Scotland,Namibia,4,7,0,0,57.14285714285714,23,3,32,1,0,10.666666666666666,ICC Academy,21
-MRJWatt,Scotland,Netherlands,1,2,0,0,50.0,23,3,19,3,0,6.333333333333333,Dubai International Cricket Stadium,72
-MRJWatt,Scotland,Oman,0,0,0,0,0,23,3,24,2,0,8.0,Dubai International Cricket Stadium,50
-MRJWatt,Scotland,United Arab Emirates,4,3,1,0,133.33333333333331,24,4,36,0,0,9.0,ICC Academy,5
-MRJWatt,Scotland,Papua New Guinea,2,1,0,0,200.0,23,3,23,2,1,7.666666666666667,ICC Academy,60
-MRJWatt,Scotland,Ireland,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Bready Cricket Club Magheramason,-4
-MRJWatt,Scotland,Ireland,14,8,3,0,175.0,23,3,38,3,0,12.666666666666666,The Village Malahide,86
-MRJWatt,Scotland,Kenya,0,0,0,0,0,24,4,31,0,0,7.75,ICC Academy Ground No 2,0
-MRJWatt,Scotland,Hong Kong,11,6,0,1,183.33333333333331,17,2,17,2,0,8.5,Mission Road Ground Mong Kok,63
-MRJWatt,Scotland,Netherlands,0,2,0,0,0.0,24,4,41,1,0,10.25,Grange Cricket Club Ground Raeburn Place,13
-MRJWatt,Scotland,Hong Kong,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Sheikh Zayed Stadium,25
-MRJWatt,Scotland,Hong Kong,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Vidarbha Cricket Association Stadium Jamtha,25
-MRJWatt,Scotland,Hong Kong,0,0,0,0,0,12,2,12,0,0,6.0,Mission Road Ground Mong Kok,0
-MRJWatt,Scotland,United Arab Emirates,0,0,0,0,0,23,3,28,3,0,9.333333333333334,Grange Cricket Club Ground Raeburn Place,73
-MRJWatt,Scotland,Afghanistan,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Vidarbha Cricket Association Stadium Jamtha,21
-MRJWatt,Scotland,Netherlands,0,0,0,0,0,24,4,18,0,0,4.5,Sheikh Zayed Stadium,4
-MRJWatt,Scotland,Zimbabwe,9,5,1,0,180.0,23,3,21,2,0,7.0,Vidarbha Cricket Association Stadium Jamtha,60
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MRJWatt,Scotland,Hong Kong,11,6,0,1,183.33333333333331,17,2,17,2,0,8.5,Mission Road Ground Mong Kok,0,0,2016,63
+MRJWatt,Scotland,United Arab Emirates,0,0,0,0,0,23,3,28,3,0,9.333333333333334,Grange Cricket Club Ground Raeburn Place,0,0,2015,73
+MRJWatt,Scotland,Ireland,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Bready Cricket Club Magheramason,0,0,2015,-4
+MRJWatt,Scotland,Netherlands,0,2,0,0,0.0,24,4,41,1,0,10.25,Grange Cricket Club Ground Raeburn Place,0,0,2015,13
+MRJWatt,Scotland,Papua New Guinea,2,1,0,0,200.0,23,3,23,2,1,7.666666666666667,ICC Academy,0,0,2019,60
+MRJWatt,Scotland,Netherlands,0,0,0,0,0,23,3,40,1,0,13.333333333333334,The Village Malahide,0,1,2019,27
+MRJWatt,Scotland,Ireland,14,8,3,0,175.0,23,3,38,3,0,12.666666666666666,The Village Malahide,0,0,2019,86
+MRJWatt,Scotland,Zimbabwe,9,5,1,0,180.0,23,3,21,2,0,7.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,60
+MRJWatt,Scotland,Kenya,0,0,0,0,0,24,4,31,0,0,7.75,ICC Academy Ground No 2,0,0,2019,0
+MRJWatt,Scotland,Namibia,4,7,0,0,57.14285714285714,23,3,32,1,0,10.666666666666666,ICC Academy,0,1,2019,29
+MRJWatt,Scotland,Hong Kong,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,25
+MRJWatt,Scotland,Netherlands,1,2,0,0,50.0,23,3,19,3,0,6.333333333333333,Dubai International Cricket Stadium,0,0,2019,72
+MRJWatt,Scotland,Netherlands,0,0,0,0,0,24,4,18,0,0,4.5,Sheikh Zayed Stadium,0,0,2017,4
+MRJWatt,Scotland,Hong Kong,0,0,0,0,0,12,2,12,0,0,6.0,Mission Road Ground Mong Kok,0,0,2016,0
+MRJWatt,Scotland,United Arab Emirates,4,3,1,0,133.33333333333331,24,4,36,0,0,9.0,ICC Academy,0,0,2016,5
+MRJWatt,Scotland,Ireland,6,4,1,0,150.0,24,4,47,1,0,11.75,Dubai International Cricket Stadium,0,0,2017,26
+MRJWatt,Scotland,Oman,0,0,0,0,0,23,3,24,2,0,8.0,Dubai International Cricket Stadium,0,0,2017,50
+MRJWatt,Scotland,Hong Kong,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Sheikh Zayed Stadium,1,0,2017,37
+MRJWatt,Scotland,Afghanistan,1,1,0,0,100.0,11,1,41,0,0,41.0,Grange Cricket Club Ground Raeburn Place,0,0,2015,1
+MRJWatt,Scotland,Bermuda,0,0,0,0,0,26,4,18,2,0,4.5,Dubai International Cricket Stadium,0,0,2019,54
+MRJWatt,Scotland,Afghanistan,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,21

@@ -1,46 +1,23 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-YounisKhan,Pakistan,Netherlands,36,20,0,3,180.0,0,0,0,0,0,0,Lord's,42
-YounisKhan,Pakistan,New Zealand,4,15,0,0,26.666666666666668,0,0,0,0,0,0,Newlands,-2
-YounisKhan,Pakistan,India,24,25,4,0,96.0,0,0,0,0,0,0,New Wanderers Stadium,28
-YounisKhan,Pakistan,India,2,8,0,0,25.0,0,0,0,0,0,0,Kingsmead,-4
-YounisKhan,Pakistan,New Zealand,2,5,0,0,40.0,0,0,0,0,0,0,Eden Park,-4
-YounisKhan,Pakistan,England,0,1,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-YounisKhan,Pakistan,Netherlands,36,20,0,3,180.0,0,0,0,0,0,0,Lord's,42
-YounisKhan,Pakistan,New Zealand,4,15,0,0,26.666666666666668,0,0,0,0,0,0,Newlands,-2
-YounisKhan,Pakistan,Netherlands,36,20,0,3,180.0,0,0,0,0,0,0,Lord's,42
-YounisKhan,Pakistan,New Zealand,4,15,0,0,26.666666666666668,0,0,0,0,0,0,Newlands,-2
-YounisKhan,Pakistan,India,24,25,4,0,96.0,0,0,0,0,0,0,New Wanderers Stadium,28
-YounisKhan,Pakistan,India,2,8,0,0,25.0,0,0,0,0,0,0,Kingsmead,-4
-YounisKhan,Pakistan,New Zealand,2,5,0,0,40.0,0,0,0,0,0,0,Eden Park,-4
-YounisKhan,Pakistan,England,0,1,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-YounisKhan,Pakistan,Netherlands,36,20,0,3,180.0,0,0,0,0,0,0,Lord's,42
-YounisKhan,Pakistan,Netherlands,36,20,0,3,180.0,0,0,0,0,0,0,Lord's,42
-YounisKhan,Pakistan,New Zealand,4,15,0,0,26.666666666666668,0,0,0,0,0,0,Newlands,-2
-YounisKhan,Pakistan,India,24,25,4,0,96.0,0,0,0,0,0,0,New Wanderers Stadium,28
-YounisKhan,Pakistan,India,2,8,0,0,25.0,0,0,0,0,0,0,Kingsmead,-4
-YounisKhan,Pakistan,New Zealand,2,5,0,0,40.0,0,0,0,0,0,0,Eden Park,-4
-YounisKhan,Pakistan,England,0,1,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-YounisKhan,Pakistan,Scotland,41,31,3,2,132.25806451612902,0,0,0,0,0,0,Kingsmead,48
-YounisKhan,Pakistan,Sri Lanka,50,37,4,0,135.13513513513513,0,0,0,0,0,0,Lord's,62
-YounisKhan,Pakistan,Bangladesh,47,28,7,0,167.85714285714286,0,0,0,0,0,0,National Stadium,54
-YounisKhan,Pakistan,Kenya,0,0,0,0,0,21,3,20,3,0,6.666666666666667,Gymkhana Club Ground,75
-YounisKhan,Pakistan,Bangladesh,1,5,0,0,20.0,0,0,0,0,0,0,Newlands,-5
-YounisKhan,Pakistan,New Zealand,3,4,0,0,75.0,0,0,0,0,0,0,Seddon Park,3
-YounisKhan,Pakistan,New Zealand,5,9,0,0,55.55555555555556,0,0,0,0,0,0,AMI Stadium,1
-YounisKhan,Pakistan,Australia,4,3,1,0,133.33333333333331,0,0,0,0,0,0,New Wanderers Stadium,5
-YounisKhan,Pakistan,Sri Lanka,51,37,2,3,137.83783783783784,0,0,0,0,0,0,New Wanderers Stadium,67
-YounisKhan,Pakistan,New Zealand,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Kennington Oval,4
-YounisKhan,Pakistan,Bangladesh,48,25,1,4,192.0,0,0,0,0,0,0,Gymkhana Club Ground,57
-YounisKhan,Pakistan,Ireland,10,8,1,0,125.0,0,0,0,0,0,0,Kennington Oval,11
-YounisKhan,Pakistan,Sri Lanka,0,4,0,0,0.0,0,0,0,0,0,0,Maple Leaf North-West Ground,-8
-YounisKhan,Pakistan,England,46,31,5,0,148.38709677419354,0,0,0,0,0,0,Kennington Oval,51
-YounisKhan,Pakistan,Sri Lanka,24,24,2,0,100.0,0,0,0,0,0,0,Maple Leaf North-West Ground,26
-YounisKhan,Pakistan,South Africa,24,18,1,0,133.33333333333331,0,0,0,0,0,0,Trent Bridge,25
-YounisKhan,Pakistan,Netherlands,36,20,0,3,180.0,0,0,0,0,0,0,Lord's,42
-YounisKhan,Pakistan,New Zealand,4,15,0,0,26.666666666666668,0,0,0,0,0,0,Newlands,-2
-YounisKhan,Pakistan,India,24,25,4,0,96.0,0,0,0,0,0,0,New Wanderers Stadium,28
-YounisKhan,Pakistan,India,2,8,0,0,25.0,0,0,0,0,0,0,Kingsmead,-4
-YounisKhan,Pakistan,New Zealand,2,5,0,0,40.0,0,0,0,0,0,0,Eden Park,-4
-YounisKhan,Pakistan,England,0,1,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-YounisKhan,Pakistan,Scotland,41,31,3,2,132.25806451612902,0,0,0,0,0,0,Kingsmead,48
-YounisKhan,Pakistan,Sri Lanka,50,37,4,0,135.13513513513513,0,0,0,0,0,0,Lord's,62
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+YounisKhan,Pakistan,Bangladesh,47,28,7,0,167.85714285714286,0,0,0,0,0,0,National Stadium,0,1,2008,62
+YounisKhan,Pakistan,Sri Lanka,24,24,2,0,100.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2008,26
+YounisKhan,Pakistan,Netherlands,36,20,0,3,180.0,0,0,0,0,0,0,Lord's,0,0,2009,42
+YounisKhan,Pakistan,South Africa,24,18,1,0,133.33333333333331,0,0,0,0,0,0,Trent Bridge,0,0,2009,25
+YounisKhan,Pakistan,New Zealand,2,5,0,0,40.0,0,0,0,0,0,0,Eden Park,0,1,2010,4
+YounisKhan,Pakistan,Bangladesh,48,25,1,4,192.0,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,57
+YounisKhan,Pakistan,Ireland,10,8,1,0,125.0,0,0,0,0,0,0,Kennington Oval,0,1,2009,19
+YounisKhan,Pakistan,Kenya,0,0,0,0,0,21,3,20,3,0,6.666666666666667,Gymkhana Club Ground,0,0,2007,75
+YounisKhan,Pakistan,England,0,1,0,0,0.0,0,0,0,0,0,0,County Ground,0,1,2006,0
+YounisKhan,Pakistan,Australia,4,3,1,0,133.33333333333331,0,0,0,0,0,0,New Wanderers Stadium,0,2,2007,21
+YounisKhan,Pakistan,Sri Lanka,50,37,4,0,135.13513513513513,0,0,0,0,0,0,Lord's,0,1,2009,70
+YounisKhan,Pakistan,New Zealand,5,9,0,0,55.55555555555556,0,0,0,0,0,0,AMI Stadium,0,0,2010,1
+YounisKhan,Pakistan,Bangladesh,1,5,0,0,20.0,0,0,0,0,0,0,Newlands,0,0,2007,-5
+YounisKhan,Pakistan,India,2,8,0,0,25.0,0,0,0,0,0,0,Kingsmead,0,1,2007,4
+YounisKhan,Pakistan,England,46,31,5,0,148.38709677419354,0,0,0,0,0,0,Kennington Oval,0,0,2009,51
+YounisKhan,Pakistan,New Zealand,4,15,0,0,26.666666666666668,0,0,0,0,0,0,Newlands,0,1,2007,6
+YounisKhan,Pakistan,Sri Lanka,0,4,0,0,0.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2008,-8
+YounisKhan,Pakistan,Sri Lanka,51,37,2,3,137.83783783783784,0,0,0,0,0,0,New Wanderers Stadium,0,2,2007,83
+YounisKhan,Pakistan,New Zealand,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Kennington Oval,1,0,2009,16
+YounisKhan,Pakistan,Scotland,41,31,3,2,132.25806451612902,0,0,0,0,0,0,Kingsmead,0,0,2007,48
+YounisKhan,Pakistan,New Zealand,3,4,0,0,75.0,0,0,0,0,0,0,Seddon Park,0,0,2010,3
+YounisKhan,Pakistan,India,24,25,4,0,96.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,28

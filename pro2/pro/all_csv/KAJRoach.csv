@@ -1,15 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KAJRoach,West Indies,Bangladesh,0,0,0,0,0,25,4,19,0,0,4.75,Warner Park Basseterre,4
-KAJRoach,West Indies,Bangladesh,0,0,0,0,0,25,4,19,0,0,4.75,Warner Park Basseterre,4
-KAJRoach,West Indies,Bangladesh,0,0,0,0,0,25,4,19,0,0,4.75,Warner Park Basseterre,4
-KAJRoach,West Indies,India,0,0,0,0,0,31,5,38,2,0,7.6,Kensington Oval Bridgetown,50
-KAJRoach,West Indies,Zimbabwe,0,0,0,0,0,24,4,15,0,1,3.75,Queen's Park Oval Port of Spain,14
-KAJRoach,West Indies,Australia,0,0,0,0,0,13,2,30,0,0,15.0,Bellerive Oval,-6
-KAJRoach,West Indies,South Africa,3,2,0,0,150.0,25,4,26,2,0,6.5,Sir Vivian Richards Stadium North Sound,53
-KAJRoach,West Indies,Bangladesh,0,0,0,0,0,24,4,36,1,0,9.0,Shere Bangla National Stadium,25
-KAJRoach,West Indies,Ireland,0,0,0,0,0,28,4,16,1,0,4.0,Providence Stadium,29
-KAJRoach,West Indies,Australia,0,0,0,0,0,18,3,30,2,0,10.0,Kensington Oval Bridgetown,48
-KAJRoach,West Indies,Sri Lanka,0,0,0,0,0,25,4,29,2,0,7.25,Kensington Oval Bridgetown,50
-KAJRoach,West Indies,South Africa,0,0,0,0,0,24,4,25,0,0,6.25,Sir Vivian Richards Stadium North Sound,0
-KAJRoach,West Indies,Australia,0,0,0,0,0,12,2,33,0,0,16.5,Sydney Cricket Ground,-6
-KAJRoach,West Indies,Bangladesh,0,0,0,0,0,25,4,19,0,0,4.75,Warner Park Basseterre,4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KAJRoach,West Indies,Australia,0,0,0,0,0,12,2,33,0,0,16.5,Sydney Cricket Ground,0,0,2010,-6
+KAJRoach,West Indies,Australia,0,0,0,0,0,13,2,30,0,0,15.0,Bellerive Oval,0,1,2010,2
+KAJRoach,West Indies,India,0,0,0,0,0,31,5,38,2,0,7.6,Kensington Oval Bridgetown,0,0,2010,50
+KAJRoach,West Indies,Bangladesh,0,0,0,0,0,25,4,19,0,0,4.75,Warner Park Basseterre,0,0,2009,4
+KAJRoach,West Indies,Ireland,0,0,0,0,0,28,4,16,1,0,4.0,Providence Stadium,0,0,2010,29
+KAJRoach,West Indies,South Africa,3,2,0,0,150.0,25,4,26,2,0,6.5,Sir Vivian Richards Stadium North Sound,0,0,2010,53
+KAJRoach,West Indies,Australia,0,0,0,0,0,18,3,30,2,0,10.0,Kensington Oval Bridgetown,0,0,2008,48
+KAJRoach,West Indies,Sri Lanka,0,0,0,0,0,25,4,29,2,0,7.25,Kensington Oval Bridgetown,0,0,2010,50
+KAJRoach,West Indies,South Africa,0,0,0,0,0,24,4,25,0,0,6.25,Sir Vivian Richards Stadium North Sound,0,0,2010,0
+KAJRoach,West Indies,Bangladesh,0,0,0,0,0,24,4,36,1,0,9.0,Shere Bangla National Stadium,0,0,2012,25
+KAJRoach,West Indies,Zimbabwe,0,0,0,0,0,24,4,15,0,1,3.75,Queen's Park Oval Port of Spain,0,0,2010,14

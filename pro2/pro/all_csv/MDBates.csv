@@ -1,11 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MDBates,New Zealand,Zimbabwe,0,0,0,0,0,23,3,31,3,0,10.333333333333334,Eden Park,71
-MDBates,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,1,0,11.75,Seddon Park,19
-MDBates,New Zealand,Zimbabwe,0,0,0,0,0,23,3,31,3,0,10.333333333333334,Eden Park,71
-MDBates,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,1,0,11.75,Seddon Park,19
-MDBates,New Zealand,Zimbabwe,0,0,0,0,0,23,3,31,3,0,10.333333333333334,Eden Park,71
-MDBates,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,1,0,11.75,Seddon Park,19
-MDBates,New Zealand,South Africa,0,0,0,0,0,17,2,30,0,0,15.0,Eden Park,-6
-MDBates,New Zealand,Zimbabwe,0,0,0,0,0,23,3,31,3,0,10.333333333333334,Eden Park,71
-MDBates,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,1,0,11.75,Seddon Park,19
-MDBates,New Zealand,South Africa,0,0,0,0,0,17,2,30,0,0,15.0,Eden Park,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MDBates,New Zealand,Zimbabwe,0,0,0,0,0,23,3,31,3,0,10.333333333333334,Eden Park,0,0,2012,71
+MDBates,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,1,0,11.75,Seddon Park,0,0,2012,19
+MDBates,New Zealand,South Africa,0,0,0,0,0,17,2,30,0,0,15.0,Eden Park,0,0,2012,-6
