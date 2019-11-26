@@ -535,10 +535,10 @@ class Read:
 		# print(self.filename)
 		for i in self.teamplayers:
 			encode_temp = []
-			if counter != 0:
-				encode_temp = encode[:-counter]
-			else:
-				encode_temp = encode
+			# if counter != 0:
+				# encode_temp = encode[:-counter]
+			# else:
+			encode_temp = encode[:]
 			counter += 1
 			filename2 = "train/" + i + ".csv"
 			# print(i)
@@ -551,7 +551,7 @@ class Read:
 			# print(player_score)
 			encode_temp += player_score
 			# print(encode_temp)
-			# print(encode_temp)
+			# print(len(encode_temp))
 			with open ( filename2 , "a" ) as traincsv:
 					writer = csv.writer(traincsv , delimiter = ',')
 					writer.writerow(encode_temp)
