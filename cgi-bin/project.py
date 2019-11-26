@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from pyvirtualdisplay import Display
 import cgitb
 cgitb.enable()
 import time
@@ -43,6 +44,8 @@ class Project:
 		self.url = url
 		self.matches = []
 	def make_request(self):
+		display = Display(visible=0, size=(800, 600))
+		display.start()
 		self.driver = webdriver.Firefox()
 		self.driver.get(self.url)
 	def parse(self):
@@ -67,9 +70,12 @@ class Project:
 url = "https://www.dream11.com/leagues"
 p = Project(url)
 p.make_request()
+print("Upcoming Matches")
 p.parse()
 data = ""
 for match in p.matches:
+
+	print("Match Details")
 	temp , time , idd = match.print_match()
 	data = data + temp
 	if time!=None:

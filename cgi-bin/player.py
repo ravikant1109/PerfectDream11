@@ -8,7 +8,6 @@ class Player:
 		self.credit = credit
 	def print_pl(self):
 		return self.name , self.credit
-
 	def open_match(p, match):
 		p.driver = webdriver.Firefox()
 		p.driver.get(match.url)
