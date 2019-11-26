@@ -3,12 +3,28 @@ import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
 class Player:
+	""" Player class
+	This is a player class which will store details of players playing in the perticular match.
+	"""
 	def __init__(self, name, credit):
+		"""!Constructor which will create the Player object. Initialising some variables.
+		@param name: Name of players.
+		
+		@param credit: Individual player credit.
+		"""
+		## Stores player name of some match.
 		self.name = name
+		## Stores credit given to individual player.
 		self.credit = credit
 	def print_pl(self):
+		"""This method will print the player data of perticular matche. The printing will be done in html format for ease of rendering on the website."""
 		return self.name , self.credit
 	def open_match(p, match):
+		"""!This method will open the perticular match in web browser and fetch the players information and credits from the html returned by the webdriver.
+		@param p: Object of class Project
+		
+		@param match: Object of class project
+		"""
 		p.driver = webdriver.Firefox()
 		p.driver.get(match.url)
 		time.sleep(1)
