@@ -31,7 +31,7 @@ class Read:
 					self.match_details.append(row)
 				else:
 					self.player_details.append(row)
-		s = "YAML" + self.filename[12:-4] + ".yaml"
+		s = "odis_male" + self.filename[12:-4] + ".yaml"
 		with open(s, "r") as stream:
 			try:
 				##Contains data of the match in YAML format, to get extra information of the match wrt the players who have caught/run out batsmen.
@@ -573,7 +573,8 @@ def addH():
 
 
 files = []
-for file in glob.glob("t20_csv_male/*"):
+# for file in glob.glob("t20_csv_male/*"):
+for file in glob.glob("odi_csv_male/*"):
 	files.append(Read(file))
 	# print(file)
 # files[0].read_file()
