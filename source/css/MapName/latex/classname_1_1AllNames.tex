@@ -1,0 +1,160 @@
+\hypertarget{classname_1_1AllNames}{}\section{name.\+All\+Names Class Reference}
+\label{classname_1_1AllNames}\index{name.\+All\+Names@{name.\+All\+Names}}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classname_1_1AllNames_ac3662eb1bdbc32f6a3baa780a8d6a18c}{\+\_\+\+\_\+init\+\_\+\+\_\+} (self, \hyperlink{classname_1_1AllNames_af05034a1d261190ebd396ee615052d8e}{first}, \hyperlink{classname_1_1AllNames_a414e627444762afcc47ead0015f1dcce}{second})
+\begin{DoxyCompactList}\small\item\em Constructor that defines the players playing in the match, and the list of all players in the dataset to which these names are to be mapped. \end{DoxyCompactList}\item 
+def \hyperlink{classname_1_1AllNames_a28c4e3248f60738f445089b1fe8dfe42}{\+\_\+\+\_\+init\+\_\+\+\_\+} (self, \hyperlink{classname_1_1AllNames_a3fe1dd6f5e33b95faf2eca8d8dce3cc1}{dream11}, \hyperlink{classname_1_1AllNames_a1c94841db2dd8ff636014a0029e11673}{allcsv})
+\begin{DoxyCompactList}\small\item\em Constructor that opens files where the list of players playing in a match are stored, and the list of all names contained in the dataset. \end{DoxyCompactList}\item 
+def \hyperlink{classname_1_1AllNames_a766b1d340e8df73fa313e7ceec65c150}{get\+\_\+players} (self)
+\item 
+def \hyperlink{classname_1_1AllNames_a224ad6b8dff67b909fd7bddfdbe0244f}{print\+\_\+all\+\_\+players} (self)
+\item 
+def \hyperlink{classname_1_1AllNames_a9cd51d0c9394ed62cfc62c688dc5434f}{mapped\+\_\+player} (self, player)
+\begin{DoxyCompactList}\small\item\em Given a particular player with name given as per Dream11, this function determines what the player\textquotesingle{}s name is most likely to be in the dataset. \end{DoxyCompactList}\item 
+def \hyperlink{classname_1_1AllNames_a9de21d794d9868b1d42fb103f6643ba7}{all\+\_\+players} (self)
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classname_1_1AllNames_af05034a1d261190ebd396ee615052d8e}{first}
+\begin{DoxyCompactList}\small\item\em List of names of players playing in that match. \end{DoxyCompactList}\item 
+\hyperlink{classname_1_1AllNames_a414e627444762afcc47ead0015f1dcce}{second}
+\begin{DoxyCompactList}\small\item\em List of names of players in the dataset. \end{DoxyCompactList}\item 
+\hyperlink{classname_1_1AllNames_a3fe1dd6f5e33b95faf2eca8d8dce3cc1}{dream11}
+\begin{DoxyCompactList}\small\item\em File object of the file containing the players playing in this match. \end{DoxyCompactList}\item 
+\hyperlink{classname_1_1AllNames_a1c94841db2dd8ff636014a0029e11673}{allcsv}
+\begin{DoxyCompactList}\small\item\em File object of the file containing the players in the entire dataset. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+\begin{DoxyVerb}Class that determines the names of players playing in a match with the name of the corresponding player in the dataset. Since both of these come from different sources, there is a big possibilities that the names do not match.
+\end{DoxyVerb}
+ 
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classname_1_1AllNames_ac3662eb1bdbc32f6a3baa780a8d6a18c}\label{classname_1_1AllNames_ac3662eb1bdbc32f6a3baa780a8d6a18c}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{\+\_\+\+\_\+init\+\_\+\+\_\+()}{\_\_init\_\_()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily def name.\+All\+Names.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{first,  }\item[{}]{second }\end{DoxyParamCaption})}
+
+
+
+Constructor that defines the players playing in the match, and the list of all players in the dataset to which these names are to be mapped. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em first} & List of all names playing in the match. \\
+\hline
+{\em second} & List of all names of players in the dataset. \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classname_1_1AllNames_a28c4e3248f60738f445089b1fe8dfe42}\label{classname_1_1AllNames_a28c4e3248f60738f445089b1fe8dfe42}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{\+\_\+\+\_\+init\+\_\+\+\_\+()}{\_\_init\_\_()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily def name.\+All\+Names.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{dream11,  }\item[{}]{allcsv }\end{DoxyParamCaption})}
+
+
+
+Constructor that opens files where the list of players playing in a match are stored, and the list of all names contained in the dataset. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em dream11} & Name of file containing names of players playing in the match. \\
+\hline
+{\em allcsv} & Name of file containing names of players contained in the dataset. \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classname_1_1AllNames_a9de21d794d9868b1d42fb103f6643ba7}\label{classname_1_1AllNames_a9de21d794d9868b1d42fb103f6643ba7}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!all\+\_\+players@{all\+\_\+players}}
+\index{all\+\_\+players@{all\+\_\+players}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{all\+\_\+players()}{all\_players()}}
+{\footnotesize\ttfamily def name.\+All\+Names.\+all\+\_\+players (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Determines the names of all the players playing in the match by mapping it to the dataset names. Uses the function ```self.mapped_player(...)``` internally.
+\end{DoxyVerb}
+ \mbox{\Hypertarget{classname_1_1AllNames_a766b1d340e8df73fa313e7ceec65c150}\label{classname_1_1AllNames_a766b1d340e8df73fa313e7ceec65c150}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!get\+\_\+players@{get\+\_\+players}}
+\index{get\+\_\+players@{get\+\_\+players}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{get\+\_\+players()}{get\_players()}}
+{\footnotesize\ttfamily def name.\+All\+Names.\+get\+\_\+players (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Using the file objects of self, this function populates the list ```self.first``` and ```self.second```.
+\end{DoxyVerb}
+ \mbox{\Hypertarget{classname_1_1AllNames_a9cd51d0c9394ed62cfc62c688dc5434f}\label{classname_1_1AllNames_a9cd51d0c9394ed62cfc62c688dc5434f}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!mapped\+\_\+player@{mapped\+\_\+player}}
+\index{mapped\+\_\+player@{mapped\+\_\+player}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{mapped\+\_\+player()}{mapped\_player()}}
+{\footnotesize\ttfamily def name.\+All\+Names.\+mapped\+\_\+player (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{player }\end{DoxyParamCaption})}
+
+
+
+Given a particular player with name given as per Dream11, this function determines what the player\textquotesingle{}s name is most likely to be in the dataset. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em player} & \hyperlink{classname_1_1FullName}{Full\+Name} object of a player playing in the match. The name is given as per Dream11 nomenclature. \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classname_1_1AllNames_a224ad6b8dff67b909fd7bddfdbe0244f}\label{classname_1_1AllNames_a224ad6b8dff67b909fd7bddfdbe0244f}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!print\+\_\+all\+\_\+players@{print\+\_\+all\+\_\+players}}
+\index{print\+\_\+all\+\_\+players@{print\+\_\+all\+\_\+players}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{print\+\_\+all\+\_\+players()}{print\_all\_players()}}
+{\footnotesize\ttfamily def name.\+All\+Names.\+print\+\_\+all\+\_\+players (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Function simply prints the set of players playing in the match, and the set of players in the dataset. Used in the initial stages of development for debugging purposes.
+\end{DoxyVerb}
+ 
+
+\subsection{Member Data Documentation}
+\mbox{\Hypertarget{classname_1_1AllNames_a1c94841db2dd8ff636014a0029e11673}\label{classname_1_1AllNames_a1c94841db2dd8ff636014a0029e11673}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!allcsv@{allcsv}}
+\index{allcsv@{allcsv}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{allcsv}{allcsv}}
+{\footnotesize\ttfamily name.\+All\+Names.\+allcsv}
+
+
+
+File object of the file containing the players in the entire dataset. 
+
+\mbox{\Hypertarget{classname_1_1AllNames_a3fe1dd6f5e33b95faf2eca8d8dce3cc1}\label{classname_1_1AllNames_a3fe1dd6f5e33b95faf2eca8d8dce3cc1}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!dream11@{dream11}}
+\index{dream11@{dream11}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{dream11}{dream11}}
+{\footnotesize\ttfamily name.\+All\+Names.\+dream11}
+
+
+
+File object of the file containing the players playing in this match. 
+
+\mbox{\Hypertarget{classname_1_1AllNames_af05034a1d261190ebd396ee615052d8e}\label{classname_1_1AllNames_af05034a1d261190ebd396ee615052d8e}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!first@{first}}
+\index{first@{first}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{first}{first}}
+{\footnotesize\ttfamily name.\+All\+Names.\+first}
+
+
+
+List of names of players playing in that match. 
+
+Nomenclature is defined by Dream11 website. \mbox{\Hypertarget{classname_1_1AllNames_a414e627444762afcc47ead0015f1dcce}\label{classname_1_1AllNames_a414e627444762afcc47ead0015f1dcce}} 
+\index{name\+::\+All\+Names@{name\+::\+All\+Names}!second@{second}}
+\index{second@{second}!name\+::\+All\+Names@{name\+::\+All\+Names}}
+\subsubsection{\texorpdfstring{second}{second}}
+{\footnotesize\ttfamily name.\+All\+Names.\+second}
+
+
+
+List of names of players in the dataset. 
+
+This nomenclature is independant of Dream11. 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+name.\+py\end{DoxyCompactItemize}

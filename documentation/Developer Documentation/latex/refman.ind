@@ -1,0 +1,201 @@
+\begin{theindex}
+
+  \item {\+\_\+\+\_\+init\+\_\+\+\_\+}
+    \subitem {access\+::\+Read}, \hyperpage{17}
+    \subitem {name\+::\+All\+Names}, \hyperpage{6}
+    \subitem {name\+::\+Full\+Name}, \hyperpage{9}
+    \subitem {player\+::\+Player}, \hyperpage{13}
+    \subitem {project\+::\+Match}, \hyperpage{10}
+    \subitem {project\+::\+Project}, \hyperpage{15}
+
+  \indexspace
+
+  \item {access}, \hyperpage{2}
+    \subitem {addH}, \hyperpage{2}
+  \item {access.\+Read}, \hyperpage{16}
+  \item {access\+::\+Read}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{17}
+    \subitem {calculate\+Score}, \hyperpage{18}
+    \subitem {data}, \hyperpage{18}
+    \subitem {gen\+\_\+csv}, \hyperpage{18}
+    \subitem {match\+\_\+details}, \hyperpage{19}
+    \subitem {player\+\_\+details}, \hyperpage{19}
+    \subitem {print\+\_\+file}, \hyperpage{18}
+    \subitem {read\+\_\+file}, \hyperpage{18}
+  \item {addH}
+    \subitem {access}, \hyperpage{2}
+  \item {all\+\_\+players}
+    \subitem {name\+::\+All\+Names}, \hyperpage{7}
+  \item {allcsv}
+    \subitem {name\+::\+All\+Names}, \hyperpage{8}
+  \item {ar}
+    \subitem {project\+::\+Match}, \hyperpage{11}
+
+  \indexspace
+
+  \item {batsmen}
+    \subitem {project\+::\+Match}, \hyperpage{11}
+  \item {bowlers}
+    \subitem {project\+::\+Match}, \hyperpage{11}
+
+  \indexspace
+
+  \item {calculate\+Score}
+    \subitem {access\+::\+Read}, \hyperpage{18}
+  \item {credit}
+    \subitem {player\+::\+Player}, \hyperpage{14}
+
+  \indexspace
+
+  \item {data}
+    \subitem {access\+::\+Read}, \hyperpage{18}
+  \item {dream11}
+    \subitem {name\+::\+All\+Names}, \hyperpage{8}
+  \item {driver}
+    \subitem {project\+::\+Project}, \hyperpage{16}
+
+  \indexspace
+
+  \item {ED}
+    \subitem {name}, \hyperpage{3}
+
+  \indexspace
+
+  \item {fimg}
+    \subitem {project\+::\+Match}, \hyperpage{11}
+  \item {first}
+    \subitem {name\+::\+All\+Names}, \hyperpage{8}
+    \subitem {project\+::\+Match}, \hyperpage{11}
+
+  \indexspace
+
+  \item {gen\+\_\+csv}
+    \subitem {access\+::\+Read}, \hyperpage{18}
+  \item {get\+\_\+initials}
+    \subitem {name}, \hyperpage{3}
+  \item {get\+\_\+players}
+    \subitem {name\+::\+All\+Names}, \hyperpage{7}
+  \item {get\+\_\+small}
+    \subitem {name}, \hyperpage{5}
+
+  \indexspace
+
+  \item {L\+CS}
+    \subitem {name}, \hyperpage{5}
+
+  \indexspace
+
+  \item {make\+\_\+request}
+    \subitem {project\+::\+Project}, \hyperpage{15}
+  \item {mapped\+\_\+player}
+    \subitem {name\+::\+All\+Names}, \hyperpage{7}
+  \item {match\+\_\+details}
+    \subitem {access\+::\+Read}, \hyperpage{19}
+  \item {matches}
+    \subitem {project\+::\+Project}, \hyperpage{16}
+
+  \indexspace
+
+  \item {name}, \hyperpage{2}
+    \subitem {ED}, \hyperpage{3}
+    \subitem {get\+\_\+initials}, \hyperpage{3}
+    \subitem {get\+\_\+small}, \hyperpage{5}
+    \subitem {L\+CS}, \hyperpage{5}
+    \subitem {player\+::\+Player}, \hyperpage{14}
+  \item {name.\+All\+Names}, \hyperpage{5}
+  \item {name.\+Full\+Name}, \hyperpage{8}
+  \item {name\+::\+All\+Names}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{6}
+    \subitem {all\+\_\+players}, \hyperpage{7}
+    \subitem {allcsv}, \hyperpage{8}
+    \subitem {dream11}, \hyperpage{8}
+    \subitem {first}, \hyperpage{8}
+    \subitem {get\+\_\+players}, \hyperpage{7}
+    \subitem {mapped\+\_\+player}, \hyperpage{7}
+    \subitem {print\+\_\+all\+\_\+players}, \hyperpage{7}
+    \subitem {second}, \hyperpage{8}
+  \item {name\+::\+Full\+Name}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{9}
+
+  \indexspace
+
+  \item {open\+\_\+match}
+    \subitem {player\+::\+Player}, \hyperpage{13}
+
+  \indexspace
+
+  \item {parse}
+    \subitem {project\+::\+Project}, \hyperpage{15}
+  \item {player.\+Player}, \hyperpage{13}
+  \item {player\+::\+Player}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{13}
+    \subitem {credit}, \hyperpage{14}
+    \subitem {name}, \hyperpage{14}
+    \subitem {open\+\_\+match}, \hyperpage{13}
+    \subitem {print\+\_\+pl}, \hyperpage{14}
+  \item {player\+\_\+details}
+    \subitem {access\+::\+Read}, \hyperpage{19}
+  \item {print\+\_\+all\+\_\+players}
+    \subitem {name\+::\+All\+Names}, \hyperpage{7}
+  \item {print\+\_\+file}
+    \subitem {access\+::\+Read}, \hyperpage{18}
+  \item {print\+\_\+match}
+    \subitem {project\+::\+Match}, \hyperpage{11}
+  \item {print\+\_\+pl}
+    \subitem {player\+::\+Player}, \hyperpage{14}
+  \item {project.\+Match}, \hyperpage{9}
+  \item {project.\+Project}, \hyperpage{14}
+  \item {project\+::\+Match}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{10}
+    \subitem {ar}, \hyperpage{11}
+    \subitem {batsmen}, \hyperpage{11}
+    \subitem {bowlers}, \hyperpage{11}
+    \subitem {fimg}, \hyperpage{11}
+    \subitem {first}, \hyperpage{11}
+    \subitem {print\+\_\+match}, \hyperpage{11}
+    \subitem {second}, \hyperpage{12}
+    \subitem {simg}, \hyperpage{12}
+    \subitem {time}, \hyperpage{12}
+    \subitem {tournament}, \hyperpage{12}
+    \subitem {url}, \hyperpage{12}
+    \subitem {wk}, \hyperpage{12}
+  \item {project\+::\+Project}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{15}
+    \subitem {driver}, \hyperpage{16}
+    \subitem {make\+\_\+request}, \hyperpage{15}
+    \subitem {matches}, \hyperpage{16}
+    \subitem {parse}, \hyperpage{15}
+    \subitem {url}, \hyperpage{16}
+
+  \indexspace
+
+  \item {read\+\_\+file}
+    \subitem {access\+::\+Read}, \hyperpage{18}
+
+  \indexspace
+
+  \item {second}
+    \subitem {name\+::\+All\+Names}, \hyperpage{8}
+    \subitem {project\+::\+Match}, \hyperpage{12}
+  \item {simg}
+    \subitem {project\+::\+Match}, \hyperpage{12}
+
+  \indexspace
+
+  \item {time}
+    \subitem {project\+::\+Match}, \hyperpage{12}
+  \item {tournament}
+    \subitem {project\+::\+Match}, \hyperpage{12}
+
+  \indexspace
+
+  \item {url}
+    \subitem {project\+::\+Match}, \hyperpage{12}
+    \subitem {project\+::\+Project}, \hyperpage{16}
+
+  \indexspace
+
+  \item {wk}
+    \subitem {project\+::\+Match}, \hyperpage{12}
+
+\end{theindex}

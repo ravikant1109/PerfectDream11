@@ -1,0 +1,80 @@
+\begin{theindex}
+
+  \item {\+\_\+\+\_\+init\+\_\+\+\_\+}
+    \subitem {name\+::\+All\+Names}, \hyperpage{10}
+    \subitem {name\+::\+Full\+Name}, \hyperpage{12}
+
+  \indexspace
+
+  \item {all\+\_\+players}
+    \subitem {name\+::\+All\+Names}, \hyperpage{10}
+  \item {allcsv}
+    \subitem {name\+::\+All\+Names}, \hyperpage{11}
+
+  \indexspace
+
+  \item {dream11}
+    \subitem {name\+::\+All\+Names}, \hyperpage{11}
+
+  \indexspace
+
+  \item {ED}
+    \subitem {name}, \hyperpage{5}
+
+  \indexspace
+
+  \item {first}
+    \subitem {name\+::\+All\+Names}, \hyperpage{12}
+
+  \indexspace
+
+  \item {get\+\_\+initials}
+    \subitem {name}, \hyperpage{7}
+  \item {get\+\_\+players}
+    \subitem {name\+::\+All\+Names}, \hyperpage{10}
+  \item {get\+\_\+small}
+    \subitem {name}, \hyperpage{7}
+
+  \indexspace
+
+  \item {L\+CS}
+    \subitem {name}, \hyperpage{7}
+
+  \indexspace
+
+  \item {mapped\+\_\+player}
+    \subitem {name\+::\+All\+Names}, \hyperpage{11}
+
+  \indexspace
+
+  \item {name}, \hyperpage{5}
+    \subitem {ED}, \hyperpage{5}
+    \subitem {get\+\_\+initials}, \hyperpage{7}
+    \subitem {get\+\_\+small}, \hyperpage{7}
+    \subitem {L\+CS}, \hyperpage{7}
+  \item {name.\+All\+Names}, \hyperpage{9}
+  \item {name.\+Full\+Name}, \hyperpage{12}
+  \item {name\+::\+All\+Names}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{10}
+    \subitem {all\+\_\+players}, \hyperpage{10}
+    \subitem {allcsv}, \hyperpage{11}
+    \subitem {dream11}, \hyperpage{11}
+    \subitem {first}, \hyperpage{12}
+    \subitem {get\+\_\+players}, \hyperpage{10}
+    \subitem {mapped\+\_\+player}, \hyperpage{11}
+    \subitem {print\+\_\+all\+\_\+players}, \hyperpage{11}
+    \subitem {second}, \hyperpage{12}
+  \item {name\+::\+Full\+Name}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{12}
+
+  \indexspace
+
+  \item {print\+\_\+all\+\_\+players}
+    \subitem {name\+::\+All\+Names}, \hyperpage{11}
+
+  \indexspace
+
+  \item {second}
+    \subitem {name\+::\+All\+Names}, \hyperpage{12}
+
+\end{theindex}

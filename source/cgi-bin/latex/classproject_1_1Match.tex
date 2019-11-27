@@ -1,0 +1,201 @@
+\hypertarget{classproject_1_1Match}{}\subsection{project.\+Match Class Reference}
+\label{classproject_1_1Match}\index{project.\+Match@{project.\+Match}}
+\subsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classproject_1_1Match_ad2fa413ba7c2d3aee59ab1996aa8ceeb}{\+\_\+\+\_\+init\+\_\+\+\_\+} (self, \hyperlink{classproject_1_1Match_aeac700e0377708bc3d768f572544ab5e}{url}, \hyperlink{classproject_1_1Match_ac377f100bd078655a754762297731e8a}{tournament}, \hyperlink{classproject_1_1Match_ae8c662a467c74a3b376cbddf4124a84c}{first}, \hyperlink{classproject_1_1Match_a4fcd044cc75f74987b145b1ea24b917c}{second}, \hyperlink{classproject_1_1Match_ae51416730a405b3cad5df20a3e58cbdb}{time}, \hyperlink{classproject_1_1Match_a76c2df132c697094719f0d7450994811}{fimg}, \hyperlink{classproject_1_1Match_acca1adecce8205e38cc55c43b70b2867}{simg})
+\begin{DoxyCompactList}\small\item\em Constructor which will create the match object. \end{DoxyCompactList}\item 
+def \hyperlink{classproject_1_1Match_a11afa1845b3275633f1dbe75f66e5a7c}{print\+\_\+match} (self)
+\end{DoxyCompactItemize}
+\subsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classproject_1_1Match_aeac700e0377708bc3d768f572544ab5e}{url}
+\begin{DoxyCompactList}\small\item\em Stores the url of the corresponding match on the Dream11 website. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_ac377f100bd078655a754762297731e8a}{tournament}
+\begin{DoxyCompactList}\small\item\em Stores the url of the corresponding match on the Dream11 website. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_ae8c662a467c74a3b376cbddf4124a84c}{first}
+\begin{DoxyCompactList}\small\item\em Stores the name of the first team of the cricket match. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_a4fcd044cc75f74987b145b1ea24b917c}{second}
+\begin{DoxyCompactList}\small\item\em Stores the name of the second team of the cricket match. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_ae51416730a405b3cad5df20a3e58cbdb}{time}
+\begin{DoxyCompactList}\small\item\em Time left till the match commences. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_a76c2df132c697094719f0d7450994811}{fimg}
+\begin{DoxyCompactList}\small\item\em Url of the logo of the first team. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_acca1adecce8205e38cc55c43b70b2867}{simg}
+\begin{DoxyCompactList}\small\item\em Url of the logo of the second team. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_a439f5a30383147cc4f0d3ef0fc65e57b}{batsmen}
+\begin{DoxyCompactList}\small\item\em List of batsmen participating in the match. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_a72f5836dc303871b4d19b44895b8f012}{bowlers}
+\begin{DoxyCompactList}\small\item\em List of bowlers participating in the match. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_aaed99cf294a0dc51d89caccf11307842}{wk}
+\begin{DoxyCompactList}\small\item\em List of wicket keepers in the match. \end{DoxyCompactList}\item 
+\hyperlink{classproject_1_1Match_a6179b09b7054234d1a6f248a60f9e7f8}{ar}
+\begin{DoxyCompactList}\small\item\em List of all rounders in the match. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classproject_1_1Match_ae3395292a14718dbf5ec5ad5d9ca5bee}\label{classproject_1_1Match_ae3395292a14718dbf5ec5ad5d9ca5bee}} 
+{\bfseries data}
+\end{DoxyCompactItemize}
+
+
+\subsubsection{Detailed Description}
+\begin{DoxyVerb}Match class
+This is a match class which will store upcoming match data fetched from the Dream11 website.
+\end{DoxyVerb}
+ 
+
+\subsubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classproject_1_1Match_ad2fa413ba7c2d3aee59ab1996aa8ceeb}\label{classproject_1_1Match_ad2fa413ba7c2d3aee59ab1996aa8ceeb}} 
+\index{project\+::\+Match@{project\+::\+Match}!\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{\+\_\+\+\_\+init\+\_\+\+\_\+()}{\_\_init\_\_()}}
+{\footnotesize\ttfamily def project.\+Match.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{url,  }\item[{}]{tournament,  }\item[{}]{first,  }\item[{}]{second,  }\item[{}]{time,  }\item[{}]{fimg,  }\item[{}]{simg }\end{DoxyParamCaption})}
+
+
+
+Constructor which will create the match object. 
+
+Data for some attributes like batsmen will be fetched later. 
+\begin{DoxyParams}{Parameters}
+{\em url} & url of perticular match. \\
+\hline
+{\em tournament} & list of tournament. \\
+\hline
+{\em first} & Name of first team. \\
+\hline
+{\em second} & Name of second team. \\
+\hline
+{\em time} & Time remaining to select team. \\
+\hline
+{\em fimg} & Flag image of first team. \\
+\hline
+{\em simg} & Flag image of second team. \\
+\hline
+\end{DoxyParams}
+
+
+\subsubsection{Member Function Documentation}
+\mbox{\Hypertarget{classproject_1_1Match_a11afa1845b3275633f1dbe75f66e5a7c}\label{classproject_1_1Match_a11afa1845b3275633f1dbe75f66e5a7c}} 
+\index{project\+::\+Match@{project\+::\+Match}!print\+\_\+match@{print\+\_\+match}}
+\index{print\+\_\+match@{print\+\_\+match}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{print\+\_\+match()}{print\_match()}}
+{\footnotesize\ttfamily def project.\+Match.\+print\+\_\+match (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}This method will print the match data of upcoming matches. The printing will be done in html format for ease of rendering on the website.\end{DoxyVerb}
+ 
+
+\subsubsection{Member Data Documentation}
+\mbox{\Hypertarget{classproject_1_1Match_a6179b09b7054234d1a6f248a60f9e7f8}\label{classproject_1_1Match_a6179b09b7054234d1a6f248a60f9e7f8}} 
+\index{project\+::\+Match@{project\+::\+Match}!ar@{ar}}
+\index{ar@{ar}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{ar}{ar}}
+{\footnotesize\ttfamily project.\+Match.\+ar}
+
+
+
+List of all rounders in the match. 
+
+\mbox{\Hypertarget{classproject_1_1Match_a439f5a30383147cc4f0d3ef0fc65e57b}\label{classproject_1_1Match_a439f5a30383147cc4f0d3ef0fc65e57b}} 
+\index{project\+::\+Match@{project\+::\+Match}!batsmen@{batsmen}}
+\index{batsmen@{batsmen}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{batsmen}{batsmen}}
+{\footnotesize\ttfamily project.\+Match.\+batsmen}
+
+
+
+List of batsmen participating in the match. 
+
+\mbox{\Hypertarget{classproject_1_1Match_a72f5836dc303871b4d19b44895b8f012}\label{classproject_1_1Match_a72f5836dc303871b4d19b44895b8f012}} 
+\index{project\+::\+Match@{project\+::\+Match}!bowlers@{bowlers}}
+\index{bowlers@{bowlers}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{bowlers}{bowlers}}
+{\footnotesize\ttfamily project.\+Match.\+bowlers}
+
+
+
+List of bowlers participating in the match. 
+
+\mbox{\Hypertarget{classproject_1_1Match_a76c2df132c697094719f0d7450994811}\label{classproject_1_1Match_a76c2df132c697094719f0d7450994811}} 
+\index{project\+::\+Match@{project\+::\+Match}!fimg@{fimg}}
+\index{fimg@{fimg}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{fimg}{fimg}}
+{\footnotesize\ttfamily project.\+Match.\+fimg}
+
+
+
+Url of the logo of the first team. 
+
+\mbox{\Hypertarget{classproject_1_1Match_ae8c662a467c74a3b376cbddf4124a84c}\label{classproject_1_1Match_ae8c662a467c74a3b376cbddf4124a84c}} 
+\index{project\+::\+Match@{project\+::\+Match}!first@{first}}
+\index{first@{first}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{first}{first}}
+{\footnotesize\ttfamily project.\+Match.\+first}
+
+
+
+Stores the name of the first team of the cricket match. 
+
+\mbox{\Hypertarget{classproject_1_1Match_a4fcd044cc75f74987b145b1ea24b917c}\label{classproject_1_1Match_a4fcd044cc75f74987b145b1ea24b917c}} 
+\index{project\+::\+Match@{project\+::\+Match}!second@{second}}
+\index{second@{second}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{second}{second}}
+{\footnotesize\ttfamily project.\+Match.\+second}
+
+
+
+Stores the name of the second team of the cricket match. 
+
+\mbox{\Hypertarget{classproject_1_1Match_acca1adecce8205e38cc55c43b70b2867}\label{classproject_1_1Match_acca1adecce8205e38cc55c43b70b2867}} 
+\index{project\+::\+Match@{project\+::\+Match}!simg@{simg}}
+\index{simg@{simg}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{simg}{simg}}
+{\footnotesize\ttfamily project.\+Match.\+simg}
+
+
+
+Url of the logo of the second team. 
+
+\mbox{\Hypertarget{classproject_1_1Match_ae51416730a405b3cad5df20a3e58cbdb}\label{classproject_1_1Match_ae51416730a405b3cad5df20a3e58cbdb}} 
+\index{project\+::\+Match@{project\+::\+Match}!time@{time}}
+\index{time@{time}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{time}{time}}
+{\footnotesize\ttfamily project.\+Match.\+time}
+
+
+
+Time left till the match commences. 
+
+\mbox{\Hypertarget{classproject_1_1Match_ac377f100bd078655a754762297731e8a}\label{classproject_1_1Match_ac377f100bd078655a754762297731e8a}} 
+\index{project\+::\+Match@{project\+::\+Match}!tournament@{tournament}}
+\index{tournament@{tournament}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{tournament}{tournament}}
+{\footnotesize\ttfamily project.\+Match.\+tournament}
+
+
+
+Stores the url of the corresponding match on the Dream11 website. 
+
+\mbox{\Hypertarget{classproject_1_1Match_aeac700e0377708bc3d768f572544ab5e}\label{classproject_1_1Match_aeac700e0377708bc3d768f572544ab5e}} 
+\index{project\+::\+Match@{project\+::\+Match}!url@{url}}
+\index{url@{url}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{url}{url}}
+{\footnotesize\ttfamily project.\+Match.\+url}
+
+
+
+Stores the url of the corresponding match on the Dream11 website. 
+
+\mbox{\Hypertarget{classproject_1_1Match_aaed99cf294a0dc51d89caccf11307842}\label{classproject_1_1Match_aaed99cf294a0dc51d89caccf11307842}} 
+\index{project\+::\+Match@{project\+::\+Match}!wk@{wk}}
+\index{wk@{wk}!project\+::\+Match@{project\+::\+Match}}
+\paragraph{\texorpdfstring{wk}{wk}}
+{\footnotesize\ttfamily project.\+Match.\+wk}
+
+
+
+List of wicket keepers in the match. 
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+project.\+py\end{DoxyCompactItemize}
