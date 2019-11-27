@@ -1,5 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-WWHinds,West Indies,New Zealand,14,18,1,0,77.77777777777779,0,0,0,0,0,0,Eden Park,15
-WWHinds,West Indies,Australia,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Bellerive Oval,12
-WWHinds,West Indies,Sri Lanka,5,8,1,0,62.5,0,0,0,0,0,0,Kensington Oval Bridgetown,4
-WWHinds,West Indies,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Sydney Cricket Ground,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+WWHinds,West Indies,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,-8
+WWHinds,West Indies,Australia,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Bellerive Oval,0,0,2010,12
+WWHinds,West Indies,New Zealand,14,18,1,0,77.77777777777779,0,0,0,0,0,0,Eden Park,0,0,2006,15
+WWHinds,West Indies,Sri Lanka,5,8,1,0,62.5,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,4
+WWHinds,West Indies,Australia,0,5,0,0,0.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,-8
+WWHinds,West Indies,New Zealand,4,11,0,0,36.36363636363637,35,5,38,0,0,7.6,Jade Stadium,0,0,2006,-2
+WWHinds,West Indies,India,32,35,2,0,91.42857142857143,31,5,28,2,0,5.6,Queen's Park Oval Port of Spain,0,0,2006,86
+WWHinds,West Indies,India,13,16,3,0,81.25,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2006,16
+WWHinds,West Indies,Australia,1,10,0,0,10.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,-5
+WWHinds,West Indies,Australia,20,37,2,0,54.054054054054056,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2010,26
+WWHinds,West Indies,New Zealand,0,1,0,0,0.0,19,3,24,0,0,8.0,McLean Park,0,0,2006,-8
+WWHinds,West Indies,Australia,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,-1
+WWHinds,West Indies,Australia,1,16,0,0,6.25,0,0,0,0,0,0,Brabourne Stadium,1,0,2006,7
+WWHinds,West Indies,New Zealand,40,41,2,1,97.5609756097561,23,3,18,1,0,6.0,Eden Park,0,0,2006,69
+WWHinds,West Indies,Sri Lanka,28,87,3,0,32.18390804597701,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,25
+WWHinds,West Indies,India,8,58,0,0,13.793103448275861,39,6,41,0,0,6.833333333333333,Kinrara Academy Oval,0,0,2006,2
+WWHinds,West Indies,New Zealand,76,88,6,1,86.36363636363636,0,0,0,0,0,0,Queenstown Events Centre,0,1,2006,100

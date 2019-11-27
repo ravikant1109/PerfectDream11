@@ -1,43 +1,30 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CAYoung,Ireland,Jersey,0,0,0,0,0,17,2,11,1,0,5.5,Tolerance Oval,27
-CAYoung,Ireland,Oman,0,0,0,0,0,25,4,45,1,0,11.25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),19
-CAYoung,Ireland,Afghanistan,0,0,0,0,0,17,2,32,1,0,16.0,Greater Noida Sports Complex Ground,19
-CAYoung,Ireland,United Arab Emirates,0,0,0,0,0,24,4,26,2,0,6.5,Sheikh Zayed Stadium,50
-CAYoung,Ireland,Afghanistan,2,2,0,0,100.0,5,0,16,0,0,0,Dubai International Cricket Stadium,2
-CAYoung,Ireland,Nigeria,0,0,0,0,0,23,3,13,4,1,4.333333333333333,Sheikh Zayed Stadium,120
-CAYoung,Ireland,Hong Kong,0,0,0,0,0,18,3,17,1,1,5.666666666666667,The Village Malahide,35
-CAYoung,Ireland,Jersey,0,0,0,0,0,17,2,11,1,0,5.5,Tolerance Oval,27
-CAYoung,Ireland,Jersey,0,0,0,0,0,17,2,11,1,0,5.5,Tolerance Oval,27
-CAYoung,Ireland,Oman,0,0,0,0,0,25,4,45,1,0,11.25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),19
-CAYoung,Ireland,Afghanistan,0,0,0,0,0,17,2,32,1,0,16.0,Greater Noida Sports Complex Ground,19
-CAYoung,Ireland,United Arab Emirates,0,0,0,0,0,24,4,26,2,0,6.5,Sheikh Zayed Stadium,50
-CAYoung,Ireland,Afghanistan,2,2,0,0,100.0,5,0,16,0,0,0,Dubai International Cricket Stadium,2
-CAYoung,Ireland,Nigeria,0,0,0,0,0,23,3,13,4,1,4.333333333333333,Sheikh Zayed Stadium,120
-CAYoung,Ireland,Hong Kong,0,0,0,0,0,18,3,17,1,1,5.666666666666667,The Village Malahide,35
-CAYoung,Ireland,Jersey,0,0,0,0,0,17,2,11,1,0,5.5,Tolerance Oval,27
-CAYoung,Ireland,Jersey,0,0,0,0,0,17,2,11,1,0,5.5,Tolerance Oval,27
-CAYoung,Ireland,Oman,0,0,0,0,0,25,4,45,1,0,11.25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),19
-CAYoung,Ireland,Afghanistan,0,0,0,0,0,17,2,32,1,0,16.0,Greater Noida Sports Complex Ground,19
-CAYoung,Ireland,United Arab Emirates,0,0,0,0,0,24,4,26,2,0,6.5,Sheikh Zayed Stadium,50
-CAYoung,Ireland,Afghanistan,2,2,0,0,100.0,5,0,16,0,0,0,Dubai International Cricket Stadium,2
-CAYoung,Ireland,Nigeria,0,0,0,0,0,23,3,13,4,1,4.333333333333333,Sheikh Zayed Stadium,120
-CAYoung,Ireland,Hong Kong,0,0,0,0,0,18,3,17,1,1,5.666666666666667,The Village Malahide,35
-CAYoung,Ireland,Zimbabwe,0,0,0,0,0,24,4,39,0,0,9.75,Bready,-2
-CAYoung,Ireland,Oman,0,0,0,0,0,13,2,11,0,0,5.5,Himachal Pradesh Cricket Association Stadium,2
-CAYoung,Ireland,Scotland,0,0,0,0,0,11,1,33,0,0,33.0,Dubai International Cricket Stadium,0
-CAYoung,Ireland,Hong Kong,2,4,0,0,50.0,26,4,56,1,0,14.0,Bready Cricket Club Magheramason,17
-CAYoung,Ireland,Scotland,0,0,0,0,0,12,2,20,0,0,10.0,Bready Cricket Club Magheramason,-2
-CAYoung,Ireland,Netherlands,0,1,0,0,0.0,23,3,28,1,0,9.333333333333334,The Village Malahide,15
-CAYoung,Ireland,Zimbabwe,0,0,0,0,0,17,2,20,2,0,10.0,Bready Cricket Club Magheramason,48
-CAYoung,Ireland,Nepal,0,0,0,0,0,18,3,19,1,0,6.333333333333333,Civil Service Cricket Club Stormont,25
-CAYoung,Ireland,Papua New Guinea,0,0,0,0,0,11,1,21,0,0,21.0,Tony Ireland Stadium,0
-CAYoung,Ireland,United Arab Emirates,0,0,0,0,0,24,4,21,1,0,5.25,Dubai International Cricket Stadium,27
-CAYoung,Ireland,Netherlands,0,0,0,0,0,24,4,38,2,0,9.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),48
-CAYoung,Ireland,Jersey,0,0,0,0,0,17,2,11,1,0,5.5,Tolerance Oval,27
-CAYoung,Ireland,Oman,0,0,0,0,0,25,4,45,1,0,11.25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),19
-CAYoung,Ireland,Afghanistan,0,0,0,0,0,17,2,32,1,0,16.0,Greater Noida Sports Complex Ground,19
-CAYoung,Ireland,United Arab Emirates,0,0,0,0,0,24,4,26,2,0,6.5,Sheikh Zayed Stadium,50
-CAYoung,Ireland,Afghanistan,2,2,0,0,100.0,5,0,16,0,0,0,Dubai International Cricket Stadium,2
-CAYoung,Ireland,Nigeria,0,0,0,0,0,23,3,13,4,1,4.333333333333333,Sheikh Zayed Stadium,120
-CAYoung,Ireland,Hong Kong,0,0,0,0,0,18,3,17,1,1,5.666666666666667,The Village Malahide,35
-CAYoung,Ireland,Zimbabwe,0,0,0,0,0,24,4,39,0,0,9.75,Bready,-2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CAYoung,Ireland,Afghanistan,2,2,0,0,100.0,5,0,16,0,0,0,Dubai International Cricket Stadium,0,0,2017,2
+CAYoung,Ireland,United Arab Emirates,0,0,0,0,0,24,4,21,1,0,5.25,Dubai International Cricket Stadium,0,0,2017,27
+CAYoung,Ireland,Scotland,0,0,0,0,0,12,2,20,0,0,10.0,Bready Cricket Club Magheramason,0,0,2015,-2
+CAYoung,Ireland,Nigeria,0,0,0,0,0,23,3,13,4,1,4.333333333333333,Sheikh Zayed Stadium,0,0,2019,120
+CAYoung,Ireland,Papua New Guinea,0,0,0,0,0,11,1,21,0,0,21.0,Tony Ireland Stadium,0,0,2016,0
+CAYoung,Ireland,Oman,0,0,0,0,0,25,4,45,1,0,11.25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0,2019,31
+CAYoung,Ireland,Netherlands,0,1,0,0,0.0,23,3,28,1,0,9.333333333333334,The Village Malahide,0,0,2015,15
+CAYoung,Ireland,Zimbabwe,0,0,0,0,0,24,4,39,0,0,9.75,Bready,0,0,2019,-2
+CAYoung,Ireland,Hong Kong,2,4,0,0,50.0,26,4,56,1,0,14.0,Bready Cricket Club Magheramason,0,1,2016,25
+CAYoung,Ireland,Netherlands,0,0,0,0,0,24,4,38,2,0,9.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,1,2019,68
+CAYoung,Ireland,Hong Kong,0,0,0,0,0,18,3,17,1,1,5.666666666666667,The Village Malahide,0,0,2015,35
+CAYoung,Ireland,United Arab Emirates,0,0,0,0,0,24,4,26,2,0,6.5,Sheikh Zayed Stadium,0,0,2016,50
+CAYoung,Ireland,Nepal,0,0,0,0,0,18,3,19,1,0,6.333333333333333,Civil Service Cricket Club Stormont,0,0,2015,25
+CAYoung,Ireland,Jersey,0,0,0,0,0,17,2,11,1,0,5.5,Tolerance Oval,0,0,2019,27
+CAYoung,Ireland,Afghanistan,0,0,0,0,0,17,2,32,1,0,16.0,Greater Noida Sports Complex Ground,0,0,2017,19
+CAYoung,Ireland,Scotland,0,0,0,0,0,11,1,33,0,0,33.0,Dubai International Cricket Stadium,0,1,2017,8
+CAYoung,Ireland,Zimbabwe,0,0,0,0,0,17,2,20,2,0,10.0,Bready Cricket Club Magheramason,1,0,2019,60
+CAYoung,Ireland,Oman,0,0,0,0,0,13,2,11,0,0,5.5,Himachal Pradesh Cricket Association Stadium,0,0,2016,2
+CAYoung,Ireland,Scotland,0,0,0,0,0,63,10,47,5,0,4.7,The Village Malahide,0,0,2014,145
+CAYoung,Ireland,New Zealand,1,3,0,0,33.33333333333333,62,10,83,2,0,8.3,Malahide,0,0,2017,45
+CAYoung,Ireland,Scotland,0,0,0,0,0,61,10,39,3,1,3.9,The Village Malahide,0,1,2014,97
+CAYoung,Ireland,Australia,0,3,0,0,0.0,37,6,50,1,0,8.333333333333334,Civil Service Cricket Club Stormont,0,0,2015,17
+CAYoung,Ireland,Scotland,0,0,0,0,0,61,10,35,3,2,3.5,Dubai International Cricket Stadium,0,0,2015,97
+CAYoung,Ireland,Scotland,11,7,1,1,157.14285714285714,57,9,50,1,1,5.555555555555555,The Village Malahide,0,0,2014,49
+CAYoung,Ireland,United Arab Emirates,3,5,0,0,60.0,55,9,43,1,1,4.777777777777778,ICC Global Cricket Academy,0,1,2017,46
+CAYoung,Ireland,Afghanistan,5,9,1,0,55.55555555555556,64,10,47,3,0,4.7,Dubai International Cricket Stadium,0,0,2015,81
+CAYoung,Ireland,South Africa,0,7,0,0,0.0,62,10,83,3,0,8.3,Willowmoore Park,0,0,2016,67
+CAYoung,Ireland,United Arab Emirates,0,0,0,0,0,60,10,49,3,0,4.9,ICC Global Cricket Academy,0,0,2017,79
+CAYoung,Ireland,Zimbabwe,0,0,0,0,0,63,10,35,1,1,3.5,Harare Sports Club,0,0,2015,39

@@ -1,11 +1,70 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MFMaharoof,Sri Lanka,Australia,0,2,0,0,0.0,12,2,34,0,0,17.0,Newlands,-14
-MFMaharoof,Sri Lanka,Australia,0,2,0,0,0.0,12,2,34,0,0,17.0,Newlands,-14
-MFMaharoof,Sri Lanka,Australia,0,2,0,0,0.0,12,2,34,0,0,17.0,Newlands,-14
-MFMaharoof,Sri Lanka,England,10,16,0,0,62.5,18,3,26,0,0,8.666666666666666,The Rose Bowl,8
-MFMaharoof,Sri Lanka,New Zealand,0,0,0,0,0,17,2,30,1,0,15.0,Westpac Stadium,19
-MFMaharoof,Sri Lanka,Pakistan,0,0,0,0,0,26,4,22,1,0,5.5,Maple Leaf North-West Ground,27
-MFMaharoof,Sri Lanka,Bangladesh,0,0,0,0,0,17,2,16,1,0,8.0,New Wanderers Stadium,25
-MFMaharoof,Sri Lanka,England,8,8,0,0,100.0,25,4,30,0,0,7.5,The Rose Bowl,8
-MFMaharoof,Sri Lanka,Pakistan,2,7,0,0,28.57142857142857,23,3,23,2,0,7.666666666666667,Maple Leaf North-West Ground,46
-MFMaharoof,Sri Lanka,Australia,0,2,0,0,0.0,12,2,34,0,0,17.0,Newlands,-14
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MFMaharoof,Sri Lanka,England,8,8,0,0,100.0,25,4,30,0,0,7.5,The Rose Bowl,0,0,2006,8
+MFMaharoof,Sri Lanka,Pakistan,2,7,0,0,28.57142857142857,23,3,23,2,0,7.666666666666667,Maple Leaf North-West Ground,0,1,2008,54
+MFMaharoof,Sri Lanka,Bangladesh,0,0,0,0,0,17,2,16,1,0,8.0,New Wanderers Stadium,1,0,2007,37
+MFMaharoof,Sri Lanka,England,10,16,0,0,62.5,18,3,26,0,0,8.666666666666666,The Rose Bowl,0,0,2016,8
+MFMaharoof,Sri Lanka,New Zealand,0,0,0,0,0,17,2,30,1,0,15.0,Westpac Stadium,0,0,2006,19
+MFMaharoof,Sri Lanka,Pakistan,0,0,0,0,0,26,4,22,1,0,5.5,Maple Leaf North-West Ground,0,0,2008,27
+MFMaharoof,Sri Lanka,Australia,0,2,0,0,0.0,12,2,34,0,0,17.0,Newlands,0,0,2007,-14
+MFMaharoof,Sri Lanka,Bangladesh,0,0,0,0,0,51,8,11,1,3,1.375,R Premadasa Stadium,0,0,2007,55
+MFMaharoof,Sri Lanka,England,9,12,0,0,75.0,0,0,0,0,0,0,County Ground,0,0,2016,9
+MFMaharoof,Sri Lanka,New Zealand,0,0,0,0,0,49,8,35,1,1,4.375,Brabourne Stadium,0,0,2006,37
+MFMaharoof,Sri Lanka,England,0,0,0,0,0,48,8,58,0,0,7.25,Kennington Oval,0,0,2016,0
+MFMaharoof,Sri Lanka,India,0,0,0,0,0,17,2,22,1,0,11.0,Bellerive Oval,0,0,2012,21
+MFMaharoof,Sri Lanka,Bangladesh,0,0,0,0,0,43,7,26,1,1,3.7142857142857144,Queen's Park Oval Port of Spain,0,1,2007,47
+MFMaharoof,Sri Lanka,India,35,27,2,1,129.62962962962962,47,7,35,1,0,5.0,Rangiri Dambulla International Stadium,0,0,2009,66
+MFMaharoof,Sri Lanka,Bangladesh,27,9,1,3,300.0,41,6,23,0,0,3.8333333333333335,Chittagong Divisional Stadium,0,0,2006,40
+MFMaharoof,Sri Lanka,Bermuda,9,5,2,0,180.0,41,6,23,4,1,3.8333333333333335,Queen's Park Oval Port of Spain,0,0,2007,133
+MFMaharoof,Sri Lanka,England,0,0,0,0,0,42,7,39,1,0,5.571428571428571,Kennington Oval,0,0,2006,27
+MFMaharoof,Sri Lanka,India,28,29,2,1,96.55172413793103,41,6,61,1,0,10.166666666666666,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,0,0,2007,53
+MFMaharoof,Sri Lanka,New Zealand,7,14,0,0,50.0,36,6,42,2,0,7.0,Jade Stadium,0,0,2006,53
+MFMaharoof,Sri Lanka,England,0,0,0,0,0,54,9,58,1,0,6.444444444444445,Headingley,0,0,2006,25
+MFMaharoof,Sri Lanka,New Zealand,0,0,0,0,0,36,6,31,0,0,5.166666666666667,National Cricket Stadium St George's,0,1,2007,10
+MFMaharoof,Sri Lanka,India,22,41,1,0,53.65853658536586,43,7,68,0,0,9.714285714285714,R Premadasa Stadium,0,0,2009,17
+MFMaharoof,Sri Lanka,India,10,15,1,0,66.66666666666666,35,5,42,0,0,8.4,Rangiri Dambulla International Stadium,0,1,2010,17
+MFMaharoof,Sri Lanka,Zimbabwe,14,8,2,0,175.0,30,5,40,0,0,8.0,Harare Sports Club,0,0,2008,16
+MFMaharoof,Sri Lanka,Pakistan,19,19,3,0,100.0,44,7,33,1,1,4.714285714285714,Sinhalese Sports Club Ground,0,0,2006,59
+MFMaharoof,Sri Lanka,Pakistan,1,3,0,0,33.33333333333333,48,8,54,0,0,6.75,Rangiri Dambulla International Stadium,0,0,2010,-5
+MFMaharoof,Sri Lanka,England,6,19,0,0,31.57894736842105,53,8,31,3,2,3.875,Rangiri Dambulla International Stadium,0,0,2007,97
+MFMaharoof,Sri Lanka,Australia,5,7,0,0,71.42857142857143,59,9,40,1,1,4.444444444444445,Bellerive Oval,0,1,2012,50
+MFMaharoof,Sri Lanka,Zimbabwe,13,18,1,0,72.22222222222221,27,4,37,1,0,9.25,Sardar Patel Stadium Motera,1,0,2006,49
+MFMaharoof,Sri Lanka,Australia,18,24,1,0,75.0,59,9,41,3,0,4.555555555555555,Adelaide Oval,0,1,2012,106
+MFMaharoof,Sri Lanka,India,28,26,4,0,107.6923076923077,60,10,65,0,0,6.5,R Premadasa Stadium,0,0,2009,32
+MFMaharoof,Sri Lanka,India,7,6,0,0,116.66666666666667,62,10,40,2,0,4.0,R Premadasa Stadium,0,0,2009,61
+MFMaharoof,Sri Lanka,England,22,12,2,0,183.33333333333331,59,9,31,4,3,3.4444444444444446,Rangiri Dambulla International Stadium,0,0,2007,162
+MFMaharoof,Sri Lanka,England,2,3,0,0,66.66666666666666,45,7,47,0,1,6.714285714285714,Edgbaston,0,0,2016,8
+MFMaharoof,Sri Lanka,Pakistan,2,9,0,0,22.22222222222222,48,8,24,1,1,3.0,R Premadasa Stadium,0,0,2006,35
+MFMaharoof,Sri Lanka,India,18,19,1,1,94.73684210526315,61,10,62,2,0,6.2,Shere Bangla National Stadium,0,0,2012,71
+MFMaharoof,Sri Lanka,Zimbabwe,0,0,0,0,0,49,8,26,3,2,3.25,Harare Sports Club,0,1,2008,105
+MFMaharoof,Sri Lanka,Ireland,29,18,3,1,161.11111111111111,59,9,60,1,1,6.666666666666667,The Village Malahide,0,1,2016,75
+MFMaharoof,Sri Lanka,Pakistan,22,45,2,0,48.888888888888886,17,2,24,1,0,12.0,Sawai Mansingh Stadium,0,1,2006,45
+MFMaharoof,Sri Lanka,Australia,0,0,0,0,0,60,10,20,2,1,2.0,Melbourne Cricket Ground,1,0,2008,76
+MFMaharoof,Sri Lanka,India,14,13,1,0,107.6923076923077,51,8,47,0,1,5.875,Nehru Stadium Fatorda,0,0,2007,25
+MFMaharoof,Sri Lanka,England,31,31,1,1,100.0,59,9,59,1,0,6.555555555555555,Trent Bridge,0,0,2016,59
+MFMaharoof,Sri Lanka,Pakistan,11,30,0,0,36.666666666666664,46,7,44,1,0,6.285714285714286,National Stadium,0,0,2009,30
+MFMaharoof,Sri Lanka,Bangladesh,0,0,0,0,0,50,8,30,3,1,3.75,Shaheed Chandu Stadium,0,0,2006,89
+MFMaharoof,Sri Lanka,Ireland,0,0,0,0,0,60,10,27,4,3,2.7,National Cricket Stadium St George's,1,0,2007,150
+MFMaharoof,Sri Lanka,Bangladesh,16,12,0,1,133.33333333333331,62,10,33,1,3,3.3,P Saravanamuttu Stadium,0,1,2007,81
+MFMaharoof,Sri Lanka,Bangladesh,1,5,0,0,20.0,53,8,40,2,0,5.0,R Premadasa Stadium,0,0,2007,47
+MFMaharoof,Sri Lanka,South Africa,5,9,0,0,55.55555555555556,41,6,41,0,0,6.833333333333333,Providence Stadium,0,0,2007,1
+MFMaharoof,Sri Lanka,Australia,25,23,4,0,108.69565217391303,42,7,52,0,0,7.428571428571429,National Cricket Stadium St George's,0,0,2007,29
+MFMaharoof,Sri Lanka,Australia,0,0,0,0,0,47,7,18,2,1,2.5714285714285716,Sydney Cricket Ground,0,1,2012,72
+MFMaharoof,Sri Lanka,England,58,52,5,2,111.53846153846155,6,1,11,0,0,11.0,Old Trafford,0,1,2006,83
+MFMaharoof,Sri Lanka,India,32,23,3,1,139.1304347826087,35,5,46,2,0,9.2,R Premadasa Stadium,0,0,2009,85
+MFMaharoof,Sri Lanka,India,0,0,0,0,0,60,10,43,5,1,4.3,Rangiri Dambulla International Stadium,0,0,2010,153
+MFMaharoof,Sri Lanka,Pakistan,2,8,0,0,25.0,43,7,23,1,1,3.2857142857142856,Shere Bangla National Stadium,0,1,2012,43
+MFMaharoof,Sri Lanka,West Indies,0,0,0,0,0,56,9,14,6,4,1.5555555555555556,Brabourne Stadium,0,0,2006,204
+MFMaharoof,Sri Lanka,Bangladesh,21,26,0,1,80.76923076923077,56,9,38,1,0,4.222222222222222,Shaheed Chandu Stadium,0,0,2006,52
+MFMaharoof,Sri Lanka,South Africa,3,15,0,0,20.0,29,4,39,0,0,9.75,Sardar Patel Stadium Motera,0,1,2006,3
+MFMaharoof,Sri Lanka,New Zealand,0,2,0,0,0.0,60,10,53,1,0,5.3,Westpac Stadium,0,2,2006,35
+MFMaharoof,Sri Lanka,India,3,4,0,0,75.0,38,6,43,0,0,7.166666666666667,Adelaide Oval,0,0,2008,3
+MFMaharoof,Sri Lanka,Pakistan,8,6,1,0,133.33333333333331,23,3,13,1,0,4.333333333333333,Gaddafi Stadium,0,1,2009,46
+MFMaharoof,Sri Lanka,Australia,0,0,0,0,0,60,10,71,0,0,7.1,Adelaide Oval,1,0,2012,12
+MFMaharoof,Sri Lanka,England,0,0,0,0,0,49,8,38,0,0,4.75,Riverside Ground,1,0,2006,16
+MFMaharoof,Sri Lanka,Bangladesh,0,1,0,0,0.0,41,6,48,3,0,8.0,Punjab Cricket Association Stadium Mohali,0,0,2006,67
+MFMaharoof,Sri Lanka,New Zealand,13,47,1,0,27.659574468085108,23,3,19,1,0,6.333333333333333,Jade Stadium,0,0,2007,33
+MFMaharoof,Sri Lanka,Australia,8,14,0,0,57.14285714285714,53,8,64,1,0,8.0,Brisbane Cricket Ground Woolloongabba,0,0,2012,29
+MFMaharoof,Sri Lanka,Australia,7,17,1,0,41.17647058823529,61,10,54,1,0,5.4,Western Australia Cricket Association Ground,0,1,2008,37
+MFMaharoof,Sri Lanka,India,17,27,0,1,62.96296296296296,64,10,42,3,0,4.2,Madhavrao Scindia Cricket Ground,1,1,2007,116
+MFMaharoof,Sri Lanka,Zimbabwe,0,0,0,0,0,58,9,27,1,0,3.0,Harare Sports Club,0,0,2008,31
+MFMaharoof,Sri Lanka,New Zealand,21,11,1,2,190.9090909090909,25,4,27,1,0,6.75,Eden Park,0,0,2007,51

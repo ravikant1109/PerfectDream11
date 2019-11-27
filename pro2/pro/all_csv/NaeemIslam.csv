@@ -1,28 +1,59 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NaeemIslam,Bangladesh,Ireland,7,10,0,0,70.0,11,1,9,0,0,9.0,Trent Bridge,7
-NaeemIslam,Bangladesh,India,28,19,0,3,147.36842105263156,17,2,32,2,0,16.0,Trent Bridge,78
-NaeemIslam,Bangladesh,New Zealand,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Seddon Park,-1
-NaeemIslam,Bangladesh,West Indies,27,18,2,2,150.0,12,2,21,0,0,10.5,Warner Park Basseterre,29
-NaeemIslam,Bangladesh,Ireland,7,10,0,0,70.0,11,1,9,0,0,9.0,Trent Bridge,7
-NaeemIslam,Bangladesh,Ireland,7,10,0,0,70.0,11,1,9,0,0,9.0,Trent Bridge,7
-NaeemIslam,Bangladesh,India,28,19,0,3,147.36842105263156,17,2,32,2,0,16.0,Trent Bridge,78
-NaeemIslam,Bangladesh,New Zealand,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Seddon Park,-1
-NaeemIslam,Bangladesh,West Indies,27,18,2,2,150.0,12,2,21,0,0,10.5,Warner Park Basseterre,29
-NaeemIslam,Bangladesh,Ireland,7,10,0,0,70.0,11,1,9,0,0,9.0,Trent Bridge,7
-NaeemIslam,Bangladesh,India,28,19,0,3,147.36842105263156,17,2,32,2,0,16.0,Trent Bridge,78
-NaeemIslam,Bangladesh,New Zealand,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Seddon Park,-1
-NaeemIslam,Bangladesh,West Indies,27,18,2,2,150.0,12,2,21,0,0,10.5,Warner Park Basseterre,29
-NaeemIslam,Bangladesh,South Africa,15,17,1,0,88.23529411764706,11,1,20,0,0,20.0,New Wanderers Stadium,16
-NaeemIslam,Bangladesh,New Zealand,18,10,3,1,180.0,0,0,0,0,0,0,Shere Bangla National Stadium,23
-NaeemIslam,Bangladesh,West Indies,10,9,1,0,111.11111111111111,24,4,23,1,0,5.75,Shere Bangla National Stadium,38
-NaeemIslam,Bangladesh,Pakistan,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,-3
-NaeemIslam,Bangladesh,Australia,7,6,0,1,116.66666666666667,0,0,0,0,0,0,Kensington Oval Bridgetown,9
-NaeemIslam,Bangladesh,Pakistan,10,10,1,0,100.0,11,1,18,0,0,18.0,Beausejour Stadium Gros Islet,11
-NaeemIslam,Bangladesh,Ireland,7,10,0,0,70.0,11,1,9,0,0,9.0,Trent Bridge,7
-NaeemIslam,Bangladesh,India,28,19,0,3,147.36842105263156,17,2,32,2,0,16.0,Trent Bridge,78
-NaeemIslam,Bangladesh,New Zealand,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Seddon Park,-1
-NaeemIslam,Bangladesh,West Indies,27,18,2,2,150.0,12,2,21,0,0,10.5,Warner Park Basseterre,29
-NaeemIslam,Bangladesh,South Africa,15,17,1,0,88.23529411764706,11,1,20,0,0,20.0,New Wanderers Stadium,16
-NaeemIslam,Bangladesh,New Zealand,18,10,3,1,180.0,0,0,0,0,0,0,Shere Bangla National Stadium,23
-NaeemIslam,Bangladesh,West Indies,10,9,1,0,111.11111111111111,24,4,23,1,0,5.75,Shere Bangla National Stadium,38
-NaeemIslam,Bangladesh,Pakistan,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,-3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NaeemIslam,Bangladesh,New Zealand,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Seddon Park,0,0,2010,-1
+NaeemIslam,Bangladesh,West Indies,27,18,2,2,150.0,12,2,21,0,0,10.5,Warner Park Basseterre,0,0,2009,29
+NaeemIslam,Bangladesh,Ireland,7,10,0,0,70.0,11,1,9,0,0,9.0,Trent Bridge,0,0,2009,7
+NaeemIslam,Bangladesh,India,28,19,0,3,147.36842105263156,17,2,32,2,0,16.0,Trent Bridge,0,0,2009,78
+NaeemIslam,Bangladesh,South Africa,15,17,1,0,88.23529411764706,11,1,20,0,0,20.0,New Wanderers Stadium,0,0,2008,16
+NaeemIslam,Bangladesh,West Indies,10,9,1,0,111.11111111111111,24,4,23,1,0,5.75,Shere Bangla National Stadium,0,1,2011,46
+NaeemIslam,Bangladesh,Australia,7,6,0,1,116.66666666666667,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,9
+NaeemIslam,Bangladesh,Pakistan,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,-3
+NaeemIslam,Bangladesh,New Zealand,18,10,3,1,180.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2013,31
+NaeemIslam,Bangladesh,Pakistan,10,10,1,0,100.0,11,1,18,0,0,18.0,Beausejour Stadium Gros Islet,0,0,2010,11
+NaeemIslam,Bangladesh,Sri Lanka,15,34,2,0,44.11764705882353,18,3,21,0,0,7.0,Rangiri Dambulla International Stadium,0,0,2010,11
+NaeemIslam,Bangladesh,New Zealand,16,19,1,1,84.21052631578947,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2013,27
+NaeemIslam,Bangladesh,Zimbabwe,73,94,4,4,77.6595744680851,5,0,15,0,0,0,Zohur Ahmed Chowdhury Stadium,0,0,2009,93
+NaeemIslam,Bangladesh,West Indies,3,8,0,0,37.5,48,8,27,1,0,3.375,Windsor Park Roseau,1,1,2009,48
+NaeemIslam,Bangladesh,New Zealand,84,117,12,0,71.7948717948718,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2013,104
+NaeemIslam,Bangladesh,Sri Lanka,12,6,1,1,200.0,37,6,24,1,1,4.0,Shere Bangla National Stadium,0,1,2009,60
+NaeemIslam,Bangladesh,India,14,15,0,0,93.33333333333333,11,1,16,0,0,16.0,Shere Bangla National Stadium,0,0,2010,14
+NaeemIslam,Bangladesh,Zimbabwe,0,0,0,0,0,23,3,13,0,0,4.333333333333333,Shere Bangla National Stadium,0,0,2009,4
+NaeemIslam,Bangladesh,South Africa,25,36,3,1,69.44444444444444,59,9,62,3,0,6.888888888888889,Senwes Park,1,1,2008,123
+NaeemIslam,Bangladesh,Sri Lanka,22,9,1,2,244.44444444444446,37,6,39,0,0,6.5,Shere Bangla National Stadium,0,1,2010,35
+NaeemIslam,Bangladesh,Pakistan,5,13,1,0,38.46153846153847,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,0
+NaeemIslam,Bangladesh,Zimbabwe,0,0,0,0,0,49,8,30,0,0,3.75,Zahur Ahmed Chowdhury Stadium,0,0,2010,6
+NaeemIslam,Bangladesh,England,18,15,2,0,120.0,35,5,43,0,0,8.6,Shere Bangla National Stadium,0,0,2010,20
+NaeemIslam,Bangladesh,New Zealand,10,7,1,0,142.85714285714286,48,8,32,1,0,4.0,AMI Stadium,0,0,2010,40
+NaeemIslam,Bangladesh,New Zealand,63,76,5,0,82.89473684210526,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2013,76
+NaeemIslam,Bangladesh,South Africa,8,21,1,0,38.095238095238095,42,7,42,0,0,6.0,Shere Bangla National Stadium,0,0,2011,3
+NaeemIslam,Bangladesh,Zimbabwe,4,7,1,0,57.14285714285714,29,4,25,1,0,6.25,Queens Sports Club,0,0,2009,26
+NaeemIslam,Bangladesh,Zimbabwe,4,2,1,0,200.0,11,1,13,1,0,13.0,Shere Bangla National Stadium,0,2,2009,46
+NaeemIslam,Bangladesh,Sri Lanka,5,3,1,0,166.66666666666669,30,5,35,1,0,7.0,Shere Bangla National Stadium,0,0,2010,31
+NaeemIslam,Bangladesh,England,18,32,0,0,56.25,42,7,36,0,0,5.142857142857143,Zohur Ahmed Chowdhury Stadium,0,0,2010,16
+NaeemIslam,Bangladesh,England,0,5,0,0,0.0,47,7,29,2,0,4.142857142857143,Zahur Ahmed Chowdhury Stadium,0,2,2011,62
+NaeemIslam,Bangladesh,West Indies,26,22,3,1,118.18181818181819,63,10,48,1,1,4.8,Warner Park Basseterre,0,0,2009,68
+NaeemIslam,Bangladesh,New Zealand,9,22,1,0,40.909090909090914,42,7,32,2,0,4.571428571428571,Shere Bangla National Stadium,0,0,2010,58
+NaeemIslam,Bangladesh,New Zealand,15,50,0,0,30.0,59,9,51,1,0,5.666666666666667,McLean Park,0,0,2010,36
+NaeemIslam,Bangladesh,India,22,14,2,1,157.14285714285714,48,8,36,2,0,4.5,Shere Bangla National Stadium,0,0,2010,80
+NaeemIslam,Bangladesh,West Indies,52,83,4,0,62.65060240963856,17,2,16,1,0,8.0,Shere Bangla National Stadium,0,0,2011,87
+NaeemIslam,Bangladesh,West Indies,7,7,0,0,100.0,41,6,28,1,0,4.666666666666667,Windsor Park Roseau,0,0,2009,36
+NaeemIslam,Bangladesh,India,2,8,0,0,25.0,41,6,54,0,0,9.0,Shere Bangla National Stadium,0,0,2011,-4
+NaeemIslam,Bangladesh,Zimbabwe,21,47,0,1,44.680851063829785,5,0,7,0,0,0,Shere Bangla National Stadium,0,0,2009,17
+NaeemIslam,Bangladesh,England,25,33,2,0,75.75757575757575,60,10,49,3,0,4.9,Shere Bangla National Stadium,0,0,2010,106
+NaeemIslam,Bangladesh,West Indies,50,80,6,0,62.5,5,0,17,0,0,0,Sheikh Abu Naser Stadium,0,1,2012,70
+NaeemIslam,Bangladesh,Sri Lanka,32,56,1,0,57.14285714285714,2,0,7,0,0,0,Shere Bangla National Stadium,0,0,2014,29
+NaeemIslam,Bangladesh,Zimbabwe,0,1,0,0,0.0,23,3,29,0,0,9.666666666666666,Queens Sports Club,0,1,2009,-2
+NaeemIslam,Bangladesh,Ireland,29,39,3,0,74.35897435897436,52,8,36,1,1,4.5,Shere Bangla National Stadium,0,0,2011,69
+NaeemIslam,Bangladesh,India,3,14,0,0,21.428571428571427,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,-3
+NaeemIslam,Bangladesh,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,-8
+NaeemIslam,Bangladesh,Zimbabwe,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Queens Sports Club,0,0,2009,5
+NaeemIslam,Bangladesh,Zimbabwe,0,0,0,0,0,59,9,27,0,2,3.0,Shere Bangla National Stadium,0,1,2010,30
+NaeemIslam,Bangladesh,Zimbabwe,4,4,0,0,100.0,29,4,29,1,0,7.25,Queens Sports Club,0,1,2009,37
+NaeemIslam,Bangladesh,New Zealand,43,81,4,0,53.086419753086425,5,0,14,0,0,0,University Oval,0,0,2010,43
+NaeemIslam,Bangladesh,Zimbabwe,0,3,0,0,0.0,0,0,0,0,0,0,Zohur Ahmed Chowdhury Stadium,0,0,2009,-8
+NaeemIslam,Bangladesh,West Indies,6,11,1,0,54.54545454545454,42,7,28,1,1,4.0,Sheikh Abu Naser Stadium,0,0,2012,40
+NaeemIslam,Bangladesh,Zimbabwe,0,0,0,0,0,17,2,13,0,0,6.5,Queens Sports Club,0,1,2009,8
+NaeemIslam,Bangladesh,Zimbabwe,23,25,2,0,92.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,25
+NaeemIslam,Bangladesh,India,14,19,1,0,73.68421052631578,8,1,15,0,0,15.0,Khan Shaheb Osman Ali Stadium,0,0,2014,15
+NaeemIslam,Bangladesh,Afghanistan,35,52,2,0,67.3076923076923,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,1,0,2014,47
+NaeemIslam,Bangladesh,West Indies,30,43,3,0,69.76744186046511,17,2,7,0,1,3.5,Shere Bangla National Stadium,0,0,2011,45
+NaeemIslam,Bangladesh,West Indies,4,2,0,0,200.0,29,4,21,1,1,5.25,Shere Bangla National Stadium,0,1,2012,47

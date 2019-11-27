@@ -1,2 +1,23 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MSAtapattu,Sri Lanka,New Zealand,5,8,0,0,62.5,0,0,0,0,0,0,Eden Park,3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MSAtapattu,Sri Lanka,New Zealand,5,8,0,0,62.5,0,0,0,0,0,0,Eden Park,0,0,2006,3
+MSAtapattu,Sri Lanka,South Africa,33,44,2,0,75.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2006,43
+MSAtapattu,Sri Lanka,New Zealand,10,27,0,0,37.03703703703704,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,4
+MSAtapattu,Sri Lanka,India,19,38,2,0,50.0,0,0,0,0,0,0,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,0,0,2007,17
+MSAtapattu,Sri Lanka,New Zealand,52,46,5,0,113.04347826086956,0,0,0,0,0,0,Jade Stadium,0,0,2006,65
+MSAtapattu,Sri Lanka,South Africa,80,126,5,0,63.49206349206349,0,0,0,0,0,0,Bellerive Oval,0,0,2006,91
+MSAtapattu,Sri Lanka,Australia,31,27,2,0,114.81481481481481,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2006,41
+MSAtapattu,Sri Lanka,Zimbabwe,33,31,2,0,106.4516129032258,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,35
+MSAtapattu,Sri Lanka,Pakistan,36,53,1,0,67.9245283018868,0,0,0,0,0,0,Sawai Mansingh Stadium,0,0,2006,35
+MSAtapattu,Sri Lanka,India,42,63,6,0,66.66666666666666,0,0,0,0,0,0,Nehru Stadium Fatorda,0,0,2007,46
+MSAtapattu,Sri Lanka,Australia,24,37,2,0,64.86486486486487,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2006,24
+MSAtapattu,Sri Lanka,Australia,53,78,6,0,67.94871794871796,0,0,0,0,0,0,Adelaide Oval,0,0,2006,65
+MSAtapattu,Sri Lanka,South Africa,7,17,0,0,41.17647058823529,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2006,1
+MSAtapattu,Sri Lanka,South Africa,2,5,0,0,40.0,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,-4
+MSAtapattu,Sri Lanka,New Zealand,19,29,2,0,65.51724137931035,0,0,0,0,0,0,Westpac Stadium,0,0,2006,19
+MSAtapattu,Sri Lanka,India,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Eden Gardens,0,0,2007,6
+MSAtapattu,Sri Lanka,Bangladesh,40,43,7,0,93.02325581395348,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2006,47
+MSAtapattu,Sri Lanka,South Africa,23,41,0,0,56.09756097560976,0,0,0,0,0,0,Adelaide Oval,0,1,2006,27
+MSAtapattu,Sri Lanka,New Zealand,28,26,5,0,107.6923076923077,0,0,0,0,0,0,Jade Stadium,0,0,2007,33
+MSAtapattu,Sri Lanka,India,15,25,2,0,60.0,0,0,0,0,0,0,Madhavrao Scindia Cricket Ground,0,0,2007,15
+MSAtapattu,Sri Lanka,New Zealand,10,16,2,0,62.5,0,0,0,0,0,0,McLean Park,0,0,2006,10
+MSAtapattu,Sri Lanka,New Zealand,34,75,2,0,45.33333333333333,0,0,0,0,0,0,Eden Park,0,0,2007,30

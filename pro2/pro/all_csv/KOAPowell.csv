@@ -1,2 +1,36 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KOAPowell,West Indies,New Zealand,12,14,1,0,85.71428571428571,0,0,0,0,0,0,Eden Park,13
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KOAPowell,West Indies,New Zealand,12,14,1,0,85.71428571428571,0,0,0,0,0,0,Eden Park,0,1,2014,21
+KOAPowell,West Indies,New Zealand,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Queenstown Events Centre,0,1,2014,3
+KOAPowell,West Indies,India,15,18,3,0,83.33333333333334,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,18
+KOAPowell,West Indies,Bangladesh,11,8,2,0,137.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,13
+KOAPowell,West Indies,Zimbabwe,42,53,5,0,79.24528301886792,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2013,55
+KOAPowell,West Indies,New Zealand,4,6,1,0,66.66666666666666,0,0,0,0,0,0,Eden Park,0,0,2013,3
+KOAPowell,West Indies,India,70,81,9,0,86.41975308641975,0,0,0,0,0,0,Green Park,0,0,2013,87
+KOAPowell,West Indies,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Warner Park Basseterre,0,1,2009,0
+KOAPowell,West Indies,England,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2014,-5
+KOAPowell,West Indies,Australia,12,19,0,1,63.1578947368421,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2012,12
+KOAPowell,West Indies,India,5,15,1,0,33.33333333333333,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,0
+KOAPowell,West Indies,Pakistan,11,21,0,0,52.38095238095239,0,0,0,0,0,0,Providence Stadium,0,0,2017,7
+KOAPowell,West Indies,Bangladesh,25,37,4,0,67.56756756756756,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2011,27
+KOAPowell,West Indies,Australia,11,19,2,0,57.89473684210527,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2013,9
+KOAPowell,West Indies,Ireland,57,83,7,0,68.67469879518072,0,0,0,0,0,0,Sabina Park Kingston,0,1,2014,78
+KOAPowell,West Indies,Afghanistan,12,17,1,0,70.58823529411765,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,13
+KOAPowell,West Indies,Australia,83,93,10,2,89.24731182795699,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,2,2013,121
+KOAPowell,West Indies,Australia,9,29,0,0,31.03448275862069,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2013,3
+KOAPowell,West Indies,India,59,71,7,1,83.09859154929578,0,0,0,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2013,76
+KOAPowell,West Indies,England,6,4,0,1,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2017,8
+KOAPowell,West Indies,Bangladesh,26,44,3,0,59.09090909090909,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,25
+KOAPowell,West Indies,England,16,20,2,0,80.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2014,18
+KOAPowell,West Indies,England,1,5,0,0,20.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2017,-5
+KOAPowell,West Indies,Pakistan,23,34,2,0,67.64705882352942,0,0,0,0,0,0,Providence Stadium,0,1,2017,31
+KOAPowell,West Indies,Afghanistan,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,-4
+KOAPowell,West Indies,New Zealand,73,44,12,2,165.9090909090909,0,0,0,0,0,0,Seddon Park,0,0,2014,97
+KOAPowell,West Indies,Australia,2,4,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2013,6
+KOAPowell,West Indies,Zimbabwe,79,88,7,2,89.77272727272727,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2013,106
+KOAPowell,West Indies,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2012,-8
+KOAPowell,West Indies,Australia,8,19,1,0,42.10526315789473,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2012,3
+KOAPowell,West Indies,India,7,5,1,0,140.0,0,0,0,0,0,0,Holkar Cricket Stadium,0,0,2011,8
+KOAPowell,West Indies,England,5,14,0,0,35.714285714285715,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2014,-1
+KOAPowell,West Indies,India,0,3,0,0,0.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,-8
+KOAPowell,West Indies,Australia,47,49,6,0,95.91836734693877,0,0,0,0,0,0,Manuka Oval,0,0,2013,53
+KOAPowell,West Indies,Bangladesh,47,59,4,1,79.66101694915254,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,53

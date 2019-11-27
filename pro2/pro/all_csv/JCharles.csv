@@ -1,54 +1,79 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JCharles,West Indies,Sri Lanka,12,21,2,0,57.14285714285714,0,0,0,0,0,0,Pallekele International Cricket Stadium,10
-JCharles,West Indies,South Africa,32,38,2,1,84.21052631578947,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,36
-JCharles,West Indies,England,84,57,10,3,147.36842105263156,0,0,0,0,0,0,Pallekele International Cricket Stadium,108
-JCharles,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-JCharles,West Indies,England,4,3,0,0,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,4
-JCharles,West Indies,England,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Eden Gardens,-5
-JCharles,West Indies,Sri Lanka,12,21,2,0,57.14285714285714,0,0,0,0,0,0,Pallekele International Cricket Stadium,10
-JCharles,West Indies,South Africa,32,38,2,1,84.21052631578947,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,36
-JCharles,West Indies,England,84,57,10,3,147.36842105263156,0,0,0,0,0,0,Pallekele International Cricket Stadium,108
-JCharles,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-JCharles,West Indies,England,4,3,0,0,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,4
-JCharles,West Indies,England,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Eden Gardens,-5
-JCharles,West Indies,Sri Lanka,12,21,2,0,57.14285714285714,0,0,0,0,0,0,Pallekele International Cricket Stadium,10
-JCharles,West Indies,South Africa,32,38,2,1,84.21052631578947,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,36
-JCharles,West Indies,England,84,57,10,3,147.36842105263156,0,0,0,0,0,0,Pallekele International Cricket Stadium,108
-JCharles,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-JCharles,West Indies,England,4,3,0,0,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,4
-JCharles,West Indies,England,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Eden Gardens,-5
-JCharles,West Indies,Sri Lanka,0,5,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-JCharles,West Indies,Pakistan,7,7,1,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,8
-JCharles,West Indies,Australia,10,14,2,0,71.42857142857143,0,0,0,0,0,0,R Premadasa Stadium,12
-JCharles,West Indies,Afghanistan,22,15,1,2,146.66666666666666,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,27
-JCharles,West Indies,England,21,28,1,1,75.0,0,0,0,0,0,0,Kennington Oval,24
-JCharles,West Indies,England,0,4,0,0,0.0,0,0,0,0,0,0,Wankhede Stadium,-8
-JCharles,West Indies,India,79,34,6,7,232.3529411764706,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,107
-JCharles,West Indies,Sri Lanka,10,13,1,0,76.92307692307693,0,0,0,0,0,0,M Chinnaswamy Stadium,11
-JCharles,West Indies,India,43,25,5,2,172.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,52
-JCharles,West Indies,Pakistan,5,5,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,5
-JCharles,West Indies,England,36,39,3,1,92.3076923076923,0,0,0,0,0,0,Kennington Oval,41
-JCharles,West Indies,Pakistan,0,10,0,0,0.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,-8
-JCharles,West Indies,New Zealand,8,9,2,0,88.88888888888889,0,0,0,0,0,0,Pallekele International Cricket Stadium,10
-JCharles,West Indies,Australia,24,17,4,0,141.1764705882353,0,0,0,0,0,0,Beausejour Stadium Gros Islet,28
-JCharles,West Indies,Pakistan,10,12,1,0,83.33333333333334,0,0,0,0,0,0,Dubai International Cricket Stadium,11
-JCharles,West Indies,New Zealand,24,29,3,0,82.75862068965517,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,27
-JCharles,West Indies,Zimbabwe,10,9,2,0,111.11111111111111,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,12
-JCharles,West Indies,New Zealand,7,12,1,0,58.333333333333336,0,0,0,0,0,0,Westpac Stadium,4
-JCharles,West Indies,Sri Lanka,34,29,1,3,117.24137931034481,0,0,0,0,0,0,R Premadasa Stadium,41
-JCharles,West Indies,New Zealand,36,33,3,1,109.09090909090908,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,41
-JCharles,West Indies,India,52,36,7,2,144.44444444444443,0,0,0,0,0,0,Wankhede Stadium,71
-JCharles,West Indies,Australia,57,35,7,1,162.85714285714286,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,74
-JCharles,West Indies,Australia,37,22,5,1,168.1818181818182,0,0,0,0,0,0,Kensington Oval Bridgetown,44
-JCharles,West Indies,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,-3
-JCharles,West Indies,Zimbabwe,26,14,5,0,185.71428571428572,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,31
-JCharles,West Indies,Australia,16,12,2,1,133.33333333333331,0,0,0,0,0,0,R Premadasa Stadium,20
-JCharles,West Indies,New Zealand,16,17,3,0,94.11764705882352,0,0,0,0,0,0,Eden Park,19
-JCharles,West Indies,Sri Lanka,12,21,2,0,57.14285714285714,0,0,0,0,0,0,Pallekele International Cricket Stadium,10
-JCharles,West Indies,South Africa,32,38,2,1,84.21052631578947,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,36
-JCharles,West Indies,England,84,57,10,3,147.36842105263156,0,0,0,0,0,0,Pallekele International Cricket Stadium,108
-JCharles,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-JCharles,West Indies,England,4,3,0,0,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,4
-JCharles,West Indies,England,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Eden Gardens,-5
-JCharles,West Indies,Sri Lanka,0,5,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-JCharles,West Indies,Pakistan,7,7,1,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JCharles,West Indies,India,79,34,6,7,232.3529411764706,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,1,2016,115
+JCharles,West Indies,Pakistan,7,7,1,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2016,8
+JCharles,West Indies,New Zealand,24,29,3,0,82.75862068965517,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2012,27
+JCharles,West Indies,Zimbabwe,10,9,2,0,111.11111111111111,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2013,12
+JCharles,West Indies,England,84,57,10,3,147.36842105263156,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,108
+JCharles,West Indies,Sri Lanka,12,21,2,0,57.14285714285714,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,10
+JCharles,West Indies,England,4,3,0,0,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2014,4
+JCharles,West Indies,Zimbabwe,26,14,5,0,185.71428571428572,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2013,31
+JCharles,West Indies,Australia,16,12,2,1,133.33333333333331,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,20
+JCharles,West Indies,South Africa,32,38,2,1,84.21052631578947,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,36
+JCharles,West Indies,Pakistan,0,10,0,0,0.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2013,-8
+JCharles,West Indies,Sri Lanka,34,29,1,3,117.24137931034481,0,0,0,0,0,0,R Premadasa Stadium,0,1,2015,49
+JCharles,West Indies,Pakistan,5,5,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,5
+JCharles,West Indies,Afghanistan,22,15,1,2,146.66666666666666,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,27
+JCharles,West Indies,Australia,24,17,4,0,141.1764705882353,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2012,28
+JCharles,West Indies,England,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Eden Gardens,0,1,2016,3
+JCharles,West Indies,New Zealand,7,12,1,0,58.333333333333336,0,0,0,0,0,0,Westpac Stadium,0,1,2014,12
+JCharles,West Indies,India,52,36,7,2,144.44444444444443,0,0,0,0,0,0,Wankhede Stadium,0,0,2016,71
+JCharles,West Indies,New Zealand,8,9,2,0,88.88888888888889,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,18
+JCharles,West Indies,England,36,39,3,1,92.3076923076923,0,0,0,0,0,0,Kennington Oval,0,0,2011,41
+JCharles,West Indies,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2015,-8
+JCharles,West Indies,New Zealand,36,33,3,1,109.09090909090908,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,1,2012,49
+JCharles,West Indies,Australia,37,22,5,1,168.1818181818182,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2012,44
+JCharles,West Indies,New Zealand,16,17,3,0,94.11764705882352,0,0,0,0,0,0,Eden Park,0,2,2014,35
+JCharles,West Indies,India,43,25,5,2,172.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,52
+JCharles,West Indies,Sri Lanka,0,5,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,0
+JCharles,West Indies,England,0,4,0,0,0.0,0,0,0,0,0,0,Wankhede Stadium,0,0,2016,-8
+JCharles,West Indies,Australia,10,14,2,0,71.42857142857143,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,20
+JCharles,West Indies,Sri Lanka,10,13,1,0,76.92307692307693,0,0,0,0,0,0,M Chinnaswamy Stadium,1,0,2016,23
+JCharles,West Indies,Australia,57,35,7,1,162.85714285714286,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2013,74
+JCharles,West Indies,Pakistan,10,12,1,0,83.33333333333334,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2016,11
+JCharles,West Indies,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2013,-3
+JCharles,West Indies,England,21,28,1,1,75.0,0,0,0,0,0,0,Kennington Oval,0,0,2011,24
+JCharles,West Indies,New Zealand,0,3,0,0,0.0,0,0,0,0,0,0,Queenstown Events Centre,0,0,2014,-8
+JCharles,West Indies,India,60,55,8,2,109.09090909090908,0,0,0,0,0,0,Kennington Oval,0,1,2013,88
+JCharles,West Indies,Sri Lanka,1,2,0,0,50.0,6,1,12,0,0,12.0,R Premadasa Stadium,0,0,2015,-3
+JCharles,West Indies,India,42,35,7,1,120.0,0,0,0,0,0,0,Nehru Stadium,0,1,2013,59
+JCharles,West Indies,Sri Lanka,14,13,2,0,107.6923076923077,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2013,24
+JCharles,West Indies,Australia,22,42,1,1,52.38095238095239,0,0,0,0,0,0,Providence Stadium,0,0,2016,21
+JCharles,West Indies,Sri Lanka,29,59,1,2,49.152542372881356,0,0,0,0,0,0,Sabina Park Kingston,0,2,2013,44
+JCharles,West Indies,New Zealand,15,14,3,0,107.14285714285714,0,0,0,0,0,0,Warner Park Basseterre,0,0,2012,18
+JCharles,West Indies,New Zealand,3,6,0,0,50.0,0,0,0,0,0,0,Westpac Stadium,0,0,2015,-1
+JCharles,West Indies,South Africa,49,43,7,1,113.95348837209302,0,0,0,0,0,0,Warner Park Basseterre,0,1,2016,66
+JCharles,West Indies,Australia,0,5,0,0,0.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2012,-8
+JCharles,West Indies,Australia,45,63,4,1,71.42857142857143,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2016,51
+JCharles,West Indies,Sri Lanka,83,70,7,4,118.57142857142857,0,0,0,0,0,0,R Premadasa Stadium,0,0,2015,106
+JCharles,West Indies,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Providence Stadium,0,2,2013,8
+JCharles,West Indies,New Zealand,0,14,0,0,0.0,0,0,0,0,0,0,Saxton Oval,0,0,2014,-8
+JCharles,West Indies,Pakistan,2,8,0,0,25.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,-4
+JCharles,West Indies,New Zealand,9,18,0,1,50.0,0,0,0,0,0,0,Eden Park,0,1,2013,15
+JCharles,West Indies,Australia,0,4,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2016,-8
+JCharles,West Indies,India,11,20,2,0,55.00000000000001,0,0,0,0,0,0,Green Park,0,2,2013,25
+JCharles,West Indies,India,97,101,8,4,96.03960396039604,0,0,0,0,0,0,Sabina Park Kingston,0,1,2013,129
+JCharles,West Indies,Pakistan,32,49,5,0,65.3061224489796,0,0,0,0,0,0,Beausejour Stadium Gros Islet,1,0,2013,47
+JCharles,West Indies,New Zealand,15,20,1,1,75.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2012,18
+JCharles,West Indies,Australia,45,56,7,1,80.35714285714286,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2012,54
+JCharles,West Indies,Sri Lanka,26,25,4,1,104.0,0,0,0,0,0,0,Queens Sports Club,0,0,2016,32
+JCharles,West Indies,Sri Lanka,4,4,1,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2015,5
+JCharles,West Indies,Pakistan,20,21,1,1,95.23809523809523,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,23
+JCharles,West Indies,Australia,0,4,0,0,0.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2013,-8
+JCharles,West Indies,India,12,9,2,0,133.33333333333331,0,0,0,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,1,2013,22
+JCharles,West Indies,Pakistan,9,14,2,0,64.28571428571429,0,0,0,0,0,0,Kennington Oval,0,0,2013,9
+JCharles,West Indies,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Queens Sports Club,0,0,2016,-8
+JCharles,West Indies,Zimbabwe,19,21,1,1,90.47619047619048,0,0,0,0,0,0,Queens Sports Club,0,0,2016,22
+JCharles,West Indies,Pakistan,43,72,4,0,59.72222222222222,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2013,43
+JCharles,West Indies,New Zealand,31,46,4,0,67.3913043478261,0,0,0,0,0,0,Seddon Park,0,1,2014,41
+JCharles,West Indies,Australia,100,124,8,1,80.64516129032258,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2013,126
+JCharles,West Indies,Zimbabwe,130,114,12,4,114.03508771929825,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2013,174
+JCharles,West Indies,Australia,26,38,2,1,68.42105263157895,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2012,28
+JCharles,West Indies,Australia,13,12,3,0,108.33333333333333,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2012,24
+JCharles,West Indies,Sri Lanka,2,8,0,0,25.0,0,0,0,0,0,0,Harare Sports Club,1,0,2016,8
+JCharles,West Indies,Pakistan,6,6,1,0,100.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2013,7
+JCharles,West Indies,South Africa,4,10,1,0,40.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2016,7
+JCharles,West Indies,South Africa,16,26,2,0,61.53846153846154,0,0,0,0,0,0,Sophia Gardens,0,1,2013,24
+JCharles,West Indies,United Arab Emirates,55,40,9,2,137.5,0,0,0,0,0,0,McLean Park,0,0,2015,76
+JCharles,West Indies,New Zealand,1,16,0,0,6.25,0,0,0,0,0,0,Warner Park Basseterre,0,0,2012,-5
+JCharles,West Indies,Pakistan,31,52,3,1,59.61538461538461,0,0,0,0,0,0,Providence Stadium,0,1,2013,40
+JCharles,West Indies,India,45,40,6,2,112.5,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2013,63

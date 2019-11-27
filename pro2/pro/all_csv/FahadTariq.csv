@@ -1,12 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-FahadTariq,United Arab Emirates,Ireland,16,18,1,1,88.88888888888889,0,0,0,0,0,0,Sheikh Zayed Stadium,19
-FahadTariq,United Arab Emirates,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,-8
-FahadTariq,United Arab Emirates,Ireland,16,18,1,1,88.88888888888889,0,0,0,0,0,0,Sheikh Zayed Stadium,19
-FahadTariq,United Arab Emirates,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,-8
-FahadTariq,United Arab Emirates,Ireland,16,18,1,1,88.88888888888889,0,0,0,0,0,0,Sheikh Zayed Stadium,19
-FahadTariq,United Arab Emirates,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,-8
-FahadTariq,United Arab Emirates,India,3,5,0,0,60.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-FahadTariq,United Arab Emirates,Pakistan,0,0,0,0,0,5,0,8,0,0,0,Shere Bangla National Stadium,0
-FahadTariq,United Arab Emirates,Netherlands,0,1,0,0,0.0,11,1,18,0,0,18.0,ICC Academy,-8
-FahadTariq,United Arab Emirates,Ireland,16,18,1,1,88.88888888888889,0,0,0,0,0,0,Sheikh Zayed Stadium,19
-FahadTariq,United Arab Emirates,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+FahadTariq,United Arab Emirates,Pakistan,0,0,0,0,0,5,0,8,0,0,0,Shere Bangla National Stadium,0,1,2016,8
+FahadTariq,United Arab Emirates,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,3,2016,16
+FahadTariq,United Arab Emirates,Ireland,16,18,1,1,88.88888888888889,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,19
+FahadTariq,United Arab Emirates,Netherlands,0,1,0,0,0.0,11,1,18,0,0,18.0,ICC Academy,0,0,2016,-8
+FahadTariq,United Arab Emirates,India,3,5,0,0,60.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,1

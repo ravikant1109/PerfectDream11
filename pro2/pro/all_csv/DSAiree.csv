@@ -1,26 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DSAiree,Nepal,Hong Kong,6,13,1,0,46.15384615384615,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1
-DSAiree,Nepal,Kuwait,1,2,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,-3
-DSAiree,Nepal,Malaysia,2,4,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,-2
-DSAiree,Nepal,Zimbabwe,40,34,5,0,117.64705882352942,12,2,23,0,0,11.5,Indian Association Ground,39
-DSAiree,Nepal,Ireland,19,21,0,1,90.47619047619048,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),21
-DSAiree,Nepal,Hong Kong,6,13,1,0,46.15384615384615,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1
-DSAiree,Nepal,Kuwait,1,2,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,-3
-DSAiree,Nepal,Malaysia,2,4,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,-2
-DSAiree,Nepal,Zimbabwe,40,34,5,0,117.64705882352942,12,2,23,0,0,11.5,Indian Association Ground,39
-DSAiree,Nepal,Ireland,19,21,0,1,90.47619047619048,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),21
-DSAiree,Nepal,Hong Kong,6,13,1,0,46.15384615384615,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1
-DSAiree,Nepal,Kuwait,1,2,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,-3
-DSAiree,Nepal,Malaysia,2,4,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,-2
-DSAiree,Nepal,Zimbabwe,40,34,5,0,117.64705882352942,12,2,23,0,0,11.5,Indian Association Ground,39
-DSAiree,Nepal,Ireland,19,21,0,1,90.47619047619048,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),21
-DSAiree,Nepal,Netherlands,8,10,0,0,80.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),8
-DSAiree,Nepal,Zimbabwe,4,4,1,0,100.0,0,0,0,0,0,0,Indian Association Ground,5
-DSAiree,Nepal,Singapore,23,23,1,1,100.0,0,0,0,0,0,0,Indian Association Ground,26
-DSAiree,Nepal,Qatar,34,35,1,1,97.14285714285714,0,0,0,0,0,0,Indian Association Ground,37
-DSAiree,Nepal,Oman,11,6,2,0,183.33333333333331,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),13
-DSAiree,Nepal,Hong Kong,6,13,1,0,46.15384615384615,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1
-DSAiree,Nepal,Kuwait,1,2,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,-3
-DSAiree,Nepal,Malaysia,2,4,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,-2
-DSAiree,Nepal,Zimbabwe,40,34,5,0,117.64705882352942,12,2,23,0,0,11.5,Indian Association Ground,39
-DSAiree,Nepal,Ireland,19,21,0,1,90.47619047619048,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DSAiree,Nepal,Qatar,34,35,1,1,97.14285714285714,0,0,0,0,0,0,Indian Association Ground,0,0,2019,37
+DSAiree,Nepal,Hong Kong,6,13,1,0,46.15384615384615,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,1
+DSAiree,Nepal,Zimbabwe,4,4,1,0,100.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,5
+DSAiree,Nepal,Singapore,23,23,1,1,100.0,0,0,0,0,0,0,Indian Association Ground,0,1,2019,34
+DSAiree,Nepal,Oman,11,6,2,0,183.33333333333331,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,21
+DSAiree,Nepal,Zimbabwe,40,34,5,0,117.64705882352942,12,2,23,0,0,11.5,Indian Association Ground,0,0,2019,39
+DSAiree,Nepal,Kuwait,1,2,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,-3
+DSAiree,Nepal,Malaysia,2,4,0,0,50.0,0,0,0,0,0,0,Indian Association Ground,0,1,2019,6
+DSAiree,Nepal,Netherlands,8,10,0,0,80.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,8
+DSAiree,Nepal,Ireland,19,21,0,1,90.47619047619048,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,29

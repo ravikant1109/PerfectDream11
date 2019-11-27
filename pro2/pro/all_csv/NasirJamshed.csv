@@ -1,36 +1,66 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NasirJamshed,Pakistan,Zimbabwe,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Harare Sports Club,-4
-NasirJamshed,Pakistan,India,2,6,0,0,33.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,-4
-NasirJamshed,Pakistan,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-NasirJamshed,Pakistan,Australia,10,10,2,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,12
-NasirJamshed,Pakistan,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Dubai International Cricket Stadium,22
-NasirJamshed,Pakistan,Zimbabwe,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Harare Sports Club,-4
-NasirJamshed,Pakistan,India,2,6,0,0,33.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,-4
-NasirJamshed,Pakistan,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-NasirJamshed,Pakistan,Australia,10,10,2,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,12
-NasirJamshed,Pakistan,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Dubai International Cricket Stadium,22
-NasirJamshed,Pakistan,Zimbabwe,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Harare Sports Club,-4
-NasirJamshed,Pakistan,India,2,6,0,0,33.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,-4
-NasirJamshed,Pakistan,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-NasirJamshed,Pakistan,Australia,10,10,2,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,12
-NasirJamshed,Pakistan,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Dubai International Cricket Stadium,22
-NasirJamshed,Pakistan,Australia,45,37,4,1,121.62162162162163,0,0,0,0,0,0,Dubai International Cricket Stadium,51
-NasirJamshed,Pakistan,South Africa,18,25,3,0,72.0,0,0,0,0,0,0,New Wanderers Stadium,21
-NasirJamshed,Pakistan,India,41,33,4,1,124.24242424242425,0,0,0,0,0,0,Sardar Patel Stadium Motera,47
-NasirJamshed,Pakistan,Sri Lanka,4,8,0,0,50.0,0,0,0,0,0,0,R Premadasa Stadium,0
-NasirJamshed,Pakistan,Zimbabwe,23,18,3,1,127.77777777777777,0,0,0,0,0,0,Harare Sports Club,28
-NasirJamshed,Pakistan,South Africa,13,13,2,0,100.0,0,0,0,0,0,0,SuperSport Park,15
-NasirJamshed,Pakistan,India,4,5,0,0,80.0,0,0,0,0,0,0,R Premadasa Stadium,4
-NasirJamshed,Pakistan,Bangladesh,29,14,2,2,207.14285714285717,0,0,0,0,0,0,Pallekele International Cricket Stadium,35
-NasirJamshed,Pakistan,Australia,55,47,4,2,117.02127659574468,0,0,0,0,0,0,R Premadasa Stadium,71
-NasirJamshed,Pakistan,Australia,17,23,2,0,73.91304347826086,0,0,0,0,0,0,Dubai International Cricket Stadium,19
-NasirJamshed,Pakistan,South Africa,19,19,3,0,100.0,0,0,0,0,0,0,Newlands,22
-NasirJamshed,Pakistan,West Indies,6,5,0,1,120.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,8
-NasirJamshed,Pakistan,New Zealand,56,35,2,4,160.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,74
-NasirJamshed,Pakistan,Zimbabwe,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Harare Sports Club,-4
-NasirJamshed,Pakistan,India,2,6,0,0,33.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,-4
-NasirJamshed,Pakistan,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-NasirJamshed,Pakistan,Australia,10,10,2,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,12
-NasirJamshed,Pakistan,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Dubai International Cricket Stadium,22
-NasirJamshed,Pakistan,Australia,45,37,4,1,121.62162162162163,0,0,0,0,0,0,Dubai International Cricket Stadium,51
-NasirJamshed,Pakistan,South Africa,18,25,3,0,72.0,0,0,0,0,0,0,New Wanderers Stadium,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NasirJamshed,Pakistan,India,2,6,0,0,33.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2012,-4
+NasirJamshed,Pakistan,Sri Lanka,4,8,0,0,50.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,0
+NasirJamshed,Pakistan,Australia,55,47,4,2,117.02127659574468,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,71
+NasirJamshed,Pakistan,South Africa,13,13,2,0,100.0,0,0,0,0,0,0,SuperSport Park,0,0,2013,15
+NasirJamshed,Pakistan,India,4,5,0,0,80.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,4
+NasirJamshed,Pakistan,Zimbabwe,23,18,3,1,127.77777777777777,0,0,0,0,0,0,Harare Sports Club,0,0,2013,28
+NasirJamshed,Pakistan,Australia,10,10,2,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2012,20
+NasirJamshed,Pakistan,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,-8
+NasirJamshed,Pakistan,South Africa,19,19,3,0,100.0,0,0,0,0,0,0,Newlands,0,1,2013,30
+NasirJamshed,Pakistan,Bangladesh,29,14,2,2,207.14285714285717,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,35
+NasirJamshed,Pakistan,New Zealand,56,35,2,4,160.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,1,2,2012,102
+NasirJamshed,Pakistan,South Africa,18,25,3,0,72.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2013,21
+NasirJamshed,Pakistan,Australia,17,23,2,0,73.91304347826086,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2012,27
+NasirJamshed,Pakistan,India,41,33,4,1,124.24242424242425,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2012,47
+NasirJamshed,Pakistan,South Africa,19,21,3,0,90.47619047619048,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2013,30
+NasirJamshed,Pakistan,Zimbabwe,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Harare Sports Club,0,0,2013,-4
+NasirJamshed,Pakistan,West Indies,6,5,0,1,120.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2013,8
+NasirJamshed,Pakistan,Australia,45,37,4,1,121.62162162162163,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,51
+NasirJamshed,Pakistan,New Zealand,30,47,2,1,63.829787234042556,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2014,32
+NasirJamshed,Pakistan,India,112,108,10,1,103.7037037037037,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,140
+NasirJamshed,Pakistan,Zimbabwe,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2015,-5
+NasirJamshed,Pakistan,Australia,9,14,1,0,64.28571428571429,0,0,0,0,0,0,Dubai Sports City Cricket Stadium,0,0,2009,8
+NasirJamshed,Pakistan,South Africa,0,12,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,-8
+NasirJamshed,Pakistan,South Africa,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2013,-5
+NasirJamshed,Pakistan,Australia,48,80,6,0,60.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2012,52
+NasirJamshed,Pakistan,Zimbabwe,38,52,3,1,73.07692307692307,0,0,0,0,0,0,Harare Sports Club,0,0,2013,43
+NasirJamshed,Pakistan,Zimbabwe,74,65,14,0,113.84615384615384,0,0,0,0,0,0,Niaz Stadium Hyderabad,0,0,2008,96
+NasirJamshed,Pakistan,South Africa,2,5,0,0,40.0,0,0,0,0,0,0,St George's Park,0,0,2013,-4
+NasirJamshed,Pakistan,South Africa,25,19,5,0,131.57894736842107,0,0,0,0,0,0,Chevrolet Park,0,0,2013,30
+NasirJamshed,Pakistan,South Africa,10,14,1,1,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,0,0,2013,13
+NasirJamshed,Pakistan,Ireland,0,12,0,0,0.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,1,2013,0
+NasirJamshed,Pakistan,India,53,44,9,0,120.45454545454545,0,0,0,0,0,0,National Stadium,0,1,2008,78
+NasirJamshed,Pakistan,West Indies,6,17,1,0,35.294117647058826,0,0,0,0,0,0,Providence Stadium,0,1,2013,9
+NasirJamshed,Pakistan,Sri Lanka,1,4,0,0,25.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2009,-5
+NasirJamshed,Pakistan,Zimbabwe,19,19,2,0,100.0,0,0,0,0,0,0,Sheikhupura Stadium,0,0,2008,21
+NasirJamshed,Pakistan,India,34,64,5,0,53.125,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2013,35
+NasirJamshed,Pakistan,Zimbabwe,61,49,5,3,124.48979591836735,0,0,0,0,0,0,National Stadium,0,1,2008,88
+NasirJamshed,Pakistan,Zimbabwe,32,47,3,0,68.08510638297872,0,0,0,0,0,0,Harare Sports Club,0,0,2013,33
+NasirJamshed,Pakistan,West Indies,22,38,1,0,57.89473684210527,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2013,19
+NasirJamshed,Pakistan,Scotland,20,35,2,0,57.14285714285714,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2013,18
+NasirJamshed,Pakistan,South Africa,10,19,1,0,52.63157894736842,0,0,0,0,0,0,SuperSport Park,0,1,2013,15
+NasirJamshed,Pakistan,South Africa,42,80,4,0,52.5,0,0,0,0,0,0,Edgbaston,0,0,2013,42
+NasirJamshed,Pakistan,Bangladesh,9,8,1,0,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2012,26
+NasirJamshed,Pakistan,India,101,134,5,1,75.3731343283582,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2012,124
+NasirJamshed,Pakistan,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Hagley Oval,0,0,2015,-8
+NasirJamshed,Pakistan,Zimbabwe,27,59,2,0,45.76271186440678,0,0,0,0,0,0,Harare Sports Club,0,0,2013,23
+NasirJamshed,Pakistan,Zimbabwe,11,14,2,0,78.57142857142857,0,0,0,0,0,0,Iqbal Stadium,0,0,2008,13
+NasirJamshed,Pakistan,West Indies,50,96,5,0,52.083333333333336,0,0,0,0,0,0,Kennington Oval,0,0,2013,59
+NasirJamshed,Pakistan,Bangladesh,52,58,5,2,89.65517241379311,0,0,0,0,0,0,National Stadium,1,0,2008,81
+NasirJamshed,Pakistan,Bangladesh,20,17,4,0,117.64705882352942,0,0,0,0,0,0,Gaddafi Stadium,0,0,2008,24
+NasirJamshed,Pakistan,South Africa,24,47,1,0,51.06382978723404,0,0,0,0,0,0,Newlands,0,0,2013,21
+NasirJamshed,Pakistan,Bangladesh,54,66,5,1,81.81818181818183,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,69
+NasirJamshed,Pakistan,West Indies,23,25,2,1,92.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2013,27
+NasirJamshed,Pakistan,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2009,0
+NasirJamshed,Pakistan,Sri Lanka,18,25,3,0,72.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2012,29
+NasirJamshed,Pakistan,New Zealand,0,5,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2014,-8
+NasirJamshed,Pakistan,Australia,23,30,3,0,76.66666666666667,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2012,26
+NasirJamshed,Pakistan,Australia,97,102,11,2,95.09803921568627,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2012,128
+NasirJamshed,Pakistan,West Indies,20,28,2,0,71.42857142857143,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2013,22
+NasirJamshed,Pakistan,United Arab Emirates,4,13,0,0,30.76923076923077,0,0,0,0,0,0,McLean Park,0,1,2015,6
+NasirJamshed,Pakistan,Ireland,20,39,0,1,51.28205128205128,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2013,18
+NasirJamshed,Pakistan,India,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Edgbaston,0,1,2013,4
+NasirJamshed,Pakistan,India,106,127,12,2,83.46456692913385,0,0,0,0,0,0,Eden Gardens,0,0,2013,138
+NasirJamshed,Pakistan,Bangladesh,21,22,3,0,95.45454545454545,0,0,0,0,0,0,Iqbal Stadium,0,1,2008,32
+NasirJamshed,Pakistan,West Indies,54,93,4,1,58.06451612903226,0,0,0,0,0,0,Providence Stadium,0,0,2013,64

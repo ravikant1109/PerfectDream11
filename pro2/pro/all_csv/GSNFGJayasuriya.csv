@@ -1,37 +1,24 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GSNFGJayasuriya,Sri Lanka,Pakistan,4,6,0,0,66.66666666666666,5,0,13,1,0,0,Shere Bangla National Stadium,27
-GSNFGJayasuriya,Sri Lanka,United Arab Emirates,10,8,2,0,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,12
-GSNFGJayasuriya,Sri Lanka,Pakistan,34,29,3,0,117.24137931034481,0,0,0,0,0,0,Gaddafi Stadium,37
-GSNFGJayasuriya,Sri Lanka,New Zealand,3,10,0,0,30.0,0,0,0,0,0,0,Eden Park,-3
-GSNFGJayasuriya,Sri Lanka,West Indies,36,23,2,2,156.52173913043478,5,0,11,1,0,0,Pallekele International Cricket Stadium,67
-GSNFGJayasuriya,Sri Lanka,New Zealand,0,0,0,0,0,5,0,10,0,0,0,Pallekele International Cricket Stadium,0
-GSNFGJayasuriya,Sri Lanka,India,3,5,0,0,60.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-GSNFGJayasuriya,Sri Lanka,Pakistan,4,6,0,0,66.66666666666666,5,0,13,1,0,0,Shere Bangla National Stadium,27
-GSNFGJayasuriya,Sri Lanka,United Arab Emirates,10,8,2,0,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,12
-GSNFGJayasuriya,Sri Lanka,Pakistan,34,29,3,0,117.24137931034481,0,0,0,0,0,0,Gaddafi Stadium,37
-GSNFGJayasuriya,Sri Lanka,New Zealand,3,10,0,0,30.0,0,0,0,0,0,0,Eden Park,-3
-GSNFGJayasuriya,Sri Lanka,West Indies,36,23,2,2,156.52173913043478,5,0,11,1,0,0,Pallekele International Cricket Stadium,67
-GSNFGJayasuriya,Sri Lanka,New Zealand,0,0,0,0,0,5,0,10,0,0,0,Pallekele International Cricket Stadium,0
-GSNFGJayasuriya,Sri Lanka,India,3,5,0,0,60.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-GSNFGJayasuriya,Sri Lanka,Pakistan,4,6,0,0,66.66666666666666,5,0,13,1,0,0,Shere Bangla National Stadium,27
-GSNFGJayasuriya,Sri Lanka,United Arab Emirates,10,8,2,0,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,12
-GSNFGJayasuriya,Sri Lanka,Pakistan,34,29,3,0,117.24137931034481,0,0,0,0,0,0,Gaddafi Stadium,37
-GSNFGJayasuriya,Sri Lanka,New Zealand,3,10,0,0,30.0,0,0,0,0,0,0,Eden Park,-3
-GSNFGJayasuriya,Sri Lanka,West Indies,36,23,2,2,156.52173913043478,5,0,11,1,0,0,Pallekele International Cricket Stadium,67
-GSNFGJayasuriya,Sri Lanka,New Zealand,0,0,0,0,0,5,0,10,0,0,0,Pallekele International Cricket Stadium,0
-GSNFGJayasuriya,Sri Lanka,India,3,5,0,0,60.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-GSNFGJayasuriya,Sri Lanka,Pakistan,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Gaddafi Stadium,-4
-GSNFGJayasuriya,Sri Lanka,South Africa,1,3,0,0,33.33333333333333,5,0,9,0,0,0,Feroz Shah Kotla,-5
-GSNFGJayasuriya,Sri Lanka,Pakistan,40,32,3,2,125.0,23,3,37,1,0,12.333333333333334,R Premadasa Stadium,66
-GSNFGJayasuriya,Sri Lanka,New Zealand,4,3,0,0,133.33333333333331,23,3,28,0,0,9.333333333333334,Bay Oval,2
-GSNFGJayasuriya,Sri Lanka,New Zealand,20,13,2,1,153.84615384615387,11,1,22,0,0,22.0,Pallekele International Cricket Stadium,24
-GSNFGJayasuriya,Sri Lanka,West Indies,30,34,3,1,88.23529411764706,17,2,27,0,0,13.5,R Premadasa Stadium,29
-GSNFGJayasuriya,Sri Lanka,Bangladesh,26,22,1,2,118.18181818181819,17,2,21,0,0,10.5,Shere Bangla National Stadium,27
-GSNFGJayasuriya,Sri Lanka,Pakistan,4,6,0,0,66.66666666666666,5,0,13,1,0,0,Shere Bangla National Stadium,27
-GSNFGJayasuriya,Sri Lanka,United Arab Emirates,10,8,2,0,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,12
-GSNFGJayasuriya,Sri Lanka,Pakistan,34,29,3,0,117.24137931034481,0,0,0,0,0,0,Gaddafi Stadium,37
-GSNFGJayasuriya,Sri Lanka,New Zealand,3,10,0,0,30.0,0,0,0,0,0,0,Eden Park,-3
-GSNFGJayasuriya,Sri Lanka,West Indies,36,23,2,2,156.52173913043478,5,0,11,1,0,0,Pallekele International Cricket Stadium,67
-GSNFGJayasuriya,Sri Lanka,New Zealand,0,0,0,0,0,5,0,10,0,0,0,Pallekele International Cricket Stadium,0
-GSNFGJayasuriya,Sri Lanka,India,3,5,0,0,60.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-GSNFGJayasuriya,Sri Lanka,Pakistan,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Gaddafi Stadium,-4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GSNFGJayasuriya,Sri Lanka,New Zealand,20,13,2,1,153.84615384615387,11,1,22,0,0,22.0,Pallekele International Cricket Stadium,0,0,2019,24
+GSNFGJayasuriya,Sri Lanka,United Arab Emirates,10,8,2,0,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,12
+GSNFGJayasuriya,Sri Lanka,India,3,5,0,0,60.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,1
+GSNFGJayasuriya,Sri Lanka,South Africa,1,3,0,0,33.33333333333333,5,0,9,0,0,0,Feroz Shah Kotla,0,0,2016,-5
+GSNFGJayasuriya,Sri Lanka,Pakistan,4,6,0,0,66.66666666666666,5,0,13,1,0,0,Shere Bangla National Stadium,0,0,2016,27
+GSNFGJayasuriya,Sri Lanka,West Indies,30,34,3,1,88.23529411764706,17,2,27,0,0,13.5,R Premadasa Stadium,1,0,2015,41
+GSNFGJayasuriya,Sri Lanka,Pakistan,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Gaddafi Stadium,0,0,2019,-4
+GSNFGJayasuriya,Sri Lanka,New Zealand,0,0,0,0,0,5,0,10,0,0,0,Pallekele International Cricket Stadium,0,0,2019,0
+GSNFGJayasuriya,Sri Lanka,West Indies,36,23,2,2,156.52173913043478,5,0,11,1,0,0,Pallekele International Cricket Stadium,0,0,2015,67
+GSNFGJayasuriya,Sri Lanka,Bangladesh,26,22,1,2,118.18181818181819,17,2,21,0,0,10.5,Shere Bangla National Stadium,0,1,2016,35
+GSNFGJayasuriya,Sri Lanka,Pakistan,40,32,3,2,125.0,23,3,37,1,0,12.333333333333334,R Premadasa Stadium,0,0,2015,66
+GSNFGJayasuriya,Sri Lanka,New Zealand,3,10,0,0,30.0,0,0,0,0,0,0,Eden Park,0,0,2016,-3
+GSNFGJayasuriya,Sri Lanka,New Zealand,4,3,0,0,133.33333333333331,23,3,28,0,0,9.333333333333334,Bay Oval,0,0,2016,2
+GSNFGJayasuriya,Sri Lanka,Pakistan,34,29,3,0,117.24137931034481,0,0,0,0,0,0,Gaddafi Stadium,0,0,2019,37
+GSNFGJayasuriya,Sri Lanka,Pakistan,96,110,7,1,87.27272727272727,59,9,48,0,1,5.333333333333333,National Stadium,0,0,2019,123
+GSNFGJayasuriya,Sri Lanka,West Indies,0,2,0,0,0.0,17,2,15,1,0,7.5,R Premadasa Stadium,0,0,2015,17
+GSNFGJayasuriya,Sri Lanka,Pakistan,3,6,0,0,50.0,41,6,43,1,0,7.166666666666667,National Stadium,0,0,2019,24
+GSNFGJayasuriya,Sri Lanka,West Indies,0,0,0,0,0,11,1,11,0,0,11.0,R Premadasa Stadium,0,0,2015,0
+GSNFGJayasuriya,Sri Lanka,Zimbabwe,0,0,0,0,0,17,2,24,0,0,12.0,Harare Sports Club,0,1,2016,2
+GSNFGJayasuriya,Sri Lanka,Bangladesh,13,7,1,1,185.71428571428572,35,5,40,0,0,8.0,R.Premadasa Stadium Khettarama,0,0,2019,16
+GSNFGJayasuriya,Sri Lanka,West Indies,9,12,0,0,75.0,24,4,20,0,0,5.0,Queens Sports Club,0,0,2016,11
+GSNFGJayasuriya,Sri Lanka,West Indies,11,15,2,0,73.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2015,13
+GSNFGJayasuriya,Sri Lanka,West Indies,31,59,2,0,52.54237288135594,23,3,19,0,0,6.333333333333333,Harare Sports Club,0,0,2016,29

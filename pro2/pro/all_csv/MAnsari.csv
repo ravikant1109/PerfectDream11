@@ -1,14 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MAnsari,Oman,Bangladesh,3,4,0,0,75.0,25,4,51,0,0,12.75,Himachal Pradesh Cricket Association Stadium,-3
-MAnsari,Oman,Bangladesh,3,4,0,0,75.0,25,4,51,0,0,12.75,Himachal Pradesh Cricket Association Stadium,-3
-MAnsari,Oman,Bangladesh,3,4,0,0,75.0,25,4,51,0,0,12.75,Himachal Pradesh Cricket Association Stadium,-3
-MAnsari,Oman,Afghanistan,0,0,0,0,0,23,3,37,0,0,12.333333333333334,Sheikh Zayed Stadium,-6
-MAnsari,Oman,Ireland,0,1,0,0,0.0,25,4,42,3,0,10.5,Himachal Pradesh Cricket Association Stadium,63
-MAnsari,Oman,Afghanistan,0,0,0,0,0,24,4,40,0,0,10.0,Khan Shaheb Osman Ali Stadium,-2
-MAnsari,Oman,Hong Kong,0,0,0,0,0,23,3,30,1,0,10.0,Khan Shaheb Osman Ali Stadium,23
-MAnsari,Oman,United Arab Emirates,2,5,0,0,40.0,23,3,35,0,0,11.666666666666666,Shere Bangla National Stadium,-10
-MAnsari,Oman,Afghanistan,0,0,0,0,0,23,3,38,2,0,12.666666666666666,Clontarf Cricket Club Ground,44
-MAnsari,Oman,Hong Kong,0,0,0,0,0,17,2,20,1,0,10.0,Sheikh Zayed Stadium,23
-MAnsari,Oman,Hong Kong,0,0,0,0,0,25,4,25,1,0,6.25,Sheikh Zayed Stadium,25
-MAnsari,Oman,Bangladesh,3,4,0,0,75.0,25,4,51,0,0,12.75,Himachal Pradesh Cricket Association Stadium,-3
-MAnsari,Oman,Afghanistan,0,0,0,0,0,23,3,37,0,0,12.333333333333334,Sheikh Zayed Stadium,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MAnsari,Oman,Hong Kong,0,0,0,0,0,17,2,20,1,0,10.0,Sheikh Zayed Stadium,0,0,2015,23
+MAnsari,Oman,Afghanistan,0,0,0,0,0,23,3,38,2,0,12.666666666666666,Clontarf Cricket Club Ground,0,0,2015,44
+MAnsari,Oman,Afghanistan,0,0,0,0,0,24,4,40,0,0,10.0,Khan Shaheb Osman Ali Stadium,0,0,2016,-2
+MAnsari,Oman,Bangladesh,3,4,0,0,75.0,25,4,51,0,0,12.75,Himachal Pradesh Cricket Association Stadium,0,0,2016,-3
+MAnsari,Oman,Hong Kong,0,0,0,0,0,23,3,30,1,0,10.0,Khan Shaheb Osman Ali Stadium,1,0,2016,35
+MAnsari,Oman,Hong Kong,0,0,0,0,0,25,4,25,1,0,6.25,Sheikh Zayed Stadium,0,0,2015,25
+MAnsari,Oman,Afghanistan,0,0,0,0,0,23,3,37,0,0,12.333333333333334,Sheikh Zayed Stadium,0,0,2015,-6
+MAnsari,Oman,United Arab Emirates,2,5,0,0,40.0,23,3,35,0,0,11.666666666666666,Shere Bangla National Stadium,0,0,2016,-10
+MAnsari,Oman,Ireland,0,1,0,0,0.0,25,4,42,3,0,10.5,Himachal Pradesh Cricket Association Stadium,0,0,2016,63

@@ -1,19 +1,42 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ELewis,West Indies,Pakistan,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-3
-ELewis,West Indies,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,-5
-ELewis,West Indies,Afghanistan,26,17,1,3,152.94117647058823,0,0,0,0,0,0,Warner Park Basseterre,33
-ELewis,West Indies,Afghanistan,0,7,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,-8
-ELewis,West Indies,India,100,50,5,9,200.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,139
-ELewis,West Indies,India,7,6,1,0,116.66666666666667,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,8
-ELewis,West Indies,India,10,11,1,0,90.9090909090909,0,0,0,0,0,0,Providence Stadium Guyana,11
-ELewis,West Indies,Afghanistan,19,23,1,1,82.6086956521739,0,0,0,0,0,0,Warner Park Basseterre,22
-ELewis,West Indies,India,125,69,6,12,181.15942028985506,0,0,0,0,0,0,Sabina Park Kingston,171
-ELewis,West Indies,Afghanistan,25,29,1,1,86.20689655172413,0,0,0,0,0,0,Warner Park Basseterre,28
-ELewis,West Indies,Pakistan,3,6,0,0,50.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-1
-ELewis,West Indies,Pakistan,7,8,0,1,87.5,0,0,0,0,0,0,Queen's Park Oval Port of Spain,9
-ELewis,West Indies,Pakistan,10,10,0,1,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,12
-ELewis,West Indies,India,0,3,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-8
-ELewis,West Indies,India,0,5,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-8
-ELewis,West Indies,Pakistan,91,51,5,9,178.4313725490196,0,0,0,0,0,0,Queen's Park Oval Port of Spain,122
-ELewis,West Indies,Pakistan,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-3
-ELewis,West Indies,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,-5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ELewis,West Indies,India,100,50,5,9,200.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,139
+ELewis,West Indies,India,125,69,6,12,181.15942028985506,0,0,0,0,0,0,Sabina Park Kingston,0,0,2017,171
+ELewis,West Indies,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2016,-5
+ELewis,West Indies,Afghanistan,25,29,1,1,86.20689655172413,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,28
+ELewis,West Indies,India,0,3,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,-8
+ELewis,West Indies,Pakistan,91,51,5,9,178.4313725490196,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2017,130
+ELewis,West Indies,India,10,11,1,0,90.9090909090909,0,0,0,0,0,0,Providence Stadium Guyana,0,1,2019,19
+ELewis,West Indies,Afghanistan,0,7,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,-8
+ELewis,West Indies,India,0,5,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,-8
+ELewis,West Indies,India,7,6,1,0,116.66666666666667,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,8
+ELewis,West Indies,Pakistan,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,-3
+ELewis,West Indies,Pakistan,7,8,0,1,87.5,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,9
+ELewis,West Indies,Afghanistan,26,17,1,3,152.94117647058823,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,33
+ELewis,West Indies,Pakistan,10,10,0,1,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2017,20
+ELewis,West Indies,Pakistan,3,6,0,0,50.0,0,0,0,0,0,0,Dubai International Cricket Stadium,1,0,2016,11
+ELewis,West Indies,Afghanistan,19,23,1,1,82.6086956521739,0,0,0,0,0,0,Warner Park Basseterre,0,1,2017,30
+ELewis,West Indies,England,2,9,0,0,22.22222222222222,0,0,0,0,0,0,The Rose Bowl,0,0,2019,-4
+ELewis,West Indies,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Old Trafford,0,0,2019,-8
+ELewis,West Indies,India,65,82,8,1,79.26829268292683,0,0,0,0,0,0,Queen's Park Oval Trinidad,0,0,2019,83
+ELewis,West Indies,India,35,64,2,2,54.6875,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2017,37
+ELewis,West Indies,Pakistan,13,14,2,0,92.85714285714286,0,0,0,0,0,0,Providence Stadium,0,0,2017,15
+ELewis,West Indies,Sri Lanka,148,126,15,4,117.46031746031747,0,0,0,0,0,0,Queens Sports Club,0,0,2016,187
+ELewis,West Indies,Afghanistan,33,37,5,0,89.1891891891892,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,1,1,2017,58
+ELewis,West Indies,Afghanistan,54,76,6,1,71.05263157894737,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,1,2019,78
+ELewis,West Indies,India,40,38,2,3,105.26315789473684,0,0,0,0,0,0,Providence Stadium Guyana,0,0,2019,48
+ELewis,West Indies,England,0,4,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2017,-8
+ELewis,West Indies,Zimbabwe,9,9,2,0,100.0,0,0,0,0,0,0,Queens Sports Club,0,0,2016,11
+ELewis,West Indies,Zimbabwe,18,20,4,0,90.0,0,0,0,0,0,0,Queens Sports Club,0,0,2016,22
+ELewis,West Indies,India,9,20,0,0,45.0,0,0,0,0,0,0,Sabina Park Kingston,0,1,2017,11
+ELewis,West Indies,England,21,33,2,0,63.63636363636363,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2017,21
+ELewis,West Indies,Pakistan,16,22,1,0,72.72727272727273,0,0,0,0,0,0,Providence Stadium,0,0,2017,17
+ELewis,West Indies,Afghanistan,21,48,0,0,43.75,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,15
+ELewis,West Indies,Pakistan,22,30,4,0,73.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,26
+ELewis,West Indies,Afghanistan,1,4,0,0,25.0,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,1,2019,3
+ELewis,West Indies,Afghanistan,7,7,0,0,100.0,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,0,2019,7
+ELewis,West Indies,Bangladesh,70,69,6,2,101.44927536231884,0,0,0,0,0,0,The Cooper Associates County Ground,0,0,2019,88
+ELewis,West Indies,Sri Lanka,27,51,1,0,52.94117647058824,0,0,0,0,0,0,Harare Sports Club,0,2,2016,40
+ELewis,West Indies,India,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2017,-4
+ELewis,West Indies,Australia,1,5,0,0,20.0,0,0,0,0,0,0,Trent Bridge,0,0,2019,-5
+ELewis,West Indies,India,21,37,2,0,56.75675675675676,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,19
+ELewis,West Indies,Afghanistan,58,80,6,2,72.5,0,0,0,0,0,0,Headingley,0,1,2019,84

@@ -1,10 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HDRutherford,New Zealand,Bangladesh,17,17,1,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,20
-HDRutherford,New Zealand,England,62,37,6,4,167.56756756756758,0,0,0,0,0,0,Kennington Oval,84
-HDRutherford,New Zealand,England,40,27,1,3,148.14814814814815,0,0,0,0,0,0,Seddon Park,47
-HDRutherford,New Zealand,Sri Lanka,3,4,0,0,75.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,3
-HDRutherford,New Zealand,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-HDRutherford,New Zealand,England,18,11,2,1,163.63636363636365,0,0,0,0,0,0,Eden Park,22
-HDRutherford,New Zealand,England,11,10,2,0,110.00000000000001,0,0,0,0,0,0,Westpac Stadium,13
-HDRutherford,New Zealand,Bangladesh,17,17,1,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,20
-HDRutherford,New Zealand,England,62,37,6,4,167.56756756756758,0,0,0,0,0,0,Kennington Oval,84
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HDRutherford,New Zealand,England,62,37,6,4,167.56756756756758,0,0,0,0,0,0,Kennington Oval,0,0,2013,84
+HDRutherford,New Zealand,Sri Lanka,3,4,0,0,75.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2013,3
+HDRutherford,New Zealand,England,18,11,2,1,163.63636363636365,0,0,0,0,0,0,Eden Park,0,1,2013,30
+HDRutherford,New Zealand,England,40,27,1,3,148.14814814814815,0,0,0,0,0,0,Seddon Park,0,0,2013,47
+HDRutherford,New Zealand,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,-8
+HDRutherford,New Zealand,England,11,10,2,0,110.00000000000001,0,0,0,0,0,0,Westpac Stadium,0,0,2013,13
+HDRutherford,New Zealand,Bangladesh,17,17,1,1,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2013,20
+HDRutherford,New Zealand,Bangladesh,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2013,-5
+HDRutherford,New Zealand,Bangladesh,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2013,-5
+HDRutherford,New Zealand,England,2,19,0,0,10.526315789473683,0,0,0,0,0,0,Eden Park,0,1,2013,4
+HDRutherford,New Zealand,England,11,25,2,0,44.0,0,0,0,0,0,0,McLean Park,0,1,2013,15

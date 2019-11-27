@@ -1,6 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TaijulIslam,Bangladesh,Afghanistan,0,1,0,0,0.0,24,4,32,0,0,8.0,Shere Bangla National Stadium Mirpur,-8
-TaijulIslam,Bangladesh,Afghanistan,0,1,0,0,0.0,24,4,32,0,0,8.0,Shere Bangla National Stadium Mirpur,-8
-TaijulIslam,Bangladesh,Afghanistan,0,1,0,0,0.0,24,4,32,0,0,8.0,Shere Bangla National Stadium Mirpur,-8
-TaijulIslam,Bangladesh,Zimbabwe,0,0,0,0,0,19,3,26,1,0,8.666666666666666,Shere Bangla National Stadium Mirpur,25
-TaijulIslam,Bangladesh,Afghanistan,0,1,0,0,0.0,24,4,32,0,0,8.0,Shere Bangla National Stadium Mirpur,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TaijulIslam,Bangladesh,Afghanistan,0,1,0,0,0.0,24,4,32,0,0,8.0,Shere Bangla National Stadium Mirpur,0,0,2019,-8
+TaijulIslam,Bangladesh,Zimbabwe,0,0,0,0,0,19,3,26,1,0,8.666666666666666,Shere Bangla National Stadium Mirpur,0,0,2019,25
+TaijulIslam,Bangladesh,New Zealand,0,0,0,0,0,59,9,58,0,0,6.444444444444445,Seddon Park,0,0,2015,0
+TaijulIslam,Bangladesh,Afghanistan,11,11,1,0,100.0,60,10,44,1,0,4.4,Shere Bangla National Stadium,0,0,2016,41
+TaijulIslam,Bangladesh,Sri Lanka,39,28,5,1,139.28571428571428,59,9,34,1,1,3.7777777777777777,R.Premadasa Stadium Khettarama,0,0,2019,85
+TaijulIslam,Bangladesh,Zimbabwe,0,0,0,0,0,41,6,11,4,3,1.8333333333333333,Shere Bangla National Stadium,0,0,2014,138
+TaijulIslam,Bangladesh,Sri Lanka,3,9,0,0,33.33333333333333,61,10,38,0,2,3.8,R.Premadasa Stadium Khettarama,0,0,2019,19
+TaijulIslam,Bangladesh,Afghanistan,10,32,1,0,31.25,59,9,38,0,1,4.222222222222222,Shere Bangla National Stadium,0,1,2016,25

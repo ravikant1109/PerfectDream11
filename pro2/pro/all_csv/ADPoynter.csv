@@ -1,17 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ADPoynter,Ireland,Afghanistan,23,17,2,1,135.29411764705884,0,0,0,0,0,0,Dubai International Cricket Stadium,27
-ADPoynter,Ireland,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-ADPoynter,Ireland,Afghanistan,23,17,2,1,135.29411764705884,0,0,0,0,0,0,Dubai International Cricket Stadium,27
-ADPoynter,Ireland,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-ADPoynter,Ireland,Afghanistan,23,17,2,1,135.29411764705884,0,0,0,0,0,0,Dubai International Cricket Stadium,27
-ADPoynter,Ireland,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-ADPoynter,Ireland,Zimbabwe,23,15,3,0,153.33333333333334,0,0,0,0,0,0,Sylhet Stadium,26
-ADPoynter,Ireland,Netherlands,57,39,4,4,146.15384615384613,0,0,0,0,0,0,Sylhet Stadium,77
-ADPoynter,Ireland,Oman,11,10,0,1,110.00000000000001,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,13
-ADPoynter,Ireland,United Arab Emirates,4,5,1,0,80.0,0,0,0,0,0,0,Sylhet Stadium,5
-ADPoynter,Ireland,West Indies,2,5,0,0,40.0,0,0,0,0,0,0,Sabina Park Kingston,-4
-ADPoynter,Ireland,Scotland,36,25,3,2,144.0,0,0,0,0,0,0,Bready Cricket Club Magheramason,43
-ADPoynter,Ireland,Papua New Guinea,6,6,0,0,100.0,0,0,0,0,0,0,Tony Ireland Stadium,6
-ADPoynter,Ireland,West Indies,32,31,6,0,103.2258064516129,0,0,0,0,0,0,Sabina Park Kingston,38
-ADPoynter,Ireland,Afghanistan,23,17,2,1,135.29411764705884,0,0,0,0,0,0,Dubai International Cricket Stadium,27
-ADPoynter,Ireland,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ADPoynter,Ireland,Netherlands,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,-8
+ADPoynter,Ireland,Scotland,36,25,3,2,144.0,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,0,2015,43
+ADPoynter,Ireland,Papua New Guinea,6,6,0,0,100.0,0,0,0,0,0,0,Tony Ireland Stadium,0,0,2016,6
+ADPoynter,Ireland,United Arab Emirates,4,5,1,0,80.0,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,5
+ADPoynter,Ireland,West Indies,32,31,6,0,103.2258064516129,0,0,0,0,0,0,Sabina Park Kingston,0,0,2014,38
+ADPoynter,Ireland,Zimbabwe,23,15,3,0,153.33333333333334,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,26
+ADPoynter,Ireland,Netherlands,57,39,4,4,146.15384615384613,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,77
+ADPoynter,Ireland,Afghanistan,23,17,2,1,135.29411764705884,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,27
+ADPoynter,Ireland,Oman,11,10,0,1,110.00000000000001,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,13
+ADPoynter,Ireland,West Indies,2,5,0,0,40.0,0,0,0,0,0,0,Sabina Park Kingston,0,0,2014,-4
+ADPoynter,Ireland,Scotland,16,28,1,1,57.14285714285714,0,0,0,0,0,0,The Village Malahide,0,0,2014,15
+ADPoynter,Ireland,Scotland,21,52,1,0,40.38461538461539,0,0,0,0,0,0,The Village Malahide,0,1,2014,24
+ADPoynter,Ireland,Canada,0,2,0,0,0.0,0,0,0,0,0,0,VRA Ground,0,1,2010,0
+ADPoynter,Ireland,Scotland,15,26,1,0,57.692307692307686,0,0,0,0,0,0,The Village Malahide,0,0,2014,12
+ADPoynter,Ireland,Canada,10,12,0,1,83.33333333333334,0,0,0,0,0,0,Toronto Cricket,0,0,2010,12
+ADPoynter,Ireland,West Indies,3,14,0,0,21.428571428571427,0,0,0,0,0,0,Sabina Park Kingston,0,0,2014,-3

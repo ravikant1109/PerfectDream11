@@ -1,55 +1,133 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DRamdin,West Indies,Sri Lanka,9,5,2,0,180.0,0,0,0,0,0,0,Kennington Oval,11
-DRamdin,West Indies,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,1
-DRamdin,West Indies,Pakistan,5,10,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-DRamdin,West Indies,England,33,22,4,1,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,39
-DRamdin,West Indies,Sri Lanka,9,5,2,0,180.0,0,0,0,0,0,0,Kennington Oval,11
-DRamdin,West Indies,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,1
-DRamdin,West Indies,Pakistan,5,10,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-DRamdin,West Indies,England,33,22,4,1,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,39
-DRamdin,West Indies,Sri Lanka,9,5,2,0,180.0,0,0,0,0,0,0,Kennington Oval,11
-DRamdin,West Indies,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,1
-DRamdin,West Indies,Pakistan,5,10,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-DRamdin,West Indies,England,33,22,4,1,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,39
-DRamdin,West Indies,Bangladesh,2,3,0,0,66.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,0
-DRamdin,West Indies,Sri Lanka,4,4,0,0,100.0,0,0,0,0,0,0,R Premadasa Stadium,4
-DRamdin,West Indies,Bangladesh,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Shere Bangla National Stadium,11
-DRamdin,West Indies,England,24,14,2,1,171.42857142857142,0,0,0,0,0,0,Kennington Oval,28
-DRamdin,West Indies,New Zealand,30,21,4,0,142.85714285714286,0,0,0,0,0,0,Seddon Park,34
-DRamdin,West Indies,India,4,2,1,0,200.0,0,0,0,0,0,0,Kensington Oval Bridgetown,5
-DRamdin,West Indies,Afghanistan,18,24,0,0,75.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,18
-DRamdin,West Indies,South Africa,19,27,2,1,70.37037037037037,0,0,0,0,0,0,New Wanderers Stadium,23
-DRamdin,West Indies,England,12,14,1,0,85.71428571428571,0,0,0,0,0,0,Wankhede Stadium,13
-DRamdin,West Indies,Zimbabwe,23,38,1,0,60.526315789473685,0,0,0,0,0,0,Queen's Park Oval Port of Spain,22
-DRamdin,West Indies,Ireland,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Sabina Park Kingston,5
-DRamdin,West Indies,South Africa,12,13,2,0,92.3076923076923,0,0,0,0,0,0,St George's Park,14
-DRamdin,West Indies,Sri Lanka,5,13,0,0,38.46153846153847,0,0,0,0,0,0,M Chinnaswamy Stadium,-1
-DRamdin,West Indies,New Zealand,9,4,1,0,225.0,0,0,0,0,0,0,Eden Park,10
-DRamdin,West Indies,England,10,8,1,0,125.0,0,0,0,0,0,0,Kennington Oval,11
-DRamdin,West Indies,Australia,44,26,7,0,169.23076923076923,0,0,0,0,0,0,Bellerive Oval,51
-DRamdin,West Indies,Bangladesh,0,1,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,-8
-DRamdin,West Indies,New Zealand,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,-5
-DRamdin,West Indies,New Zealand,1,1,0,0,100.0,0,0,0,0,0,0,Windsor Park Roseau,1
-DRamdin,West Indies,Ireland,1,2,0,0,50.0,0,0,0,0,0,0,Providence Stadium,-3
-DRamdin,West Indies,Australia,8,6,1,0,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,9
-DRamdin,West Indies,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,-8
-DRamdin,West Indies,South Africa,8,7,1,0,114.28571428571428,0,0,0,0,0,0,Kennington Oval,9
-DRamdin,West Indies,New Zealand,55,33,2,3,166.66666666666669,0,0,0,0,0,0,Westpac Stadium,71
-DRamdin,West Indies,Sri Lanka,34,22,1,2,154.54545454545453,0,0,0,0,0,0,R Premadasa Stadium,39
-DRamdin,West Indies,New Zealand,2,2,0,0,100.0,0,0,0,0,0,0,Windsor Park Roseau,2
-DRamdin,West Indies,South Africa,2,5,0,0,40.0,0,0,0,0,0,0,Newlands,-4
-DRamdin,West Indies,Australia,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Beausejour Stadium Gros Islet,-5
-DRamdin,West Indies,Australia,9,12,0,0,75.0,0,0,0,0,0,0,Sydney Cricket Ground,9
-DRamdin,West Indies,Ireland,4,2,0,0,200.0,0,0,0,0,0,0,Sabina Park Kingston,4
-DRamdin,West Indies,Australia,3,2,0,0,150.0,0,0,0,0,0,0,R Premadasa Stadium,3
-DRamdin,West Indies,South Africa,7,5,1,0,140.0,0,0,0,0,0,0,New Wanderers Stadium,8
-DRamdin,West Indies,South Africa,6,4,1,0,150.0,0,0,0,0,0,0,New Wanderers Stadium,7
-DRamdin,West Indies,Sri Lanka,9,5,2,0,180.0,0,0,0,0,0,0,Kennington Oval,11
-DRamdin,West Indies,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,1
-DRamdin,West Indies,Pakistan,5,10,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,1
-DRamdin,West Indies,England,33,22,4,1,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,39
-DRamdin,West Indies,Bangladesh,2,3,0,0,66.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,0
-DRamdin,West Indies,Sri Lanka,4,4,0,0,100.0,0,0,0,0,0,0,R Premadasa Stadium,4
-DRamdin,West Indies,Bangladesh,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Shere Bangla National Stadium,11
-DRamdin,West Indies,England,24,14,2,1,171.42857142857142,0,0,0,0,0,0,Kennington Oval,28
-DRamdin,West Indies,New Zealand,30,21,4,0,142.85714285714286,0,0,0,0,0,0,Seddon Park,34
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DRamdin,West Indies,Sri Lanka,9,5,2,0,180.0,0,0,0,0,0,0,Kennington Oval,0,1,2009,19
+DRamdin,West Indies,Bangladesh,2,3,0,0,66.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,0
+DRamdin,West Indies,Australia,9,12,0,0,75.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,9
+DRamdin,West Indies,Bangladesh,0,1,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,-8
+DRamdin,West Indies,Australia,44,26,7,0,169.23076923076923,0,0,0,0,0,0,Bellerive Oval,0,2,2010,67
+DRamdin,West Indies,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2013,-8
+DRamdin,West Indies,England,33,22,4,1,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2014,39
+DRamdin,West Indies,South Africa,19,27,2,1,70.37037037037037,0,0,0,0,0,0,New Wanderers Stadium,0,1,2008,31
+DRamdin,West Indies,New Zealand,30,21,4,0,142.85714285714286,0,0,0,0,0,0,Seddon Park,0,1,2008,42
+DRamdin,West Indies,India,4,2,1,0,200.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2010,21
+DRamdin,West Indies,Australia,3,2,0,0,150.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,11
+DRamdin,West Indies,Pakistan,5,10,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,1
+DRamdin,West Indies,South Africa,2,5,0,0,40.0,0,0,0,0,0,0,Newlands,0,0,2015,-4
+DRamdin,West Indies,Australia,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,-5
+DRamdin,West Indies,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,1,0,2016,13
+DRamdin,West Indies,Sri Lanka,34,22,1,2,154.54545454545453,0,0,0,0,0,0,R Premadasa Stadium,0,0,2015,39
+DRamdin,West Indies,Afghanistan,18,24,0,0,75.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,18
+DRamdin,West Indies,Ireland,4,2,0,0,200.0,0,0,0,0,0,0,Sabina Park Kingston,0,0,2014,4
+DRamdin,West Indies,New Zealand,55,33,2,3,166.66666666666669,0,0,0,0,0,0,Westpac Stadium,0,1,2014,79
+DRamdin,West Indies,South Africa,12,13,2,0,92.3076923076923,0,0,0,0,0,0,St George's Park,0,0,2007,14
+DRamdin,West Indies,New Zealand,9,4,1,0,225.0,0,0,0,0,0,0,Eden Park,0,0,2006,10
+DRamdin,West Indies,Ireland,1,2,0,0,50.0,0,0,0,0,0,0,Providence Stadium,0,3,2010,21
+DRamdin,West Indies,New Zealand,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,-5
+DRamdin,West Indies,South Africa,7,5,1,0,140.0,0,0,0,0,0,0,New Wanderers Stadium,1,1,2015,28
+DRamdin,West Indies,Australia,8,6,1,0,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2008,9
+DRamdin,West Indies,England,24,14,2,1,171.42857142857142,0,0,0,0,0,0,Kennington Oval,0,0,2007,28
+DRamdin,West Indies,England,10,8,1,0,125.0,0,0,0,0,0,0,Kennington Oval,0,1,2007,19
+DRamdin,West Indies,Bangladesh,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2011,27
+DRamdin,West Indies,New Zealand,2,2,0,0,100.0,0,0,0,0,0,0,Windsor Park Roseau,0,0,2014,2
+DRamdin,West Indies,Sri Lanka,4,4,0,0,100.0,0,0,0,0,0,0,R Premadasa Stadium,1,0,2012,16
+DRamdin,West Indies,South Africa,6,4,1,0,150.0,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,15
+DRamdin,West Indies,England,12,14,1,0,85.71428571428571,0,0,0,0,0,0,Wankhede Stadium,0,0,2016,13
+DRamdin,West Indies,Sri Lanka,5,13,0,0,38.46153846153847,0,0,0,0,0,0,M Chinnaswamy Stadium,0,1,2016,7
+DRamdin,West Indies,Zimbabwe,23,38,1,0,60.526315789473685,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2010,38
+DRamdin,West Indies,South Africa,8,7,1,0,114.28571428571428,0,0,0,0,0,0,Kennington Oval,0,1,2009,17
+DRamdin,West Indies,New Zealand,1,1,0,0,100.0,0,0,0,0,0,0,Windsor Park Roseau,0,0,2014,1
+DRamdin,West Indies,Ireland,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Sabina Park Kingston,0,1,2014,13
+DRamdin,West Indies,Australia,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Warner Park Basseterre,0,2,2008,17
+DRamdin,West Indies,Ireland,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Saxton Oval,0,2,2015,11
+DRamdin,West Indies,England,10,11,1,0,90.9090909090909,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2007,11
+DRamdin,West Indies,South Africa,31,32,2,0,96.875,0,0,0,0,0,0,Kingsmead,0,1,2015,41
+DRamdin,West Indies,New Zealand,1,2,0,0,50.0,0,0,0,0,0,0,Queenstown Events Centre,0,1,2014,5
+DRamdin,West Indies,New Zealand,2,10,0,0,20.0,0,0,0,0,0,0,Queenstown Events Centre,0,0,2008,-4
+DRamdin,West Indies,Bangladesh,34,51,1,0,66.66666666666666,0,0,0,0,0,0,National Cricket Stadium St George's,0,2,2014,49
+DRamdin,West Indies,New Zealand,28,35,4,0,80.0,0,0,0,0,0,0,Jade Stadium,1,1,2006,52
+DRamdin,West Indies,Bangladesh,74,76,6,1,97.36842105263158,0,0,0,0,0,0,National Cricket Stadium St George's,0,2,2014,106
+DRamdin,West Indies,India,14,21,1,0,66.66666666666666,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,13
+DRamdin,West Indies,Sri Lanka,9,5,1,0,180.0,0,0,0,0,0,0,R Premadasa Stadium,0,2,2015,26
+DRamdin,West Indies,Zimbabwe,19,38,0,0,50.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,2,2010,31
+DRamdin,West Indies,Pakistan,10,8,2,0,125.0,0,0,0,0,0,0,Gaddafi Stadium,0,1,2006,20
+DRamdin,West Indies,England,8,21,1,0,38.095238095238095,0,0,0,0,0,0,County Ground,0,0,2009,3
+DRamdin,West Indies,Australia,12,31,0,0,38.70967741935484,0,0,0,0,0,0,Providence Stadium,0,0,2016,6
+DRamdin,West Indies,Australia,3,6,0,0,50.0,0,0,0,0,0,0,Warner Park Basseterre,0,4,2008,31
+DRamdin,West Indies,India,1,1,0,0,100.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2006,17
+DRamdin,West Indies,India,40,54,5,0,74.07407407407408,0,0,0,0,0,0,Indian Petrochemicals Corporation Limited Sports Complex Ground,0,0,2007,45
+DRamdin,West Indies,New Zealand,14,40,0,0,35.0,0,0,0,0,0,0,Warner Park Basseterre,0,1,2012,16
+DRamdin,West Indies,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Westpac Stadium,1,0,2015,4
+DRamdin,West Indies,South Africa,3,5,0,0,60.0,0,0,0,0,0,0,St George's Park,0,3,2015,25
+DRamdin,West Indies,Australia,21,30,1,0,70.0,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2008,22
+DRamdin,West Indies,South Africa,11,19,1,0,57.89473684210527,0,0,0,0,0,0,Warner Park Basseterre,0,0,2016,8
+DRamdin,West Indies,India,14,6,1,1,233.33333333333334,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2009,25
+DRamdin,West Indies,India,4,5,1,0,80.0,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,1,2007,13
+DRamdin,West Indies,Australia,40,68,2,1,58.82352941176471,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2016,48
+DRamdin,West Indies,Zimbabwe,24,27,2,0,88.88888888888889,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2013,26
+DRamdin,West Indies,Bangladesh,169,122,8,11,138.52459016393445,0,0,0,0,0,0,Warner Park Basseterre,0,1,2014,223
+DRamdin,West Indies,South Africa,2,10,0,0,20.0,0,0,0,0,0,0,Buffalo Park,0,0,2015,-4
+DRamdin,West Indies,South Africa,3,9,0,0,33.33333333333333,0,0,0,0,0,0,SuperSport Park,0,1,2008,5
+DRamdin,West Indies,New Zealand,17,28,0,0,60.71428571428571,0,0,0,0,0,0,Saxton Oval,0,2,2014,31
+DRamdin,West Indies,South Africa,57,56,4,1,101.78571428571428,0,0,0,0,0,0,New Wanderers Stadium,0,0,2015,71
+DRamdin,West Indies,India,0,1,0,0,0.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,3,2015,16
+DRamdin,West Indies,Pakistan,34,29,1,1,117.24137931034481,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,37
+DRamdin,West Indies,New Zealand,2,14,0,0,14.285714285714285,0,0,0,0,0,0,Eden Park,0,1,2013,4
+DRamdin,West Indies,Australia,91,94,6,3,96.80851063829788,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2016,119
+DRamdin,West Indies,India,4,6,1,0,66.66666666666666,0,0,0,0,0,0,Sabina Park Kingston,0,1,2013,11
+DRamdin,West Indies,England,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,1,2,2007,20
+DRamdin,West Indies,England,128,110,12,5,116.36363636363636,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2014,166
+DRamdin,West Indies,South Africa,4,9,0,0,44.44444444444444,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2007,6
+DRamdin,West Indies,England,12,10,2,0,120.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2009,22
+DRamdin,West Indies,South Africa,2,5,0,0,40.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,-4
+DRamdin,West Indies,Zimbabwe,16,18,1,0,88.88888888888889,0,0,0,0,0,0,Harare Sports Club,0,5,2007,57
+DRamdin,West Indies,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Sabina Park Kingston,0,3,2007,19
+DRamdin,West Indies,Sri Lanka,4,12,0,0,33.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,2,2015,14
+DRamdin,West Indies,Australia,15,22,1,0,68.18181818181817,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2010,14
+DRamdin,West Indies,Zimbabwe,12,26,1,0,46.15384615384615,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2010,15
+DRamdin,West Indies,Zimbabwe,21,35,1,0,60.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,1,1,2010,40
+DRamdin,West Indies,New Zealand,10,12,1,0,83.33333333333334,0,0,0,0,0,0,McLean Park,0,1,2006,19
+DRamdin,West Indies,Bangladesh,4,8,0,0,50.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2011,0
+DRamdin,West Indies,India,61,60,5,2,101.66666666666666,0,0,0,0,0,0,Nehru Stadium,0,0,2014,78
+DRamdin,West Indies,Ireland,15,19,3,0,78.94736842105263,0,0,0,0,0,0,Sabina Park Kingston,0,3,2014,42
+DRamdin,West Indies,Pakistan,51,43,7,0,118.6046511627907,0,0,0,0,0,0,Hagley Oval,0,3,2015,90
+DRamdin,West Indies,South Africa,6,6,1,0,100.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2008,7
+DRamdin,West Indies,Pakistan,8,16,1,0,50.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,2,2016,21
+DRamdin,West Indies,Pakistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Kennington Oval,0,1,2013,20
+DRamdin,West Indies,Zimbabwe,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Antigua Recreation Ground St John's,0,2,2006,16
+DRamdin,West Indies,Australia,3,4,0,0,75.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2010,19
+DRamdin,West Indies,Sri Lanka,2,5,0,0,40.0,0,0,0,0,0,0,Providence Stadium,0,1,2007,4
+DRamdin,West Indies,England,1,5,0,0,20.0,0,0,0,0,0,0,Providence Stadium,0,1,2009,3
+DRamdin,West Indies,South Africa,22,47,2,0,46.808510638297875,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2015,34
+DRamdin,West Indies,England,5,10,0,0,50.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,2,2014,17
+DRamdin,West Indies,India,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2014,-3
+DRamdin,West Indies,New Zealand,38,26,5,0,146.15384615384613,0,0,0,0,0,0,Eden Park,0,3,2006,67
+DRamdin,West Indies,Zimbabwe,8,5,1,0,160.0,0,0,0,0,0,0,Harare Sports Club,0,2,2007,25
+DRamdin,West Indies,England,11,17,0,0,64.70588235294117,0,0,0,0,0,0,Providence Stadium,0,1,2009,17
+DRamdin,West Indies,New Zealand,1,10,0,0,10.0,0,0,0,0,0,0,Westpac Stadium,0,0,2009,-5
+DRamdin,West Indies,Australia,30,42,4,0,71.42857142857143,0,0,0,0,0,0,Adelaide Oval,0,1,2010,42
+DRamdin,West Indies,Pakistan,37,71,2,0,52.112676056338024,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2016,43
+DRamdin,West Indies,South Africa,40,41,1,2,97.5609756097561,0,0,0,0,0,0,SuperSport Park,0,1,2015,53
+DRamdin,West Indies,India,96,97,12,0,98.96907216494846,0,0,0,0,0,0,Holkar Cricket Stadium,0,0,2011,116
+DRamdin,West Indies,England,22,40,0,0,55.00000000000001,0,0,0,0,0,0,The Rose Bowl,0,4,2012,50
+DRamdin,West Indies,India,9,21,0,0,42.857142857142854,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,1,1,2014,23
+DRamdin,West Indies,Zimbabwe,5,8,0,0,62.5,0,0,0,0,0,0,Queens Sports Club,0,1,2007,11
+DRamdin,West Indies,South Africa,4,8,1,0,50.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,3,2016,25
+DRamdin,West Indies,South Africa,12,14,0,0,85.71428571428571,0,0,0,0,0,0,St George's Park,0,0,2008,12
+DRamdin,West Indies,South Africa,15,21,0,0,71.42857142857143,0,0,0,0,0,0,Windsor Park Roseau,0,1,2010,23
+DRamdin,West Indies,India,2,11,0,0,18.181818181818183,0,0,0,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,2,2011,12
+DRamdin,West Indies,Zimbabwe,8,17,0,0,47.05882352941176,0,0,0,0,0,0,Providence Stadium,0,0,2010,2
+DRamdin,West Indies,England,26,29,2,0,89.65517241379311,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2009,28
+DRamdin,West Indies,Zimbabwe,37,60,3,0,61.66666666666667,0,0,0,0,0,0,Antigua Recreation Ground St John's,0,1,2006,46
+DRamdin,West Indies,United Arab Emirates,33,51,2,0,64.70588235294117,0,0,0,0,0,0,McLean Park,0,1,2015,41
+DRamdin,West Indies,South Africa,17,29,2,0,58.620689655172406,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2010,23
+DRamdin,West Indies,England,45,50,2,0,90.0,0,0,0,0,0,0,Edgbaston,0,0,2009,47
+DRamdin,West Indies,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,National Stadium,0,0,2006,1
+DRamdin,West Indies,India,38,52,3,0,73.07692307692307,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,2,2011,57
+DRamdin,West Indies,Australia,52,43,6,0,120.93023255813952,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,2,2007,82
+DRamdin,West Indies,South Africa,0,3,0,0,0.0,0,0,0,0,0,0,Newlands,2,3,2008,40
+DRamdin,West Indies,Australia,31,38,1,0,81.57894736842105,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2008,40
+DRamdin,West Indies,Australia,17,14,2,0,121.42857142857142,0,0,0,0,0,0,Melbourne Cricket Ground,0,4,2010,51
+DRamdin,West Indies,India,14,34,0,0,41.17647058823529,0,0,0,0,0,0,Barabati Stadium,0,1,2011,16
+DRamdin,West Indies,New Zealand,15,22,2,0,68.18181818181817,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,15
+DRamdin,West Indies,India,29,31,1,1,93.54838709677419,0,0,0,0,0,0,Sabina Park Kingston,1,3,2009,68
+DRamdin,West Indies,New Zealand,11,11,0,0,100.0,0,0,0,0,0,0,Queenstown Events Centre,0,1,2006,19
+DRamdin,West Indies,India,9,17,1,0,52.94117647058824,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2013,22

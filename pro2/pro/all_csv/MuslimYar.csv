@@ -1,6 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MuslimYar,Germany,Norway,0,0,0,0,0,18,3,17,2,0,5.666666666666667,College Field,52
-MuslimYar,Germany,Guernsey,0,0,0,0,0,11,1,26,2,0,26.0,King George V Sports Ground,50
-MuslimYar,Germany,Italy,0,0,0,0,0,11,1,22,0,0,22.0,Sportpark Maarschalkerweerd,0
-MuslimYar,Germany,Jersey,0,0,0,0,0,17,2,17,1,0,8.5,College Field,25
-MuslimYar,Germany,Norway,0,0,0,0,0,18,3,17,2,0,5.666666666666667,College Field,52
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MuslimYar,Germany,Guernsey,0,0,0,0,0,11,1,26,2,0,26.0,King George V Sports Ground,0,0,2019,50
+MuslimYar,Germany,Jersey,0,0,0,0,0,17,2,17,1,0,8.5,College Field,0,0,2019,25
+MuslimYar,Germany,Norway,0,0,0,0,0,18,3,17,2,0,5.666666666666667,College Field,0,0,2019,52
+MuslimYar,Germany,Italy,0,0,0,0,0,11,1,22,0,0,22.0,Sportpark Maarschalkerweerd,0,0,2019,0

@@ -1,34 +1,41 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RJNicol,New Zealand,Zimbabwe,12,9,2,0,133.33333333333331,5,0,9,0,0,0,Eden Park,14
-RJNicol,New Zealand,Zimbabwe,56,42,4,4,133.33333333333331,5,0,5,0,0,0,Seddon Park,76
-RJNicol,New Zealand,Sri Lanka,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,9
-RJNicol,New Zealand,Zimbabwe,12,9,2,0,133.33333333333331,5,0,9,0,0,0,Eden Park,14
-RJNicol,New Zealand,Zimbabwe,56,42,4,4,133.33333333333331,5,0,5,0,0,0,Seddon Park,76
-RJNicol,New Zealand,Sri Lanka,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,9
-RJNicol,New Zealand,Zimbabwe,12,9,2,0,133.33333333333331,5,0,9,0,0,0,Eden Park,14
-RJNicol,New Zealand,Zimbabwe,56,42,4,4,133.33333333333331,5,0,5,0,0,0,Seddon Park,76
-RJNicol,New Zealand,Sri Lanka,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,9
-RJNicol,New Zealand,Sri Lanka,1,13,0,0,7.6923076923076925,0,0,0,0,0,0,Pallekele International Cricket Stadium,-5
-RJNicol,New Zealand,South Africa,3,6,0,0,50.0,5,0,11,0,0,0,Kingsmead,-1
-RJNicol,New Zealand,South Africa,33,20,5,1,165.0,17,2,20,2,0,10.0,Eden Park,88
-RJNicol,New Zealand,South Africa,13,18,1,0,72.22222222222221,5,0,3,0,0,0,Westpac Stadium,14
-RJNicol,New Zealand,Sri Lanka,0,1,0,0,0.0,9,1,9,0,0,9.0,Central Broward Regional Park Stadium Turf Ground,-8
-RJNicol,New Zealand,Sri Lanka,2,2,0,0,100.0,11,1,18,1,0,18.0,Pallekele International Cricket Stadium,27
-RJNicol,New Zealand,India,0,4,0,0,0.0,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,-8
-RJNicol,New Zealand,England,11,16,1,0,68.75,18,3,29,0,0,9.666666666666666,Pallekele International Cricket Stadium,8
-RJNicol,New Zealand,West Indies,3,5,0,0,60.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,1
-RJNicol,New Zealand,South Africa,25,25,4,0,100.0,5,0,7,0,0,0,Buffalo Park,29
-RJNicol,New Zealand,South Africa,23,17,3,1,135.29411764705884,6,1,11,1,0,11.0,Seddon Park,53
-RJNicol,New Zealand,South Africa,5,3,1,0,166.66666666666669,0,0,0,0,0,0,St George's Park,6
-RJNicol,New Zealand,West Indies,32,34,5,0,94.11764705882352,14,2,25,0,0,12.5,Central Broward Regional Park Stadium Turf Ground,31
-RJNicol,New Zealand,Zimbabwe,0,0,0,0,0,5,0,11,0,0,0,Harare Sports Club,0
-RJNicol,New Zealand,West Indies,7,12,0,0,58.333333333333336,11,1,11,1,0,11.0,Central Broward Regional Park Stadium Turf Ground,28
-RJNicol,New Zealand,Pakistan,33,31,3,1,106.4516129032258,0,0,0,0,0,0,Pallekele International Cricket Stadium,38
-RJNicol,New Zealand,Sri Lanka,58,42,3,4,138.0952380952381,0,0,0,0,0,0,Pallekele International Cricket Stadium,77
-RJNicol,New Zealand,Zimbabwe,12,9,2,0,133.33333333333331,5,0,9,0,0,0,Eden Park,14
-RJNicol,New Zealand,Zimbabwe,56,42,4,4,133.33333333333331,5,0,5,0,0,0,Seddon Park,76
-RJNicol,New Zealand,Sri Lanka,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,9
-RJNicol,New Zealand,Sri Lanka,1,13,0,0,7.6923076923076925,0,0,0,0,0,0,Pallekele International Cricket Stadium,-5
-RJNicol,New Zealand,South Africa,3,6,0,0,50.0,5,0,11,0,0,0,Kingsmead,-1
-RJNicol,New Zealand,South Africa,33,20,5,1,165.0,17,2,20,2,0,10.0,Eden Park,88
-RJNicol,New Zealand,South Africa,13,18,1,0,72.22222222222221,5,0,3,0,0,0,Westpac Stadium,14
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RJNicol,New Zealand,South Africa,25,25,4,0,100.0,5,0,7,0,0,0,Buffalo Park,0,0,2012,29
+RJNicol,New Zealand,England,11,16,1,0,68.75,18,3,29,0,0,9.666666666666666,Pallekele International Cricket Stadium,0,0,2012,8
+RJNicol,New Zealand,Sri Lanka,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2010,9
+RJNicol,New Zealand,India,0,4,0,0,0.0,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2012,-8
+RJNicol,New Zealand,West Indies,32,34,5,0,94.11764705882352,14,2,25,0,0,12.5,Central Broward Regional Park Stadium Turf Ground,0,0,2012,31
+RJNicol,New Zealand,Sri Lanka,2,2,0,0,100.0,11,1,18,1,0,18.0,Pallekele International Cricket Stadium,0,0,2013,27
+RJNicol,New Zealand,Zimbabwe,12,9,2,0,133.33333333333331,5,0,9,0,0,0,Eden Park,0,0,2012,14
+RJNicol,New Zealand,South Africa,13,18,1,0,72.22222222222221,5,0,3,0,0,0,Westpac Stadium,0,0,2012,14
+RJNicol,New Zealand,Zimbabwe,0,0,0,0,0,5,0,11,0,0,0,Harare Sports Club,0,0,2011,0
+RJNicol,New Zealand,Zimbabwe,56,42,4,4,133.33333333333331,5,0,5,0,0,0,Seddon Park,0,0,2012,76
+RJNicol,New Zealand,South Africa,23,17,3,1,135.29411764705884,6,1,11,1,0,11.0,Seddon Park,0,0,2012,53
+RJNicol,New Zealand,Sri Lanka,58,42,3,4,138.0952380952381,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,77
+RJNicol,New Zealand,West Indies,3,5,0,0,60.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,1
+RJNicol,New Zealand,Sri Lanka,1,13,0,0,7.6923076923076925,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,-5
+RJNicol,New Zealand,West Indies,7,12,0,0,58.333333333333336,11,1,11,1,0,11.0,Central Broward Regional Park Stadium Turf Ground,0,0,2012,28
+RJNicol,New Zealand,South Africa,3,6,0,0,50.0,5,0,11,0,0,0,Kingsmead,0,0,2012,-1
+RJNicol,New Zealand,Sri Lanka,0,1,0,0,0.0,9,1,9,0,0,9.0,Central Broward Regional Park Stadium Turf Ground,0,1,2010,0
+RJNicol,New Zealand,South Africa,5,3,1,0,166.66666666666669,0,0,0,0,0,0,St George's Park,0,0,2012,6
+RJNicol,New Zealand,Pakistan,33,31,3,1,106.4516129032258,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,46
+RJNicol,New Zealand,South Africa,33,20,5,1,165.0,17,2,20,2,0,10.0,Eden Park,1,2,2012,116
+RJNicol,New Zealand,Zimbabwe,108,134,11,0,80.59701492537313,29,4,23,0,0,5.75,Harare Sports Club,0,0,2011,137
+RJNicol,New Zealand,Zimbabwe,14,21,3,0,66.66666666666666,35,5,30,1,0,6.0,Queens Sports Club,0,0,2011,40
+RJNicol,New Zealand,West Indies,59,70,4,3,84.28571428571429,0,0,0,0,0,0,Warner Park Basseterre,0,1,2012,85
+RJNicol,New Zealand,South Africa,11,18,2,0,61.111111111111114,5,0,4,0,0,0,McLean Park,0,0,2012,11
+RJNicol,New Zealand,South Africa,30,60,4,0,50.0,29,4,43,1,0,10.75,Westpac Stadium,0,0,2012,51
+RJNicol,New Zealand,South Africa,12,40,0,0,30.0,19,3,14,2,0,4.666666666666667,Eden Park,0,0,2012,60
+RJNicol,New Zealand,Zimbabwe,61,67,6,2,91.04477611940298,0,0,0,0,0,0,McLean Park,0,0,2012,79
+RJNicol,New Zealand,Sri Lanka,7,17,0,0,41.17647058823529,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,1
+RJNicol,New Zealand,West Indies,2,2,0,0,100.0,30,5,27,0,0,5.4,Warner Park Basseterre,0,2,2012,20
+RJNicol,New Zealand,Sri Lanka,0,1,0,0,0.0,12,2,12,0,0,6.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,-8
+RJNicol,New Zealand,West Indies,15,24,2,0,62.5,12,2,14,0,0,7.0,Sabina Park Kingston,0,0,2012,15
+RJNicol,New Zealand,Sri Lanka,0,0,0,0,0,11,1,12,0,0,12.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,0
+RJNicol,New Zealand,West Indies,14,27,2,0,51.85185185185185,17,2,20,0,0,10.0,Sabina Park Kingston,0,0,2012,10
+RJNicol,New Zealand,Zimbabwe,146,139,10,6,105.03597122302158,23,3,25,1,0,8.333333333333334,Cobham Oval (New),0,0,2012,209
+RJNicol,New Zealand,Zimbabwe,9,17,0,0,52.94117647058824,12,2,23,0,0,11.5,Harare Sports Club,0,1,2011,7
+RJNicol,New Zealand,Sri Lanka,1,8,0,0,12.5,11,1,14,0,0,14.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2013,3
+RJNicol,New Zealand,Sri Lanka,11,27,2,0,40.74074074074074,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2012,15
+RJNicol,New Zealand,Sri Lanka,46,75,3,0,61.33333333333333,12,2,9,0,0,4.5,Pallekele International Cricket Stadium,0,1,2012,59
+RJNicol,New Zealand,Sri Lanka,1,13,0,0,7.6923076923076925,12,2,17,0,0,8.5,Rangiri Dambulla International Stadium,0,0,2013,-5
+RJNicol,New Zealand,West Indies,35,33,3,2,106.06060606060606,36,6,26,1,1,4.333333333333333,Warner Park Basseterre,0,0,2012,79

@@ -1,40 +1,48 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,24,4,32,0,0,8.0,Greater Noida Sports Complex Ground,0
-ShapoorZadran,Afghanistan,India,0,0,0,0,0,12,2,6,0,0,3.0,Beausejour Stadium Gros Islet,6
-ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,24,4,32,0,0,8.0,Greater Noida Sports Complex Ground,0
-ShapoorZadran,Afghanistan,India,0,0,0,0,0,12,2,6,0,0,3.0,Beausejour Stadium Gros Islet,6
-ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,24,4,32,0,0,8.0,Greater Noida Sports Complex Ground,0
-ShapoorZadran,Afghanistan,India,0,0,0,0,0,12,2,6,0,0,3.0,Beausejour Stadium Gros Islet,6
-ShapoorZadran,Afghanistan,Scotland,0,0,0,0,0,23,3,33,2,0,11.0,Sharjah Cricket Stadium,46
-ShapoorZadran,Afghanistan,Nepal,0,0,0,0,0,23,3,20,2,0,6.666666666666667,Zahur Ahmed Chowdhury Stadium,50
-ShapoorZadran,Afghanistan,Hong Kong,0,0,0,0,0,24,4,35,2,0,8.75,The Village Malahide,50
-ShapoorZadran,Afghanistan,Netherlands,0,2,0,0,0.0,11,1,14,1,0,14.0,Sharjah Cricket Stadium,17
-ShapoorZadran,Afghanistan,England,0,0,0,0,0,24,4,39,0,0,9.75,Feroz Shah Kotla,-2
-ShapoorZadran,Afghanistan,West Indies,1,2,0,0,50.0,22,3,31,2,0,10.333333333333334,Warner Park Basseterre,43
-ShapoorZadran,Afghanistan,Bangladesh,1,11,0,0,9.090909090909092,5,0,7,0,0,0,Shere Bangla National Stadium,-5
-ShapoorZadran,Afghanistan,South Africa,1,8,0,0,12.5,17,2,30,1,0,15.0,Kensington Oval Bridgetown,14
-ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,18,3,32,1,0,10.666666666666666,Dubai International Cricket Stadium,21
-ShapoorZadran,Afghanistan,India,0,0,0,0,0,25,4,34,2,0,8.5,R Premadasa Stadium,50
-ShapoorZadran,Afghanistan,Kenya,1,2,0,0,50.0,17,2,19,0,0,9.5,Sharjah Cricket Stadium,-5
-ShapoorZadran,Afghanistan,Pakistan,0,0,0,0,0,17,2,18,0,0,9.0,Sharjah Cricket Stadium,0
-ShapoorZadran,Afghanistan,West Indies,0,0,0,0,0,20,3,27,1,0,9.0,Warner Park Basseterre,25
-ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,26,4,61,1,0,15.25,Greater Noida Sports Complex Ground,19
-ShapoorZadran,Afghanistan,South Africa,1,2,0,0,50.0,17,2,30,1,0,15.0,Wankhede Stadium,16
-ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,18,3,27,1,0,9.0,Dubai International Cricket Stadium,25
-ShapoorZadran,Afghanistan,Netherlands,0,0,0,0,0,11,1,21,0,0,21.0,Dubai International Cricket Stadium,0
-ShapoorZadran,Afghanistan,Ireland,13,21,0,2,61.904761904761905,25,4,41,2,0,10.25,Sheikh Zayed Stadium,61
-ShapoorZadran,Afghanistan,Papua New Guinea,0,0,0,0,0,24,4,18,2,0,4.5,The Village Malahide,54
-ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,11,1,31,1,0,31.0,Greater Noida Sports Complex Ground,25
-ShapoorZadran,Afghanistan,Hong Kong,0,0,0,0,0,17,2,22,1,0,11.0,Shere Bangla National Stadium,21
-ShapoorZadran,Afghanistan,England,9,18,0,1,50.0,17,2,28,1,1,14.0,R Premadasa Stadium,34
-ShapoorZadran,Afghanistan,Kenya,0,0,0,0,0,11,1,21,2,0,21.0,Sharjah Cricket Stadium,50
-ShapoorZadran,Afghanistan,Oman,0,0,0,0,0,25,4,20,1,0,5.0,Clontarf Cricket Club Ground,27
-ShapoorZadran,Afghanistan,United Arab Emirates,0,1,0,0,0.0,11,1,27,0,0,27.0,Khan Shaheb Osman Ali Stadium,-8
-ShapoorZadran,Afghanistan,Hong Kong,0,0,0,0,0,23,3,27,2,0,9.0,Zahur Ahmed Chowdhury Stadium,50
-ShapoorZadran,Afghanistan,Kenya,0,0,0,0,0,17,2,14,1,0,7.0,Sharjah Cricket Stadium,25
-ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,24,4,32,0,0,8.0,Greater Noida Sports Complex Ground,0
-ShapoorZadran,Afghanistan,India,0,0,0,0,0,12,2,6,0,0,3.0,Beausejour Stadium Gros Islet,6
-ShapoorZadran,Afghanistan,Scotland,0,0,0,0,0,23,3,33,2,0,11.0,Sharjah Cricket Stadium,46
-ShapoorZadran,Afghanistan,Nepal,0,0,0,0,0,23,3,20,2,0,6.666666666666667,Zahur Ahmed Chowdhury Stadium,50
-ShapoorZadran,Afghanistan,Hong Kong,0,0,0,0,0,24,4,35,2,0,8.75,The Village Malahide,50
-ShapoorZadran,Afghanistan,Netherlands,0,2,0,0,0.0,11,1,14,1,0,14.0,Sharjah Cricket Stadium,17
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ShapoorZadran,Afghanistan,Hong Kong,0,0,0,0,0,24,4,35,2,0,8.75,The Village Malahide,0,0,2015,50
+ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,18,3,27,1,0,9.0,Dubai International Cricket Stadium,0,0,2010,25
+ShapoorZadran,Afghanistan,Papua New Guinea,0,0,0,0,0,24,4,18,2,0,4.5,The Village Malahide,0,0,2015,54
+ShapoorZadran,Afghanistan,Hong Kong,0,0,0,0,0,17,2,22,1,0,11.0,Shere Bangla National Stadium,1,0,2016,33
+ShapoorZadran,Afghanistan,South Africa,1,2,0,0,50.0,17,2,30,1,0,15.0,Wankhede Stadium,0,0,2016,16
+ShapoorZadran,Afghanistan,India,0,0,0,0,0,12,2,6,0,0,3.0,Beausejour Stadium Gros Islet,0,1,2010,14
+ShapoorZadran,Afghanistan,Oman,0,0,0,0,0,25,4,20,1,0,5.0,Clontarf Cricket Club Ground,0,0,2015,27
+ShapoorZadran,Afghanistan,Nepal,0,0,0,0,0,23,3,20,2,0,6.666666666666667,Zahur Ahmed Chowdhury Stadium,0,0,2014,50
+ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,26,4,61,1,0,15.25,Greater Noida Sports Complex Ground,0,0,2017,19
+ShapoorZadran,Afghanistan,South Africa,1,8,0,0,12.5,17,2,30,1,0,15.0,Kensington Oval Bridgetown,1,0,2010,26
+ShapoorZadran,Afghanistan,Bangladesh,1,11,0,0,9.090909090909092,5,0,7,0,0,0,Shere Bangla National Stadium,0,0,2014,-5
+ShapoorZadran,Afghanistan,United Arab Emirates,0,1,0,0,0.0,11,1,27,0,0,27.0,Khan Shaheb Osman Ali Stadium,0,1,2016,0
+ShapoorZadran,Afghanistan,Kenya,0,0,0,0,0,17,2,14,1,0,7.0,Sharjah Cricket Stadium,1,1,2013,45
+ShapoorZadran,Afghanistan,Scotland,0,0,0,0,0,23,3,33,2,0,11.0,Sharjah Cricket Stadium,0,0,2013,46
+ShapoorZadran,Afghanistan,Pakistan,0,0,0,0,0,17,2,18,0,0,9.0,Sharjah Cricket Stadium,0,0,2013,0
+ShapoorZadran,Afghanistan,Netherlands,0,0,0,0,0,11,1,21,0,0,21.0,Dubai International Cricket Stadium,0,0,2010,0
+ShapoorZadran,Afghanistan,India,0,0,0,0,0,25,4,34,2,0,8.5,R Premadasa Stadium,0,1,2012,58
+ShapoorZadran,Afghanistan,Netherlands,0,2,0,0,0.0,11,1,14,1,0,14.0,Sharjah Cricket Stadium,0,0,2013,17
+ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,18,3,32,1,0,10.666666666666666,Dubai International Cricket Stadium,0,0,2010,21
+ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,11,1,31,1,0,31.0,Greater Noida Sports Complex Ground,0,0,2017,25
+ShapoorZadran,Afghanistan,Kenya,0,0,0,0,0,11,1,21,2,0,21.0,Sharjah Cricket Stadium,0,0,2013,50
+ShapoorZadran,Afghanistan,Ireland,0,0,0,0,0,24,4,32,0,0,8.0,Greater Noida Sports Complex Ground,0,0,2017,0
+ShapoorZadran,Afghanistan,England,0,0,0,0,0,24,4,39,0,0,9.75,Feroz Shah Kotla,0,0,2016,-2
+ShapoorZadran,Afghanistan,England,9,18,0,1,50.0,17,2,28,1,1,14.0,R Premadasa Stadium,0,0,2012,34
+ShapoorZadran,Afghanistan,Ireland,13,21,0,2,61.904761904761905,25,4,41,2,0,10.25,Sheikh Zayed Stadium,0,0,2013,61
+ShapoorZadran,Afghanistan,West Indies,1,2,0,0,50.0,22,3,31,2,0,10.333333333333334,Warner Park Basseterre,0,0,2017,43
+ShapoorZadran,Afghanistan,Kenya,1,2,0,0,50.0,17,2,19,0,0,9.5,Sharjah Cricket Stadium,0,0,2013,-5
+ShapoorZadran,Afghanistan,Hong Kong,0,0,0,0,0,23,3,27,2,0,9.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,50
+ShapoorZadran,Afghanistan,West Indies,0,0,0,0,0,20,3,27,1,0,9.0,Warner Park Basseterre,0,0,2017,25
+ShapoorZadran,Afghanistan,India,1,13,0,0,7.6923076923076925,35,5,25,0,0,5.0,Shere Bangla National Stadium,0,0,2014,-3
+ShapoorZadran,Afghanistan,Pakistan,1,7,0,0,14.285714285714285,54,9,43,0,1,4.777777777777778,Khan Shaheb Osman Ali Stadium,0,0,2014,7
+ShapoorZadran,Afghanistan,Zimbabwe,5,9,0,0,55.55555555555556,33,5,17,0,1,3.4,Queens Sports Club,0,0,2014,15
+ShapoorZadran,Afghanistan,Ireland,0,9,0,0,0.0,49,8,20,3,4,2.5,Clontarf Cricket Club Ground,0,0,2012,105
+ShapoorZadran,Afghanistan,Scotland,0,0,0,0,0,29,4,30,2,0,7.5,Grange Cricket Club Ground Raeburn Place,0,0,2016,50
+ShapoorZadran,Afghanistan,United Arab Emirates,0,0,0,0,0,55,9,46,0,0,5.111111111111111,ICC Academy,1,0,2014,14
+ShapoorZadran,Afghanistan,Scotland,12,11,2,0,109.09090909090908,62,10,38,4,1,3.8,University Oval,0,0,2015,136
+ShapoorZadran,Afghanistan,Australia,1,5,0,0,20.0,48,8,60,2,0,7.5,Sharjah Cricket Association Stadium,0,0,2012,45
+ShapoorZadran,Afghanistan,Ireland,2,7,0,0,28.57142857142857,38,6,49,0,0,8.166666666666666,Civil Service Cricket Club Stormont,0,0,2016,-4
+ShapoorZadran,Afghanistan,Scotland,0,2,0,0,0.0,48,8,19,1,3,2.375,Cambusdoon New Ground,0,0,2010,47
+ShapoorZadran,Afghanistan,Zimbabwe,0,0,0,0,0,48,8,38,0,1,4.75,Queens Sports Club,0,0,2014,12
+ShapoorZadran,Afghanistan,Bangladesh,2,2,0,0,100.0,41,6,21,2,1,3.5,Manuka Oval,0,0,2015,66
+ShapoorZadran,Afghanistan,Pakistan,2,3,0,0,66.66666666666666,47,7,49,0,1,7.0,Sharjah Cricket Stadium,0,0,2012,8
+ShapoorZadran,Afghanistan,Sri Lanka,1,1,0,0,100.0,59,9,48,1,1,5.333333333333333,University Oval,0,0,2015,36
+ShapoorZadran,Afghanistan,England,0,0,0,0,0,23,3,25,0,0,8.333333333333334,Sydney Cricket Ground,0,0,2015,0
+ShapoorZadran,Afghanistan,Scotland,0,0,0,0,0,63,10,72,3,1,7.2,Cambusdoon New Ground,0,0,2010,83
+ShapoorZadran,Afghanistan,United Arab Emirates,0,0,0,0,0,53,8,34,1,0,4.25,Kinrara Academy Oval,0,1,2014,37
+ShapoorZadran,Afghanistan,Bangladesh,0,0,0,0,0,47,7,39,2,0,5.571428571428571,Khan Shaheb Osman Ali Stadium,0,0,2014,52

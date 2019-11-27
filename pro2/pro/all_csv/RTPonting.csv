@@ -1,21 +1,136 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RTPonting,Australia,New Zealand,98,55,8,5,178.1818181818182,0,0,0,0,0,0,Eden Park,124
-RTPonting,Australia,New Zealand,98,55,8,5,178.1818181818182,0,0,0,0,0,0,Eden Park,124
-RTPonting,Australia,New Zealand,98,55,8,5,178.1818181818182,0,0,0,0,0,0,Eden Park,124
-RTPonting,Australia,England,47,26,4,2,180.76923076923077,0,0,0,0,0,0,Sydney Cricket Ground,55
-RTPonting,Australia,South Africa,27,19,2,2,142.10526315789474,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,33
-RTPonting,Australia,Bangladesh,6,8,0,0,75.0,0,0,0,0,0,0,Newlands,6
-RTPonting,Australia,South Africa,38,34,3,1,111.76470588235294,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,43
-RTPonting,Australia,Pakistan,27,26,3,0,103.84615384615385,0,0,0,0,0,0,New Wanderers Stadium,30
-RTPonting,Australia,England,20,16,1,1,125.0,0,0,0,0,0,0,Newlands,23
-RTPonting,Australia,South Africa,6,8,1,0,75.0,0,0,0,0,0,0,New Wanderers Stadium,7
-RTPonting,Australia,Sri Lanka,25,16,5,0,156.25,0,0,0,0,0,0,Trent Bridge,30
-RTPonting,Australia,India,76,54,13,0,140.74074074074073,0,0,0,0,0,0,Brabourne Stadium,97
-RTPonting,Australia,South Africa,1,3,0,0,33.33333333333333,0,0,0,0,0,0,SuperSport Park,-5
-RTPonting,Australia,South Africa,21,20,1,0,105.0,0,0,0,0,0,0,Melbourne Cricket Ground,22
-RTPonting,Australia,South Africa,1,5,0,0,20.0,0,0,0,0,0,0,New Wanderers Stadium,-5
-RTPonting,Australia,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-RTPonting,Australia,England,0,3,0,0,0.0,0,0,0,0,0,0,The Rose Bowl,-8
-RTPonting,Australia,Zimbabwe,8,15,1,0,53.333333333333336,0,0,0,0,0,0,Newlands,5
-RTPonting,Australia,New Zealand,98,55,8,5,178.1818181818182,0,0,0,0,0,0,Eden Park,124
-RTPonting,Australia,England,47,26,4,2,180.76923076923077,0,0,0,0,0,0,Sydney Cricket Ground,55
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RTPonting,Australia,England,0,3,0,0,0.0,0,0,0,0,0,0,The Rose Bowl,0,2,2005,8
+RTPonting,Australia,South Africa,27,19,2,2,142.10526315789474,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,1,0,2006,45
+RTPonting,Australia,England,47,26,4,2,180.76923076923077,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2007,55
+RTPonting,Australia,South Africa,21,20,1,0,105.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2009,22
+RTPonting,Australia,New Zealand,98,55,8,5,178.1818181818182,0,0,0,0,0,0,Eden Park,0,1,2005,132
+RTPonting,Australia,Bangladesh,6,8,0,0,75.0,0,0,0,0,0,0,Newlands,0,2,2007,22
+RTPonting,Australia,South Africa,1,3,0,0,33.33333333333333,0,0,0,0,0,0,SuperSport Park,0,0,2009,-5
+RTPonting,Australia,Zimbabwe,8,15,1,0,53.333333333333336,0,0,0,0,0,0,Newlands,0,0,2007,5
+RTPonting,Australia,Sri Lanka,25,16,5,0,156.25,0,0,0,0,0,0,Trent Bridge,0,1,2009,38
+RTPonting,Australia,Pakistan,27,26,3,0,103.84615384615385,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,30
+RTPonting,Australia,South Africa,1,5,0,0,20.0,0,0,0,0,0,0,New Wanderers Stadium,0,1,2009,3
+RTPonting,Australia,South Africa,6,8,1,0,75.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2006,7
+RTPonting,Australia,India,76,54,13,0,140.74074074074073,0,0,0,0,0,0,Brabourne Stadium,0,1,2007,105
+RTPonting,Australia,England,20,16,1,1,125.0,0,0,0,0,0,0,Newlands,0,0,2007,23
+RTPonting,Australia,South Africa,38,34,3,1,111.76470588235294,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2009,43
+RTPonting,Australia,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,Kennington Oval,0,0,2009,-8
+RTPonting,Australia,Bangladesh,34,33,5,1,103.03030303030303,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,41
+RTPonting,Australia,India,25,57,2,0,43.859649122807014,0,0,0,0,0,0,Nehru Stadium,0,0,2009,21
+RTPonting,Australia,South Africa,46,54,5,0,85.18518518518519,0,0,0,0,0,0,Melbourne Cricket Ground,1,1,2009,71
+RTPonting,Australia,India,29,34,5,0,85.29411764705883,0,0,0,0,0,0,Sector 16 Stadium,0,1,2007,42
+RTPonting,Australia,West Indies,6,12,0,0,50.0,0,0,0,0,0,0,Kinrara Academy Oval,1,2,2006,30
+RTPonting,Australia,India,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,2,2008,11
+RTPonting,Australia,Pakistan,55,79,5,0,69.62025316455697,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2010,74
+RTPonting,Australia,England,48,60,5,0,80.0,0,0,0,0,0,0,Lord's,0,0,2009,53
+RTPonting,Australia,England,86,108,11,0,79.62962962962963,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,105
+RTPonting,Australia,South Africa,62,85,5,0,72.94117647058823,0,0,0,0,0,0,St George's Park,0,0,2006,75
+RTPonting,Australia,England,92,96,10,0,95.83333333333334,0,0,0,0,0,0,Kennington Oval,0,0,2010,110
+RTPonting,Australia,New Zealand,15,28,2,0,53.57142857142857,0,0,0,0,0,0,Adelaide Oval,0,0,2009,13
+RTPonting,Australia,England,15,29,3,0,51.724137931034484,0,0,0,0,0,0,Lord's,1,0,2010,26
+RTPonting,Australia,South Africa,164,106,13,9,154.7169811320755,0,0,0,0,0,0,New Wanderers Stadium,0,1,2006,219
+RTPonting,Australia,Ireland,33,55,5,0,60.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,1,2010,44
+RTPonting,Australia,England,13,21,1,0,61.904761904761905,0,0,0,0,0,0,Sophia Gardens,0,1,2010,20
+RTPonting,Australia,India,0,3,0,0,0.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,1,1,2008,12
+RTPonting,Australia,South Africa,63,79,9,0,79.74683544303798,0,0,0,0,0,0,SuperSport Park,0,0,2011,80
+RTPonting,Australia,India,19,21,4,0,90.47619047619048,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,23
+RTPonting,Australia,Sri Lanka,37,43,1,1,86.04651162790698,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2007,48
+RTPonting,Australia,New Zealand,5,15,1,0,33.33333333333333,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2007,8
+RTPonting,Australia,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Brabourne Stadium,0,1,2006,0
+RTPonting,Australia,India,1,5,0,0,20.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2008,-5
+RTPonting,Australia,West Indies,69,85,7,0,81.17647058823529,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2008,84
+RTPonting,Australia,South Africa,37,45,5,0,82.22222222222221,0,0,0,0,0,0,Kingsmead,0,0,2009,42
+RTPonting,Australia,Sri Lanka,13,25,2,0,52.0,0,0,0,0,0,0,Sydney Cricket Ground,1,0,2006,23
+RTPonting,Australia,England,111,115,12,1,96.52173913043478,0,0,0,0,0,0,SuperSport Park,0,0,2009,141
+RTPonting,Australia,India,9,15,0,0,60.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2008,7
+RTPonting,Australia,West Indies,79,96,9,1,82.29166666666666,0,0,0,0,0,0,New Wanderers Stadium,0,1,2009,106
+RTPonting,Australia,Scotland,113,93,9,5,121.50537634408603,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,148
+RTPonting,Australia,India,4,9,0,0,44.44444444444444,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,-2
+RTPonting,Australia,Bangladesh,37,42,2,1,88.09523809523809,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,41
+RTPonting,Australia,England,6,15,1,0,40.0,0,0,0,0,0,0,Trent Bridge,2,0,2009,25
+RTPonting,Australia,Pakistan,27,49,1,0,55.10204081632652,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,1,0,2010,36
+RTPonting,Australia,England,7,7,0,0,100.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2007,7
+RTPonting,Australia,India,25,44,3,0,56.81818181818182,0,0,0,0,0,0,Rajiv Gandhi International Stadium Uppal,0,0,2007,24
+RTPonting,Australia,Sri Lanka,0,4,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,-8
+RTPonting,Australia,New Zealand,134,134,10,2,100.0,0,0,0,0,0,0,Bellerive Oval,0,0,2007,164
+RTPonting,Australia,India,7,26,0,0,26.923076923076923,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2012,1
+RTPonting,Australia,England,75,75,7,0,100.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2007,90
+RTPonting,Australia,New Zealand,0,1,0,0,0.0,0,0,0,0,0,0,Westpac Stadium,0,2,2010,8
+RTPonting,Australia,South Africa,12,21,2,0,57.14285714285714,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2009,10
+RTPonting,Australia,Sri Lanka,1,11,0,0,9.090909090909092,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2008,-5
+RTPonting,Australia,India,12,17,2,0,70.58823529411765,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,14
+RTPonting,Australia,India,49,44,6,1,111.36363636363636,0,0,0,0,0,0,Vidarbha Cricket Association Ground,0,1,2007,65
+RTPonting,Australia,New Zealand,111,124,8,1,89.51612903225806,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2007,137
+RTPonting,Australia,England,126,114,14,3,110.5263157894737,0,0,0,0,0,0,Trent Bridge,1,0,2009,174
+RTPonting,Australia,South Africa,53,63,2,1,84.12698412698413,0,0,0,0,0,0,Docklands Stadium,0,1,2006,73
+RTPonting,Australia,England,82,98,8,0,83.6734693877551,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2007,106
+RTPonting,Australia,Sri Lanka,53,72,5,0,73.61111111111111,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,66
+RTPonting,Australia,India,124,135,7,1,91.85185185185185,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2008,149
+RTPonting,Australia,Sri Lanka,11,34,0,0,32.35294117647059,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2008,13
+RTPonting,Australia,Sri Lanka,124,129,9,3,96.12403100775194,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2006,171
+RTPonting,Australia,New Zealand,1,5,0,0,20.0,0,0,0,0,0,0,SuperSport Park,1,0,2009,7
+RTPonting,Australia,New Zealand,44,56,4,0,78.57142857142857,0,0,0,0,0,0,McLean Park,0,0,2010,48
+RTPonting,Australia,West Indies,106,113,6,2,93.80530973451327,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2010,132
+RTPonting,Australia,South Africa,9,19,1,0,47.368421052631575,0,0,0,0,0,0,Docklands Stadium,0,0,2006,4
+RTPonting,Australia,New Zealand,69,71,9,0,97.1830985915493,0,0,0,0,0,0,Seddon Park,1,0,2010,98
+RTPonting,Australia,Sri Lanka,1,4,0,0,25.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2012,-5
+RTPonting,Australia,South Africa,40,45,2,1,88.88888888888889,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,44
+RTPonting,Australia,India,65,90,4,1,72.22222222222221,0,0,0,0,0,0,SuperSport Park,0,0,2009,79
+RTPonting,Australia,Netherlands,23,23,4,1,100.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,29
+RTPonting,Australia,Bangladesh,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Narayanganj Osmani Stadium,0,0,2006,5
+RTPonting,Australia,Sri Lanka,66,80,4,1,82.5,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2007,80
+RTPonting,Australia,Sri Lanka,31,36,6,0,86.11111111111111,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,37
+RTPonting,Australia,Sri Lanka,2,10,0,0,20.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2012,-4
+RTPonting,Australia,New Zealand,12,30,1,0,40.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2011,15
+RTPonting,Australia,India,6,14,1,0,42.857142857142854,0,0,0,0,0,0,Adelaide Oval,0,1,2012,9
+RTPonting,Australia,New Zealand,107,108,14,0,99.07407407407408,0,0,0,0,0,0,Adelaide Oval,0,0,2007,137
+RTPonting,Australia,New Zealand,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2009,-1
+RTPonting,Australia,India,39,39,5,0,100.0,0,0,0,0,0,0,Reliance Stadium,0,0,2007,44
+RTPonting,Australia,South Africa,20,35,2,0,57.14285714285714,0,0,0,0,0,0,Newlands,0,0,2009,18
+RTPonting,Australia,West Indies,61,55,3,1,110.9090909090909,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,74
+RTPonting,Australia,England,3,17,0,0,17.647058823529413,0,0,0,0,0,0,Old Trafford,0,1,2010,5
+RTPonting,Australia,Pakistan,13,28,0,0,46.42857142857143,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2010,15
+RTPonting,Australia,West Indies,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Brabourne Stadium,0,2,2006,11
+RTPonting,Australia,Sri Lanka,22,28,4,0,78.57142857142857,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2011,26
+RTPonting,Australia,England,1,4,0,0,25.0,0,0,0,0,0,0,Sawai Mansingh Stadium,0,1,2006,3
+RTPonting,Australia,India,52,60,4,1,86.66666666666667,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,2,0,2009,90
+RTPonting,Australia,South Africa,8,6,0,0,133.33333333333331,0,0,0,0,0,0,SuperSport Park,0,0,2009,8
+RTPonting,Australia,Pakistan,19,34,2,0,55.88235294117647,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,17
+RTPonting,Australia,Bangladesh,47,51,7,1,92.15686274509804,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,56
+RTPonting,Australia,South Africa,7,17,1,0,41.17647058823529,0,0,0,0,0,0,Kingsmead,0,0,2006,2
+RTPonting,Australia,New Zealand,50,36,8,1,138.88888888888889,0,0,0,0,0,0,Eden Park,0,1,2010,76
+RTPonting,Australia,India,58,73,8,0,79.45205479452055,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2006,74
+RTPonting,Australia,India,74,86,8,2,86.04651162790698,0,0,0,0,0,0,Reliance Stadium,0,1,2009,102
+RTPonting,Australia,West Indies,57,57,8,2,100.0,0,0,0,0,0,0,Adelaide Oval,1,0,2010,89
+RTPonting,Australia,New Zealand,104,113,6,1,92.03539823008849,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2007,128
+RTPonting,Australia,England,21,25,3,0,84.0,0,0,0,0,0,0,The Rose Bowl,0,1,2010,32
+RTPonting,Australia,New Zealand,10,22,2,0,45.45454545454545,0,0,0,0,0,0,Bellerive Oval,0,0,2007,6
+RTPonting,Australia,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,Adelaide Oval,0,0,2010,-8
+RTPonting,Australia,West Indies,22,40,2,0,55.00000000000001,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,20
+RTPonting,Australia,Sri Lanka,10,16,2,0,62.5,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,10
+RTPonting,Australia,New Zealand,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,1,0,2009,12
+RTPonting,Australia,South Africa,64,73,7,0,87.67123287671232,0,0,0,0,0,0,Bellerive Oval,0,0,2009,79
+RTPonting,Australia,India,10,14,1,0,71.42857142857143,0,0,0,0,0,0,Adelaide Oval,0,1,2008,19
+RTPonting,Australia,South Africa,72,64,8,0,112.5,0,0,0,0,0,0,Sydney Cricket Ground,1,0,2006,100
+RTPonting,Australia,West Indies,13,17,2,0,76.47058823529412,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2008,23
+RTPonting,Australia,India,45,45,3,1,100.0,0,0,0,0,0,0,Rajiv Gandhi International Stadium Uppal,0,0,2009,50
+RTPonting,Australia,Bangladesh,14,33,2,0,42.42424242424242,0,0,0,0,0,0,Chittagong Divisional Stadium,0,0,2006,10
+RTPonting,Australia,Sri Lanka,90,109,8,1,82.56880733944955,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2011,116
+RTPonting,Australia,South Africa,63,71,9,0,88.73239436619718,0,0,0,0,0,0,Adelaide Oval,0,0,2009,80
+RTPonting,Australia,South Africa,91,93,8,2,97.84946236559139,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,111
+RTPonting,Australia,South Africa,11,20,1,0,55.00000000000001,0,0,0,0,0,0,Kingsmead,0,1,2011,16
+RTPonting,Australia,South Africa,29,27,3,0,107.40740740740742,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2009,32
+RTPonting,Australia,New Zealand,58,81,9,0,71.60493827160494,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,2,2006,91
+RTPonting,Australia,South Africa,22,27,5,0,81.48148148148148,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2007,27
+RTPonting,Australia,India,57,91,9,0,62.637362637362635,0,0,0,0,0,0,Wankhede Stadium,0,1,2007,80
+RTPonting,Australia,Sri Lanka,9,22,1,0,40.909090909090914,0,0,0,0,0,0,Sydney Cricket Ground,1,0,2008,16
+RTPonting,Australia,West Indies,35,36,4,1,97.22222222222221,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,2,2007,57
+RTPonting,Australia,West Indies,5,20,0,0,25.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2008,-1
+RTPonting,Australia,Sri Lanka,25,26,4,0,96.15384615384616,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2008,37
+RTPonting,Australia,South Africa,10,7,2,0,142.85714285714286,0,0,0,0,0,0,St George's Park,0,0,2011,12
+RTPonting,Australia,West Indies,49,62,1,2,79.03225806451613,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2010,62
+RTPonting,Australia,South Africa,53,68,4,0,77.94117647058823,0,0,0,0,0,0,St George's Park,0,0,2009,65
+RTPonting,Australia,Zimbabwe,28,37,0,0,75.67567567567568,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,1,2011,36
+RTPonting,Australia,England,51,62,6,0,82.25806451612904,0,0,0,0,0,0,Adelaide Oval,0,1,2007,73
+RTPonting,Australia,New Zealand,16,23,1,0,69.56521739130434,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2009,23
+RTPonting,Australia,South Africa,33,49,6,0,67.3469387755102,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2006,37

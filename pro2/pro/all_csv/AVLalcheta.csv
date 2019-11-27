@@ -1,17 +1,15 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AVLalcheta,Oman,Bangladesh,1,5,0,0,20.0,17,2,35,1,0,17.5,Himachal Pradesh Cricket Association Stadium,14
-AVLalcheta,Oman,Bangladesh,1,5,0,0,20.0,17,2,35,1,0,17.5,Himachal Pradesh Cricket Association Stadium,14
-AVLalcheta,Oman,Bangladesh,1,5,0,0,20.0,17,2,35,1,0,17.5,Himachal Pradesh Cricket Association Stadium,14
-AVLalcheta,Oman,Afghanistan,14,10,2,0,140.0,23,3,35,0,0,11.666666666666666,Sheikh Zayed Stadium,10
-AVLalcheta,Oman,Ireland,6,3,1,0,200.0,23,3,24,0,1,8.0,Himachal Pradesh Cricket Association Stadium,15
-AVLalcheta,Oman,Scotland,20,15,2,1,133.33333333333331,23,3,23,0,0,7.666666666666667,Dubai International Cricket Stadium,24
-AVLalcheta,Oman,Afghanistan,0,0,0,0,0,20,3,43,1,0,14.333333333333334,Khan Shaheb Osman Ali Stadium,19
-AVLalcheta,Oman,Netherlands,13,13,0,1,100.0,11,1,23,0,0,23.0,Sheikh Zayed Stadium,15
-AVLalcheta,Oman,Hong Kong,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Sheikh Zayed Stadium,23
-AVLalcheta,Oman,Hong Kong,0,0,0,0,0,23,3,30,1,0,10.0,Khan Shaheb Osman Ali Stadium,23
-AVLalcheta,Oman,Afghanistan,16,10,1,1,160.0,11,1,17,0,0,17.0,Dubai International Cricket Stadium,19
-AVLalcheta,Oman,United Arab Emirates,1,2,0,0,50.0,23,3,17,1,0,5.666666666666667,Sheikh Zayed Stadium,24
-AVLalcheta,Oman,Hong Kong,0,0,0,0,0,24,4,31,0,0,7.75,Sheikh Zayed Stadium,0
-AVLalcheta,Oman,Hong Kong,0,0,0,0,0,23,3,13,1,1,4.333333333333333,Sheikh Zayed Stadium,37
-AVLalcheta,Oman,Bangladesh,1,5,0,0,20.0,17,2,35,1,0,17.5,Himachal Pradesh Cricket Association Stadium,14
-AVLalcheta,Oman,Afghanistan,14,10,2,0,140.0,23,3,35,0,0,11.666666666666666,Sheikh Zayed Stadium,10
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AVLalcheta,Oman,Hong Kong,0,0,0,0,0,24,4,31,0,0,7.75,Sheikh Zayed Stadium,0,1,2015,8
+AVLalcheta,Oman,Afghanistan,16,10,1,1,160.0,11,1,17,0,0,17.0,Dubai International Cricket Stadium,0,0,2017,19
+AVLalcheta,Oman,Hong Kong,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Sheikh Zayed Stadium,0,0,2015,23
+AVLalcheta,Oman,Afghanistan,0,0,0,0,0,20,3,43,1,0,14.333333333333334,Khan Shaheb Osman Ali Stadium,0,0,2016,19
+AVLalcheta,Oman,Bangladesh,1,5,0,0,20.0,17,2,35,1,0,17.5,Himachal Pradesh Cricket Association Stadium,0,0,2016,14
+AVLalcheta,Oman,United Arab Emirates,1,2,0,0,50.0,23,3,17,1,0,5.666666666666667,Sheikh Zayed Stadium,0,0,2015,24
+AVLalcheta,Oman,Hong Kong,0,0,0,0,0,23,3,30,1,0,10.0,Khan Shaheb Osman Ali Stadium,0,0,2016,23
+AVLalcheta,Oman,Hong Kong,0,0,0,0,0,23,3,13,1,1,4.333333333333333,Sheikh Zayed Stadium,0,2,2015,53
+AVLalcheta,Oman,Netherlands,13,13,0,1,100.0,11,1,23,0,0,23.0,Sheikh Zayed Stadium,0,0,2017,15
+AVLalcheta,Oman,Scotland,20,15,2,1,133.33333333333331,23,3,23,0,0,7.666666666666667,Dubai International Cricket Stadium,0,0,2017,24
+AVLalcheta,Oman,Afghanistan,14,10,2,0,140.0,23,3,35,0,0,11.666666666666666,Sheikh Zayed Stadium,0,0,2015,10
+AVLalcheta,Oman,Ireland,6,3,1,0,200.0,23,3,24,0,1,8.0,Himachal Pradesh Cricket Association Stadium,0,0,2016,15
+AVLalcheta,Oman,Scotland,6,23,0,0,26.08695652173913,53,8,35,2,1,4.375,Mannofield Park,0,0,2019,62
+AVLalcheta,Oman,Papua New Guinea,12,26,1,0,46.15384615384615,29,4,27,0,1,6.75,Mannofield Park,0,0,2019,15

@@ -1,6 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GBBrent,Zimbabwe,England,0,0,0,0,0,17,2,34,0,0,17.0,Newlands,-6
-GBBrent,Zimbabwe,England,0,0,0,0,0,17,2,34,0,0,17.0,Newlands,-6
-GBBrent,Zimbabwe,England,0,0,0,0,0,17,2,34,0,0,17.0,Newlands,-6
-GBBrent,Zimbabwe,Australia,0,0,0,0,0,25,4,19,2,0,4.75,Newlands,54
-GBBrent,Zimbabwe,England,0,0,0,0,0,17,2,34,0,0,17.0,Newlands,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GBBrent,Zimbabwe,England,0,0,0,0,0,17,2,34,0,0,17.0,Newlands,0,0,2007,-6
+GBBrent,Zimbabwe,Australia,0,0,0,0,0,25,4,19,2,0,4.75,Newlands,1,0,2007,66
+GBBrent,Zimbabwe,Bangladesh,3,11,0,0,27.27272727272727,65,10,23,4,5,2.3,Shere Bangla National Stadium,0,1,2006,159
+GBBrent,Zimbabwe,Pakistan,9,9,0,1,100.0,62,10,68,3,0,6.8,Sabina Park Kingston,0,0,2007,86
+GBBrent,Zimbabwe,Bangladesh,7,10,0,0,70.0,59,9,44,1,1,4.888888888888889,Shaheed Chandu Stadium,0,2,2006,60
+GBBrent,Zimbabwe,Pakistan,13,11,2,0,118.18181818181819,59,9,46,0,2,5.111111111111111,Niaz Stadium Hyderabad,0,0,2008,33
+GBBrent,Zimbabwe,Pakistan,4,5,0,0,80.0,36,6,35,0,0,5.833333333333333,Sheikhupura Stadium,0,0,2008,6
+GBBrent,Zimbabwe,Ireland,3,12,0,0,25.0,61,10,41,2,1,4.1,Sabina Park Kingston,0,0,2007,59
+GBBrent,Zimbabwe,South Africa,59,83,4,2,71.08433734939759,53,8,28,0,3,3.5,Queens Sports Club,0,0,2007,105
+GBBrent,Zimbabwe,South Africa,2,1,0,0,200.0,50,8,57,0,1,7.125,Harare Sports Club,0,0,2007,10
+GBBrent,Zimbabwe,West Indies,12,30,0,0,40.0,48,8,47,1,1,5.875,Harare Sports Club,1,0,2007,53
+GBBrent,Zimbabwe,Pakistan,14,15,1,0,93.33333333333333,60,10,54,0,0,5.4,Iqbal Stadium,0,1,2008,25
+GBBrent,Zimbabwe,West Indies,0,0,0,0,0,53,8,42,1,2,5.25,Harare Sports Club,0,0,2007,43
+GBBrent,Zimbabwe,Bangladesh,5,7,1,0,71.42857142857143,48,8,25,2,0,3.125,Shere Bangla National Stadium,0,0,2006,62
+GBBrent,Zimbabwe,South Africa,1,2,0,0,50.0,56,9,59,3,1,6.555555555555555,Harare Sports Club,0,0,2007,80
+GBBrent,Zimbabwe,West Indies,9,7,1,0,128.57142857142858,59,9,49,0,0,5.444444444444445,Queens Sports Club,0,0,2007,12

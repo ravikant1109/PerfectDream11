@@ -1,75 +1,171 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RAJadeja,India,Australia,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Saurashtra Cricket Association Stadium,25
-RAJadeja,India,Pakistan,2,4,0,0,50.0,15,2,30,0,0,15.0,M Chinnaswamy Stadium,-8
-RAJadeja,India,Sri Lanka,6,9,0,0,66.66666666666666,17,2,18,0,0,9.0,Maharashtra Cricket Association Stadium,4
-RAJadeja,India,South Africa,0,0,0,0,0,11,1,8,0,0,8.0,Shere Bangla National Stadium,0
-RAJadeja,India,New Zealand,0,3,0,0,0.0,27,4,32,1,0,8.0,Vidarbha Cricket Association Stadium Jamtha,17
-RAJadeja,India,England,7,4,1,0,175.0,24,4,35,1,0,8.75,Edgbaston,33
-RAJadeja,India,Afghanistan,0,0,0,0,0,23,3,16,1,1,5.333333333333333,Beausejour Stadium Gros Islet,35
-RAJadeja,India,Sri Lanka,0,0,0,0,0,11,1,19,0,0,19.0,Shere Bangla National Stadium,0
-RAJadeja,India,Australia,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Saurashtra Cricket Association Stadium,25
-RAJadeja,India,Pakistan,2,4,0,0,50.0,15,2,30,0,0,15.0,M Chinnaswamy Stadium,-8
-RAJadeja,India,Sri Lanka,6,9,0,0,66.66666666666666,17,2,18,0,0,9.0,Maharashtra Cricket Association Stadium,4
-RAJadeja,India,South Africa,0,0,0,0,0,11,1,8,0,0,8.0,Shere Bangla National Stadium,0
-RAJadeja,India,New Zealand,0,3,0,0,0.0,27,4,32,1,0,8.0,Vidarbha Cricket Association Stadium Jamtha,17
-RAJadeja,India,England,7,4,1,0,175.0,24,4,35,1,0,8.75,Edgbaston,33
-RAJadeja,India,Afghanistan,0,0,0,0,0,23,3,16,1,1,5.333333333333333,Beausejour Stadium Gros Islet,35
-RAJadeja,India,Sri Lanka,0,0,0,0,0,11,1,19,0,0,19.0,Shere Bangla National Stadium,0
-RAJadeja,India,Australia,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Saurashtra Cricket Association Stadium,25
-RAJadeja,India,Pakistan,2,4,0,0,50.0,15,2,30,0,0,15.0,M Chinnaswamy Stadium,-8
-RAJadeja,India,Sri Lanka,6,9,0,0,66.66666666666666,17,2,18,0,0,9.0,Maharashtra Cricket Association Stadium,4
-RAJadeja,India,South Africa,0,0,0,0,0,11,1,8,0,0,8.0,Shere Bangla National Stadium,0
-RAJadeja,India,New Zealand,0,3,0,0,0.0,27,4,32,1,0,8.0,Vidarbha Cricket Association Stadium Jamtha,17
-RAJadeja,India,England,7,4,1,0,175.0,24,4,35,1,0,8.75,Edgbaston,33
-RAJadeja,India,Afghanistan,0,0,0,0,0,23,3,16,1,1,5.333333333333333,Beausejour Stadium Gros Islet,35
-RAJadeja,India,Sri Lanka,0,0,0,0,0,11,1,19,0,0,19.0,Shere Bangla National Stadium,0
-RAJadeja,India,South Africa,7,6,0,0,116.66666666666667,17,2,9,1,0,4.5,Trent Bridge,36
-RAJadeja,India,Sri Lanka,5,7,0,0,71.42857142857143,24,4,29,0,0,7.25,R Premadasa Stadium,5
-RAJadeja,India,England,0,0,0,0,0,18,3,23,0,0,7.666666666666667,Subrata Roy Sahara Stadium,0
-RAJadeja,India,Australia,0,0,0,0,0,23,3,41,1,0,13.666666666666666,Sydney Cricket Ground,19
-RAJadeja,India,Bangladesh,12,8,2,0,150.0,23,3,23,2,0,7.666666666666667,M Chinnaswamy Stadium,64
-RAJadeja,India,Pakistan,0,0,0,0,0,19,3,11,2,0,3.6666666666666665,Shere Bangla National Stadium,56
-RAJadeja,India,West Indies,5,6,0,0,83.33333333333334,11,1,27,1,0,27.0,Kensington Oval Bridgetown,30
-RAJadeja,India,West Indies,0,0,0,0,0,17,2,39,2,0,19.5,Central Broward Regional Park Stadium Turf Ground,44
-RAJadeja,India,Australia,4,6,0,0,66.66666666666666,11,1,38,0,0,38.0,Kensington Oval Bridgetown,2
-RAJadeja,India,West Indies,0,0,0,0,0,11,1,11,0,0,11.0,Central Broward Regional Park Stadium Turf Ground,0
-RAJadeja,India,Sri Lanka,1,1,0,0,100.0,23,3,24,2,0,8.0,JSCA International Stadium Complex,51
-RAJadeja,India,Bangladesh,0,0,0,0,0,23,3,30,0,0,10.0,Shere Bangla National Stadium,-2
-RAJadeja,India,Bangladesh,0,0,0,0,0,25,4,26,0,0,6.5,Shere Bangla National Stadium,0
-RAJadeja,India,West Indies,13,9,0,1,144.44444444444443,22,3,41,0,0,13.666666666666666,Sabina Park Kingston,9
-RAJadeja,India,Sri Lanka,0,0,0,0,0,24,4,11,1,1,2.75,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,39
-RAJadeja,India,Pakistan,0,0,0,0,0,24,4,18,1,0,4.5,Shere Bangla National Stadium,29
-RAJadeja,India,West Indies,0,0,0,0,0,26,4,48,3,0,12.0,Shere Bangla National Stadium,69
-RAJadeja,India,Bangladesh,0,0,0,0,0,17,2,25,1,0,12.5,Shere Bangla National Stadium,19
-RAJadeja,India,Australia,7,8,1,0,87.5,11,1,23,0,0,23.0,Stadium Australia,8
-RAJadeja,India,West Indies,9,4,0,1,225.0,5,0,6,0,0,0,Central Broward Regional Park Stadium Turf Ground,11
-RAJadeja,India,West Indies,10,11,0,0,90.9090909090909,23,3,13,1,1,4.333333333333333,Central Broward Regional Park Stadium Turf Ground,47
-RAJadeja,India,Pakistan,0,0,0,0,0,24,4,20,1,0,5.0,Eden Gardens,27
-RAJadeja,India,Australia,0,0,0,0,0,23,3,21,2,0,7.0,Adelaide Oval,50
-RAJadeja,India,Australia,3,3,0,0,100.0,23,3,25,1,0,8.333333333333334,Shere Bangla National Stadium,28
-RAJadeja,India,Australia,0,0,0,0,0,23,3,32,2,0,10.666666666666666,Melbourne Cricket Ground,46
-RAJadeja,India,South Africa,19,17,1,1,111.76470588235294,11,1,8,0,0,8.0,M.Chinnaswamy Stadium,22
-RAJadeja,India,South Africa,0,0,0,0,0,23,3,37,0,0,12.333333333333334,Beausejour Stadium Gros Islet,-6
-RAJadeja,India,England,0,1,0,0,0.0,24,4,11,1,0,2.75,Eden Gardens,23
-RAJadeja,India,West Indies,0,0,0,0,0,23,3,48,0,0,16.0,Wankhede Stadium,-6
-RAJadeja,India,Sri Lanka,0,0,0,0,0,5,0,11,0,0,0,Shere Bangla National Stadium,0
-RAJadeja,India,Australia,0,0,0,0,0,18,3,21,0,0,7.0,Punjab Cricket Association IS Bindra Stadium Mohali,0
-RAJadeja,India,Sri Lanka,0,0,0,0,0,23,3,33,0,0,11.0,Punjab Cricket Association Stadium Mohali,-4
-RAJadeja,India,England,25,36,1,0,69.44444444444444,25,4,26,2,0,6.5,Lord's,74
-RAJadeja,India,South Africa,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Punjab Cricket Association IS Bindra Stadium Mohali,21
-RAJadeja,India,New Zealand,19,16,1,1,118.75,24,4,23,0,0,5.75,Westpac Stadium,24
-RAJadeja,India,Australia,0,0,0,0,0,18,3,16,1,0,5.333333333333333,Melbourne Cricket Ground,27
-RAJadeja,India,Australia,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Saurashtra Cricket Association Stadium,25
-RAJadeja,India,Pakistan,2,4,0,0,50.0,15,2,30,0,0,15.0,M Chinnaswamy Stadium,-8
-RAJadeja,India,Sri Lanka,6,9,0,0,66.66666666666666,17,2,18,0,0,9.0,Maharashtra Cricket Association Stadium,4
-RAJadeja,India,South Africa,0,0,0,0,0,11,1,8,0,0,8.0,Shere Bangla National Stadium,0
-RAJadeja,India,New Zealand,0,3,0,0,0.0,27,4,32,1,0,8.0,Vidarbha Cricket Association Stadium Jamtha,17
-RAJadeja,India,England,7,4,1,0,175.0,24,4,35,1,0,8.75,Edgbaston,33
-RAJadeja,India,Afghanistan,0,0,0,0,0,23,3,16,1,1,5.333333333333333,Beausejour Stadium Gros Islet,35
-RAJadeja,India,Sri Lanka,0,0,0,0,0,11,1,19,0,0,19.0,Shere Bangla National Stadium,0
-RAJadeja,India,South Africa,7,6,0,0,116.66666666666667,17,2,9,1,0,4.5,Trent Bridge,36
-RAJadeja,India,Sri Lanka,5,7,0,0,71.42857142857143,24,4,29,0,0,7.25,R Premadasa Stadium,5
-RAJadeja,India,England,0,0,0,0,0,18,3,23,0,0,7.666666666666667,Subrata Roy Sahara Stadium,0
-RAJadeja,India,Australia,0,0,0,0,0,23,3,41,1,0,13.666666666666666,Sydney Cricket Ground,19
-RAJadeja,India,Bangladesh,12,8,2,0,150.0,23,3,23,2,0,7.666666666666667,M Chinnaswamy Stadium,64
-RAJadeja,India,Pakistan,0,0,0,0,0,19,3,11,2,0,3.6666666666666665,Shere Bangla National Stadium,56
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RAJadeja,India,West Indies,0,0,0,0,0,17,2,39,2,0,19.5,Central Broward Regional Park Stadium Turf Ground,0,0,2016,44
+RAJadeja,India,Pakistan,2,4,0,0,50.0,15,2,30,0,0,15.0,M Chinnaswamy Stadium,0,0,2012,-8
+RAJadeja,India,West Indies,13,9,0,1,144.44444444444443,22,3,41,0,0,13.666666666666666,Sabina Park Kingston,0,0,2017,9
+RAJadeja,India,Sri Lanka,0,0,0,0,0,11,1,19,0,0,19.0,Shere Bangla National Stadium,0,0,2016,0
+RAJadeja,India,England,0,1,0,0,0.0,24,4,11,1,0,2.75,Eden Gardens,0,0,2011,23
+RAJadeja,India,Bangladesh,0,0,0,0,0,17,2,25,1,0,12.5,Shere Bangla National Stadium,0,0,2016,19
+RAJadeja,India,Australia,0,0,0,0,0,18,3,21,0,0,7.0,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,0
+RAJadeja,India,South Africa,0,0,0,0,0,23,3,37,0,0,12.333333333333334,Beausejour Stadium Gros Islet,0,1,2010,2
+RAJadeja,India,Australia,0,0,0,0,0,23,3,32,2,0,10.666666666666666,Melbourne Cricket Ground,1,0,2016,58
+RAJadeja,India,South Africa,7,6,0,0,116.66666666666667,17,2,9,1,0,4.5,Trent Bridge,0,1,2009,44
+RAJadeja,India,Australia,4,6,0,0,66.66666666666666,11,1,38,0,0,38.0,Kensington Oval Bridgetown,0,0,2010,2
+RAJadeja,India,West Indies,5,6,0,0,83.33333333333334,11,1,27,1,0,27.0,Kensington Oval Bridgetown,0,0,2010,30
+RAJadeja,India,West Indies,9,4,0,1,225.0,5,0,6,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,11
+RAJadeja,India,New Zealand,19,16,1,1,118.75,24,4,23,0,0,5.75,Westpac Stadium,0,0,2009,24
+RAJadeja,India,Australia,0,0,0,0,0,18,3,16,1,0,5.333333333333333,Melbourne Cricket Ground,1,0,2012,39
+RAJadeja,India,Afghanistan,0,0,0,0,0,23,3,16,1,1,5.333333333333333,Beausejour Stadium Gros Islet,1,0,2010,47
+RAJadeja,India,Sri Lanka,1,1,0,0,100.0,23,3,24,2,0,8.0,JSCA International Stadium Complex,0,0,2016,51
+RAJadeja,India,England,0,0,0,0,0,18,3,23,0,0,7.666666666666667,Subrata Roy Sahara Stadium,0,0,2012,0
+RAJadeja,India,Sri Lanka,5,7,0,0,71.42857142857143,24,4,29,0,0,7.25,R Premadasa Stadium,0,0,2009,5
+RAJadeja,India,South Africa,19,17,1,1,111.76470588235294,11,1,8,0,0,8.0,M.Chinnaswamy Stadium,0,0,2019,22
+RAJadeja,India,Pakistan,0,0,0,0,0,19,3,11,2,0,3.6666666666666665,Shere Bangla National Stadium,1,0,2016,68
+RAJadeja,India,Bangladesh,12,8,2,0,150.0,23,3,23,2,0,7.666666666666667,M Chinnaswamy Stadium,0,1,2016,72
+RAJadeja,India,Pakistan,0,0,0,0,0,24,4,18,1,0,4.5,Shere Bangla National Stadium,1,0,2014,41
+RAJadeja,India,England,7,4,1,0,175.0,24,4,35,1,0,8.75,Edgbaston,0,0,2014,33
+RAJadeja,India,West Indies,0,0,0,0,0,23,3,48,0,0,16.0,Wankhede Stadium,0,0,2016,-6
+RAJadeja,India,Bangladesh,0,0,0,0,0,25,4,26,0,0,6.5,Shere Bangla National Stadium,0,1,2016,8
+RAJadeja,India,New Zealand,0,3,0,0,0.0,27,4,32,1,0,8.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,17
+RAJadeja,India,Australia,3,3,0,0,100.0,23,3,25,1,0,8.333333333333334,Shere Bangla National Stadium,0,2,2014,44
+RAJadeja,India,Pakistan,0,0,0,0,0,24,4,20,1,0,5.0,Eden Gardens,0,1,2016,35
+RAJadeja,India,South Africa,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Punjab Cricket Association IS Bindra Stadium Mohali,0,1,2019,29
+RAJadeja,India,Sri Lanka,0,0,0,0,0,5,0,11,0,0,0,Shere Bangla National Stadium,0,1,2014,8
+RAJadeja,India,Bangladesh,0,0,0,0,0,23,3,30,0,0,10.0,Shere Bangla National Stadium,0,1,2014,6
+RAJadeja,India,West Indies,10,11,0,0,90.9090909090909,23,3,13,1,1,4.333333333333333,Central Broward Regional Park Stadium Turf Ground,0,0,2019,47
+RAJadeja,India,West Indies,0,0,0,0,0,11,1,11,0,0,11.0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,0
+RAJadeja,India,Australia,0,0,0,0,0,23,3,41,1,0,13.666666666666666,Sydney Cricket Ground,0,1,2016,27
+RAJadeja,India,Australia,7,8,1,0,87.5,11,1,23,0,0,23.0,Stadium Australia,0,0,2012,8
+RAJadeja,India,Sri Lanka,0,0,0,0,0,23,3,33,0,0,11.0,Punjab Cricket Association Stadium Mohali,0,1,2009,4
+RAJadeja,India,Sri Lanka,0,0,0,0,0,24,4,11,1,1,2.75,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,1,1,2016,59
+RAJadeja,India,Australia,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Saurashtra Cricket Association Stadium,0,1,2013,33
+RAJadeja,India,England,25,36,1,0,69.44444444444444,25,4,26,2,0,6.5,Lord's,0,1,2009,82
+RAJadeja,India,Australia,0,0,0,0,0,23,3,21,2,0,7.0,Adelaide Oval,0,1,2016,58
+RAJadeja,India,West Indies,0,0,0,0,0,26,4,48,3,0,12.0,Shere Bangla National Stadium,0,0,2014,69
+RAJadeja,India,Sri Lanka,6,9,0,0,66.66666666666666,17,2,18,0,0,9.0,Maharashtra Cricket Association Stadium,0,0,2016,4
+RAJadeja,India,South Africa,0,0,0,0,0,11,1,8,0,0,8.0,Shere Bangla National Stadium,0,0,2014,0
+RAJadeja,India,Sri Lanka,0,0,0,0,0,59,9,51,2,1,5.666666666666667,Queens Sports Club,0,0,2010,60
+RAJadeja,India,Bangladesh,4,2,0,0,200.0,36,6,35,1,0,5.833333333333333,Shere Bangla National Stadium,0,1,2012,39
+RAJadeja,India,Sri Lanka,0,0,0,0,0,30,5,17,2,0,3.4,Queen's Park Oval Port of Spain,0,1,2013,64
+RAJadeja,India,Australia,57,104,6,0,54.807692307692314,59,9,36,0,1,4.0,Nehru Stadium,0,0,2009,79
+RAJadeja,India,Afghanistan,0,0,0,0,0,59,9,30,4,2,3.3333333333333335,Shere Bangla National Stadium,0,0,2014,130
+RAJadeja,India,South Africa,0,0,0,0,0,55,9,41,2,0,4.555555555555555,Captain Roop Singh Stadium,0,0,2010,54
+RAJadeja,India,Zimbabwe,0,0,0,0,0,59,9,71,0,0,7.888888888888889,Eden Park,0,0,2015,0
+RAJadeja,India,England,0,0,0,0,0,53,8,60,1,0,7.5,Lord's,0,2,2011,41
+RAJadeja,India,Australia,0,0,0,0,0,62,10,68,2,0,6.8,Vidarbha Cricket Association Stadium Jamtha,0,0,2013,50
+RAJadeja,India,West Indies,0,0,0,0,0,59,9,40,5,2,4.444444444444445,Kennington Oval,0,1,2013,169
+RAJadeja,India,Bangladesh,32,42,2,0,76.19047619047619,48,8,48,1,0,6.0,Shere Bangla National Stadium,0,2,2015,75
+RAJadeja,India,England,39,66,1,2,59.09090909090909,44,7,26,1,0,3.7142857142857144,Himachal Pradesh Cricket Association Stadium,0,1,2013,79
+RAJadeja,India,Zimbabwe,61,62,5,0,98.38709677419355,59,9,52,1,0,5.777777777777778,Queens Sports Club,0,0,2010,101
+RAJadeja,India,South Africa,29,37,6,0,78.37837837837837,47,7,58,0,0,8.285714285714286,New Wanderers Stadium,0,1,2013,43
+RAJadeja,India,Sri Lanka,0,0,0,0,0,53,8,44,1,0,5.5,Bellerive Oval,0,0,2012,27
+RAJadeja,India,Sri Lanka,1,1,0,0,100.0,60,10,64,1,0,6.4,Sardar Patel Stadium Motera,0,0,2014,26
+RAJadeja,India,Bangladesh,0,0,0,0,0,53,8,45,1,1,5.625,Shere Bangla National Stadium,0,1,2010,43
+RAJadeja,India,West Indies,0,0,0,0,0,59,9,63,3,0,7.0,MA Chidambaram Stadium Chepauk,0,0,2011,75
+RAJadeja,India,Sri Lanka,22,29,0,1,75.86206896551724,60,10,32,3,1,3.2,Khan Shaheb Osman Ali Stadium,0,0,2014,113
+RAJadeja,India,West Indies,0,0,0,0,0,59,9,37,3,0,4.111111111111111,Nehru Stadium,0,0,2013,79
+RAJadeja,India,Australia,0,0,0,0,0,59,9,56,1,0,6.222222222222222,JSCA International Stadium Complex,0,0,2013,25
+RAJadeja,India,New Zealand,5,6,1,0,83.33333333333334,53,8,55,0,0,6.875,Westpac Stadium,0,0,2014,6
+RAJadeja,India,England,0,0,0,0,0,42,7,38,1,0,5.428571428571429,Feroz Shah Kotla,0,1,2011,35
+RAJadeja,India,Sri Lanka,24,28,1,0,85.71428571428571,59,9,41,1,0,4.555555555555555,Western Australia Cricket Association Ground,0,0,2012,54
+RAJadeja,India,Australia,6,6,0,0,100.0,60,10,50,2,0,5.0,Melbourne Cricket Ground,0,0,2016,58
+RAJadeja,India,Australia,11,18,1,0,61.111111111111114,59,9,35,1,0,3.888888888888889,Maharashtra Cricket Association Stadium,0,1,2013,49
+RAJadeja,India,Pakistan,6,9,0,0,66.66666666666666,61,10,44,1,0,4.4,Rangiri Dambulla International Stadium,1,0,2010,45
+RAJadeja,India,England,87,70,9,2,124.28571428571429,53,8,66,0,0,8.25,Headingley,0,0,2014,108
+RAJadeja,India,Pakistan,0,0,0,0,0,47,7,43,2,0,6.142857142857143,Edgbaston,1,1,2017,70
+RAJadeja,India,England,16,8,1,1,200.0,59,9,46,1,0,5.111111111111111,Barabati Stadium,0,0,2017,46
+RAJadeja,India,New Zealand,17,27,3,0,62.96296296296296,17,2,21,1,0,10.5,Rangiri Dambulla International Stadium,0,0,2010,39
+RAJadeja,India,Sri Lanka,0,0,0,0,0,59,9,33,4,0,3.6666666666666665,Barabati Stadium,0,0,2009,114
+RAJadeja,India,Sri Lanka,0,0,0,0,0,36,6,22,0,0,3.6666666666666665,Shere Bangla National Stadium,0,0,2010,6
+RAJadeja,India,Sri Lanka,25,30,1,0,83.33333333333334,40,6,34,2,0,5.666666666666667,Rangiri Dambulla International Stadium,0,1,2010,86
+RAJadeja,India,Sri Lanka,0,0,0,0,0,36,6,53,0,0,8.833333333333334,Kennington Oval,0,1,2017,8
+RAJadeja,India,West Indies,16,17,1,0,94.11764705882352,24,4,15,1,0,3.75,Queen's Park Oval Trinidad,0,1,2019,56
+RAJadeja,India,Zimbabwe,48,80,4,2,60.0,59,9,42,1,0,4.666666666666667,Queens Sports Club,0,0,2013,83
+RAJadeja,India,West Indies,13,24,2,0,54.166666666666664,50,8,27,2,0,3.375,Western Australia Cricket Association Ground,0,0,2015,67
+RAJadeja,India,New Zealand,66,50,5,4,132.0,60,10,47,2,0,4.7,Eden Park,1,1,2014,161
+RAJadeja,India,Zimbabwe,0,0,0,0,0,53,8,29,2,2,3.625,Queens Sports Club,1,1,2013,92
+RAJadeja,India,England,33,25,2,2,132.0,23,3,24,2,0,8.0,Edgbaston,0,0,2013,89
+RAJadeja,India,West Indies,2,11,0,0,18.181818181818183,59,9,49,1,0,5.444444444444445,Green Park,0,0,2013,23
+RAJadeja,India,New Zealand,20,44,2,0,45.45454545454545,53,8,67,0,0,8.375,Rangiri Dambulla International Stadium,0,0,2010,16
+RAJadeja,India,Australia,24,28,1,0,85.71428571428571,60,10,51,0,0,5.1,Manuka Oval,0,0,2016,27
+RAJadeja,India,Pakistan,27,40,0,2,67.5,59,9,20,1,2,2.2222222222222223,Feroz Shah Kotla,0,1,2013,84
+RAJadeja,India,England,7,10,0,0,70.0,60,10,46,0,1,4.6,Saurashtra Cricket Association Stadium,0,0,2013,19
+RAJadeja,India,New Zealand,12,8,0,0,150.0,47,7,46,1,0,6.571428571428571,Seddon Park,0,0,2014,37
+RAJadeja,India,United Arab Emirates,0,0,0,0,0,29,4,23,2,0,5.75,Western Australia Cricket Association Ground,0,0,2015,52
+RAJadeja,India,West Indies,15,22,2,0,68.18181818181817,59,9,50,0,2,5.555555555555555,Sabina Park Kingston,0,0,2013,33
+RAJadeja,India,West Indies,11,11,1,0,100.0,59,9,49,0,0,5.444444444444445,Sir Vivian Richards Stadium North Sound,1,2,2017,42
+RAJadeja,India,Australia,18,36,1,0,50.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2012,15
+RAJadeja,India,Ireland,0,0,0,0,0,41,6,45,1,0,7.5,Seddon Park,0,0,2015,25
+RAJadeja,India,South Africa,47,29,7,1,162.06896551724137,53,8,31,2,2,3.875,Sophia Gardens,1,1,2013,148
+RAJadeja,India,New Zealand,77,63,4,4,122.22222222222223,59,9,34,1,1,3.7777777777777777,Old Trafford,0,2,2019,152
+RAJadeja,India,Australia,0,0,0,0,0,38,6,37,3,0,6.166666666666667,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,75
+RAJadeja,India,Bangladesh,0,0,0,0,0,35,5,23,0,1,4.6,Shere Bangla National Stadium,0,0,2010,12
+RAJadeja,India,Sri Lanka,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Shere Bangla National Stadium,0,1,2012,4
+RAJadeja,India,South Africa,2,4,0,0,50.0,50,8,37,1,0,4.625,Melbourne Cricket Ground,0,0,2015,27
+RAJadeja,India,Australia,0,0,0,0,0,59,9,72,0,0,8.0,Sawai Mansingh Stadium,0,0,2013,0
+RAJadeja,India,England,21,21,1,0,100.0,47,7,37,4,0,5.285714285714286,Eden Gardens,0,0,2011,132
+RAJadeja,India,West Indies,7,12,1,0,58.333333333333336,11,1,12,0,0,12.0,Sabina Park Kingston,0,0,2009,4
+RAJadeja,India,Sri Lanka,0,9,0,0,0.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,0
+RAJadeja,India,England,0,0,0,0,0,37,6,19,3,1,3.1666666666666665,JSCA International Stadium Complex,0,0,2013,89
+RAJadeja,India,Sri Lanka,39,34,3,1,114.70588235294117,23,3,31,0,0,10.333333333333334,Shere Bangla National Stadium,0,0,2010,40
+RAJadeja,India,Australia,8,17,1,0,47.05882352941176,59,9,52,1,0,5.777777777777778,Sydney Cricket Ground,0,1,2012,38
+RAJadeja,India,Sri Lanka,3,10,0,0,30.0,59,9,58,0,0,6.444444444444445,Adelaide Oval,0,0,2012,-3
+RAJadeja,India,Sri Lanka,5,14,0,0,35.714285714285715,47,7,23,4,1,3.2857142857142856,Queen's Park Oval Port of Spain,0,0,2013,121
+RAJadeja,India,Sri Lanka,0,0,0,0,0,59,9,33,1,1,3.6666666666666665,Sophia Gardens,0,0,2013,39
+RAJadeja,India,Sri Lanka,19,26,0,1,73.07692307692307,59,9,57,0,0,6.333333333333333,Harare Sports Club,0,0,2010,21
+RAJadeja,India,West Indies,33,36,2,1,91.66666666666666,61,10,60,1,0,6.0,Nehru Stadium,0,1,2014,70
+RAJadeja,India,England,10,6,2,0,166.66666666666669,59,9,62,2,1,6.888888888888889,Eden Gardens,0,2,2017,86
+RAJadeja,India,South Africa,26,36,1,1,72.22222222222221,60,10,49,1,0,4.9,Kingsmead,0,0,2013,58
+RAJadeja,India,Sri Lanka,12,6,2,0,200.0,54,9,43,0,0,4.777777777777778,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,18
+RAJadeja,India,New Zealand,0,0,0,0,0,42,7,45,0,0,6.428571428571429,Reliance Stadium,0,0,2010,0
+RAJadeja,India,England,5,9,0,0,55.55555555555556,59,9,62,0,1,6.888888888888889,Western Australia Cricket Association Ground,0,1,2015,17
+RAJadeja,India,West Indies,0,0,0,0,0,5,0,6,0,0,0,Providence Stadium Guyana,0,0,2019,0
+RAJadeja,India,Australia,12,8,0,0,150.0,60,10,50,0,0,5.0,Adelaide Oval,1,0,2012,26
+RAJadeja,India,Bangladesh,0,0,0,0,0,47,7,27,1,0,3.857142857142857,Rangiri Dambulla International Stadium,0,0,2010,31
+RAJadeja,India,West Indies,10,20,0,0,50.0,59,9,46,1,1,5.111111111111111,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2013,41
+RAJadeja,India,South Africa,0,0,0,0,0,59,9,39,1,1,4.333333333333333,Kennington Oval,0,0,2017,37
+RAJadeja,India,Sri Lanka,60,82,5,0,73.17073170731707,36,6,40,0,0,6.666666666666667,R Premadasa Stadium,1,0,2009,85
+RAJadeja,India,England,13,16,2,0,81.25,59,9,51,1,0,5.666666666666667,Maharashtra Cricket Association Stadium,0,0,2017,42
+RAJadeja,India,England,27,22,1,2,122.72727272727273,41,6,34,3,0,5.666666666666667,Rajiv Gandhi International Stadium Uppal,0,0,2011,109
+RAJadeja,India,Sri Lanka,0,1,0,0,0.0,38,6,29,0,1,4.833333333333333,Rangiri Dambulla International Stadium,0,1,2010,12
+RAJadeja,India,Australia,7,22,1,0,31.818181818181817,41,6,27,0,0,4.5,Punjab Cricket Association Stadium Mohali,1,1,2009,26
+RAJadeja,India,Sri Lanka,0,0,0,0,0,60,10,35,2,1,3.5,Rangiri Dambulla International Stadium,0,1,2010,72
+RAJadeja,India,Pakistan,15,26,0,0,57.692307692307686,47,7,67,0,0,9.571428571428571,Kennington Oval,0,1,2017,17
+RAJadeja,India,South Africa,36,36,2,1,100.0,59,9,55,1,1,6.111111111111111,Sardar Patel Stadium Motera,0,1,2010,81
+RAJadeja,India,Australia,10,5,0,0,200.0,54,9,62,0,0,6.888888888888889,Western Australia Cricket Association Ground,0,0,2016,10
+RAJadeja,India,New Zealand,0,3,0,0,0.0,53,8,61,1,1,7.625,McLean Park,0,0,2014,25
+RAJadeja,India,England,21,27,2,0,77.77777777777779,59,9,41,3,2,4.555555555555555,Punjab Cricket Association Stadium Mohali,0,0,2013,118
+RAJadeja,India,West Indies,0,0,0,0,0,59,9,27,0,1,3.0,Sabina Park Kingston,0,0,2017,14
+RAJadeja,India,Australia,0,0,0,0,0,59,9,73,3,0,8.11111111111111,M Chinnaswamy Stadium,0,1,2013,83
+RAJadeja,India,West Indies,6,16,0,0,37.5,54,9,44,3,0,4.888888888888889,Feroz Shah Kotla,0,0,2014,79
+RAJadeja,India,Australia,5,16,0,0,31.25,53,8,39,1,0,4.875,Reliance Stadium,0,0,2009,28
+RAJadeja,India,Australia,2,4,0,0,50.0,61,10,32,1,1,3.2,Punjab Cricket Association Stadium Mohali,0,1,2013,45
+RAJadeja,India,England,61,37,8,2,164.86486486486487,41,6,12,2,1,2.0,Nehru Stadium,1,0,2013,157
+RAJadeja,India,Sri Lanka,0,0,0,0,0,53,8,52,0,1,6.5,Eden Gardens,0,1,2009,16
+RAJadeja,India,England,12,9,1,0,133.33333333333331,59,9,39,1,0,4.333333333333333,Trent Bridge,0,0,2014,42
+RAJadeja,India,England,0,1,0,0,0.0,29,4,52,1,0,13.0,Sophia Gardens,0,0,2011,11
+RAJadeja,India,Pakistan,3,5,0,0,60.0,59,9,56,1,0,6.222222222222222,Adelaide Oval,0,1,2015,34
+RAJadeja,India,Bangladesh,19,27,1,0,70.37037037037037,42,7,28,0,0,4.0,Shere Bangla National Stadium,0,0,2015,24
+RAJadeja,India,South Africa,0,0,0,0,0,35,5,32,0,0,6.4,SuperSport Park,0,0,2013,0
+RAJadeja,India,Zimbabwe,51,72,3,2,70.83333333333334,42,7,28,2,1,4.0,Harare Sports Club,0,0,2010,128
+RAJadeja,India,West Indies,10,10,0,0,100.0,59,9,35,3,2,3.888888888888889,Holkar Cricket Stadium,0,0,2011,107
+RAJadeja,India,Australia,23,18,3,0,127.77777777777777,29,4,45,0,0,11.25,Rajiv Gandhi International Stadium Uppal,0,1,2009,28
+RAJadeja,India,West Indies,2,2,0,0,100.0,54,9,81,2,1,9.0,Himachal Pradesh Cricket Association Stadium,0,0,2014,60
+RAJadeja,India,England,0,0,0,0,0,59,9,45,2,0,5.0,Wankhede Stadium,0,0,2011,52
+RAJadeja,India,Zimbabwe,0,0,0,0,0,62,10,39,1,3,3.9,Harare Sports Club,1,0,2013,67
+RAJadeja,India,Pakistan,52,49,4,2,106.12244897959184,59,9,61,0,1,6.777777777777778,Shere Bangla National Stadium,1,2,2014,104
+RAJadeja,India,West Indies,9,8,1,0,112.5,53,8,40,2,2,5.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,1,1,2011,98
+RAJadeja,India,Zimbabwe,15,23,1,0,65.21739130434783,61,10,30,1,1,3.0,Harare Sports Club,0,0,2013,53
+RAJadeja,India,Zimbabwe,0,0,0,0,0,59,9,33,0,3,3.6666666666666665,Harare Sports Club,0,0,2013,30
+RAJadeja,India,Bangladesh,0,0,0,0,0,59,9,38,0,0,4.222222222222222,Khan Shaheb Osman Ali Stadium,0,0,2014,4
+RAJadeja,India,West Indies,11,16,2,0,68.75,60,10,37,0,1,3.7,Sardar Patel Stadium Motera,0,1,2011,33
+RAJadeja,India,England,26,24,2,0,108.33333333333333,47,7,41,1,0,5.857142857142857,Punjab Cricket Association Stadium Mohali,0,0,2011,55
+RAJadeja,India,Sri Lanka,0,0,0,0,0,59,9,40,1,0,4.444444444444445,Headingley,0,1,2019,37
+RAJadeja,India,Pakistan,0,0,0,0,0,47,7,30,2,1,4.285714285714286,Edgbaston,0,0,2013,62
+RAJadeja,India,Pakistan,13,23,0,0,56.52173913043478,59,9,41,3,1,4.555555555555555,Eden Gardens,0,0,2013,96
+RAJadeja,India,Bangladesh,23,10,3,0,229.99999999999997,48,8,43,2,0,5.375,Melbourne Cricket Ground,1,0,2015,90
+RAJadeja,India,Sri Lanka,49,63,4,1,77.77777777777779,53,8,56,0,0,7.0,Sabina Park Kingston,0,0,2013,55
+RAJadeja,India,West Indies,38,64,3,0,59.375,59,9,43,1,0,4.777777777777778,Barabati Stadium,0,0,2011,66
+RAJadeja,India,Australia,0,0,0,0,0,60,10,46,0,0,4.6,Sydney Cricket Ground,0,1,2016,12
+RAJadeja,India,South Africa,22,23,1,0,95.65217391304348,59,9,29,2,2,3.2222222222222223,Sawai Mansingh Stadium,0,0,2010,95
+RAJadeja,India,West Indies,0,1,0,0,0.0,41,6,34,0,1,5.666666666666667,Sabina Park Kingston,0,1,2009,10
+RAJadeja,India,West Indies,2,5,0,0,40.0,41,6,44,2,1,7.333333333333333,Queen's Park Oval Port of Spain,0,0,2013,54

@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ORWillis,Cayman Islands,United States of America,1,9,0,0,11.11111111111111,0,0,0,0,0,0,White Hill Field Sandys Parish,-5
-ORWillis,Cayman Islands,Bermuda,15,20,0,1,75.0,0,0,0,0,0,0,White Hill Field Sandys Parish,17
-ORWillis,Cayman Islands,Canada,1,4,0,0,25.0,0,0,0,0,0,0,White Hill Field Sandys Parish,-5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ORWillis,Cayman Islands,United States of America,1,9,0,0,11.11111111111111,0,0,0,0,0,0,White Hill Field Sandys Parish,0,0,2019,-5
+ORWillis,Cayman Islands,Bermuda,15,20,0,1,75.0,0,0,0,0,0,0,White Hill Field Sandys Parish,0,0,2019,17
+ORWillis,Cayman Islands,Canada,1,4,0,0,25.0,0,0,0,0,0,0,White Hill Field Sandys Parish,0,1,2019,3

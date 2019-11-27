@@ -1,11 +1,33 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DMdeSilva,Sri Lanka,Australia,12,9,1,0,133.33333333333331,5,0,8,0,0,0,Pallekele International Cricket Stadium,13
-DMdeSilva,Sri Lanka,Australia,12,9,1,0,133.33333333333331,5,0,8,0,0,0,Pallekele International Cricket Stadium,13
-DMdeSilva,Sri Lanka,Australia,12,9,1,0,133.33333333333331,5,0,8,0,0,0,Pallekele International Cricket Stadium,13
-DMdeSilva,Sri Lanka,Pakistan,31,32,1,0,96.875,0,0,0,0,0,0,R Premadasa Stadium,32
-DMdeSilva,Sri Lanka,Pakistan,14,15,1,0,93.33333333333333,0,0,0,0,0,0,R Premadasa Stadium,15
-DMdeSilva,Sri Lanka,South Africa,19,27,0,0,70.37037037037037,0,0,0,0,0,0,Newlands,19
-DMdeSilva,Sri Lanka,South Africa,2,6,0,0,33.33333333333333,5,0,3,1,0,0,New Wanderers Stadium,21
-DMdeSilva,Sri Lanka,Australia,62,51,5,0,121.56862745098039,11,1,12,0,0,12.0,R Premadasa Stadium,75
-DMdeSilva,Sri Lanka,South Africa,27,16,2,2,168.75,0,0,0,0,0,0,SuperSport Park,33
-DMdeSilva,Sri Lanka,Australia,12,9,1,0,133.33333333333331,5,0,8,0,0,0,Pallekele International Cricket Stadium,13
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DMdeSilva,Sri Lanka,South Africa,27,16,2,2,168.75,0,0,0,0,0,0,SuperSport Park,0,0,2017,33
+DMdeSilva,Sri Lanka,South Africa,19,27,0,0,70.37037037037037,0,0,0,0,0,0,Newlands,0,0,2017,19
+DMdeSilva,Sri Lanka,Pakistan,31,32,1,0,96.875,0,0,0,0,0,0,R Premadasa Stadium,0,0,2015,32
+DMdeSilva,Sri Lanka,Australia,12,9,1,0,133.33333333333331,5,0,8,0,0,0,Pallekele International Cricket Stadium,0,1,2016,21
+DMdeSilva,Sri Lanka,South Africa,2,6,0,0,33.33333333333333,5,0,3,1,0,0,New Wanderers Stadium,0,1,2017,29
+DMdeSilva,Sri Lanka,Pakistan,14,15,1,0,93.33333333333333,0,0,0,0,0,0,R Premadasa Stadium,1,0,2015,27
+DMdeSilva,Sri Lanka,Australia,62,51,5,0,121.56862745098039,11,1,12,0,0,12.0,R Premadasa Stadium,0,0,2016,75
+DMdeSilva,Sri Lanka,Bangladesh,18,14,3,0,128.57142857142858,61,10,49,2,0,4.9,R.Premadasa Stadium Khettarama,0,0,2019,75
+DMdeSilva,Sri Lanka,West Indies,6,3,0,0,200.0,59,9,49,0,0,5.444444444444445,Riverside Ground,0,0,2019,8
+DMdeSilva,Sri Lanka,Zimbabwe,0,0,0,0,0,5,0,4,0,0,0,Queens Sports Club,0,0,2016,0
+DMdeSilva,Sri Lanka,South Africa,24,41,2,0,58.536585365853654,24,4,18,0,0,4.5,Riverside Ground,0,0,2019,26
+DMdeSilva,Sri Lanka,Afghanistan,0,4,0,0,0.0,5,0,7,0,0,0,Sophia Gardens,0,0,2019,-8
+DMdeSilva,Sri Lanka,Pakistan,1,6,0,0,16.666666666666664,5,0,3,0,0,0,Sophia Gardens,0,1,2017,3
+DMdeSilva,Sri Lanka,England,29,50,1,0,57.99999999999999,47,7,32,3,0,4.571428571428571,Headingley,0,0,2019,105
+DMdeSilva,Sri Lanka,Australia,16,32,2,0,50.0,49,8,40,2,0,5.0,Kennington Oval,0,0,2019,66
+DMdeSilva,Sri Lanka,Zimbabwe,78,75,12,0,104.0,0,0,0,0,0,0,Harare Sports Club,0,0,2016,98
+DMdeSilva,Sri Lanka,Australia,12,30,1,0,40.0,23,3,24,1,0,8.0,Rangiri Dambulla International Stadium,0,0,2016,32
+DMdeSilva,Sri Lanka,South Africa,28,55,1,0,50.90909090909091,11,1,9,0,0,9.0,St George's Park,0,0,2017,25
+DMdeSilva,Sri Lanka,South Africa,16,26,2,0,61.53846153846154,5,0,8,0,0,0,New Wanderers Stadium,0,1,2017,24
+DMdeSilva,Sri Lanka,Australia,34,49,4,0,69.38775510204081,41,6,35,2,0,5.833333333333333,Pallekele International Cricket Stadium,0,0,2016,88
+DMdeSilva,Sri Lanka,Australia,7,10,0,0,70.0,23,3,22,0,0,7.333333333333333,R Premadasa Stadium,0,0,2016,7
+DMdeSilva,Sri Lanka,West Indies,58,61,7,0,95.08196721311475,0,0,0,0,0,0,Queens Sports Club,0,1,2016,81
+DMdeSilva,Sri Lanka,South Africa,11,20,1,0,55.00000000000001,23,3,24,0,0,8.0,SuperSport Park,0,0,2017,8
+DMdeSilva,Sri Lanka,Australia,76,92,9,0,82.6086956521739,23,3,21,0,0,7.0,Rangiri Dambulla International Stadium,0,0,2016,93
+DMdeSilva,Sri Lanka,Bangladesh,0,0,0,0,0,60,10,39,0,0,3.9,R.Premadasa Stadium Khettarama,0,0,2019,6
+DMdeSilva,Sri Lanka,West Indies,3,10,0,0,30.0,0,0,0,0,0,0,Harare Sports Club,0,1,2016,5
+DMdeSilva,Sri Lanka,South Africa,1,5,0,0,20.0,47,7,42,1,0,6.0,Kingsmead,0,1,2017,28
+DMdeSilva,Sri Lanka,Zimbabwe,0,2,0,0,0.0,0,0,0,0,0,0,Queens Sports Club,0,2,2016,8
+DMdeSilva,Sri Lanka,Australia,2,6,0,0,33.33333333333333,0,0,0,0,0,0,R Premadasa Stadium,0,0,2016,-4
+DMdeSilva,Sri Lanka,New Zealand,4,13,0,0,30.76923076923077,0,0,0,0,0,0,Sophia Gardens,0,0,2019,-2
+DMdeSilva,Sri Lanka,India,29,37,1,0,78.37837837837837,36,6,51,0,0,8.5,Headingley,0,0,2019,30
+DMdeSilva,Sri Lanka,South Africa,5,14,0,0,35.714285714285715,17,2,18,0,0,9.0,Newlands,0,0,2017,-1

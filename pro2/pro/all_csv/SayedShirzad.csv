@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SayedShirzad,Afghanistan,Oman,0,0,0,0,0,23,3,27,2,1,9.0,Sheikh Zayed Stadium,58
-SayedShirzad,Afghanistan,Zimbabwe,0,0,0,0,0,26,4,31,2,0,7.75,Sharjah Cricket Stadium,50
-SayedShirzad,Afghanistan,Oman,0,0,0,0,0,23,3,27,2,1,9.0,Sheikh Zayed Stadium,58
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SayedShirzad,Afghanistan,Zimbabwe,0,0,0,0,0,26,4,31,2,0,7.75,Sharjah Cricket Stadium,0,0,2016,50
+SayedShirzad,Afghanistan,Oman,0,0,0,0,0,23,3,27,2,1,9.0,Sheikh Zayed Stadium,0,0,2015,58
+SayedShirzad,Afghanistan,West Indies,25,17,1,2,147.05882352941177,47,7,57,1,0,8.142857142857142,Headingley,1,0,2019,67

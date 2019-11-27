@@ -1,21 +1,66 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-XJDoherty,Australia,India,0,0,0,0,0,18,3,25,1,0,8.333333333333334,Saurashtra Cricket Association Stadium,25
-XJDoherty,Australia,Sri Lanka,0,0,0,0,0,23,3,30,1,0,10.0,Melbourne Cricket Ground,23
-XJDoherty,Australia,Pakistan,6,8,0,0,75.0,17,2,12,0,0,6.0,Dubai International Cricket Stadium,6
-XJDoherty,Australia,India,0,0,0,0,0,18,3,25,1,0,8.333333333333334,Saurashtra Cricket Association Stadium,25
-XJDoherty,Australia,Sri Lanka,0,0,0,0,0,23,3,30,1,0,10.0,Melbourne Cricket Ground,23
-XJDoherty,Australia,Pakistan,6,8,0,0,75.0,17,2,12,0,0,6.0,Dubai International Cricket Stadium,6
-XJDoherty,Australia,India,0,0,0,0,0,18,3,25,1,0,8.333333333333334,Saurashtra Cricket Association Stadium,25
-XJDoherty,Australia,Sri Lanka,0,0,0,0,0,23,3,30,1,0,10.0,Melbourne Cricket Ground,23
-XJDoherty,Australia,Pakistan,6,8,0,0,75.0,17,2,12,0,0,6.0,Dubai International Cricket Stadium,6
-XJDoherty,Australia,West Indies,9,7,1,0,128.57142857142858,17,2,48,1,0,24.0,R Premadasa Stadium,29
-XJDoherty,Australia,South Africa,0,0,0,0,0,24,4,20,3,0,5.0,R Premadasa Stadium,77
-XJDoherty,Australia,Sri Lanka,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Stadium Australia,50
-XJDoherty,Australia,West Indies,0,0,0,0,0,17,2,34,0,0,17.0,Beausejour Stadium Gros Islet,-6
-XJDoherty,Australia,India,0,0,0,0,0,24,4,23,0,0,5.75,Stadium Australia,2
-XJDoherty,Australia,Pakistan,0,0,0,0,0,24,4,27,1,0,6.75,R Premadasa Stadium,25
-XJDoherty,Australia,West Indies,2,1,0,0,200.0,17,2,32,1,0,16.0,Kensington Oval Bridgetown,21
-XJDoherty,Australia,India,1,1,0,0,100.0,18,3,29,0,0,9.666666666666666,Melbourne Cricket Ground,-1
-XJDoherty,Australia,India,0,0,0,0,0,18,3,25,1,0,8.333333333333334,Saurashtra Cricket Association Stadium,25
-XJDoherty,Australia,Sri Lanka,0,0,0,0,0,23,3,30,1,0,10.0,Melbourne Cricket Ground,23
-XJDoherty,Australia,Pakistan,6,8,0,0,75.0,17,2,12,0,0,6.0,Dubai International Cricket Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,23,3,22,2,0,7.333333333333333,Stadium Australia,0,0,2013,50
+XJDoherty,Australia,Pakistan,0,0,0,0,0,24,4,27,1,0,6.75,R Premadasa Stadium,0,0,2012,25
+XJDoherty,Australia,India,1,1,0,0,100.0,18,3,29,0,0,9.666666666666666,Melbourne Cricket Ground,0,0,2012,-1
+XJDoherty,Australia,Pakistan,6,8,0,0,75.0,17,2,12,0,0,6.0,Dubai International Cricket Stadium,0,0,2012,6
+XJDoherty,Australia,South Africa,0,0,0,0,0,24,4,20,3,0,5.0,R Premadasa Stadium,0,0,2012,77
+XJDoherty,Australia,West Indies,0,0,0,0,0,17,2,34,0,0,17.0,Beausejour Stadium Gros Islet,0,0,2012,-6
+XJDoherty,Australia,West Indies,2,1,0,0,200.0,17,2,32,1,0,16.0,Kensington Oval Bridgetown,0,0,2012,21
+XJDoherty,Australia,India,0,0,0,0,0,24,4,23,0,0,5.75,Stadium Australia,0,0,2012,2
+XJDoherty,Australia,India,0,0,0,0,0,18,3,25,1,0,8.333333333333334,Saurashtra Cricket Association Stadium,0,0,2013,25
+XJDoherty,Australia,West Indies,9,7,1,0,128.57142857142858,17,2,48,1,0,24.0,R Premadasa Stadium,0,0,2012,29
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,23,3,30,1,0,10.0,Melbourne Cricket Ground,0,0,2013,23
+XJDoherty,Australia,Bangladesh,0,0,0,0,0,59,9,36,1,1,4.0,Shere Bangla National Stadium,0,0,2011,37
+XJDoherty,Australia,England,0,0,0,0,0,59,9,28,1,2,3.111111111111111,Sydney Cricket Ground,0,0,2014,47
+XJDoherty,Australia,India,0,0,0,0,0,35,5,41,0,0,8.2,Vidarbha Cricket Association Stadium Jamtha,0,0,2013,0
+XJDoherty,Australia,England,0,0,0,0,0,61,10,39,1,0,3.9,Sydney Cricket Ground,0,0,2015,31
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,47,7,42,0,0,6.0,Melbourne Cricket Ground,0,0,2013,0
+XJDoherty,Australia,South Africa,0,0,0,0,0,35,5,31,0,0,6.2,Manuka Oval,0,0,2014,0
+XJDoherty,Australia,South Africa,0,0,0,0,0,35,5,33,2,0,6.6,SuperSport Park,0,0,2011,50
+XJDoherty,Australia,England,0,0,0,0,0,29,4,34,0,0,8.5,Old Trafford,0,0,2012,0
+XJDoherty,Australia,West Indies,1,1,0,0,100.0,60,10,60,2,0,6.0,Beausejour Stadium Gros Islet,0,0,2012,51
+XJDoherty,Australia,England,6,12,0,0,50.0,60,10,50,1,0,5.0,Lord's,0,0,2012,29
+XJDoherty,Australia,India,0,0,0,0,0,60,10,54,0,1,5.4,Maharashtra Cricket Association Stadium,0,1,2013,18
+XJDoherty,Australia,England,0,0,0,0,0,46,7,41,0,0,5.857142857142857,Kennington Oval,0,0,2012,2
+XJDoherty,Australia,Sri Lanka,10,15,2,0,66.66666666666666,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2013,10
+XJDoherty,Australia,England,1,1,0,0,100.0,59,9,40,0,1,4.444444444444445,Adelaide Oval,0,1,2014,21
+XJDoherty,Australia,Sri Lanka,5,12,0,0,41.66666666666667,41,6,34,0,0,5.666666666666667,Adelaide Oval,0,0,2013,1
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,59,9,36,1,1,4.0,Bellerive Oval,0,0,2012,37
+XJDoherty,Australia,Sri Lanka,5,8,0,0,62.5,49,8,49,0,1,6.125,Adelaide Oval,0,0,2012,11
+XJDoherty,Australia,Afghanistan,0,0,0,0,0,46,7,34,1,2,4.857142857142857,Sharjah Cricket Association Stadium,0,0,2012,45
+XJDoherty,Australia,Bangladesh,0,0,0,0,0,59,9,45,0,0,5.0,Shere Bangla National Stadium,0,0,2011,2
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,60,10,28,4,0,2.8,R Premadasa Stadium,0,0,2011,114
+XJDoherty,Australia,India,0,0,0,0,0,61,10,29,0,1,2.9,Brisbane Cricket Ground Woolloongabba,0,1,2012,22
+XJDoherty,Australia,West Indies,0,2,0,0,0.0,60,10,31,2,2,3.1,Arnos Vale Ground Kingstown,0,1,2012,72
+XJDoherty,Australia,India,0,0,0,0,0,59,9,70,0,0,7.777777777777778,Sawai Mansingh Stadium,0,0,2013,0
+XJDoherty,Australia,Sri Lanka,15,27,2,0,55.55555555555556,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2013,13
+XJDoherty,Australia,England,0,0,0,0,0,41,6,40,0,0,6.666666666666667,Melbourne Cricket Ground,0,2,2011,16
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,59,9,48,1,1,5.333333333333333,Pallekele International Cricket Stadium,0,1,2011,43
+XJDoherty,Australia,India,13,9,0,1,144.44444444444443,44,7,26,2,0,3.7142857142857144,Sydney Cricket Ground,0,0,2012,71
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,47,7,22,3,3,3.142857142857143,Bellerive Oval,0,0,2013,105
+XJDoherty,Australia,Sri Lanka,2,2,0,0,100.0,59,9,25,2,0,2.7777777777777777,Western Australia Cricket Association Ground,0,0,2012,58
+XJDoherty,Australia,Sri Lanka,0,1,0,0,0.0,59,9,54,2,0,6.0,R Premadasa Stadium,0,1,2011,50
+XJDoherty,Australia,Sri Lanka,2,4,0,0,50.0,11,1,19,0,0,19.0,Sydney Cricket Ground,0,1,2012,6
+XJDoherty,Australia,India,0,0,0,0,0,55,9,51,2,0,5.666666666666667,Adelaide Oval,0,0,2012,52
+XJDoherty,Australia,Sri Lanka,2,6,0,0,33.33333333333333,29,4,41,0,0,10.25,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2011,-8
+XJDoherty,Australia,Bangladesh,2,2,0,0,100.0,35,5,33,0,0,6.6,Shere Bangla National Stadium,0,1,2011,10
+XJDoherty,Australia,India,0,0,0,0,0,59,9,74,2,0,8.222222222222221,M Chinnaswamy Stadium,0,0,2013,50
+XJDoherty,Australia,Sri Lanka,3,2,0,0,150.0,61,10,48,4,1,4.8,Melbourne Cricket Ground,1,0,2010,135
+XJDoherty,Australia,India,0,0,0,0,0,59,9,45,0,0,5.0,Punjab Cricket Association Stadium Mohali,0,0,2013,2
+XJDoherty,Australia,New Zealand,0,0,0,0,0,5,0,4,0,0,0,Edgbaston,0,0,2013,0
+XJDoherty,Australia,Sri Lanka,7,16,0,0,43.75,47,7,48,0,0,6.857142857142857,Melbourne Cricket Ground,0,1,2012,9
+XJDoherty,Australia,West Indies,0,0,0,0,0,54,9,49,1,0,5.444444444444445,Melbourne Cricket Ground,0,0,2013,27
+XJDoherty,Australia,West Indies,0,2,0,0,0.0,43,7,39,1,0,5.571428571428571,Arnos Vale Ground Kingstown,0,0,2012,19
+XJDoherty,Australia,West Indies,0,0,0,0,0,47,7,53,4,1,7.571428571428571,Arnos Vale Ground Kingstown,0,0,2012,116
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,62,10,43,1,0,4.3,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2011,29
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,53,8,56,0,0,7.0,Adelaide Oval,0,0,2012,0
+XJDoherty,Australia,South Africa,0,0,0,0,0,53,8,34,2,0,4.25,Kingsmead,0,1,2011,62
+XJDoherty,Australia,England,0,0,0,0,0,41,6,29,1,0,4.833333333333333,Melbourne Cricket Ground,0,1,2014,37
+XJDoherty,Australia,Pakistan,0,0,0,0,0,59,9,44,1,0,4.888888888888889,Dubai International Cricket Stadium,0,0,2014,29
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,24,4,18,0,0,4.5,Brisbane Cricket Ground Woolloongabba,0,0,2010,4
+XJDoherty,Australia,England,0,0,0,0,0,60,10,44,0,0,4.4,Adelaide Oval,0,1,2011,12
+XJDoherty,Australia,Sri Lanka,0,0,0,0,0,61,10,39,0,0,3.9,Brisbane Cricket Ground Woolloongabba,0,2,2012,22
+XJDoherty,Australia,India,0,0,0,0,0,18,3,10,0,0,3.3333333333333335,Sydney Cricket Ground,0,0,2015,6
+XJDoherty,Australia,South Africa,10,20,0,0,50.0,59,9,43,1,0,4.777777777777778,St George's Park,0,0,2011,35
+XJDoherty,Australia,Sri Lanka,15,38,0,0,39.473684210526315,59,9,31,1,1,3.4444444444444446,Kennington Oval,0,0,2013,48
+XJDoherty,Australia,Sri Lanka,0,1,0,0,0.0,41,6,60,0,0,10.0,Sydney Cricket Ground,0,2,2015,6

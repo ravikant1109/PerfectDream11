@@ -1,33 +1,77 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CRErvine,Zimbabwe,Sri Lanka,10,13,0,1,76.92307692307693,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,12
-CRErvine,Zimbabwe,Pakistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Harare Sports Club,12
-CRErvine,Zimbabwe,New Zealand,42,46,4,0,91.30434782608695,0,0,0,0,0,0,Harare Sports Club,46
-CRErvine,Zimbabwe,Sri Lanka,10,13,0,1,76.92307692307693,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,12
-CRErvine,Zimbabwe,Pakistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Harare Sports Club,12
-CRErvine,Zimbabwe,New Zealand,42,46,4,0,91.30434782608695,0,0,0,0,0,0,Harare Sports Club,46
-CRErvine,Zimbabwe,Sri Lanka,10,13,0,1,76.92307692307693,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,12
-CRErvine,Zimbabwe,Pakistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Harare Sports Club,12
-CRErvine,Zimbabwe,New Zealand,42,46,4,0,91.30434782608695,0,0,0,0,0,0,Harare Sports Club,46
-CRErvine,Zimbabwe,Ireland,68,49,6,4,138.77551020408163,0,0,0,0,0,0,Bready,90
-CRErvine,Zimbabwe,Afghanistan,10,10,1,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,11
-CRErvine,Zimbabwe,South Africa,37,43,4,0,86.04651162790698,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,41
-CRErvine,Zimbabwe,Afghanistan,0,1,0,0,0.0,0,0,0,0,0,0,Queens Sports Club,-8
-CRErvine,Zimbabwe,Bangladesh,15,17,0,1,88.23529411764706,0,0,0,0,0,0,Shere Bangla National Stadium,17
-CRErvine,Zimbabwe,Bangladesh,20,32,2,0,62.5,0,0,0,0,0,0,Shere Bangla National Stadium,20
-CRErvine,Zimbabwe,Netherlands,29,29,2,1,100.0,0,0,0,0,0,0,Hazelaarweg,33
-CRErvine,Zimbabwe,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Harare Sports Club,-5
-CRErvine,Zimbabwe,Afghanistan,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Queens Sports Club,5
-CRErvine,Zimbabwe,India,30,42,2,0,71.42857142857143,0,0,0,0,0,0,Harare Sports Club,32
-CRErvine,Zimbabwe,West Indies,15,16,1,0,93.75,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,16
-CRErvine,Zimbabwe,India,2,8,0,0,25.0,0,0,0,0,0,0,Harare Sports Club,-4
-CRErvine,Zimbabwe,Netherlands,59,37,6,3,159.45945945945945,0,0,0,0,0,0,Hazelaarweg,79
-CRErvine,Zimbabwe,Ireland,55,33,6,3,166.66666666666669,0,0,0,0,0,0,Bready Cricket Club Magheramason,75
-CRErvine,Zimbabwe,Bangladesh,11,16,1,0,68.75,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,10
-CRErvine,Zimbabwe,India,7,12,1,0,58.333333333333336,0,0,0,0,0,0,Harare Sports Club,4
-CRErvine,Zimbabwe,West Indies,34,39,4,0,87.17948717948718,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,38
-CRErvine,Zimbabwe,New Zealand,1,5,0,0,20.0,0,0,0,0,0,0,Providence Stadium,-5
-CRErvine,Zimbabwe,Sri Lanka,10,13,0,1,76.92307692307693,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,12
-CRErvine,Zimbabwe,Pakistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Harare Sports Club,12
-CRErvine,Zimbabwe,New Zealand,42,46,4,0,91.30434782608695,0,0,0,0,0,0,Harare Sports Club,46
-CRErvine,Zimbabwe,Ireland,68,49,6,4,138.77551020408163,0,0,0,0,0,0,Bready,90
-CRErvine,Zimbabwe,Afghanistan,10,10,1,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,11
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CRErvine,Zimbabwe,Netherlands,29,29,2,1,100.0,0,0,0,0,0,0,Hazelaarweg,0,3,2019,57
+CRErvine,Zimbabwe,South Africa,37,43,4,0,86.04651162790698,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,41
+CRErvine,Zimbabwe,West Indies,15,16,1,0,93.75,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,2,2013,32
+CRErvine,Zimbabwe,Sri Lanka,10,13,0,1,76.92307692307693,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,12
+CRErvine,Zimbabwe,India,2,8,0,0,25.0,0,0,0,0,0,0,Harare Sports Club,0,0,2015,-4
+CRErvine,Zimbabwe,Ireland,68,49,6,4,138.77551020408163,0,0,0,0,0,0,Bready,0,0,2019,90
+CRErvine,Zimbabwe,West Indies,34,39,4,0,87.17948717948718,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2013,38
+CRErvine,Zimbabwe,Afghanistan,10,10,1,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,0,0,2019,11
+CRErvine,Zimbabwe,New Zealand,42,46,4,0,91.30434782608695,0,0,0,0,0,0,Harare Sports Club,0,2,2015,62
+CRErvine,Zimbabwe,Bangladesh,20,32,2,0,62.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2015,28
+CRErvine,Zimbabwe,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Harare Sports Club,0,0,2015,-5
+CRErvine,Zimbabwe,New Zealand,1,5,0,0,20.0,0,0,0,0,0,0,Providence Stadium,0,0,2010,-5
+CRErvine,Zimbabwe,India,30,42,2,0,71.42857142857143,0,0,0,0,0,0,Harare Sports Club,0,0,2010,32
+CRErvine,Zimbabwe,Bangladesh,15,17,0,1,88.23529411764706,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,17
+CRErvine,Zimbabwe,India,7,12,1,0,58.333333333333336,0,0,0,0,0,0,Harare Sports Club,0,0,2015,4
+CRErvine,Zimbabwe,Pakistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Harare Sports Club,0,1,2015,20
+CRErvine,Zimbabwe,Netherlands,59,37,6,3,159.45945945945945,0,0,0,0,0,0,Hazelaarweg,0,1,2019,87
+CRErvine,Zimbabwe,Ireland,55,33,6,3,166.66666666666669,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,0,2019,75
+CRErvine,Zimbabwe,Afghanistan,0,1,0,0,0.0,0,0,0,0,0,0,Queens Sports Club,0,1,2015,0
+CRErvine,Zimbabwe,Afghanistan,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Queens Sports Club,0,0,2015,5
+CRErvine,Zimbabwe,Bangladesh,11,16,1,0,68.75,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,0,0,2019,10
+CRErvine,Zimbabwe,Afghanistan,6,18,1,0,33.33333333333333,0,0,0,0,0,0,Sharjah Cricket Stadium,0,2,2015,17
+CRErvine,Zimbabwe,India,27,43,1,1,62.7906976744186,0,0,0,0,0,0,Eden Park,0,0,2015,28
+CRErvine,Zimbabwe,Pakistan,14,29,1,0,48.275862068965516,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2015,9
+CRErvine,Zimbabwe,India,67,62,5,0,108.06451612903226,0,0,0,0,0,0,Queens Sports Club,0,0,2010,80
+CRErvine,Zimbabwe,Sri Lanka,69,57,8,1,121.05263157894737,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,87
+CRErvine,Zimbabwe,Sri Lanka,22,41,2,0,53.65853658536586,0,0,0,0,0,0,Galle International Stadium,0,0,2017,20
+CRErvine,Zimbabwe,Bangladesh,41,61,2,0,67.21311475409836,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,41
+CRErvine,Zimbabwe,Afghanistan,1,5,0,0,20.0,0,0,0,0,0,0,Harare Sports Club,0,1,2017,3
+CRErvine,Zimbabwe,Sri Lanka,23,30,3,0,76.66666666666667,0,0,0,0,0,0,Queens Sports Club,0,0,2016,26
+CRErvine,Zimbabwe,Afghanistan,43,59,5,0,72.88135593220339,0,0,0,0,0,0,Queens Sports Club,0,1,2015,56
+CRErvine,Zimbabwe,Ireland,105,118,13,0,88.98305084745762,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,0,2019,134
+CRErvine,Zimbabwe,Scotland,0,3,0,0,0.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2017,-8
+CRErvine,Zimbabwe,New Zealand,32,32,3,1,100.0,0,0,0,0,0,0,Harare Sports Club,0,1,2015,45
+CRErvine,Zimbabwe,Ireland,8,10,2,0,80.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2019,10
+CRErvine,Zimbabwe,Bangladesh,46,102,1,0,45.09803921568628,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2010,41
+CRErvine,Zimbabwe,Bangladesh,18,13,1,1,138.46153846153845,0,0,0,0,0,0,Harare Sports Club,0,0,2011,21
+CRErvine,Zimbabwe,United Arab Emirates,42,32,2,2,131.25,0,0,0,0,0,0,Saxton Oval,0,2,2015,64
+CRErvine,Zimbabwe,Sri Lanka,17,21,2,0,80.95238095238095,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,19
+CRErvine,Zimbabwe,Bangladesh,26,45,3,0,57.77777777777777,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2015,41
+CRErvine,Zimbabwe,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,0,0,2016,-8
+CRErvine,Zimbabwe,New Zealand,130,111,11,5,117.11711711711712,0,0,0,0,0,0,Harare Sports Club,0,0,2015,167
+CRErvine,Zimbabwe,Sri Lanka,18,23,2,0,78.26086956521739,0,0,0,0,0,0,Galle International Stadium,0,1,2017,28
+CRErvine,Zimbabwe,Sri Lanka,16,25,1,0,64.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,15
+CRErvine,Zimbabwe,South Africa,24,35,3,0,68.57142857142857,0,0,0,0,0,0,Willowmoore Park,0,0,2010,25
+CRErvine,Zimbabwe,Sri Lanka,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,-4
+CRErvine,Zimbabwe,Netherlands,84,109,8,3,77.06422018348624,0,0,0,0,0,0,Sportpark Het Schootsveld,0,0,2019,106
+CRErvine,Zimbabwe,Afghanistan,34,52,1,0,65.38461538461539,0,0,0,0,0,0,Harare Sports Club,0,0,2017,33
+CRErvine,Zimbabwe,Kenya,66,56,9,1,117.85714285714286,0,0,0,0,0,0,Eden Gardens,0,0,2011,85
+CRErvine,Zimbabwe,Pakistan,52,82,5,0,63.41463414634146,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,63
+CRErvine,Zimbabwe,Bangladesh,8,30,0,0,26.666666666666668,0,0,0,0,0,0,Harare Sports Club,0,1,2011,10
+CRErvine,Zimbabwe,West Indies,7,22,0,0,31.818181818181817,0,0,0,0,0,0,Queens Sports Club,1,1,2016,21
+CRErvine,Zimbabwe,Ireland,11,16,1,0,68.75,0,0,0,0,0,0,Bellerive Oval,0,1,2015,18
+CRErvine,Zimbabwe,West Indies,92,103,6,0,89.32038834951457,0,0,0,0,0,0,Queens Sports Club,0,1,2016,114
+CRErvine,Zimbabwe,Bangladesh,42,41,3,0,102.4390243902439,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,45
+CRErvine,Zimbabwe,Afghanistan,0,1,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,0,0,2017,-8
+CRErvine,Zimbabwe,Bangladesh,2,13,0,0,15.384615384615385,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,-4
+CRErvine,Zimbabwe,Afghanistan,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Queens Sports Club,0,3,2015,19
+CRErvine,Zimbabwe,West Indies,41,54,4,1,75.92592592592592,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2013,55
+CRErvine,Zimbabwe,Ireland,60,78,5,0,76.92307692307693,0,0,0,0,0,0,Harare Sports Club,0,0,2015,73
+CRErvine,Zimbabwe,Ireland,101,128,9,2,78.90625,0,0,0,0,0,0,Harare Sports Club,0,1,2015,138
+CRErvine,Zimbabwe,West Indies,52,41,7,1,126.82926829268293,0,0,0,0,0,0,Manuka Oval,0,0,2015,69
+CRErvine,Zimbabwe,Afghanistan,38,56,2,0,67.85714285714286,0,0,0,0,0,0,Harare Sports Club,0,0,2017,38
+CRErvine,Zimbabwe,Sri Lanka,25,34,3,0,73.52941176470588,0,0,0,0,0,0,Queens Sports Club,0,0,2016,28
+CRErvine,Zimbabwe,Sri Lanka,7,20,0,0,35.0,0,0,0,0,0,0,Queens Sports Club,0,0,2010,1
+CRErvine,Zimbabwe,South Africa,13,21,0,1,61.904761904761905,0,0,0,0,0,0,Seddon Park,0,2,2015,29
+CRErvine,Zimbabwe,Ireland,43,52,7,0,82.6923076923077,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2019,58
+CRErvine,Zimbabwe,Bangladesh,5,8,1,0,62.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,4
+CRErvine,Zimbabwe,India,21,48,1,0,43.75,0,0,0,0,0,0,Harare Sports Club,0,0,2016,16
+CRErvine,Zimbabwe,New Zealand,11,25,2,0,44.0,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2011,7
+CRErvine,Zimbabwe,Afghanistan,73,98,7,1,74.48979591836735,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2015,98
+CRErvine,Zimbabwe,Afghanistan,4,5,0,0,80.0,0,0,0,0,0,0,Harare Sports Club,0,1,2017,12
+CRErvine,Zimbabwe,Canada,85,81,6,2,104.93827160493827,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,103
+CRErvine,Zimbabwe,South Africa,27,40,1,0,67.5,0,0,0,0,0,0,Senwes Park,0,0,2010,26
+CRErvine,Zimbabwe,Australia,0,6,0,0,0.0,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2011,-8
+CRErvine,Zimbabwe,New Zealand,12,28,2,0,42.857142857142854,0,0,0,0,0,0,Harare Sports Club,0,0,2015,8

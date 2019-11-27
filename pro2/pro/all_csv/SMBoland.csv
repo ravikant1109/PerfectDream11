@@ -1,8 +1,15 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,83
-SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,83
-SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,83
-SMBoland,Australia,India,0,0,0,0,0,19,3,34,0,0,11.333333333333334,Sydney Cricket Ground,-6
-SMBoland,Australia,India,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Melbourne Cricket Ground,-4
-SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,83
-SMBoland,Australia,India,0,0,0,0,0,19,3,34,0,0,11.333333333333334,Sydney Cricket Ground,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SMBoland,Australia,India,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Melbourne Cricket Ground,0,0,2016,-4
+SMBoland,Australia,Sri Lanka,0,0,0,0,0,25,4,27,3,1,6.75,Pallekele International Cricket Stadium,0,1,2016,91
+SMBoland,Australia,India,0,0,0,0,0,19,3,34,0,0,11.333333333333334,Sydney Cricket Ground,0,0,2016,-6
+SMBoland,Australia,South Africa,4,4,0,0,100.0,60,10,72,2,0,7.2,Newlands,0,0,2016,54
+SMBoland,Australia,South Africa,3,3,0,0,100.0,41,6,67,3,0,11.166666666666666,SuperSport Park,0,0,2016,72
+SMBoland,Australia,India,0,0,0,0,0,54,9,65,0,0,7.222222222222222,Melbourne Cricket Ground,0,0,2016,0
+SMBoland,Australia,South Africa,0,3,0,0,0.0,60,10,36,0,2,3.6,St George's Park,0,0,2016,14
+SMBoland,Australia,West Indies,0,0,0,0,0,62,10,69,2,0,6.9,Kensington Oval Bridgetown,0,0,2016,50
+SMBoland,Australia,New Zealand,0,0,0,0,0,59,9,61,2,0,6.777777777777778,Westpac Stadium,0,0,2016,50
+SMBoland,Australia,Sri Lanka,0,0,0,0,0,37,6,28,1,0,4.666666666666667,Pallekele International Cricket Stadium,0,0,2016,29
+SMBoland,Australia,India,0,0,0,0,0,59,9,76,0,0,8.444444444444445,Western Australia Cricket Association Ground,0,1,2016,8
+SMBoland,Australia,Sri Lanka,0,0,0,0,0,61,10,36,1,2,3.6,Rangiri Dambulla International Stadium,0,0,2016,47
+SMBoland,Australia,Ireland,0,0,0,0,0,50,8,42,2,1,5.25,Willowmoore Park,0,0,2016,60
+SMBoland,Australia,India,0,0,0,0,0,59,9,58,0,0,6.444444444444445,Sydney Cricket Ground,0,0,2016,0

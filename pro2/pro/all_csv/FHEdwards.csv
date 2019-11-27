@@ -1,33 +1,54 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,12,2,24,0,0,12.0,Pallekele International Cricket Stadium,-6
-FHEdwards,West Indies,India,0,0,0,0,0,25,4,24,3,0,6.0,Lord's,75
-FHEdwards,West Indies,Ireland,0,0,0,0,0,17,2,23,1,0,11.5,R Premadasa Stadium,19
-FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,12,2,24,0,0,12.0,Pallekele International Cricket Stadium,-6
-FHEdwards,West Indies,India,0,0,0,0,0,25,4,24,3,0,6.0,Lord's,75
-FHEdwards,West Indies,Ireland,0,0,0,0,0,17,2,23,1,0,11.5,R Premadasa Stadium,19
-FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,12,2,24,0,0,12.0,Pallekele International Cricket Stadium,-6
-FHEdwards,West Indies,India,0,0,0,0,0,25,4,24,3,0,6.0,Lord's,75
-FHEdwards,West Indies,Ireland,0,0,0,0,0,17,2,23,1,0,11.5,R Premadasa Stadium,19
-FHEdwards,West Indies,Bangladesh,0,0,0,0,0,19,3,35,0,0,11.666666666666666,New Wanderers Stadium,-6
-FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,11,1,37,0,0,37.0,Trent Bridge,0
-FHEdwards,West Indies,New Zealand,0,0,0,0,0,12,2,31,0,0,15.5,Seddon Park,-6
-FHEdwards,West Indies,South Africa,0,0,0,0,0,20,3,24,0,0,8.0,New Wanderers Stadium,0
-FHEdwards,West Indies,South Africa,0,0,0,0,0,21,3,14,1,0,4.666666666666667,St George's Park,29
-FHEdwards,West Indies,England,0,0,0,0,0,25,4,34,0,0,8.5,Trent Bridge,0
-FHEdwards,West Indies,England,7,4,0,0,175.0,14,2,25,0,0,12.5,Kennington Oval,1
-FHEdwards,West Indies,England,0,0,0,0,0,18,3,18,1,0,6.0,Queen's Park Oval Port of Spain,25
-FHEdwards,West Indies,Australia,0,0,0,0,0,11,1,13,0,0,13.0,Kensington Oval Bridgetown,0
-FHEdwards,West Indies,New Zealand,0,0,0,0,0,21,3,29,1,0,9.666666666666666,Central Broward Regional Park Stadium Turf Ground,23
-FHEdwards,West Indies,South Africa,2,2,0,0,100.0,25,4,34,1,0,8.5,Kennington Oval,27
-FHEdwards,West Indies,New Zealand,0,0,0,0,0,17,2,20,0,0,10.0,Central Broward Regional Park Stadium Turf Ground,-2
-FHEdwards,West Indies,Australia,0,0,0,0,0,25,4,34,2,0,8.5,Kennington Oval,50
-FHEdwards,West Indies,Australia,0,1,0,0,0.0,25,4,23,3,0,5.75,Kensington Oval Bridgetown,69
-FHEdwards,West Indies,Australia,0,0,0,0,0,12,2,16,1,0,8.0,R Premadasa Stadium,25
-FHEdwards,West Indies,New Zealand,1,2,0,0,50.0,17,2,28,1,0,14.0,Eden Park,16
-FHEdwards,West Indies,South Africa,0,0,0,0,0,21,3,21,1,0,7.0,New Wanderers Stadium,25
-FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,12,2,24,0,0,12.0,Pallekele International Cricket Stadium,-6
-FHEdwards,West Indies,India,0,0,0,0,0,25,4,24,3,0,6.0,Lord's,75
-FHEdwards,West Indies,Ireland,0,0,0,0,0,17,2,23,1,0,11.5,R Premadasa Stadium,19
-FHEdwards,West Indies,Bangladesh,0,0,0,0,0,19,3,35,0,0,11.666666666666666,New Wanderers Stadium,-6
-FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,11,1,37,0,0,37.0,Trent Bridge,0
-FHEdwards,West Indies,New Zealand,0,0,0,0,0,12,2,31,0,0,15.5,Seddon Park,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+FHEdwards,West Indies,Bangladesh,0,0,0,0,0,19,3,35,0,0,11.666666666666666,New Wanderers Stadium,0,0,2007,-6
+FHEdwards,West Indies,New Zealand,0,0,0,0,0,21,3,29,1,0,9.666666666666666,Central Broward Regional Park Stadium Turf Ground,0,1,2012,31
+FHEdwards,West Indies,England,0,0,0,0,0,18,3,18,1,0,6.0,Queen's Park Oval Port of Spain,0,0,2009,25
+FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,12,2,24,0,0,12.0,Pallekele International Cricket Stadium,0,0,2012,-6
+FHEdwards,West Indies,South Africa,0,0,0,0,0,20,3,24,0,0,8.0,New Wanderers Stadium,0,0,2008,0
+FHEdwards,West Indies,New Zealand,0,0,0,0,0,12,2,31,0,0,15.5,Seddon Park,0,0,2008,-6
+FHEdwards,West Indies,Australia,0,0,0,0,0,12,2,16,1,0,8.0,R Premadasa Stadium,0,0,2012,25
+FHEdwards,West Indies,New Zealand,1,2,0,0,50.0,17,2,28,1,0,14.0,Eden Park,0,1,2008,24
+FHEdwards,West Indies,England,0,0,0,0,0,25,4,34,0,0,8.5,Trent Bridge,0,1,2012,8
+FHEdwards,West Indies,Ireland,0,0,0,0,0,17,2,23,1,0,11.5,R Premadasa Stadium,0,0,2012,19
+FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,11,1,37,0,0,37.0,Trent Bridge,0,0,2009,0
+FHEdwards,West Indies,South Africa,0,0,0,0,0,21,3,14,1,0,4.666666666666667,St George's Park,0,0,2007,29
+FHEdwards,West Indies,England,7,4,0,0,175.0,14,2,25,0,0,12.5,Kennington Oval,0,0,2011,1
+FHEdwards,West Indies,Australia,0,0,0,0,0,11,1,13,0,0,13.0,Kensington Oval Bridgetown,0,0,2008,0
+FHEdwards,West Indies,New Zealand,0,0,0,0,0,17,2,20,0,0,10.0,Central Broward Regional Park Stadium Turf Ground,0,1,2012,6
+FHEdwards,West Indies,Australia,0,1,0,0,0.0,25,4,23,3,0,5.75,Kensington Oval Bridgetown,0,0,2012,69
+FHEdwards,West Indies,India,0,0,0,0,0,25,4,24,3,0,6.0,Lord's,0,0,2009,75
+FHEdwards,West Indies,South Africa,0,0,0,0,0,21,3,21,1,0,7.0,New Wanderers Stadium,0,0,2007,25
+FHEdwards,West Indies,South Africa,2,2,0,0,100.0,25,4,34,1,0,8.5,Kennington Oval,0,0,2009,27
+FHEdwards,West Indies,Australia,0,0,0,0,0,25,4,34,2,0,8.5,Kennington Oval,0,0,2009,50
+FHEdwards,West Indies,Australia,0,0,0,0,0,62,10,53,2,0,5.3,Warner Park Basseterre,0,0,2008,52
+FHEdwards,West Indies,India,1,1,0,0,100.0,45,7,19,1,3,2.7142857142857144,Sabina Park Kingston,0,0,2006,56
+FHEdwards,West Indies,New Zealand,0,0,0,0,0,66,11,51,0,2,4.636363636363637,Jade Stadium,0,0,2006,20
+FHEdwards,West Indies,Australia,0,1,0,0,0.0,56,9,86,3,0,9.555555555555555,Warner Park Basseterre,0,0,2008,65
+FHEdwards,West Indies,Australia,7,9,1,0,77.77777777777779,38,6,35,1,0,5.833333333333333,National Cricket Stadium St George's,0,0,2008,35
+FHEdwards,West Indies,South Africa,0,0,0,0,0,43,7,29,1,0,4.142857142857143,SuperSport Park,0,0,2008,29
+FHEdwards,West Indies,Zimbabwe,0,0,0,0,0,28,4,17,1,1,4.25,Queen's Park Oval Port of Spain,0,0,2006,37
+FHEdwards,West Indies,India,0,0,0,0,0,48,8,21,1,1,2.625,Queen's Park Oval Port of Spain,0,0,2006,39
+FHEdwards,West Indies,India,0,0,0,0,0,58,9,50,0,0,5.555555555555555,Warner Park Basseterre,1,0,2006,14
+FHEdwards,West Indies,England,2,10,0,0,20.0,63,10,45,5,0,4.5,Lord's,0,0,2007,141
+FHEdwards,West Indies,England,2,3,0,0,66.66666666666666,12,2,17,0,0,8.5,Beausejour Stadium Gros Islet,0,0,2009,0
+FHEdwards,West Indies,England,0,0,0,0,0,53,8,36,3,1,4.5,Kensington Oval Bridgetown,0,1,2009,95
+FHEdwards,West Indies,New Zealand,0,0,0,0,0,59,9,24,0,5,2.6666666666666665,McLean Park,0,0,2006,46
+FHEdwards,West Indies,England,0,0,0,0,0,46,7,57,0,0,8.142857142857142,Sardar Patel Stadium Motera,0,0,2006,0
+FHEdwards,West Indies,Zimbabwe,2,2,0,0,100.0,51,8,42,1,0,5.25,Antigua Recreation Ground St John's,0,1,2006,37
+FHEdwards,West Indies,England,3,4,0,0,75.0,37,6,35,1,1,5.833333333333333,Providence Stadium,0,0,2009,38
+FHEdwards,West Indies,New Zealand,0,0,0,0,0,61,10,53,2,0,5.3,Eden Park,0,0,2006,52
+FHEdwards,West Indies,England,0,0,0,0,0,32,5,23,0,0,4.6,Providence Stadium,0,0,2009,4
+FHEdwards,West Indies,Sri Lanka,0,0,0,0,0,30,5,34,0,0,6.8,Queen's Park Oval Port of Spain,0,0,2008,0
+FHEdwards,West Indies,New Zealand,13,27,1,0,48.148148148148145,44,7,53,0,0,7.571428571428571,Westpac Stadium,0,0,2009,8
+FHEdwards,West Indies,Sri Lanka,4,14,0,0,28.57142857142857,25,4,17,1,0,4.25,Brabourne Stadium,0,0,2006,27
+FHEdwards,West Indies,England,0,0,0,0,0,63,10,31,3,2,3.1,Trent Bridge,0,0,2007,97
+FHEdwards,West Indies,India,0,0,0,0,0,40,6,44,0,0,7.333333333333333,Kinrara Academy Oval,0,0,2006,0
+FHEdwards,West Indies,Ireland,0,0,0,0,0,13,2,8,1,0,4.0,Clontarf Cricket Club Ground,0,0,2007,29
+FHEdwards,West Indies,South Africa,0,0,0,0,0,54,9,60,1,0,6.666666666666667,St George's Park,0,0,2008,25
+FHEdwards,West Indies,England,0,7,0,0,0.0,19,3,24,0,0,8.0,Kensington Oval Bridgetown,0,0,2009,-8
+FHEdwards,West Indies,Zimbabwe,0,0,0,0,0,55,9,23,0,3,2.5555555555555554,Antigua Recreation Ground St John's,0,1,2006,38
+FHEdwards,West Indies,England,4,8,0,0,50.0,36,6,43,0,0,7.166666666666667,Edgbaston,0,0,2009,0
+FHEdwards,West Indies,South Africa,8,12,0,0,66.66666666666666,62,10,56,1,1,5.6,Newlands,0,0,2008,41
+FHEdwards,West Indies,Australia,1,2,0,0,50.0,17,2,23,0,0,11.5,Arnos Vale Ground Kingstown,0,0,2008,-9
+FHEdwards,West Indies,Sri Lanka,2,3,0,0,66.66666666666666,67,11,62,2,0,5.636363636363637,Queen's Park Oval Port of Spain,0,0,2008,52
+FHEdwards,West Indies,South Africa,12,15,2,0,80.0,29,4,39,1,0,9.75,Kingsmead,0,0,2008,37
+FHEdwards,West Indies,New Zealand,2,6,0,0,33.33333333333333,63,10,45,2,1,4.5,Queenstown Events Centre,0,0,2006,58

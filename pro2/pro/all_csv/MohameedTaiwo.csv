@@ -1,3 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MohameedTaiwo,Nigeria,Botswana,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Lugogo Cricket Oval,27
-MohameedTaiwo,Nigeria,Ghana,0,0,0,0,0,24,4,26,1,0,6.5,Kyambogo Cricket Oval,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MohameedTaiwo,Nigeria,Ghana,0,0,0,0,0,24,4,26,1,0,6.5,Kyambogo Cricket Oval,0,0,2019,25
+MohameedTaiwo,Nigeria,Botswana,0,0,0,0,0,23,3,16,1,0,5.333333333333333,Lugogo Cricket Oval,0,0,2019,27

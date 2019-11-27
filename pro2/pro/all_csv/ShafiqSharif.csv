@@ -1,25 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ShafiqSharif,Malaysia,Maldives,43,31,4,1,138.70967741935485,0,0,0,0,0,0,Kinrara Academy Oval,49
-ShafiqSharif,Malaysia,Nepal,0,1,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
-ShafiqSharif,Malaysia,Kuwait,38,27,6,0,140.74074074074073,0,0,0,0,0,0,Indian Association Ground,44
-ShafiqSharif,Malaysia,Singapore,12,14,2,0,85.71428571428571,0,0,0,0,0,0,Indian Association Ground,14
-ShafiqSharif,Malaysia,Maldives,43,31,4,1,138.70967741935485,0,0,0,0,0,0,Kinrara Academy Oval,49
-ShafiqSharif,Malaysia,Nepal,0,1,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
-ShafiqSharif,Malaysia,Kuwait,38,27,6,0,140.74074074074073,0,0,0,0,0,0,Indian Association Ground,44
-ShafiqSharif,Malaysia,Singapore,12,14,2,0,85.71428571428571,0,0,0,0,0,0,Indian Association Ground,14
-ShafiqSharif,Malaysia,Maldives,43,31,4,1,138.70967741935485,0,0,0,0,0,0,Kinrara Academy Oval,49
-ShafiqSharif,Malaysia,Nepal,0,1,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
-ShafiqSharif,Malaysia,Kuwait,38,27,6,0,140.74074074074073,0,0,0,0,0,0,Indian Association Ground,44
-ShafiqSharif,Malaysia,Singapore,12,14,2,0,85.71428571428571,0,0,0,0,0,0,Indian Association Ground,14
-ShafiqSharif,Malaysia,Nepal,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kinrara Academy Oval,-4
-ShafiqSharif,Malaysia,Nepal,10,9,2,0,111.11111111111111,0,0,0,0,0,0,Kinrara Academy Oval,12
-ShafiqSharif,Malaysia,Thailand,0,2,0,0,0.0,0,0,0,0,0,0,Kinrara Academy Oval,-8
-ShafiqSharif,Malaysia,Thailand,31,29,4,1,106.89655172413792,0,0,0,0,0,0,Kinrara Academy Oval,37
-ShafiqSharif,Malaysia,Qatar,36,21,4,1,171.42857142857142,0,0,0,0,0,0,Indian Association Ground,42
-ShafiqSharif,Malaysia,Maldives,43,31,4,1,138.70967741935485,0,0,0,0,0,0,Kinrara Academy Oval,49
-ShafiqSharif,Malaysia,Nepal,0,1,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
-ShafiqSharif,Malaysia,Kuwait,38,27,6,0,140.74074074074073,0,0,0,0,0,0,Indian Association Ground,44
-ShafiqSharif,Malaysia,Singapore,12,14,2,0,85.71428571428571,0,0,0,0,0,0,Indian Association Ground,14
-ShafiqSharif,Malaysia,Nepal,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kinrara Academy Oval,-4
-ShafiqSharif,Malaysia,Nepal,10,9,2,0,111.11111111111111,0,0,0,0,0,0,Kinrara Academy Oval,12
-ShafiqSharif,Malaysia,Thailand,0,2,0,0,0.0,0,0,0,0,0,0,Kinrara Academy Oval,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ShafiqSharif,Malaysia,Thailand,0,2,0,0,0.0,0,0,0,0,0,0,Kinrara Academy Oval,0,2,2019,8
+ShafiqSharif,Malaysia,Maldives,43,31,4,1,138.70967741935485,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,49
+ShafiqSharif,Malaysia,Nepal,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,-4
+ShafiqSharif,Malaysia,Thailand,31,29,4,1,106.89655172413792,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,37
+ShafiqSharif,Malaysia,Singapore,12,14,2,0,85.71428571428571,0,0,0,0,0,0,Indian Association Ground,0,0,2019,14
+ShafiqSharif,Malaysia,Kuwait,38,27,6,0,140.74074074074073,0,0,0,0,0,0,Indian Association Ground,0,0,2019,44
+ShafiqSharif,Malaysia,Nepal,0,1,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,-8
+ShafiqSharif,Malaysia,Nepal,10,9,2,0,111.11111111111111,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,12
+ShafiqSharif,Malaysia,Qatar,36,21,4,1,171.42857142857142,0,0,0,0,0,0,Indian Association Ground,0,0,2019,42

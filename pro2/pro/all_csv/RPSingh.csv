@@ -1,23 +1,54 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RPSingh,India,Australia,0,0,0,0,0,25,4,34,0,0,8.5,Kingsmead,0
-RPSingh,India,Pakistan,0,0,0,0,0,24,4,30,3,0,7.5,New Wanderers Stadium,75
-RPSingh,India,Pakistan,0,0,0,0,0,26,4,24,1,0,6.0,Kingsmead,25
-RPSingh,India,South Africa,0,0,0,0,0,26,4,15,4,0,3.75,Kingsmead,114
-RPSingh,India,Australia,0,0,0,0,0,25,4,34,0,0,8.5,Kingsmead,0
-RPSingh,India,Pakistan,0,0,0,0,0,24,4,30,3,0,7.5,New Wanderers Stadium,75
-RPSingh,India,Pakistan,0,0,0,0,0,26,4,24,1,0,6.0,Kingsmead,25
-RPSingh,India,South Africa,0,0,0,0,0,26,4,15,4,0,3.75,Kingsmead,114
-RPSingh,India,Australia,0,0,0,0,0,25,4,34,0,0,8.5,Kingsmead,0
-RPSingh,India,Pakistan,0,0,0,0,0,24,4,30,3,0,7.5,New Wanderers Stadium,75
-RPSingh,India,Pakistan,0,0,0,0,0,26,4,24,1,0,6.0,Kingsmead,25
-RPSingh,India,South Africa,0,0,0,0,0,26,4,15,4,0,3.75,Kingsmead,114
-RPSingh,India,South Africa,2,2,0,0,100.0,11,1,21,1,0,21.0,Trent Bridge,27
-RPSingh,India,New Zealand,1,1,0,0,100.0,25,4,32,2,0,8.0,New Wanderers Stadium,51
-RPSingh,India,England,0,0,0,0,0,24,4,29,2,0,7.25,Kingsmead,50
-RPSingh,India,Australia,0,0,0,0,0,24,4,39,1,0,9.75,Brabourne Stadium,23
-RPSingh,India,England,0,0,0,0,0,17,2,13,1,0,6.5,Lord's,25
-RPSingh,India,Australia,0,0,0,0,0,25,4,34,0,0,8.5,Kingsmead,0
-RPSingh,India,Pakistan,0,0,0,0,0,24,4,30,3,0,7.5,New Wanderers Stadium,75
-RPSingh,India,Pakistan,0,0,0,0,0,26,4,24,1,0,6.0,Kingsmead,25
-RPSingh,India,South Africa,0,0,0,0,0,26,4,15,4,0,3.75,Kingsmead,114
-RPSingh,India,South Africa,2,2,0,0,100.0,11,1,21,1,0,21.0,Trent Bridge,27
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RPSingh,India,South Africa,0,0,0,0,0,26,4,15,4,0,3.75,Kingsmead,0,0,2007,114
+RPSingh,India,South Africa,2,2,0,0,100.0,11,1,21,1,0,21.0,Trent Bridge,0,1,2009,35
+RPSingh,India,Australia,0,0,0,0,0,25,4,34,0,0,8.5,Kingsmead,0,0,2007,0
+RPSingh,India,Australia,0,0,0,0,0,24,4,39,1,0,9.75,Brabourne Stadium,0,0,2007,23
+RPSingh,India,Pakistan,0,0,0,0,0,26,4,24,1,0,6.0,Kingsmead,0,0,2007,25
+RPSingh,India,New Zealand,1,1,0,0,100.0,25,4,32,2,0,8.0,New Wanderers Stadium,0,1,2007,59
+RPSingh,India,England,0,0,0,0,0,17,2,13,1,0,6.5,Lord's,0,0,2009,25
+RPSingh,India,England,0,0,0,0,0,24,4,29,2,0,7.25,Kingsmead,0,0,2007,50
+RPSingh,India,Pakistan,0,0,0,0,0,24,4,30,3,0,7.5,New Wanderers Stadium,0,0,2007,75
+RPSingh,India,South Africa,0,0,0,0,0,38,6,23,1,2,3.8333333333333335,Civil Service Cricket Club Stormont,1,0,2007,59
+RPSingh,India,Australia,0,0,0,0,0,68,11,66,2,1,6.0,Sector 16 Stadium,1,0,2007,70
+RPSingh,India,England,0,0,0,0,0,55,9,62,3,0,6.888888888888889,Lord's,0,0,2011,75
+RPSingh,India,Pakistan,0,0,0,0,0,48,8,62,3,1,7.75,Green Park,1,0,2007,95
+RPSingh,India,England,7,20,0,0,35.0,49,8,53,0,1,6.625,Keenan Stadium,0,0,2006,9
+RPSingh,India,Australia,0,0,0,0,0,41,6,36,1,3,6.0,Kinrara Academy Oval,0,1,2006,57
+RPSingh,India,West Indies,0,1,0,0,0.0,24,4,29,0,0,7.25,Sardar Patel Stadium Motera,0,1,2006,0
+RPSingh,India,Pakistan,0,0,0,0,0,63,10,53,3,0,5.3,Gaddafi Stadium,1,0,2006,89
+RPSingh,India,England,4,5,0,0,80.0,33,5,49,0,0,9.8,Maharani Usharaje Trust Cricket Ground,0,0,2008,2
+RPSingh,India,Pakistan,0,0,0,0,0,60,10,45,2,2,4.5,National Stadium,1,0,2008,82
+RPSingh,India,Sri Lanka,0,0,0,0,0,59,9,50,1,1,5.555555555555555,National Stadium,1,1,2008,55
+RPSingh,India,Pakistan,0,0,0,0,0,59,9,53,1,1,5.888888888888889,Captain Roop Singh Stadium,0,0,2007,35
+RPSingh,India,West Indies,0,0,0,0,0,29,4,37,0,0,9.25,Beausejour Stadium Gros Islet,0,0,2009,-2
+RPSingh,India,England,2,3,0,0,66.66666666666666,23,3,33,0,0,11.0,Feroz Shah Kotla,0,0,2006,-4
+RPSingh,India,Australia,4,12,0,0,33.33333333333333,57,9,44,2,1,4.888888888888889,Kinrara Academy Oval,2,0,2006,84
+RPSingh,India,Sri Lanka,4,13,0,0,30.76923076923077,50,8,54,1,1,6.75,R Premadasa Stadium,0,1,2008,39
+RPSingh,India,West Indies,23,76,1,1,30.263157894736842,17,2,15,0,0,7.5,Sabina Park Kingston,0,0,2009,20
+RPSingh,India,Hong Kong,0,0,0,0,0,23,3,19,1,0,6.333333333333333,National Stadium,1,0,2008,37
+RPSingh,India,Sri Lanka,19,25,2,0,76.0,48,8,59,0,0,7.375,R Premadasa Stadium,1,0,2009,33
+RPSingh,India,England,0,4,0,0,0.0,60,10,50,1,0,5.0,The Rose Bowl,0,0,2007,19
+RPSingh,India,Bangladesh,0,0,0,0,0,65,10,66,1,1,6.6,National Stadium,0,0,2008,33
+RPSingh,India,New Zealand,0,0,0,0,0,48,8,23,2,1,2.875,R Premadasa Stadium,0,0,2009,64
+RPSingh,India,Pakistan,2,6,0,0,33.33333333333333,55,9,60,1,1,6.666666666666667,SuperSport Park,0,0,2009,29
+RPSingh,India,England,0,2,0,0,0.0,36,6,22,0,0,3.6666666666666665,Old Trafford,1,0,2007,10
+RPSingh,India,Pakistan,0,0,0,0,0,60,10,51,1,0,5.1,National Stadium,0,1,2006,35
+RPSingh,India,England,1,6,0,0,16.666666666666664,45,7,40,2,0,5.714285714285714,Lord's,0,0,2007,47
+RPSingh,India,Pakistan,0,0,0,0,0,48,8,43,0,0,5.375,Nehru Stadium,0,0,2007,2
+RPSingh,India,Pakistan,1,1,0,0,100.0,66,11,63,2,0,5.7272727272727275,Punjab Cricket Association Stadium Mohali,0,0,2007,53
+RPSingh,India,Sri Lanka,0,1,0,0,0.0,54,9,67,3,1,7.444444444444445,National Stadium,0,0,2008,75
+RPSingh,India,Australia,12,27,1,0,44.44444444444444,12,2,15,1,0,7.5,Reliance Stadium,0,0,2007,32
+RPSingh,India,Pakistan,0,0,0,0,0,69,11,40,4,0,3.6363636363636362,Multan Cricket Stadium,0,0,2006,114
+RPSingh,India,Bangladesh,0,0,0,0,0,64,10,46,3,1,4.6,Shere Bangla National Stadium,0,0,2008,87
+RPSingh,India,South Africa,0,0,0,0,0,53,8,46,1,0,5.75,Civil Service Cricket Club Stormont,0,0,2007,27
+RPSingh,India,England,0,0,0,0,0,62,10,56,1,0,5.6,County Ground,0,0,2007,27
+RPSingh,India,England,0,0,0,0,0,42,7,51,1,0,7.285714285714286,Sophia Gardens,0,1,2011,33
+RPSingh,India,West Indies,0,0,0,0,0,25,4,42,1,0,10.5,Kinrara Academy Oval,0,0,2006,21
+RPSingh,India,Ireland,0,0,0,0,0,66,11,37,2,2,3.3636363636363638,Civil Service Cricket Club Stormont,0,1,2007,80
+RPSingh,India,Australia,0,0,0,0,0,61,10,67,0,0,6.7,M Chinnaswamy Stadium,0,0,2007,0
+RPSingh,India,England,12,16,0,0,75.0,55,9,59,3,1,6.555555555555555,Edgbaston,0,0,2007,95
+RPSingh,India,England,0,0,0,0,0,25,4,25,1,0,6.25,Madhavrao Scindia Cricket Ground,0,0,2008,25
+RPSingh,India,South Africa,0,0,0,0,0,35,5,17,0,2,3.4,Civil Service Cricket Club Stormont,0,0,2007,22
+RPSingh,India,Australia,0,0,0,0,0,59,9,59,2,2,6.555555555555555,Wankhede Stadium,0,1,2007,74
+RPSingh,India,West Indies,2,16,0,0,12.5,31,5,27,1,0,5.4,Kinrara Academy Oval,0,0,2006,23
+RPSingh,India,West Indies,0,0,0,0,0,45,7,44,1,0,6.285714285714286,Sabina Park Kingston,1,1,2009,45

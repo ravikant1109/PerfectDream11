@@ -1,6 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RJMGMRupasinghe,Sri Lanka,New Zealand,15,21,1,0,71.42857142857143,0,0,0,0,0,0,R Premadasa Stadium,16
-RJMGMRupasinghe,Sri Lanka,New Zealand,15,21,1,0,71.42857142857143,0,0,0,0,0,0,R Premadasa Stadium,16
-RJMGMRupasinghe,Sri Lanka,New Zealand,15,21,1,0,71.42857142857143,0,0,0,0,0,0,R Premadasa Stadium,16
-RJMGMRupasinghe,Sri Lanka,New Zealand,18,18,1,0,100.0,0,0,0,0,0,0,R Premadasa Stadium,19
-RJMGMRupasinghe,Sri Lanka,New Zealand,15,21,1,0,71.42857142857143,0,0,0,0,0,0,R Premadasa Stadium,16
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RJMGMRupasinghe,Sri Lanka,New Zealand,18,18,1,0,100.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2009,27
+RJMGMRupasinghe,Sri Lanka,New Zealand,15,21,1,0,71.42857142857143,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,16

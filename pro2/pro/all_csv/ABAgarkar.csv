@@ -1,7 +1,37 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ABAgarkar,India,Pakistan,14,9,2,0,155.55555555555557,23,3,35,1,0,11.666666666666666,Kingsmead,35
-ABAgarkar,India,Pakistan,14,9,2,0,155.55555555555557,23,3,35,1,0,11.666666666666666,Kingsmead,35
-ABAgarkar,India,Pakistan,14,9,2,0,155.55555555555557,23,3,35,1,0,11.666666666666666,Kingsmead,35
-ABAgarkar,India,New Zealand,1,2,0,0,50.0,23,3,40,0,0,13.333333333333334,New Wanderers Stadium,-9
-ABAgarkar,India,South Africa,0,0,0,0,0,14,2,10,2,1,5.0,New Wanderers Stadium,60
-ABAgarkar,India,Pakistan,14,9,2,0,155.55555555555557,23,3,35,1,0,11.666666666666666,Kingsmead,35
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ABAgarkar,India,South Africa,0,0,0,0,0,14,2,10,2,1,5.0,New Wanderers Stadium,0,0,2006,60
+ABAgarkar,India,Pakistan,14,9,2,0,155.55555555555557,23,3,35,1,0,11.666666666666666,Kingsmead,0,0,2007,35
+ABAgarkar,India,New Zealand,1,2,0,0,50.0,23,3,40,0,0,13.333333333333334,New Wanderers Stadium,0,0,2007,-9
+ABAgarkar,India,West Indies,2,4,0,0,50.0,60,10,26,2,2,2.6,Sabina Park Kingston,0,0,2006,70
+ABAgarkar,India,Bangladesh,0,2,0,0,0.0,61,10,41,0,0,4.1,Queen's Park Oval Port of Spain,0,0,2007,-4
+ABAgarkar,India,South Africa,6,15,1,0,40.0,29,4,33,0,0,8.25,St George's Park,0,0,2006,1
+ABAgarkar,India,Australia,0,0,0,0,0,50,8,50,2,0,6.25,Kinrara Academy Oval,0,0,2006,50
+ABAgarkar,India,West Indies,1,2,0,0,50.0,62,10,52,2,1,5.2,Sardar Patel Stadium Motera,0,0,2006,57
+ABAgarkar,India,West Indies,21,34,0,0,61.76470588235294,63,10,46,2,1,4.6,Queen's Park Oval Port of Spain,1,0,2006,93
+ABAgarkar,India,Pakistan,0,0,0,0,0,36,6,21,0,1,3.5,Gaddafi Stadium,0,0,2006,14
+ABAgarkar,India,West Indies,0,0,0,0,0,55,9,41,2,0,4.555555555555555,Indian Petrochemicals Corporation Limited Sports Complex Ground,0,0,2007,54
+ABAgarkar,India,Sri Lanka,0,0,0,0,0,62,10,52,2,1,5.2,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,0,0,2007,60
+ABAgarkar,India,West Indies,2,10,0,0,20.0,67,11,48,3,1,4.363636363636363,MA Chidambaram Stadium Chepauk,0,0,2007,83
+ABAgarkar,India,South Africa,6,16,1,0,37.5,53,8,47,2,2,5.875,Kingsmead,1,0,2006,81
+ABAgarkar,India,England,0,0,0,0,0,46,7,34,2,0,4.857142857142857,Nehru Stadium Fatorda,0,0,2006,54
+ABAgarkar,India,Australia,9,13,0,0,69.23076923076923,53,8,45,2,0,5.625,Kinrara Academy Oval,0,1,2006,67
+ABAgarkar,India,West Indies,0,4,0,0,0.0,48,8,28,1,1,3.5,Queen's Park Oval Port of Spain,0,1,2006,39
+ABAgarkar,India,West Indies,8,21,0,0,38.095238095238095,60,10,36,2,1,3.6,Warner Park Basseterre,0,0,2006,66
+ABAgarkar,India,Sri Lanka,0,0,0,0,0,63,10,41,0,2,4.1,Nehru Stadium Fatorda,0,1,2007,28
+ABAgarkar,India,England,11,30,1,0,36.666666666666664,59,9,66,0,1,7.333333333333333,The Rose Bowl,0,0,2007,14
+ABAgarkar,India,Bermuda,0,0,0,0,0,62,10,39,3,1,3.9,Queen's Park Oval Port of Spain,0,0,2007,89
+ABAgarkar,India,South Africa,6,9,1,0,66.66666666666666,54,9,71,1,1,7.888888888888889,Newlands,0,0,2006,38
+ABAgarkar,India,England,6,5,1,0,120.0,63,10,65,4,0,6.5,Old Trafford,0,0,2007,115
+ABAgarkar,India,England,0,0,0,0,0,43,7,58,2,0,8.285714285714286,Headingley,0,0,2007,50
+ABAgarkar,India,Pakistan,0,0,0,0,0,63,10,60,1,1,6.0,National Stadium,0,0,2006,33
+ABAgarkar,India,Pakistan,0,0,0,0,0,42,7,38,1,0,5.428571428571429,Multan Cricket Stadium,0,1,2006,35
+ABAgarkar,India,England,0,0,0,0,0,30,5,34,0,0,6.8,Sawai Mansingh Stadium,0,0,2006,0
+ABAgarkar,India,England,1,3,0,0,33.33333333333333,57,9,69,0,1,7.666666666666667,County Ground,0,2,2007,19
+ABAgarkar,India,Pakistan,3,6,0,0,50.0,54,9,58,2,0,6.444444444444445,Arbab Niaz Stadium,0,0,2006,49
+ABAgarkar,India,West Indies,0,0,0,0,0,32,5,28,0,0,5.6,Kinrara Academy Oval,0,0,2006,2
+ABAgarkar,India,Sri Lanka,10,25,0,0,40.0,50,8,36,1,0,4.5,Queen's Park Oval Port of Spain,0,1,2007,41
+ABAgarkar,India,Ireland,0,0,0,0,0,62,10,34,1,0,3.4,Civil Service Cricket Club Stormont,0,0,2007,31
+ABAgarkar,India,Pakistan,0,0,0,0,0,62,10,52,2,0,5.2,Rawalpindi Cricket Stadium,0,0,2006,52
+ABAgarkar,India,England,1,1,0,0,100.0,47,7,63,1,1,9.0,Kennington Oval,0,0,2007,34
+ABAgarkar,India,South Africa,0,0,0,0,0,35,5,21,2,1,4.2,Civil Service Cricket Club Stormont,0,0,2007,62
+ABAgarkar,India,West Indies,4,16,0,0,25.0,62,10,22,2,2,2.2,Kinrara Academy Oval,0,0,2006,70

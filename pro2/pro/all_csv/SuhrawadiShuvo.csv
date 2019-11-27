@@ -1,2 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SuhrawadiShuvo,Bangladesh,Pakistan,1,3,0,0,33.33333333333333,5,0,12,0,0,0,Beausejour Stadium Gros Islet,-5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SuhrawadiShuvo,Bangladesh,Pakistan,1,3,0,0,33.33333333333333,5,0,12,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,-5
+SuhrawadiShuvo,Bangladesh,Australia,0,0,0,0,0,50,8,44,3,0,5.5,Shere Bangla National Stadium,0,0,2011,77
+SuhrawadiShuvo,Bangladesh,Zimbabwe,11,18,1,0,61.111111111111114,59,9,32,2,3,3.5555555555555554,Shere Bangla National Stadium,0,1,2010,98
+SuhrawadiShuvo,Bangladesh,New Zealand,8,12,1,0,66.66666666666666,59,9,47,1,0,5.222222222222222,Shere Bangla National Stadium,0,2,2010,50
+SuhrawadiShuvo,Bangladesh,Zimbabwe,0,0,0,0,0,42,7,29,0,0,4.142857142857143,Zahur Ahmed Chowdhury Stadium,1,0,2010,16
+SuhrawadiShuvo,Bangladesh,England,14,6,1,1,233.33333333333334,17,2,14,0,0,7.0,Shere Bangla National Stadium,0,0,2010,17
+SuhrawadiShuvo,Bangladesh,New Zealand,3,17,0,0,17.647058823529413,47,7,29,1,2,4.142857142857143,Shere Bangla National Stadium,0,0,2010,42
+SuhrawadiShuvo,Bangladesh,England,11,18,1,0,61.111111111111114,59,9,45,1,1,5.0,Zohur Ahmed Chowdhury Stadium,0,0,2010,45
+SuhrawadiShuvo,Bangladesh,Australia,16,17,3,0,94.11764705882352,17,2,46,0,0,23.0,Shere Bangla National Stadium,0,0,2011,13
+SuhrawadiShuvo,Bangladesh,West Indies,0,0,0,0,0,17,2,2,1,1,1.0,Zahur Ahmed Chowdhury Stadium,0,1,2011,47
+SuhrawadiShuvo,Bangladesh,India,4,4,0,0,100.0,23,3,21,0,0,7.0,Rangiri Dambulla International Stadium,0,0,2010,4
+SuhrawadiShuvo,Bangladesh,Zimbabwe,0,0,0,0,0,60,10,47,0,0,4.7,Shere Bangla National Stadium,0,0,2010,4
+SuhrawadiShuvo,Bangladesh,Australia,3,11,0,0,27.27272727272727,29,4,28,1,0,7.0,Shere Bangla National Stadium,0,0,2011,22
+SuhrawadiShuvo,Bangladesh,New Zealand,0,0,0,0,0,59,9,14,3,2,1.5555555555555556,Shere Bangla National Stadium,0,0,2010,97
+SuhrawadiShuvo,Bangladesh,Netherlands,0,0,0,0,0,59,9,33,1,1,3.6666666666666665,Zahur Ahmed Chowdhury Stadium,0,0,2011,39
+SuhrawadiShuvo,Bangladesh,Zimbabwe,8,9,1,0,88.88888888888889,63,10,40,0,1,4.0,Shere Bangla National Stadium,0,1,2010,29
+SuhrawadiShuvo,Bangladesh,Pakistan,0,0,0,0,0,49,8,65,0,0,8.125,Rangiri Dambulla International Stadium,0,1,2010,8

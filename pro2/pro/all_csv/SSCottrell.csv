@@ -1,13 +1,28 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SSCottrell,West Indies,England,0,0,0,0,0,25,4,37,2,0,9.25,Kensington Oval Bridgetown,48
-SSCottrell,West Indies,England,0,0,0,0,0,25,4,37,2,0,9.25,Kensington Oval Bridgetown,48
-SSCottrell,West Indies,England,0,0,0,0,0,25,4,37,2,0,9.25,Kensington Oval Bridgetown,48
-SSCottrell,West Indies,India,0,0,0,0,0,23,3,26,0,0,8.666666666666666,Providence Stadium Guyana,0
-SSCottrell,West Indies,South Africa,0,1,0,0,0.0,23,3,33,1,0,11.0,Kingsmead,13
-SSCottrell,West Indies,India,0,0,0,0,0,26,4,27,2,0,6.75,Central Broward Regional Park Stadium Turf Ground,50
-SSCottrell,West Indies,India,0,1,0,0,0.0,27,4,20,2,0,5.0,Central Broward Regional Park Stadium Turf Ground,44
-SSCottrell,West Indies,Bangladesh,0,0,0,0,0,12,2,5,0,1,2.5,Warner Park Basseterre,14
-SSCottrell,West Indies,New Zealand,0,0,0,0,0,18,3,28,3,0,9.333333333333334,Windsor Park Roseau,73
-SSCottrell,West Indies,South Africa,0,0,0,0,0,25,4,33,2,0,8.25,Newlands,50
-SSCottrell,West Indies,South Africa,0,0,0,0,0,18,3,48,0,0,16.0,New Wanderers Stadium,-6
-SSCottrell,West Indies,England,0,0,0,0,0,25,4,37,2,0,9.25,Kensington Oval Bridgetown,48
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SSCottrell,West Indies,South Africa,0,1,0,0,0.0,23,3,33,1,0,11.0,Kingsmead,0,0,2015,13
+SSCottrell,West Indies,England,0,0,0,0,0,25,4,37,2,0,9.25,Kensington Oval Bridgetown,0,0,2014,48
+SSCottrell,West Indies,India,0,0,0,0,0,26,4,27,2,0,6.75,Central Broward Regional Park Stadium Turf Ground,0,0,2019,50
+SSCottrell,West Indies,South Africa,0,0,0,0,0,25,4,33,2,0,8.25,Newlands,0,0,2015,50
+SSCottrell,West Indies,Bangladesh,0,0,0,0,0,12,2,5,0,1,2.5,Warner Park Basseterre,0,0,2014,14
+SSCottrell,West Indies,India,0,0,0,0,0,23,3,26,0,0,8.666666666666666,Providence Stadium Guyana,0,1,2019,8
+SSCottrell,West Indies,South Africa,0,0,0,0,0,18,3,48,0,0,16.0,New Wanderers Stadium,0,0,2015,-6
+SSCottrell,West Indies,India,0,1,0,0,0.0,27,4,20,2,0,5.0,Central Broward Regional Park Stadium Turf Ground,0,1,2019,52
+SSCottrell,West Indies,New Zealand,0,0,0,0,0,18,3,28,3,0,9.333333333333334,Windsor Park Roseau,0,1,2014,81
+SSCottrell,West Indies,Sri Lanka,7,11,0,0,63.63636363636363,61,10,71,1,0,7.1,Riverside Ground,0,0,2019,30
+SSCottrell,West Indies,England,0,1,0,0,0.0,18,3,17,0,0,5.666666666666667,The Rose Bowl,0,0,2019,-6
+SSCottrell,West Indies,South Africa,1,1,0,0,100.0,38,6,39,2,0,6.5,St George's Park,0,0,2015,51
+SSCottrell,West Indies,New Zealand,15,26,2,0,57.692307692307686,60,10,56,4,1,5.6,Old Trafford,1,2,2019,159
+SSCottrell,West Indies,Bangladesh,8,4,0,1,200.0,56,9,39,0,0,4.333333333333333,The Village Malahide,0,0,2019,14
+SSCottrell,West Indies,India,17,18,2,1,94.44444444444444,61,10,49,1,1,4.9,Queen's Park Oval Trinidad,1,0,2019,70
+SSCottrell,West Indies,India,10,9,1,1,111.11111111111111,61,10,50,2,1,5.0,Old Trafford,0,0,2019,73
+SSCottrell,West Indies,South Africa,0,0,0,0,0,23,3,18,2,1,6.0,The Rose Bowl,0,0,2019,58
+SSCottrell,West Indies,Pakistan,0,0,0,0,0,24,4,18,1,0,4.5,Trent Bridge,0,2,2019,45
+SSCottrell,West Indies,Afghanistan,0,0,0,0,0,54,9,29,3,1,3.2222222222222223,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,1,2019,97
+SSCottrell,West Indies,Ireland,0,0,0,0,0,59,9,68,1,1,7.555555555555555,The Village Malahide,0,2,2019,49
+SSCottrell,West Indies,Bangladesh,4,7,0,0,57.14285714285714,44,7,47,0,0,6.714285714285714,Castle Avenue,0,0,2019,0
+SSCottrell,West Indies,South Africa,2,9,0,0,22.22222222222222,43,7,68,0,0,9.714285714285714,SuperSport Park,0,1,2015,2
+SSCottrell,West Indies,Afghanistan,0,0,0,0,0,42,7,33,1,0,4.714285714285714,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,1,2019,37
+SSCottrell,West Indies,Bangladesh,0,0,0,0,0,62,10,65,0,0,6.5,The Cooper Associates County Ground,1,0,2019,12
+SSCottrell,West Indies,Ireland,0,0,0,0,0,35,5,33,1,1,6.6,Castle Avenue,0,1,2019,41
+SSCottrell,West Indies,Australia,1,2,0,0,50.0,56,9,57,2,0,6.333333333333333,Trent Bridge,0,2,2019,63
+SSCottrell,West Indies,Afghanistan,0,0,0,0,0,44,7,43,0,0,6.142857142857143,Headingley,0,1,2019,8

@@ -1,6 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TKCurran,England,South Africa,1,2,0,0,50.0,23,3,25,2,0,8.333333333333334,Sophia Gardens,47
-TKCurran,England,South Africa,1,2,0,0,50.0,23,3,25,2,0,8.333333333333334,Sophia Gardens,47
-TKCurran,England,South Africa,1,2,0,0,50.0,23,3,25,2,0,8.333333333333334,Sophia Gardens,47
-TKCurran,England,South Africa,0,0,0,0,0,23,3,33,3,0,11.0,County Ground,71
-TKCurran,England,South Africa,1,2,0,0,50.0,23,3,25,2,0,8.333333333333334,Sophia Gardens,47
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TKCurran,England,South Africa,1,2,0,0,50.0,23,3,25,2,0,8.333333333333334,Sophia Gardens,0,0,2017,47
+TKCurran,England,South Africa,0,0,0,0,0,23,3,33,3,0,11.0,County Ground,0,0,2017,71
+TKCurran,England,Ireland,47,59,5,0,79.66101694915254,49,8,36,3,1,4.5,The Village Malahide,0,0,2019,139
+TKCurran,England,Pakistan,0,0,0,0,0,60,10,74,2,0,7.4,County Ground,1,0,2019,62
+TKCurran,England,Pakistan,31,31,5,0,100.0,63,10,76,4,0,7.6,Trent Bridge,0,0,2019,144

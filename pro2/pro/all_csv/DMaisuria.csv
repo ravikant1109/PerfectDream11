@@ -1,6 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DMaisuria,Botswana,Nigeria,0,0,0,0,0,23,3,17,3,0,5.666666666666667,Lugogo Cricket Oval,77
-DMaisuria,Botswana,Namibia,0,0,0,0,0,24,4,30,1,0,7.5,United Cricket Club Ground,25
-DMaisuria,Botswana,Namibia,6,10,0,0,60.0,6,1,23,0,0,23.0,United Cricket Club Ground,4
-DMaisuria,Botswana,Namibia,0,1,0,0,0.0,23,3,28,4,0,9.333333333333334,United Cricket Club Ground,98
-DMaisuria,Botswana,Namibia,0,0,0,0,0,23,3,23,3,0,7.666666666666667,United Cricket Club Ground,75
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DMaisuria,Botswana,Namibia,0,1,0,0,0.0,23,3,28,4,0,9.333333333333334,United Cricket Club Ground,0,0,2019,98
+DMaisuria,Botswana,Namibia,6,10,0,0,60.0,6,1,23,0,0,23.0,United Cricket Club Ground,0,1,2019,12
+DMaisuria,Botswana,Namibia,0,0,0,0,0,24,4,30,1,0,7.5,United Cricket Club Ground,0,0,2019,25
+DMaisuria,Botswana,Namibia,0,0,0,0,0,23,3,23,3,0,7.666666666666667,United Cricket Club Ground,0,0,2019,75
+DMaisuria,Botswana,Nigeria,0,0,0,0,0,23,3,17,3,0,5.666666666666667,Lugogo Cricket Oval,0,0,2019,77

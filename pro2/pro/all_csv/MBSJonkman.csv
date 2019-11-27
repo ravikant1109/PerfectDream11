@@ -1,4 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MBSJonkman,Netherlands,Ireland,1,8,0,0,12.5,18,3,21,2,0,7.0,Dubai International Cricket Stadium,45
-MBSJonkman,Netherlands,Afghanistan,0,0,0,0,0,25,4,24,2,0,6.0,Dubai International Cricket Stadium,50
-MBSJonkman,Netherlands,Ireland,1,8,0,0,12.5,18,3,21,2,0,7.0,Dubai International Cricket Stadium,45
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MBSJonkman,Netherlands,Afghanistan,0,0,0,0,0,25,4,24,2,0,6.0,Dubai International Cricket Stadium,0,0,2010,50
+MBSJonkman,Netherlands,Ireland,1,8,0,0,12.5,18,3,21,2,0,7.0,Dubai International Cricket Stadium,0,1,2010,53
+MBSJonkman,Netherlands,Bermuda,15,22,2,0,68.18181818181817,23,3,9,1,1,3.0,Willowmoore Park,0,0,2006,54
+MBSJonkman,Netherlands,Scotland,0,0,0,0,0,30,5,23,2,1,4.6,Warner Park Basseterre,0,0,2007,62
+MBSJonkman,Netherlands,Canada,5,9,0,0,55.55555555555556,50,8,41,2,0,5.125,Willowmoore Park,0,0,2006,53
+MBSJonkman,Netherlands,Australia,0,2,0,0,0.0,37,6,37,0,1,6.166666666666667,Warner Park Basseterre,0,0,2007,0

@@ -1,19 +1,16 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SAEdwards,Netherlands,Namibia,9,8,1,0,112.5,0,0,0,0,0,0,ICC Academy,10
-SAEdwards,Netherlands,Namibia,9,8,1,0,112.5,0,0,0,0,0,0,ICC Academy,10
-SAEdwards,Netherlands,Namibia,9,8,1,0,112.5,0,0,0,0,0,0,ICC Academy,10
-SAEdwards,Netherlands,Papua New Guinea,6,5,0,0,120.0,0,0,0,0,0,0,ICC Academy,6
-SAEdwards,Netherlands,Scotland,37,20,5,1,185.0,0,0,0,0,0,0,The Village Malahide,44
-SAEdwards,Netherlands,Nepal,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),18
-SAEdwards,Netherlands,Bermuda,9,5,1,0,180.0,0,0,0,0,0,0,Dubai International Cricket Stadium,10
-SAEdwards,Netherlands,Scotland,15,13,0,0,115.38461538461537,0,0,0,0,0,0,Dubai International Cricket Stadium,15
-SAEdwards,Netherlands,United Arab Emirates,5,5,0,0,100.0,0,0,0,0,0,0,VRA Ground,5
-SAEdwards,Netherlands,United Arab Emirates,19,18,2,0,105.55555555555556,0,0,0,0,0,0,Sportpark Westvliet,21
-SAEdwards,Netherlands,Zimbabwe,0,2,0,0,0.0,0,0,0,0,0,0,Hazelaarweg,-8
-SAEdwards,Netherlands,Scotland,10,11,1,0,90.9090909090909,0,0,0,0,0,0,The Village Malahide,11
-SAEdwards,Netherlands,Oman,13,10,1,0,130.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),14
-SAEdwards,Netherlands,Zimbabwe,12,10,1,0,120.0,0,0,0,0,0,0,Hazelaarweg,13
-SAEdwards,Netherlands,Hong Kong,42,21,4,2,200.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),50
-SAEdwards,Netherlands,Ireland,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-5
-SAEdwards,Netherlands,Namibia,9,8,1,0,112.5,0,0,0,0,0,0,ICC Academy,10
-SAEdwards,Netherlands,Papua New Guinea,6,5,0,0,120.0,0,0,0,0,0,0,ICC Academy,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SAEdwards,Netherlands,Zimbabwe,0,2,0,0,0.0,0,0,0,0,0,0,Hazelaarweg,0,3,2019,16
+SAEdwards,Netherlands,Papua New Guinea,6,5,0,0,120.0,0,0,0,0,0,0,ICC Academy,0,1,2019,14
+SAEdwards,Netherlands,United Arab Emirates,19,18,2,0,105.55555555555556,0,0,0,0,0,0,Sportpark Westvliet,0,0,2019,21
+SAEdwards,Netherlands,Oman,13,10,1,0,130.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,14
+SAEdwards,Netherlands,Ireland,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,-5
+SAEdwards,Netherlands,Scotland,37,20,5,1,185.0,0,0,0,0,0,0,The Village Malahide,0,1,2019,52
+SAEdwards,Netherlands,Namibia,9,8,1,0,112.5,0,0,0,0,0,0,ICC Academy,0,2,2019,26
+SAEdwards,Netherlands,Scotland,15,13,0,0,115.38461538461537,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2019,23
+SAEdwards,Netherlands,Scotland,10,11,1,0,90.9090909090909,0,0,0,0,0,0,The Village Malahide,0,1,2019,19
+SAEdwards,Netherlands,Hong Kong,42,21,4,2,200.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,50
+SAEdwards,Netherlands,Zimbabwe,12,10,1,0,120.0,0,0,0,0,0,0,Hazelaarweg,0,1,2019,21
+SAEdwards,Netherlands,Bermuda,9,5,1,0,180.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2019,10
+SAEdwards,Netherlands,United Arab Emirates,5,5,0,0,100.0,0,0,0,0,0,0,VRA Ground,0,1,2019,13
+SAEdwards,Netherlands,Nepal,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,26
+SAEdwards,Netherlands,Zimbabwe,44,48,3,0,91.66666666666666,0,0,0,0,0,0,Sportpark Het Schootsveld,0,0,2019,47

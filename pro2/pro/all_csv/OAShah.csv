@@ -1,27 +1,65 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-OAShah,England,New Zealand,47,36,4,2,130.55555555555557,0,0,0,0,0,0,Jade Stadium,55
-OAShah,England,Zimbabwe,11,8,0,1,137.5,0,0,0,0,0,0,Newlands,13
-OAShah,England,New Zealand,21,16,0,1,131.25,0,0,0,0,0,0,Kingsmead,23
-OAShah,England,New Zealand,47,36,4,2,130.55555555555557,0,0,0,0,0,0,Jade Stadium,55
-OAShah,England,Zimbabwe,11,8,0,1,137.5,0,0,0,0,0,0,Newlands,13
-OAShah,England,New Zealand,21,16,0,1,131.25,0,0,0,0,0,0,Kingsmead,23
-OAShah,England,New Zealand,47,36,4,2,130.55555555555557,0,0,0,0,0,0,Jade Stadium,55
-OAShah,England,Zimbabwe,11,8,0,1,137.5,0,0,0,0,0,0,Newlands,13
-OAShah,England,New Zealand,21,16,0,1,131.25,0,0,0,0,0,0,Kingsmead,23
-OAShah,England,South Africa,38,36,3,2,105.55555555555556,0,0,0,0,0,0,Trent Bridge,45
-OAShah,England,West Indies,7,6,1,0,116.66666666666667,0,0,0,0,0,0,Kennington Oval,8
-OAShah,England,West Indies,55,37,7,0,148.64864864864865,0,0,0,0,0,0,Kennington Oval,70
-OAShah,England,Netherlands,5,8,0,0,62.5,0,0,0,0,0,0,Lord's,3
-OAShah,England,New Zealand,23,17,2,1,135.29411764705884,0,0,0,0,0,0,Eden Park,27
-OAShah,England,West Indies,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0
-OAShah,England,Australia,14,13,0,1,107.6923076923077,0,0,0,0,0,0,Newlands,16
-OAShah,England,India,21,16,3,1,131.25,0,0,0,0,0,0,Kingsmead,26
-OAShah,England,South Africa,36,32,1,2,112.5,0,0,0,0,0,0,Newlands,41
-OAShah,England,West Indies,18,15,1,1,120.0,0,0,0,0,0,0,Kennington Oval,21
-OAShah,England,Pakistan,33,33,3,1,100.0,0,0,0,0,0,0,Kennington Oval,38
-OAShah,England,India,12,10,1,0,120.0,0,0,0,0,0,0,Lord's,13
-OAShah,England,New Zealand,47,36,4,2,130.55555555555557,0,0,0,0,0,0,Jade Stadium,55
-OAShah,England,Zimbabwe,11,8,0,1,137.5,0,0,0,0,0,0,Newlands,13
-OAShah,England,New Zealand,21,16,0,1,131.25,0,0,0,0,0,0,Kingsmead,23
-OAShah,England,South Africa,38,36,3,2,105.55555555555556,0,0,0,0,0,0,Trent Bridge,45
-OAShah,England,West Indies,7,6,1,0,116.66666666666667,0,0,0,0,0,0,Kennington Oval,8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+OAShah,England,South Africa,36,32,1,2,112.5,0,0,0,0,0,0,Newlands,0,0,2007,41
+OAShah,England,South Africa,38,36,3,2,105.55555555555556,0,0,0,0,0,0,Trent Bridge,0,0,2009,45
+OAShah,England,Netherlands,5,8,0,0,62.5,0,0,0,0,0,0,Lord's,0,2,2009,19
+OAShah,England,West Indies,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2009,0
+OAShah,England,New Zealand,21,16,0,1,131.25,0,0,0,0,0,0,Kingsmead,0,0,2007,23
+OAShah,England,New Zealand,47,36,4,2,130.55555555555557,0,0,0,0,0,0,Jade Stadium,0,1,2008,63
+OAShah,England,New Zealand,23,17,2,1,135.29411764705884,0,0,0,0,0,0,Eden Park,0,1,2008,35
+OAShah,England,Zimbabwe,11,8,0,1,137.5,0,0,0,0,0,0,Newlands,0,0,2007,13
+OAShah,England,West Indies,7,6,1,0,116.66666666666667,0,0,0,0,0,0,Kennington Oval,0,0,2007,8
+OAShah,England,West Indies,55,37,7,0,148.64864864864865,0,0,0,0,0,0,Kennington Oval,0,0,2007,70
+OAShah,England,Australia,14,13,0,1,107.6923076923077,0,0,0,0,0,0,Newlands,0,0,2007,16
+OAShah,England,Pakistan,33,33,3,1,100.0,0,0,0,0,0,0,Kennington Oval,0,0,2009,38
+OAShah,England,West Indies,18,15,1,1,120.0,0,0,0,0,0,0,Kennington Oval,0,0,2009,21
+OAShah,England,India,12,10,1,0,120.0,0,0,0,0,0,0,Lord's,0,0,2009,13
+OAShah,England,India,21,16,3,1,131.25,0,0,0,0,0,0,Kingsmead,0,0,2007,26
+OAShah,England,Sri Lanka,4,10,0,0,40.0,18,3,18,1,0,6.0,R Premadasa Stadium,0,0,2007,23
+OAShah,England,New Zealand,0,5,0,0,0.0,0,0,0,0,0,0,Seddon Park,0,0,2008,-8
+OAShah,England,Australia,39,53,3,0,73.58490566037736,17,2,12,0,0,6.0,Lord's,0,0,2009,42
+OAShah,England,New Zealand,29,48,2,0,60.416666666666664,0,0,0,0,0,0,AMI Stadium,0,0,2008,29
+OAShah,England,West Indies,38,60,3,0,63.33333333333333,0,0,0,0,0,0,County Ground,0,0,2009,39
+OAShah,England,India,72,49,9,3,146.9387755102041,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2008,95
+OAShah,England,New Zealand,18,28,0,0,64.28571428571429,0,0,0,0,0,0,Eden Park,0,1,2008,24
+OAShah,England,India,58,81,8,1,71.60493827160494,0,0,0,0,0,0,Maharani Usharaje Trust Cricket Ground,0,1,2008,84
+OAShah,England,Australia,40,50,4,0,80.0,0,0,0,0,0,0,Kennington Oval,0,1,2009,52
+OAShah,England,India,66,57,9,0,115.78947368421053,0,0,0,0,0,0,Barabati Stadium,0,0,2008,83
+OAShah,England,New Zealand,69,76,5,0,90.78947368421053,17,2,30,0,0,15.0,Lord's,0,0,2008,76
+OAShah,England,South Africa,12,26,0,0,46.15384615384615,0,0,0,0,0,0,Headingley,0,0,2008,6
+OAShah,England,India,7,13,1,0,53.84615384615385,0,0,0,0,0,0,Nehru Stadium Fatorda,0,0,2006,4
+OAShah,England,South Africa,23,38,3,0,60.526315789473685,0,0,0,0,0,0,Kennington Oval,0,1,2008,32
+OAShah,England,Australia,0,2,0,0,0.0,5,0,11,0,0,0,SuperSport Park,0,0,2009,-8
+OAShah,England,India,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2006,5
+OAShah,England,Sri Lanka,82,94,5,0,87.2340425531915,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2007,95
+OAShah,England,Australia,23,40,1,0,57.49999999999999,0,0,0,0,0,0,Trent Bridge,0,0,2009,20
+OAShah,England,Sri Lanka,7,15,0,0,46.666666666666664,11,1,13,0,0,13.0,Rangiri Dambulla International Stadium,0,1,2007,9
+OAShah,England,West Indies,42,40,4,0,105.0,0,0,0,0,0,0,Lord's,0,0,2007,46
+OAShah,England,Australia,31,42,3,0,73.80952380952381,0,0,0,0,0,0,Trent Bridge,0,2,2009,50
+OAShah,England,West Indies,6,12,0,0,50.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2009,2
+OAShah,England,West Indies,17,26,3,0,65.38461538461539,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2009,18
+OAShah,England,New Zealand,3,10,0,0,30.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,-3
+OAShah,England,South Africa,98,90,5,6,108.88888888888889,0,0,0,0,0,0,SuperSport Park,0,1,2009,131
+OAShah,England,India,40,43,2,0,93.02325581395348,0,0,0,0,0,0,Green Park,0,0,2008,42
+OAShah,England,India,8,20,1,0,40.0,0,0,0,0,0,0,Old Trafford,0,0,2007,3
+OAShah,England,India,15,36,0,0,41.66666666666667,0,0,0,0,0,0,Headingley,0,0,2007,9
+OAShah,England,New Zealand,20,36,1,0,55.55555555555556,0,0,0,0,0,0,Westpac Stadium,0,0,2008,17
+OAShah,England,New Zealand,5,7,0,0,71.42857142857143,44,7,46,1,0,6.571428571428571,McLean Park,0,0,2008,30
+OAShah,England,West Indies,22,45,2,0,48.888888888888886,0,0,0,0,0,0,Providence Stadium,0,0,2009,18
+OAShah,England,New Zealand,18,19,1,1,94.73684210526315,0,0,0,0,0,0,Edgbaston,0,1,2008,29
+OAShah,England,Australia,8,19,1,0,42.10526315789473,0,0,0,0,0,0,The Rose Bowl,0,0,2009,3
+OAShah,England,West Indies,62,89,5,0,69.66292134831461,0,0,0,0,0,0,Providence Stadium,0,0,2009,73
+OAShah,England,Sri Lanka,9,11,1,0,81.81818181818183,0,0,0,0,0,0,R Premadasa Stadium,0,1,2007,18
+OAShah,England,West Indies,51,68,4,1,75.0,0,0,0,0,0,0,Trent Bridge,0,0,2007,65
+OAShah,England,South Africa,44,44,4,1,100.0,0,0,0,0,0,0,Lord's,1,0,2008,62
+OAShah,England,New Zealand,0,3,0,0,0.0,0,0,0,0,0,0,County Ground,0,1,2008,0
+OAShah,England,New Zealand,63,73,4,2,86.3013698630137,0,0,0,0,0,0,Kennington Oval,0,0,2008,79
+OAShah,England,India,19,15,0,1,126.66666666666666,0,0,0,0,0,0,Edgbaston,0,0,2007,21
+OAShah,England,West Indies,0,0,0,0,0,6,1,6,0,0,6.0,Kensington Oval Bridgetown,0,0,2009,0
+OAShah,England,India,107,100,10,2,107.0,25,4,19,1,0,4.75,Kennington Oval,0,0,2007,166
+OAShah,England,India,0,5,0,0,0.0,0,0,0,0,0,0,Madhavrao Scindia Cricket Ground,0,1,2008,0
+OAShah,England,West Indies,75,65,4,2,115.38461538461537,0,0,0,0,0,0,Edgbaston,0,0,2009,91
+OAShah,England,India,0,5,0,0,0.0,0,0,0,0,0,0,Nahar Singh Stadium,0,0,2006,-8
+OAShah,England,Australia,12,13,2,0,92.3076923076923,0,0,0,0,0,0,Lord's,0,1,2009,22
+OAShah,England,Sri Lanka,44,76,3,1,57.89473684210527,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,45
+OAShah,England,Ireland,21,33,0,1,63.63636363636363,17,2,15,3,0,7.5,Civil Service Cricket Club Stormont,0,0,2009,96
+OAShah,England,New Zealand,49,26,4,3,188.46153846153845,0,0,0,0,0,0,Riverside Ground,0,0,2008,59

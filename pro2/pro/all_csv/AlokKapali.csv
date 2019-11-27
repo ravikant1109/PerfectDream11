@@ -1,12 +1,26 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AlokKapali,Bangladesh,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,5
-AlokKapali,Bangladesh,Kenya,17,20,1,0,85.0,0,0,0,0,0,0,Gymkhana Club Ground,18
-AlokKapali,Bangladesh,West Indies,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Shere Bangla National Stadium,-4
-AlokKapali,Bangladesh,Pakistan,0,3,0,0,0.0,18,3,12,2,0,4.0,Shere Bangla National Stadium,46
-AlokKapali,Bangladesh,Australia,0,1,0,0,0.0,11,1,23,0,0,23.0,Newlands,-8
-AlokKapali,Bangladesh,Pakistan,19,12,2,1,158.33333333333331,0,0,0,0,0,0,Gymkhana Club Ground,23
-AlokKapali,Bangladesh,South Africa,14,37,0,0,37.83783783783784,0,0,0,0,0,0,Newlands,8
-AlokKapali,Bangladesh,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,5
-AlokKapali,Bangladesh,Kenya,17,20,1,0,85.0,0,0,0,0,0,0,Gymkhana Club Ground,18
-AlokKapali,Bangladesh,West Indies,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Shere Bangla National Stadium,-4
-AlokKapali,Bangladesh,Pakistan,0,3,0,0,0.0,18,3,12,2,0,4.0,Shere Bangla National Stadium,46
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AlokKapali,Bangladesh,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,13
+AlokKapali,Bangladesh,South Africa,14,37,0,0,37.83783783783784,0,0,0,0,0,0,Newlands,0,0,2007,8
+AlokKapali,Bangladesh,Pakistan,19,12,2,1,158.33333333333331,0,0,0,0,0,0,Gymkhana Club Ground,1,1,2007,43
+AlokKapali,Bangladesh,Australia,0,1,0,0,0.0,11,1,23,0,0,23.0,Newlands,0,0,2007,-8
+AlokKapali,Bangladesh,Kenya,17,20,1,0,85.0,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,18
+AlokKapali,Bangladesh,West Indies,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,-4
+AlokKapali,Bangladesh,Pakistan,0,3,0,0,0.0,18,3,12,2,0,4.0,Shere Bangla National Stadium,0,0,2011,46
+AlokKapali,Bangladesh,Sri Lanka,30,38,1,1,78.94736842105263,62,10,73,1,0,7.3,Gaddafi Stadium,0,0,2008,58
+AlokKapali,Bangladesh,Sri Lanka,5,16,0,0,31.25,59,9,50,0,1,5.555555555555555,Chittagong Divisional Stadium,0,0,2006,9
+AlokKapali,Bangladesh,West Indies,20,26,1,0,76.92307692307693,35,5,24,0,0,4.8,Shere Bangla National Stadium,0,2,2011,41
+AlokKapali,Bangladesh,United Arab Emirates,1,5,0,0,20.0,45,7,28,2,1,4.0,Gaddafi Stadium,0,1,2008,65
+AlokKapali,Bangladesh,India,115,98,10,5,117.34693877551021,24,4,26,0,0,6.5,National Stadium,0,0,2008,151
+AlokKapali,Bangladesh,Sri Lanka,19,41,1,0,46.34146341463415,12,2,8,1,0,4.0,Shaheed Chandu Stadium,0,1,2006,51
+AlokKapali,Bangladesh,Australia,12,17,2,0,70.58823529411765,24,4,29,1,0,7.25,Marrara Cricket Ground,0,0,2008,39
+AlokKapali,Bangladesh,Pakistan,0,3,0,0,0.0,48,8,49,3,0,6.125,Shere Bangla National Stadium,0,0,2008,67
+AlokKapali,Bangladesh,Australia,10,17,0,0,58.82352941176471,23,3,23,0,0,7.666666666666667,Narayanganj Osmani Stadium,0,1,2006,14
+AlokKapali,Bangladesh,Pakistan,17,29,4,0,58.620689655172406,0,0,0,0,0,0,National Stadium,0,0,2008,17
+AlokKapali,Bangladesh,Australia,13,17,1,0,76.47058823529412,11,1,8,0,0,8.0,Shere Bangla National Stadium,0,1,2011,22
+AlokKapali,Bangladesh,India,20,27,2,0,74.07407407407408,5,0,13,0,0,0,Shere Bangla National Stadium,0,0,2008,22
+AlokKapali,Bangladesh,Australia,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Marrara Cricket Ground,0,0,2008,-4
+AlokKapali,Bangladesh,Pakistan,12,32,0,0,37.5,23,3,17,0,0,5.666666666666667,Zahur Ahmed Chowdhury Stadium,0,1,2011,16
+AlokKapali,Bangladesh,Sri Lanka,18,25,2,0,72.0,35,5,29,2,0,5.8,Shaheed Chandu Stadium,0,0,2006,72
+AlokKapali,Bangladesh,Sri Lanka,9,11,1,0,81.81818181818183,35,5,40,2,1,8.0,National Stadium,0,1,2008,76
+AlokKapali,Bangladesh,Australia,0,3,0,0,0.0,0,0,0,0,0,0,Marrara Cricket Ground,1,1,2008,12
+AlokKapali,Bangladesh,West Indies,20,44,3,0,45.45454545454545,11,1,12,0,0,12.0,Shere Bangla National Stadium,0,0,2011,17

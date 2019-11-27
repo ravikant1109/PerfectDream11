@@ -1,2 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CTTremlett,England,India,0,0,0,0,0,26,4,46,2,0,11.5,Kingsmead,44
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CTTremlett,England,India,0,0,0,0,0,26,4,46,2,0,11.5,Kingsmead,0,0,2007,44
+CTTremlett,England,West Indies,3,7,0,0,42.857142857142854,30,5,47,0,0,9.4,MA Chidambaram Stadium Chepauk,0,1,2011,3
+CTTremlett,England,New Zealand,0,0,0,0,0,67,11,74,1,0,6.7272727272727275,Western Australia Cricket Association Ground,0,0,2007,25
+CTTremlett,England,Australia,7,9,0,1,77.77777777777779,59,9,70,0,0,7.777777777777778,Melbourne Cricket Ground,0,1,2011,17
+CTTremlett,England,Australia,1,5,0,0,20.0,56,9,23,3,0,2.5555555555555554,Bellerive Oval,0,0,2011,76
+CTTremlett,England,Sri Lanka,0,0,0,0,0,45,7,39,0,0,5.571428571428571,R Premadasa Stadium,0,0,2011,2
+CTTremlett,England,India,0,1,0,0,0.0,58,9,74,0,0,8.222222222222221,County Ground,0,1,2007,0
+CTTremlett,England,New Zealand,3,15,0,0,20.0,62,10,27,1,1,2.7,County Ground,0,1,2008,44
+CTTremlett,England,India,19,9,1,1,211.11111111111111,50,8,62,2,0,7.75,Edgbaston,0,0,2007,72
+CTTremlett,England,Australia,0,1,0,0,0.0,60,10,64,1,1,6.4,Adelaide Oval,0,0,2011,25
+CTTremlett,England,Australia,0,3,0,0,0.0,59,9,41,0,0,4.555555555555555,Adelaide Oval,0,0,2007,-4

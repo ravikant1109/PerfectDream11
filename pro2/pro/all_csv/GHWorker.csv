@@ -1,6 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,81
-GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,81
-GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,81
-GHWorker,New Zealand,South Africa,28,26,3,1,107.6923076923077,12,2,19,1,0,9.5,Kingsmead,56
-GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,81
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GHWorker,New Zealand,Zimbabwe,62,39,3,4,158.97435897435898,0,0,0,0,0,0,Harare Sports Club,0,0,2015,81
+GHWorker,New Zealand,South Africa,28,26,3,1,107.6923076923077,12,2,19,1,0,9.5,Kingsmead,0,1,2015,64
+GHWorker,New Zealand,South Africa,21,24,3,0,87.5,0,0,0,0,0,0,Kingsmead,0,0,2015,24
+GHWorker,New Zealand,South Africa,20,42,1,0,47.61904761904761,5,0,5,0,0,0,Senwes Park,0,0,2015,15
+GHWorker,New Zealand,Ireland,50,89,3,0,56.17977528089888,0,0,0,0,0,0,Malahide,0,0,2017,57
+GHWorker,New Zealand,Bangladesh,17,24,0,1,70.83333333333334,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2017,19

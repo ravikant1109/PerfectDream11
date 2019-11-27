@@ -1,5 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-VVMorea,Papua New Guinea,United Arab Emirates,0,3,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-VVMorea,Papua New Guinea,Ireland,19,20,2,0,95.0,0,0,0,0,0,0,Tony Ireland Stadium,21
-VVMorea,Papua New Guinea,Afghanistan,9,13,1,0,69.23076923076923,0,0,0,0,0,0,The Village Malahide,8
-VVMorea,Papua New Guinea,Ireland,6,4,0,0,150.0,0,0,0,0,0,0,Tony Ireland Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+VVMorea,Papua New Guinea,United Arab Emirates,0,3,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,-8
+VVMorea,Papua New Guinea,Ireland,6,4,0,0,150.0,0,0,0,0,0,0,Tony Ireland Stadium,0,0,2016,6
+VVMorea,Papua New Guinea,Afghanistan,9,13,1,0,69.23076923076923,0,0,0,0,0,0,The Village Malahide,0,0,2015,8
+VVMorea,Papua New Guinea,Ireland,19,20,2,0,95.0,0,0,0,0,0,0,Tony Ireland Stadium,0,0,2016,21
+VVMorea,Papua New Guinea,Hong Kong,5,10,1,0,50.0,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,1,2016,10
+VVMorea,Papua New Guinea,Hong Kong,35,70,5,1,50.0,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,0,2016,38
+VVMorea,Papua New Guinea,Hong Kong,1,12,0,0,8.333333333333332,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,0,2016,-5

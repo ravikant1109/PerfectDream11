@@ -1,20 +1,33 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SRandiv,Sri Lanka,Zimbabwe,0,0,0,0,0,5,0,6,0,0,0,Providence Stadium,0
-SRandiv,Sri Lanka,Australia,2,2,0,0,100.0,23,3,20,3,0,6.666666666666667,Kensington Oval Bridgetown,77
-SRandiv,Sri Lanka,New Zealand,6,4,1,0,150.0,11,1,12,1,0,12.0,Central Broward Regional Park Stadium Turf Ground,32
-SRandiv,Sri Lanka,England,0,0,0,0,0,17,2,27,0,0,13.5,Beausejour Stadium Gros Islet,-6
-SRandiv,Sri Lanka,Zimbabwe,0,0,0,0,0,5,0,6,0,0,0,Providence Stadium,0
-SRandiv,Sri Lanka,Australia,2,2,0,0,100.0,23,3,20,3,0,6.666666666666667,Kensington Oval Bridgetown,77
-SRandiv,Sri Lanka,New Zealand,6,4,1,0,150.0,11,1,12,1,0,12.0,Central Broward Regional Park Stadium Turf Ground,32
-SRandiv,Sri Lanka,England,0,0,0,0,0,17,2,27,0,0,13.5,Beausejour Stadium Gros Islet,-6
-SRandiv,Sri Lanka,Zimbabwe,0,0,0,0,0,5,0,6,0,0,0,Providence Stadium,0
-SRandiv,Sri Lanka,Australia,2,2,0,0,100.0,23,3,20,3,0,6.666666666666667,Kensington Oval Bridgetown,77
-SRandiv,Sri Lanka,New Zealand,6,4,1,0,150.0,11,1,12,1,0,12.0,Central Broward Regional Park Stadium Turf Ground,32
-SRandiv,Sri Lanka,England,0,0,0,0,0,17,2,27,0,0,13.5,Beausejour Stadium Gros Islet,-6
-SRandiv,Sri Lanka,India,0,0,0,0,0,18,3,25,0,0,8.333333333333334,Beausejour Stadium Gros Islet,0
-SRandiv,Sri Lanka,Australia,0,0,0,0,0,23,3,25,3,0,8.333333333333334,Western Australia Cricket Association Ground,75
-SRandiv,Sri Lanka,England,0,0,0,0,0,24,4,24,0,0,6.0,County Ground,0
-SRandiv,Sri Lanka,Zimbabwe,0,0,0,0,0,5,0,6,0,0,0,Providence Stadium,0
-SRandiv,Sri Lanka,Australia,2,2,0,0,100.0,23,3,20,3,0,6.666666666666667,Kensington Oval Bridgetown,77
-SRandiv,Sri Lanka,New Zealand,6,4,1,0,150.0,11,1,12,1,0,12.0,Central Broward Regional Park Stadium Turf Ground,32
-SRandiv,Sri Lanka,England,0,0,0,0,0,17,2,27,0,0,13.5,Beausejour Stadium Gros Islet,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SRandiv,Sri Lanka,New Zealand,6,4,1,0,150.0,11,1,12,1,0,12.0,Central Broward Regional Park Stadium Turf Ground,0,0,2010,32
+SRandiv,Sri Lanka,Australia,2,2,0,0,100.0,23,3,20,3,0,6.666666666666667,Kensington Oval Bridgetown,0,0,2010,77
+SRandiv,Sri Lanka,England,0,0,0,0,0,17,2,27,0,0,13.5,Beausejour Stadium Gros Islet,0,0,2010,-6
+SRandiv,Sri Lanka,India,0,0,0,0,0,18,3,25,0,0,8.333333333333334,Beausejour Stadium Gros Islet,0,0,2010,0
+SRandiv,Sri Lanka,Zimbabwe,0,0,0,0,0,5,0,6,0,0,0,Providence Stadium,0,0,2010,0
+SRandiv,Sri Lanka,Australia,0,0,0,0,0,23,3,25,3,0,8.333333333333334,Western Australia Cricket Association Ground,1,0,2010,87
+SRandiv,Sri Lanka,England,0,0,0,0,0,24,4,24,0,0,6.0,County Ground,0,0,2011,0
+SRandiv,Sri Lanka,India,1,2,0,0,50.0,53,8,51,1,0,6.375,Queens Sports Club,0,0,2010,22
+SRandiv,Sri Lanka,India,10,13,1,0,76.92307692307693,59,9,66,0,0,7.333333333333333,Sardar Patel Stadium Motera,0,1,2014,19
+SRandiv,Sri Lanka,Bangladesh,0,0,0,0,0,61,10,52,2,0,5.2,Shere Bangla National Stadium,0,0,2010,52
+SRandiv,Sri Lanka,Zimbabwe,9,10,1,0,90.0,53,8,38,0,1,4.75,Harare Sports Club,0,0,2010,22
+SRandiv,Sri Lanka,England,0,0,0,0,0,47,7,33,0,0,4.714285714285714,Lord's,0,1,2011,12
+SRandiv,Sri Lanka,India,0,1,0,0,0.0,47,7,33,1,1,4.714285714285714,Barabati Stadium,0,0,2009,29
+SRandiv,Sri Lanka,India,56,77,5,0,72.72727272727273,35,5,22,0,0,4.4,Shere Bangla National Stadium,0,0,2010,73
+SRandiv,Sri Lanka,Bangladesh,0,0,0,0,0,59,9,40,2,1,4.444444444444445,Shere Bangla National Stadium,0,1,2010,70
+SRandiv,Sri Lanka,England,0,0,0,0,0,54,9,43,3,0,4.777777777777778,Headingley,0,0,2011,79
+SRandiv,Sri Lanka,England,26,27,2,0,96.29629629629629,47,7,62,0,0,8.857142857142858,Edgbaston,0,0,2016,28
+SRandiv,Sri Lanka,Australia,41,51,4,1,80.3921568627451,48,8,45,2,0,5.625,Pallekele International Cricket Stadium,0,0,2011,99
+SRandiv,Sri Lanka,India,4,9,0,0,44.44444444444444,59,9,37,0,0,4.111111111111111,Shere Bangla National Stadium,0,0,2010,2
+SRandiv,Sri Lanka,England,0,0,0,0,0,59,9,44,5,0,4.888888888888889,Old Trafford,0,0,2011,145
+SRandiv,Sri Lanka,India,0,0,0,0,0,59,9,38,2,1,4.222222222222222,Harare Sports Club,0,0,2010,62
+SRandiv,Sri Lanka,India,5,8,0,0,62.5,59,9,51,3,0,5.666666666666667,Vidarbha Cricket Association Stadium Jamtha,0,1,2009,88
+SRandiv,Sri Lanka,India,5,9,1,0,55.55555555555556,60,10,78,3,0,7.8,Barabati Stadium,0,0,2014,77
+SRandiv,Sri Lanka,England,18,27,4,0,66.66666666666666,29,4,32,0,0,8.0,Trent Bridge,0,0,2011,20
+SRandiv,Sri Lanka,India,0,0,0,0,0,55,9,41,0,1,4.555555555555555,Rangiri Dambulla International Stadium,0,1,2010,20
+SRandiv,Sri Lanka,India,43,61,4,0,70.49180327868852,45,7,44,0,0,6.285714285714286,Rangiri Dambulla International Stadium,0,0,2010,47
+SRandiv,Sri Lanka,Australia,10,22,0,0,45.45454545454545,53,8,35,1,0,4.375,Melbourne Cricket Ground,0,0,2010,33
+SRandiv,Sri Lanka,India,0,0,0,0,0,60,10,57,1,1,5.7,Eden Gardens,0,1,2009,43
+SRandiv,Sri Lanka,Australia,0,0,0,0,0,41,6,53,2,0,8.833333333333334,Sydney Cricket Ground,0,0,2010,50
+SRandiv,Sri Lanka,Zimbabwe,0,0,0,0,0,29,4,24,3,0,6.0,Queens Sports Club,0,0,2010,75
+SRandiv,Sri Lanka,Australia,7,9,1,0,77.77777777777779,11,1,11,0,0,11.0,Brisbane Cricket Ground Woolloongabba,0,0,2010,8
+SRandiv,Sri Lanka,India,4,4,0,0,100.0,59,9,44,3,0,4.888888888888889,Rangiri Dambulla International Stadium,0,0,2010,83

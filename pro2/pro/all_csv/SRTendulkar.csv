@@ -1,2 +1,95 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SRTendulkar,India,South Africa,10,13,2,0,76.92307692307693,14,2,13,1,0,6.5,New Wanderers Stadium,37
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SRTendulkar,India,South Africa,10,13,2,0,76.92307692307693,14,2,13,1,0,6.5,New Wanderers Stadium,0,1,2006,45
+SRTendulkar,India,Bangladesh,114,152,12,1,75.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,144
+SRTendulkar,India,Australia,10,17,2,0,58.82352941176471,4,0,11,0,0,0,Nehru Stadium,0,0,2009,8
+SRTendulkar,India,South Africa,93,108,13,2,86.11111111111111,6,1,10,0,0,10.0,Civil Service Cricket Club Stormont,0,0,2007,118
+SRTendulkar,India,Australia,79,124,7,0,63.70967741935484,0,0,0,0,0,0,Sector 16 Stadium,0,0,2007,92
+SRTendulkar,India,South Africa,200,151,25,3,132.45033112582783,0,0,0,0,0,0,Captain Roop Singh Stadium,0,0,2010,247
+SRTendulkar,India,Pakistan,52,48,5,1,108.33333333333333,9,1,12,0,0,12.0,Shere Bangla National Stadium,0,0,2012,67
+SRTendulkar,India,Australia,91,127,7,0,71.65354330708661,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2008,106
+SRTendulkar,India,Pakistan,29,27,5,0,107.40740740740742,5,0,11,0,0,0,Green Park,0,0,2007,34
+SRTendulkar,India,Sri Lanka,39,30,5,0,130.0,0,0,0,0,0,0,Bellerive Oval,0,0,2012,44
+SRTendulkar,India,Bangladesh,7,26,1,0,26.923076923076923,18,3,8,0,0,2.6666666666666665,Queen's Park Oval Port of Spain,0,0,2007,8
+SRTendulkar,India,South Africa,1,3,0,0,33.33333333333333,48,8,46,1,0,5.75,St George's Park,0,0,2006,22
+SRTendulkar,India,Netherlands,27,22,5,0,122.72727272727273,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2011,32
+SRTendulkar,India,Australia,10,17,1,0,58.82352941176471,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2008,7
+SRTendulkar,India,Australia,12,18,2,0,66.66666666666666,0,0,0,0,0,0,Kinrara Academy Oval,0,1,2006,20
+SRTendulkar,India,South Africa,24,45,2,0,53.333333333333336,0,0,0,0,0,0,New Wanderers Stadium,0,0,2011,22
+SRTendulkar,India,West Indies,29,46,4,0,63.04347826086957,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,31
+SRTendulkar,India,England,11,21,2,0,52.38095238095239,0,0,0,0,0,0,M Chinnaswamy Stadium,0,2,2008,25
+SRTendulkar,India,Pakistan,95,107,16,1,88.78504672897196,62,10,52,1,0,5.2,Gaddafi Stadium,0,0,2006,148
+SRTendulkar,India,West Indies,100,77,10,1,129.87012987012986,0,0,0,0,0,0,Indian Petrochemicals Corporation Limited Sports Complex Ground,0,0,2007,128
+SRTendulkar,India,Sri Lanka,35,52,2,0,67.3076923076923,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2008,35
+SRTendulkar,India,Sri Lanka,5,17,0,0,29.411764705882355,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2009,-1
+SRTendulkar,India,Australia,117,124,10,0,94.35483870967742,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2008,143
+SRTendulkar,India,England,50,57,6,0,87.71929824561403,0,0,0,0,0,0,Barabati Stadium,0,2,2008,80
+SRTendulkar,India,Pakistan,97,102,16,0,95.09803921568627,0,0,0,0,0,0,Captain Roop Singh Stadium,0,0,2007,121
+SRTendulkar,India,West Indies,60,67,2,0,89.55223880597015,30,5,35,0,0,7.0,MA Chidambaram Stadium Chepauk,0,0,2007,70
+SRTendulkar,India,Sri Lanka,48,65,5,0,73.84615384615385,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2012,61
+SRTendulkar,India,Australia,16,26,1,1,61.53846153846154,17,2,22,0,0,11.0,Nehru Stadium,0,1,2007,21
+SRTendulkar,India,South Africa,35,52,5,0,67.3076923076923,53,8,34,0,1,4.25,Kingsmead,0,1,2006,58
+SRTendulkar,India,Sri Lanka,7,12,0,1,58.333333333333336,5,0,11,0,0,0,R Premadasa Stadium,1,1,2009,25
+SRTendulkar,India,Australia,44,54,3,0,81.48148148148148,11,1,6,0,0,6.0,Melbourne Cricket Ground,0,2,2008,63
+SRTendulkar,India,Sri Lanka,96,106,13,0,90.56603773584906,0,0,0,0,0,0,Barabati Stadium,0,0,2009,117
+SRTendulkar,India,Sri Lanka,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,0,2006,0
+SRTendulkar,India,Ireland,38,57,3,0,66.66666666666666,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2011,39
+SRTendulkar,India,Australia,4,10,1,0,40.0,0,0,0,0,0,0,Kinrara Academy Oval,1,0,2006,11
+SRTendulkar,India,Australia,43,74,6,0,58.108108108108105,24,4,23,0,0,5.75,Rajiv Gandhi International Stadium Uppal,0,0,2007,47
+SRTendulkar,India,Sri Lanka,6,9,0,0,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,1,2009,12
+SRTendulkar,India,Australia,3,12,0,0,25.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2012,5
+SRTendulkar,India,South Africa,55,100,8,0,55.00000000000001,0,0,0,0,0,0,SuperSport Park,0,0,2006,67
+SRTendulkar,India,Australia,4,9,1,0,44.44444444444444,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2009,7
+SRTendulkar,India,Australia,72,74,9,1,97.2972972972973,29,4,22,0,0,5.5,Vidarbha Cricket Association Ground,0,1,2007,101
+SRTendulkar,India,Sri Lanka,6,19,1,0,31.57894736842105,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2012,9
+SRTendulkar,India,Sri Lanka,27,33,5,0,81.81818181818183,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,32
+SRTendulkar,India,Bangladesh,28,30,4,0,93.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,32
+SRTendulkar,India,Australia,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2008,0
+SRTendulkar,India,Sri Lanka,1,8,0,0,12.5,24,4,33,0,0,8.25,Nehru Stadium Fatorda,0,1,2007,3
+SRTendulkar,India,Australia,14,16,2,0,87.5,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2012,16
+SRTendulkar,India,England,17,35,1,0,48.57142857142857,24,4,30,0,0,7.5,The Rose Bowl,0,0,2007,12
+SRTendulkar,India,Sri Lanka,15,25,2,0,60.0,0,0,0,0,0,0,Adelaide Oval,0,0,2012,15
+SRTendulkar,India,Bermuda,57,29,2,4,196.55172413793102,5,0,1,1,0,0,Queen's Park Oval Port of Spain,0,0,2007,100
+SRTendulkar,India,New Zealand,46,55,6,0,83.63636363636363,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,52
+SRTendulkar,India,South Africa,2,9,0,0,22.22222222222222,18,3,13,0,0,4.333333333333333,Newlands,0,2,2006,16
+SRTendulkar,India,Pakistan,8,15,1,0,53.333333333333336,0,0,0,0,0,0,SuperSport Park,0,0,2009,5
+SRTendulkar,India,England,55,88,9,0,62.5,5,0,4,0,0,0,Old Trafford,0,0,2007,70
+SRTendulkar,India,England,71,61,13,0,116.39344262295081,29,4,36,0,0,9.0,Headingley,0,0,2007,92
+SRTendulkar,India,Pakistan,30,28,6,0,107.14285714285714,0,0,0,0,0,0,Sawai Mansingh Stadium,0,0,2007,36
+SRTendulkar,India,Sri Lanka,43,53,4,0,81.13207547169812,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,47
+SRTendulkar,India,England,30,46,4,0,65.21739130434783,0,0,0,0,0,0,Lord's,1,0,2007,44
+SRTendulkar,India,Pakistan,4,8,1,0,50.0,30,5,33,2,0,6.6,Nehru Stadium,0,0,2007,51
+SRTendulkar,India,Pakistan,99,95,14,1,104.21052631578947,5,0,11,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2007,123
+SRTendulkar,India,Australia,47,76,9,0,61.8421052631579,11,1,11,0,0,11.0,Reliance Stadium,0,0,2007,54
+SRTendulkar,India,West Indies,2,4,0,0,50.0,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,-2
+SRTendulkar,India,Pakistan,0,3,0,0,0.0,54,9,27,1,1,3.0,Multan Cricket Stadium,0,0,2006,31
+SRTendulkar,India,Australia,40,68,6,0,58.82352941176471,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2009,42
+SRTendulkar,India,England,35,42,5,0,83.33333333333334,0,0,0,0,0,0,Sawai Mansingh Stadium,0,1,2006,48
+SRTendulkar,India,South Africa,99,145,12,0,68.27586206896552,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2007,125
+SRTendulkar,India,Australia,10,27,2,0,37.03703703703704,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,1,2006,14
+SRTendulkar,India,Australia,14,30,2,0,46.666666666666664,0,0,0,0,0,0,Reliance Stadium,0,0,2009,10
+SRTendulkar,India,Sri Lanka,8,9,2,0,88.88888888888889,0,0,0,0,0,0,Eden Gardens,0,1,2009,18
+SRTendulkar,India,England,120,115,10,5,104.34782608695652,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2011,156
+SRTendulkar,India,New Zealand,20,23,2,0,86.95652173913044,0,0,0,0,0,0,McLean Park,0,1,2009,30
+SRTendulkar,India,England,99,113,15,1,87.61061946902655,0,0,0,0,0,0,County Ground,0,0,2007,124
+SRTendulkar,India,Sri Lanka,63,57,10,0,110.5263157894737,0,0,0,0,0,0,Bellerive Oval,0,0,2008,81
+SRTendulkar,India,Pakistan,100,114,10,1,87.71929824561403,0,0,0,0,0,0,Arbab Niaz Stadium,0,0,2006,128
+SRTendulkar,India,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Adelaide Oval,0,0,2008,-8
+SRTendulkar,India,West Indies,141,152,13,5,92.76315789473685,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,180
+SRTendulkar,India,Australia,5,15,1,0,33.33333333333333,0,0,0,0,0,0,Adelaide Oval,0,0,2008,0
+SRTendulkar,India,Sri Lanka,0,4,0,0,0.0,50,8,40,1,0,5.0,Queen's Park Oval Port of Spain,0,0,2007,19
+SRTendulkar,India,Australia,175,144,19,4,121.52777777777777,0,0,0,0,0,0,Rajiv Gandhi International Stadium Uppal,0,1,2009,226
+SRTendulkar,India,South Africa,111,104,8,3,106.73076923076923,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2011,149
+SRTendulkar,India,Ireland,4,3,1,0,133.33333333333331,24,4,26,1,0,6.5,Civil Service Cricket Club Stormont,0,0,2007,30
+SRTendulkar,India,New Zealand,61,71,7,1,85.91549295774648,0,0,0,0,0,0,Westpac Stadium,0,0,2009,78
+SRTendulkar,India,Australia,0,7,0,0,0.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,1,2007,0
+SRTendulkar,India,Pakistan,42,44,8,0,95.45454545454545,41,6,45,0,0,7.5,Rawalpindi Cricket Stadium,1,0,2006,62
+SRTendulkar,India,England,8,19,1,0,42.10526315789473,0,0,0,0,0,0,Edgbaston,0,0,2007,3
+SRTendulkar,India,England,94,82,16,1,114.6341463414634,5,0,12,0,0,0,Kennington Oval,0,0,2007,120
+SRTendulkar,India,Pakistan,85,116,11,0,73.27586206896551,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,1,2011,112
+SRTendulkar,India,South Africa,8,8,2,0,100.0,5,0,10,2,0,0,Civil Service Cricket Club Stormont,0,0,2007,60
+SRTendulkar,India,Australia,21,37,4,0,56.75675675675676,0,0,0,0,0,0,Wankhede Stadium,0,1,2007,29
+SRTendulkar,India,South Africa,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Kingsmead,0,0,2011,5
+SRTendulkar,India,West Indies,65,109,7,0,59.63302752293578,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,76
+SRTendulkar,India,Sri Lanka,54,64,9,0,84.375,54,9,48,1,0,5.333333333333333,Madhavrao Scindia Cricket Ground,0,1,2007,106
+SRTendulkar,India,South Africa,4,5,1,0,80.0,0,0,0,0,0,0,Sawai Mansingh Stadium,0,0,2010,5
+SRTendulkar,India,New Zealand,163,139,16,5,117.26618705035972,0,0,0,0,0,0,AMI Stadium,0,0,2009,205

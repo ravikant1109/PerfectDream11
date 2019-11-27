@@ -1,12 +1,31 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BWHilfenhaus,Australia,Pakistan,0,1,0,0,0.0,17,2,18,1,0,9.0,Dubai International Cricket Stadium,17
-BWHilfenhaus,Australia,Pakistan,0,1,0,0,0.0,17,2,18,1,0,9.0,Dubai International Cricket Stadium,17
-BWHilfenhaus,Australia,Pakistan,0,1,0,0,0.0,17,2,18,1,0,9.0,Dubai International Cricket Stadium,17
-BWHilfenhaus,Australia,England,0,0,0,0,0,25,4,20,2,0,5.0,Sydney Cricket Ground,52
-BWHilfenhaus,Australia,New Zealand,0,0,0,0,0,24,4,33,1,0,8.25,Sydney Cricket Ground,25
-BWHilfenhaus,Australia,South Africa,0,0,0,0,0,25,4,33,1,0,8.25,Brisbane Cricket Ground Woolloongabba,25
-BWHilfenhaus,Australia,India,0,0,0,0,0,25,4,31,1,0,7.75,Brabourne Stadium,25
-BWHilfenhaus,Australia,Pakistan,2,8,0,0,25.0,23,3,20,1,0,6.666666666666667,Dubai International Cricket Stadium,21
-BWHilfenhaus,Australia,South Africa,0,1,0,0,0.0,17,2,15,2,1,7.5,Melbourne Cricket Ground,50
-BWHilfenhaus,Australia,Pakistan,0,1,0,0,0.0,17,2,18,1,0,9.0,Dubai International Cricket Stadium,17
-BWHilfenhaus,Australia,England,0,0,0,0,0,25,4,20,2,0,5.0,Sydney Cricket Ground,52
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BWHilfenhaus,Australia,England,0,0,0,0,0,25,4,20,2,0,5.0,Sydney Cricket Ground,0,0,2007,52
+BWHilfenhaus,Australia,New Zealand,0,0,0,0,0,24,4,33,1,0,8.25,Sydney Cricket Ground,0,0,2009,25
+BWHilfenhaus,Australia,Pakistan,0,1,0,0,0.0,17,2,18,1,0,9.0,Dubai International Cricket Stadium,0,0,2012,17
+BWHilfenhaus,Australia,South Africa,0,1,0,0,0.0,17,2,15,2,1,7.5,Melbourne Cricket Ground,0,0,2009,50
+BWHilfenhaus,Australia,Pakistan,2,8,0,0,25.0,23,3,20,1,0,6.666666666666667,Dubai International Cricket Stadium,0,0,2009,21
+BWHilfenhaus,Australia,India,0,0,0,0,0,25,4,31,1,0,7.75,Brabourne Stadium,0,0,2007,25
+BWHilfenhaus,Australia,South Africa,0,0,0,0,0,25,4,33,1,0,8.25,Brisbane Cricket Ground Woolloongabba,0,0,2009,25
+BWHilfenhaus,Australia,South Africa,1,3,0,0,33.33333333333333,59,9,58,2,1,6.444444444444445,Melbourne Cricket Ground,0,0,2009,53
+BWHilfenhaus,Australia,Pakistan,4,17,0,0,23.52941176470588,62,10,43,2,3,4.3,Dubai Sports City Cricket Stadium,0,0,2009,76
+BWHilfenhaus,Australia,New Zealand,0,0,0,0,0,62,10,56,1,0,5.6,Adelaide Oval,0,0,2009,27
+BWHilfenhaus,Australia,England,0,0,0,0,0,32,5,19,1,1,3.8,Old Trafford,0,0,2012,39
+BWHilfenhaus,Australia,West Indies,0,1,0,0,0.0,51,8,36,1,2,4.5,Beausejour Stadium Gros Islet,0,1,2012,45
+BWHilfenhaus,Australia,Pakistan,0,0,0,0,0,48,8,43,0,1,5.375,Sheikh Zayed Stadium,0,1,2009,18
+BWHilfenhaus,Australia,Sri Lanka,0,0,0,0,0,61,10,53,2,0,5.3,Bellerive Oval,0,1,2012,60
+BWHilfenhaus,Australia,Pakistan,0,0,0,0,0,37,6,21,1,0,3.5,Sheikh Zayed Stadium,0,0,2009,31
+BWHilfenhaus,Australia,India,0,0,0,0,0,58,9,35,5,1,3.888888888888889,Brisbane Cricket Ground Woolloongabba,0,0,2012,155
+BWHilfenhaus,Australia,South Africa,1,3,0,0,33.33333333333333,60,10,45,2,0,4.5,Western Australia Cricket Association Ground,0,0,2009,49
+BWHilfenhaus,Australia,India,16,12,2,0,133.33333333333331,64,10,84,1,0,8.4,Vidarbha Cricket Association Stadium Jamtha,0,1,2009,51
+BWHilfenhaus,Australia,India,0,0,0,0,0,53,8,50,2,1,6.25,Sydney Cricket Ground,0,0,2012,58
+BWHilfenhaus,Australia,New Zealand,0,0,0,0,0,42,7,26,1,1,3.7142857142857144,Bellerive Oval,0,1,2007,47
+BWHilfenhaus,Australia,Sri Lanka,0,2,0,0,0.0,41,6,29,0,0,4.833333333333333,Melbourne Cricket Ground,0,0,2012,-4
+BWHilfenhaus,Australia,New Zealand,0,0,0,0,0,18,3,28,1,0,9.333333333333334,Brisbane Cricket Ground Woolloongabba,0,0,2009,23
+BWHilfenhaus,Australia,South Africa,0,0,0,0,0,61,10,60,2,2,6.0,Bellerive Oval,0,0,2009,66
+BWHilfenhaus,Australia,England,0,0,0,0,0,59,9,36,0,0,4.0,Riverside Ground,0,0,2012,4
+BWHilfenhaus,Australia,India,0,0,0,0,0,63,10,72,1,0,7.2,Rajiv Gandhi International Stadium Uppal,0,1,2009,33
+BWHilfenhaus,Australia,South Africa,5,17,0,0,29.411764705882355,48,8,52,1,0,6.5,Adelaide Oval,0,0,2009,24
+BWHilfenhaus,Australia,Ireland,0,0,0,0,0,28,4,15,0,1,3.75,Civil Service Cricket Club Stormont,0,0,2012,14
+BWHilfenhaus,Australia,New Zealand,0,0,0,0,0,59,9,58,0,1,6.444444444444445,Melbourne Cricket Ground,0,0,2009,8
+BWHilfenhaus,Australia,Sri Lanka,0,0,0,0,0,24,4,47,0,0,11.75,Brisbane Cricket Ground Woolloongabba,0,0,2012,-6
+BWHilfenhaus,Australia,New Zealand,0,0,0,0,0,54,9,45,2,1,5.0,Sydney Cricket Ground,0,1,2009,68

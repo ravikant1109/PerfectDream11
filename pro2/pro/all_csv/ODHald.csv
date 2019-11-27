@@ -1,10 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ODHald,Denmark,Germany,12,12,0,1,100.0,5,0,11,0,0,0,King George V Sports Ground,14
-ODHald,Denmark,Germany,12,12,0,1,100.0,5,0,11,0,0,0,King George V Sports Ground,14
-ODHald,Denmark,Germany,12,12,0,1,100.0,5,0,11,0,0,0,King George V Sports Ground,14
-ODHald,Denmark,Norway,0,2,0,0,0.0,17,2,10,1,0,5.0,King George V Sports Ground,19
-ODHald,Denmark,Italy,8,6,0,0,133.33333333333331,20,3,22,3,0,7.333333333333333,King George V Sports Ground,83
-ODHald,Denmark,Guernsey,1,6,0,0,16.666666666666664,26,4,20,1,0,5.0,King George V Sports Ground,22
-ODHald,Denmark,Jersey,17,7,3,0,242.85714285714283,24,4,17,2,0,4.25,King George V Sports Ground,74
-ODHald,Denmark,Guernsey,1,1,0,0,100.0,0,0,0,0,0,0,King George V Sports Ground,1
-ODHald,Denmark,Germany,12,12,0,1,100.0,5,0,11,0,0,0,King George V Sports Ground,14
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ODHald,Denmark,Jersey,17,7,3,0,242.85714285714283,24,4,17,2,0,4.25,King George V Sports Ground,0,0,2019,74
+ODHald,Denmark,Guernsey,1,1,0,0,100.0,0,0,0,0,0,0,King George V Sports Ground,0,0,2019,1
+ODHald,Denmark,Germany,12,12,0,1,100.0,5,0,11,0,0,0,King George V Sports Ground,0,1,2019,22
+ODHald,Denmark,Italy,8,6,0,0,133.33333333333331,20,3,22,3,0,7.333333333333333,King George V Sports Ground,0,2,2019,99
+ODHald,Denmark,Norway,0,2,0,0,0.0,17,2,10,1,0,5.0,King George V Sports Ground,0,0,2019,19
+ODHald,Denmark,Guernsey,1,6,0,0,16.666666666666664,26,4,20,1,0,5.0,King George V Sports Ground,0,0,2019,22

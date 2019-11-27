@@ -1,6 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,19
-SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,19
-SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,19
-SSPathirana,Sri Lanka,Australia,6,6,1,0,100.0,16,2,23,2,0,11.5,R Premadasa Stadium,51
-SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,19
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SSPathirana,Sri Lanka,Australia,2,3,0,0,66.66666666666666,23,3,45,1,0,15.0,Pallekele International Cricket Stadium,0,0,2016,19
+SSPathirana,Sri Lanka,Australia,6,6,1,0,100.0,16,2,23,2,0,11.5,R Premadasa Stadium,0,0,2016,51
+SSPathirana,Sri Lanka,Pakistan,19,32,0,1,59.375,60,10,49,1,1,4.9,R Premadasa Stadium,0,1,2015,62
+SSPathirana,Sri Lanka,Zimbabwe,0,0,0,0,0,8,1,10,0,0,10.0,Queens Sports Club,0,0,2016,0
+SSPathirana,Sri Lanka,Bangladesh,31,32,3,0,96.875,31,5,27,0,0,5.4,Rangiri Dambulla International Stadium,0,0,2017,36
+SSPathirana,Sri Lanka,Pakistan,14,14,1,0,100.0,59,9,81,0,0,9.0,R Premadasa Stadium,0,0,2015,15
+SSPathirana,Sri Lanka,Zimbabwe,0,0,0,0,0,60,10,44,1,0,4.4,Harare Sports Club,0,1,2016,37
+SSPathirana,Sri Lanka,South Africa,18,26,1,0,69.23076923076923,42,7,35,0,0,5.0,New Wanderers Stadium,1,0,2017,31
+SSPathirana,Sri Lanka,Australia,32,39,4,0,82.05128205128204,60,10,39,0,0,3.9,Pallekele International Cricket Stadium,0,0,2016,42
+SSPathirana,Sri Lanka,West Indies,24,17,3,0,141.1764705882353,41,6,51,0,0,8.5,Queens Sports Club,0,0,2016,27
+SSPathirana,Sri Lanka,South Africa,56,66,6,1,84.84848484848484,35,5,43,0,1,8.6,SuperSport Park,0,0,2017,80
+SSPathirana,Sri Lanka,Pakistan,33,30,4,1,110.00000000000001,53,8,70,2,2,8.75,Pallekele International Cricket Stadium,0,0,2015,105
+SSPathirana,Sri Lanka,Australia,24,42,2,0,57.14285714285714,48,8,37,3,1,4.625,Rangiri Dambulla International Stadium,0,0,2016,109
+SSPathirana,Sri Lanka,West Indies,45,40,5,2,112.5,35,5,25,1,0,5.0,Harare Sports Club,0,0,2016,81
+SSPathirana,Sri Lanka,South Africa,26,36,3,0,72.22222222222221,23,3,19,1,0,6.333333333333333,Kingsmead,0,0,2017,54
+SSPathirana,Sri Lanka,Zimbabwe,0,0,0,0,0,41,6,26,2,0,4.333333333333333,Queens Sports Club,0,1,2016,62
+SSPathirana,Sri Lanka,South Africa,1,4,0,0,25.0,60,10,55,2,0,5.5,Newlands,0,0,2017,47

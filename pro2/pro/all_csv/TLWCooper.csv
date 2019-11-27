@@ -1,33 +1,27 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TLWCooper,Netherlands,Zimbabwe,72,60,8,1,120.0,5,0,14,0,0,0,Sylhet Stadium,90
-TLWCooper,Netherlands,England,8,15,0,0,53.333333333333336,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,4
-TLWCooper,Netherlands,Kenya,25,14,3,1,178.57142857142858,0,0,0,0,0,0,Wanderers Cricket Ground,30
-TLWCooper,Netherlands,Ireland,0,2,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-TLWCooper,Netherlands,Zimbabwe,72,60,8,1,120.0,5,0,14,0,0,0,Sylhet Stadium,90
-TLWCooper,Netherlands,Zimbabwe,72,60,8,1,120.0,5,0,14,0,0,0,Sylhet Stadium,90
-TLWCooper,Netherlands,England,8,15,0,0,53.333333333333336,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,4
-TLWCooper,Netherlands,Kenya,25,14,3,1,178.57142857142858,0,0,0,0,0,0,Wanderers Cricket Ground,30
-TLWCooper,Netherlands,Ireland,0,2,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-TLWCooper,Netherlands,Zimbabwe,72,60,8,1,120.0,5,0,14,0,0,0,Sylhet Stadium,90
-TLWCooper,Netherlands,Zimbabwe,72,60,8,1,120.0,5,0,14,0,0,0,Sylhet Stadium,90
-TLWCooper,Netherlands,England,8,15,0,0,53.333333333333336,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,4
-TLWCooper,Netherlands,Kenya,25,14,3,1,178.57142857142858,0,0,0,0,0,0,Wanderers Cricket Ground,30
-TLWCooper,Netherlands,Ireland,0,2,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-TLWCooper,Netherlands,Kenya,10,7,2,0,142.85714285714286,0,0,0,0,0,0,Wanderers Cricket Ground,12
-TLWCooper,Netherlands,Afghanistan,7,12,0,0,58.333333333333336,17,2,20,0,0,10.0,Dubai International Cricket Stadium,1
-TLWCooper,Netherlands,South Africa,16,14,2,0,114.28571428571428,17,2,22,1,0,11.0,Zahur Ahmed Chowdhury Stadium,39
-TLWCooper,Netherlands,United Arab Emirates,34,26,4,1,130.76923076923077,11,1,18,2,0,18.0,Sylhet Stadium,90
-TLWCooper,Netherlands,Ireland,45,15,1,6,300.0,5,0,8,0,0,0,Sylhet Stadium,58
-TLWCooper,Netherlands,Canada,29,27,3,0,107.40740740740742,0,0,0,0,0,0,Dubai International Cricket Stadium,32
-TLWCooper,Netherlands,New Zealand,40,23,4,2,173.91304347826087,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,48
-TLWCooper,Netherlands,Sri Lanka,16,18,2,0,88.88888888888889,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,18
-TLWCooper,Netherlands,Bangladesh,15,18,2,0,83.33333333333334,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,17
-TLWCooper,Netherlands,Bangladesh,0,3,0,0,0.0,11,1,18,0,0,18.0,Sportpark Westvliet,-8
-TLWCooper,Netherlands,Bangladesh,1,3,0,0,33.33333333333333,5,0,4,0,0,0,Sportpark Westvliet,-5
-TLWCooper,Netherlands,Ireland,26,24,2,1,108.33333333333333,17,2,21,0,0,10.5,Dubai International Cricket Stadium,26
-TLWCooper,Netherlands,Zimbabwe,72,60,8,1,120.0,5,0,14,0,0,0,Sylhet Stadium,90
-TLWCooper,Netherlands,England,8,15,0,0,53.333333333333336,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,4
-TLWCooper,Netherlands,Kenya,25,14,3,1,178.57142857142858,0,0,0,0,0,0,Wanderers Cricket Ground,30
-TLWCooper,Netherlands,Ireland,0,2,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-TLWCooper,Netherlands,Kenya,10,7,2,0,142.85714285714286,0,0,0,0,0,0,Wanderers Cricket Ground,12
-TLWCooper,Netherlands,Afghanistan,7,12,0,0,58.333333333333336,17,2,20,0,0,10.0,Dubai International Cricket Stadium,1
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TLWCooper,Netherlands,Ireland,0,2,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,-8
+TLWCooper,Netherlands,Kenya,25,14,3,1,178.57142857142858,0,0,0,0,0,0,Wanderers Cricket Ground,0,0,2013,30
+TLWCooper,Netherlands,Ireland,26,24,2,1,108.33333333333333,17,2,21,0,0,10.5,Dubai International Cricket Stadium,0,1,2012,34
+TLWCooper,Netherlands,Kenya,10,7,2,0,142.85714285714286,0,0,0,0,0,0,Wanderers Cricket Ground,0,0,2013,12
+TLWCooper,Netherlands,Sri Lanka,16,18,2,0,88.88888888888889,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,18
+TLWCooper,Netherlands,Canada,29,27,3,0,107.40740740740742,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2012,40
+TLWCooper,Netherlands,South Africa,16,14,2,0,114.28571428571428,17,2,22,1,0,11.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,39
+TLWCooper,Netherlands,Bangladesh,1,3,0,0,33.33333333333333,5,0,4,0,0,0,Sportpark Westvliet,0,0,2012,-5
+TLWCooper,Netherlands,England,8,15,0,0,53.333333333333336,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,2,2014,20
+TLWCooper,Netherlands,Bangladesh,15,18,2,0,83.33333333333334,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,1,2016,25
+TLWCooper,Netherlands,Zimbabwe,72,60,8,1,120.0,5,0,14,0,0,0,Sylhet Stadium,0,0,2014,90
+TLWCooper,Netherlands,Bangladesh,0,3,0,0,0.0,11,1,18,0,0,18.0,Sportpark Westvliet,0,0,2012,-8
+TLWCooper,Netherlands,Ireland,45,15,1,6,300.0,5,0,8,0,0,0,Sylhet Stadium,0,0,2014,58
+TLWCooper,Netherlands,Afghanistan,7,12,0,0,58.333333333333336,17,2,20,0,0,10.0,Dubai International Cricket Stadium,0,1,2012,9
+TLWCooper,Netherlands,New Zealand,40,23,4,2,173.91304347826087,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,48
+TLWCooper,Netherlands,United Arab Emirates,34,26,4,1,130.76923076923077,11,1,18,2,0,18.0,Sylhet Stadium,1,0,2014,102
+TLWCooper,Netherlands,England,47,73,2,0,64.38356164383562,17,2,23,0,0,11.5,Vidarbha Cricket Association Stadium Jamtha,0,1,2011,49
+TLWCooper,Netherlands,India,29,47,2,0,61.702127659574465,11,1,11,0,0,11.0,Feroz Shah Kotla,0,0,2011,29
+TLWCooper,Netherlands,South Africa,9,21,1,0,42.857142857142854,11,1,18,0,0,18.0,Punjab Cricket Association Stadium Mohali,0,1,2011,12
+TLWCooper,Netherlands,Afghanistan,0,0,0,0,0,32,5,11,3,2,2.2,Sharjah Cricket Stadium,0,0,2012,97
+TLWCooper,Netherlands,Ireland,25,38,5,0,65.78947368421053,9,1,6,0,0,6.0,Clontarf Cricket Club Ground,0,0,2010,28
+TLWCooper,Netherlands,Ireland,5,5,1,0,100.0,41,6,31,2,1,5.166666666666667,Eden Gardens,0,0,2011,66
+TLWCooper,Netherlands,Bangladesh,29,41,2,0,70.73170731707317,43,7,35,2,2,5.0,Zahur Ahmed Chowdhury Stadium,0,0,2011,99
+TLWCooper,Netherlands,West Indies,55,72,9,0,76.38888888888889,36,6,37,0,0,6.166666666666667,Feroz Shah Kotla,0,0,2011,72
+TLWCooper,Netherlands,Scotland,26,36,3,0,72.22222222222221,11,1,17,0,0,17.0,Mannofield Park,0,2,2011,45
+TLWCooper,Netherlands,Ireland,8,14,1,0,57.14285714285714,30,5,25,0,0,5.0,VRA Ground,0,1,2013,15

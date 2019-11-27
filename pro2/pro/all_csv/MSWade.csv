@@ -1,25 +1,89 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,4
-MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,4
-MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,4
-MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,6
-MSWade,Australia,West Indies,1,5,0,0,20.0,0,0,0,0,0,0,R Premadasa Stadium,-5
-MSWade,Australia,England,2,2,0,0,100.0,0,0,0,0,0,0,Sophia Gardens,2
-MSWade,Australia,India,72,44,5,3,163.63636363636365,0,0,0,0,0,0,Stadium Australia,91
-MSWade,Australia,South Africa,10,14,0,1,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,12
-MSWade,Australia,India,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Adelaide Oval,5
-MSWade,Australia,India,16,15,0,1,106.66666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,18
-MSWade,Australia,Pakistan,13,14,1,0,92.85714285714286,0,0,0,0,0,0,R Premadasa Stadium,14
-MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,6
-MSWade,Australia,Sri Lanka,14,23,0,0,60.86956521739131,0,0,0,0,0,0,R Premadasa Stadium,12
-MSWade,Australia,West Indies,17,20,1,1,85.0,0,0,0,0,0,0,Kensington Oval Bridgetown,20
-MSWade,Australia,England,15,7,2,1,214.28571428571428,0,0,0,0,0,0,The Rose Bowl,19
-MSWade,Australia,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Newlands,1
-MSWade,Australia,India,32,30,1,1,106.66666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,35
-MSWade,Australia,England,19,11,1,1,172.72727272727272,0,0,0,0,0,0,Stadium Australia,22
-MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,4
-MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MSWade,Australia,Pakistan,13,14,1,0,92.85714285714286,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,14
+MSWade,Australia,India,16,15,0,1,106.66666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2016,18
+MSWade,Australia,India,32,30,1,1,106.66666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2012,43
+MSWade,Australia,Pakistan,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,0
+MSWade,Australia,England,4,4,0,0,100.0,0,0,0,0,0,0,Riverside Ground,0,1,2013,12
+MSWade,Australia,England,19,11,1,1,172.72727272727272,0,0,0,0,0,0,Stadium Australia,0,0,2014,22
+MSWade,Australia,England,2,2,0,0,100.0,0,0,0,0,0,0,Sophia Gardens,0,0,2015,2
+MSWade,Australia,South Africa,10,14,0,1,71.42857142857143,0,0,0,0,0,0,New Wanderers Stadium,0,0,2011,12
+MSWade,Australia,West Indies,17,20,1,1,85.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2012,36
+MSWade,Australia,South Africa,1,1,0,0,100.0,0,0,0,0,0,0,Newlands,0,0,2011,1
+MSWade,Australia,England,15,7,2,1,214.28571428571428,0,0,0,0,0,0,The Rose Bowl,0,2,2013,35
+MSWade,Australia,India,72,44,5,3,163.63636363636365,0,0,0,0,0,0,Stadium Australia,0,0,2012,91
+MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,6
+MSWade,Australia,West Indies,1,5,0,0,20.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,3
+MSWade,Australia,India,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Adelaide Oval,0,1,2016,13
+MSWade,Australia,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,6
+MSWade,Australia,Sri Lanka,14,23,0,0,60.86956521739131,0,0,0,0,0,0,R Premadasa Stadium,0,0,2016,12
+MSWade,Australia,England,1,4,0,0,25.0,0,0,0,0,0,0,Edgbaston,0,2,2013,11
+MSWade,Australia,South Africa,7,7,0,0,100.0,0,0,0,0,0,0,Newlands,0,1,2016,15
+MSWade,Australia,Ireland,2,2,0,0,100.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,3,2015,26
+MSWade,Australia,South Africa,8,6,0,0,133.33333333333331,0,0,0,0,0,0,Manuka Oval,0,1,2014,16
+MSWade,Australia,England,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Edgbaston,0,1,2017,8
+MSWade,Australia,Pakistan,8,7,1,0,114.28571428571428,0,0,0,0,0,0,Adelaide Oval,0,2,2017,25
+MSWade,Australia,South Africa,2,11,0,0,18.181818181818183,0,0,0,0,0,0,Providence Stadium,0,0,2016,-4
+MSWade,Australia,Pakistan,22,47,1,0,46.808510638297875,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2012,25
+MSWade,Australia,South Africa,17,8,1,1,212.5,0,0,0,0,0,0,Kingsmead,0,0,2016,20
+MSWade,Australia,South Africa,5,10,1,0,50.0,0,0,0,0,0,0,SuperSport Park,0,0,2016,2
+MSWade,Australia,England,12,42,0,0,28.57142857142857,0,0,0,0,0,0,Old Trafford,0,0,2012,6
+MSWade,Australia,South Africa,19,29,2,0,65.51724137931035,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,3,2014,43
+MSWade,Australia,West Indies,26,18,1,2,144.44444444444443,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,3,2012,55
+MSWade,Australia,West Indies,57,56,2,3,101.78571428571428,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2016,81
+MSWade,Australia,England,27,32,1,1,84.375,0,0,0,0,0,0,Lord's,0,1,2012,38
+MSWade,Australia,New Zealand,11,5,1,1,220.00000000000003,0,0,0,0,0,0,Manuka Oval,0,2,2016,30
+MSWade,Australia,New Zealand,14,24,0,0,58.333333333333336,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2016,10
+MSWade,Australia,India,6,10,0,0,60.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2016,12
+MSWade,Australia,Pakistan,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2017,21
+MSWade,Australia,England,6,8,1,0,75.0,0,0,0,0,0,0,Kennington Oval,0,0,2012,7
+MSWade,Australia,Sri Lanka,31,53,1,0,58.490566037735846,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2013,28
+MSWade,Australia,South Africa,52,58,5,2,89.65517241379311,0,0,0,0,0,0,St George's Park,0,0,2016,69
+MSWade,Australia,England,31,46,2,0,67.3913043478261,0,0,0,0,0,0,Adelaide Oval,0,1,2014,39
+MSWade,Australia,Sri Lanka,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Bellerive Oval,0,0,2012,6
+MSWade,Australia,Sri Lanka,49,75,3,0,65.33333333333333,0,0,0,0,0,0,Adelaide Oval,0,2,2012,66
+MSWade,Australia,Sri Lanka,42,47,3,0,89.36170212765957,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2016,45
+MSWade,Australia,Afghanistan,75,109,3,1,68.80733944954129,0,0,0,0,0,0,Sharjah Cricket Association Stadium,0,3,2012,110
+MSWade,Australia,India,0,2,0,0,0.0,0,0,0,0,0,0,Manuka Oval,0,3,2016,16
+MSWade,Australia,Pakistan,35,57,3,0,61.40350877192983,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2017,52
+MSWade,Australia,India,45,69,2,1,65.21739130434783,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,5,2012,87
+MSWade,Australia,New Zealand,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Westpac Stadium,0,2,2016,12
+MSWade,Australia,Sri Lanka,3,14,0,0,21.428571428571427,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,2,2016,13
+MSWade,Australia,England,1,2,0,0,50.0,0,0,0,0,0,0,Lord's,0,3,2015,21
+MSWade,Australia,West Indies,2,11,0,0,18.181818181818183,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,2,2012,12
+MSWade,Australia,Sri Lanka,8,22,0,0,36.36363636363637,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2013,2
+MSWade,Australia,Sri Lanka,76,91,3,0,83.51648351648352,0,0,0,0,0,0,R Premadasa Stadium,0,0,2016,87
+MSWade,Australia,New Zealand,38,22,1,3,172.72727272727272,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2016,45
+MSWade,Australia,India,56,66,2,1,84.84848484848484,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2012,76
+MSWade,Australia,South Africa,35,42,2,0,83.33333333333334,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,5,2014,77
+MSWade,Australia,England,71,50,12,0,142.0,0,0,0,0,0,0,The Rose Bowl,0,3,2015,115
+MSWade,Australia,Sri Lanka,23,28,4,0,82.14285714285714,0,0,0,0,0,0,Bellerive Oval,0,1,2013,35
+MSWade,Australia,Sri Lanka,1,5,0,0,20.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,4,2012,27
+MSWade,Australia,South Africa,33,33,5,0,100.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2016,38
+MSWade,Australia,Sri Lanka,15,36,1,0,41.66666666666667,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2012,10
+MSWade,Australia,West Indies,16,29,0,0,55.172413793103445,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,2,2013,28
+MSWade,Australia,India,16,18,1,0,88.88888888888889,0,0,0,0,0,0,Adelaide Oval,0,0,2012,17
+MSWade,Australia,West Indies,13,7,1,0,185.71428571428572,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2013,22
+MSWade,Australia,England,42,43,5,0,97.67441860465115,0,0,0,0,0,0,Old Trafford,0,0,2015,47
+MSWade,Australia,Pakistan,100,102,7,2,98.0392156862745,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2017,135
+MSWade,Australia,New Zealand,37,39,3,2,94.87179487179486,0,0,0,0,0,0,Eden Park,0,1,2016,52
+MSWade,Australia,New Zealand,29,58,3,0,50.0,0,0,0,0,0,0,Edgbaston,0,0,2013,28
+MSWade,Australia,Sri Lanka,9,13,1,0,69.23076923076923,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2012,16
+MSWade,Australia,England,36,40,3,0,90.0,0,0,0,0,0,0,Sophia Gardens,0,0,2013,39
+MSWade,Australia,Sri Lanka,8,5,0,1,160.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,4,2016,42
+MSWade,Australia,England,0,1,0,0,0.0,0,0,0,0,0,0,Riverside Ground,0,0,2012,-8
+MSWade,Australia,West Indies,3,10,0,0,30.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,1,0,2012,9
+MSWade,Australia,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2012,-8
+MSWade,Australia,Pakistan,10,29,0,0,34.48275862068966,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2012,12
+MSWade,Australia,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2012,8
+MSWade,Australia,South Africa,3,6,0,0,50.0,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2014,15
+MSWade,Australia,Sri Lanka,14,19,2,0,73.68421052631578,0,0,0,0,0,0,Adelaide Oval,0,0,2012,16
+MSWade,Australia,South Africa,52,61,4,1,85.24590163934425,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2014,82
+MSWade,Australia,England,0,1,0,0,0.0,0,0,0,0,0,0,Old Trafford,0,1,2013,0
+MSWade,Australia,England,0,1,0,0,0.0,0,0,0,0,0,0,The Rose Bowl,0,0,2013,-8
+MSWade,Australia,South Africa,24,15,3,0,160.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2016,27
+MSWade,Australia,Sri Lanka,26,35,0,0,74.28571428571429,0,0,0,0,0,0,R Premadasa Stadium,0,1,2016,34
+MSWade,Australia,England,50,26,3,3,192.30769230769232,0,0,0,0,0,0,Headingley,0,2,2015,83
+MSWade,Australia,West Indies,4,5,0,0,80.0,0,0,0,0,0,0,Manuka Oval,0,2,2013,20
+MSWade,Australia,Sri Lanka,64,74,4,1,86.48648648648648,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,2,2012,94
+MSWade,Australia,Sri Lanka,31,23,4,1,134.7826086956522,0,0,0,0,0,0,Kennington Oval,0,0,2013,37
+MSWade,Australia,India,36,28,2,1,128.57142857142858,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2016,56

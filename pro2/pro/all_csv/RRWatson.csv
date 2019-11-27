@@ -1,8 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RRWatson,Scotland,Pakistan,2,4,0,0,50.0,0,0,0,0,0,0,Kingsmead,-2
-RRWatson,Scotland,New Zealand,27,10,5,0,270.0,5,0,4,1,0,0,Kennington Oval,57
-RRWatson,Scotland,Netherlands,22,28,1,0,78.57142857142857,0,0,0,0,0,0,Civil Service Cricket Club Stormont,23
-RRWatson,Scotland,South Africa,4,5,1,0,80.0,17,2,36,1,0,18.0,Kennington Oval,24
-RRWatson,Scotland,Bermuda,0,1,0,0,0.0,18,3,19,1,0,6.333333333333333,Civil Service Cricket Club Stormont,17
-RRWatson,Scotland,Pakistan,2,4,0,0,50.0,0,0,0,0,0,0,Kingsmead,-2
-RRWatson,Scotland,New Zealand,27,10,5,0,270.0,5,0,4,1,0,0,Kennington Oval,57
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RRWatson,Scotland,Netherlands,22,28,1,0,78.57142857142857,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,2,2008,39
+RRWatson,Scotland,South Africa,4,5,1,0,80.0,17,2,36,1,0,18.0,Kennington Oval,0,0,2009,24
+RRWatson,Scotland,New Zealand,27,10,5,0,270.0,5,0,4,1,0,0,Kennington Oval,0,0,2009,57
+RRWatson,Scotland,Bermuda,0,1,0,0,0.0,18,3,19,1,0,6.333333333333333,Civil Service Cricket Club Stormont,1,1,2008,37
+RRWatson,Scotland,Pakistan,2,4,0,0,50.0,0,0,0,0,0,0,Kingsmead,0,0,2007,-2
+RRWatson,Scotland,Ireland,50,46,6,1,108.69565217391303,5,0,7,0,0,0,Clontarf Cricket Club Ground,0,0,2008,66
+RRWatson,Scotland,Kenya,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,9
+RRWatson,Scotland,Netherlands,16,38,3,0,42.10526315789473,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,13
+RRWatson,Scotland,Australia,6,20,0,0,30.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,0
+RRWatson,Scotland,South Africa,31,51,4,0,60.78431372549019,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,33
+RRWatson,Scotland,Kenya,17,22,2,0,77.27272727272727,29,4,10,2,2,2.5,Cambusdoon New Ground,0,0,2008,91
+RRWatson,Scotland,Ireland,7,12,1,0,58.333333333333336,59,9,45,1,0,5.0,Willowmoore Park,0,0,2009,31
+RRWatson,Scotland,Afghanistan,6,10,1,0,60.0,0,0,0,0,0,0,Willowmoore Park,0,0,2009,5
+RRWatson,Scotland,Canada,14,18,2,0,77.77777777777779,29,4,26,0,0,6.5,Willowmoore Park,0,0,2009,16
+RRWatson,Scotland,Netherlands,10,25,1,0,40.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2007,5
+RRWatson,Scotland,Netherlands,54,63,9,1,85.71428571428571,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,2,2008,89

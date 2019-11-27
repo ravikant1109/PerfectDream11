@@ -1,6 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AbulHasan,Bangladesh,Ireland,0,0,0,0,0,17,2,27,0,0,13.5,Civil Service Cricket Club Stormont,-6
-AbulHasan,Bangladesh,Ireland,0,0,0,0,0,17,2,27,0,0,13.5,Civil Service Cricket Club Stormont,-6
-AbulHasan,Bangladesh,Ireland,0,0,0,0,0,17,2,27,0,0,13.5,Civil Service Cricket Club Stormont,-6
-AbulHasan,Bangladesh,Pakistan,0,0,0,0,0,17,2,34,2,0,17.0,Pallekele International Cricket Stadium,44
-AbulHasan,Bangladesh,Ireland,0,0,0,0,0,17,2,27,0,0,13.5,Civil Service Cricket Club Stormont,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AbulHasan,Bangladesh,Ireland,0,0,0,0,0,17,2,27,0,0,13.5,Civil Service Cricket Club Stormont,0,0,2012,-6
+AbulHasan,Bangladesh,Pakistan,0,0,0,0,0,17,2,34,2,0,17.0,Pallekele International Cricket Stadium,0,0,2012,44
+AbulHasan,Bangladesh,Zimbabwe,1,3,0,0,33.33333333333333,60,10,48,0,0,4.8,Shere Bangla National Stadium,0,1,2014,7
+AbulHasan,Bangladesh,Zimbabwe,0,0,0,0,0,18,3,23,0,1,7.666666666666667,Shere Bangla National Stadium,0,0,2014,8
+AbulHasan,Bangladesh,West Indies,0,0,0,0,0,48,8,45,0,0,5.625,Sheikh Abu Naser Stadium,0,0,2012,2
+AbulHasan,Bangladesh,Sri Lanka,3,6,0,0,50.0,30,5,53,0,0,10.6,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,-5
+AbulHasan,Bangladesh,West Indies,0,0,0,0,0,6,1,9,0,0,9.0,Sheikh Abu Naser Stadium,0,0,2012,0
+AbulHasan,Bangladesh,Pakistan,0,0,0,0,0,29,4,42,0,0,10.5,Shere Bangla National Stadium,0,0,2015,-4

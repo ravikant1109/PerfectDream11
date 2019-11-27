@@ -1,19 +1,145 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-IRBell,England,Sri Lanka,13,18,2,0,72.22222222222221,0,0,0,0,0,0,Kennington Oval,15
-IRBell,England,New Zealand,1,4,0,0,25.0,0,0,0,0,0,0,Jade Stadium,-5
-IRBell,England,Pakistan,14,17,2,0,82.35294117647058,0,0,0,0,0,0,County Ground,16
-IRBell,England,Sri Lanka,13,18,2,0,72.22222222222221,0,0,0,0,0,0,Kennington Oval,15
-IRBell,England,New Zealand,1,4,0,0,25.0,0,0,0,0,0,0,Jade Stadium,-5
-IRBell,England,Pakistan,14,17,2,0,82.35294117647058,0,0,0,0,0,0,County Ground,16
-IRBell,England,Sri Lanka,13,18,2,0,72.22222222222221,0,0,0,0,0,0,Kennington Oval,15
-IRBell,England,New Zealand,1,4,0,0,25.0,0,0,0,0,0,0,Jade Stadium,-5
-IRBell,England,Pakistan,14,17,2,0,82.35294117647058,0,0,0,0,0,0,County Ground,16
-IRBell,England,Australia,22,22,0,0,100.0,0,0,0,0,0,0,Sydney Cricket Ground,22
-IRBell,England,New Zealand,60,46,9,1,130.43478260869566,0,0,0,0,0,0,Old Trafford,79
-IRBell,England,New Zealand,12,10,2,0,120.0,0,0,0,0,0,0,Eden Park,14
-IRBell,England,Australia,27,18,4,1,150.0,0,0,0,0,0,0,Adelaide Oval,33
-IRBell,England,Australia,39,31,3,0,125.80645161290323,0,0,0,0,0,0,Melbourne Cricket Ground,42
-IRBell,England,Sri Lanka,13,18,2,0,72.22222222222221,0,0,0,0,0,0,Kennington Oval,15
-IRBell,England,New Zealand,1,4,0,0,25.0,0,0,0,0,0,0,Jade Stadium,-5
-IRBell,England,Pakistan,14,17,2,0,82.35294117647058,0,0,0,0,0,0,County Ground,16
-IRBell,England,Australia,22,22,0,0,100.0,0,0,0,0,0,0,Sydney Cricket Ground,22
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+IRBell,England,Australia,27,18,4,1,150.0,0,0,0,0,0,0,Adelaide Oval,0,0,2011,33
+IRBell,England,New Zealand,60,46,9,1,130.43478260869566,0,0,0,0,0,0,Old Trafford,0,1,2008,87
+IRBell,England,Australia,22,22,0,0,100.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2007,22
+IRBell,England,Australia,39,31,3,0,125.80645161290323,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2011,42
+IRBell,England,New Zealand,1,4,0,0,25.0,0,0,0,0,0,0,Jade Stadium,0,1,2008,3
+IRBell,England,New Zealand,12,10,2,0,120.0,0,0,0,0,0,0,Eden Park,1,1,2008,34
+IRBell,England,Pakistan,14,17,2,0,82.35294117647058,0,0,0,0,0,0,County Ground,0,1,2006,24
+IRBell,England,Sri Lanka,13,18,2,0,72.22222222222221,0,0,0,0,0,0,Kennington Oval,0,0,2014,15
+IRBell,England,Sri Lanka,12,17,0,0,70.58823529411765,0,0,0,0,0,0,Riverside Ground,0,0,2014,12
+IRBell,England,Sri Lanka,41,34,4,1,120.58823529411764,0,0,0,0,0,0,Old Trafford,0,1,2014,55
+IRBell,England,India,2,1,0,0,200.0,0,0,0,0,0,0,Riverside Ground,0,0,2011,2
+IRBell,England,Australia,29,35,4,0,82.85714285714286,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2014,41
+IRBell,England,Australia,91,117,7,0,77.77777777777779,0,0,0,0,0,0,Edgbaston,0,0,2013,106
+IRBell,England,Sri Lanka,11,25,1,0,44.0,0,0,0,0,0,0,R Premadasa Stadium,1,0,2007,18
+IRBell,England,Bangladesh,84,102,6,0,82.35294117647058,0,0,0,0,0,0,Trent Bridge,0,1,2010,106
+IRBell,England,India,54,73,3,0,73.97260273972603,0,0,0,0,0,0,Lord's,0,0,2011,65
+IRBell,England,South Africa,5,7,1,0,71.42857142857143,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,1,0,2011,18
+IRBell,England,Sri Lanka,49,56,7,0,87.5,0,0,0,0,0,0,Westpac Stadium,0,0,2015,56
+IRBell,England,New Zealand,0,1,0,0,0.0,0,0,0,0,0,0,Seddon Park,0,0,2008,-8
+IRBell,England,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2015,0
+IRBell,England,India,113,147,13,1,76.87074829931973,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,3,2013,168
+IRBell,England,Australia,8,17,1,0,47.05882352941176,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2011,11
+IRBell,England,Australia,68,88,5,0,77.27272727272727,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2014,81
+IRBell,England,West Indies,27,49,1,0,55.10204081632652,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,1,2011,32
+IRBell,England,India,46,68,6,0,67.64705882352942,0,0,0,0,0,0,Keenan Stadium,0,0,2006,50
+IRBell,England,Netherlands,33,40,1,0,82.5,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,34
+IRBell,England,Australia,77,91,9,0,84.61538461538461,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,94
+IRBell,England,New Zealand,24,34,4,0,70.58823529411765,0,0,0,0,0,0,AMI Stadium,0,0,2008,28
+IRBell,England,Sri Lanka,7,10,1,0,70.0,0,0,0,0,0,0,Lord's,0,0,2006,8
+IRBell,England,Pakistan,88,118,12,0,74.57627118644068,0,0,0,0,0,0,Sophia Gardens,0,0,2006,108
+IRBell,England,India,12,15,1,0,80.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2008,13
+IRBell,England,Australia,4,4,0,0,100.0,0,0,0,0,0,0,Old Trafford,0,0,2012,4
+IRBell,England,New Zealand,73,90,9,0,81.11111111111111,0,0,0,0,0,0,Eden Park,0,1,2008,98
+IRBell,England,India,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Maharani Usharaje Trust Cricket Ground,0,0,2008,-5
+IRBell,England,Sri Lanka,40,51,4,1,78.43137254901961,0,0,0,0,0,0,Kennington Oval,1,0,2006,58
+IRBell,England,New Zealand,31,42,3,1,73.80952380952381,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2007,36
+IRBell,England,New Zealand,27,34,5,0,79.41176470588235,0,0,0,0,0,0,Lord's,0,0,2008,32
+IRBell,England,Ireland,31,79,2,0,39.24050632911392,0,0,0,0,0,0,Providence Stadium,0,1,2007,35
+IRBell,England,Australia,41,59,5,0,69.49152542372882,0,0,0,0,0,0,Lord's,0,0,2012,44
+IRBell,England,Sri Lanka,18,27,1,0,66.66666666666666,6,1,5,0,0,5.0,Headingley,0,0,2006,17
+IRBell,England,New Zealand,45,72,2,0,62.5,0,0,0,0,0,0,Bellerive Oval,0,0,2007,45
+IRBell,England,South Africa,35,72,0,0,48.61111111111111,0,0,0,0,0,0,Headingley,1,1,2008,49
+IRBell,England,South Africa,73,81,11,1,90.12345679012346,0,0,0,0,0,0,Kennington Oval,0,0,2008,94
+IRBell,England,Australia,75,116,6,1,64.65517241379311,0,0,0,0,0,0,Kennington Oval,0,1,2012,97
+IRBell,England,South Africa,12,7,2,0,171.42857142857142,0,0,0,0,0,0,Kennington Oval,0,2,2012,30
+IRBell,England,Sri Lanka,30,46,0,0,65.21739130434783,0,0,0,0,0,0,Lord's,0,0,2011,28
+IRBell,England,New Zealand,82,96,6,1,85.41666666666666,0,0,0,0,0,0,Trent Bridge,0,0,2013,98
+IRBell,England,Australia,51,63,4,0,80.95238095238095,0,0,0,0,0,0,Sydney Cricket Ground,1,0,2007,75
+IRBell,England,Australia,45,34,5,0,132.35294117647058,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2011,50
+IRBell,England,Bangladesh,0,11,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2007,-8
+IRBell,England,Pakistan,86,114,10,0,75.43859649122807,0,0,0,0,0,0,Trent Bridge,0,0,2006,104
+IRBell,England,Australia,14,23,3,0,60.86956521739131,0,0,0,0,0,0,Adelaide Oval,0,0,2014,15
+IRBell,England,New Zealand,8,18,1,0,44.44444444444444,0,0,0,0,0,0,Westpac Stadium,0,0,2015,3
+IRBell,England,New Zealand,10,8,1,0,125.0,0,0,0,0,0,0,Sophia Gardens,0,0,2013,11
+IRBell,England,Sri Lanka,18,21,3,0,85.71428571428571,0,0,0,0,0,0,Rangiri Dambulla International Stadium,1,1,2007,41
+IRBell,England,New Zealand,24,22,3,1,109.09090909090908,0,0,0,0,0,0,Eden Park,0,0,2013,29
+IRBell,England,India,13,17,1,0,76.47058823529412,0,0,0,0,0,0,Edgbaston,1,0,2013,26
+IRBell,England,Sri Lanka,7,8,1,0,87.5,0,0,0,0,0,0,Lord's,0,0,2014,8
+IRBell,England,India,25,16,4,0,156.25,0,0,0,0,0,0,The Rose Bowl,0,3,2011,53
+IRBell,England,New Zealand,64,80,6,2,80.0,0,0,0,0,0,0,Seddon Park,1,0,2013,94
+IRBell,England,India,85,96,9,1,88.54166666666666,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,0,1,2013,112
+IRBell,England,Bangladesh,5,23,0,0,21.73913043478261,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2011,-1
+IRBell,England,Sri Lanka,35,48,2,0,72.91666666666666,0,0,0,0,0,0,Headingley,0,0,2011,37
+IRBell,England,Australia,26,45,1,0,57.77777777777777,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2007,31
+IRBell,England,Canada,28,44,1,0,63.63636363636363,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2007,35
+IRBell,England,New Zealand,25,32,4,0,78.125,0,0,0,0,0,0,The Rose Bowl,0,0,2013,29
+IRBell,England,Australia,65,92,3,0,70.65217391304348,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2007,92
+IRBell,England,Pakistan,27,41,2,0,65.85365853658537,0,0,0,0,0,0,Lord's,0,0,2010,27
+IRBell,England,Sri Lanka,0,9,0,0,0.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2007,-8
+IRBell,England,West Indies,56,77,2,0,72.72727272727273,0,0,0,0,0,0,Lord's,0,0,2007,66
+IRBell,England,Australia,36,61,1,0,59.01639344262295,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2011,33
+IRBell,England,India,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Eden Gardens,0,1,2011,4
+IRBell,England,India,25,47,3,0,53.191489361702125,0,0,0,0,0,0,JSCA International Stadium Complex,0,0,2013,24
+IRBell,England,Australia,15,29,1,0,51.724137931034484,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2007,12
+IRBell,England,Australia,23,32,1,0,71.875,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2011,24
+IRBell,England,South Africa,10,11,2,0,90.9090909090909,0,0,0,0,0,0,Trent Bridge,0,0,2012,12
+IRBell,England,South Africa,7,23,1,0,30.434782608695656,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2007,2
+IRBell,England,Sri Lanka,20,37,3,0,54.054054054054056,0,0,0,0,0,0,Kennington Oval,0,0,2013,19
+IRBell,England,Scotland,50,34,3,2,147.05882352941177,0,0,0,0,0,0,Mannofield Park,0,1,2014,73
+IRBell,England,India,126,119,10,1,105.88235294117648,0,0,0,0,0,0,The Rose Bowl,0,0,2007,154
+IRBell,England,New Zealand,2,15,0,0,13.333333333333334,0,0,0,0,0,0,Adelaide Oval,0,0,2007,-4
+IRBell,England,Sri Lanka,4,8,0,0,50.0,0,0,0,0,0,0,Old Trafford,0,0,2011,0
+IRBell,England,India,46,47,8,0,97.87234042553192,0,0,0,0,0,0,Green Park,0,0,2008,54
+IRBell,England,New Zealand,5,21,0,0,23.809523809523807,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2007,-1
+IRBell,England,Australia,141,126,15,1,111.90476190476191,0,0,0,0,0,0,Bellerive Oval,0,3,2015,198
+IRBell,England,India,24,20,4,0,120.0,0,0,0,0,0,0,Old Trafford,0,2,2007,44
+IRBell,England,India,44,38,8,0,115.78947368421053,0,0,0,0,0,0,Headingley,0,0,2007,52
+IRBell,England,Australia,32,63,2,0,50.79365079365079,0,0,0,0,0,0,Bellerive Oval,0,2,2011,46
+IRBell,England,Australia,36,48,4,0,75.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2015,40
+IRBell,England,Sri Lanka,47,71,4,0,66.19718309859155,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,1,0,2007,61
+IRBell,England,Sri Lanka,25,32,2,0,78.125,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,27
+IRBell,England,South Africa,26,18,2,2,144.44444444444443,0,0,0,0,0,0,Sophia Gardens,0,0,2012,32
+IRBell,England,India,10,14,2,0,71.42857142857143,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,2,2015,28
+IRBell,England,New Zealand,5,16,1,0,31.25,0,0,0,0,0,0,Westpac Stadium,0,0,2008,0
+IRBell,England,Sri Lanka,30,48,1,0,62.5,11,1,13,1,0,13.0,Old Trafford,0,0,2006,54
+IRBell,England,Sri Lanka,11,12,0,0,91.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,0,2014,11
+IRBell,England,India,36,40,6,0,90.0,0,0,0,0,0,0,Lord's,0,0,2007,42
+IRBell,England,South Africa,88,141,8,1,62.4113475177305,0,0,0,0,0,0,Lord's,0,0,2012,104
+IRBell,England,Sri Lanka,50,57,4,1,87.71929824561403,0,0,0,0,0,0,Kennington Oval,0,1,2014,72
+IRBell,England,West Indies,50,81,6,0,61.72839506172839,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,62
+IRBell,England,New Zealand,43,41,5,0,104.8780487804878,0,0,0,0,0,0,McLean Park,0,0,2008,48
+IRBell,England,New Zealand,44,66,5,0,66.66666666666666,0,0,0,0,0,0,McLean Park,0,0,2013,47
+IRBell,England,Sri Lanka,37,43,3,0,86.04651162790698,0,0,0,0,0,0,Edgbaston,0,0,2014,40
+IRBell,England,Australia,43,61,7,0,70.49180327868852,0,0,0,0,0,0,Sawai Mansingh Stadium,0,0,2006,50
+IRBell,England,India,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Sawai Mansingh Stadium,0,0,2006,0
+IRBell,England,India,10,27,2,0,37.03703703703704,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2013,6
+IRBell,England,New Zealand,0,3,0,0,0.0,0,0,0,0,0,0,Edgbaston,0,0,2008,-8
+IRBell,England,New Zealand,18,27,3,0,66.66666666666666,0,0,0,0,0,0,Lord's,0,0,2013,19
+IRBell,England,South Africa,20,30,2,0,66.66666666666666,0,0,0,0,0,0,Kennington Oval,0,0,2013,20
+IRBell,England,Ireland,81,87,6,1,93.10344827586206,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2011,97
+IRBell,England,Pakistan,9,22,1,0,40.909090909090914,12,2,11,0,0,5.5,Lord's,0,0,2006,6
+IRBell,England,India,1,8,0,0,12.5,0,0,0,0,0,0,Nehru Stadium,0,1,2013,3
+IRBell,England,Afghanistan,52,56,6,0,92.85714285714286,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2015,66
+IRBell,England,South Africa,45,42,5,0,107.14285714285714,0,0,0,0,0,0,The Rose Bowl,0,0,2012,50
+IRBell,England,Kenya,16,19,2,0,84.21052631578947,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2007,18
+IRBell,England,India,69,71,4,1,97.1830985915493,0,0,0,0,0,0,M Chinnaswamy Stadium,0,1,2011,91
+IRBell,England,India,88,94,8,0,93.61702127659575,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2015,104
+IRBell,England,India,64,99,6,1,64.64646464646465,0,0,0,0,0,0,County Ground,0,0,2007,78
+IRBell,England,India,28,39,0,0,71.7948717948718,0,0,0,0,0,0,Trent Bridge,0,0,2014,28
+IRBell,England,Bangladesh,63,82,7,0,76.82926829268293,0,0,0,0,0,0,Adelaide Oval,0,0,2015,78
+IRBell,England,India,26,21,0,2,123.80952380952381,0,0,0,0,0,0,Sophia Gardens,0,0,2011,30
+IRBell,England,Australia,69,95,9,0,72.63157894736842,0,0,0,0,0,0,Riverside Ground,0,0,2012,86
+IRBell,England,Sri Lanka,25,49,3,0,51.02040816326531,0,0,0,0,0,0,R Premadasa Stadium,0,0,2007,24
+IRBell,England,West Indies,27,46,4,0,58.69565217391305,0,0,0,0,0,0,Trent Bridge,0,1,2007,35
+IRBell,England,Sri Lanka,35,36,3,0,97.22222222222221,0,0,0,0,0,0,R Premadasa Stadium,0,0,2014,38
+IRBell,England,South Africa,13,17,1,0,76.47058823529412,0,0,0,0,0,0,Lord's,0,1,2008,22
+IRBell,England,Scotland,54,86,2,0,62.7906976744186,0,0,0,0,0,0,Hagley Oval,0,0,2015,62
+IRBell,England,Ireland,80,106,4,0,75.47169811320755,31,5,39,2,0,7.8,Civil Service Cricket Club Stormont,0,0,2006,142
+IRBell,England,West Indies,126,121,12,1,104.13223140495869,0,0,0,0,0,0,The Rose Bowl,0,0,2012,156
+IRBell,England,New Zealand,20,45,3,0,44.44444444444444,0,0,0,0,0,0,County Ground,0,0,2008,17
+IRBell,England,Pakistan,42,66,3,0,63.63636363636363,0,0,0,0,0,0,The Rose Bowl,0,0,2006,43
+IRBell,England,New Zealand,12,29,2,0,41.37931034482759,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2007,16
+IRBell,England,New Zealand,46,56,5,1,82.14285714285714,0,0,0,0,0,0,Kennington Oval,2,1,2008,85
+IRBell,England,Sri Lanka,77,117,3,0,65.8119658119658,5,0,12,0,0,0,Riverside Ground,0,0,2006,86
+IRBell,England,India,79,90,2,2,87.77777777777777,0,0,0,0,0,0,Edgbaston,1,2,2007,121
+IRBell,England,Australia,8,9,2,0,88.88888888888889,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2015,10
+IRBell,England,Australia,41,57,2,1,71.9298245614035,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2014,45
+IRBell,England,India,49,59,9,0,83.05084745762711,0,0,0,0,0,0,Kennington Oval,1,0,2007,70
+IRBell,England,India,25,35,3,0,71.42857142857143,0,0,0,0,0,0,Madhavrao Scindia Cricket Ground,0,2,2008,44
+IRBell,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Adelaide Oval,0,1,2011,0
+IRBell,England,Pakistan,2,10,0,0,20.0,0,0,0,0,0,0,Edgbaston,0,0,2006,-4
+IRBell,England,Australia,35,31,2,1,112.90322580645163,0,0,0,0,0,0,Adelaide Oval,0,0,2007,39
+IRBell,England,New Zealand,46,59,5,1,77.96610169491525,0,0,0,0,0,0,Riverside Ground,0,2,2008,69
+IRBell,England,Pakistan,28,52,2,0,53.84615384615385,0,0,0,0,0,0,The Rose Bowl,0,0,2010,26

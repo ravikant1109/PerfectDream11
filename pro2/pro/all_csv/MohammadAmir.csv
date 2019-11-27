@@ -1,63 +1,79 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MohammadAmir,Pakistan,Netherlands,0,0,0,0,0,11,1,16,1,0,16.0,Lord's,25
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,24,4,32,0,0,8.0,Shere Bangla National Stadium,0
-MohammadAmir,Pakistan,Sri Lanka,5,3,0,0,166.66666666666669,25,4,40,0,0,10.0,Gaddafi Stadium,3
-MohammadAmir,Pakistan,England,0,0,0,0,0,23,3,35,0,0,11.666666666666666,Old Trafford,-6
-MohammadAmir,Pakistan,Australia,21,11,0,2,190.9090909090909,23,3,28,3,0,9.333333333333334,Edgbaston,98
-MohammadAmir,Pakistan,New Zealand,1,7,0,0,14.285714285714285,23,3,36,0,0,12.0,Westpac Stadium,-11
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,17,2,39,0,0,19.5,Seddon Park,-6
-MohammadAmir,Pakistan,Netherlands,0,0,0,0,0,11,1,16,1,0,16.0,Lord's,25
-MohammadAmir,Pakistan,Netherlands,0,0,0,0,0,11,1,16,1,0,16.0,Lord's,25
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,24,4,32,0,0,8.0,Shere Bangla National Stadium,0
-MohammadAmir,Pakistan,Sri Lanka,5,3,0,0,166.66666666666669,25,4,40,0,0,10.0,Gaddafi Stadium,3
-MohammadAmir,Pakistan,England,0,0,0,0,0,23,3,35,0,0,11.666666666666666,Old Trafford,-6
-MohammadAmir,Pakistan,Australia,21,11,0,2,190.9090909090909,23,3,28,3,0,9.333333333333334,Edgbaston,98
-MohammadAmir,Pakistan,New Zealand,1,7,0,0,14.285714285714285,23,3,36,0,0,12.0,Westpac Stadium,-11
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,17,2,39,0,0,19.5,Seddon Park,-6
-MohammadAmir,Pakistan,Netherlands,0,0,0,0,0,11,1,16,1,0,16.0,Lord's,25
-MohammadAmir,Pakistan,Netherlands,0,0,0,0,0,11,1,16,1,0,16.0,Lord's,25
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,24,4,32,0,0,8.0,Shere Bangla National Stadium,0
-MohammadAmir,Pakistan,Sri Lanka,5,3,0,0,166.66666666666669,25,4,40,0,0,10.0,Gaddafi Stadium,3
-MohammadAmir,Pakistan,England,0,0,0,0,0,23,3,35,0,0,11.666666666666666,Old Trafford,-6
-MohammadAmir,Pakistan,Australia,21,11,0,2,190.9090909090909,23,3,28,3,0,9.333333333333334,Edgbaston,98
-MohammadAmir,Pakistan,New Zealand,1,7,0,0,14.285714285714285,23,3,36,0,0,12.0,Westpac Stadium,-11
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,17,2,39,0,0,19.5,Seddon Park,-6
-MohammadAmir,Pakistan,Sri Lanka,1,2,0,0,50.0,23,3,27,0,0,9.0,Gaddafi Stadium,-3
-MohammadAmir,Pakistan,South Africa,0,0,0,0,0,23,3,33,0,0,11.0,Beausejour Stadium Gros Islet,-4
-MohammadAmir,Pakistan,Bangladesh,0,0,0,0,0,24,4,26,2,0,6.5,Shere Bangla National Stadium,50
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,23,3,30,0,0,10.0,Lord's,-2
-MohammadAmir,Pakistan,India,1,9,0,0,11.11111111111111,25,4,20,3,0,5.0,Shere Bangla National Stadium,72
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,23,3,30,1,1,10.0,Lord's,31
-MohammadAmir,Pakistan,Australia,11,13,0,0,84.61538461538461,24,4,28,3,0,7.0,Edgbaston,86
-MohammadAmir,Pakistan,England,3,7,0,0,42.857142857142854,24,4,25,0,0,6.25,Kensington Oval Bridgetown,-3
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,24,4,27,3,0,6.75,Gaddafi Stadium,75
-MohammadAmir,Pakistan,Australia,0,0,0,0,0,26,4,37,3,0,9.25,Beausejour Stadium Gros Islet,73
-MohammadAmir,Pakistan,Australia,2,3,0,0,66.66666666666666,23,3,23,3,1,7.666666666666667,Beausejour Stadium Gros Islet,83
-MohammadAmir,Pakistan,Australia,0,0,0,0,0,24,4,41,0,0,10.25,Punjab Cricket Association IS Bindra Stadium Mohali,-4
-MohammadAmir,Pakistan,West Indies,0,0,0,0,0,23,3,21,0,0,7.0,Sheikh Zayed Stadium,0
-MohammadAmir,Pakistan,Bangladesh,0,0,0,0,0,25,4,29,2,0,7.25,Eden Gardens,50
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,24,4,41,0,0,10.25,Punjab Cricket Association IS Bindra Stadium Mohali,-4
-MohammadAmir,Pakistan,United Arab Emirates,0,0,0,0,0,23,3,6,2,1,2.0,Shere Bangla National Stadium,64
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,20,3,20,0,0,6.666666666666667,Kensington Oval Bridgetown,0
-MohammadAmir,Pakistan,New Zealand,2,2,0,0,100.0,17,2,22,2,0,11.0,Dubai International Cricket Stadium,48
-MohammadAmir,Pakistan,India,0,0,0,0,0,18,3,14,1,0,4.666666666666667,Eden Gardens,29
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,17,2,23,1,0,11.5,Kennington Oval,19
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,23,3,35,0,0,11.666666666666666,Dubai International Cricket Stadium,-6
-MohammadAmir,Pakistan,Ireland,0,0,0,0,0,24,4,22,1,0,5.5,Kennington Oval,27
-MohammadAmir,Pakistan,Bangladesh,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Beausejour Stadium Gros Islet,52
-MohammadAmir,Pakistan,England,0,0,0,0,0,17,2,31,1,0,15.5,Kennington Oval,19
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,25,4,36,1,0,9.0,Eden Park,25
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,18,3,24,1,0,8.0,R Premadasa Stadium,25
-MohammadAmir,Pakistan,South Africa,0,0,0,0,0,23,3,30,1,0,10.0,Trent Bridge,23
-MohammadAmir,Pakistan,Netherlands,0,0,0,0,0,11,1,16,1,0,16.0,Lord's,25
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,24,4,32,0,0,8.0,Shere Bangla National Stadium,0
-MohammadAmir,Pakistan,Sri Lanka,5,3,0,0,166.66666666666669,25,4,40,0,0,10.0,Gaddafi Stadium,3
-MohammadAmir,Pakistan,England,0,0,0,0,0,23,3,35,0,0,11.666666666666666,Old Trafford,-6
-MohammadAmir,Pakistan,Australia,21,11,0,2,190.9090909090909,23,3,28,3,0,9.333333333333334,Edgbaston,98
-MohammadAmir,Pakistan,New Zealand,1,7,0,0,14.285714285714285,23,3,36,0,0,12.0,Westpac Stadium,-11
-MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,17,2,39,0,0,19.5,Seddon Park,-6
-MohammadAmir,Pakistan,Sri Lanka,1,2,0,0,50.0,23,3,27,0,0,9.0,Gaddafi Stadium,-3
-MohammadAmir,Pakistan,South Africa,0,0,0,0,0,23,3,33,0,0,11.0,Beausejour Stadium Gros Islet,-4
-MohammadAmir,Pakistan,Bangladesh,0,0,0,0,0,24,4,26,2,0,6.5,Shere Bangla National Stadium,50
-MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,23,3,30,0,0,10.0,Lord's,-2
-MohammadAmir,Pakistan,India,1,9,0,0,11.11111111111111,25,4,20,3,0,5.0,Shere Bangla National Stadium,72
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,24,4,41,0,0,10.25,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,-4
+MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,25,4,36,1,0,9.0,Eden Park,0,0,2016,25
+MohammadAmir,Pakistan,Bangladesh,0,0,0,0,0,24,4,26,2,0,6.5,Shere Bangla National Stadium,0,0,2016,50
+MohammadAmir,Pakistan,Australia,0,0,0,0,0,26,4,37,3,0,9.25,Beausejour Stadium Gros Islet,0,0,2010,73
+MohammadAmir,Pakistan,England,3,7,0,0,42.857142857142854,24,4,25,0,0,6.25,Kensington Oval Bridgetown,0,0,2010,-3
+MohammadAmir,Pakistan,United Arab Emirates,0,0,0,0,0,23,3,6,2,1,2.0,Shere Bangla National Stadium,0,0,2016,64
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,24,4,32,0,0,8.0,Shere Bangla National Stadium,0,0,2016,0
+MohammadAmir,Pakistan,Netherlands,0,0,0,0,0,11,1,16,1,0,16.0,Lord's,0,0,2009,25
+MohammadAmir,Pakistan,South Africa,0,0,0,0,0,23,3,30,1,0,10.0,Trent Bridge,0,0,2009,23
+MohammadAmir,Pakistan,Ireland,0,0,0,0,0,24,4,22,1,0,5.5,Kennington Oval,0,0,2009,27
+MohammadAmir,Pakistan,Bangladesh,0,0,0,0,0,25,4,29,2,0,7.25,Eden Gardens,0,1,2016,58
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,23,3,30,1,1,10.0,Lord's,0,0,2009,31
+MohammadAmir,Pakistan,New Zealand,2,2,0,0,100.0,17,2,22,2,0,11.0,Dubai International Cricket Stadium,0,0,2009,48
+MohammadAmir,Pakistan,India,1,9,0,0,11.11111111111111,25,4,20,3,0,5.0,Shere Bangla National Stadium,0,0,2016,72
+MohammadAmir,Pakistan,South Africa,0,0,0,0,0,23,3,33,0,0,11.0,Beausejour Stadium Gros Islet,0,0,2010,-4
+MohammadAmir,Pakistan,West Indies,0,0,0,0,0,23,3,21,0,0,7.0,Sheikh Zayed Stadium,0,0,2016,0
+MohammadAmir,Pakistan,Sri Lanka,1,2,0,0,50.0,23,3,27,0,0,9.0,Gaddafi Stadium,1,0,2019,9
+MohammadAmir,Pakistan,Australia,2,3,0,0,66.66666666666666,23,3,23,3,1,7.666666666666667,Beausejour Stadium Gros Islet,0,0,2010,83
+MohammadAmir,Pakistan,India,0,0,0,0,0,18,3,14,1,0,4.666666666666667,Eden Gardens,0,0,2016,29
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,23,3,30,0,0,10.0,Lord's,0,0,2009,-2
+MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,20,3,20,0,0,6.666666666666667,Kensington Oval Bridgetown,0,0,2010,0
+MohammadAmir,Pakistan,Australia,0,0,0,0,0,24,4,41,0,0,10.25,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,-4
+MohammadAmir,Pakistan,Australia,21,11,0,2,190.9090909090909,23,3,28,3,0,9.333333333333334,Edgbaston,0,0,2010,98
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,24,4,27,3,0,6.75,Gaddafi Stadium,0,0,2019,75
+MohammadAmir,Pakistan,England,0,0,0,0,0,23,3,35,0,0,11.666666666666666,Old Trafford,0,0,2016,-6
+MohammadAmir,Pakistan,England,0,0,0,0,0,17,2,31,1,0,15.5,Kennington Oval,0,0,2009,19
+MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,17,2,39,0,0,19.5,Seddon Park,0,0,2016,-6
+MohammadAmir,Pakistan,New Zealand,1,7,0,0,14.285714285714285,23,3,36,0,0,12.0,Westpac Stadium,0,0,2016,-11
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,18,3,24,1,0,8.0,R Premadasa Stadium,0,0,2009,25
+MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,17,2,23,1,0,11.5,Kennington Oval,0,0,2009,19
+MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,23,3,35,0,0,11.666666666666666,Dubai International Cricket Stadium,0,0,2009,-6
+MohammadAmir,Pakistan,Bangladesh,0,0,0,0,0,23,3,16,2,0,5.333333333333333,Beausejour Stadium Gros Islet,0,1,2010,60
+MohammadAmir,Pakistan,Sri Lanka,5,3,0,0,166.66666666666669,25,4,40,0,0,10.0,Gaddafi Stadium,0,0,2019,3
+MohammadAmir,Pakistan,Australia,11,13,0,0,84.61538461538461,24,4,28,3,0,7.0,Edgbaston,0,0,2010,86
+MohammadAmir,Pakistan,England,0,0,0,0,0,59,9,51,3,0,5.666666666666667,Sophia Gardens,0,0,2016,77
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,43,7,21,1,1,3.0,National Stadium,0,0,2019,39
+MohammadAmir,Pakistan,England,0,0,0,0,0,35,5,33,0,0,6.6,The Rose Bowl,0,0,2016,0
+MohammadAmir,Pakistan,Australia,4,6,0,0,66.66666666666666,60,10,36,1,0,3.6,Western Australia Cricket Association Ground,0,0,2017,33
+MohammadAmir,Pakistan,England,58,29,5,4,200.0,60,10,77,0,0,7.7,Trent Bridge,0,0,2016,79
+MohammadAmir,Pakistan,Australia,17,14,1,1,121.42857142857142,60,10,71,1,0,7.1,Adelaide Oval,0,0,2017,45
+MohammadAmir,Pakistan,New Zealand,19,21,4,0,90.47619047619048,61,10,33,1,3,3.3,New Wanderers Stadium,0,0,2009,78
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,62,10,51,3,0,5.1,National Stadium,1,0,2019,89
+MohammadAmir,Pakistan,England,6,6,1,0,100.0,59,9,41,1,2,4.555555555555555,Lord's,0,0,2016,52
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,55,9,28,4,1,3.111111111111111,R Premadasa Stadium,0,0,2009,122
+MohammadAmir,Pakistan,Australia,5,6,1,0,83.33333333333334,59,9,78,1,0,8.666666666666666,Sydney Cricket Ground,0,0,2017,31
+MohammadAmir,Pakistan,India,3,7,0,0,42.857142857142854,61,10,57,0,0,5.7,Rangiri Dambulla International Stadium,0,0,2010,-1
+MohammadAmir,Pakistan,India,9,17,0,0,52.94117647058824,48,8,33,0,1,4.125,Edgbaston,0,0,2017,17
+MohammadAmir,Pakistan,Sri Lanka,28,44,1,0,63.63636363636363,61,10,55,2,0,5.5,Sophia Gardens,0,0,2017,79
+MohammadAmir,Pakistan,Sri Lanka,5,14,0,0,35.714285714285715,60,10,59,2,1,5.9,Rangiri Dambulla International Stadium,0,0,2010,59
+MohammadAmir,Pakistan,West Indies,0,0,0,0,0,55,9,50,1,0,5.555555555555555,Sharjah Cricket Stadium,0,0,2016,27
+MohammadAmir,Pakistan,Sri Lanka,4,7,0,0,57.14285714285714,58,9,46,1,1,5.111111111111111,Rangiri Dambulla International Stadium,0,0,2009,35
+MohammadAmir,Pakistan,New Zealand,0,0,0,0,0,61,10,70,1,0,7.0,Edgbaston,0,0,2019,25
+MohammadAmir,Pakistan,West Indies,0,0,0,0,0,42,7,24,3,1,3.4285714285714284,New Wanderers Stadium,0,0,2009,89
+MohammadAmir,Pakistan,Australia,0,1,0,0,0.0,55,9,37,1,0,4.111111111111111,Brisbane Cricket Ground Woolloongabba,0,0,2010,21
+MohammadAmir,Pakistan,Australia,0,0,0,0,0,56,9,48,3,0,5.333333333333333,Melbourne Cricket Ground,0,0,2017,77
+MohammadAmir,Pakistan,Afghanistan,0,0,0,0,0,60,10,41,0,2,4.1,Headingley,0,1,2019,28
+MohammadAmir,Pakistan,West Indies,0,0,0,0,0,41,6,36,1,1,6.0,Providence Stadium,0,0,2017,33
+MohammadAmir,Pakistan,India,0,1,0,0,0.0,53,8,46,2,0,5.75,SuperSport Park,0,0,2009,44
+MohammadAmir,Pakistan,New Zealand,12,15,2,0,80.0,63,10,70,1,0,7.0,Sheikh Zayed Stadium,0,1,2009,47
+MohammadAmir,Pakistan,West Indies,3,6,0,0,50.0,36,6,28,3,0,4.666666666666667,Trent Bridge,0,0,2019,78
+MohammadAmir,Pakistan,West Indies,3,4,0,0,75.0,29,4,22,1,1,5.5,Sharjah Cricket Stadium,0,0,2016,38
+MohammadAmir,Pakistan,South Africa,0,0,0,0,0,60,10,49,2,1,4.9,Lord's,0,0,2019,62
+MohammadAmir,Pakistan,Australia,4,9,0,0,44.44444444444444,54,9,56,3,0,6.222222222222222,Sydney Cricket Ground,0,0,2010,73
+MohammadAmir,Pakistan,India,0,0,0,0,0,35,5,17,3,2,3.4,Kennington Oval,0,0,2017,97
+MohammadAmir,Pakistan,Australia,8,10,0,0,80.0,62,10,54,2,0,5.4,Brisbane Cricket Ground Woolloongabba,0,0,2017,60
+MohammadAmir,Pakistan,New Zealand,1,3,0,0,33.33333333333333,55,9,40,2,0,4.444444444444445,Eden Park,0,0,2016,49
+MohammadAmir,Pakistan,Sri Lanka,24,33,3,0,72.72727272727273,60,10,34,1,2,3.4,Rangiri Dambulla International Stadium,0,0,2009,74
+MohammadAmir,Pakistan,West Indies,0,0,0,0,0,53,8,41,2,0,5.125,Providence Stadium,1,0,2017,64
+MohammadAmir,Pakistan,Ireland,0,0,0,0,0,24,4,7,1,1,1.75,The Village Malahide,0,0,2016,39
+MohammadAmir,Pakistan,Bangladesh,8,6,1,0,133.33333333333331,42,7,31,1,0,4.428571428571429,Lord's,0,1,2019,46
+MohammadAmir,Pakistan,India,0,0,0,0,0,60,10,48,3,2,4.8,Old Trafford,0,0,2019,95
+MohammadAmir,Pakistan,Australia,0,3,0,0,0.0,60,10,30,5,2,3.0,The Cooper Associates County Ground,0,0,2019,155
+MohammadAmir,Pakistan,Sri Lanka,0,0,0,0,0,30,5,34,0,0,6.8,R Premadasa Stadium,0,1,2009,8
+MohammadAmir,Pakistan,New Zealand,0,1,0,0,0.0,41,6,18,1,1,3.0,Sheikh Zayed Stadium,0,0,2009,31
+MohammadAmir,Pakistan,New Zealand,73,82,7,3,89.02439024390245,50,8,45,2,0,5.625,Sheikh Zayed Stadium,0,1,2009,154
+MohammadAmir,Pakistan,Sri Lanka,23,29,2,0,79.3103448275862,61,10,47,3,0,4.7,Rangiri Dambulla International Stadium,0,1,2009,112
+MohammadAmir,Pakistan,England,0,0,0,0,0,62,10,68,2,0,6.8,Trent Bridge,0,0,2019,50
+MohammadAmir,Pakistan,New Zealand,0,5,0,0,0.0,51,8,32,3,1,4.0,Basin Reserve,0,0,2016,79

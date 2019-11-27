@@ -1,9 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DJReekers,Netherlands,Pakistan,13,6,3,0,216.66666666666666,0,0,0,0,0,0,Lord's,16
-DJReekers,Netherlands,Pakistan,13,6,3,0,216.66666666666666,0,0,0,0,0,0,Lord's,16
-DJReekers,Netherlands,Pakistan,13,6,3,0,216.66666666666666,0,0,0,0,0,0,Lord's,16
-DJReekers,Netherlands,Pakistan,13,6,3,0,216.66666666666666,0,0,0,0,0,0,Lord's,16
-DJReekers,Netherlands,Pakistan,13,6,3,0,216.66666666666666,0,0,0,0,0,0,Lord's,16
-DJReekers,Netherlands,England,20,13,1,2,153.84615384615387,0,0,0,0,0,0,Lord's,25
-DJReekers,Netherlands,Scotland,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0
-DJReekers,Netherlands,Pakistan,13,6,3,0,216.66666666666666,0,0,0,0,0,0,Lord's,16
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DJReekers,Netherlands,England,20,13,1,2,153.84615384615387,0,0,0,0,0,0,Lord's,0,0,2009,25
+DJReekers,Netherlands,Pakistan,13,6,3,0,216.66666666666666,0,0,0,0,0,0,Lord's,0,0,2009,16
+DJReekers,Netherlands,Scotland,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2008,8
+DJReekers,Netherlands,Scotland,9,8,1,0,112.5,37,6,23,1,0,3.8333333333333335,Warner Park Basseterre,0,0,2007,41
+DJReekers,Netherlands,Bermuda,0,2,0,0,0.0,37,6,26,2,1,4.333333333333333,Ruaraka Sports Club Ground,0,1,2007,62
+DJReekers,Netherlands,Australia,25,20,5,0,125.0,35,5,49,0,0,9.8,Warner Park Basseterre,0,0,2007,28
+DJReekers,Netherlands,South Africa,4,6,1,0,66.66666666666666,30,5,35,0,1,7.0,Warner Park Basseterre,0,0,2007,11
+DJReekers,Netherlands,Scotland,0,2,0,0,0.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,1,2008,0

@@ -1,22 +1,27 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CDMcMillan,New Zealand,Pakistan,12,6,1,1,200.0,0,0,0,0,0,0,Newlands,15
-CDMcMillan,New Zealand,Sri Lanka,2,5,0,0,40.0,0,0,0,0,0,0,New Wanderers Stadium,-4
-CDMcMillan,New Zealand,England,57,31,3,4,183.8709677419355,0,0,0,0,0,0,Kingsmead,76
-CDMcMillan,New Zealand,Australia,9,9,0,1,100.0,0,0,0,0,0,0,Eden Park,11
-CDMcMillan,New Zealand,Pakistan,12,6,1,1,200.0,0,0,0,0,0,0,Newlands,15
-CDMcMillan,New Zealand,Pakistan,12,6,1,1,200.0,0,0,0,0,0,0,Newlands,15
-CDMcMillan,New Zealand,Sri Lanka,2,5,0,0,40.0,0,0,0,0,0,0,New Wanderers Stadium,-4
-CDMcMillan,New Zealand,England,57,31,3,4,183.8709677419355,0,0,0,0,0,0,Kingsmead,76
-CDMcMillan,New Zealand,Australia,9,9,0,1,100.0,0,0,0,0,0,0,Eden Park,11
-CDMcMillan,New Zealand,Pakistan,12,6,1,1,200.0,0,0,0,0,0,0,Newlands,15
-CDMcMillan,New Zealand,Sri Lanka,2,5,0,0,40.0,0,0,0,0,0,0,New Wanderers Stadium,-4
-CDMcMillan,New Zealand,England,57,31,3,4,183.8709677419355,0,0,0,0,0,0,Kingsmead,76
-CDMcMillan,New Zealand,Australia,9,9,0,1,100.0,0,0,0,0,0,0,Eden Park,11
-CDMcMillan,New Zealand,South Africa,48,26,2,4,184.6153846153846,0,0,0,0,0,0,Kingsmead,58
-CDMcMillan,New Zealand,South Africa,15,19,1,0,78.94736842105263,0,0,0,0,0,0,New Wanderers Stadium,16
-CDMcMillan,New Zealand,India,44,23,1,4,191.30434782608697,0,0,0,0,0,0,New Wanderers Stadium,53
-CDMcMillan,New Zealand,Pakistan,12,6,1,1,200.0,0,0,0,0,0,0,Newlands,15
-CDMcMillan,New Zealand,Sri Lanka,2,5,0,0,40.0,0,0,0,0,0,0,New Wanderers Stadium,-4
-CDMcMillan,New Zealand,England,57,31,3,4,183.8709677419355,0,0,0,0,0,0,Kingsmead,76
-CDMcMillan,New Zealand,Australia,9,9,0,1,100.0,0,0,0,0,0,0,Eden Park,11
-CDMcMillan,New Zealand,South Africa,48,26,2,4,184.6153846153846,0,0,0,0,0,0,Kingsmead,58
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CDMcMillan,New Zealand,South Africa,48,26,2,4,184.6153846153846,0,0,0,0,0,0,Kingsmead,0,0,2007,58
+CDMcMillan,New Zealand,South Africa,15,19,1,0,78.94736842105263,0,0,0,0,0,0,New Wanderers Stadium,0,0,2005,16
+CDMcMillan,New Zealand,England,57,31,3,4,183.8709677419355,0,0,0,0,0,0,Kingsmead,1,1,2007,96
+CDMcMillan,New Zealand,Australia,9,9,0,1,100.0,0,0,0,0,0,0,Eden Park,0,2,2005,27
+CDMcMillan,New Zealand,Sri Lanka,2,5,0,0,40.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,-4
+CDMcMillan,New Zealand,Pakistan,12,6,1,1,200.0,0,0,0,0,0,0,Newlands,0,0,2007,15
+CDMcMillan,New Zealand,India,44,23,1,4,191.30434782608697,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,53
+CDMcMillan,New Zealand,Australia,0,0,0,0,0,11,1,3,1,0,3.0,Westpac Stadium,0,0,2007,25
+CDMcMillan,New Zealand,Kenya,71,48,3,5,147.91666666666669,59,9,39,0,0,4.333333333333333,Beausejour Stadium Gros Islet,0,0,2007,96
+CDMcMillan,New Zealand,Canada,10,6,1,0,166.66666666666669,17,2,21,0,0,10.5,Beausejour Stadium Gros Islet,0,0,2007,7
+CDMcMillan,New Zealand,Australia,89,90,7,3,98.88888888888889,35,5,28,1,0,5.6,Sydney Cricket Ground,0,0,2007,137
+CDMcMillan,New Zealand,England,11,13,2,0,84.61538461538461,41,6,38,2,1,6.333333333333333,Western Australia Cricket Association Ground,0,0,2007,71
+CDMcMillan,New Zealand,Sri Lanka,1,7,0,0,14.285714285714285,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2007,-5
+CDMcMillan,New Zealand,England,22,40,2,0,55.00000000000001,28,4,22,0,0,5.5,Bellerive Oval,0,0,2007,22
+CDMcMillan,New Zealand,Bangladesh,0,0,0,0,0,8,1,6,0,0,6.0,Sir Vivian Richards Stadium North Sound,0,0,2007,0
+CDMcMillan,New Zealand,Australia,52,30,6,2,173.33333333333334,30,5,44,1,0,8.8,Eden Park,0,0,2007,95
+CDMcMillan,New Zealand,South Africa,38,56,2,1,67.85714285714286,29,4,23,3,1,5.75,National Cricket Stadium St George's,0,0,2007,125
+CDMcMillan,New Zealand,Australia,117,99,13,5,118.18181818181819,11,1,28,0,0,28.0,Seddon Park,0,0,2007,156
+CDMcMillan,New Zealand,Australia,5,6,1,0,83.33333333333334,17,2,26,1,0,13.0,Western Australia Cricket Association Ground,0,0,2007,25
+CDMcMillan,New Zealand,England,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Adelaide Oval,0,0,2007,-4
+CDMcMillan,New Zealand,England,27,34,3,0,79.41176470588235,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2007,30
+CDMcMillan,New Zealand,Sri Lanka,25,20,1,2,125.0,0,0,0,0,0,0,Sabina Park Kingston,0,0,2007,30
+CDMcMillan,New Zealand,Australia,2,8,0,0,25.0,11,1,10,1,1,10.0,Bellerive Oval,0,1,2007,37
+CDMcMillan,New Zealand,Ireland,22,30,1,1,73.33333333333333,0,0,0,0,0,0,Providence Stadium,0,0,2007,25
+CDMcMillan,New Zealand,West Indies,33,58,3,0,56.896551724137936,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,32
+CDMcMillan,New Zealand,Sri Lanka,29,64,5,0,45.3125,11,1,9,0,0,9.0,Eden Park,0,0,2007,28

@@ -1,34 +1,53 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-FawadAlam,Pakistan,Netherlands,3,2,0,0,150.0,0,0,0,0,0,0,Lord's,3
-FawadAlam,Pakistan,New Zealand,0,0,0,0,0,17,2,29,2,0,14.5,Newlands,44
-FawadAlam,Pakistan,New Zealand,9,11,1,0,81.81818181818183,0,0,0,0,0,0,Eden Park,10
-FawadAlam,Pakistan,Netherlands,3,2,0,0,150.0,0,0,0,0,0,0,Lord's,3
-FawadAlam,Pakistan,New Zealand,0,0,0,0,0,17,2,29,2,0,14.5,Newlands,44
-FawadAlam,Pakistan,Netherlands,3,2,0,0,150.0,0,0,0,0,0,0,Lord's,3
-FawadAlam,Pakistan,New Zealand,0,0,0,0,0,17,2,29,2,0,14.5,Newlands,44
-FawadAlam,Pakistan,New Zealand,9,11,1,0,81.81818181818183,0,0,0,0,0,0,Eden Park,10
-FawadAlam,Pakistan,Netherlands,3,2,0,0,150.0,0,0,0,0,0,0,Lord's,3
-FawadAlam,Pakistan,Netherlands,3,2,0,0,150.0,0,0,0,0,0,0,Lord's,3
-FawadAlam,Pakistan,New Zealand,0,0,0,0,0,17,2,29,2,0,14.5,Newlands,44
-FawadAlam,Pakistan,New Zealand,9,11,1,0,81.81818181818183,0,0,0,0,0,0,Eden Park,10
-FawadAlam,Pakistan,England,23,23,0,1,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,25
-FawadAlam,Pakistan,Australia,1,5,0,0,20.0,0,0,0,0,0,0,Melbourne Cricket Ground,-5
-FawadAlam,Pakistan,Sri Lanka,12,11,1,0,109.09090909090908,0,0,0,0,0,0,Lord's,13
-FawadAlam,Pakistan,England,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,-5
-FawadAlam,Pakistan,Bangladesh,16,7,1,1,228.57142857142856,0,0,0,0,0,0,National Stadium,19
-FawadAlam,Pakistan,Kenya,3,4,0,0,75.0,23,3,15,1,0,5.0,Gymkhana Club Ground,30
-FawadAlam,Pakistan,Australia,16,11,1,1,145.45454545454547,0,0,0,0,0,0,Beausejour Stadium Gros Islet,19
-FawadAlam,Pakistan,England,0,1,0,0,0.0,0,0,0,0,0,0,Sophia Gardens,-8
-FawadAlam,Pakistan,England,28,20,2,0,140.0,0,0,0,0,0,0,Dubai International Cricket Stadium,30
-FawadAlam,Pakistan,New Zealand,15,14,0,0,107.14285714285714,0,0,0,0,0,0,Dubai International Cricket Stadium,15
-FawadAlam,Pakistan,New Zealand,17,13,0,1,130.76923076923077,0,0,0,0,0,0,Dubai International Cricket Stadium,19
-FawadAlam,Pakistan,Sri Lanka,2,5,0,0,40.0,17,2,16,1,0,8.0,Maple Leaf North-West Ground,21
-FawadAlam,Pakistan,England,20,29,0,0,68.96551724137932,0,0,0,0,0,0,Sophia Gardens,18
-FawadAlam,Pakistan,Sri Lanka,23,8,0,3,287.5,5,0,13,1,0,0,Maple Leaf North-West Ground,54
-FawadAlam,Pakistan,South Africa,0,0,0,0,0,5,0,15,0,0,0,Trent Bridge,0
-FawadAlam,Pakistan,Netherlands,3,2,0,0,150.0,0,0,0,0,0,0,Lord's,3
-FawadAlam,Pakistan,New Zealand,0,0,0,0,0,17,2,29,2,0,14.5,Newlands,44
-FawadAlam,Pakistan,New Zealand,9,11,1,0,81.81818181818183,0,0,0,0,0,0,Eden Park,10
-FawadAlam,Pakistan,England,23,23,0,1,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,25
-FawadAlam,Pakistan,Australia,1,5,0,0,20.0,0,0,0,0,0,0,Melbourne Cricket Ground,-5
-FawadAlam,Pakistan,Sri Lanka,12,11,1,0,109.09090909090908,0,0,0,0,0,0,Lord's,13
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+FawadAlam,Pakistan,Bangladesh,16,7,1,1,228.57142857142856,0,0,0,0,0,0,National Stadium,1,0,2008,31
+FawadAlam,Pakistan,Sri Lanka,23,8,0,3,287.5,5,0,13,1,0,0,Maple Leaf North-West Ground,0,0,2008,54
+FawadAlam,Pakistan,England,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,-5
+FawadAlam,Pakistan,Netherlands,3,2,0,0,150.0,0,0,0,0,0,0,Lord's,0,0,2009,3
+FawadAlam,Pakistan,South Africa,0,0,0,0,0,5,0,15,0,0,0,Trent Bridge,1,0,2009,12
+FawadAlam,Pakistan,New Zealand,9,11,1,0,81.81818181818183,0,0,0,0,0,0,Eden Park,0,0,2010,10
+FawadAlam,Pakistan,England,23,23,0,1,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,25
+FawadAlam,Pakistan,England,20,29,0,0,68.96551724137932,0,0,0,0,0,0,Sophia Gardens,0,0,2010,18
+FawadAlam,Pakistan,Kenya,3,4,0,0,75.0,23,3,15,1,0,5.0,Gymkhana Club Ground,0,0,2007,30
+FawadAlam,Pakistan,New Zealand,15,14,0,0,107.14285714285714,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2009,23
+FawadAlam,Pakistan,Australia,16,11,1,1,145.45454545454547,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,2,2010,35
+FawadAlam,Pakistan,Sri Lanka,12,11,1,0,109.09090909090908,0,0,0,0,0,0,Lord's,0,0,2009,13
+FawadAlam,Pakistan,England,28,20,2,0,140.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,30
+FawadAlam,Pakistan,Australia,1,5,0,0,20.0,0,0,0,0,0,0,Melbourne Cricket Ground,1,2,2010,23
+FawadAlam,Pakistan,New Zealand,0,0,0,0,0,17,2,29,2,0,14.5,Newlands,1,0,2007,56
+FawadAlam,Pakistan,England,0,1,0,0,0.0,0,0,0,0,0,0,Sophia Gardens,0,0,2010,-8
+FawadAlam,Pakistan,Sri Lanka,2,5,0,0,40.0,17,2,16,1,0,8.0,Maple Leaf North-West Ground,0,0,2008,21
+FawadAlam,Pakistan,New Zealand,17,13,0,1,130.76923076923077,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2009,19
+FawadAlam,Pakistan,South Africa,59,69,3,0,85.5072463768116,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2010,78
+FawadAlam,Pakistan,Australia,63,70,5,0,90.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2010,84
+FawadAlam,Pakistan,England,39,41,2,0,95.1219512195122,0,0,0,0,0,0,Riverside Ground,0,1,2010,49
+FawadAlam,Pakistan,Sri Lanka,38,75,3,0,50.66666666666667,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2014,37
+FawadAlam,Pakistan,Hong Kong,63,78,3,0,80.76923076923077,14,2,8,1,0,4.0,National Stadium,0,0,2008,103
+FawadAlam,Pakistan,India,0,0,0,0,0,42,7,66,0,0,9.428571428571429,National Stadium,0,1,2008,6
+FawadAlam,Pakistan,Bangladesh,5,3,1,0,166.66666666666669,24,4,26,0,0,6.5,Multan Cricket Stadium,0,2,2008,22
+FawadAlam,Pakistan,England,64,87,3,0,73.5632183908046,0,0,0,0,0,0,Kennington Oval,0,0,2010,75
+FawadAlam,Pakistan,Sri Lanka,30,41,3,0,73.17073170731707,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2014,33
+FawadAlam,Pakistan,Sri Lanka,13,34,1,0,38.23529411764706,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2009,16
+FawadAlam,Pakistan,Zimbabwe,14,12,2,0,116.66666666666667,47,7,28,1,0,4.0,Sheikhupura Stadium,0,0,2008,45
+FawadAlam,Pakistan,England,29,52,1,0,55.769230769230774,0,0,0,0,0,0,Lord's,0,1,2010,34
+FawadAlam,Pakistan,South Africa,9,13,0,0,69.23076923076923,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2010,7
+FawadAlam,Pakistan,Sri Lanka,62,61,7,0,101.63934426229508,5,0,10,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2014,77
+FawadAlam,Pakistan,Sri Lanka,114,136,8,3,83.82352941176471,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,144
+FawadAlam,Pakistan,Australia,7,25,0,0,28.000000000000004,17,2,23,1,0,11.5,Sharjah Cricket Stadium,0,0,2014,20
+FawadAlam,Pakistan,Bangladesh,2,7,0,0,28.57142857142857,35,5,34,0,0,6.8,Shere Bangla National Stadium,0,0,2008,-4
+FawadAlam,Pakistan,India,32,24,2,1,133.33333333333331,59,9,56,0,0,6.222222222222222,Sawai Mansingh Stadium,0,0,2007,36
+FawadAlam,Pakistan,Zimbabwe,12,17,1,0,70.58823529411765,59,9,45,1,0,5.0,Iqbal Stadium,0,0,2008,40
+FawadAlam,Pakistan,Bangladesh,0,6,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2015,0
+FawadAlam,Pakistan,Bangladesh,2,6,0,0,33.33333333333333,35,5,32,0,0,6.4,Gaddafi Stadium,2,0,2008,20
+FawadAlam,Pakistan,Australia,33,53,1,0,62.264150943396224,0,0,0,0,0,0,Adelaide Oval,0,0,2010,32
+FawadAlam,Pakistan,Sri Lanka,10,25,0,0,40.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2009,4
+FawadAlam,Pakistan,South Africa,6,8,0,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,6
+FawadAlam,Pakistan,West Indies,26,27,1,0,96.29629629629629,5,0,15,0,0,0,Sheikh Zayed Stadium,0,0,2008,27
+FawadAlam,Pakistan,England,20,16,2,0,125.0,0,0,0,0,0,0,Headingley,0,0,2010,22
+FawadAlam,Pakistan,Bangladesh,74,72,4,2,102.77777777777777,11,1,12,0,0,12.0,Shere Bangla National Stadium,0,0,2014,90
+FawadAlam,Pakistan,India,0,0,0,0,0,36,6,24,1,0,4.0,Shere Bangla National Stadium,0,0,2008,29
+FawadAlam,Pakistan,Bangladesh,14,19,1,0,73.68421052631578,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,15
+FawadAlam,Pakistan,Australia,20,39,1,0,51.28205128205128,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2014,17
+FawadAlam,Pakistan,South Africa,1,4,0,0,25.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,-5
+FawadAlam,Pakistan,Bangladesh,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,-2
+FawadAlam,Pakistan,Sri Lanka,31,59,2,0,52.54237288135594,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2009,29
+FawadAlam,Pakistan,England,1,5,0,0,20.0,0,0,0,0,0,0,The Rose Bowl,0,0,2010,-5

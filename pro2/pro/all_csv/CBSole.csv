@@ -1,2 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CBSole,Scotland,Oman,0,0,0,0,0,24,4,29,0,0,7.25,Dubai International Cricket Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CBSole,Scotland,Oman,0,0,0,0,0,24,4,29,0,0,7.25,Dubai International Cricket Stadium,0,0,2017,0
+CBSole,Scotland,Zimbabwe,0,0,0,0,0,49,8,40,1,1,5.0,Grange Cricket Club Ground Raeburn Place,0,2,2017,51
+CBSole,Scotland,Hong Kong,0,0,0,0,0,57,9,28,4,0,3.111111111111111,Grange Cricket Club Ground Raeburn Place,0,0,2016,114
+CBSole,Scotland,Hong Kong,0,0,0,0,0,27,4,27,0,0,6.75,Grange Cricket Club Ground Raeburn Place,0,0,2016,0
+CBSole,Scotland,United Arab Emirates,1,4,0,0,25.0,48,8,34,0,1,4.25,Dubai International Cricket Stadium,0,0,2017,7
+CBSole,Scotland,United Arab Emirates,0,0,0,0,0,63,10,52,3,0,5.2,Grange Cricket Club Ground Raeburn Place,0,0,2016,77
+CBSole,Scotland,Hong Kong,2,5,0,0,40.0,45,7,40,1,0,5.714285714285714,Sheikh Zayed Stadium,0,1,2017,31

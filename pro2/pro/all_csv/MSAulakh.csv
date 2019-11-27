@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MSAulakh,Canada,Kenya,0,2,0,0,0.0,28,4,41,2,0,10.25,ICC Global Cricket Academy,38
-MSAulakh,Canada,Kenya,0,0,0,0,0,13,2,13,0,0,6.5,ICC Global Cricket Academy,0
-MSAulakh,Canada,Scotland,0,0,0,0,0,18,3,31,1,0,10.333333333333334,Dubai International Cricket Stadium,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MSAulakh,Canada,Kenya,0,0,0,0,0,13,2,13,0,0,6.5,ICC Global Cricket Academy,0,1,2013,8
+MSAulakh,Canada,Scotland,0,0,0,0,0,18,3,31,1,0,10.333333333333334,Dubai International Cricket Stadium,0,0,2012,21
+MSAulakh,Canada,Kenya,0,2,0,0,0.0,28,4,41,2,0,10.25,ICC Global Cricket Academy,0,0,2013,38

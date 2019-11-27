@@ -1,24 +1,14 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NDavin,Namibia,Bermuda,37,12,2,4,308.33333333333337,0,0,0,0,0,0,ICC Academy Ground No 2,47
-NDavin,Namibia,Netherlands,12,8,1,0,150.0,0,0,0,0,0,0,ICC Academy,13
-NDavin,Namibia,Uganda,11,8,2,0,137.5,0,0,0,0,0,0,Kyambogo Cricket Oval,13
-NDavin,Namibia,Bermuda,37,12,2,4,308.33333333333337,0,0,0,0,0,0,ICC Academy Ground No 2,47
-NDavin,Namibia,Netherlands,12,8,1,0,150.0,0,0,0,0,0,0,ICC Academy,13
-NDavin,Namibia,Uganda,11,8,2,0,137.5,0,0,0,0,0,0,Kyambogo Cricket Oval,13
-NDavin,Namibia,Bermuda,37,12,2,4,308.33333333333337,0,0,0,0,0,0,ICC Academy Ground No 2,47
-NDavin,Namibia,Netherlands,12,8,1,0,150.0,0,0,0,0,0,0,ICC Academy,13
-NDavin,Namibia,Uganda,11,8,2,0,137.5,0,0,0,0,0,0,Kyambogo Cricket Oval,13
-NDavin,Namibia,Kenya,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Dubai International Cricket Stadium,6
-NDavin,Namibia,Scotland,23,19,2,1,121.05263157894737,0,0,0,0,0,0,ICC Academy,27
-NDavin,Namibia,Botswana,54,32,2,4,168.75,0,0,0,0,0,0,United Cricket Club Ground,72
-NDavin,Namibia,Ghana,38,28,4,2,135.71428571428572,0,0,0,0,0,0,Kyambogo Cricket Oval,46
-NDavin,Namibia,Botswana,12,14,1,0,85.71428571428571,0,0,0,0,0,0,United Cricket Club Ground,13
-NDavin,Namibia,Botswana,5,3,0,0,166.66666666666669,0,0,0,0,0,0,United Cricket Club Ground,5
-NDavin,Namibia,Papua New Guinea,15,8,1,1,187.5,0,0,0,0,0,0,ICC Academy Ground No 2,18
-NDavin,Namibia,Botswana,37,21,7,1,176.19047619047618,0,0,0,0,0,0,Kyambogo Cricket Oval,46
-NDavin,Namibia,Botswana,39,25,3,1,156.0,0,0,0,0,0,0,United Cricket Club Ground,44
-NDavin,Namibia,Singapore,21,17,3,0,123.52941176470588,0,0,0,0,0,0,Dubai International Cricket Stadium,24
-NDavin,Namibia,Bermuda,37,12,2,4,308.33333333333337,0,0,0,0,0,0,ICC Academy Ground No 2,47
-NDavin,Namibia,Netherlands,12,8,1,0,150.0,0,0,0,0,0,0,ICC Academy,13
-NDavin,Namibia,Uganda,11,8,2,0,137.5,0,0,0,0,0,0,Kyambogo Cricket Oval,13
-NDavin,Namibia,Kenya,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Dubai International Cricket Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NDavin,Namibia,Botswana,5,3,0,0,166.66666666666669,0,0,0,0,0,0,United Cricket Club Ground,0,1,2019,13
+NDavin,Namibia,Botswana,12,14,1,0,85.71428571428571,0,0,0,0,0,0,United Cricket Club Ground,0,0,2019,13
+NDavin,Namibia,Kenya,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2019,14
+NDavin,Namibia,Papua New Guinea,15,8,1,1,187.5,0,0,0,0,0,0,ICC Academy Ground No 2,0,0,2019,18
+NDavin,Namibia,Botswana,54,32,2,4,168.75,0,0,0,0,0,0,United Cricket Club Ground,0,0,2019,72
+NDavin,Namibia,Singapore,21,17,3,0,123.52941176470588,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2019,24
+NDavin,Namibia,Netherlands,12,8,1,0,150.0,0,0,0,0,0,0,ICC Academy,0,0,2019,13
+NDavin,Namibia,Scotland,23,19,2,1,121.05263157894737,0,0,0,0,0,0,ICC Academy,0,0,2019,27
+NDavin,Namibia,Botswana,39,25,3,1,156.0,0,0,0,0,0,0,United Cricket Club Ground,0,1,2019,52
+NDavin,Namibia,Bermuda,37,12,2,4,308.33333333333337,0,0,0,0,0,0,ICC Academy Ground No 2,0,0,2019,47
+NDavin,Namibia,Ghana,38,28,4,2,135.71428571428572,0,0,0,0,0,0,Kyambogo Cricket Oval,0,1,2019,54
+NDavin,Namibia,Botswana,37,21,7,1,176.19047619047618,0,0,0,0,0,0,Kyambogo Cricket Oval,0,0,2019,46
+NDavin,Namibia,Uganda,11,8,2,0,137.5,0,0,0,0,0,0,Kyambogo Cricket Oval,0,1,2019,21

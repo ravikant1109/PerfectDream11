@@ -1,16 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DHeyliger,Canada,Oman,3,2,0,0,150.0,24,4,43,1,0,10.75,Sheikh Zayed Stadium,24
-DHeyliger,Canada,Oman,3,2,0,0,150.0,24,4,43,1,0,10.75,Sheikh Zayed Stadium,24
-DHeyliger,Canada,Oman,3,2,0,0,150.0,24,4,43,1,0,10.75,Sheikh Zayed Stadium,24
-DHeyliger,Canada,Cayman Islands,0,0,0,0,0,24,4,24,1,0,6.0,White Hill Field Sandys Parish,25
-DHeyliger,Canada,Jersey,7,3,1,0,233.33333333333334,18,3,21,3,0,7.0,Tolerance Oval,83
-DHeyliger,Canada,Nigeria,0,0,0,0,0,25,4,17,3,0,4.25,Sheikh Zayed Stadium,79
-DHeyliger,Canada,Cayman Islands,11,8,0,1,137.5,23,3,19,1,0,6.333333333333333,White Hill Field Sandys Parish,38
-DHeyliger,Canada,Bermuda,0,0,0,0,0,19,3,17,4,0,5.666666666666667,National Stadium,110
-DHeyliger,Canada,Hong Kong,0,4,0,0,0.0,25,4,42,1,0,10.5,Tolerance Oval,13
-DHeyliger,Canada,United States of America,23,11,1,1,209.0909090909091,23,3,37,1,0,12.333333333333334,White Hill Field Sandys Parish,45
-DHeyliger,Canada,Ireland,10,9,0,0,111.11111111111111,23,3,32,0,0,10.666666666666666,Sheikh Zayed Stadium,6
-DHeyliger,Canada,United Arab Emirates,4,6,0,0,66.66666666666666,23,3,48,0,0,16.0,Sheikh Zayed Stadium,-4
-DHeyliger,Canada,Oman,3,2,0,0,150.0,24,4,43,1,0,10.75,Sheikh Zayed Stadium,24
-DHeyliger,Canada,Cayman Islands,0,0,0,0,0,24,4,24,1,0,6.0,White Hill Field Sandys Parish,25
-DHeyliger,Canada,Jersey,7,3,1,0,233.33333333333334,18,3,21,3,0,7.0,Tolerance Oval,83
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DHeyliger,Canada,Oman,3,2,0,0,150.0,24,4,43,1,0,10.75,Sheikh Zayed Stadium,0,0,2019,24
+DHeyliger,Canada,Ireland,10,9,0,0,111.11111111111111,23,3,32,0,0,10.666666666666666,Sheikh Zayed Stadium,0,0,2019,6
+DHeyliger,Canada,United States of America,23,11,1,1,209.0909090909091,23,3,37,1,0,12.333333333333334,White Hill Field Sandys Parish,0,0,2019,45
+DHeyliger,Canada,United Arab Emirates,4,6,0,0,66.66666666666666,23,3,48,0,0,16.0,Sheikh Zayed Stadium,0,0,2019,-4
+DHeyliger,Canada,Cayman Islands,11,8,0,1,137.5,23,3,19,1,0,6.333333333333333,White Hill Field Sandys Parish,0,0,2019,38
+DHeyliger,Canada,Nigeria,0,0,0,0,0,25,4,17,3,0,4.25,Sheikh Zayed Stadium,0,0,2019,79
+DHeyliger,Canada,Hong Kong,0,4,0,0,0.0,25,4,42,1,0,10.5,Tolerance Oval,1,1,2019,33
+DHeyliger,Canada,Bermuda,0,0,0,0,0,19,3,17,4,0,5.666666666666667,National Stadium,0,0,2019,110
+DHeyliger,Canada,Cayman Islands,0,0,0,0,0,24,4,24,1,0,6.0,White Hill Field Sandys Parish,0,0,2019,25
+DHeyliger,Canada,Jersey,7,3,1,0,233.33333333333334,18,3,21,3,0,7.0,Tolerance Oval,0,0,2019,83

@@ -1,12 +1,32 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PPChawla,India,Australia,0,0,0,0,0,5,0,14,0,0,0,R Premadasa Stadium,0
-PPChawla,India,Australia,0,0,0,0,0,5,0,14,0,0,0,R Premadasa Stadium,0
-PPChawla,India,Australia,0,0,0,0,0,5,0,14,0,0,0,R Premadasa Stadium,0
-PPChawla,India,England,0,0,0,0,0,17,2,24,0,0,12.0,Subrata Roy Sahara Stadium,-6
-PPChawla,India,Sri Lanka,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Beausejour Stadium Gros Islet,-2
-PPChawla,India,England,0,0,0,0,0,23,3,13,2,1,4.333333333333333,R Premadasa Stadium,62
-PPChawla,India,Zimbabwe,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Harare Sports Club,29
-PPChawla,India,England,0,1,0,0,0.0,23,3,33,0,0,11.0,Wankhede Stadium,-12
-PPChawla,India,South Africa,0,0,0,0,0,17,2,28,1,0,14.0,Beausejour Stadium Gros Islet,19
-PPChawla,India,Australia,0,0,0,0,0,5,0,14,0,0,0,R Premadasa Stadium,0
-PPChawla,India,England,0,0,0,0,0,17,2,24,0,0,12.0,Subrata Roy Sahara Stadium,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PPChawla,India,England,0,0,0,0,0,23,3,13,2,1,4.333333333333333,R Premadasa Stadium,0,0,2012,62
+PPChawla,India,South Africa,0,0,0,0,0,17,2,28,1,0,14.0,Beausejour Stadium Gros Islet,0,2,2010,35
+PPChawla,India,Sri Lanka,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Beausejour Stadium Gros Islet,0,0,2010,-2
+PPChawla,India,England,0,0,0,0,0,17,2,24,0,0,12.0,Subrata Roy Sahara Stadium,0,0,2012,-6
+PPChawla,India,Australia,0,0,0,0,0,5,0,14,0,0,0,R Premadasa Stadium,0,0,2012,0
+PPChawla,India,England,0,1,0,0,0.0,23,3,33,0,0,11.0,Wankhede Stadium,0,0,2012,-12
+PPChawla,India,Zimbabwe,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Harare Sports Club,0,0,2010,29
+PPChawla,India,South Africa,0,0,0,0,0,47,7,41,0,1,5.857142857142857,Civil Service Cricket Club Stormont,0,0,2007,10
+PPChawla,India,Australia,6,2,0,0,300.0,53,8,45,0,0,5.625,Brisbane Cricket Ground Woolloongabba,0,2,2008,24
+PPChawla,India,Bangladesh,1,4,0,0,25.0,61,10,41,3,0,4.1,Shere Bangla National Stadium,1,0,2007,86
+PPChawla,India,Netherlands,0,0,0,0,0,60,10,49,2,0,4.9,Feroz Shah Kotla,1,0,2011,66
+PPChawla,India,Pakistan,0,0,0,0,0,41,6,52,1,0,8.666666666666666,National Stadium,0,0,2008,25
+PPChawla,India,Australia,0,0,0,0,0,61,10,33,0,1,3.3,Sydney Cricket Ground,0,1,2008,22
+PPChawla,India,Pakistan,0,0,0,0,0,47,7,54,1,0,7.714285714285714,National Stadium,0,0,2008,25
+PPChawla,India,Ireland,0,0,0,0,0,52,8,56,0,0,7.0,M Chinnaswamy Stadium,0,0,2011,0
+PPChawla,India,Hong Kong,0,0,0,0,0,59,9,23,4,3,2.5555555555555554,National Stadium,0,0,2008,138
+PPChawla,India,England,2,10,0,0,20.0,41,6,42,0,0,7.0,The Rose Bowl,0,0,2007,-4
+PPChawla,India,England,13,11,1,0,118.18181818181819,63,10,43,0,0,4.3,Old Trafford,0,1,2007,26
+PPChawla,India,England,0,0,0,0,0,29,4,31,1,0,7.75,Headingley,0,0,2007,25
+PPChawla,India,England,0,6,0,0,0.0,53,8,44,0,2,5.5,Lord's,0,0,2007,10
+PPChawla,India,Bangladesh,0,0,0,0,0,59,9,42,1,0,4.666666666666667,Shere Bangla National Stadium,0,0,2008,29
+PPChawla,India,South Africa,2,2,0,0,100.0,60,10,47,3,0,4.7,Civil Service Cricket Club Stormont,0,0,2007,81
+PPChawla,India,South Africa,8,11,1,0,72.72727272727273,41,6,32,0,0,5.333333333333333,SuperSport Park,0,0,2011,11
+PPChawla,India,England,2,4,0,0,50.0,60,10,71,2,0,7.1,M Chinnaswamy Stadium,0,0,2011,48
+PPChawla,India,England,1,1,0,0,100.0,60,10,64,3,0,6.4,County Ground,0,0,2007,76
+PPChawla,India,Pakistan,2,5,0,0,40.0,59,9,85,0,0,9.444444444444445,Shere Bangla National Stadium,0,0,2008,-6
+PPChawla,India,Ireland,0,0,0,0,0,60,10,29,3,3,2.9,Civil Service Cricket Club Stormont,0,0,2007,105
+PPChawla,India,England,1,2,0,0,50.0,53,8,50,1,0,6.25,Edgbaston,0,1,2007,30
+PPChawla,India,England,0,0,0,0,0,59,9,47,1,1,5.222222222222222,Kennington Oval,0,0,2007,35
+PPChawla,India,South Africa,0,0,0,0,0,17,2,28,0,0,14.0,Civil Service Cricket Club Stormont,0,0,2007,-6
+PPChawla,India,Pakistan,0,2,0,0,0.0,51,8,40,4,0,5.0,Shere Bangla National Stadium,0,0,2008,102

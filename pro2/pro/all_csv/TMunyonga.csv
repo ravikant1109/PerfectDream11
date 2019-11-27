@@ -1,5 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TMunyonga,Zimbabwe,Singapore,1,1,0,0,100.0,0,0,0,0,0,0,Indian Association Ground,1
-TMunyonga,Zimbabwe,Singapore,44,35,3,1,125.71428571428571,0,0,0,0,0,0,Indian Association Ground,49
-TMunyonga,Zimbabwe,Nepal,0,0,0,0,0,5,0,3,0,0,0,Indian Association Ground,0
-TMunyonga,Zimbabwe,Singapore,1,1,0,0,100.0,0,0,0,0,0,0,Indian Association Ground,1
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TMunyonga,Zimbabwe,Singapore,44,35,3,1,125.71428571428571,0,0,0,0,0,0,Indian Association Ground,0,2,2019,65
+TMunyonga,Zimbabwe,Nepal,0,0,0,0,0,5,0,3,0,0,0,Indian Association Ground,0,1,2019,8
+TMunyonga,Zimbabwe,Singapore,1,1,0,0,100.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,1

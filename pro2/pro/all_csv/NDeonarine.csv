@@ -1,8 +1,31 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NDeonarine,West Indies,Australia,0,1,0,0,0.0,11,1,17,0,0,17.0,Bellerive Oval,-8
-NDeonarine,West Indies,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,-8
-NDeonarine,West Indies,Ireland,10,16,0,0,62.5,0,0,0,0,0,0,Providence Stadium,8
-NDeonarine,West Indies,South Africa,3,2,0,0,150.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,3
-NDeonarine,West Indies,Australia,6,3,1,0,200.0,17,2,37,0,0,18.5,Brisbane Cricket Ground Woolloongabba,1
-NDeonarine,West Indies,Australia,0,2,0,0,0.0,11,1,15,0,0,15.0,Beausejour Stadium Gros Islet,-8
-NDeonarine,West Indies,Australia,36,29,4,0,124.13793103448276,11,1,18,0,0,18.0,Sydney Cricket Ground,40
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NDeonarine,West Indies,Australia,36,29,4,0,124.13793103448276,11,1,18,0,0,18.0,Sydney Cricket Ground,0,0,2010,40
+NDeonarine,West Indies,Australia,0,1,0,0,0.0,11,1,17,0,0,17.0,Bellerive Oval,0,0,2010,-8
+NDeonarine,West Indies,Australia,0,2,0,0,0.0,11,1,15,0,0,15.0,Beausejour Stadium Gros Islet,0,0,2010,-8
+NDeonarine,West Indies,Ireland,10,16,0,0,62.5,0,0,0,0,0,0,Providence Stadium,0,0,2010,8
+NDeonarine,West Indies,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,-8
+NDeonarine,West Indies,South Africa,3,2,0,0,150.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,3
+NDeonarine,West Indies,Australia,6,3,1,0,200.0,17,2,37,0,0,18.5,Brisbane Cricket Ground Woolloongabba,0,2,2013,17
+NDeonarine,West Indies,New Zealand,29,31,4,0,93.54838709677419,0,0,0,0,0,0,Queenstown Events Centre,0,0,2014,33
+NDeonarine,West Indies,Zimbabwe,21,21,1,1,100.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2010,24
+NDeonarine,West Indies,India,4,14,0,0,28.57142857142857,11,1,15,0,0,15.0,Nehru Stadium,0,0,2013,-2
+NDeonarine,West Indies,Zimbabwe,21,32,1,0,65.625,23,3,15,0,1,5.0,National Cricket Stadium St George's,0,1,2013,38
+NDeonarine,West Indies,South Africa,10,28,2,0,35.714285714285715,5,0,5,0,0,0,Buffalo Park,0,1,2015,14
+NDeonarine,West Indies,New Zealand,3,13,0,0,23.076923076923077,23,3,23,0,0,7.666666666666667,Saxton Oval,0,0,2014,-3
+NDeonarine,West Indies,New Zealand,6,21,0,0,28.57142857142857,0,0,0,0,0,0,Eden Park,0,0,2013,0
+NDeonarine,West Indies,South Africa,7,17,0,0,41.17647058823529,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,1
+NDeonarine,West Indies,Australia,53,70,5,0,75.71428571428571,35,5,33,0,0,6.6,Brisbane Cricket Ground Woolloongabba,0,0,2010,66
+NDeonarine,West Indies,Zimbabwe,32,69,2,0,46.3768115942029,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2010,28
+NDeonarine,West Indies,Zimbabwe,3,6,0,0,50.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2010,7
+NDeonarine,West Indies,South Africa,53,57,3,1,92.98245614035088,17,2,11,0,0,5.5,Queen's Park Oval Port of Spain,0,0,2010,68
+NDeonarine,West Indies,Australia,10,16,1,0,62.5,47,7,38,0,0,5.428571428571429,Sydney Cricket Ground,0,0,2013,11
+NDeonarine,West Indies,Australia,4,15,0,0,26.666666666666668,11,1,10,0,0,10.0,Melbourne Cricket Ground,0,1,2010,6
+NDeonarine,West Indies,Australia,23,36,5,0,63.888888888888886,8,1,11,0,0,11.0,Adelaide Oval,0,0,2010,26
+NDeonarine,West Indies,Australia,4,4,1,0,100.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2013,5
+NDeonarine,West Indies,Zimbabwe,0,0,0,0,0,42,7,38,0,1,5.428571428571429,National Cricket Stadium St George's,0,1,2013,18
+NDeonarine,West Indies,South Africa,43,51,5,1,84.31372549019608,11,1,19,0,0,19.0,SuperSport Park,0,0,2015,50
+NDeonarine,West Indies,Zimbabwe,8,13,0,0,61.53846153846154,11,1,16,0,0,16.0,Queens Sports Club,0,2,2007,22
+NDeonarine,West Indies,Zimbabwe,65,87,6,1,74.71264367816092,0,0,0,0,0,0,Providence Stadium,0,1,2010,89
+NDeonarine,West Indies,Zimbabwe,17,18,1,0,94.44444444444444,48,8,47,0,0,5.875,Providence Stadium,0,0,2010,20
+NDeonarine,West Indies,South Africa,26,49,1,1,53.06122448979592,5,0,13,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,25
+NDeonarine,West Indies,Australia,19,33,3,0,57.57575757575758,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,18

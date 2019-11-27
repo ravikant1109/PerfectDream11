@@ -1,6 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KWeeraratne,Sri Lanka,India,10,10,1,0,100.0,5,0,12,0,0,0,R Premadasa Stadium,11
-KWeeraratne,Sri Lanka,India,3,4,0,0,75.0,19,3,43,0,0,14.333333333333334,Punjab Cricket Association Stadium Mohali,-3
-KWeeraratne,Sri Lanka,Pakistan,12,10,1,0,120.0,23,3,31,0,0,10.333333333333334,Maple Leaf North-West Ground,9
-KWeeraratne,Sri Lanka,Pakistan,20,13,0,1,153.84615384615387,23,3,19,4,0,6.333333333333333,Maple Leaf North-West Ground,130
-KWeeraratne,Sri Lanka,India,10,10,1,0,100.0,5,0,12,0,0,0,R Premadasa Stadium,11
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KWeeraratne,Sri Lanka,Pakistan,20,13,0,1,153.84615384615387,23,3,19,4,0,6.333333333333333,Maple Leaf North-West Ground,0,0,2008,130
+KWeeraratne,Sri Lanka,India,10,10,1,0,100.0,5,0,12,0,0,0,R Premadasa Stadium,0,1,2009,19
+KWeeraratne,Sri Lanka,India,3,4,0,0,75.0,19,3,43,0,0,14.333333333333334,Punjab Cricket Association Stadium Mohali,0,1,2009,5
+KWeeraratne,Sri Lanka,Pakistan,12,10,1,0,120.0,23,3,31,0,0,10.333333333333334,Maple Leaf North-West Ground,1,0,2008,21
+KWeeraratne,Sri Lanka,India,23,19,3,0,121.05263157894737,29,4,39,0,0,9.75,National Stadium,0,0,2008,24
+KWeeraratne,Sri Lanka,West Indies,15,20,0,0,75.0,17,2,26,0,0,13.0,Queen's Park Oval Port of Spain,0,1,2008,17
+KWeeraratne,Sri Lanka,West Indies,41,34,1,2,120.58823529411764,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2008,46
+KWeeraratne,Sri Lanka,United Arab Emirates,40,54,2,0,74.07407407407408,23,3,23,0,1,7.666666666666667,Gaddafi Stadium,0,1,2008,58

@@ -1,7 +1,66 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MMPatel,India,West Indies,0,0,0,0,0,23,3,36,1,0,12.0,Queen's Park Oval Port of Spain,19
-MMPatel,India,West Indies,0,0,0,0,0,23,3,36,1,0,12.0,Queen's Park Oval Port of Spain,19
-MMPatel,India,West Indies,0,0,0,0,0,23,3,36,1,0,12.0,Queen's Park Oval Port of Spain,19
-MMPatel,India,South Africa,0,0,0,0,0,11,1,26,1,0,26.0,Moses Mabhida Stadium,25
-MMPatel,India,England,0,1,0,0,0.0,23,3,25,2,0,8.333333333333334,Old Trafford,42
-MMPatel,India,West Indies,0,0,0,0,0,23,3,36,1,0,12.0,Queen's Park Oval Port of Spain,19
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MMPatel,India,England,0,1,0,0,0.0,23,3,25,2,0,8.333333333333334,Old Trafford,0,0,2011,42
+MMPatel,India,South Africa,0,0,0,0,0,11,1,26,1,0,26.0,Moses Mabhida Stadium,0,0,2011,25
+MMPatel,India,West Indies,0,0,0,0,0,23,3,36,1,0,12.0,Queen's Park Oval Port of Spain,0,0,2011,19
+MMPatel,India,Sri Lanka,0,0,0,0,0,35,5,25,0,1,5.0,Rangiri Dambulla International Stadium,0,0,2008,10
+MMPatel,India,Australia,0,2,0,0,0.0,23,3,13,1,2,4.333333333333333,Nehru Stadium,0,0,2009,37
+MMPatel,India,West Indies,2,5,0,0,40.0,44,7,40,0,1,5.714285714285714,Sabina Park Kingston,0,0,2006,6
+MMPatel,India,England,0,0,0,0,0,58,9,55,1,0,6.111111111111111,Lord's,1,0,2011,37
+MMPatel,India,New Zealand,1,1,0,0,100.0,47,7,39,0,0,5.571428571428571,Nehru Stadium,0,2,2010,19
+MMPatel,India,England,1,3,0,0,33.33333333333333,49,8,38,1,0,4.75,Keenan Stadium,0,0,2006,24
+MMPatel,India,New Zealand,0,0,0,0,0,49,8,34,1,0,4.25,Sawai Mansingh Stadium,0,0,2010,29
+MMPatel,India,Bangladesh,0,0,0,0,0,43,7,34,0,0,4.857142857142857,Shere Bangla National Stadium,0,0,2007,4
+MMPatel,India,Bangladesh,15,15,2,0,100.0,51,8,39,2,1,4.875,Queen's Park Oval Port of Spain,0,0,2007,79
+MMPatel,India,South Africa,0,0,0,0,0,59,9,42,2,1,4.666666666666667,Newlands,1,0,2011,74
+MMPatel,India,Bangladesh,0,0,0,0,0,43,7,31,0,1,4.428571428571429,Shere Bangla National Stadium,0,0,2007,12
+MMPatel,India,Australia,0,0,0,0,0,59,9,55,3,0,6.111111111111111,Kinrara Academy Oval,0,0,2006,75
+MMPatel,India,South Africa,6,4,0,0,150.0,47,7,31,4,0,4.428571428571429,New Wanderers Stadium,0,0,2011,118
+MMPatel,India,West Indies,0,0,0,0,0,47,7,29,1,3,4.142857142857143,Sardar Patel Stadium Motera,0,0,2006,53
+MMPatel,India,England,0,0,0,0,0,24,4,24,2,0,6.0,M Chinnaswamy Stadium,1,0,2008,62
+MMPatel,India,West Indies,0,1,0,0,0.0,64,10,64,1,0,6.4,Queen's Park Oval Port of Spain,0,0,2006,17
+MMPatel,India,England,0,1,0,0,0.0,42,7,31,0,0,4.428571428571429,Maharani Usharaje Trust Cricket Ground,0,0,2008,-4
+MMPatel,India,Sri Lanka,0,0,0,0,0,31,5,32,0,0,6.4,Rangiri Dambulla International Stadium,0,1,2009,8
+MMPatel,India,South Africa,0,3,0,0,0.0,59,9,39,2,3,4.333333333333333,Kingsmead,0,0,2006,70
+MMPatel,India,England,0,0,0,0,0,48,8,47,0,0,5.875,Nehru Stadium Fatorda,1,0,2006,14
+MMPatel,India,New Zealand,7,11,1,0,63.63636363636363,44,7,21,3,1,3.0,Rangiri Dambulla International Stadium,0,0,2010,95
+MMPatel,India,Sri Lanka,0,0,0,0,0,59,9,43,3,1,4.777777777777778,R Premadasa Stadium,0,0,2008,87
+MMPatel,India,Ireland,0,0,0,0,0,29,4,26,1,1,6.5,M Chinnaswamy Stadium,0,0,2011,33
+MMPatel,India,Australia,1,2,0,0,50.0,54,9,36,1,1,4.0,Kinrara Academy Oval,0,0,2006,34
+MMPatel,India,England,0,0,0,0,0,29,4,35,0,0,8.75,The Rose Bowl,0,0,2011,0
+MMPatel,India,Sri Lanka,4,2,1,0,200.0,41,6,21,0,2,3.5,R Premadasa Stadium,0,0,2008,27
+MMPatel,India,West Indies,0,0,0,0,0,55,9,48,2,1,5.333333333333333,Queen's Park Oval Port of Spain,0,0,2011,60
+MMPatel,India,Bangladesh,0,0,0,0,0,59,9,48,4,0,5.333333333333333,Shere Bangla National Stadium,0,0,2011,110
+MMPatel,India,Sri Lanka,0,0,0,0,0,63,10,41,1,2,4.1,Nehru Stadium Fatorda,0,0,2007,45
+MMPatel,India,Bermuda,0,0,0,0,0,48,8,21,1,3,2.625,Queen's Park Oval Port of Spain,0,0,2007,55
+MMPatel,India,England,0,0,0,0,0,39,6,36,2,0,6.0,Green Park,0,0,2008,50
+MMPatel,India,Sri Lanka,1,1,0,0,100.0,53,8,49,2,0,6.125,R Premadasa Stadium,0,0,2008,51
+MMPatel,India,New Zealand,0,0,0,0,0,62,10,28,1,0,2.8,Reliance Stadium,0,0,2010,31
+MMPatel,India,Sri Lanka,15,15,1,1,100.0,53,8,37,2,0,4.625,Rangiri Dambulla International Stadium,0,0,2008,72
+MMPatel,India,West Indies,1,2,0,0,50.0,30,5,20,0,0,4.0,MA Chidambaram Stadium Chepauk,0,1,2011,9
+MMPatel,India,England,0,0,0,0,0,47,7,18,3,4,2.5714285714285716,Sawai Mansingh Stadium,0,0,2006,113
+MMPatel,India,New Zealand,0,0,0,0,0,17,2,9,0,0,4.5,MA Chidambaram Stadium Chepauk,0,0,2010,4
+MMPatel,India,Australia,0,0,0,0,0,54,9,65,0,0,7.222222222222222,Punjab Cricket Association Stadium Mohali,0,0,2006,0
+MMPatel,India,South Africa,4,9,0,0,44.44444444444444,47,7,54,3,0,7.714285714285714,SuperSport Park,0,0,2011,73
+MMPatel,India,England,0,0,0,0,0,60,10,75,2,0,7.5,M Chinnaswamy Stadium,0,0,2011,50
+MMPatel,India,New Zealand,0,0,0,0,0,11,1,14,0,0,14.0,McLean Park,0,1,2009,8
+MMPatel,India,England,0,0,0,0,0,54,9,70,3,0,7.777777777777778,County Ground,0,1,2007,83
+MMPatel,India,Sri Lanka,0,0,0,0,0,54,9,55,0,1,6.111111111111111,Bellerive Oval,0,0,2008,8
+MMPatel,India,England,0,0,0,0,0,24,4,27,0,0,6.75,Sophia Gardens,0,0,2011,0
+MMPatel,India,Sri Lanka,0,0,0,0,0,54,9,38,1,2,4.222222222222222,Adelaide Oval,1,0,2008,57
+MMPatel,India,West Indies,0,0,0,0,0,32,5,19,1,1,3.8,Kinrara Academy Oval,0,1,2006,47
+MMPatel,India,Australia,0,9,0,0,0.0,53,8,31,1,1,3.875,Adelaide Oval,0,0,2008,31
+MMPatel,India,Sri Lanka,10,17,1,0,58.82352941176471,59,9,47,1,0,5.222222222222222,Queen's Park Oval Port of Spain,0,1,2007,42
+MMPatel,India,Australia,2,3,0,0,66.66666666666666,55,9,73,0,0,8.11111111111111,Rajiv Gandhi International Stadium Uppal,0,0,2009,0
+MMPatel,India,Sri Lanka,0,0,0,0,0,41,6,27,2,1,4.5,Eden Gardens,0,0,2007,62
+MMPatel,India,South Africa,0,1,0,0,0.0,59,9,67,2,0,7.444444444444445,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,42
+MMPatel,India,West Indies,0,0,0,0,0,61,10,60,3,2,6.0,Sir Vivian Richards Stadium North Sound,0,0,2011,91
+MMPatel,India,England,1,3,0,0,33.33333333333333,33,5,37,1,0,7.4,Edgbaston,0,0,2007,20
+MMPatel,India,England,0,0,0,0,0,35,5,21,1,1,4.2,Madhavrao Scindia Cricket Ground,0,0,2008,37
+MMPatel,India,Pakistan,0,0,0,0,0,60,10,40,2,2,4.0,Punjab Cricket Association Stadium Mohali,0,0,2011,70
+MMPatel,India,South Africa,0,0,0,0,0,49,8,50,0,1,6.25,St George's Park,0,0,2011,8
+MMPatel,India,South Africa,1,1,0,0,100.0,41,6,36,2,1,6.0,Kingsmead,0,0,2011,59
+MMPatel,India,West Indies,0,0,0,0,0,61,10,37,3,2,3.7,Queen's Park Oval Port of Spain,0,0,2011,97
+MMPatel,India,West Indies,2,2,0,0,100.0,59,9,32,2,2,3.5555555555555554,Kinrara Academy Oval,0,0,2006,74
+MMPatel,India,Sri Lanka,0,0,0,0,0,57,9,52,4,1,5.777777777777778,Madhavrao Scindia Cricket Ground,0,0,2007,118
+MMPatel,India,Sri Lanka,0,1,0,0,0.0,54,9,44,2,1,4.888888888888889,Rangiri Dambulla International Stadium,1,0,2010,66
+MMPatel,India,New Zealand,0,0,0,0,0,46,7,79,0,0,11.285714285714286,AMI Stadium,0,0,2009,-6

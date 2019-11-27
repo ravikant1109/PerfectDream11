@@ -1,14 +1,16 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GDDrummond,Scotland,Afghanistan,0,0,0,0,0,11,1,16,0,0,16.0,Sharjah Cricket Stadium,0
-GDDrummond,Scotland,Afghanistan,0,0,0,0,0,11,1,16,0,0,16.0,Sharjah Cricket Stadium,0
-GDDrummond,Scotland,Afghanistan,0,0,0,0,0,11,1,16,0,0,16.0,Sharjah Cricket Stadium,0
-GDDrummond,Scotland,New Zealand,0,0,0,0,0,13,2,25,0,0,12.5,Kennington Oval,-6
-GDDrummond,Scotland,Afghanistan,0,0,0,0,0,12,2,19,0,0,9.5,Sharjah Cricket Stadium,-2
-GDDrummond,Scotland,Ireland,35,42,3,0,83.33333333333334,18,3,29,1,0,9.666666666666666,Dubai International Cricket Stadium,61
-GDDrummond,Scotland,Netherlands,2,5,0,0,40.0,17,2,16,0,0,8.0,Civil Service Cricket Club Stormont,-4
-GDDrummond,Scotland,South Africa,1,2,0,0,50.0,23,3,40,2,0,13.333333333333334,Kennington Oval,41
-GDDrummond,Scotland,Bermuda,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Civil Service Cricket Club Stormont,25
-GDDrummond,Scotland,Canada,0,0,0,0,0,25,4,28,0,0,7.0,Dubai International Cricket Stadium,0
-GDDrummond,Scotland,Afghanistan,0,0,0,0,0,11,1,16,0,0,16.0,Sharjah Cricket Stadium,0
-GDDrummond,Scotland,New Zealand,0,0,0,0,0,13,2,25,0,0,12.5,Kennington Oval,-6
-GDDrummond,Scotland,Afghanistan,0,0,0,0,0,12,2,19,0,0,9.5,Sharjah Cricket Stadium,-2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GDDrummond,Scotland,Netherlands,2,5,0,0,40.0,17,2,16,0,0,8.0,Civil Service Cricket Club Stormont,0,0,2008,-4
+GDDrummond,Scotland,Afghanistan,0,0,0,0,0,11,1,16,0,0,16.0,Sharjah Cricket Stadium,0,0,2013,0
+GDDrummond,Scotland,Canada,0,0,0,0,0,25,4,28,0,0,7.0,Dubai International Cricket Stadium,0,0,2012,0
+GDDrummond,Scotland,Ireland,35,42,3,0,83.33333333333334,18,3,29,1,0,9.666666666666666,Dubai International Cricket Stadium,0,0,2010,61
+GDDrummond,Scotland,South Africa,1,2,0,0,50.0,23,3,40,2,0,13.333333333333334,Kennington Oval,0,0,2009,41
+GDDrummond,Scotland,New Zealand,0,0,0,0,0,13,2,25,0,0,12.5,Kennington Oval,0,0,2009,-6
+GDDrummond,Scotland,Bermuda,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Civil Service Cricket Club Stormont,0,0,2008,25
+GDDrummond,Scotland,Afghanistan,0,0,0,0,0,12,2,19,0,0,9.5,Sharjah Cricket Stadium,0,1,2013,6
+GDDrummond,Scotland,Ireland,10,9,1,0,111.11111111111111,28,4,31,1,1,7.75,Clontarf Cricket Club Ground,0,0,2008,44
+GDDrummond,Scotland,Afghanistan,0,0,0,0,0,41,6,31,1,0,5.166666666666667,Cambusdoon New Ground,0,1,2010,35
+GDDrummond,Scotland,Kenya,0,0,0,0,0,43,7,43,0,0,6.142857142857143,Cambusdoon New Ground,0,0,2008,0
+GDDrummond,Scotland,Afghanistan,25,28,2,0,89.28571428571429,60,10,48,0,1,4.8,Willowmoore Park,0,1,2009,47
+GDDrummond,Scotland,Afghanistan,35,19,2,2,184.21052631578948,36,6,31,0,0,5.166666666666667,Cambusdoon New Ground,0,0,2010,43
+GDDrummond,Scotland,Netherlands,0,0,0,0,0,54,9,47,0,1,5.222222222222222,Mannofield Park,0,1,2011,18
+GDDrummond,Scotland,Netherlands,0,0,0,0,0,30,5,15,0,1,3.0,Clontarf Cricket Club Ground,0,0,2008,14

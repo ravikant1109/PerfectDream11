@@ -1,2 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MZondeki,South Africa,Australia,0,1,0,0,0.0,20,3,42,1,0,14.0,Brisbane Cricket Ground Woolloongabba,11
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MZondeki,South Africa,Australia,0,1,0,0,0.0,20,3,42,1,0,14.0,Brisbane Cricket Ground Woolloongabba,0,0,2006,11
+MZondeki,South Africa,Sri Lanka,0,0,0,0,0,56,9,53,1,0,5.888888888888889,Brisbane Cricket Ground Woolloongabba,0,0,2006,27
+MZondeki,South Africa,Kenya,0,0,0,0,0,50,8,54,1,0,6.75,OUTsurance Oval,0,0,2008,25
+MZondeki,South Africa,Australia,0,0,0,0,0,25,4,42,0,0,10.5,Sydney Cricket Ground,0,0,2006,-4
+MZondeki,South Africa,Australia,0,0,0,0,0,59,9,65,1,2,7.222222222222222,Brisbane Cricket Ground Woolloongabba,0,0,2006,41

@@ -1,54 +1,86 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-IKPathan,India,New Zealand,12,14,1,0,85.71428571428571,17,2,38,0,0,19.0,AMI Stadium,7
-IKPathan,India,Australia,0,1,0,0,0.0,24,4,44,2,0,11.0,Kingsmead,38
-IKPathan,India,Ireland,0,0,0,0,0,18,3,22,0,0,7.333333333333333,Trent Bridge,0
-IKPathan,India,Bangladesh,11,3,1,0,366.66666666666663,12,2,20,0,0,10.0,Trent Bridge,10
-IKPathan,India,Pakistan,3,3,0,0,100.0,24,4,16,3,0,4.0,New Wanderers Stadium,82
-IKPathan,India,Pakistan,20,15,0,2,133.33333333333331,24,4,20,2,1,5.0,Kingsmead,84
-IKPathan,India,South Africa,0,1,0,0,0.0,24,4,18,0,0,4.5,Kingsmead,-4
-IKPathan,India,West Indies,2,3,0,0,66.66666666666666,12,2,10,1,0,5.0,Lord's,27
-IKPathan,India,Australia,31,30,2,1,103.33333333333334,5,0,19,0,0,0,R Premadasa Stadium,35
-IKPathan,India,New Zealand,12,14,1,0,85.71428571428571,17,2,38,0,0,19.0,AMI Stadium,7
-IKPathan,India,New Zealand,12,14,1,0,85.71428571428571,17,2,38,0,0,19.0,AMI Stadium,7
-IKPathan,India,Australia,0,1,0,0,0.0,24,4,44,2,0,11.0,Kingsmead,38
-IKPathan,India,Ireland,0,0,0,0,0,18,3,22,0,0,7.333333333333333,Trent Bridge,0
-IKPathan,India,Bangladesh,11,3,1,0,366.66666666666663,12,2,20,0,0,10.0,Trent Bridge,10
-IKPathan,India,Pakistan,3,3,0,0,100.0,24,4,16,3,0,4.0,New Wanderers Stadium,82
-IKPathan,India,Pakistan,20,15,0,2,133.33333333333331,24,4,20,2,1,5.0,Kingsmead,84
-IKPathan,India,South Africa,0,1,0,0,0.0,24,4,18,0,0,4.5,Kingsmead,-4
-IKPathan,India,West Indies,2,3,0,0,66.66666666666666,12,2,10,1,0,5.0,Lord's,27
-IKPathan,India,Australia,31,30,2,1,103.33333333333334,5,0,19,0,0,0,R Premadasa Stadium,35
-IKPathan,India,New Zealand,12,14,1,0,85.71428571428571,17,2,38,0,0,19.0,AMI Stadium,7
-IKPathan,India,New Zealand,12,14,1,0,85.71428571428571,17,2,38,0,0,19.0,AMI Stadium,7
-IKPathan,India,Australia,0,1,0,0,0.0,24,4,44,2,0,11.0,Kingsmead,38
-IKPathan,India,Ireland,0,0,0,0,0,18,3,22,0,0,7.333333333333333,Trent Bridge,0
-IKPathan,India,Bangladesh,11,3,1,0,366.66666666666663,12,2,20,0,0,10.0,Trent Bridge,10
-IKPathan,India,Pakistan,3,3,0,0,100.0,24,4,16,3,0,4.0,New Wanderers Stadium,82
-IKPathan,India,Pakistan,20,15,0,2,133.33333333333331,24,4,20,2,1,5.0,Kingsmead,84
-IKPathan,India,South Africa,0,1,0,0,0.0,24,4,18,0,0,4.5,Kingsmead,-4
-IKPathan,India,West Indies,2,3,0,0,66.66666666666666,12,2,10,1,0,5.0,Lord's,27
-IKPathan,India,Australia,31,30,2,1,103.33333333333334,5,0,19,0,0,0,R Premadasa Stadium,35
-IKPathan,India,Sri Lanka,33,16,2,2,206.25,25,4,35,1,0,8.75,R Premadasa Stadium,64
-IKPathan,India,Australia,26,30,0,0,86.66666666666667,17,2,19,0,0,9.5,Melbourne Cricket Ground,24
-IKPathan,India,Afghanistan,0,0,0,0,0,24,4,30,1,0,7.5,R Premadasa Stadium,25
-IKPathan,India,England,8,10,1,0,80.0,18,3,17,2,0,5.666666666666667,R Premadasa Stadium,61
-IKPathan,India,New Zealand,0,0,0,0,0,23,3,31,3,0,10.333333333333334,MA Chidambaram Stadium Chepauk,71
-IKPathan,India,New Zealand,11,10,2,0,110.00000000000001,12,2,16,0,0,8.0,New Wanderers Stadium,13
-IKPathan,India,Pakistan,0,0,0,0,0,18,3,30,1,0,10.0,R Premadasa Stadium,23
-IKPathan,India,England,0,0,0,0,0,24,4,37,3,0,9.25,Kingsmead,73
-IKPathan,India,Sri Lanka,0,0,0,0,0,26,4,29,3,0,7.25,Pallekele International Cricket Stadium,75
-IKPathan,India,South Africa,0,0,0,0,0,24,4,44,1,0,11.0,New Wanderers Stadium,21
-IKPathan,India,South Africa,0,0,0,0,0,23,3,30,0,0,10.0,New Wanderers Stadium,-2
-IKPathan,India,Australia,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Brabourne Stadium,44
-IKPathan,India,South Africa,0,0,0,0,0,17,2,27,1,0,13.5,R Premadasa Stadium,19
-IKPathan,India,New Zealand,15,10,0,1,150.0,25,4,42,2,0,10.5,Westpac Stadium,63
-IKPathan,India,New Zealand,12,14,1,0,85.71428571428571,17,2,38,0,0,19.0,AMI Stadium,7
-IKPathan,India,Australia,0,1,0,0,0.0,24,4,44,2,0,11.0,Kingsmead,38
-IKPathan,India,Ireland,0,0,0,0,0,18,3,22,0,0,7.333333333333333,Trent Bridge,0
-IKPathan,India,Bangladesh,11,3,1,0,366.66666666666663,12,2,20,0,0,10.0,Trent Bridge,10
-IKPathan,India,Pakistan,3,3,0,0,100.0,24,4,16,3,0,4.0,New Wanderers Stadium,82
-IKPathan,India,Pakistan,20,15,0,2,133.33333333333331,24,4,20,2,1,5.0,Kingsmead,84
-IKPathan,India,South Africa,0,1,0,0,0.0,24,4,18,0,0,4.5,Kingsmead,-4
-IKPathan,India,West Indies,2,3,0,0,66.66666666666666,12,2,10,1,0,5.0,Lord's,27
-IKPathan,India,Australia,31,30,2,1,103.33333333333334,5,0,19,0,0,0,R Premadasa Stadium,35
-IKPathan,India,Sri Lanka,33,16,2,2,206.25,25,4,35,1,0,8.75,R Premadasa Stadium,64
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+IKPathan,India,England,8,10,1,0,80.0,18,3,17,2,0,5.666666666666667,R Premadasa Stadium,0,0,2012,61
+IKPathan,India,South Africa,0,1,0,0,0.0,24,4,18,0,0,4.5,Kingsmead,0,0,2007,-4
+IKPathan,India,New Zealand,0,0,0,0,0,23,3,31,3,0,10.333333333333334,MA Chidambaram Stadium Chepauk,0,0,2012,71
+IKPathan,India,Ireland,0,0,0,0,0,18,3,22,0,0,7.333333333333333,Trent Bridge,0,0,2009,0
+IKPathan,India,Pakistan,0,0,0,0,0,18,3,30,1,0,10.0,R Premadasa Stadium,0,0,2012,23
+IKPathan,India,Australia,0,1,0,0,0.0,24,4,44,2,0,11.0,Kingsmead,0,0,2007,38
+IKPathan,India,New Zealand,15,10,0,1,150.0,25,4,42,2,0,10.5,Westpac Stadium,0,1,2009,71
+IKPathan,India,Sri Lanka,33,16,2,2,206.25,25,4,35,1,0,8.75,R Premadasa Stadium,0,0,2009,64
+IKPathan,India,Australia,31,30,2,1,103.33333333333334,5,0,19,0,0,0,R Premadasa Stadium,0,0,2012,35
+IKPathan,India,South Africa,0,0,0,0,0,23,3,30,0,0,10.0,New Wanderers Stadium,0,0,2006,-2
+IKPathan,India,South Africa,0,0,0,0,0,24,4,44,1,0,11.0,New Wanderers Stadium,0,0,2012,21
+IKPathan,India,Australia,26,30,0,0,86.66666666666667,17,2,19,0,0,9.5,Melbourne Cricket Ground,0,0,2008,24
+IKPathan,India,Afghanistan,0,0,0,0,0,24,4,30,1,0,7.5,R Premadasa Stadium,0,0,2012,25
+IKPathan,India,Bangladesh,11,3,1,0,366.66666666666663,12,2,20,0,0,10.0,Trent Bridge,0,0,2009,10
+IKPathan,India,Sri Lanka,0,0,0,0,0,26,4,29,3,0,7.25,Pallekele International Cricket Stadium,0,0,2012,75
+IKPathan,India,South Africa,0,0,0,0,0,17,2,27,1,0,13.5,R Premadasa Stadium,0,0,2012,19
+IKPathan,India,West Indies,2,3,0,0,66.66666666666666,12,2,10,1,0,5.0,Lord's,0,1,2009,35
+IKPathan,India,Australia,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Brabourne Stadium,0,0,2007,44
+IKPathan,India,Pakistan,20,15,0,2,133.33333333333331,24,4,20,2,1,5.0,Kingsmead,0,0,2007,84
+IKPathan,India,New Zealand,11,10,2,0,110.00000000000001,12,2,16,0,0,8.0,New Wanderers Stadium,0,0,2007,13
+IKPathan,India,New Zealand,12,14,1,0,85.71428571428571,17,2,38,0,0,19.0,AMI Stadium,0,0,2009,7
+IKPathan,India,England,0,0,0,0,0,24,4,37,3,0,9.25,Kingsmead,0,0,2007,73
+IKPathan,India,Pakistan,3,3,0,0,100.0,24,4,16,3,0,4.0,New Wanderers Stadium,0,0,2007,82
+IKPathan,India,Bangladesh,0,0,0,0,0,54,9,61,0,0,6.777777777777778,Shere Bangla National Stadium,0,0,2012,0
+IKPathan,India,Sri Lanka,5,8,1,0,62.5,32,5,21,1,0,4.2,Rangiri Dambulla International Stadium,0,0,2008,33
+IKPathan,India,Australia,0,0,0,0,0,60,10,48,1,0,4.8,Sector 16 Stadium,0,0,2007,29
+IKPathan,India,West Indies,14,33,2,0,42.42424242424242,57,9,45,3,2,5.0,Sabina Park Kingston,0,1,2006,111
+IKPathan,India,Pakistan,0,0,0,0,0,62,10,69,1,0,6.9,Shere Bangla National Stadium,0,1,2012,33
+IKPathan,India,Australia,12,20,1,0,60.0,55,9,54,2,0,6.0,Brisbane Cricket Ground Woolloongabba,0,0,2008,61
+IKPathan,India,Pakistan,17,7,0,2,242.85714285714283,60,10,61,1,1,6.1,Green Park,0,0,2007,54
+IKPathan,India,South Africa,47,56,4,2,83.92857142857143,42,7,30,0,0,4.285714285714286,St George's Park,0,0,2006,59
+IKPathan,India,West Indies,4,10,0,0,40.0,58,9,42,2,1,4.666666666666667,MA Chidambaram Stadium Chepauk,0,0,2011,60
+IKPathan,India,Australia,21,41,0,1,51.21951219512195,13,2,23,0,0,11.5,Brisbane Cricket Ground Woolloongabba,0,0,2008,13
+IKPathan,India,Australia,0,1,0,0,0.0,25,4,32,1,0,8.0,Kinrara Academy Oval,0,0,2006,17
+IKPathan,India,West Indies,0,6,0,0,0.0,31,5,35,1,0,7.0,Sardar Patel Stadium Motera,0,0,2006,17
+IKPathan,India,Pakistan,0,2,0,0,0.0,60,10,51,3,1,5.1,Gaddafi Stadium,0,1,2006,85
+IKPathan,India,West Indies,0,0,0,0,0,43,7,44,1,1,6.285714285714286,Indian Petrochemicals Corporation Limited Sports Complex Ground,1,1,2007,53
+IKPathan,India,Australia,0,0,0,0,0,42,7,63,1,1,9.0,Sydney Cricket Ground,0,0,2008,33
+IKPathan,India,Sri Lanka,0,0,0,0,0,59,9,84,1,0,9.333333333333334,National Stadium,0,0,2008,23
+IKPathan,India,England,0,0,0,0,0,59,9,67,0,0,7.444444444444445,Barabati Stadium,0,0,2008,0
+IKPathan,India,Pakistan,0,0,0,0,0,59,9,52,1,2,5.777777777777778,Captain Roop Singh Stadium,0,0,2007,43
+IKPathan,India,Australia,1,7,0,0,14.285714285714285,62,10,47,2,0,4.7,Nehru Stadium,0,0,2007,49
+IKPathan,India,Pakistan,38,25,4,0,152.0,60,10,68,0,0,6.8,National Stadium,0,0,2008,42
+IKPathan,India,England,36,66,3,1,54.54545454545454,61,10,52,4,0,5.2,Nehru Stadium Fatorda,0,0,2006,147
+IKPathan,India,Australia,18,30,2,0,60.0,49,8,26,2,0,3.25,Melbourne Cricket Ground,0,0,2008,74
+IKPathan,India,England,28,46,4,0,60.86956521739131,43,7,24,3,0,3.4285714285714284,Feroz Shah Kotla,0,0,2006,111
+IKPathan,India,Sri Lanka,0,0,0,0,0,42,7,59,3,0,8.428571428571429,R Premadasa Stadium,0,0,2009,75
+IKPathan,India,Australia,3,4,0,0,75.0,60,10,59,2,0,5.9,Rajiv Gandhi International Stadium Uppal,0,1,2007,63
+IKPathan,India,Australia,19,27,1,1,70.37037037037037,64,10,69,3,1,6.9,Brisbane Cricket Ground Woolloongabba,0,1,2012,113
+IKPathan,India,South Africa,7,9,0,0,77.77777777777779,35,5,48,0,0,9.6,SuperSport Park,0,0,2006,5
+IKPathan,India,West Indies,8,7,1,0,114.28571428571428,34,5,32,1,0,6.4,Queen's Park Oval Port of Spain,0,0,2006,34
+IKPathan,India,West Indies,1,4,0,0,25.0,57,9,51,1,0,5.666666666666667,Warner Park Basseterre,1,0,2006,34
+IKPathan,India,Australia,29,29,3,2,100.0,53,8,60,1,0,7.5,Vidarbha Cricket Association Ground,0,0,2007,61
+IKPathan,India,Sri Lanka,0,0,0,0,0,48,8,32,4,1,4.0,Shere Bangla National Stadium,0,0,2012,120
+IKPathan,India,Sri Lanka,7,15,1,0,46.666666666666664,62,10,54,2,1,5.4,R Premadasa Stadium,0,0,2008,62
+IKPathan,India,Australia,22,21,2,0,104.76190476190477,56,9,73,0,0,8.11111111111111,Sydney Cricket Ground,0,1,2008,32
+IKPathan,India,Australia,22,24,1,2,91.66666666666666,29,4,32,0,1,8.0,Sydney Cricket Ground,0,0,2012,35
+IKPathan,India,Sri Lanka,8,6,0,1,133.33333333333331,55,9,39,1,0,4.333333333333333,Adelaide Oval,0,0,2012,39
+IKPathan,India,South Africa,1,10,0,0,10.0,49,8,60,1,1,7.5,Newlands,1,0,2006,40
+IKPathan,India,Pakistan,43,39,4,1,110.25641025641026,61,10,65,1,0,6.5,Sawai Mansingh Stadium,0,0,2007,74
+IKPathan,India,Pakistan,5,10,1,0,50.0,48,8,45,1,2,5.625,Nehru Stadium,0,1,2007,53
+IKPathan,India,Sri Lanka,7,19,0,0,36.84210526315789,44,7,37,0,0,5.285714285714286,Rangiri Dambulla International Stadium,0,1,2008,11
+IKPathan,India,Pakistan,7,16,0,0,43.75,61,10,53,1,0,5.3,Punjab Cricket Association Stadium Mohali,0,1,2007,36
+IKPathan,India,Sri Lanka,2,6,0,0,33.33333333333333,58,9,72,2,0,8.0,National Stadium,0,0,2008,46
+IKPathan,India,Sri Lanka,8,21,0,0,38.095238095238095,53,8,55,1,0,6.875,R Premadasa Stadium,0,0,2009,27
+IKPathan,India,Australia,26,65,2,1,40.0,11,1,11,0,0,11.0,Reliance Stadium,0,0,2007,24
+IKPathan,India,Pakistan,0,0,0,0,0,47,7,26,3,2,3.7142857142857144,Multan Cricket Stadium,0,1,2006,105
+IKPathan,India,England,19,35,4,0,54.285714285714285,48,8,22,2,2,2.75,Sawai Mansingh Stadium,0,1,2006,99
+IKPathan,India,Bangladesh,0,0,0,0,0,55,9,48,2,0,5.333333333333333,Shere Bangla National Stadium,0,0,2008,52
+IKPathan,India,Australia,10,7,1,0,142.85714285714286,44,7,42,1,0,6.0,Punjab Cricket Association Stadium Mohali,0,0,2006,36
+IKPathan,India,Sri Lanka,0,0,0,0,0,59,9,23,1,3,2.5555555555555554,Bellerive Oval,0,0,2008,55
+IKPathan,India,Pakistan,65,66,12,1,98.48484848484848,61,10,52,0,0,5.2,Arbab Niaz Stadium,0,0,2006,89
+IKPathan,India,Sri Lanka,31,42,4,0,73.80952380952381,61,10,45,1,0,4.5,Adelaide Oval,0,0,2008,64
+IKPathan,India,Sri Lanka,34,31,3,0,109.6774193548387,63,10,63,1,1,6.3,R Premadasa Stadium,0,0,2012,70
+IKPathan,India,West Indies,64,69,6,2,92.7536231884058,14,2,22,0,0,11.0,Kinrara Academy Oval,0,0,2006,78
+IKPathan,India,Australia,14,31,2,0,45.16129032258064,61,10,42,4,1,4.2,Adelaide Oval,0,0,2008,130
+IKPathan,India,Sri Lanka,29,28,2,0,103.57142857142858,63,10,63,5,0,6.3,Pallekele International Cricket Stadium,0,0,2012,172
+IKPathan,India,Pakistan,28,35,1,1,80.0,59,9,59,3,1,6.555555555555555,Shere Bangla National Stadium,0,0,2008,114
+IKPathan,India,Sri Lanka,7,4,1,0,175.0,63,10,39,2,1,3.9,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,72
+IKPathan,India,Australia,0,0,0,0,0,48,8,38,0,0,4.75,M Chinnaswamy Stadium,0,0,2007,4
+IKPathan,India,Pakistan,0,0,0,0,0,60,10,43,3,1,4.3,Rawalpindi Cricket Stadium,0,0,2006,87
+IKPathan,India,Sri Lanka,0,0,0,0,0,36,6,27,0,0,4.5,R Premadasa Stadium,0,1,2012,12
+IKPathan,India,Australia,0,5,0,0,0.0,29,4,24,1,0,6.0,Wankhede Stadium,0,0,2007,17
+IKPathan,India,England,12,11,1,0,109.09090909090908,47,7,29,1,2,4.142857142857143,Nahar Singh Stadium,0,0,2006,58
+IKPathan,India,Pakistan,18,18,1,0,100.0,35,5,39,0,0,7.8,Shere Bangla National Stadium,0,0,2008,19

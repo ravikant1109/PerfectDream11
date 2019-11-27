@@ -1,8 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AsifAli,Pakistan,Sri Lanka,29,29,3,0,100.0,0,0,0,0,0,0,Gaddafi Stadium,32
-AsifAli,Pakistan,Sri Lanka,29,29,3,0,100.0,0,0,0,0,0,0,Gaddafi Stadium,32
-AsifAli,Pakistan,Sri Lanka,29,29,3,0,100.0,0,0,0,0,0,0,Gaddafi Stadium,32
-AsifAli,Pakistan,Sri Lanka,6,10,0,0,60.0,0,0,0,0,0,0,Gaddafi Stadium,4
-AsifAli,Pakistan,Sri Lanka,1,2,0,0,50.0,0,0,0,0,0,0,Gaddafi Stadium,-3
-AsifAli,Pakistan,Sri Lanka,29,29,3,0,100.0,0,0,0,0,0,0,Gaddafi Stadium,32
-AsifAli,Pakistan,Sri Lanka,6,10,0,0,60.0,0,0,0,0,0,0,Gaddafi Stadium,4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AsifAli,Pakistan,Sri Lanka,6,10,0,0,60.0,0,0,0,0,0,0,Gaddafi Stadium,0,0,2019,4
+AsifAli,Pakistan,Sri Lanka,1,2,0,0,50.0,0,0,0,0,0,0,Gaddafi Stadium,0,1,2019,5
+AsifAli,Pakistan,Sri Lanka,29,29,3,0,100.0,0,0,0,0,0,0,Gaddafi Stadium,0,0,2019,32
+AsifAli,Pakistan,England,51,37,2,4,137.83783783783784,0,0,0,0,0,0,The Rose Bowl,0,0,2019,69
+AsifAli,Pakistan,England,52,45,2,3,115.55555555555554,4,0,9,0,0,0,County Ground,0,1,2019,76
+AsifAli,Pakistan,Australia,5,8,0,0,62.5,0,0,0,0,0,0,The Cooper Associates County Ground,0,1,2019,11
+AsifAli,Pakistan,England,17,12,1,1,141.66666666666669,0,0,0,0,0,0,Trent Bridge,0,0,2019,20
+AsifAli,Pakistan,England,14,12,0,1,116.66666666666667,0,0,0,0,0,0,Trent Bridge,0,0,2019,16

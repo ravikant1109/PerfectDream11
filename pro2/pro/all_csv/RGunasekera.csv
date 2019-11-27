@@ -1,9 +1,22 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RGunasekera,Canada,Kenya,15,7,1,1,214.28571428571428,0,0,0,0,0,0,Sharjah Cricket Stadium,18
-RGunasekera,Canada,Netherlands,9,13,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,8
-RGunasekera,Canada,Ireland,65,53,7,1,122.64150943396226,0,0,0,0,0,0,Sheikh Zayed Stadium,82
-RGunasekera,Canada,Ireland,26,34,2,0,76.47058823529412,0,0,0,0,0,0,Dubai International Cricket Stadium,28
-RGunasekera,Canada,Afghanistan,11,7,0,1,157.14285714285714,0,0,0,0,0,0,ICC Global Cricket Academy,13
-RGunasekera,Canada,Kenya,38,37,5,0,102.7027027027027,0,0,0,0,0,0,ICC Global Cricket Academy,43
-RGunasekera,Canada,Kenya,18,17,2,0,105.88235294117648,0,0,0,0,0,0,ICC Global Cricket Academy,20
-RGunasekera,Canada,Scotland,20,28,2,1,71.42857142857143,0,0,0,0,0,0,Dubai International Cricket Stadium,24
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RGunasekera,Canada,Netherlands,9,13,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,8
+RGunasekera,Canada,Kenya,18,17,2,0,105.88235294117648,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2013,20
+RGunasekera,Canada,Afghanistan,11,7,0,1,157.14285714285714,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2012,13
+RGunasekera,Canada,Ireland,26,34,2,0,76.47058823529412,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,28
+RGunasekera,Canada,Kenya,15,7,1,1,214.28571428571428,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,18
+RGunasekera,Canada,Scotland,20,28,2,1,71.42857142857143,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,24
+RGunasekera,Canada,Kenya,38,37,5,0,102.7027027027027,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2013,43
+RGunasekera,Canada,Ireland,65,53,7,1,122.64150943396226,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2013,82
+RGunasekera,Canada,Sri Lanka,1,10,0,0,10.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1,0,2011,7
+RGunasekera,Canada,Scotland,0,3,0,0,0.0,0,0,0,0,0,0,Hagley Oval,0,1,2014,0
+RGunasekera,Canada,Netherlands,1,14,0,0,7.142857142857142,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2013,-5
+RGunasekera,Canada,New Zealand,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Wankhede Stadium,0,1,2011,4
+RGunasekera,Canada,Pakistan,8,16,0,0,50.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,4
+RGunasekera,Canada,Kenya,18,28,3,0,64.28571428571429,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2011,19
+RGunasekera,Canada,Ireland,71,99,6,0,71.71717171717171,0,0,0,0,0,0,Toronto Cricket,0,0,2010,85
+RGunasekera,Canada,Netherlands,54,74,5,1,72.97297297297297,0,0,0,0,0,0,Bay Oval,0,0,2014,69
+RGunasekera,Canada,Ireland,0,4,0,0,0.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,1,2011,0
+RGunasekera,Canada,Ireland,4,20,0,0,20.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,2,2011,14
+RGunasekera,Canada,Netherlands,0,5,0,0,0.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2013,-8
+RGunasekera,Canada,Kenya,72,115,3,3,62.60869565217392,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2013,87
+RGunasekera,Canada,Zimbabwe,24,68,2,0,35.294117647058826,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,20

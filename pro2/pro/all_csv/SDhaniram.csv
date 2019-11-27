@@ -1,6 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SDhaniram,Canada,Kenya,1,2,0,0,50.0,23,3,17,1,0,5.666666666666667,Dubai International Cricket Stadium,24
-SDhaniram,Canada,Kenya,1,2,0,0,50.0,23,3,17,1,0,5.666666666666667,Dubai International Cricket Stadium,24
-SDhaniram,Canada,Kenya,1,2,0,0,50.0,23,3,17,1,0,5.666666666666667,Dubai International Cricket Stadium,24
-SDhaniram,Canada,Netherlands,4,6,0,0,66.66666666666666,11,1,15,0,0,15.0,Dubai International Cricket Stadium,2
-SDhaniram,Canada,Kenya,1,2,0,0,50.0,23,3,17,1,0,5.666666666666667,Dubai International Cricket Stadium,24
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SDhaniram,Canada,Netherlands,4,6,0,0,66.66666666666666,11,1,15,0,0,15.0,Dubai International Cricket Stadium,0,0,2010,2
+SDhaniram,Canada,Kenya,1,2,0,0,50.0,23,3,17,1,0,5.666666666666667,Dubai International Cricket Stadium,0,0,2010,24
+SDhaniram,Canada,Bermuda,79,87,3,1,90.80459770114942,61,10,34,5,2,3.4,Maple Leaf North-West Ground,0,0,2008,255
+SDhaniram,Canada,Kenya,13,21,0,0,61.904761904761905,59,9,36,1,0,4.0,Gymkhana Club Ground,0,0,2007,40
+SDhaniram,Canada,New Zealand,17,19,1,1,89.47368421052632,47,7,74,0,0,10.571428571428571,Beausejour Stadium Gros Islet,0,0,2007,16
+SDhaniram,Canada,England,30,33,2,0,90.9090909090909,59,9,41,3,0,4.555555555555555,Beausejour Stadium Gros Islet,0,0,2007,111
+SDhaniram,Canada,Bermuda,20,33,2,0,60.60606060606061,59,9,50,0,2,5.555555555555555,Willowmoore Park,0,0,2006,38
+SDhaniram,Canada,Bermuda,10,7,2,0,142.85714285714286,16,2,10,4,1,5.0,Gymkhana Club Ground,0,1,2007,138
+SDhaniram,Canada,Netherlands,0,9,0,0,0.0,53,8,32,2,2,4.0,Willowmoore Park,0,0,2006,62
+SDhaniram,Canada,Bermuda,63,44,8,1,143.1818181818182,59,9,38,2,1,4.222222222222222,Sedgars Park,0,0,2006,143
+SDhaniram,Canada,Scotland,41,48,3,1,85.41666666666666,11,1,5,1,1,5.0,Willowmoore Park,0,0,2009,79
+SDhaniram,Canada,Kenya,1,2,0,0,50.0,57,9,38,0,0,4.222222222222222,Gymkhana Club Ground,0,1,2007,9

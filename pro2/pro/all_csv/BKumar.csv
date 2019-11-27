@@ -1,34 +1,90 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BKumar,India,Australia,0,0,0,0,0,24,4,35,3,0,8.75,Saurashtra Cricket Association Stadium,75
-BKumar,India,Pakistan,6,6,0,0,100.0,25,4,9,3,0,2.25,M Chinnaswamy Stadium,87
-BKumar,India,South Africa,0,0,0,0,0,24,4,43,0,0,10.75,Himachal Pradesh Cricket Association Stadium,-4
-BKumar,India,South Africa,0,0,0,0,0,24,4,35,1,0,8.75,Shere Bangla National Stadium,25
-BKumar,India,Australia,0,0,0,0,0,24,4,35,3,0,8.75,Saurashtra Cricket Association Stadium,75
-BKumar,India,Pakistan,6,6,0,0,100.0,25,4,9,3,0,2.25,M Chinnaswamy Stadium,87
-BKumar,India,South Africa,0,0,0,0,0,24,4,43,0,0,10.75,Himachal Pradesh Cricket Association Stadium,-4
-BKumar,India,South Africa,0,0,0,0,0,24,4,35,1,0,8.75,Shere Bangla National Stadium,25
-BKumar,India,Australia,0,0,0,0,0,24,4,35,3,0,8.75,Saurashtra Cricket Association Stadium,75
-BKumar,India,Pakistan,6,6,0,0,100.0,25,4,9,3,0,2.25,M Chinnaswamy Stadium,87
-BKumar,India,South Africa,0,0,0,0,0,24,4,43,0,0,10.75,Himachal Pradesh Cricket Association Stadium,-4
-BKumar,India,South Africa,0,0,0,0,0,24,4,35,1,0,8.75,Shere Bangla National Stadium,25
-BKumar,India,South Africa,0,2,0,0,0.0,12,2,13,0,0,6.5,Barabati Stadium,-8
-BKumar,India,Pakistan,0,0,0,0,0,25,4,46,1,0,11.5,Sardar Patel Stadium Motera,19
-BKumar,India,United Arab Emirates,0,0,0,0,0,24,4,8,2,2,2.0,Shere Bangla National Stadium,72
-BKumar,India,West Indies,0,0,0,0,0,24,4,43,0,0,10.75,Central Broward Regional Park Stadium Turf Ground,-4
-BKumar,India,West Indies,0,0,0,0,0,25,4,36,1,0,9.0,Central Broward Regional Park Stadium Turf Ground,25
-BKumar,India,West Indies,0,0,0,0,0,17,2,19,0,0,9.5,Providence Stadium Guyana,-2
-BKumar,India,Bangladesh,0,0,0,0,0,17,2,21,1,0,10.5,Shere Bangla National Stadium,21
-BKumar,India,West Indies,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Sabina Park Kingston,-2
-BKumar,India,Pakistan,0,0,0,0,0,18,3,21,1,0,7.0,Shere Bangla National Stadium,25
-BKumar,India,West Indies,0,0,0,0,0,18,3,4,0,0,1.3333333333333333,Shere Bangla National Stadium,6
-BKumar,India,West Indies,0,0,0,0,0,12,2,7,1,0,3.5,Central Broward Regional Park Stadium Turf Ground,31
-BKumar,India,West Indies,0,0,0,0,0,24,4,19,2,0,4.75,Central Broward Regional Park Stadium Turf Ground,54
-BKumar,India,Australia,0,1,0,0,0.0,17,2,9,1,0,4.5,Shere Bangla National Stadium,21
-BKumar,India,Zimbabwe,0,0,0,0,0,24,4,23,0,0,5.75,Harare Sports Club,2
-BKumar,India,Sri Lanka,0,0,0,0,0,17,2,19,0,0,9.5,Shere Bangla National Stadium,-2
-BKumar,India,Zimbabwe,9,6,0,0,150.0,26,4,26,2,0,6.5,Harare Sports Club,59
-BKumar,India,Australia,0,0,0,0,0,24,4,35,3,0,8.75,Saurashtra Cricket Association Stadium,75
-BKumar,India,Pakistan,6,6,0,0,100.0,25,4,9,3,0,2.25,M Chinnaswamy Stadium,87
-BKumar,India,South Africa,0,0,0,0,0,24,4,43,0,0,10.75,Himachal Pradesh Cricket Association Stadium,-4
-BKumar,India,South Africa,0,0,0,0,0,24,4,35,1,0,8.75,Shere Bangla National Stadium,25
-BKumar,India,South Africa,0,2,0,0,0.0,12,2,13,0,0,6.5,Barabati Stadium,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BKumar,India,West Indies,0,0,0,0,0,24,4,43,0,0,10.75,Central Broward Regional Park Stadium Turf Ground,0,0,2016,-4
+BKumar,India,Pakistan,6,6,0,0,100.0,25,4,9,3,0,2.25,M Chinnaswamy Stadium,0,1,2012,95
+BKumar,India,West Indies,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Sabina Park Kingston,0,0,2017,-2
+BKumar,India,Zimbabwe,0,0,0,0,0,24,4,23,0,0,5.75,Harare Sports Club,0,0,2015,2
+BKumar,India,West Indies,0,0,0,0,0,12,2,7,1,0,3.5,Central Broward Regional Park Stadium Turf Ground,0,0,2019,31
+BKumar,India,West Indies,0,0,0,0,0,17,2,19,0,0,9.5,Providence Stadium Guyana,0,0,2019,-2
+BKumar,India,Pakistan,0,0,0,0,0,18,3,21,1,0,7.0,Shere Bangla National Stadium,1,1,2014,45
+BKumar,India,Australia,0,1,0,0,0.0,17,2,9,1,0,4.5,Shere Bangla National Stadium,0,0,2014,21
+BKumar,India,Sri Lanka,0,0,0,0,0,17,2,19,0,0,9.5,Shere Bangla National Stadium,0,0,2014,-2
+BKumar,India,Bangladesh,0,0,0,0,0,17,2,21,1,0,10.5,Shere Bangla National Stadium,0,0,2014,21
+BKumar,India,United Arab Emirates,0,0,0,0,0,24,4,8,2,2,2.0,Shere Bangla National Stadium,0,0,2016,72
+BKumar,India,Zimbabwe,9,6,0,0,150.0,26,4,26,2,0,6.5,Harare Sports Club,0,0,2015,59
+BKumar,India,West Indies,0,0,0,0,0,24,4,19,2,0,4.75,Central Broward Regional Park Stadium Turf Ground,0,0,2019,54
+BKumar,India,West Indies,0,0,0,0,0,25,4,36,1,0,9.0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,25
+BKumar,India,South Africa,0,2,0,0,0.0,12,2,13,0,0,6.5,Barabati Stadium,0,0,2015,-8
+BKumar,India,Australia,0,0,0,0,0,24,4,35,3,0,8.75,Saurashtra Cricket Association Stadium,0,0,2013,75
+BKumar,India,Pakistan,0,0,0,0,0,25,4,46,1,0,11.5,Sardar Patel Stadium Motera,0,0,2012,19
+BKumar,India,West Indies,0,0,0,0,0,18,3,4,0,0,1.3333333333333333,Shere Bangla National Stadium,0,0,2014,6
+BKumar,India,South Africa,0,0,0,0,0,24,4,35,1,0,8.75,Shere Bangla National Stadium,0,0,2014,25
+BKumar,India,South Africa,0,0,0,0,0,24,4,43,0,0,10.75,Himachal Pradesh Cricket Association Stadium,1,0,2015,8
+BKumar,India,Sri Lanka,0,0,0,0,0,35,5,8,4,1,1.6,Queen's Park Oval Port of Spain,0,0,2013,122
+BKumar,India,Afghanistan,0,0,0,0,0,48,8,25,0,2,3.125,Shere Bangla National Stadium,0,0,2014,22
+BKumar,India,South Africa,0,1,0,0,0.0,64,10,68,3,0,6.8,MA Chidambaram Stadium Chepauk,0,0,2015,67
+BKumar,India,Australia,0,0,0,0,0,47,7,42,1,0,6.0,Vidarbha Cricket Association Stadium Jamtha,0,1,2013,33
+BKumar,India,West Indies,0,0,0,0,0,47,7,34,1,0,4.857142857142857,Kennington Oval,0,1,2013,37
+BKumar,India,Bangladesh,25,21,2,1,119.04761904761905,43,7,42,2,0,6.0,Shere Bangla National Stadium,0,0,2015,79
+BKumar,India,England,31,30,5,0,103.33333333333334,55,9,50,0,1,5.555555555555555,Himachal Pradesh Cricket Association Stadium,0,0,2013,46
+BKumar,India,South Africa,0,5,0,0,0.0,55,9,68,0,1,7.555555555555555,New Wanderers Stadium,0,0,2013,0
+BKumar,India,Sri Lanka,0,1,0,0,0.0,55,9,45,0,1,5.0,Khan Shaheb Osman Ali Stadium,0,0,2014,2
+BKumar,India,West Indies,0,0,0,0,0,30,5,26,0,0,5.2,Nehru Stadium,1,1,2013,22
+BKumar,India,New Zealand,20,26,1,0,76.92307692307693,49,8,49,1,1,6.125,Westpac Stadium,0,0,2014,54
+BKumar,India,Australia,0,0,0,0,0,60,10,50,3,1,5.0,Kennington Oval,1,1,2019,105
+BKumar,India,Australia,18,28,1,0,64.28571428571429,41,6,43,0,1,7.166666666666667,Maharashtra Cricket Association Stadium,0,0,2013,25
+BKumar,India,England,1,3,0,0,33.33333333333333,48,8,46,1,1,5.75,Headingley,0,0,2014,30
+BKumar,India,Pakistan,0,0,0,0,0,31,5,24,1,0,4.8,Edgbaston,0,1,2017,37
+BKumar,India,England,0,0,0,0,0,59,9,63,1,1,7.0,Barabati Stadium,0,0,2017,33
+BKumar,India,Sri Lanka,0,0,0,0,0,60,10,54,2,0,5.4,Kennington Oval,1,0,2017,64
+BKumar,India,West Indies,1,2,0,0,50.0,48,8,31,4,2,3.875,Queen's Park Oval Trinidad,0,0,2019,127
+BKumar,India,New Zealand,4,3,1,0,133.33333333333331,54,9,50,1,0,5.555555555555555,Eden Park,0,0,2014,32
+BKumar,India,England,1,1,0,0,100.0,17,2,19,0,0,9.5,Edgbaston,0,0,2013,-1
+BKumar,India,West Indies,0,0,0,0,0,47,7,42,1,0,6.0,Green Park,0,0,2013,25
+BKumar,India,Australia,2,6,0,0,33.33333333333333,47,7,71,0,0,10.142857142857142,Manuka Oval,0,0,2016,-8
+BKumar,India,Pakistan,2,10,0,0,20.0,60,10,31,2,2,3.1,Feroz Shah Kotla,0,0,2013,68
+BKumar,India,England,20,16,2,0,125.0,43,7,52,0,0,7.428571428571429,Saurashtra Cricket Association Stadium,0,0,2013,22
+BKumar,India,New Zealand,11,7,2,0,157.14285714285714,41,6,43,1,1,7.166666666666667,Seddon Park,0,0,2014,46
+BKumar,India,United Arab Emirates,0,0,0,0,0,31,5,21,1,0,4.2,Western Australia Cricket Association Ground,0,0,2015,29
+BKumar,India,West Indies,11,5,1,1,220.00000000000003,42,7,37,1,1,5.285714285714286,Sabina Park Kingston,0,0,2013,49
+BKumar,India,South Africa,0,0,0,0,0,42,7,49,2,0,7.0,Sophia Gardens,0,0,2013,50
+BKumar,India,Zimbabwe,0,0,0,0,0,59,9,34,4,3,3.7777777777777777,Harare Sports Club,0,0,2015,138
+BKumar,India,New Zealand,0,1,0,0,0.0,59,9,43,3,1,4.777777777777778,Old Trafford,0,0,2019,79
+BKumar,India,Bangladesh,2,4,0,0,50.0,56,9,51,1,0,5.666666666666667,Edgbaston,0,0,2019,25
+BKumar,India,Australia,0,0,0,0,0,59,9,54,0,1,6.0,Sawai Mansingh Stadium,0,1,2013,16
+BKumar,India,England,0,0,0,0,0,62,10,44,1,2,4.4,JSCA International Stadium Complex,0,0,2013,45
+BKumar,India,Zimbabwe,0,0,0,0,0,35,5,12,0,1,2.4,Harare Sports Club,0,0,2015,14
+BKumar,India,Sri Lanka,0,16,0,0,0.0,48,8,29,2,3,3.625,Queen's Park Oval Port of Spain,0,2,2013,88
+BKumar,India,Sri Lanka,0,0,0,0,0,53,8,18,1,3,2.25,Sophia Gardens,0,1,2013,63
+BKumar,India,West Indies,2,10,0,0,20.0,60,10,39,0,1,3.9,Nehru Stadium,0,0,2014,10
+BKumar,India,Pakistan,0,0,0,0,0,54,9,31,2,2,3.4444444444444446,MA Chidambaram Stadium Chepauk,0,0,2012,72
+BKumar,India,England,0,1,0,0,0.0,49,8,56,0,0,7.0,Eden Gardens,1,0,2017,4
+BKumar,India,South Africa,0,0,0,0,0,61,10,65,0,1,6.5,Saurashtra Cricket Association Stadium,0,1,2015,16
+BKumar,India,West Indies,0,0,0,0,0,25,4,11,0,1,2.75,Providence Stadium Guyana,0,0,2019,14
+BKumar,India,West Indies,1,1,0,0,100.0,53,8,56,2,2,7.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2013,67
+BKumar,India,South Africa,0,0,0,0,0,46,7,27,2,0,3.857142857142857,Kennington Oval,0,1,2017,64
+BKumar,India,Pakistan,1,8,0,0,12.5,60,10,49,1,3,4.9,Kennington Oval,0,0,2017,48
+BKumar,India,Australia,0,0,0,0,0,57,9,43,0,1,4.777777777777778,Western Australia Cricket Association Ground,0,1,2016,20
+BKumar,India,New Zealand,6,5,1,0,120.0,62,10,39,1,1,3.9,McLean Park,0,1,2014,54
+BKumar,India,England,0,0,0,0,0,61,10,33,0,1,3.3,Punjab Cricket Association Stadium Mohali,0,1,2013,22
+BKumar,India,Zimbabwe,0,0,0,0,0,60,10,39,1,1,3.9,Harare Sports Club,0,0,2015,39
+BKumar,India,Australia,0,0,0,0,0,47,7,47,0,1,6.714285714285714,M Chinnaswamy Stadium,0,0,2013,8
+BKumar,India,West Indies,18,14,0,0,128.57142857142858,41,6,32,0,1,5.333333333333333,Feroz Shah Kotla,0,1,2014,36
+BKumar,India,Australia,10,18,1,0,55.55555555555556,59,9,53,1,1,5.888888888888889,Punjab Cricket Association Stadium Mohali,0,0,2013,42
+BKumar,India,England,0,0,0,0,0,60,10,30,3,2,3.0,Nehru Stadium,0,0,2013,97
+BKumar,India,England,5,5,0,0,100.0,12,2,18,0,0,9.0,Brisbane Cricket Ground Woolloongabba,0,0,2015,5
+BKumar,India,England,0,0,0,0,0,48,8,47,1,0,5.875,Trent Bridge,0,0,2014,27
+BKumar,India,South Africa,0,0,0,0,0,61,10,45,2,1,4.5,The Rose Bowl,0,0,2019,62
+BKumar,India,Pakistan,0,0,0,0,0,16,2,8,0,0,4.0,Old Trafford,0,0,2019,4
+BKumar,India,Bangladesh,3,10,0,0,30.0,31,5,32,0,0,6.4,Shere Bangla National Stadium,0,0,2015,-3
+BKumar,India,South Africa,14,33,1,0,42.42424242424242,51,8,41,3,1,5.125,Holkar Cricket Stadium,0,0,2015,94
+BKumar,India,West Indies,0,0,0,0,0,29,4,20,0,0,5.0,Sir Vivian Richards Stadium North Sound,0,0,2017,2
+BKumar,India,West Indies,0,0,0,0,0,62,10,29,2,1,2.9,Himachal Pradesh Cricket Association Stadium,0,0,2014,64
+BKumar,India,South Africa,1,8,0,0,12.5,62,10,106,2,0,10.6,Wankhede Stadium,0,0,2015,41
+BKumar,India,Pakistan,0,0,0,0,0,62,10,57,2,0,5.7,Shere Bangla National Stadium,0,1,2014,60
+BKumar,India,West Indies,0,0,0,0,0,30,5,12,2,0,2.4,Queen's Park Oval Port of Spain,0,0,2017,56
+BKumar,India,Australia,0,1,0,0,0.0,61,10,44,1,1,4.4,Melbourne Cricket Ground,0,0,2015,29
+BKumar,India,Bangladesh,0,0,0,0,0,47,7,41,1,1,5.857142857142857,Khan Shaheb Osman Ali Stadium,0,0,2014,35
+BKumar,India,Sri Lanka,0,0,0,0,0,62,10,73,1,0,7.3,Headingley,0,0,2019,25
+BKumar,India,Pakistan,0,0,0,0,0,47,7,20,2,2,2.857142857142857,Edgbaston,0,0,2013,72
+BKumar,India,Pakistan,0,2,0,0,0.0,53,8,61,1,0,7.625,Eden Gardens,0,0,2013,17
+BKumar,India,West Indies,0,0,0,0,0,48,8,29,3,2,3.625,Queen's Park Oval Port of Spain,0,1,2013,105

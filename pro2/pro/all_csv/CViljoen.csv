@@ -1,20 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CViljoen,Namibia,Bermuda,0,0,0,0,0,18,3,27,2,0,9.0,ICC Academy Ground No 2,50
-CViljoen,Namibia,Netherlands,6,8,1,0,75.0,27,4,33,0,0,8.25,ICC Academy,7
-CViljoen,Namibia,Uganda,33,31,4,0,106.4516129032258,24,4,15,4,0,3.75,Kyambogo Cricket Oval,151
-CViljoen,Namibia,Bermuda,0,0,0,0,0,18,3,27,2,0,9.0,ICC Academy Ground No 2,50
-CViljoen,Namibia,Netherlands,6,8,1,0,75.0,27,4,33,0,0,8.25,ICC Academy,7
-CViljoen,Namibia,Uganda,33,31,4,0,106.4516129032258,24,4,15,4,0,3.75,Kyambogo Cricket Oval,151
-CViljoen,Namibia,Bermuda,0,0,0,0,0,18,3,27,2,0,9.0,ICC Academy Ground No 2,50
-CViljoen,Namibia,Netherlands,6,8,1,0,75.0,27,4,33,0,0,8.25,ICC Academy,7
-CViljoen,Namibia,Uganda,33,31,4,0,106.4516129032258,24,4,15,4,0,3.75,Kyambogo Cricket Oval,151
-CViljoen,Namibia,Kenya,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Dubai International Cricket Stadium,29
-CViljoen,Namibia,Scotland,0,0,0,0,0,24,4,24,2,0,6.0,ICC Academy,50
-CViljoen,Namibia,Ghana,2,3,0,0,66.66666666666666,5,0,5,0,0,0,Kyambogo Cricket Oval,0
-CViljoen,Namibia,Papua New Guinea,17,21,0,1,80.95238095238095,19,3,38,2,0,12.666666666666666,ICC Academy Ground No 2,63
-CViljoen,Namibia,Botswana,0,0,0,0,0,24,4,9,5,1,2.25,Kyambogo Cricket Oval,155
-CViljoen,Namibia,Singapore,0,0,0,0,0,19,3,14,3,0,4.666666666666667,Dubai International Cricket Stadium,79
-CViljoen,Namibia,Bermuda,0,0,0,0,0,18,3,27,2,0,9.0,ICC Academy Ground No 2,50
-CViljoen,Namibia,Netherlands,6,8,1,0,75.0,27,4,33,0,0,8.25,ICC Academy,7
-CViljoen,Namibia,Uganda,33,31,4,0,106.4516129032258,24,4,15,4,0,3.75,Kyambogo Cricket Oval,151
-CViljoen,Namibia,Kenya,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Dubai International Cricket Stadium,29
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CViljoen,Namibia,Kenya,0,0,0,0,0,23,3,14,1,0,4.666666666666667,Dubai International Cricket Stadium,1,0,2019,41
+CViljoen,Namibia,Papua New Guinea,17,21,0,1,80.95238095238095,19,3,38,2,0,12.666666666666666,ICC Academy Ground No 2,0,0,2019,63
+CViljoen,Namibia,Singapore,0,0,0,0,0,19,3,14,3,0,4.666666666666667,Dubai International Cricket Stadium,0,0,2019,79
+CViljoen,Namibia,Netherlands,6,8,1,0,75.0,27,4,33,0,0,8.25,ICC Academy,0,1,2019,15
+CViljoen,Namibia,Scotland,0,0,0,0,0,24,4,24,2,0,6.0,ICC Academy,0,1,2019,58
+CViljoen,Namibia,Bermuda,0,0,0,0,0,18,3,27,2,0,9.0,ICC Academy Ground No 2,0,1,2019,58
+CViljoen,Namibia,Ghana,2,3,0,0,66.66666666666666,5,0,5,0,0,0,Kyambogo Cricket Oval,0,0,2019,0
+CViljoen,Namibia,Botswana,0,0,0,0,0,24,4,9,5,1,2.25,Kyambogo Cricket Oval,0,0,2019,155
+CViljoen,Namibia,Uganda,33,31,4,0,106.4516129032258,24,4,15,4,0,3.75,Kyambogo Cricket Oval,0,0,2019,151
+CViljoen,Namibia,United States of America,2,12,0,0,16.666666666666664,6,1,8,0,0,8.0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,-4
+CViljoen,Namibia,Oman,17,11,1,0,154.54545454545453,24,4,6,2,0,1.5,Wanderers Cricket Ground,0,2,2019,90

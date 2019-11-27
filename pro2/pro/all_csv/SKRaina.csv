@@ -1,111 +1,238 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SKRaina,India,New Zealand,61,46,2,5,132.6086956521739,0,0,0,0,0,0,AMI Stadium,81
-SKRaina,India,Australia,19,13,2,1,146.15384615384613,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,23
-SKRaina,India,Bangladesh,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Trent Bridge,11
-SKRaina,India,Pakistan,10,9,1,0,111.11111111111111,0,0,0,0,0,0,M Chinnaswamy Stadium,11
-SKRaina,India,West Indies,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-4
-SKRaina,India,Sri Lanka,20,25,1,1,80.0,11,1,13,1,0,13.0,Maharashtra Cricket Association Stadium,48
-SKRaina,India,West Indies,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Lord's,1
-SKRaina,India,South Africa,14,8,0,2,175.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,18
-SKRaina,India,South Africa,21,11,3,1,190.9090909090909,24,4,36,0,0,9.0,Shere Bangla National Stadium,26
-SKRaina,India,New Zealand,1,2,0,0,50.0,23,3,16,1,0,5.333333333333333,Vidarbha Cricket Association Stadium Jamtha,24
-SKRaina,India,England,25,20,1,1,125.0,0,0,0,0,0,0,Edgbaston,28
-SKRaina,India,Afghanistan,18,14,1,1,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,21
-SKRaina,India,Australia,26,19,4,0,136.8421052631579,0,0,0,0,0,0,R Premadasa Stadium,30
-SKRaina,India,Sri Lanka,25,26,2,0,96.15384615384616,5,0,9,0,0,0,Shere Bangla National Stadium,27
-SKRaina,India,New Zealand,61,46,2,5,132.6086956521739,0,0,0,0,0,0,AMI Stadium,81
-SKRaina,India,New Zealand,61,46,2,5,132.6086956521739,0,0,0,0,0,0,AMI Stadium,81
-SKRaina,India,Australia,19,13,2,1,146.15384615384613,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,23
-SKRaina,India,Bangladesh,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Trent Bridge,11
-SKRaina,India,Pakistan,10,9,1,0,111.11111111111111,0,0,0,0,0,0,M Chinnaswamy Stadium,11
-SKRaina,India,West Indies,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-4
-SKRaina,India,Sri Lanka,20,25,1,1,80.0,11,1,13,1,0,13.0,Maharashtra Cricket Association Stadium,48
-SKRaina,India,West Indies,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Lord's,1
-SKRaina,India,South Africa,14,8,0,2,175.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,18
-SKRaina,India,South Africa,21,11,3,1,190.9090909090909,24,4,36,0,0,9.0,Shere Bangla National Stadium,26
-SKRaina,India,New Zealand,1,2,0,0,50.0,23,3,16,1,0,5.333333333333333,Vidarbha Cricket Association Stadium Jamtha,24
-SKRaina,India,England,25,20,1,1,125.0,0,0,0,0,0,0,Edgbaston,28
-SKRaina,India,Afghanistan,18,14,1,1,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,21
-SKRaina,India,Australia,26,19,4,0,136.8421052631579,0,0,0,0,0,0,R Premadasa Stadium,30
-SKRaina,India,Sri Lanka,25,26,2,0,96.15384615384616,5,0,9,0,0,0,Shere Bangla National Stadium,27
-SKRaina,India,New Zealand,61,46,2,5,132.6086956521739,0,0,0,0,0,0,AMI Stadium,81
-SKRaina,India,New Zealand,61,46,2,5,132.6086956521739,0,0,0,0,0,0,AMI Stadium,81
-SKRaina,India,Australia,19,13,2,1,146.15384615384613,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,23
-SKRaina,India,Bangladesh,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Trent Bridge,11
-SKRaina,India,Pakistan,10,9,1,0,111.11111111111111,0,0,0,0,0,0,M Chinnaswamy Stadium,11
-SKRaina,India,West Indies,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-4
-SKRaina,India,Sri Lanka,20,25,1,1,80.0,11,1,13,1,0,13.0,Maharashtra Cricket Association Stadium,48
-SKRaina,India,West Indies,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Lord's,1
-SKRaina,India,South Africa,14,8,0,2,175.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,18
-SKRaina,India,South Africa,21,11,3,1,190.9090909090909,24,4,36,0,0,9.0,Shere Bangla National Stadium,26
-SKRaina,India,New Zealand,1,2,0,0,50.0,23,3,16,1,0,5.333333333333333,Vidarbha Cricket Association Stadium Jamtha,24
-SKRaina,India,England,25,20,1,1,125.0,0,0,0,0,0,0,Edgbaston,28
-SKRaina,India,Afghanistan,18,14,1,1,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,21
-SKRaina,India,Australia,26,19,4,0,136.8421052631579,0,0,0,0,0,0,R Premadasa Stadium,30
-SKRaina,India,Sri Lanka,25,26,2,0,96.15384615384616,5,0,9,0,0,0,Shere Bangla National Stadium,27
-SKRaina,India,South Africa,3,8,0,0,37.5,5,0,6,1,0,0,Trent Bridge,22
-SKRaina,India,Sri Lanka,35,32,5,1,109.375,0,0,0,0,0,0,R Premadasa Stadium,42
-SKRaina,India,England,26,21,1,1,123.80952380952381,0,0,0,0,0,0,Subrata Roy Sahara Stadium,29
-SKRaina,India,Australia,49,26,6,1,188.46153846153845,0,0,0,0,0,0,Sydney Cricket Ground,57
-SKRaina,India,Bangladesh,30,23,1,2,130.43478260869566,6,1,10,1,0,10.0,M Chinnaswamy Stadium,60
-SKRaina,India,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Shere Bangla National Stadium,-5
-SKRaina,India,South Africa,22,26,3,0,84.61538461538461,18,3,14,0,0,4.666666666666667,Barabati Stadium,29
-SKRaina,India,England,34,25,4,1,136.0,11,1,17,0,0,17.0,Green Park,40
-SKRaina,India,West Indies,32,28,4,1,114.28571428571428,11,1,23,0,0,23.0,Kensington Oval Bridgetown,38
-SKRaina,India,Pakistan,1,1,0,0,100.0,11,1,13,0,0,13.0,Sardar Patel Stadium Motera,1
-SKRaina,India,Afghanistan,38,37,6,0,102.7027027027027,0,0,0,0,0,0,R Premadasa Stadium,44
-SKRaina,India,Sri Lanka,63,49,7,1,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,80
-SKRaina,India,England,7,11,0,0,63.63636363636363,25,4,31,0,0,7.75,Vidarbha Cricket Association Stadium Jamtha,5
-SKRaina,India,Australia,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Kensington Oval Bridgetown,6
-SKRaina,India,Sri Lanka,30,22,5,0,136.36363636363635,11,1,22,0,0,22.0,JSCA International Stadium Complex,35
-SKRaina,India,England,63,49,2,5,128.57142857142858,6,1,22,0,0,22.0,M Chinnaswamy Stadium,83
-SKRaina,India,Bangladesh,0,0,0,0,0,11,1,11,0,0,11.0,Shere Bangla National Stadium,0
-SKRaina,India,Bangladesh,13,14,2,0,92.85714285714286,0,0,0,0,0,0,Shere Bangla National Stadium,15
-SKRaina,India,Sri Lanka,0,0,0,0,0,11,1,6,2,0,6.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,50
-SKRaina,India,England,1,2,0,0,50.0,0,0,0,0,0,0,R Premadasa Stadium,-3
-SKRaina,India,New Zealand,27,22,2,1,122.72727272727273,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,31
-SKRaina,India,Pakistan,35,29,4,1,120.6896551724138,0,0,0,0,0,0,Shere Bangla National Stadium,41
-SKRaina,India,West Indies,1,1,0,0,100.0,13,2,8,0,0,4.0,Shere Bangla National Stadium,5
-SKRaina,India,Australia,14,15,1,0,93.33333333333333,17,2,22,1,0,11.0,Stadium Australia,36
-SKRaina,India,Sri Lanka,34,26,3,1,130.76923076923077,0,0,0,0,0,0,Pallekele International Cricket Stadium,39
-SKRaina,India,Zimbabwe,28,17,3,1,164.70588235294116,0,0,0,0,0,0,Harare Sports Club,33
-SKRaina,India,South Africa,41,24,2,3,170.83333333333331,0,0,0,0,0,0,Moses Mabhida Stadium,49
-SKRaina,India,South Africa,0,0,0,0,0,23,3,49,2,0,16.333333333333332,New Wanderers Stadium,44
-SKRaina,India,England,33,20,2,3,165.0,0,0,0,0,0,0,Old Trafford,41
-SKRaina,India,Pakistan,0,1,0,0,0.0,5,0,5,1,0,0,Eden Gardens,17
-SKRaina,India,Sri Lanka,21,13,1,1,161.53846153846155,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,24
-SKRaina,India,England,35,24,3,1,145.83333333333331,0,0,0,0,0,0,Wankhede Stadium,40
-SKRaina,India,Australia,41,37,3,1,110.8108108108108,0,0,0,0,0,0,Adelaide Oval,46
-SKRaina,India,Australia,6,10,0,0,60.0,5,0,16,0,0,0,Shere Bangla National Stadium,4
-SKRaina,India,Zimbabwe,72,48,6,2,150.0,0,0,0,0,0,0,Harare Sports Club,90
-SKRaina,India,South Africa,3,4,0,0,75.0,0,0,0,0,0,0,New Wanderers Stadium,3
-SKRaina,India,South Africa,101,61,9,5,165.5737704918033,0,0,0,0,0,0,Beausejour Stadium Gros Islet,136
-SKRaina,India,England,39,29,4,2,134.48275862068965,12,2,9,1,0,4.5,Eden Gardens,76
-SKRaina,India,Sri Lanka,0,0,0,0,0,24,4,24,1,0,6.0,Shere Bangla National Stadium,25
-SKRaina,India,South Africa,45,34,5,0,132.35294117647058,0,0,0,0,0,0,R Premadasa Stadium,50
-SKRaina,India,Australia,10,7,1,0,142.85714285714286,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,11
-SKRaina,India,Sri Lanka,9,7,1,0,128.57142857142858,8,1,10,0,0,10.0,Punjab Cricket Association Stadium Mohali,10
-SKRaina,India,England,2,5,0,0,40.0,0,0,0,0,0,0,Lord's,-4
-SKRaina,India,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Westpac Stadium,-8
-SKRaina,India,Australia,0,0,0,0,0,5,0,10,0,0,0,Melbourne Cricket Ground,0
-SKRaina,India,New Zealand,61,46,2,5,132.6086956521739,0,0,0,0,0,0,AMI Stadium,81
-SKRaina,India,Australia,19,13,2,1,146.15384615384613,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,23
-SKRaina,India,Bangladesh,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Trent Bridge,11
-SKRaina,India,Pakistan,10,9,1,0,111.11111111111111,0,0,0,0,0,0,M Chinnaswamy Stadium,11
-SKRaina,India,West Indies,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-4
-SKRaina,India,Sri Lanka,20,25,1,1,80.0,11,1,13,1,0,13.0,Maharashtra Cricket Association Stadium,48
-SKRaina,India,West Indies,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Lord's,1
-SKRaina,India,South Africa,14,8,0,2,175.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,18
-SKRaina,India,South Africa,21,11,3,1,190.9090909090909,24,4,36,0,0,9.0,Shere Bangla National Stadium,26
-SKRaina,India,New Zealand,1,2,0,0,50.0,23,3,16,1,0,5.333333333333333,Vidarbha Cricket Association Stadium Jamtha,24
-SKRaina,India,England,25,20,1,1,125.0,0,0,0,0,0,0,Edgbaston,28
-SKRaina,India,Afghanistan,18,14,1,1,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,21
-SKRaina,India,Australia,26,19,4,0,136.8421052631579,0,0,0,0,0,0,R Premadasa Stadium,30
-SKRaina,India,Sri Lanka,25,26,2,0,96.15384615384616,5,0,9,0,0,0,Shere Bangla National Stadium,27
-SKRaina,India,South Africa,3,8,0,0,37.5,5,0,6,1,0,0,Trent Bridge,22
-SKRaina,India,Sri Lanka,35,32,5,1,109.375,0,0,0,0,0,0,R Premadasa Stadium,42
-SKRaina,India,England,26,21,1,1,123.80952380952381,0,0,0,0,0,0,Subrata Roy Sahara Stadium,29
-SKRaina,India,Australia,49,26,6,1,188.46153846153845,0,0,0,0,0,0,Sydney Cricket Ground,57
-SKRaina,India,Bangladesh,30,23,1,2,130.43478260869566,6,1,10,1,0,10.0,M Chinnaswamy Stadium,60
-SKRaina,India,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Shere Bangla National Stadium,-5
-SKRaina,India,South Africa,22,26,3,0,84.61538461538461,18,3,14,0,0,4.666666666666667,Barabati Stadium,29
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SKRaina,India,England,1,2,0,0,50.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,-3
+SKRaina,India,Pakistan,10,9,1,0,111.11111111111111,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2012,11
+SKRaina,India,England,34,25,4,1,136.0,11,1,17,0,0,17.0,Green Park,0,1,2017,48
+SKRaina,India,Sri Lanka,21,13,1,1,161.53846153846155,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,24
+SKRaina,India,Sri Lanka,25,26,2,0,96.15384615384616,5,0,9,0,0,0,Shere Bangla National Stadium,0,1,2016,35
+SKRaina,India,England,39,29,4,2,134.48275862068965,12,2,9,1,0,4.5,Eden Gardens,0,0,2011,76
+SKRaina,India,Australia,10,7,1,0,142.85714285714286,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,11
+SKRaina,India,New Zealand,27,22,2,1,122.72727272727273,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2012,31
+SKRaina,India,South Africa,101,61,9,5,165.5737704918033,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,136
+SKRaina,India,South Africa,3,8,0,0,37.5,5,0,6,1,0,0,Trent Bridge,0,0,2009,22
+SKRaina,India,Sri Lanka,63,49,7,1,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,80
+SKRaina,India,England,7,11,0,0,63.63636363636363,25,4,31,0,0,7.75,Vidarbha Cricket Association Stadium Jamtha,0,1,2017,13
+SKRaina,India,Australia,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,6
+SKRaina,India,West Indies,32,28,4,1,114.28571428571428,11,1,23,0,0,23.0,Kensington Oval Bridgetown,0,0,2010,38
+SKRaina,India,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Westpac Stadium,0,0,2009,-8
+SKRaina,India,Australia,0,0,0,0,0,5,0,10,0,0,0,Melbourne Cricket Ground,1,0,2012,12
+SKRaina,India,Afghanistan,18,14,1,1,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,21
+SKRaina,India,Sri Lanka,30,22,5,0,136.36363636363635,11,1,22,0,0,22.0,JSCA International Stadium Complex,0,1,2016,43
+SKRaina,India,England,26,21,1,1,123.80952380952381,0,0,0,0,0,0,Subrata Roy Sahara Stadium,0,0,2012,29
+SKRaina,India,Sri Lanka,35,32,5,1,109.375,0,0,0,0,0,0,R Premadasa Stadium,0,1,2009,50
+SKRaina,India,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2016,3
+SKRaina,India,Australia,26,19,4,0,136.8421052631579,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,30
+SKRaina,India,South Africa,3,4,0,0,75.0,0,0,0,0,0,0,New Wanderers Stadium,0,2,2006,19
+SKRaina,India,South Africa,0,0,0,0,0,23,3,49,2,0,16.333333333333332,New Wanderers Stadium,0,0,2012,44
+SKRaina,India,Bangladesh,30,23,1,2,130.43478260869566,6,1,10,1,0,10.0,M Chinnaswamy Stadium,0,1,2016,68
+SKRaina,India,Pakistan,35,29,4,1,120.6896551724138,0,0,0,0,0,0,Shere Bangla National Stadium,0,3,2014,65
+SKRaina,India,England,33,20,2,3,165.0,0,0,0,0,0,0,Old Trafford,0,1,2011,49
+SKRaina,India,England,25,20,1,1,125.0,0,0,0,0,0,0,Edgbaston,0,0,2014,28
+SKRaina,India,Afghanistan,38,37,6,0,102.7027027027027,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,52
+SKRaina,India,Bangladesh,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Trent Bridge,0,0,2009,11
+SKRaina,India,Bangladesh,13,14,2,0,92.85714285714286,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,15
+SKRaina,India,New Zealand,1,2,0,0,50.0,23,3,16,1,0,5.333333333333333,Vidarbha Cricket Association Stadium Jamtha,1,0,2016,36
+SKRaina,India,Australia,6,10,0,0,60.0,5,0,16,0,0,0,Shere Bangla National Stadium,1,0,2014,16
+SKRaina,India,Pakistan,0,1,0,0,0.0,5,0,5,1,0,0,Eden Gardens,0,0,2016,17
+SKRaina,India,England,35,24,3,1,145.83333333333331,0,0,0,0,0,0,Wankhede Stadium,0,0,2012,40
+SKRaina,India,Sri Lanka,34,26,3,1,130.76923076923077,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,47
+SKRaina,India,South Africa,41,24,2,3,170.83333333333331,0,0,0,0,0,0,Moses Mabhida Stadium,0,0,2011,49
+SKRaina,India,Sri Lanka,0,0,0,0,0,24,4,24,1,0,6.0,Shere Bangla National Stadium,0,0,2014,25
+SKRaina,India,Bangladesh,0,0,0,0,0,11,1,11,0,0,11.0,Shere Bangla National Stadium,0,1,2014,8
+SKRaina,India,South Africa,45,34,5,0,132.35294117647058,0,0,0,0,0,0,R Premadasa Stadium,0,3,2012,74
+SKRaina,India,Zimbabwe,28,17,3,1,164.70588235294116,0,0,0,0,0,0,Harare Sports Club,0,1,2010,41
+SKRaina,India,England,63,49,2,5,128.57142857142858,6,1,22,0,0,22.0,M Chinnaswamy Stadium,0,2,2017,99
+SKRaina,India,West Indies,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Lord's,0,0,2009,1
+SKRaina,India,West Indies,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2011,-4
+SKRaina,India,Zimbabwe,72,48,6,2,150.0,0,0,0,0,0,0,Harare Sports Club,0,1,2010,98
+SKRaina,India,Australia,49,26,6,1,188.46153846153845,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2016,65
+SKRaina,India,Australia,14,15,1,0,93.33333333333333,17,2,22,1,0,11.0,Stadium Australia,0,2,2012,52
+SKRaina,India,South Africa,22,26,3,0,84.61538461538461,18,3,14,0,0,4.666666666666667,Barabati Stadium,0,0,2015,29
+SKRaina,India,Sri Lanka,9,7,1,0,128.57142857142858,8,1,10,0,0,10.0,Punjab Cricket Association Stadium Mohali,0,0,2009,10
+SKRaina,India,Sri Lanka,0,0,0,0,0,11,1,6,2,0,6.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,1,2016,58
+SKRaina,India,Australia,19,13,2,1,146.15384615384613,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,0,0,2013,23
+SKRaina,India,England,2,5,0,0,40.0,0,0,0,0,0,0,Lord's,0,0,2009,-4
+SKRaina,India,Pakistan,1,1,0,0,100.0,11,1,13,0,0,13.0,Sardar Patel Stadium Motera,0,1,2012,9
+SKRaina,India,Australia,41,37,3,1,110.8108108108108,0,0,0,0,0,0,Adelaide Oval,0,0,2016,46
+SKRaina,India,West Indies,1,1,0,0,100.0,13,2,8,0,0,4.0,Shere Bangla National Stadium,0,0,2014,5
+SKRaina,India,Sri Lanka,20,25,1,1,80.0,11,1,13,1,0,13.0,Maharashtra Cricket Association Stadium,0,1,2016,56
+SKRaina,India,New Zealand,61,46,2,5,132.6086956521739,0,0,0,0,0,0,AMI Stadium,0,0,2009,81
+SKRaina,India,South Africa,21,11,3,1,190.9090909090909,24,4,36,0,0,9.0,Shere Bangla National Stadium,0,0,2014,26
+SKRaina,India,South Africa,14,8,0,2,175.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2015,18
+SKRaina,India,Sri Lanka,24,24,3,0,100.0,0,0,0,0,0,0,Queens Sports Club,0,1,2010,35
+SKRaina,India,Bangladesh,51,42,5,2,121.42857142857142,41,6,31,0,1,5.166666666666667,Shere Bangla National Stadium,0,1,2012,86
+SKRaina,India,Sri Lanka,1,4,0,0,25.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2008,-5
+SKRaina,India,Sri Lanka,4,8,0,0,50.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2013,8
+SKRaina,India,Australia,0,6,0,0,0.0,17,2,13,1,0,6.5,Nehru Stadium,0,1,2009,25
+SKRaina,India,West Indies,27,57,1,0,47.368421052631575,0,0,0,0,0,0,Sabina Park Kingston,0,1,2006,30
+SKRaina,India,South Africa,53,58,3,1,91.37931034482759,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2015,66
+SKRaina,India,England,38,29,2,2,131.0344827586207,0,0,0,0,0,0,Riverside Ground,0,0,2011,44
+SKRaina,India,Zimbabwe,110,108,9,4,101.85185185185186,0,0,0,0,0,0,Eden Park,0,0,2015,143
+SKRaina,India,England,84,76,7,2,110.5263157894737,11,1,13,0,0,13.0,Lord's,0,0,2011,103
+SKRaina,India,Pakistan,12,7,1,1,171.42857142857142,13,2,15,0,0,7.5,Shere Bangla National Stadium,0,1,2012,23
+SKRaina,India,Australia,16,16,2,0,100.0,11,1,17,0,0,17.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2013,18
+SKRaina,India,Bangladesh,40,41,1,2,97.5609756097561,59,9,41,0,0,4.555555555555555,Shere Bangla National Stadium,1,0,2015,61
+SKRaina,India,England,83,101,8,2,82.17821782178217,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2013,103
+SKRaina,India,New Zealand,13,18,1,0,72.22222222222221,5,0,5,0,0,0,Nehru Stadium,0,1,2010,22
+SKRaina,India,Zimbabwe,37,53,2,0,69.81132075471697,0,0,0,0,0,0,Queens Sports Club,0,0,2010,37
+SKRaina,India,England,2,8,0,0,25.0,0,0,0,0,0,0,Keenan Stadium,0,0,2006,-4
+SKRaina,India,New Zealand,0,0,0,0,0,5,0,4,0,0,0,Sawai Mansingh Stadium,0,0,2010,0
+SKRaina,India,South Africa,14,21,2,0,66.66666666666666,5,0,7,0,0,0,New Wanderers Stadium,0,0,2013,14
+SKRaina,India,Sri Lanka,40,24,3,1,166.66666666666669,11,1,17,0,0,17.0,Bellerive Oval,0,0,2012,45
+SKRaina,India,Bangladesh,15,11,3,0,136.36363636363635,29,4,24,1,0,6.0,Shere Bangla National Stadium,0,1,2014,51
+SKRaina,India,South Africa,37,48,4,0,77.08333333333334,5,0,8,0,0,0,Newlands,0,1,2011,49
+SKRaina,India,Sri Lanka,14,6,1,1,233.33333333333334,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2014,17
+SKRaina,India,Bangladesh,51,45,5,1,113.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,66
+SKRaina,India,West Indies,16,12,2,0,133.33333333333331,37,6,24,1,0,4.0,MA Chidambaram Stadium Chepauk,0,0,2011,47
+SKRaina,India,West Indies,0,5,0,0,0.0,59,9,35,3,1,3.888888888888889,Nehru Stadium,0,0,2013,81
+SKRaina,India,Australia,1,1,0,0,100.0,0,0,0,0,0,0,Kinrara Academy Oval,0,2,2006,17
+SKRaina,India,South Africa,11,14,1,0,78.57142857142857,35,5,27,0,0,5.4,New Wanderers Stadium,0,0,2011,14
+SKRaina,India,West Indies,19,38,1,0,50.0,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,16
+SKRaina,India,Australia,0,0,0,0,0,47,7,39,0,0,5.571428571428571,JSCA International Stadium Complex,0,0,2013,2
+SKRaina,India,West Indies,2,14,0,0,14.285714285714285,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2006,-4
+SKRaina,India,England,4,10,1,0,40.0,0,0,0,0,0,0,Maharani Usharaje Trust Cricket Ground,1,1,2008,19
+SKRaina,India,Sri Lanka,54,73,3,1,73.97260273972603,23,3,16,0,0,5.333333333333333,Rangiri Dambulla International Stadium,1,1,2009,89
+SKRaina,India,Pakistan,84,70,10,3,120.0,0,0,0,0,0,0,National Stadium,0,2,2008,124
+SKRaina,India,Sri Lanka,54,69,3,0,78.26086956521739,0,0,0,0,0,0,National Stadium,0,0,2008,65
+SKRaina,India,England,53,54,8,0,98.14814814814815,0,0,0,0,0,0,Barabati Stadium,0,0,2008,69
+SKRaina,India,West Indies,23,40,4,0,57.49999999999999,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,1,2007,31
+SKRaina,India,Sri Lanka,24,27,3,0,88.88888888888889,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2012,27
+SKRaina,India,South Africa,4,12,0,0,33.33333333333333,0,0,0,0,0,0,Kingsmead,0,0,2006,-2
+SKRaina,India,Sri Lanka,9,14,1,0,64.28571428571429,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,8
+SKRaina,India,Pakistan,1,6,0,0,16.666666666666664,0,0,0,0,0,0,National Stadium,0,0,2008,-5
+SKRaina,India,Australia,39,46,2,1,84.78260869565217,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,0,2,2013,59
+SKRaina,India,Pakistan,34,28,2,2,121.42857142857142,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,48
+SKRaina,India,England,61,70,5,1,87.14285714285714,0,0,0,0,0,0,Nehru Stadium Fatorda,0,1,2006,84
+SKRaina,India,England,18,23,2,0,78.26086956521739,41,6,32,1,0,5.333333333333333,Headingley,0,0,2014,47
+SKRaina,India,New Zealand,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,-5
+SKRaina,India,Sri Lanka,0,0,0,0,0,17,2,9,0,0,4.5,Shere Bangla National Stadium,0,1,2010,12
+SKRaina,India,Sri Lanka,29,33,3,0,87.87878787878788,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,32
+SKRaina,India,Bangladesh,25,28,3,0,89.28571428571429,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,28
+SKRaina,India,England,24,65,3,0,36.92307692307693,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2006,21
+SKRaina,India,Sri Lanka,53,85,4,1,62.35294117647059,0,0,0,0,0,0,R Premadasa Stadium,0,0,2008,65
+SKRaina,India,Zimbabwe,0,0,0,0,0,11,1,9,0,0,9.0,Queens Sports Club,0,2,2013,16
+SKRaina,India,West Indies,22,26,2,0,84.61538461538461,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2015,24
+SKRaina,India,New Zealand,31,41,3,0,75.60975609756098,23,3,27,0,0,9.0,Eden Park,0,0,2014,34
+SKRaina,India,Zimbabwe,65,71,6,0,91.54929577464789,0,0,0,0,0,0,Queens Sports Club,0,0,2013,79
+SKRaina,India,England,1,6,0,0,16.666666666666664,17,2,19,0,0,9.5,Edgbaston,0,0,2013,-7
+SKRaina,India,Sri Lanka,49,38,4,1,128.94736842105263,0,0,0,0,0,0,R Premadasa Stadium,0,1,2009,63
+SKRaina,India,West Indies,34,45,3,0,75.55555555555556,29,4,30,0,0,7.5,Green Park,0,0,2013,37
+SKRaina,India,New Zealand,6,6,1,0,100.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,1,0,2010,19
+SKRaina,India,Australia,26,36,2,1,72.22222222222221,0,0,0,0,0,0,Kinrara Academy Oval,0,1,2006,38
+SKRaina,India,Pakistan,31,61,2,1,50.81967213114754,0,0,0,0,0,0,Feroz Shah Kotla,1,0,2013,43
+SKRaina,India,England,40,19,3,3,210.52631578947367,5,0,13,0,0,0,The Rose Bowl,0,0,2011,49
+SKRaina,India,England,50,50,7,0,100.0,31,5,18,1,1,3.6,Saurashtra Cricket Association Stadium,0,0,2013,104
+SKRaina,India,New Zealand,35,23,6,0,152.17391304347828,23,3,18,1,0,6.0,Seddon Park,0,0,2014,66
+SKRaina,India,West Indies,44,58,4,0,75.86206896551724,11,1,4,1,1,4.0,Sabina Park Kingston,0,1,2013,89
+SKRaina,India,Sri Lanka,29,44,0,1,65.9090909090909,23,3,19,0,0,6.333333333333333,R Premadasa Stadium,0,0,2009,29
+SKRaina,India,Australia,28,42,1,1,66.66666666666666,59,9,44,0,1,4.888888888888889,Brisbane Cricket Ground Woolloongabba,0,1,2012,49
+SKRaina,India,Ireland,0,0,0,0,0,59,9,40,1,1,4.444444444444445,Seddon Park,0,0,2015,37
+SKRaina,India,West Indies,7,24,0,0,29.166666666666668,6,1,10,0,0,10.0,Queen's Park Oval Port of Spain,0,1,2006,9
+SKRaina,India,South Africa,9,7,0,1,128.57142857142858,36,6,36,0,0,6.0,Sophia Gardens,0,2,2013,27
+SKRaina,India,West Indies,26,28,4,0,92.85714285714286,0,0,0,0,0,0,Warner Park Basseterre,0,0,2006,30
+SKRaina,India,Australia,62,52,6,1,119.23076923076923,5,0,3,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2009,86
+SKRaina,India,Bangladesh,18,19,1,0,94.73684210526315,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,27
+SKRaina,India,Sri Lanka,30,17,3,1,176.47058823529412,29,4,34,0,0,8.5,Shere Bangla National Stadium,0,1,2012,43
+SKRaina,India,Sri Lanka,10,14,2,0,71.42857142857143,0,0,0,0,0,0,R Premadasa Stadium,0,0,2008,12
+SKRaina,India,South Africa,6,5,0,0,120.0,5,0,3,0,0,0,Melbourne Cricket Ground,0,1,2015,14
+SKRaina,India,West Indies,43,51,4,0,84.31372549019608,35,5,23,2,0,4.6,Queen's Park Oval Port of Spain,0,0,2011,101
+SKRaina,India,England,38,47,5,0,80.85106382978722,24,4,9,1,1,2.25,Eden Gardens,0,1,2011,90
+SKRaina,India,Sri Lanka,8,16,1,0,50.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,5
+SKRaina,India,England,0,0,0,0,0,5,0,1,1,0,0,JSCA International Stadium Complex,0,0,2013,25
+SKRaina,India,Sri Lanka,18,23,0,1,78.26086956521739,17,2,15,0,0,7.5,Rajiv Gandhi International Stadium Uppal,0,0,2014,20
+SKRaina,India,Sri Lanka,35,49,4,0,71.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,47
+SKRaina,India,Hong Kong,101,69,7,5,146.3768115942029,0,0,0,0,0,0,National Stadium,0,0,2008,134
+SKRaina,India,Sri Lanka,0,1,0,0,0.0,17,2,15,1,0,7.5,R Premadasa Stadium,0,0,2009,17
+SKRaina,India,Australia,71,47,9,1,151.06382978723406,17,2,18,0,0,9.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2010,90
+SKRaina,India,Australia,8,7,1,0,114.28571428571428,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2012,17
+SKRaina,India,Sri Lanka,8,19,0,0,42.10526315789473,0,0,0,0,0,0,Adelaide Oval,1,0,2012,14
+SKRaina,India,Sri Lanka,32,28,1,1,114.28571428571428,35,5,29,0,0,5.8,Queen's Park Oval Port of Spain,0,0,2013,37
+SKRaina,India,Bangladesh,116,113,11,3,102.65486725663717,0,0,0,0,0,0,National Stadium,0,0,2008,149
+SKRaina,India,New Zealand,45,54,3,2,83.33333333333334,5,0,4,0,0,0,R Premadasa Stadium,0,1,2009,60
+SKRaina,India,Sri Lanka,7,4,1,0,175.0,0,0,0,0,0,0,Sophia Gardens,0,3,2013,32
+SKRaina,India,Sri Lanka,11,6,1,1,183.33333333333331,5,0,3,0,0,0,Eden Gardens,0,2,2014,30
+SKRaina,India,Pakistan,46,42,5,2,109.52380952380953,0,0,0,0,0,0,SuperSport Park,0,1,2009,63
+SKRaina,India,Sri Lanka,19,18,2,0,105.55555555555556,0,0,0,0,0,0,Harare Sports Club,0,0,2010,21
+SKRaina,India,England,1,8,0,0,12.5,0,0,0,0,0,0,Green Park,0,1,2008,3
+SKRaina,India,West Indies,10,19,0,0,52.63157894736842,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2011,6
+SKRaina,India,West Indies,0,2,0,0,0.0,11,1,15,0,0,15.0,Nehru Stadium,0,0,2014,-8
+SKRaina,India,Pakistan,43,90,2,0,47.77777777777778,12,2,23,0,0,11.5,MA Chidambaram Stadium Chepauk,0,0,2012,33
+SKRaina,India,Australia,0,0,0,0,0,5,0,8,0,0,0,SuperSport Park,0,0,2009,0
+SKRaina,India,Sri Lanka,76,82,6,1,92.6829268292683,0,0,0,0,0,0,R Premadasa Stadium,0,2,2008,108
+SKRaina,India,South Africa,36,53,3,0,67.9245283018868,35,5,32,0,0,6.4,Kingsmead,0,0,2013,37
+SKRaina,India,Sri Lanka,68,56,4,3,121.42857142857142,11,1,11,0,0,11.0,Vidarbha Cricket Association Stadium Jamtha,1,0,2009,98
+SKRaina,India,England,1,5,0,0,20.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2015,-5
+SKRaina,India,South Africa,0,2,0,0,0.0,11,1,13,0,0,13.0,Saurashtra Cricket Association Stadium,1,1,2015,12
+SKRaina,India,Australia,38,31,2,1,122.58064516129032,0,0,0,0,0,0,Adelaide Oval,0,0,2012,42
+SKRaina,India,Bangladesh,1,2,0,0,50.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,5
+SKRaina,India,West Indies,23,25,2,0,92.0,41,6,42,0,0,7.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2013,25
+SKRaina,India,Sri Lanka,17,36,2,0,47.22222222222222,11,1,11,0,0,11.0,Rangiri Dambulla International Stadium,0,0,2008,13
+SKRaina,India,Sri Lanka,52,34,4,3,152.94117647058823,30,5,24,1,0,4.8,Barabati Stadium,0,0,2014,99
+SKRaina,India,Sri Lanka,16,21,3,0,76.19047619047619,0,0,0,0,0,0,National Stadium,1,1,2008,39
+SKRaina,India,Sri Lanka,0,3,0,0,0.0,36,6,24,0,0,4.0,R Premadasa Stadium,0,2,2009,12
+SKRaina,India,England,61,57,5,2,107.01754385964912,0,0,0,0,0,0,Rajiv Gandhi International Stadium Uppal,0,0,2011,78
+SKRaina,India,West Indies,4,8,0,0,50.0,11,1,12,1,0,12.0,MA Chidambaram Stadium Chepauk,1,0,2011,37
+SKRaina,India,Pakistan,35,35,6,0,100.0,0,0,0,0,0,0,Multan Cricket Stadium,0,2,2006,57
+SKRaina,India,Sri Lanka,18,23,0,1,78.26086956521739,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,20
+SKRaina,India,Australia,17,30,0,0,56.666666666666664,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2009,13
+SKRaina,India,West Indies,0,4,0,0,0.0,37,6,37,0,0,6.166666666666667,Sabina Park Kingston,0,0,2011,-8
+SKRaina,India,Sri Lanka,21,35,2,0,60.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,29
+SKRaina,India,South Africa,49,31,5,1,158.06451612903226,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2010,56
+SKRaina,India,England,0,2,0,0,0.0,0,0,0,0,0,0,Sawai Mansingh Stadium,0,0,2006,-8
+SKRaina,India,New Zealand,18,23,2,0,78.26086956521739,0,0,0,0,0,0,McLean Park,0,0,2014,20
+SKRaina,India,England,89,82,9,1,108.53658536585367,11,1,12,0,0,12.0,Punjab Cricket Association Stadium Mohali,0,0,2013,108
+SKRaina,India,Australia,28,30,2,0,93.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2013,30
+SKRaina,India,West Indies,62,60,5,2,103.33333333333334,0,0,0,0,0,0,Feroz Shah Kotla,0,1,2014,87
+SKRaina,India,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2008,0
+SKRaina,India,Australia,13,21,2,0,61.904761904761905,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,1,2006,21
+SKRaina,India,Australia,9,10,0,1,90.0,5,0,9,0,0,0,Reliance Stadium,0,1,2009,19
+SKRaina,India,Bangladesh,27,23,3,0,117.3913043478261,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,30
+SKRaina,India,Australia,17,20,2,0,85.0,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2013,19
+SKRaina,India,England,55,78,2,2,70.51282051282051,0,0,0,0,0,0,Nehru Stadium,0,1,2013,77
+SKRaina,India,South Africa,11,8,2,0,137.5,12,2,13,0,0,6.5,SuperSport Park,0,0,2011,13
+SKRaina,India,Sri Lanka,0,0,0,0,0,12,2,9,0,0,4.5,Eden Gardens,0,0,2009,4
+SKRaina,India,New Zealand,8,22,1,0,36.36363636363637,0,0,0,0,0,0,Eden Park,0,0,2009,3
+SKRaina,India,New Zealand,66,39,5,4,169.23076923076923,0,0,0,0,0,0,McLean Park,0,0,2009,87
+SKRaina,India,England,1,3,0,0,33.33333333333333,5,0,7,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2015,-5
+SKRaina,India,England,42,43,5,0,97.67441860465115,47,7,37,1,0,5.285714285714286,Trent Bridge,0,1,2014,82
+SKRaina,India,England,15,15,0,1,100.0,0,0,0,0,0,0,Sophia Gardens,0,0,2011,17
+SKRaina,India,Pakistan,74,57,5,3,129.82456140350877,5,0,6,0,0,0,Adelaide Oval,0,2,2015,109
+SKRaina,India,Sri Lanka,65,45,6,1,144.44444444444443,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,81
+SKRaina,India,Bangladesh,34,56,3,0,60.71428571428571,11,1,14,0,0,14.0,Shere Bangla National Stadium,0,0,2015,35
+SKRaina,India,South Africa,0,6,0,0,0.0,11,1,18,0,0,18.0,Holkar Cricket Stadium,0,1,2015,0
+SKRaina,India,West Indies,34,30,4,0,113.33333333333333,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,38
+SKRaina,India,South Africa,0,0,0,0,0,17,2,16,0,0,8.0,SuperSport Park,0,2,2013,16
+SKRaina,India,Zimbabwe,3,5,0,0,60.0,0,0,0,0,0,0,Harare Sports Club,0,0,2010,1
+SKRaina,India,West Indies,55,44,6,0,125.0,37,6,17,2,1,2.8333333333333335,Holkar Cricket Stadium,0,0,2011,133
+SKRaina,India,Sri Lanka,0,1,0,0,0.0,11,1,12,0,0,12.0,Pallekele International Cricket Stadium,0,1,2012,0
+SKRaina,India,Australia,59,61,3,3,96.72131147540983,0,0,0,0,0,0,Rajiv Gandhi International Stadium Uppal,0,0,2009,76
+SKRaina,India,West Indies,71,60,3,5,118.33333333333333,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,1,2014,100
+SKRaina,India,Pakistan,24,33,2,0,72.72727272727273,5,0,11,0,0,0,Shere Bangla National Stadium,0,0,2008,26
+SKRaina,India,England,80,64,12,0,125.0,11,1,16,0,0,16.0,Wankhede Stadium,0,0,2011,100
+SKRaina,India,South Africa,12,13,1,1,92.3076923076923,17,2,19,1,0,9.5,Wankhede Stadium,0,1,2015,46
+SKRaina,India,Zimbabwe,28,18,3,0,155.55555555555557,11,1,4,0,0,4.0,Harare Sports Club,0,0,2013,31
+SKRaina,India,Sri Lanka,50,46,3,1,108.69565217391303,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1,0,2012,75
+SKRaina,India,New Zealand,13,8,2,0,162.5,0,0,0,0,0,0,Westpac Stadium,0,0,2009,15
+SKRaina,India,West Indies,3,10,0,0,30.0,23,3,31,0,0,10.333333333333334,Sir Vivian Richards Stadium North Sound,1,0,2011,5
+SKRaina,India,West Indies,0,1,0,0,0.0,5,0,3,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,1,2011,0
+SKRaina,India,Sri Lanka,58,51,4,1,113.72549019607843,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,80
+SKRaina,India,Zimbabwe,4,11,0,0,36.36363636363637,7,1,5,0,0,5.0,Harare Sports Club,0,0,2013,-2
+SKRaina,India,Australia,51,67,6,0,76.11940298507463,13,2,24,0,0,12.0,Melbourne Cricket Ground,0,1,2015,67
+SKRaina,India,Zimbabwe,0,2,0,0,0.0,5,0,2,1,0,0,Harare Sports Club,0,1,2013,25
+SKRaina,India,England,43,44,0,3,97.72727272727273,0,0,0,0,0,0,Madhavrao Scindia Cricket Ground,0,0,2008,49
+SKRaina,India,Pakistan,36,40,3,0,90.0,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,1,2011,47
+SKRaina,India,West Indies,2,3,0,0,66.66666666666666,35,5,27,0,0,5.4,Sardar Patel Stadium Motera,0,0,2011,2
+SKRaina,India,England,0,3,0,0,0.0,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2011,-8
+SKRaina,India,South Africa,20,37,0,0,54.054054054054056,17,2,13,0,0,6.5,St George's Park,0,0,2011,16
+SKRaina,India,South Africa,32,41,2,1,78.04878048780488,23,3,21,1,0,7.0,Kingsmead,0,0,2011,61
+SKRaina,India,West Indies,26,19,1,1,136.8421052631579,11,1,11,0,0,11.0,Queen's Park Oval Port of Spain,0,1,2011,37
+SKRaina,India,England,81,94,8,1,86.17021276595744,0,0,0,0,0,0,Nahar Singh Stadium,0,0,2006,99
+SKRaina,India,West Indies,11,17,2,0,64.70588235294117,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,11
+SKRaina,India,Pakistan,26,26,0,2,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2008,38
+SKRaina,India,Pakistan,18,43,1,0,41.86046511627907,11,1,13,1,0,13.0,Eden Gardens,0,0,2013,38
+SKRaina,India,Bangladesh,65,57,7,1,114.03508771929825,17,2,15,0,1,7.5,Melbourne Cricket Ground,0,0,2015,90
+SKRaina,India,Sri Lanka,33,34,4,0,97.05882352941177,12,2,10,0,0,5.0,Sabina Park Kingston,0,0,2013,39
+SKRaina,India,West Indies,5,7,0,0,71.42857142857143,29,4,20,1,0,5.0,Barabati Stadium,0,0,2011,32
+SKRaina,India,Sri Lanka,29,28,1,2,103.57142857142858,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,34
+SKRaina,India,South Africa,58,67,6,1,86.56716417910447,17,2,25,0,0,12.5,Sawai Mansingh Stadium,0,0,2010,68
+SKRaina,India,New Zealand,38,18,0,5,211.11111111111111,0,0,0,0,0,0,AMI Stadium,1,0,2009,60
+SKRaina,India,West Indies,10,14,0,1,71.42857142857143,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2013,20

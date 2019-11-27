@@ -1,17 +1,16 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-Hazratullah,Afghanistan,United Arab Emirates,18,26,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,17
-Hazratullah,Afghanistan,Bangladesh,47,36,6,2,130.55555555555557,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,57
-Hazratullah,Afghanistan,Bangladesh,1,2,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,-3
-Hazratullah,Afghanistan,United Arab Emirates,18,26,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,17
-Hazratullah,Afghanistan,United Arab Emirates,18,26,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,17
-Hazratullah,Afghanistan,Bangladesh,47,36,6,2,130.55555555555557,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,57
-Hazratullah,Afghanistan,Bangladesh,1,2,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,-3
-Hazratullah,Afghanistan,United Arab Emirates,18,26,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,17
-Hazratullah,Afghanistan,Bangladesh,47,36,6,2,130.55555555555557,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,57
-Hazratullah,Afghanistan,Bangladesh,1,2,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,-3
-Hazratullah,Afghanistan,Zimbabwe,13,14,0,1,92.85714285714286,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,15
-Hazratullah,Afghanistan,Zimbabwe,31,24,3,2,129.16666666666669,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,38
-Hazratullah,Afghanistan,United Arab Emirates,18,26,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,17
-Hazratullah,Afghanistan,Bangladesh,47,36,6,2,130.55555555555557,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,57
-Hazratullah,Afghanistan,Bangladesh,1,2,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,-3
-Hazratullah,Afghanistan,Zimbabwe,13,14,0,1,92.85714285714286,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,15
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+Hazratullah,Afghanistan,Zimbabwe,31,24,3,2,129.16666666666669,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2019,38
+Hazratullah,Afghanistan,Zimbabwe,13,14,0,1,92.85714285714286,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,0,1,2019,23
+Hazratullah,Afghanistan,Bangladesh,47,36,6,2,130.55555555555557,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2019,57
+Hazratullah,Afghanistan,Bangladesh,1,2,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,0,0,2019,-3
+Hazratullah,Afghanistan,United Arab Emirates,18,26,1,0,69.23076923076923,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2016,17
+Hazratullah,Afghanistan,Sri Lanka,30,27,3,1,111.11111111111111,0,0,0,0,0,0,Sophia Gardens,0,0,2019,35
+Hazratullah,Afghanistan,New Zealand,34,28,5,1,121.42857142857142,0,0,0,0,0,0,The Cooper Associates County Ground,0,0,2019,41
+Hazratullah,Afghanistan,Australia,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,0,1,2019,0
+Hazratullah,Afghanistan,South Africa,22,24,3,0,91.66666666666666,0,0,0,0,0,0,Sophia Gardens,0,0,2019,25
+Hazratullah,Afghanistan,West Indies,23,30,1,2,76.66666666666667,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,0,2019,28
+Hazratullah,Afghanistan,Scotland,14,12,2,1,116.66666666666667,0,0,0,0,0,0,Grange Cricket Club Raeburn Place,0,0,2019,18
+Hazratullah,Afghanistan,West Indies,50,60,7,2,83.33333333333334,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,0,2019,69
+Hazratullah,Afghanistan,West Indies,9,22,1,0,40.909090909090914,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,0,2019,4
+Hazratullah,Afghanistan,Ireland,14,40,2,0,35.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2019,10
+Hazratullah,Afghanistan,India,10,24,1,0,41.66666666666667,0,0,0,0,0,0,The Rose Bowl,0,1,2019,13

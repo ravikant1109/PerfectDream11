@@ -1,12 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DIAllan,Kenya,Ireland,6,15,0,0,40.0,0,0,0,0,0,0,Mombasa Sports Club Ground,0
-DIAllan,Kenya,Ireland,6,15,0,0,40.0,0,0,0,0,0,0,Mombasa Sports Club Ground,0
-DIAllan,Kenya,Ireland,6,15,0,0,40.0,0,0,0,0,0,0,Mombasa Sports Club Ground,0
-DIAllan,Kenya,Ireland,6,15,0,0,40.0,0,0,0,0,0,0,Mombasa Sports Club Ground,0
-DIAllan,Kenya,Canada,18,22,2,0,81.81818181818183,7,1,15,1,0,15.0,Sharjah Cricket Stadium,45
-DIAllan,Kenya,Ireland,4,8,1,0,50.0,5,0,9,0,0,0,Mombasa Sports Club Ground,1
-DIAllan,Kenya,Ireland,3,9,0,0,33.33333333333333,5,0,21,0,0,0,Dubai International Cricket Stadium,-3
-DIAllan,Kenya,Canada,3,10,0,0,30.0,6,1,9,0,0,9.0,ICC Global Cricket Academy,-3
-DIAllan,Kenya,Afghanistan,1,4,0,0,25.0,11,1,9,2,0,9.0,Sharjah Cricket Stadium,45
-DIAllan,Kenya,Ireland,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Mombasa Sports Club Ground,-5
-DIAllan,Kenya,Ireland,6,15,0,0,40.0,0,0,0,0,0,0,Mombasa Sports Club Ground,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DIAllan,Kenya,Canada,3,10,0,0,30.0,6,1,9,0,0,9.0,ICC Global Cricket Academy,0,0,2013,-3
+DIAllan,Kenya,Canada,18,22,2,0,81.81818181818183,7,1,15,1,0,15.0,Sharjah Cricket Stadium,0,0,2013,45
+DIAllan,Kenya,Ireland,6,15,0,0,40.0,0,0,0,0,0,0,Mombasa Sports Club Ground,0,0,2012,0
+DIAllan,Kenya,Afghanistan,1,4,0,0,25.0,11,1,9,2,0,9.0,Sharjah Cricket Stadium,0,1,2013,53
+DIAllan,Kenya,Ireland,4,8,1,0,50.0,5,0,9,0,0,0,Mombasa Sports Club Ground,0,0,2012,1
+DIAllan,Kenya,Ireland,3,9,0,0,33.33333333333333,5,0,21,0,0,0,Dubai International Cricket Stadium,0,0,2012,-3
+DIAllan,Kenya,Ireland,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Mombasa Sports Club Ground,0,1,2012,3
+DIAllan,Kenya,Ireland,15,35,2,0,42.857142857142854,17,2,13,0,0,6.5,Mombasa Sports Club Ground,0,1,2012,19
+DIAllan,Kenya,Ireland,3,13,0,0,23.076923076923077,0,0,0,0,0,0,Mombasa Sports Club Ground,0,0,2012,-3

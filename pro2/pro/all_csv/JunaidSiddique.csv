@@ -1,19 +1,49 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JunaidSiddique,Bangladesh,Ireland,13,6,2,0,216.66666666666666,0,0,0,0,0,0,Trent Bridge,15
-JunaidSiddique,Bangladesh,India,41,22,2,2,186.36363636363635,0,0,0,0,0,0,Trent Bridge,47
-JunaidSiddique,Bangladesh,West Indies,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Warner Park Basseterre,6
-JunaidSiddique,Bangladesh,Ireland,13,6,2,0,216.66666666666666,0,0,0,0,0,0,Trent Bridge,15
-JunaidSiddique,Bangladesh,Ireland,13,6,2,0,216.66666666666666,0,0,0,0,0,0,Trent Bridge,15
-JunaidSiddique,Bangladesh,India,41,22,2,2,186.36363636363635,0,0,0,0,0,0,Trent Bridge,47
-JunaidSiddique,Bangladesh,West Indies,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Warner Park Basseterre,6
-JunaidSiddique,Bangladesh,Ireland,13,6,2,0,216.66666666666666,0,0,0,0,0,0,Trent Bridge,15
-JunaidSiddique,Bangladesh,India,41,22,2,2,186.36363636363635,0,0,0,0,0,0,Trent Bridge,47
-JunaidSiddique,Bangladesh,West Indies,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Warner Park Basseterre,6
-JunaidSiddique,Bangladesh,South Africa,4,2,0,0,200.0,0,0,0,0,0,0,New Wanderers Stadium,4
-JunaidSiddique,Bangladesh,Pakistan,71,52,6,3,136.53846153846155,0,0,0,0,0,0,Newlands,91
-JunaidSiddique,Bangladesh,Netherlands,0,4,0,0,0.0,0,0,0,0,0,0,Sportpark Westvliet,-8
-JunaidSiddique,Bangladesh,Netherlands,25,20,3,1,125.0,0,0,0,0,0,0,Sportpark Westvliet,30
-JunaidSiddique,Bangladesh,Ireland,13,6,2,0,216.66666666666666,0,0,0,0,0,0,Trent Bridge,15
-JunaidSiddique,Bangladesh,India,41,22,2,2,186.36363636363635,0,0,0,0,0,0,Trent Bridge,47
-JunaidSiddique,Bangladesh,West Indies,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Warner Park Basseterre,6
-JunaidSiddique,Bangladesh,South Africa,4,2,0,0,200.0,0,0,0,0,0,0,New Wanderers Stadium,4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JunaidSiddique,Bangladesh,Netherlands,25,20,3,1,125.0,0,0,0,0,0,0,Sportpark Westvliet,0,1,2012,38
+JunaidSiddique,Bangladesh,West Indies,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Warner Park Basseterre,0,0,2009,6
+JunaidSiddique,Bangladesh,Ireland,13,6,2,0,216.66666666666666,0,0,0,0,0,0,Trent Bridge,0,0,2009,15
+JunaidSiddique,Bangladesh,India,41,22,2,2,186.36363636363635,0,0,0,0,0,0,Trent Bridge,0,0,2009,47
+JunaidSiddique,Bangladesh,South Africa,4,2,0,0,200.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2008,4
+JunaidSiddique,Bangladesh,Pakistan,71,52,6,3,136.53846153846155,0,0,0,0,0,0,Newlands,0,0,2007,91
+JunaidSiddique,Bangladesh,Netherlands,0,4,0,0,0.0,0,0,0,0,0,0,Sportpark Westvliet,0,0,2012,-8
+JunaidSiddique,Bangladesh,Sri Lanka,38,34,6,0,111.76470588235294,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,44
+JunaidSiddique,Bangladesh,Zimbabwe,14,21,0,1,66.66666666666666,0,0,0,0,0,0,Queens Sports Club,0,0,2011,14
+JunaidSiddique,Bangladesh,England,51,71,5,0,71.83098591549296,0,0,0,0,0,0,Trent Bridge,0,1,2010,72
+JunaidSiddique,Bangladesh,Zimbabwe,19,31,3,0,61.29032258064516,0,0,0,0,0,0,Zohur Ahmed Chowdhury Stadium,0,3,2009,44
+JunaidSiddique,Bangladesh,West Indies,23,34,2,0,67.64705882352942,0,0,0,0,0,0,Windsor Park Roseau,0,0,2009,23
+JunaidSiddique,Bangladesh,Zimbabwe,11,21,0,0,52.38095238095239,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,15
+JunaidSiddique,Bangladesh,New Zealand,1,11,0,0,9.090909090909092,0,0,0,0,0,0,Queenstown Events Centre,0,0,2007,-5
+JunaidSiddique,Bangladesh,New Zealand,17,15,3,0,113.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,20
+JunaidSiddique,Bangladesh,South Africa,2,9,0,0,22.22222222222222,6,1,9,0,0,9.0,Senwes Park,0,0,2008,-4
+JunaidSiddique,Bangladesh,Pakistan,0,3,0,0,0.0,0,0,0,0,0,0,Multan Cricket Stadium,0,0,2008,-8
+JunaidSiddique,Bangladesh,Zimbabwe,56,121,1,0,46.28099173553719,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2010,59
+JunaidSiddique,Bangladesh,Zimbabwe,12,19,2,0,63.1578947368421,0,0,0,0,0,0,Harare Sports Club,0,1,2011,20
+JunaidSiddique,Bangladesh,South Africa,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,-4
+JunaidSiddique,Bangladesh,New Zealand,10,10,0,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,10
+JunaidSiddique,Bangladesh,Zimbabwe,5,7,1,0,71.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2009,6
+JunaidSiddique,Bangladesh,England,12,12,2,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,2,2011,30
+JunaidSiddique,Bangladesh,West Indies,55,73,6,0,75.34246575342466,0,0,0,0,0,0,Warner Park Basseterre,0,0,2009,69
+JunaidSiddique,Bangladesh,England,21,23,4,0,91.30434782608695,0,0,0,0,0,0,County Ground,0,1,2010,33
+JunaidSiddique,Bangladesh,New Zealand,30,55,2,0,54.54545454545454,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,36
+JunaidSiddique,Bangladesh,West Indies,36,50,3,0,72.0,0,0,0,0,0,0,Windsor Park Roseau,0,0,2009,39
+JunaidSiddique,Bangladesh,India,37,52,1,1,71.15384615384616,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,40
+JunaidSiddique,Bangladesh,New Zealand,15,26,3,0,57.692307692307686,0,0,0,0,0,0,McLean Park,0,0,2007,14
+JunaidSiddique,Bangladesh,Zimbabwe,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2009,-8
+JunaidSiddique,Bangladesh,England,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,0
+JunaidSiddique,Bangladesh,New Zealand,13,33,1,0,39.39393939393939,0,0,0,0,0,0,Eden Park,0,0,2007,8
+JunaidSiddique,Bangladesh,Zimbabwe,27,42,3,0,64.28571428571429,0,0,0,0,0,0,Queens Sports Club,0,1,2009,36
+JunaidSiddique,Bangladesh,Ireland,3,8,0,0,37.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2011,5
+JunaidSiddique,Bangladesh,Pakistan,6,18,1,0,33.33333333333333,0,0,0,0,0,0,National Stadium,0,1,2008,9
+JunaidSiddique,Bangladesh,Ireland,13,18,2,0,72.22222222222221,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2010,15
+JunaidSiddique,Bangladesh,Zimbabwe,53,85,4,1,62.35294117647059,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,65
+JunaidSiddique,Bangladesh,Australia,21,44,1,0,47.72727272727273,0,0,0,0,0,0,Marrara Cricket Ground,0,0,2008,16
+JunaidSiddique,Bangladesh,New Zealand,14,28,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,18
+JunaidSiddique,Bangladesh,Netherlands,35,53,4,0,66.0377358490566,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2011,37
+JunaidSiddique,Bangladesh,Zimbabwe,38,29,6,0,131.0344827586207,0,0,0,0,0,0,Queens Sports Club,0,1,2009,52
+JunaidSiddique,Bangladesh,Zimbabwe,8,20,1,0,40.0,0,0,0,0,0,0,Zohur Ahmed Chowdhury Stadium,0,0,2009,3
+JunaidSiddique,Bangladesh,South Africa,6,24,0,0,25.0,5,0,4,0,0,0,Chittagong Divisional Stadium,0,0,2008,0
+JunaidSiddique,Bangladesh,England,25,20,3,1,125.0,0,0,0,0,0,0,Edgbaston,0,0,2010,30
+JunaidSiddique,Bangladesh,Australia,0,6,0,0,0.0,0,0,0,0,0,0,Marrara Cricket Ground,0,0,2008,-8
+JunaidSiddique,Bangladesh,Zimbabwe,21,12,5,0,175.0,0,0,0,0,0,0,Queens Sports Club,0,0,2009,26
+JunaidSiddique,Bangladesh,Zimbabwe,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,3
+JunaidSiddique,Bangladesh,Pakistan,97,117,6,2,82.90598290598291,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,115

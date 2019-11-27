@@ -1,21 +1,55 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BabarAzam,Pakistan,Sri Lanka,3,10,0,0,30.0,0,0,0,0,0,0,Gaddafi Stadium,-3
-BabarAzam,Pakistan,England,15,11,2,0,136.36363636363635,0,0,0,0,0,0,Old Trafford,17
-BabarAzam,Pakistan,Sri Lanka,3,10,0,0,30.0,0,0,0,0,0,0,Gaddafi Stadium,-3
-BabarAzam,Pakistan,England,15,11,2,0,136.36363636363635,0,0,0,0,0,0,Old Trafford,17
-BabarAzam,Pakistan,Sri Lanka,3,10,0,0,30.0,0,0,0,0,0,0,Gaddafi Stadium,-3
-BabarAzam,Pakistan,England,15,11,2,0,136.36363636363635,0,0,0,0,0,0,Old Trafford,17
-BabarAzam,Pakistan,Sri Lanka,13,10,2,0,130.0,0,0,0,0,0,0,Gaddafi Stadium,15
-BabarAzam,Pakistan,West Indies,27,28,3,0,96.42857142857143,0,0,0,0,0,0,Queen's Park Oval Port of Spain,30
-BabarAzam,Pakistan,West Indies,55,37,6,2,148.64864864864865,0,0,0,0,0,0,Dubai International Cricket Stadium,73
-BabarAzam,Pakistan,Sri Lanka,27,32,1,0,84.375,0,0,0,0,0,0,Gaddafi Stadium,28
-BabarAzam,Pakistan,West Indies,27,25,1,0,108.0,0,0,0,0,0,0,Sheikh Zayed Stadium,28
-BabarAzam,Pakistan,West Indies,19,19,2,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,21
-BabarAzam,Pakistan,West Indies,38,36,1,1,105.55555555555556,0,0,0,0,0,0,Queen's Park Oval Port of Spain,41
-BabarAzam,Pakistan,West Indies,29,32,3,0,90.625,0,0,0,0,0,0,Kensington Oval Bridgetown,32
-BabarAzam,Pakistan,West Indies,43,39,3,1,110.25641025641026,0,0,0,0,0,0,Queen's Park Oval Port of Spain,48
-BabarAzam,Pakistan,Sri Lanka,3,10,0,0,30.0,0,0,0,0,0,0,Gaddafi Stadium,-3
-BabarAzam,Pakistan,England,15,11,2,0,136.36363636363635,0,0,0,0,0,0,Old Trafford,17
-BabarAzam,Pakistan,Sri Lanka,13,10,2,0,130.0,0,0,0,0,0,0,Gaddafi Stadium,15
-BabarAzam,Pakistan,West Indies,27,28,3,0,96.42857142857143,0,0,0,0,0,0,Queen's Park Oval Port of Spain,30
-BabarAzam,Pakistan,West Indies,55,37,6,2,148.64864864864865,0,0,0,0,0,0,Dubai International Cricket Stadium,73
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BabarAzam,Pakistan,West Indies,55,37,6,2,148.64864864864865,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2016,73
+BabarAzam,Pakistan,West Indies,43,39,3,1,110.25641025641026,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,48
+BabarAzam,Pakistan,West Indies,27,25,1,0,108.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,28
+BabarAzam,Pakistan,Sri Lanka,13,10,2,0,130.0,0,0,0,0,0,0,Gaddafi Stadium,0,0,2019,15
+BabarAzam,Pakistan,Sri Lanka,27,32,1,0,84.375,0,0,0,0,0,0,Gaddafi Stadium,0,0,2019,28
+BabarAzam,Pakistan,England,15,11,2,0,136.36363636363635,0,0,0,0,0,0,Old Trafford,0,1,2016,25
+BabarAzam,Pakistan,West Indies,27,28,3,0,96.42857142857143,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,30
+BabarAzam,Pakistan,West Indies,38,36,1,1,105.55555555555556,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,41
+BabarAzam,Pakistan,West Indies,29,32,3,0,90.625,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2017,32
+BabarAzam,Pakistan,West Indies,19,19,2,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2016,21
+BabarAzam,Pakistan,Sri Lanka,3,10,0,0,30.0,0,0,0,0,0,0,Gaddafi Stadium,0,0,2019,-3
+BabarAzam,Pakistan,England,31,30,6,0,103.33333333333334,0,0,0,0,0,0,Sophia Gardens,0,0,2016,37
+BabarAzam,Pakistan,Sri Lanka,115,106,8,4,108.49056603773586,0,0,0,0,0,0,National Stadium,0,0,2019,147
+BabarAzam,Pakistan,England,40,43,4,0,93.02325581395348,0,0,0,0,0,0,The Rose Bowl,0,1,2016,52
+BabarAzam,Pakistan,England,51,54,1,0,94.44444444444444,0,0,0,0,0,0,The Rose Bowl,0,0,2019,60
+BabarAzam,Pakistan,Australia,84,103,4,1,81.55339805825243,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2017,98
+BabarAzam,Pakistan,England,9,19,0,0,47.368421052631575,0,0,0,0,0,0,Trent Bridge,0,0,2016,3
+BabarAzam,Pakistan,Australia,100,115,7,1,86.95652173913044,0,0,0,0,0,0,Adelaide Oval,0,1,2017,133
+BabarAzam,Pakistan,Sri Lanka,25,31,3,0,80.64516129032258,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2015,36
+BabarAzam,Pakistan,Sri Lanka,31,26,2,0,119.23076923076923,0,0,0,0,0,0,National Stadium,0,0,2019,33
+BabarAzam,Pakistan,England,30,33,5,0,90.9090909090909,0,0,0,0,0,0,Lord's,0,0,2016,35
+BabarAzam,Pakistan,Australia,31,39,3,0,79.48717948717949,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2017,34
+BabarAzam,Pakistan,India,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Edgbaston,1,0,2017,19
+BabarAzam,Pakistan,Sri Lanka,10,20,1,0,50.0,0,0,0,0,0,0,Sophia Gardens,0,1,2017,15
+BabarAzam,Pakistan,England,15,11,3,0,136.36363636363635,0,0,0,0,0,0,County Ground,0,1,2019,26
+BabarAzam,Pakistan,West Indies,123,126,9,1,97.61904761904762,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,150
+BabarAzam,Pakistan,New Zealand,101,130,11,0,77.6923076923077,0,0,0,0,0,0,Edgbaston,0,0,2019,128
+BabarAzam,Pakistan,Australia,34,49,5,0,69.38775510204081,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2017,37
+BabarAzam,Pakistan,Afghanistan,45,51,5,0,88.23529411764706,0,0,0,0,0,0,Headingley,0,1,2019,58
+BabarAzam,Pakistan,West Indies,125,137,7,3,91.24087591240875,0,0,0,0,0,0,Providence Stadium,0,2,2017,170
+BabarAzam,Pakistan,England,62,62,2,4,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2015,88
+BabarAzam,Pakistan,England,12,21,0,0,57.14285714285714,0,0,0,0,0,0,Headingley,0,1,2016,16
+BabarAzam,Pakistan,England,51,52,5,1,98.07692307692307,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2015,74
+BabarAzam,Pakistan,England,38,47,2,1,80.85106382978722,0,0,0,0,0,0,Sophia Gardens,0,1,2017,50
+BabarAzam,Pakistan,Sri Lanka,12,20,1,0,60.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,1,0,2015,23
+BabarAzam,Pakistan,England,16,21,3,0,76.19047619047619,0,0,0,0,0,0,Kennington Oval,0,0,2019,19
+BabarAzam,Pakistan,West Indies,22,33,2,0,66.66666666666666,0,0,0,0,0,0,Trent Bridge,0,1,2019,30
+BabarAzam,Pakistan,West Indies,120,131,8,3,91.6030534351145,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,150
+BabarAzam,Pakistan,South Africa,69,83,7,0,83.13253012048193,0,0,0,0,0,0,Lord's,0,0,2019,84
+BabarAzam,Pakistan,England,22,31,2,0,70.96774193548387,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2015,24
+BabarAzam,Pakistan,India,46,55,4,0,83.63636363636363,0,0,0,0,0,0,Kennington Oval,0,1,2017,58
+BabarAzam,Pakistan,Australia,33,46,3,0,71.73913043478261,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2017,36
+BabarAzam,Pakistan,England,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2015,10
+BabarAzam,Pakistan,Zimbabwe,54,64,4,0,84.375,0,0,0,0,0,0,Gaddafi Stadium,0,0,2015,66
+BabarAzam,Pakistan,New Zealand,83,81,10,1,102.46913580246914,0,0,0,0,0,0,Eden Park,0,2,2016,119
+BabarAzam,Pakistan,West Indies,16,23,3,0,69.56521739130434,0,0,0,0,0,0,Providence Stadium,0,0,2017,17
+BabarAzam,Pakistan,Ireland,29,30,2,0,96.66666666666667,0,0,0,0,0,0,The Village Malahide,0,0,2016,31
+BabarAzam,Pakistan,West Indies,117,106,8,1,110.37735849056605,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,143
+BabarAzam,Pakistan,Bangladesh,96,100,11,0,96.0,0,0,0,0,0,0,Lord's,0,1,2019,123
+BabarAzam,Pakistan,India,48,58,3,1,82.75862068965517,0,0,0,0,0,0,Old Trafford,0,2,2019,69
+BabarAzam,Pakistan,Australia,30,28,7,0,107.14285714285714,0,0,0,0,0,0,The Cooper Associates County Ground,0,0,2019,37
+BabarAzam,Pakistan,England,115,114,13,1,100.87719298245614,0,0,0,0,0,0,Trent Bridge,0,0,2019,146
+BabarAzam,Pakistan,England,63,67,4,1,94.02985074626866,0,0,0,0,0,0,Trent Bridge,0,0,2019,77
+BabarAzam,Pakistan,New Zealand,62,78,6,0,79.48717948717949,0,0,0,0,0,0,Basin Reserve,0,0,2016,76

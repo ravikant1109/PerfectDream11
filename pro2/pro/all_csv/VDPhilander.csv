@@ -1,12 +1,36 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-VDPhilander,South Africa,India,2,5,0,0,40.0,13,2,14,0,0,7.0,Kingsmead,-4
-VDPhilander,South Africa,India,2,5,0,0,40.0,13,2,14,0,0,7.0,Kingsmead,-4
-VDPhilander,South Africa,India,2,5,0,0,40.0,13,2,14,0,0,7.0,Kingsmead,-4
-VDPhilander,South Africa,New Zealand,0,0,0,0,0,5,0,10,0,0,0,Kingsmead,0
-VDPhilander,South Africa,West Indies,4,10,0,0,40.0,5,0,10,0,0,0,St George's Park,-2
-VDPhilander,South Africa,England,6,8,0,0,75.0,11,1,22,0,0,22.0,Newlands,6
-VDPhilander,South Africa,Bangladesh,0,0,0,0,0,23,3,27,2,0,9.0,Newlands,50
-VDPhilander,South Africa,West Indies,0,0,0,0,0,24,4,35,2,0,8.75,New Wanderers Stadium,50
-VDPhilander,South Africa,New Zealand,2,7,0,0,28.57142857142857,0,0,0,0,0,0,New Wanderers Stadium,-4
-VDPhilander,South Africa,India,2,5,0,0,40.0,13,2,14,0,0,7.0,Kingsmead,-4
-VDPhilander,South Africa,New Zealand,0,0,0,0,0,5,0,10,0,0,0,Kingsmead,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+VDPhilander,South Africa,New Zealand,0,0,0,0,0,5,0,10,0,0,0,Kingsmead,0,0,2007,0
+VDPhilander,South Africa,England,6,8,0,0,75.0,11,1,22,0,0,22.0,Newlands,0,1,2007,14
+VDPhilander,South Africa,India,2,5,0,0,40.0,13,2,14,0,0,7.0,Kingsmead,1,0,2007,8
+VDPhilander,South Africa,Bangladesh,0,0,0,0,0,23,3,27,2,0,9.0,Newlands,0,0,2007,50
+VDPhilander,South Africa,West Indies,4,10,0,0,40.0,5,0,10,0,0,0,St George's Park,0,0,2007,-2
+VDPhilander,South Africa,New Zealand,2,7,0,0,28.57142857142857,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,-4
+VDPhilander,South Africa,West Indies,0,0,0,0,0,24,4,35,2,0,8.75,New Wanderers Stadium,0,0,2007,50
+VDPhilander,South Africa,West Indies,4,8,0,0,50.0,35,5,44,3,0,8.8,Kingsmead,0,0,2015,75
+VDPhilander,South Africa,Sri Lanka,2,6,0,0,33.33333333333333,37,6,39,1,0,6.5,De Beers Diamond Oval,0,0,2012,21
+VDPhilander,South Africa,Australia,1,13,0,0,7.6923076923076925,62,10,70,1,0,7.0,Manuka Oval,0,0,2014,20
+VDPhilander,South Africa,Sri Lanka,0,0,0,0,0,50,8,40,1,0,5.0,R Premadasa Stadium,0,0,2014,27
+VDPhilander,South Africa,New Zealand,0,0,0,0,0,47,7,56,0,0,8.0,Eden Park,0,0,2015,0
+VDPhilander,South Africa,New Zealand,30,49,1,0,61.224489795918366,35,5,21,0,0,4.2,Senwes Park,0,0,2015,33
+VDPhilander,South Africa,New Zealand,1,4,0,0,25.0,45,7,27,2,0,3.857142857142857,Bay Oval,0,0,2014,51
+VDPhilander,South Africa,Australia,0,1,0,0,0.0,53,8,17,1,2,2.125,Western Australia Cricket Association Ground,0,0,2014,39
+VDPhilander,South Africa,England,23,29,2,0,79.3103448275862,56,9,51,0,0,5.666666666666667,Headingley,0,1,2008,35
+VDPhilander,South Africa,West Indies,0,0,0,0,0,47,7,27,3,2,3.857142857142857,Buffalo Park,0,0,2015,97
+VDPhilander,South Africa,West Indies,0,0,0,0,0,64,10,69,2,0,6.9,New Wanderers Stadium,0,0,2015,50
+VDPhilander,South Africa,Zimbabwe,17,13,3,0,130.76923076923077,47,7,15,2,2,2.142857142857143,Queens Sports Club,0,0,2007,92
+VDPhilander,South Africa,Zimbabwe,0,0,0,0,0,17,2,18,0,0,9.0,Harare Sports Club,0,1,2007,8
+VDPhilander,South Africa,Sri Lanka,1,5,0,0,20.0,46,7,50,2,1,7.142857142857143,Pallekele International Cricket Stadium,0,0,2014,53
+VDPhilander,South Africa,India,0,2,0,0,0.0,23,3,19,0,1,6.333333333333333,Melbourne Cricket Ground,0,0,2015,0
+VDPhilander,South Africa,Australia,1,6,0,0,16.666666666666664,63,10,47,4,1,4.7,Western Australia Cricket Association Ground,0,0,2014,115
+VDPhilander,South Africa,India,14,5,3,0,280.0,35,5,20,1,1,4.0,Kingsmead,0,0,2013,54
+VDPhilander,South Africa,New Zealand,0,0,0,0,0,43,7,39,2,1,5.571428571428571,Bay Oval,0,1,2014,68
+VDPhilander,South Africa,India,17,24,1,0,70.83333333333334,47,7,37,0,2,5.285714285714286,Civil Service Cricket Club Stormont,0,0,2007,36
+VDPhilander,South Africa,Pakistan,14,26,2,0,53.84615384615385,61,10,37,1,0,3.7,Newlands,0,0,2013,43
+VDPhilander,South Africa,Zimbabwe,6,9,0,0,66.66666666666666,47,7,47,0,0,6.714285714285714,Harare Sports Club,0,0,2007,4
+VDPhilander,South Africa,Pakistan,0,0,0,0,0,48,8,23,2,2,2.875,Sharjah Cricket Stadium,0,2,2013,88
+VDPhilander,South Africa,New Zealand,0,0,0,0,0,62,10,52,2,1,5.2,SuperSport Park,1,0,2015,72
+VDPhilander,South Africa,India,0,1,0,0,0.0,0,0,0,0,0,0,SuperSport Park,0,0,2013,-8
+VDPhilander,South Africa,England,10,12,1,0,83.33333333333334,23,3,32,0,0,10.666666666666666,Lord's,0,0,2008,7
+VDPhilander,South Africa,Pakistan,0,0,0,0,0,61,10,26,3,3,2.6,SuperSport Park,0,0,2013,105
+VDPhilander,South Africa,Zimbabwe,0,0,0,0,0,50,8,36,2,0,4.5,Seddon Park,0,1,2015,62
+VDPhilander,South Africa,United Arab Emirates,10,6,1,0,166.66666666666669,52,8,44,2,0,5.5,Westpac Stadium,0,0,2015,63

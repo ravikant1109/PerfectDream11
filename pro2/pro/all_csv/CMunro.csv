@@ -1,57 +1,59 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CMunro,New Zealand,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,McLean Park,-8
-CMunro,New Zealand,Sri Lanka,50,15,1,7,333.33333333333337,0,0,0,0,0,0,Eden Park,73
-CMunro,New Zealand,Zimbabwe,23,11,3,1,209.0909090909091,0,0,0,0,0,0,Harare Sports Club,28
-CMunro,New Zealand,Pakistan,4,3,0,0,133.33333333333331,6,1,13,0,0,13.0,Westpac Stadium,4
-CMunro,New Zealand,India,7,6,0,1,116.66666666666667,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,9
-CMunro,New Zealand,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-CMunro,New Zealand,Bangladesh,101,54,7,7,187.03703703703704,0,0,0,0,0,0,Bay Oval,138
-CMunro,New Zealand,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,McLean Park,-8
-CMunro,New Zealand,Sri Lanka,50,15,1,7,333.33333333333337,0,0,0,0,0,0,Eden Park,73
-CMunro,New Zealand,Zimbabwe,23,11,3,1,209.0909090909091,0,0,0,0,0,0,Harare Sports Club,28
-CMunro,New Zealand,Pakistan,4,3,0,0,133.33333333333331,6,1,13,0,0,13.0,Westpac Stadium,4
-CMunro,New Zealand,India,7,6,0,1,116.66666666666667,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,9
-CMunro,New Zealand,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-CMunro,New Zealand,Bangladesh,101,54,7,7,187.03703703703704,0,0,0,0,0,0,Bay Oval,138
-CMunro,New Zealand,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,McLean Park,-8
-CMunro,New Zealand,Sri Lanka,50,15,1,7,333.33333333333337,0,0,0,0,0,0,Eden Park,73
-CMunro,New Zealand,Zimbabwe,23,11,3,1,209.0909090909091,0,0,0,0,0,0,Harare Sports Club,28
-CMunro,New Zealand,Pakistan,4,3,0,0,133.33333333333331,6,1,13,0,0,13.0,Westpac Stadium,4
-CMunro,New Zealand,India,7,6,0,1,116.66666666666667,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,9
-CMunro,New Zealand,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-CMunro,New Zealand,Bangladesh,101,54,7,7,187.03703703703704,0,0,0,0,0,0,Bay Oval,138
-CMunro,New Zealand,Bangladesh,35,33,1,2,106.06060606060606,0,0,0,0,0,0,Eden Gardens,40
-CMunro,New Zealand,Australia,23,27,2,0,85.18518518518519,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,25
-CMunro,New Zealand,Bangladesh,73,40,3,5,182.5,0,0,0,0,0,0,Shere Bangla National Stadium,94
-CMunro,New Zealand,South Africa,23,18,4,0,127.77777777777777,0,0,0,0,0,0,Kingsmead,27
-CMunro,New Zealand,South Africa,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,8
-CMunro,New Zealand,England,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Seddon Park,8
-CMunro,New Zealand,Sri Lanka,17,19,2,0,89.47368421052632,0,0,0,0,0,0,Pallekele International Cricket Stadium,19
-CMunro,New Zealand,England,46,34,7,1,135.29411764705884,0,0,0,0,0,0,Feroz Shah Kotla,55
-CMunro,New Zealand,Sri Lanka,36,26,2,2,138.46153846153845,11,1,17,0,0,17.0,Bay Oval,42
-CMunro,New Zealand,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Bay Oval,-8
-CMunro,New Zealand,Sri Lanka,13,7,3,0,185.71428571428572,0,0,0,0,0,0,Pallekele International Cricket Stadium,16
-CMunro,New Zealand,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Kingsmead,-8
-CMunro,New Zealand,Pakistan,7,6,1,0,116.66666666666667,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,8
-CMunro,New Zealand,South Africa,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Buffalo Park,8
-CMunro,New Zealand,Sri Lanka,12,13,1,1,92.3076923076923,0,0,0,0,0,0,Pallekele International Cricket Stadium,15
-CMunro,New Zealand,England,1,2,0,0,50.0,0,0,0,0,0,0,Old Trafford,-3
-CMunro,New Zealand,South Africa,3,10,0,0,30.0,0,0,0,0,0,0,St George's Park,-3
-CMunro,New Zealand,South Africa,18,8,2,1,225.0,0,0,0,0,0,0,SuperSport Park,22
-CMunro,New Zealand,West Indies,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Westpac Stadium,5
-CMunro,New Zealand,England,28,19,0,3,147.36842105263156,0,0,0,0,0,0,Eden Park,34
-CMunro,New Zealand,England,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Westpac Stadium,-5
-CMunro,New Zealand,South Africa,0,1,0,0,0.0,5,0,11,0,0,0,Eden Park,-8
-CMunro,New Zealand,Pakistan,56,27,2,6,207.4074074074074,0,0,0,0,0,0,Eden Park,78
-CMunro,New Zealand,West Indies,22,12,1,2,183.33333333333331,0,0,0,0,0,0,Eden Park,27
-CMunro,New Zealand,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,McLean Park,-8
-CMunro,New Zealand,Sri Lanka,50,15,1,7,333.33333333333337,0,0,0,0,0,0,Eden Park,73
-CMunro,New Zealand,Zimbabwe,23,11,3,1,209.0909090909091,0,0,0,0,0,0,Harare Sports Club,28
-CMunro,New Zealand,Pakistan,4,3,0,0,133.33333333333331,6,1,13,0,0,13.0,Westpac Stadium,4
-CMunro,New Zealand,India,7,6,0,1,116.66666666666667,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,9
-CMunro,New Zealand,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-CMunro,New Zealand,Bangladesh,101,54,7,7,187.03703703703704,0,0,0,0,0,0,Bay Oval,138
-CMunro,New Zealand,Bangladesh,35,33,1,2,106.06060606060606,0,0,0,0,0,0,Eden Gardens,40
-CMunro,New Zealand,Australia,23,27,2,0,85.18518518518519,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,25
-CMunro,New Zealand,Bangladesh,73,40,3,5,182.5,0,0,0,0,0,0,Shere Bangla National Stadium,94
-CMunro,New Zealand,South Africa,23,18,4,0,127.77777777777777,0,0,0,0,0,0,Kingsmead,27
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CMunro,New Zealand,South Africa,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Buffalo Park,0,0,2012,8
+CMunro,New Zealand,Sri Lanka,13,7,3,0,185.71428571428572,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,16
+CMunro,New Zealand,Pakistan,7,6,1,0,116.66666666666667,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,8
+CMunro,New Zealand,Pakistan,56,27,2,6,207.4074074074074,0,0,0,0,0,0,Eden Park,0,1,2016,86
+CMunro,New Zealand,South Africa,0,1,0,0,0.0,5,0,11,0,0,0,Eden Park,0,0,2017,-8
+CMunro,New Zealand,Sri Lanka,17,19,2,0,89.47368421052632,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2013,19
+CMunro,New Zealand,South Africa,18,8,2,1,225.0,0,0,0,0,0,0,SuperSport Park,0,2,2015,38
+CMunro,New Zealand,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,McLean Park,0,0,2017,-8
+CMunro,New Zealand,Zimbabwe,23,11,3,1,209.0909090909091,0,0,0,0,0,0,Harare Sports Club,0,0,2015,28
+CMunro,New Zealand,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Kingsmead,0,0,2015,-8
+CMunro,New Zealand,Bangladesh,35,33,1,2,106.06060606060606,0,0,0,0,0,0,Eden Gardens,1,0,2016,52
+CMunro,New Zealand,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2019,-8
+CMunro,New Zealand,West Indies,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Westpac Stadium,1,0,2014,17
+CMunro,New Zealand,India,7,6,0,1,116.66666666666667,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,9
+CMunro,New Zealand,England,46,34,7,1,135.29411764705884,0,0,0,0,0,0,Feroz Shah Kotla,0,1,2016,63
+CMunro,New Zealand,England,28,19,0,3,147.36842105263156,0,0,0,0,0,0,Eden Park,0,0,2013,34
+CMunro,New Zealand,England,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Seddon Park,0,1,2013,16
+CMunro,New Zealand,Sri Lanka,12,13,1,1,92.3076923076923,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2019,23
+CMunro,New Zealand,West Indies,22,12,1,2,183.33333333333331,0,0,0,0,0,0,Eden Park,0,1,2014,35
+CMunro,New Zealand,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Bay Oval,0,0,2017,-8
+CMunro,New Zealand,South Africa,23,18,4,0,127.77777777777777,0,0,0,0,0,0,Kingsmead,0,0,2012,27
+CMunro,New Zealand,England,1,2,0,0,50.0,0,0,0,0,0,0,Old Trafford,0,0,2015,-3
+CMunro,New Zealand,Australia,23,27,2,0,85.18518518518519,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,25
+CMunro,New Zealand,England,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Westpac Stadium,0,0,2013,-5
+CMunro,New Zealand,South Africa,3,10,0,0,30.0,0,0,0,0,0,0,St George's Park,0,0,2012,-3
+CMunro,New Zealand,Bangladesh,73,40,3,5,182.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2013,94
+CMunro,New Zealand,Pakistan,4,3,0,0,133.33333333333331,6,1,13,0,0,13.0,Westpac Stadium,0,0,2016,4
+CMunro,New Zealand,Sri Lanka,50,15,1,7,333.33333333333337,0,0,0,0,0,0,Eden Park,0,0,2016,73
+CMunro,New Zealand,Bangladesh,101,54,7,7,187.03703703703704,0,0,0,0,0,0,Bay Oval,0,1,2017,146
+CMunro,New Zealand,South Africa,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,8
+CMunro,New Zealand,Sri Lanka,36,26,2,2,138.46153846153845,11,1,17,0,0,17.0,Bay Oval,0,0,2016,42
+CMunro,New Zealand,Bangladesh,24,34,3,1,70.58823529411765,0,0,0,0,0,0,Kennington Oval,0,0,2019,29
+CMunro,New Zealand,Ireland,44,16,3,4,275.0,0,0,0,0,0,0,Malahide,0,1,2017,63
+CMunro,New Zealand,Australia,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Seddon Park,0,0,2017,-3
+CMunro,New Zealand,Bangladesh,3,7,0,0,42.857142857142854,11,1,12,0,0,12.0,Saxton Oval,0,0,2016,-3
+CMunro,New Zealand,South Africa,9,5,1,0,180.0,0,0,0,0,0,0,Edgbaston,0,1,2019,18
+CMunro,New Zealand,South Africa,35,44,2,0,79.54545454545455,11,1,11,0,0,11.0,Kingsmead,0,0,2015,37
+CMunro,New Zealand,South Africa,0,0,0,0,0,11,1,3,0,0,3.0,Senwes Park,0,1,2015,8
+CMunro,New Zealand,Ireland,0,1,0,0,0.0,23,3,16,0,1,5.333333333333333,Malahide,0,0,2017,2
+CMunro,New Zealand,Zimbabwe,9,14,0,0,64.28571428571429,0,0,0,0,0,0,Harare Sports Club,0,0,2015,7
+CMunro,New Zealand,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Old Trafford,0,0,2019,-8
+CMunro,New Zealand,Bangladesh,85,77,7,2,110.3896103896104,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2013,104
+CMunro,New Zealand,Australia,11,12,1,1,91.66666666666666,0,0,0,0,0,0,Manuka Oval,0,1,2016,22
+CMunro,New Zealand,Australia,20,38,1,0,52.63157894736842,11,1,19,0,0,19.0,Melbourne Cricket Ground,0,0,2016,17
+CMunro,New Zealand,England,0,1,0,0,0.0,5,0,10,0,0,0,Trent Bridge,0,0,2013,-8
+CMunro,New Zealand,Pakistan,12,18,2,0,66.66666666666666,6,1,9,0,0,9.0,Edgbaston,0,0,2019,12
+CMunro,New Zealand,Afghanistan,22,26,3,0,84.61538461538461,0,0,0,0,0,0,The Cooper Associates County Ground,0,1,2019,33
+CMunro,New Zealand,Sri Lanka,15,12,1,1,125.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,18
+CMunro,New Zealand,Australia,49,60,4,1,81.66666666666667,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2016,63
+CMunro,New Zealand,Bangladesh,1,2,0,0,50.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2017,-3
+CMunro,New Zealand,Bangladesh,16,14,2,0,114.28571428571428,11,1,14,0,0,14.0,Clontarf Cricket Club Ground,0,1,2017,26
+CMunro,New Zealand,Australia,2,6,0,0,33.33333333333333,19,3,20,1,0,6.666666666666667,Eden Park,0,1,2017,29
+CMunro,New Zealand,South Africa,57,64,6,1,89.0625,0,0,0,0,0,0,Senwes Park,0,0,2013,73
+CMunro,New Zealand,South Africa,33,33,3,1,100.0,23,3,19,0,0,6.333333333333333,SuperSport Park,0,0,2015,38
+CMunro,New Zealand,South Africa,9,13,1,0,69.23076923076923,0,0,0,0,0,0,De Beers Diamond Oval,0,0,2013,8
+CMunro,New Zealand,Sri Lanka,58,48,6,1,120.83333333333333,0,0,0,0,0,0,Sophia Gardens,0,0,2019,74
+CMunro,New Zealand,Sri Lanka,1,4,0,0,25.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2013,-5
+CMunro,New Zealand,Bangladesh,87,61,8,4,142.62295081967213,0,0,0,0,0,0,Hagley Oval,0,0,2016,111

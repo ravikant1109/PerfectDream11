@@ -1,3 +1,46 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NMHauritz,Australia,Sri Lanka,4,3,1,0,133.33333333333331,23,3,28,1,0,9.333333333333334,Trent Bridge,28
-NMHauritz,Australia,Pakistan,2,8,0,0,25.0,20,3,20,1,0,6.666666666666667,Dubai International Cricket Stadium,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NMHauritz,Australia,Pakistan,2,8,0,0,25.0,20,3,20,1,0,6.666666666666667,Dubai International Cricket Stadium,0,0,2009,21
+NMHauritz,Australia,Sri Lanka,4,3,1,0,133.33333333333331,23,3,28,1,0,9.333333333333334,Trent Bridge,0,0,2009,28
+NMHauritz,Australia,India,0,0,0,0,0,53,8,19,0,4,2.375,Nehru Stadium,0,1,2009,46
+NMHauritz,Australia,Pakistan,0,0,0,0,0,59,9,41,3,1,4.555555555555555,Dubai Sports City Cricket Stadium,0,1,2009,95
+NMHauritz,Australia,Pakistan,1,3,0,0,33.33333333333333,35,5,27,0,2,5.4,Dubai Sports City Cricket Stadium,0,0,2009,13
+NMHauritz,Australia,Pakistan,18,21,2,0,85.71428571428571,61,10,41,0,0,4.1,Western Australia Cricket Association Ground,0,2,2010,40
+NMHauritz,Australia,England,0,0,0,0,0,60,10,23,2,0,2.3,Lord's,0,0,2009,56
+NMHauritz,Australia,Pakistan,0,0,0,0,0,59,9,39,1,0,4.333333333333333,Sheikh Zayed Stadium,0,1,2009,37
+NMHauritz,Australia,Ireland,19,10,3,0,190.0,61,10,41,2,0,4.1,Clontarf Cricket Club Ground,0,0,2010,76
+NMHauritz,Australia,England,0,0,0,0,0,60,10,56,1,0,5.6,Sophia Gardens,0,0,2010,27
+NMHauritz,Australia,England,0,0,0,0,0,57,9,45,2,0,5.0,Kennington Oval,0,0,2009,52
+NMHauritz,Australia,Pakistan,0,0,0,0,0,59,9,49,2,1,5.444444444444445,Sheikh Zayed Stadium,0,0,2009,60
+NMHauritz,Australia,South Africa,20,11,2,0,181.8181818181818,48,8,30,4,0,3.75,Kingsmead,0,0,2009,136
+NMHauritz,Australia,England,0,0,0,0,0,35,5,32,0,0,6.4,SuperSport Park,1,0,2009,12
+NMHauritz,Australia,West Indies,7,3,0,0,233.33333333333334,46,7,24,2,0,3.4285714285714284,New Wanderers Stadium,0,1,2009,71
+NMHauritz,Australia,Pakistan,19,18,0,1,105.55555555555556,60,10,26,2,4,2.6,Sheikh Zayed Stadium,0,1,2009,117
+NMHauritz,Australia,England,1,2,0,0,50.0,37,6,38,0,0,6.333333333333333,Trent Bridge,0,0,2009,-3
+NMHauritz,Australia,Pakistan,0,0,0,0,0,54,9,68,0,0,7.555555555555555,Brisbane Cricket Ground Woolloongabba,0,0,2010,0
+NMHauritz,Australia,New Zealand,9,11,0,0,81.81818181818183,42,7,43,1,0,6.142857142857143,Westpac Stadium,0,0,2010,34
+NMHauritz,Australia,India,30,34,3,0,88.23529411764706,59,9,56,0,0,6.222222222222222,Vidarbha Cricket Association Stadium Jamtha,1,0,2009,45
+NMHauritz,Australia,England,0,0,0,0,0,60,10,55,2,0,5.5,Trent Bridge,0,1,2009,60
+NMHauritz,Australia,India,0,0,0,0,0,60,10,55,0,0,5.5,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2010,2
+NMHauritz,Australia,New Zealand,0,0,0,0,0,60,10,37,3,0,3.7,SuperSport Park,0,0,2009,81
+NMHauritz,Australia,New Zealand,4,5,0,0,80.0,17,2,17,1,1,8.5,McLean Park,0,0,2010,37
+NMHauritz,Australia,West Indies,0,0,0,0,0,59,9,49,1,2,5.444444444444445,Brisbane Cricket Ground Woolloongabba,0,1,2010,51
+NMHauritz,Australia,New Zealand,0,0,0,0,0,48,8,41,0,0,5.125,Seddon Park,0,0,2010,2
+NMHauritz,Australia,South Africa,24,31,1,1,77.41935483870968,53,8,37,2,0,4.625,New Wanderers Stadium,0,1,2009,89
+NMHauritz,Australia,England,2,6,0,0,33.33333333333333,49,8,37,0,0,4.625,Bellerive Oval,0,0,2011,0
+NMHauritz,Australia,South Africa,0,0,0,0,0,47,7,37,0,0,5.285714285714286,Newlands,0,1,2009,10
+NMHauritz,Australia,Pakistan,1,1,0,0,100.0,41,6,45,2,0,7.5,Sydney Cricket Ground,0,1,2010,59
+NMHauritz,Australia,India,9,12,0,0,75.0,57,9,32,2,1,3.5555555555555554,Punjab Cricket Association Stadium Mohali,0,1,2009,81
+NMHauritz,Australia,South Africa,10,26,1,0,38.46153846153847,29,4,27,0,0,6.75,SuperSport Park,0,1,2009,13
+NMHauritz,Australia,England,0,0,0,0,0,35,5,24,1,0,4.8,The Rose Bowl,0,0,2009,29
+NMHauritz,Australia,New Zealand,0,0,0,0,0,47,7,48,3,0,6.857142857142857,Eden Park,0,1,2010,83
+NMHauritz,Australia,India,0,0,0,0,0,53,8,38,1,0,4.75,Reliance Stadium,0,0,2009,29
+NMHauritz,Australia,West Indies,0,0,0,0,0,59,9,46,1,0,5.111111111111111,Adelaide Oval,0,0,2010,27
+NMHauritz,Australia,England,22,17,3,0,129.41176470588235,48,8,45,0,0,5.625,The Rose Bowl,0,0,2010,27
+NMHauritz,Australia,Pakistan,0,1,0,0,0.0,45,7,37,1,0,5.285714285714286,Adelaide Oval,0,0,2010,19
+NMHauritz,Australia,West Indies,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,0
+NMHauritz,Australia,Sri Lanka,4,5,0,0,80.0,57,9,52,1,0,5.777777777777778,Sydney Cricket Ground,0,0,2010,31
+NMHauritz,Australia,India,0,0,0,0,0,29,4,44,0,0,11.0,Rajiv Gandhi International Stadium Uppal,1,1,2009,16
+NMHauritz,Australia,South Africa,7,4,1,0,175.0,56,9,60,2,0,6.666666666666667,Sydney Cricket Ground,0,0,2009,58
+NMHauritz,Australia,England,10,14,0,0,71.42857142857143,55,9,46,1,0,5.111111111111111,Lord's,0,0,2009,37
+NMHauritz,Australia,West Indies,6,6,0,0,100.0,37,6,30,3,0,5.0,Melbourne Cricket Ground,0,0,2010,83
+NMHauritz,Australia,South Africa,3,5,0,0,60.0,41,6,54,0,0,9.0,St George's Park,0,0,2009,1

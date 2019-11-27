@@ -1,5 +1,22 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RJHarris,Australia,New Zealand,0,0,0,0,0,24,4,40,1,1,10.0,AMI Stadium,31
-RJHarris,Australia,Bangladesh,2,1,0,0,200.0,21,3,28,1,0,9.333333333333334,Kensington Oval Bridgetown,25
-RJHarris,Australia,West Indies,0,0,0,0,0,24,4,27,2,0,6.75,Sydney Cricket Ground,50
-RJHarris,Australia,New Zealand,0,0,0,0,0,24,4,40,1,1,10.0,AMI Stadium,31
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RJHarris,Australia,West Indies,0,0,0,0,0,24,4,27,2,0,6.75,Sydney Cricket Ground,0,0,2010,50
+RJHarris,Australia,Bangladesh,2,1,0,0,200.0,21,3,28,1,0,9.333333333333334,Kensington Oval Bridgetown,0,0,2010,25
+RJHarris,Australia,New Zealand,0,0,0,0,0,24,4,40,1,1,10.0,AMI Stadium,0,0,2010,31
+RJHarris,Australia,Pakistan,2,2,0,0,100.0,60,10,44,3,1,4.4,Western Australia Cricket Association Ground,0,0,2010,89
+RJHarris,Australia,England,0,0,0,0,0,51,8,32,5,1,4.0,Kennington Oval,0,0,2010,153
+RJHarris,Australia,England,0,0,0,0,0,47,7,38,1,1,5.428571428571429,Lord's,0,1,2010,43
+RJHarris,Australia,Ireland,6,8,0,0,75.0,44,7,40,2,0,5.714285714285714,Clontarf Cricket Club Ground,0,0,2010,58
+RJHarris,Australia,Sri Lanka,0,0,0,0,0,36,6,45,1,0,7.5,Bellerive Oval,0,1,2012,33
+RJHarris,Australia,New Zealand,0,0,0,0,0,59,9,59,1,0,6.555555555555555,McLean Park,0,0,2010,25
+RJHarris,Australia,West Indies,0,0,0,0,0,60,10,67,2,0,6.7,Brisbane Cricket Ground Woolloongabba,0,1,2010,58
+RJHarris,Australia,New Zealand,0,0,0,0,0,43,7,48,3,0,6.857142857142857,Seddon Park,0,1,2010,83
+RJHarris,Australia,Sri Lanka,3,9,0,0,33.33333333333333,59,9,43,1,0,4.777777777777778,Western Australia Cricket Association Ground,0,0,2012,26
+RJHarris,Australia,India,2,4,0,0,50.0,60,10,59,1,0,5.9,Adelaide Oval,0,0,2012,25
+RJHarris,Australia,West Indies,0,0,0,0,0,42,7,26,2,3,3.7142857142857144,Melbourne Cricket Ground,0,0,2010,80
+RJHarris,Australia,England,1,2,0,0,50.0,59,9,59,1,0,6.555555555555555,Old Trafford,0,0,2010,22
+RJHarris,Australia,New Zealand,0,0,0,0,0,42,7,38,1,1,5.428571428571429,Eden Park,0,0,2010,35
+RJHarris,Australia,England,0,0,0,0,0,54,9,43,3,2,4.777777777777778,The Rose Bowl,0,0,2010,95
+RJHarris,Australia,Pakistan,0,0,0,0,0,59,9,48,5,0,5.333333333333333,Adelaide Oval,0,0,2010,143
+RJHarris,Australia,West Indies,21,9,3,1,233.33333333333334,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,26
+RJHarris,Australia,South Africa,7,10,0,0,70.0,59,9,57,1,0,6.333333333333333,Bellerive Oval,1,0,2009,44
+RJHarris,Australia,West Indies,2,1,0,0,200.0,55,9,24,3,1,2.6666666666666665,Melbourne Cricket Ground,0,0,2010,91

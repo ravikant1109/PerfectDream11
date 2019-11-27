@@ -1,6 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BRDunk,Australia,South Africa,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Adelaide Oval,-4
-BRDunk,Australia,Sri Lanka,28,22,2,2,127.27272727272727,0,0,0,0,0,0,Adelaide Oval,34
-BRDunk,Australia,South Africa,14,8,0,1,175.0,0,0,0,0,0,0,Stadium Australia,16
-BRDunk,Australia,Sri Lanka,32,14,3,3,228.57142857142856,0,0,0,0,0,0,Simonds Stadium South Geelong,41
-BRDunk,Australia,South Africa,23,20,3,0,114.99999999999999,0,0,0,0,0,0,Melbourne Cricket Ground,26
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BRDunk,Australia,South Africa,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Adelaide Oval,0,1,2014,4
+BRDunk,Australia,Sri Lanka,28,22,2,2,127.27272727272727,0,0,0,0,0,0,Adelaide Oval,0,0,2017,34
+BRDunk,Australia,South Africa,14,8,0,1,175.0,0,0,0,0,0,0,Stadium Australia,0,2,2014,32
+BRDunk,Australia,South Africa,23,20,3,0,114.99999999999999,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2014,34
+BRDunk,Australia,Sri Lanka,32,14,3,3,228.57142857142856,0,0,0,0,0,0,Simonds Stadium South Geelong,0,1,2017,49

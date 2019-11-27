@@ -1,14 +1,21 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DOObuya,Kenya,Ireland,28,36,2,0,77.77777777777779,0,0,0,0,0,0,Mombasa Sports Club Ground,30
-DOObuya,Kenya,Ireland,28,36,2,0,77.77777777777779,0,0,0,0,0,0,Mombasa Sports Club Ground,30
-DOObuya,Kenya,Ireland,28,36,2,0,77.77777777777779,0,0,0,0,0,0,Mombasa Sports Club Ground,30
-DOObuya,Kenya,Ireland,28,36,2,0,77.77777777777779,0,0,0,0,0,0,Mombasa Sports Club Ground,30
-DOObuya,Kenya,Bangladesh,23,21,4,0,109.52380952380953,0,0,0,0,0,0,Gymkhana Club Ground,27
-DOObuya,Kenya,Sri Lanka,18,35,1,0,51.42857142857142,0,0,0,0,0,0,New Wanderers Stadium,15
-DOObuya,Kenya,Ireland,8,22,0,0,36.36363636363637,0,0,0,0,0,0,Dubai International Cricket Stadium,2
-DOObuya,Kenya,Pakistan,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Gymkhana Club Ground,5
-DOObuya,Kenya,New Zealand,0,1,0,0,0.0,0,0,0,0,0,0,Kingsmead,-8
-DOObuya,Kenya,Ireland,3,10,0,0,30.0,0,0,0,0,0,0,Mombasa Sports Club Ground,-3
-DOObuya,Kenya,Ireland,28,36,2,0,77.77777777777779,0,0,0,0,0,0,Mombasa Sports Club Ground,30
-DOObuya,Kenya,Bangladesh,23,21,4,0,109.52380952380953,0,0,0,0,0,0,Gymkhana Club Ground,27
-DOObuya,Kenya,Sri Lanka,18,35,1,0,51.42857142857142,0,0,0,0,0,0,New Wanderers Stadium,15
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DOObuya,Kenya,Pakistan,4,3,1,0,133.33333333333331,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,5
+DOObuya,Kenya,Bangladesh,23,21,4,0,109.52380952380953,0,0,0,0,0,0,Gymkhana Club Ground,0,1,2007,35
+DOObuya,Kenya,Ireland,28,36,2,0,77.77777777777779,0,0,0,0,0,0,Mombasa Sports Club Ground,0,0,2012,30
+DOObuya,Kenya,New Zealand,0,1,0,0,0.0,0,0,0,0,0,0,Kingsmead,0,1,2007,0
+DOObuya,Kenya,Ireland,8,22,0,0,36.36363636363637,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,2
+DOObuya,Kenya,Ireland,3,10,0,0,30.0,0,0,0,0,0,0,Mombasa Sports Club Ground,0,0,2012,-3
+DOObuya,Kenya,Sri Lanka,18,35,1,0,51.42857142857142,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,15
+DOObuya,Kenya,Canada,34,53,5,0,64.15094339622641,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,37
+DOObuya,Kenya,New Zealand,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2007,-5
+DOObuya,Kenya,Scotland,30,32,2,1,93.75,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,34
+DOObuya,Kenya,South Africa,35,64,0,1,54.6875,0,0,0,0,0,0,OUTsurance Oval,0,0,2008,33
+DOObuya,Kenya,Bermuda,0,1,0,0,0.0,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,-8
+DOObuya,Kenya,Ireland,20,64,1,0,31.25,0,0,0,0,0,0,Mombasa Sports Club Ground,0,1,2012,23
+DOObuya,Kenya,Canada,2,8,0,0,25.0,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2011,-4
+DOObuya,Kenya,Ireland,10,14,1,0,71.42857142857143,0,0,0,0,0,0,Mombasa Sports Club Ground,0,2,2012,27
+DOObuya,Kenya,Scotland,13,19,2,0,68.42105263157895,0,0,0,0,0,0,Cambusdoon New Ground,0,0,2008,13
+DOObuya,Kenya,Zimbabwe,0,2,0,0,0.0,0,0,0,0,0,0,Eden Gardens,0,1,2011,0
+DOObuya,Kenya,Bermuda,5,16,0,0,31.25,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,-1
+DOObuya,Kenya,Canada,2,8,0,0,25.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2009,-4
+DOObuya,Kenya,Canada,4,17,1,0,23.52941176470588,0,0,0,0,0,0,Gymkhana Club Ground,0,2,2007,15

@@ -1,7 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MehrabHossainjnr,Bangladesh,West Indies,10,19,1,0,52.63157894736842,17,2,20,0,0,10.0,Warner Park Basseterre,5
-MehrabHossainjnr,Bangladesh,West Indies,10,19,1,0,52.63157894736842,17,2,20,0,0,10.0,Warner Park Basseterre,5
-MehrabHossainjnr,Bangladesh,West Indies,10,19,1,0,52.63157894736842,17,2,20,0,0,10.0,Warner Park Basseterre,5
-MehrabHossainjnr,Bangladesh,South Africa,6,8,0,0,75.0,0,0,0,0,0,0,New Wanderers Stadium,6
-MehrabHossainjnr,Bangladesh,West Indies,10,19,1,0,52.63157894736842,17,2,20,0,0,10.0,Warner Park Basseterre,5
-MehrabHossainjnr,Bangladesh,South Africa,6,8,0,0,75.0,0,0,0,0,0,0,New Wanderers Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MehrabHossainjnr,Bangladesh,West Indies,10,19,1,0,52.63157894736842,17,2,20,0,0,10.0,Warner Park Basseterre,0,0,2009,5
+MehrabHossainjnr,Bangladesh,South Africa,6,8,0,0,75.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2008,6
+MehrabHossainjnr,Bangladesh,Zimbabwe,45,111,6,0,40.54054054054054,43,7,30,2,0,4.285714285714286,Shere Bangla National Stadium,0,0,2006,99
+MehrabHossainjnr,Bangladesh,Zimbabwe,38,79,5,0,48.10126582278481,0,0,0,0,0,0,Shaheed Chandu Stadium,0,0,2006,37
+MehrabHossainjnr,Bangladesh,Zimbabwe,2,27,0,0,7.4074074074074066,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2009,4
+MehrabHossainjnr,Bangladesh,Zimbabwe,0,0,0,0,0,41,6,43,1,0,7.166666666666667,Queens Sports Club,0,0,2009,25
+MehrabHossainjnr,Bangladesh,New Zealand,3,14,0,0,21.428571428571427,0,0,0,0,0,0,Eden Park,0,1,2007,5
+MehrabHossainjnr,Bangladesh,Australia,0,8,0,0,0.0,0,0,0,0,0,0,Marrara Cricket Ground,0,1,2008,0
+MehrabHossainjnr,Bangladesh,Zimbabwe,25,41,1,0,60.97560975609756,59,9,56,0,0,6.222222222222222,Queens Sports Club,1,1,2009,44
+MehrabHossainjnr,Bangladesh,Australia,1,10,0,0,10.0,0,0,0,0,0,0,Marrara Cricket Ground,0,0,2008,-5
+MehrabHossainjnr,Bangladesh,Zimbabwe,13,24,1,0,54.166666666666664,11,1,6,0,0,6.0,Shere Bangla National Stadium,0,1,2006,18

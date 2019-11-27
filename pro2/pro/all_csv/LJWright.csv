@@ -1,78 +1,93 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LJWright,England,New Zealand,30,19,5,1,157.89473684210526,0,0,0,0,0,0,Jade Stadium,37
-LJWright,England,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-LJWright,England,West Indies,7,5,0,0,140.0,11,1,20,1,0,20.0,Kensington Oval Bridgetown,32
-LJWright,England,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Newlands,-8
-LJWright,England,West Indies,0,1,0,0,0.0,6,1,11,0,0,11.0,Pallekele International Cricket Stadium,-8
-LJWright,England,New Zealand,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Kingsmead,27
-LJWright,England,South Africa,6,12,0,0,50.0,0,0,0,0,0,0,Edgbaston,2
-LJWright,England,Australia,30,18,3,1,166.66666666666669,0,0,0,0,0,0,Riverside Ground,35
-LJWright,England,New Zealand,30,19,5,1,157.89473684210526,0,0,0,0,0,0,Jade Stadium,37
-LJWright,England,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-LJWright,England,West Indies,7,5,0,0,140.0,11,1,20,1,0,20.0,Kensington Oval Bridgetown,32
-LJWright,England,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Newlands,-8
-LJWright,England,West Indies,0,1,0,0,0.0,6,1,11,0,0,11.0,Pallekele International Cricket Stadium,-8
-LJWright,England,New Zealand,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Kingsmead,27
-LJWright,England,South Africa,6,12,0,0,50.0,0,0,0,0,0,0,Edgbaston,2
-LJWright,England,Australia,30,18,3,1,166.66666666666669,0,0,0,0,0,0,Riverside Ground,35
-LJWright,England,New Zealand,30,19,5,1,157.89473684210526,0,0,0,0,0,0,Jade Stadium,37
-LJWright,England,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-LJWright,England,West Indies,7,5,0,0,140.0,11,1,20,1,0,20.0,Kensington Oval Bridgetown,32
-LJWright,England,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Newlands,-8
-LJWright,England,West Indies,0,1,0,0,0.0,6,1,11,0,0,11.0,Pallekele International Cricket Stadium,-8
-LJWright,England,New Zealand,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Kingsmead,27
-LJWright,England,South Africa,6,12,0,0,50.0,0,0,0,0,0,0,Edgbaston,2
-LJWright,England,Australia,30,18,3,1,166.66666666666669,0,0,0,0,0,0,Riverside Ground,35
-LJWright,England,South Africa,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Trent Bridge,-5
-LJWright,England,Pakistan,0,0,0,0,0,24,4,27,1,0,6.75,Dubai International Cricket Stadium,25
-LJWright,England,India,34,21,3,1,161.9047619047619,19,3,24,1,0,8.0,Subrata Roy Sahara Stadium,64
-LJWright,England,South Africa,2,5,0,0,40.0,12,2,17,1,0,8.5,New Wanderers Stadium,21
-LJWright,England,New Zealand,52,37,5,1,140.54054054054055,23,3,32,2,0,10.666666666666666,Kennington Oval,113
-LJWright,England,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,-5
-LJWright,England,New Zealand,0,1,0,0,0.0,23,3,25,2,0,8.333333333333334,Seddon Park,42
-LJWright,England,South Africa,12,5,1,0,240.0,23,3,41,1,0,13.666666666666666,SuperSport Park,32
-LJWright,England,New Zealand,24,18,3,0,133.33333333333331,0,0,0,0,0,0,Beausejour Stadium Gros Islet,27
-LJWright,England,Ireland,20,25,0,1,80.0,0,0,0,0,0,0,Providence Stadium,22
-LJWright,England,Netherlands,71,52,7,0,136.53846153846155,12,2,18,0,0,9.0,Lord's,86
-LJWright,England,New Zealand,24,18,5,0,133.33333333333331,23,3,32,1,0,10.666666666666666,Old Trafford,50
-LJWright,England,India,6,4,0,1,150.0,0,0,0,0,0,0,R Premadasa Stadium,8
-LJWright,England,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-LJWright,England,New Zealand,76,45,5,5,168.88888888888889,0,0,0,0,0,0,Pallekele International Cricket Stadium,99
-LJWright,England,New Zealand,1,3,0,0,33.33333333333333,5,0,13,0,0,0,Eden Park,-5
-LJWright,England,Sri Lanka,12,11,1,1,109.09090909090908,0,0,0,0,0,0,Pallekele International Cricket Stadium,15
-LJWright,England,Australia,3,6,0,0,50.0,0,0,0,0,0,0,Newlands,-1
-LJWright,England,India,16,11,1,1,145.45454545454547,0,0,0,0,0,0,Kingsmead,19
-LJWright,England,Pakistan,13,8,0,1,162.5,11,1,21,0,0,21.0,Dubai International Cricket Stadium,15
-LJWright,England,South Africa,0,4,0,0,0.0,0,0,0,0,0,0,Newlands,-8
-LJWright,England,India,5,10,0,0,50.0,24,4,38,2,0,9.5,Wankhede Stadium,49
-LJWright,England,Australia,0,0,0,0,0,6,1,6,0,0,6.0,Old Trafford,0
-LJWright,England,West Indies,6,6,1,0,100.0,0,0,0,0,0,0,Kennington Oval,7
-LJWright,England,Australia,0,0,0,0,0,5,0,5,1,0,0,Kensington Oval Bridgetown,25
-LJWright,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Adelaide Oval,-8
-LJWright,England,Afghanistan,99,55,8,6,180.0,6,1,1,0,0,1.0,R Premadasa Stadium,127
-LJWright,England,West Indies,45,27,1,4,166.66666666666669,0,0,0,0,0,0,Providence Stadium,54
-LJWright,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Melbourne Cricket Ground,-8
-LJWright,England,Australia,18,15,1,0,120.0,0,0,0,0,0,0,Melbourne Cricket Ground,19
-LJWright,England,South Africa,14,12,1,0,116.66666666666667,5,0,4,1,0,0,Old Trafford,40
-LJWright,England,New Zealand,42,20,3,4,210.0,23,3,30,2,0,10.0,Eden Park,101
-LJWright,England,New Zealand,0,0,0,0,0,11,1,19,0,0,19.0,Westpac Stadium,0
-LJWright,England,Sri Lanka,9,12,0,0,75.0,0,0,0,0,0,0,County Ground,9
-LJWright,England,Australia,9,11,2,0,81.81818181818183,6,1,18,1,0,18.0,Bellerive Oval,36
-LJWright,England,Australia,4,2,0,0,200.0,11,1,27,0,0,27.0,The Rose Bowl,4
-LJWright,England,Pakistan,34,16,6,1,212.5,19,3,24,1,0,8.0,Kennington Oval,67
-LJWright,England,India,1,7,0,0,14.285714285714285,11,1,16,0,0,16.0,Lord's,-5
-LJWright,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Sophia Gardens,-8
-LJWright,England,Australia,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Stadium Australia,7
-LJWright,England,New Zealand,30,19,5,1,157.89473684210526,0,0,0,0,0,0,Jade Stadium,37
-LJWright,England,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-LJWright,England,West Indies,7,5,0,0,140.0,11,1,20,1,0,20.0,Kensington Oval Bridgetown,32
-LJWright,England,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Newlands,-8
-LJWright,England,West Indies,0,1,0,0,0.0,6,1,11,0,0,11.0,Pallekele International Cricket Stadium,-8
-LJWright,England,New Zealand,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Kingsmead,27
-LJWright,England,South Africa,6,12,0,0,50.0,0,0,0,0,0,0,Edgbaston,2
-LJWright,England,Australia,30,18,3,1,166.66666666666669,0,0,0,0,0,0,Riverside Ground,35
-LJWright,England,South Africa,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Trent Bridge,-5
-LJWright,England,Pakistan,0,0,0,0,0,24,4,27,1,0,6.75,Dubai International Cricket Stadium,25
-LJWright,England,India,34,21,3,1,161.9047619047619,19,3,24,1,0,8.0,Subrata Roy Sahara Stadium,64
-LJWright,England,South Africa,2,5,0,0,40.0,12,2,17,1,0,8.5,New Wanderers Stadium,21
-LJWright,England,New Zealand,52,37,5,1,140.54054054054055,23,3,32,2,0,10.666666666666666,Kennington Oval,113
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LJWright,England,Australia,9,11,2,0,81.81818181818183,6,1,18,1,0,18.0,Bellerive Oval,0,0,2014,36
+LJWright,England,India,6,4,0,1,150.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,8
+LJWright,England,New Zealand,76,45,5,5,168.88888888888889,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,107
+LJWright,England,West Indies,7,5,0,0,140.0,11,1,20,1,0,20.0,Kensington Oval Bridgetown,0,0,2014,32
+LJWright,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Adelaide Oval,0,0,2011,-8
+LJWright,England,South Africa,0,4,0,0,0.0,0,0,0,0,0,0,Newlands,0,0,2007,-8
+LJWright,England,South Africa,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Trent Bridge,0,0,2009,-5
+LJWright,England,South Africa,6,12,0,0,50.0,0,0,0,0,0,0,Edgbaston,0,0,2012,2
+LJWright,England,Netherlands,71,52,7,0,136.53846153846155,12,2,18,0,0,9.0,Lord's,0,1,2009,94
+LJWright,England,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,1,0,2010,7
+LJWright,England,West Indies,0,1,0,0,0.0,6,1,11,0,0,11.0,Pallekele International Cricket Stadium,0,1,2012,0
+LJWright,England,New Zealand,52,37,5,1,140.54054054054055,23,3,32,2,0,10.666666666666666,Kennington Oval,0,0,2013,113
+LJWright,England,New Zealand,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Kingsmead,0,0,2007,27
+LJWright,England,New Zealand,24,18,5,0,133.33333333333331,23,3,32,1,0,10.666666666666666,Old Trafford,1,0,2008,62
+LJWright,England,Pakistan,0,0,0,0,0,24,4,27,1,0,6.75,Dubai International Cricket Stadium,0,0,2010,25
+LJWright,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Sophia Gardens,0,0,2010,-8
+LJWright,England,Australia,0,0,0,0,0,6,1,6,0,0,6.0,Old Trafford,0,0,2009,0
+LJWright,England,Australia,18,15,1,0,120.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2011,19
+LJWright,England,India,34,21,3,1,161.9047619047619,19,3,24,1,0,8.0,Subrata Roy Sahara Stadium,0,0,2012,64
+LJWright,England,New Zealand,30,19,5,1,157.89473684210526,0,0,0,0,0,0,Jade Stadium,0,1,2008,45
+LJWright,England,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,-8
+LJWright,England,Australia,30,18,3,1,166.66666666666669,0,0,0,0,0,0,Riverside Ground,0,1,2013,43
+LJWright,England,New Zealand,1,3,0,0,33.33333333333333,5,0,13,0,0,0,Eden Park,0,0,2008,-5
+LJWright,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2014,-8
+LJWright,England,West Indies,45,27,1,4,166.66666666666669,0,0,0,0,0,0,Providence Stadium,0,0,2010,54
+LJWright,England,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Newlands,0,2,2007,8
+LJWright,England,Australia,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Stadium Australia,0,0,2014,7
+LJWright,England,South Africa,14,12,1,0,116.66666666666667,5,0,4,1,0,0,Old Trafford,0,0,2012,40
+LJWright,England,New Zealand,24,18,3,0,133.33333333333331,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2010,35
+LJWright,England,Sri Lanka,9,12,0,0,75.0,0,0,0,0,0,0,County Ground,0,0,2011,9
+LJWright,England,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2014,-8
+LJWright,England,India,5,10,0,0,50.0,24,4,38,2,0,9.5,Wankhede Stadium,0,0,2012,49
+LJWright,England,Sri Lanka,12,11,1,1,109.09090909090908,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,15
+LJWright,England,New Zealand,42,20,3,4,210.0,23,3,30,2,0,10.0,Eden Park,0,1,2013,109
+LJWright,England,New Zealand,0,1,0,0,0.0,23,3,25,2,0,8.333333333333334,Seddon Park,0,0,2013,42
+LJWright,England,Pakistan,13,8,0,1,162.5,11,1,21,0,0,21.0,Dubai International Cricket Stadium,0,0,2010,15
+LJWright,England,South Africa,2,5,0,0,40.0,12,2,17,1,0,8.5,New Wanderers Stadium,0,0,2009,21
+LJWright,England,Ireland,20,25,0,1,80.0,0,0,0,0,0,0,Providence Stadium,0,0,2010,22
+LJWright,England,Australia,0,0,0,0,0,5,0,5,1,0,0,Kensington Oval Bridgetown,1,0,2010,37
+LJWright,England,Australia,4,2,0,0,200.0,11,1,27,0,0,27.0,The Rose Bowl,0,0,2013,4
+LJWright,England,Australia,3,6,0,0,50.0,0,0,0,0,0,0,Newlands,0,0,2007,-1
+LJWright,England,Pakistan,34,16,6,1,212.5,19,3,24,1,0,8.0,Kennington Oval,0,2,2009,83
+LJWright,England,Afghanistan,99,55,8,6,180.0,6,1,1,0,0,1.0,R Premadasa Stadium,0,0,2012,127
+LJWright,England,West Indies,6,6,1,0,100.0,0,0,0,0,0,0,Kennington Oval,0,0,2009,7
+LJWright,England,New Zealand,0,0,0,0,0,11,1,19,0,0,19.0,Westpac Stadium,0,0,2013,0
+LJWright,England,India,1,7,0,0,14.285714285714285,11,1,16,0,0,16.0,Lord's,0,1,2009,3
+LJWright,England,India,16,11,1,1,145.45454545454547,0,0,0,0,0,0,Kingsmead,0,0,2007,19
+LJWright,England,South Africa,12,5,1,0,240.0,23,3,41,1,0,13.666666666666666,SuperSport Park,0,1,2009,40
+LJWright,England,Bangladesh,0,0,0,0,0,17,2,22,0,0,11.0,Trent Bridge,0,1,2010,4
+LJWright,England,Australia,12,11,2,0,109.09090909090908,37,6,26,0,1,4.333333333333333,Lord's,0,0,2009,26
+LJWright,England,Australia,24,19,3,0,126.3157894736842,56,9,48,0,0,5.333333333333333,Western Australia Cricket Association Ground,0,1,2011,37
+LJWright,England,West Indies,44,60,5,0,73.33333333333333,23,3,19,0,0,6.333333333333333,MA Chidambaram Stadium Chepauk,0,0,2011,49
+LJWright,England,Australia,2,9,0,0,22.22222222222222,17,2,16,0,0,8.0,Kennington Oval,0,0,2010,-4
+LJWright,England,Australia,21,37,1,0,56.75675675675676,35,5,32,0,0,6.4,Lord's,0,0,2010,18
+LJWright,England,New Zealand,47,40,2,4,117.5,0,0,0,0,0,0,AMI Stadium,0,0,2008,57
+LJWright,England,Australia,10,14,2,0,71.42857142857143,54,9,38,1,2,4.222222222222222,Sophia Gardens,0,0,2010,57
+LJWright,England,South Africa,0,0,0,0,0,29,4,31,0,0,7.75,St George's Park,0,1,2009,8
+LJWright,England,New Zealand,0,0,0,0,0,23,3,22,0,0,7.333333333333333,Eden Park,0,0,2008,0
+LJWright,England,Australia,38,28,4,1,135.71428571428572,5,0,9,0,0,0,Kennington Oval,0,0,2009,44
+LJWright,England,Pakistan,48,68,4,0,70.58823529411765,12,2,20,0,0,10.0,Kennington Oval,0,0,2010,50
+LJWright,England,New Zealand,6,23,0,0,26.08695652173913,35,5,37,0,0,7.4,Lord's,0,0,2008,0
+LJWright,England,Bangladesh,7,12,0,0,58.333333333333336,54,9,40,0,0,4.444444444444445,Shere Bangla National Stadium,0,1,2010,15
+LJWright,England,South Africa,2,2,0,0,100.0,0,0,0,0,0,0,Headingley,0,0,2008,2
+LJWright,England,South Africa,17,14,2,0,121.42857142857142,0,0,0,0,0,0,Kennington Oval,0,0,2008,19
+LJWright,England,Australia,48,71,2,2,67.6056338028169,17,2,18,0,0,9.0,SuperSport Park,0,0,2009,52
+LJWright,England,Bangladesh,32,13,2,2,246.15384615384616,11,1,16,0,0,16.0,Zohur Ahmed Chowdhury Stadium,0,1,2010,46
+LJWright,England,South Africa,24,19,2,1,126.3157894736842,47,7,67,2,0,9.571428571428571,Newlands,0,1,2009,84
+LJWright,England,Bangladesh,15,22,0,1,68.18181818181817,37,6,30,0,0,5.0,County Ground,0,0,2010,17
+LJWright,England,New Zealand,4,6,1,0,66.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,3
+LJWright,England,Bangladesh,0,0,0,0,0,5,0,4,1,0,0,Shere Bangla National Stadium,0,1,2010,33
+LJWright,England,South Africa,8,7,1,0,114.28571428571428,29,4,32,0,0,8.0,SuperSport Park,0,1,2009,17
+LJWright,England,Sri Lanka,1,3,0,0,33.33333333333333,24,4,18,0,0,4.5,R Premadasa Stadium,0,0,2011,-1
+LJWright,England,India,0,3,0,0,0.0,11,1,12,0,0,12.0,Lord's,0,1,2007,0
+LJWright,England,New Zealand,24,13,2,1,184.6153846153846,5,0,6,0,0,0,McLean Park,0,0,2008,28
+LJWright,England,Australia,0,3,0,0,0.0,5,0,14,0,0,0,Old Trafford,0,0,2010,-8
+LJWright,England,New Zealand,52,38,6,2,136.8421052631579,18,3,21,0,0,7.0,Edgbaston,0,1,2008,78
+LJWright,England,Ireland,5,20,1,0,25.0,17,2,21,0,0,10.5,The Village Malahide,0,0,2013,-4
+LJWright,England,West Indies,0,5,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2014,0
+LJWright,England,Australia,9,15,1,0,60.0,41,6,19,1,0,3.1666666666666665,The Rose Bowl,0,0,2009,39
+LJWright,England,Australia,36,50,1,1,72.0,42,7,35,2,1,5.0,The Rose Bowl,0,0,2010,99
+LJWright,England,South Africa,0,0,0,0,0,41,6,28,1,0,4.666666666666667,SuperSport Park,0,0,2009,29
+LJWright,England,New Zealand,2,3,0,0,66.66666666666666,36,6,35,2,1,5.833333333333333,County Ground,0,1,2008,68
+LJWright,England,Bangladesh,0,1,0,0,0.0,43,7,27,0,0,3.857142857142857,Edgbaston,0,2,2010,14
+LJWright,England,West Indies,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2014,-5
+LJWright,England,New Zealand,18,30,2,0,60.0,11,1,8,0,0,8.0,Kennington Oval,0,0,2008,18
+LJWright,England,Australia,0,1,0,0,0.0,0,0,0,0,0,0,The Rose Bowl,0,0,2013,-8
+LJWright,England,India,50,39,7,1,128.2051282051282,0,0,0,0,0,0,Kennington Oval,0,0,2007,67
+LJWright,England,Australia,20,19,3,0,105.26315789473684,60,10,54,2,0,5.4,Lord's,0,1,2009,83
+LJWright,England,Sri Lanka,0,0,0,0,0,36,6,34,1,0,5.666666666666667,New Wanderers Stadium,0,0,2009,27
+LJWright,England,Ireland,36,27,3,2,133.33333333333331,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2009,43
+LJWright,England,New Zealand,11,33,1,0,33.33333333333333,35,5,19,1,0,3.8,Riverside Ground,0,2,2008,53
+LJWright,England,Pakistan,1,4,0,0,25.0,35,5,16,1,0,3.2,The Rose Bowl,0,0,2010,26

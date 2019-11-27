@@ -1,7 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-YSChahal,India,England,0,0,0,0,0,23,3,27,2,0,9.0,Green Park,50
-YSChahal,India,Zimbabwe,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Harare Sports Club,21
-YSChahal,India,England,0,0,0,0,0,23,3,33,0,0,11.0,Vidarbha Cricket Association Stadium Jamtha,-4
-YSChahal,India,England,0,0,0,0,0,23,3,26,6,0,8.666666666666666,M Chinnaswamy Stadium,166
-YSChahal,India,Zimbabwe,0,0,0,0,0,25,4,19,1,1,4.75,Harare Sports Club,37
-YSChahal,India,Zimbabwe,0,0,0,0,0,24,4,41,1,0,10.25,Harare Sports Club,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+YSChahal,India,England,0,0,0,0,0,23,3,27,2,0,9.0,Green Park,0,0,2017,50
+YSChahal,India,England,0,0,0,0,0,23,3,33,0,0,11.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2017,-4
+YSChahal,India,Zimbabwe,0,0,0,0,0,24,4,41,1,0,10.25,Harare Sports Club,0,0,2016,21
+YSChahal,India,Zimbabwe,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Harare Sports Club,0,2,2016,37
+YSChahal,India,Zimbabwe,0,0,0,0,0,25,4,19,1,1,4.75,Harare Sports Club,0,0,2016,37
+YSChahal,India,England,0,0,0,0,0,23,3,26,6,0,8.666666666666666,M Chinnaswamy Stadium,0,0,2017,166
+YSChahal,India,Australia,0,0,0,0,0,60,10,64,2,0,6.4,Kennington Oval,0,0,2019,50
+YSChahal,India,New Zealand,5,5,1,0,100.0,63,10,66,1,0,6.6,Old Trafford,0,0,2019,31
+YSChahal,India,Bangladesh,0,0,0,0,0,61,10,50,1,1,5.0,Edgbaston,0,0,2019,35
+YSChahal,India,West Indies,0,0,0,0,0,41,6,43,2,0,7.166666666666667,Old Trafford,0,0,2019,50
+YSChahal,India,Zimbabwe,0,0,0,0,0,36,6,25,3,2,4.166666666666667,Harare Sports Club,0,0,2016,95
+YSChahal,India,South Africa,0,0,0,0,0,62,10,51,4,0,5.1,The Rose Bowl,0,0,2019,110
+YSChahal,India,Pakistan,0,0,0,0,0,43,7,53,0,0,7.571428571428571,Old Trafford,0,1,2019,8
+YSChahal,India,Zimbabwe,0,0,0,0,0,47,7,25,2,1,3.5714285714285716,Harare Sports Club,0,0,2016,64
+YSChahal,India,Zimbabwe,0,0,0,0,0,59,9,27,1,1,3.0,Harare Sports Club,0,0,2016,39
+YSChahal,India,Afghanistan,0,0,0,0,0,59,9,36,2,1,4.0,The Rose Bowl,0,2,2019,78

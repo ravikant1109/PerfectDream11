@@ -1,3 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JAHMarshall,New Zealand,England,13,11,2,0,118.18181818181819,0,0,0,0,0,0,Old Trafford,15
-JAHMarshall,New Zealand,Sri Lanka,1,4,0,0,25.0,0,0,0,0,0,0,Westpac Stadium,-5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JAHMarshall,New Zealand,England,13,11,2,0,118.18181818181819,0,0,0,0,0,0,Old Trafford,0,0,2008,15
+JAHMarshall,New Zealand,Sri Lanka,1,4,0,0,25.0,0,0,0,0,0,0,Westpac Stadium,0,0,2006,-5
+JAHMarshall,New Zealand,Sri Lanka,5,16,0,0,31.25,0,0,0,0,0,0,Jade Stadium,1,0,2007,11
+JAHMarshall,New Zealand,England,4,25,0,0,16.0,0,0,0,0,0,0,Riverside Ground,0,0,2008,-2
+JAHMarshall,New Zealand,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,McLean Park,0,0,2006,-8

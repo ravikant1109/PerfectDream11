@@ -1,15 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TMuzarabani,Zimbabwe,New Zealand,0,0,0,0,0,17,2,34,1,0,17.0,Harare Sports Club,19
-TMuzarabani,Zimbabwe,New Zealand,0,0,0,0,0,17,2,34,1,0,17.0,Harare Sports Club,19
-TMuzarabani,Zimbabwe,New Zealand,0,0,0,0,0,17,2,34,1,0,17.0,Harare Sports Club,19
-TMuzarabani,Zimbabwe,Bangladesh,0,0,0,0,0,25,4,36,1,0,9.0,Sheikh Abu Naser Stadium,25
-TMuzarabani,Zimbabwe,Bangladesh,0,0,0,0,0,18,3,41,0,0,13.666666666666666,Sheikh Abu Naser Stadium,-6
-TMuzarabani,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Queens Sports Club,-4
-TMuzarabani,Zimbabwe,India,0,2,0,0,0.0,11,1,17,0,0,17.0,Harare Sports Club,-8
-TMuzarabani,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,34,1,0,11.333333333333334,Queens Sports Club,19
-TMuzarabani,Zimbabwe,India,0,0,0,0,0,18,3,36,0,0,12.0,Harare Sports Club,-6
-TMuzarabani,Zimbabwe,India,0,0,0,0,0,23,3,31,2,0,10.333333333333334,Harare Sports Club,46
-TMuzarabani,Zimbabwe,India,0,0,0,0,0,17,2,23,1,0,11.5,Harare Sports Club,19
-TMuzarabani,Zimbabwe,New Zealand,0,0,0,0,0,17,2,34,1,0,17.0,Harare Sports Club,19
-TMuzarabani,Zimbabwe,Bangladesh,0,0,0,0,0,25,4,36,1,0,9.0,Sheikh Abu Naser Stadium,25
-TMuzarabani,Zimbabwe,Bangladesh,0,0,0,0,0,18,3,41,0,0,13.666666666666666,Sheikh Abu Naser Stadium,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TMuzarabani,Zimbabwe,India,0,0,0,0,0,18,3,36,0,0,12.0,Harare Sports Club,0,0,2015,-6
+TMuzarabani,Zimbabwe,New Zealand,0,0,0,0,0,17,2,34,1,0,17.0,Harare Sports Club,0,0,2015,19
+TMuzarabani,Zimbabwe,India,0,0,0,0,0,23,3,31,2,0,10.333333333333334,Harare Sports Club,0,0,2016,46
+TMuzarabani,Zimbabwe,Bangladesh,0,0,0,0,0,18,3,41,0,0,13.666666666666666,Sheikh Abu Naser Stadium,0,1,2016,2
+TMuzarabani,Zimbabwe,India,0,2,0,0,0.0,11,1,17,0,0,17.0,Harare Sports Club,0,0,2016,-8
+TMuzarabani,Zimbabwe,India,0,0,0,0,0,17,2,23,1,0,11.5,Harare Sports Club,1,0,2015,31
+TMuzarabani,Zimbabwe,Bangladesh,0,0,0,0,0,25,4,36,1,0,9.0,Sheikh Abu Naser Stadium,0,0,2016,25
+TMuzarabani,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Queens Sports Club,0,0,2015,-4
+TMuzarabani,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,34,1,0,11.333333333333334,Queens Sports Club,1,0,2015,31
+TMuzarabani,Zimbabwe,Afghanistan,2,8,0,0,25.0,29,4,34,1,0,8.5,Sharjah Cricket Stadium,0,0,2015,21
+TMuzarabani,Zimbabwe,Bangladesh,1,2,0,0,50.0,54,9,36,2,0,4.0,Shere Bangla National Stadium,0,0,2015,51
+TMuzarabani,Zimbabwe,India,5,10,1,0,50.0,17,2,13,0,1,6.5,Harare Sports Club,0,0,2016,10
+TMuzarabani,Zimbabwe,Bangladesh,0,1,0,0,0.0,61,10,64,2,0,6.4,Shere Bangla National Stadium,0,0,2015,42
+TMuzarabani,Zimbabwe,Ireland,3,13,0,0,23.076923076923077,60,10,43,2,1,4.3,Harare Sports Club,0,0,2015,59
+TMuzarabani,Zimbabwe,India,1,1,0,0,100.0,35,5,18,0,1,3.6,Harare Sports Club,0,0,2016,15
+TMuzarabani,Zimbabwe,Afghanistan,0,0,0,0,0,41,6,37,0,0,6.166666666666667,Sharjah Cricket Stadium,0,0,2015,0

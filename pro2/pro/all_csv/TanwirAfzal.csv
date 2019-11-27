@@ -1,31 +1,28 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TanwirAfzal,Hong Kong,Afghanistan,6,8,0,0,75.0,17,2,20,0,0,10.0,Vidarbha Cricket Association Stadium Jamtha,4
-TanwirAfzal,Hong Kong,Bangladesh,0,7,0,0,0.0,24,4,25,2,0,6.25,Zahur Ahmed Chowdhury Stadium,42
-TanwirAfzal,Hong Kong,Ireland,18,16,0,1,112.5,23,3,10,0,0,3.3333333333333335,The Village Malahide,26
-TanwirAfzal,Hong Kong,Afghanistan,6,8,0,0,75.0,17,2,20,0,0,10.0,Vidarbha Cricket Association Stadium Jamtha,4
-TanwirAfzal,Hong Kong,Bangladesh,0,7,0,0,0.0,24,4,25,2,0,6.25,Zahur Ahmed Chowdhury Stadium,42
-TanwirAfzal,Hong Kong,Ireland,18,16,0,1,112.5,23,3,10,0,0,3.3333333333333335,The Village Malahide,26
-TanwirAfzal,Hong Kong,Afghanistan,6,8,0,0,75.0,17,2,20,0,0,10.0,Vidarbha Cricket Association Stadium Jamtha,4
-TanwirAfzal,Hong Kong,Bangladesh,0,7,0,0,0.0,24,4,25,2,0,6.25,Zahur Ahmed Chowdhury Stadium,42
-TanwirAfzal,Hong Kong,Ireland,18,16,0,1,112.5,23,3,10,0,0,3.3333333333333335,The Village Malahide,26
-TanwirAfzal,Hong Kong,Afghanistan,0,1,0,0,0.0,25,4,33,0,0,8.25,The Village Malahide,-8
-TanwirAfzal,Hong Kong,Nepal,0,0,0,0,0,25,4,35,1,0,8.75,Civil Service Cricket Club Stormont,25
-TanwirAfzal,Hong Kong,Nepal,0,5,0,0,0.0,11,1,15,0,0,15.0,Zahur Ahmed Chowdhury Stadium,-8
-TanwirAfzal,Hong Kong,Ireland,6,6,1,0,100.0,23,3,19,2,0,6.333333333333333,Bready Cricket Club Magheramason,57
-TanwirAfzal,Hong Kong,Oman,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Sheikh Zayed Stadium,-2
-TanwirAfzal,Hong Kong,Oman,10,11,0,1,90.9090909090909,23,3,33,0,0,11.0,Khan Shaheb Osman Ali Stadium,8
-TanwirAfzal,Hong Kong,Scotland,5,8,0,0,62.5,11,1,34,1,0,34.0,The Village Malahide,28
-TanwirAfzal,Hong Kong,Afghanistan,4,5,0,0,80.0,23,3,40,1,0,13.333333333333334,Shere Bangla National Stadium,23
-TanwirAfzal,Hong Kong,Scotland,56,22,1,7,254.54545454545453,23,3,36,1,0,12.0,Mission Road Ground Mong Kok,98
-TanwirAfzal,Hong Kong,Zimbabwe,31,17,2,1,182.35294117647058,23,3,19,2,0,6.333333333333333,Vidarbha Cricket Association Stadium Jamtha,85
-TanwirAfzal,Hong Kong,Scotland,0,4,0,0,0.0,5,0,12,0,0,0,Vidarbha Cricket Association Stadium Jamtha,-8
-TanwirAfzal,Hong Kong,United Arab Emirates,7,7,1,0,100.0,11,1,21,1,0,21.0,Khan Shaheb Osman Ali Stadium,33
-TanwirAfzal,Hong Kong,Oman,7,7,0,1,100.0,23,3,27,1,0,9.0,Sheikh Zayed Stadium,34
-TanwirAfzal,Hong Kong,Scotland,0,0,0,0,0,11,1,24,1,0,24.0,Mission Road Ground Mong Kok,25
-TanwirAfzal,Hong Kong,Oman,7,11,0,0,63.63636363636363,23,3,22,2,0,7.333333333333333,Sheikh Zayed Stadium,55
-TanwirAfzal,Hong Kong,Nepal,9,13,0,0,69.23076923076923,23,3,13,2,0,4.333333333333333,P Sara Oval,61
-TanwirAfzal,Hong Kong,Afghanistan,11,6,1,1,183.33333333333331,17,2,19,1,0,9.5,Zahur Ahmed Chowdhury Stadium,37
-TanwirAfzal,Hong Kong,Afghanistan,6,8,0,0,75.0,17,2,20,0,0,10.0,Vidarbha Cricket Association Stadium Jamtha,4
-TanwirAfzal,Hong Kong,Bangladesh,0,7,0,0,0.0,24,4,25,2,0,6.25,Zahur Ahmed Chowdhury Stadium,42
-TanwirAfzal,Hong Kong,Ireland,18,16,0,1,112.5,23,3,10,0,0,3.3333333333333335,The Village Malahide,26
-TanwirAfzal,Hong Kong,Afghanistan,0,1,0,0,0.0,25,4,33,0,0,8.25,The Village Malahide,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TanwirAfzal,Hong Kong,Scotland,56,22,1,7,254.54545454545453,23,3,36,1,0,12.0,Mission Road Ground Mong Kok,0,1,2016,106
+TanwirAfzal,Hong Kong,Afghanistan,0,1,0,0,0.0,25,4,33,0,0,8.25,The Village Malahide,0,0,2015,-8
+TanwirAfzal,Hong Kong,Oman,7,7,0,1,100.0,23,3,27,1,0,9.0,Sheikh Zayed Stadium,0,0,2015,34
+TanwirAfzal,Hong Kong,Bangladesh,0,7,0,0,0.0,24,4,25,2,0,6.25,Zahur Ahmed Chowdhury Stadium,0,0,2014,42
+TanwirAfzal,Hong Kong,Zimbabwe,31,17,2,1,182.35294117647058,23,3,19,2,0,6.333333333333333,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,85
+TanwirAfzal,Hong Kong,Afghanistan,4,5,0,0,80.0,23,3,40,1,0,13.333333333333334,Shere Bangla National Stadium,1,0,2016,35
+TanwirAfzal,Hong Kong,Ireland,6,6,1,0,100.0,23,3,19,2,0,6.333333333333333,Bready Cricket Club Magheramason,0,1,2016,65
+TanwirAfzal,Hong Kong,Nepal,0,5,0,0,0.0,11,1,15,0,0,15.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,-8
+TanwirAfzal,Hong Kong,Ireland,18,16,0,1,112.5,23,3,10,0,0,3.3333333333333335,The Village Malahide,1,0,2015,38
+TanwirAfzal,Hong Kong,Nepal,9,13,0,0,69.23076923076923,23,3,13,2,0,4.333333333333333,P Sara Oval,0,0,2014,61
+TanwirAfzal,Hong Kong,Oman,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Sheikh Zayed Stadium,0,0,2015,-2
+TanwirAfzal,Hong Kong,Scotland,0,4,0,0,0.0,5,0,12,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,-8
+TanwirAfzal,Hong Kong,Scotland,5,8,0,0,62.5,11,1,34,1,0,34.0,The Village Malahide,0,0,2015,28
+TanwirAfzal,Hong Kong,United Arab Emirates,7,7,1,0,100.0,11,1,21,1,0,21.0,Khan Shaheb Osman Ali Stadium,0,0,2016,33
+TanwirAfzal,Hong Kong,Oman,10,11,0,1,90.9090909090909,23,3,33,0,0,11.0,Khan Shaheb Osman Ali Stadium,0,1,2016,16
+TanwirAfzal,Hong Kong,Scotland,0,0,0,0,0,11,1,24,1,0,24.0,Mission Road Ground Mong Kok,0,0,2016,25
+TanwirAfzal,Hong Kong,Oman,7,11,0,0,63.63636363636363,23,3,22,2,0,7.333333333333333,Sheikh Zayed Stadium,0,0,2015,55
+TanwirAfzal,Hong Kong,Afghanistan,11,6,1,1,183.33333333333331,17,2,19,1,0,9.5,Zahur Ahmed Chowdhury Stadium,0,0,2014,37
+TanwirAfzal,Hong Kong,Nepal,0,0,0,0,0,25,4,35,1,0,8.75,Civil Service Cricket Club Stormont,0,0,2015,25
+TanwirAfzal,Hong Kong,Afghanistan,6,8,0,0,75.0,17,2,20,0,0,10.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,4
+TanwirAfzal,Hong Kong,United Arab Emirates,8,6,0,1,133.33333333333331,60,10,46,1,0,4.6,ICC Academy,0,0,2015,39
+TanwirAfzal,Hong Kong,Scotland,20,16,3,0,125.0,48,8,36,1,2,4.5,Grange Cricket Club Ground Raeburn Place,0,0,2016,68
+TanwirAfzal,Hong Kong,Scotland,7,7,1,0,100.0,23,3,43,1,0,14.333333333333334,Grange Cricket Club Ground Raeburn Place,0,0,2016,27
+TanwirAfzal,Hong Kong,Papua New Guinea,47,32,6,2,146.875,31,5,28,1,1,5.6,Mission Road Ground Mong Kok,0,0,2016,92
+TanwirAfzal,Hong Kong,Papua New Guinea,0,0,0,0,0,31,5,37,0,0,7.4,Mission Road Ground Mong Kok,0,0,2016,0
+TanwirAfzal,Hong Kong,United Arab Emirates,0,2,0,0,0.0,53,8,27,2,1,3.375,Kinrara Academy Oval,0,0,2014,56
+TanwirAfzal,Hong Kong,Papua New Guinea,9,22,0,1,40.909090909090914,43,7,28,0,1,4.0,Mission Road Ground Mong Kok,0,0,2016,17

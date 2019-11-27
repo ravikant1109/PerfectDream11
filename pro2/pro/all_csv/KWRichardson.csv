@@ -1,5 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KWRichardson,Australia,South Africa,0,0,0,0,0,18,3,30,0,0,10.0,Adelaide Oval,-2
-KWRichardson,Australia,Pakistan,0,0,0,0,0,17,2,14,1,0,7.0,Dubai International Cricket Stadium,25
-KWRichardson,Australia,India,9,7,1,0,128.57142857142858,23,3,41,0,0,13.666666666666666,Adelaide Oval,4
-KWRichardson,Australia,Sri Lanka,0,0,0,0,0,25,4,21,0,0,5.25,Adelaide Oval,2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KWRichardson,Australia,South Africa,0,0,0,0,0,18,3,30,0,0,10.0,Adelaide Oval,0,0,2014,-2
+KWRichardson,Australia,Sri Lanka,0,0,0,0,0,25,4,21,0,0,5.25,Adelaide Oval,0,1,2019,10
+KWRichardson,Australia,Pakistan,0,0,0,0,0,17,2,14,1,0,7.0,Dubai International Cricket Stadium,0,2,2014,41
+KWRichardson,Australia,India,9,7,1,0,128.57142857142858,23,3,41,0,0,13.666666666666666,Adelaide Oval,0,0,2016,4
+KWRichardson,Australia,South Africa,0,0,0,0,0,47,7,50,1,0,7.142857142857143,Manuka Oval,0,0,2014,25
+KWRichardson,Australia,South Africa,0,0,0,0,0,61,10,68,1,1,6.8,Harare Sports Club,0,0,2014,33
+KWRichardson,Australia,India,0,0,0,0,0,61,10,49,1,0,4.9,Melbourne Cricket Ground,0,0,2016,29
+KWRichardson,Australia,Sri Lanka,0,0,0,0,0,55,9,47,3,1,5.222222222222222,Kennington Oval,0,0,2019,85
+KWRichardson,Australia,Sri Lanka,0,1,0,0,0.0,35,5,18,0,2,3.6,Adelaide Oval,0,0,2013,14
+KWRichardson,Australia,India,0,0,0,0,0,59,9,68,5,1,7.555555555555555,Manuka Oval,0,0,2016,149
+KWRichardson,Australia,Pakistan,2,1,0,0,200.0,40,6,24,1,1,4.0,Sharjah Cricket Stadium,0,0,2014,39
+KWRichardson,Australia,New Zealand,19,13,1,2,146.15384615384613,59,9,65,0,1,7.222222222222222,Eden Park,0,1,2016,40
+KWRichardson,Australia,Zimbabwe,0,0,0,0,0,31,5,28,0,2,5.6,Harare Sports Club,0,0,2014,18
+KWRichardson,Australia,South Africa,0,0,0,0,0,47,7,38,2,0,5.428571428571429,Harare Sports Club,0,0,2014,52
+KWRichardson,Australia,Pakistan,1,1,0,0,100.0,53,8,62,2,0,7.75,The Cooper Associates County Ground,1,2,2019,79
+KWRichardson,Australia,Pakistan,0,0,0,0,0,60,10,43,1,0,4.3,Dubai International Cricket Stadium,0,0,2014,29

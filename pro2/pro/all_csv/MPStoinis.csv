@@ -1,2 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MPStoinis,Australia,England,10,9,1,0,111.11111111111111,5,0,13,0,0,0,Sophia Gardens,11
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MPStoinis,Australia,England,10,9,1,0,111.11111111111111,5,0,13,0,0,0,Sophia Gardens,0,0,2015,11
+MPStoinis,Australia,New Zealand,42,50,4,1,84.0,23,3,22,0,0,7.333333333333333,Seddon Park,0,1,2017,56
+MPStoinis,Australia,India,0,2,0,0,0.0,44,7,62,2,0,8.857142857142858,Kennington Oval,0,0,2019,42
+MPStoinis,Australia,Afghanistan,0,0,0,0,0,44,7,37,2,1,5.285714285714286,County Ground,1,0,2019,72
+MPStoinis,Australia,England,0,2,0,0,0.0,12,2,13,0,0,6.5,Edgbaston,0,0,2019,-8
+MPStoinis,Australia,England,8,15,1,0,53.333333333333336,42,7,31,1,0,4.428571428571429,Lord's,0,1,2019,42
+MPStoinis,Australia,New Zealand,21,26,3,0,80.76923076923077,11,1,13,0,0,13.0,Lord's,0,0,2019,24
+MPStoinis,Australia,Bangladesh,17,11,2,0,154.54545454545453,47,7,55,2,0,7.857142857142857,Trent Bridge,0,0,2019,69
+MPStoinis,Australia,New Zealand,146,121,9,11,120.66115702479338,61,10,50,3,0,5.0,Eden Park,0,0,2017,270
+MPStoinis,Australia,West Indies,19,24,4,0,79.16666666666666,23,3,18,0,0,6.0,Trent Bridge,0,0,2019,23
+MPStoinis,Australia,England,4,5,0,0,80.0,23,3,17,0,0,5.666666666666667,Headingley,0,0,2015,6

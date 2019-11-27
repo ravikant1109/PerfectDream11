@@ -3,13 +3,13 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from pyvirtualdisplay import Display
 import cgitb
-cgitb.enable()
 import time
 import getpass
 import requests
 import player
 from player import Player
 from update import Update
+import os
 class Match:
 	""" Match class
 	This is a match class which will store upcoming match data fetched from the Dream11 website.
@@ -113,21 +113,31 @@ p = Project(url)
 p.make_request()
 print("Upcoming Matches")
 p.parse()
-data = ""
 for match in p.matches:
-
-	print("Match Details")
+	data = ""
 	temp , time , idd = match.print_match()
-	data = data + temp
 	if time!=None:
-		data = data + "<div id=\""+idd+"\" class=\"modal\">"
-		data = data + "<form class=\"modal-content animate\" action=''>"
-		data = data + "<div class=\"container\">"
-		data = data + "<h1>Players Details</h1><hr>"
-		data = data + Player.open_match(p, match)
-		data = data + "<br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none';document.getElementById('id01').style.display='block'\" class=\"cancelbtn\">Predict</button></div><br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none'\" class=\"cancelbtn\">Close</button></div></div></form></div>"
+		data = data + temp
+		if idd not in os.listdir("../update/match/"):
+			os.mkdir("../update/match/"+idd)
+			data = data + "<div id=\""+idd+"\" class=\"modal\">"
+			data = data + "<form class=\"modal-content animate\" action=''>"
+			data = data + "<div class=\"container\">"
+			data = data + "<h1>Players Details</h1><hr>"
+			data1 , data2 = Player.open_match(p, match)
+			data = data + data1
+			data = data + "<br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none';document.getElementById('"+idd+"p').style.display='block'\" class=\"cancelbtn\">Predict</button></div><br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none'\" class=\"cancelbtn\">Close</button></div></div></form></div>"
+			data = data + "<div id=\""+idd+"p\" class=\"modal\">"
+			data = data + "<form class=\"modal-content animate\" action=''>"
+			data = data + "<div class=\"container\">"
+			data = data + "<h1>Players Predictions</h1><hr>"
+			data = data + data2
+			data = data + "<br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"p').style.display='none'\" class=\"cancelbtn\">Close</button></div></div></form></div>"
+			f = open('../update/match/'+idd+'/update.txt','w')
+			f.write(data)
+			f.close()
+			up = Update()
+			up.run_update()
 #f = open('/home/rajat/PerfectDream11/PerfectDream11/update/update.txt','w')
 #f.write(data)
 #f.close()
-up = Update(data)
-up.run_update()

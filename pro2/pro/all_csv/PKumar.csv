@@ -1,17 +1,73 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PKumar,India,West Indies,0,0,0,0,0,23,3,27,1,1,9.0,Queen's Park Oval Port of Spain,33
-PKumar,India,Afghanistan,0,0,0,0,0,17,2,16,2,0,8.0,Beausejour Stadium Gros Islet,50
-PKumar,India,West Indies,0,0,0,0,0,23,3,27,1,1,9.0,Queen's Park Oval Port of Spain,33
-PKumar,India,Afghanistan,0,0,0,0,0,17,2,16,2,0,8.0,Beausejour Stadium Gros Islet,50
-PKumar,India,West Indies,0,0,0,0,0,23,3,27,1,1,9.0,Queen's Park Oval Port of Spain,33
-PKumar,India,Afghanistan,0,0,0,0,0,17,2,16,2,0,8.0,Beausejour Stadium Gros Islet,50
-PKumar,India,Australia,6,10,0,0,60.0,11,1,15,1,0,15.0,Melbourne Cricket Ground,29
-PKumar,India,Australia,0,0,0,0,0,17,2,34,0,0,17.0,Stadium Australia,-6
-PKumar,India,South Africa,0,0,0,0,0,18,3,21,1,0,7.0,Moses Mabhida Stadium,25
-PKumar,India,South Africa,0,0,0,0,0,12,2,23,0,0,11.5,New Wanderers Stadium,-6
-PKumar,India,England,1,4,0,0,25.0,23,3,31,1,0,10.333333333333334,Old Trafford,16
-PKumar,India,South Africa,0,0,0,0,0,5,0,4,0,0,0,Beausejour Stadium Gros Islet,0
-PKumar,India,England,0,2,0,0,0.0,5,0,13,0,0,0,Eden Gardens,-8
-PKumar,India,Australia,0,0,0,0,0,18,3,21,2,0,7.0,Melbourne Cricket Ground,50
-PKumar,India,West Indies,0,0,0,0,0,23,3,27,1,1,9.0,Queen's Park Oval Port of Spain,33
-PKumar,India,Afghanistan,0,0,0,0,0,17,2,16,2,0,8.0,Beausejour Stadium Gros Islet,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PKumar,India,England,0,2,0,0,0.0,5,0,13,0,0,0,Eden Gardens,0,0,2011,-8
+PKumar,India,South Africa,0,0,0,0,0,5,0,4,0,0,0,Beausejour Stadium Gros Islet,1,0,2010,12
+PKumar,India,Australia,0,0,0,0,0,18,3,21,2,0,7.0,Melbourne Cricket Ground,0,0,2012,50
+PKumar,India,Afghanistan,0,0,0,0,0,17,2,16,2,0,8.0,Beausejour Stadium Gros Islet,0,0,2010,50
+PKumar,India,South Africa,0,0,0,0,0,12,2,23,0,0,11.5,New Wanderers Stadium,0,0,2012,-6
+PKumar,India,England,1,4,0,0,25.0,23,3,31,1,0,10.333333333333334,Old Trafford,0,0,2011,16
+PKumar,India,Australia,6,10,0,0,60.0,11,1,15,1,0,15.0,Melbourne Cricket Ground,0,0,2008,29
+PKumar,India,South Africa,0,0,0,0,0,18,3,21,1,0,7.0,Moses Mabhida Stadium,0,1,2011,33
+PKumar,India,West Indies,0,0,0,0,0,23,3,27,1,1,9.0,Queen's Park Oval Port of Spain,0,0,2011,33
+PKumar,India,Australia,0,0,0,0,0,17,2,34,0,0,17.0,Stadium Australia,0,0,2012,-6
+PKumar,India,Bangladesh,0,0,0,0,0,60,10,56,3,1,5.6,Shere Bangla National Stadium,0,0,2012,85
+PKumar,India,Sri Lanka,0,0,0,0,0,59,9,35,3,2,3.888888888888889,Rangiri Dambulla International Stadium,0,0,2008,97
+PKumar,India,Australia,54,51,6,1,105.88235294117648,11,1,10,0,0,10.0,Nehru Stadium,0,0,2009,70
+PKumar,India,South Africa,0,0,0,0,0,29,4,35,1,0,8.75,Captain Roop Singh Stadium,0,0,2010,25
+PKumar,India,England,2,2,0,0,100.0,23,3,12,2,1,4.0,Riverside Ground,0,0,2011,64
+PKumar,India,England,0,0,0,0,0,53,8,35,1,0,4.375,Lord's,0,0,2011,29
+PKumar,India,Pakistan,0,0,0,0,0,61,10,79,2,0,7.9,Shere Bangla National Stadium,0,0,2012,50
+PKumar,India,Australia,7,7,1,0,100.0,59,9,46,4,2,5.111111111111111,Brisbane Cricket Ground Woolloongabba,0,0,2008,134
+PKumar,India,Sri Lanka,0,0,0,0,0,57,9,64,1,0,7.111111111111111,Bellerive Oval,1,0,2012,37
+PKumar,India,Pakistan,0,0,0,0,0,60,10,56,0,0,5.6,National Stadium,0,0,2008,2
+PKumar,India,Australia,0,0,0,0,0,60,10,50,2,1,5.0,Sydney Cricket Ground,0,1,2008,68
+PKumar,India,Sri Lanka,0,0,0,0,0,36,6,36,1,0,6.0,National Stadium,0,0,2008,25
+PKumar,India,England,0,0,0,0,0,55,9,44,1,1,4.888888888888889,Feroz Shah Kotla,1,0,2011,49
+PKumar,India,Sri Lanka,0,0,0,0,0,61,10,55,0,0,5.5,Western Australia Cricket Association Ground,0,0,2012,2
+PKumar,India,Sri Lanka,0,0,0,0,0,43,7,41,2,0,5.857142857142857,R Premadasa Stadium,0,0,2009,52
+PKumar,India,Pakistan,1,1,0,0,100.0,50,8,61,0,1,7.625,National Stadium,0,0,2008,9
+PKumar,India,Pakistan,3,2,0,0,150.0,62,10,54,3,1,5.4,Rangiri Dambulla International Stadium,0,0,2010,88
+PKumar,India,New Zealand,6,13,1,0,46.15384615384615,49,8,38,3,0,4.75,Rangiri Dambulla International Stadium,0,2,2010,96
+PKumar,India,Sri Lanka,0,0,0,0,0,55,9,29,1,1,3.2222222222222223,Rangiri Dambulla International Stadium,0,0,2010,39
+PKumar,India,Sri Lanka,2,4,0,0,50.0,61,10,63,2,0,6.3,R Premadasa Stadium,0,1,2008,56
+PKumar,India,Sri Lanka,0,0,0,0,0,53,8,39,2,0,4.875,R Premadasa Stadium,0,0,2009,54
+PKumar,India,New Zealand,1,8,0,0,12.5,54,9,43,3,3,4.777777777777778,Rangiri Dambulla International Stadium,0,0,2010,98
+PKumar,India,England,0,1,0,0,0.0,23,3,42,0,0,14.0,The Rose Bowl,0,0,2011,-14
+PKumar,India,Sri Lanka,15,22,1,0,68.18181818181817,52,8,22,1,1,2.75,R Premadasa Stadium,0,0,2009,53
+PKumar,India,Australia,1,1,0,0,100.0,48,8,37,2,1,4.625,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,63
+PKumar,India,Sri Lanka,0,0,0,0,0,42,7,47,0,0,6.714285714285714,Shere Bangla National Stadium,0,0,2012,0
+PKumar,India,West Indies,0,0,0,0,0,55,9,23,3,3,2.5555555555555554,New Wanderers Stadium,0,0,2009,105
+PKumar,India,West Indies,0,0,0,0,0,62,10,39,2,2,3.9,Queen's Park Oval Port of Spain,0,0,2011,72
+PKumar,India,England,16,12,1,1,133.33333333333331,30,5,34,0,0,6.8,Eden Gardens,0,0,2011,19
+PKumar,India,West Indies,1,5,0,0,20.0,42,7,41,0,0,5.857142857142857,Sabina Park Kingston,0,0,2009,-3
+PKumar,India,Sri Lanka,0,1,0,0,0.0,42,7,44,0,1,6.285714285714286,Rangiri Dambulla International Stadium,0,0,2010,0
+PKumar,India,Hong Kong,0,0,0,0,0,34,5,21,0,0,4.2,National Stadium,0,0,2008,4
+PKumar,India,Australia,0,0,0,0,0,53,8,56,0,1,7.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2010,8
+PKumar,India,Australia,1,4,0,0,25.0,61,10,37,2,2,3.7,Sydney Cricket Ground,0,0,2012,67
+PKumar,India,New Zealand,0,0,0,0,0,44,7,51,0,0,7.285714285714286,Seddon Park,0,0,2009,0
+PKumar,India,West Indies,6,13,0,0,46.15384615384615,60,10,38,3,3,3.8,Sir Vivian Richards Stadium North Sound,0,0,2011,105
+PKumar,India,Australia,0,0,0,0,0,50,8,35,0,1,4.375,SuperSport Park,0,0,2009,12
+PKumar,India,Sri Lanka,2,6,0,0,33.33333333333333,24,4,25,0,0,6.25,R Premadasa Stadium,0,0,2008,-4
+PKumar,India,Pakistan,12,13,1,0,92.3076923076923,61,10,54,0,1,5.4,Sawai Mansingh Stadium,0,0,2007,23
+PKumar,India,Sri Lanka,0,0,0,0,0,49,8,50,0,0,6.25,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,0
+PKumar,India,Bangladesh,0,0,0,0,0,43,7,38,1,1,5.428571428571429,Rangiri Dambulla International Stadium,0,1,2010,43
+PKumar,India,England,1,1,0,0,100.0,48,8,38,1,1,4.75,Rajiv Gandhi International Stadium Uppal,0,0,2011,38
+PKumar,India,Sri Lanka,0,1,0,0,0.0,47,7,38,1,2,5.428571428571429,Rangiri Dambulla International Stadium,0,0,2010,35
+PKumar,India,Australia,16,19,3,0,84.21052631578947,59,9,41,0,0,4.555555555555555,Punjab Cricket Association Stadium Mohali,1,0,2009,35
+PKumar,India,Sri Lanka,0,0,0,0,0,48,8,23,2,2,2.875,Rangiri Dambulla International Stadium,0,0,2010,72
+PKumar,India,Bangladesh,0,0,0,0,0,61,10,33,1,2,3.3,Shere Bangla National Stadium,0,2,2008,63
+PKumar,India,New Zealand,0,0,0,0,0,36,6,20,1,2,3.3333333333333335,MA Chidambaram Stadium Chepauk,0,0,2010,47
+PKumar,India,Australia,40,33,5,1,121.21212121212122,61,10,77,0,0,7.7,Reliance Stadium,0,0,2009,47
+PKumar,India,New Zealand,6,12,1,0,50.0,23,3,22,1,0,7.333333333333333,Eden Park,0,0,2009,28
+PKumar,India,New Zealand,0,0,0,0,0,37,6,29,2,2,4.833333333333333,McLean Park,0,0,2009,70
+PKumar,India,Sri Lanka,0,0,0,0,0,61,10,31,4,2,3.1,Bellerive Oval,0,0,2008,130
+PKumar,India,Sri Lanka,6,9,0,0,66.66666666666666,60,10,51,0,0,5.1,Adelaide Oval,1,1,2008,26
+PKumar,India,Australia,9,9,0,1,100.0,54,9,70,2,0,7.777777777777778,Rajiv Gandhi International Stadium Uppal,0,0,2009,61
+PKumar,India,Pakistan,5,8,0,0,62.5,59,9,38,0,1,4.222222222222222,Shere Bangla National Stadium,0,0,2008,15
+PKumar,India,England,0,0,0,0,0,44,7,42,1,1,6.0,Wankhede Stadium,0,0,2011,33
+PKumar,India,West Indies,25,16,1,2,156.25,59,9,46,0,2,5.111111111111111,Sir Vivian Richards Stadium North Sound,0,0,2011,48
+PKumar,India,England,0,0,0,0,0,61,10,57,1,0,5.7,Punjab Cricket Association Stadium Mohali,0,0,2011,27
+PKumar,India,West Indies,0,0,0,0,0,60,10,58,0,0,5.8,Queen's Park Oval Port of Spain,0,0,2011,2
+PKumar,India,Pakistan,6,7,0,0,85.71428571428571,53,8,54,4,1,6.75,Shere Bangla National Stadium,0,0,2008,122
+PKumar,India,Sri Lanka,14,16,1,1,87.5,64,10,82,1,0,8.2,Rangiri Dambulla International Stadium,0,0,2010,42
+PKumar,India,South Africa,13,14,0,0,92.85714285714286,49,8,48,2,0,6.0,Sawai Mansingh Stadium,0,0,2010,63
+PKumar,India,New Zealand,0,0,0,0,0,49,8,60,1,0,7.5,AMI Stadium,0,0,2009,25

@@ -1,8 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PDHennessy,Spain,Portugal,22,31,1,0,70.96774193548387,11,1,17,2,0,17.0,La Manga Club Bottom Ground,73
-PDHennessy,Spain,Portugal,22,31,1,0,70.96774193548387,11,1,17,2,0,17.0,La Manga Club Bottom Ground,73
-PDHennessy,Spain,Portugal,22,31,1,0,70.96774193548387,11,1,17,2,0,17.0,La Manga Club Bottom Ground,73
-PDHennessy,Spain,Gibraltar,6,8,0,0,75.0,0,0,0,0,0,0,La Manga Club Bottom Ground,6
-PDHennessy,Spain,Portugal,38,31,3,2,122.58064516129032,0,0,0,0,0,0,La Manga Club Bottom Ground,45
-PDHennessy,Spain,Gibraltar,7,13,0,0,53.84615384615385,0,0,0,0,0,0,La Manga Club Bottom Ground,3
-PDHennessy,Spain,Portugal,22,31,1,0,70.96774193548387,11,1,17,2,0,17.0,La Manga Club Bottom Ground,73
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PDHennessy,Spain,Gibraltar,6,8,0,0,75.0,0,0,0,0,0,0,La Manga Club Bottom Ground,0,0,2019,6
+PDHennessy,Spain,Portugal,22,31,1,0,70.96774193548387,11,1,17,2,0,17.0,La Manga Club Bottom Ground,0,0,2019,73
+PDHennessy,Spain,Portugal,38,31,3,2,122.58064516129032,0,0,0,0,0,0,La Manga Club Bottom Ground,0,0,2019,45
+PDHennessy,Spain,Gibraltar,7,13,0,0,53.84615384615385,0,0,0,0,0,0,La Manga Club Bottom Ground,0,0,2019,3

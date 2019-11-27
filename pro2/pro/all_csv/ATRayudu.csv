@@ -1,13 +1,34 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ATRayudu,India,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-ATRayudu,India,England,3,6,0,0,50.0,0,0,0,0,0,0,Edgbaston,-1
-ATRayudu,India,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-ATRayudu,India,England,3,6,0,0,50.0,0,0,0,0,0,0,Edgbaston,-1
-ATRayudu,India,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-ATRayudu,India,England,3,6,0,0,50.0,0,0,0,0,0,0,Edgbaston,-1
-ATRayudu,India,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,Barabati Stadium,-8
-ATRayudu,India,Zimbabwe,20,26,1,0,76.92307692307693,0,0,0,0,0,0,Harare Sports Club,21
-ATRayudu,India,Zimbabwe,19,16,4,0,118.75,0,0,0,0,0,0,Harare Sports Club,23
-ATRayudu,India,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-ATRayudu,India,England,3,6,0,0,50.0,0,0,0,0,0,0,Edgbaston,-1
-ATRayudu,India,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,Barabati Stadium,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ATRayudu,India,Zimbabwe,19,16,4,0,118.75,0,0,0,0,0,0,Harare Sports Club,0,0,2016,23
+ATRayudu,India,England,3,6,0,0,50.0,0,0,0,0,0,0,Edgbaston,0,2,2014,15
+ATRayudu,India,Zimbabwe,20,26,1,0,76.92307692307693,0,0,0,0,0,0,Harare Sports Club,0,0,2016,21
+ATRayudu,India,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,Barabati Stadium,0,0,2015,-8
+ATRayudu,India,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2015,-8
+ATRayudu,India,Bangladesh,16,21,2,0,76.19047619047619,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,26
+ATRayudu,India,Sri Lanka,121,119,10,4,101.68067226890756,0,0,0,0,0,0,Sardar Patel Stadium Motera,1,2,2014,183
+ATRayudu,India,Sri Lanka,18,24,1,0,75.0,5,0,12,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2014,19
+ATRayudu,India,New Zealand,20,40,2,0,50.0,0,0,0,0,0,0,Westpac Stadium,0,0,2014,18
+ATRayudu,India,England,53,66,3,2,80.3030303030303,0,0,0,0,0,0,Headingley,0,0,2014,68
+ATRayudu,India,Bangladesh,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,-5
+ATRayudu,India,Zimbabwe,41,50,3,0,82.0,0,0,0,0,0,0,Harare Sports Club,0,0,2015,44
+ATRayudu,India,Sri Lanka,35,49,3,0,71.42857142857143,18,3,16,1,0,5.333333333333333,Rajiv Gandhi International Stadium Uppal,0,0,2014,65
+ATRayudu,India,Sri Lanka,8,21,0,0,38.095238095238095,0,0,0,0,0,0,Eden Gardens,0,1,2014,10
+ATRayudu,India,Zimbabwe,41,47,7,0,87.2340425531915,0,0,0,0,0,0,Harare Sports Club,0,0,2016,48
+ATRayudu,India,West Indies,13,23,1,0,56.52173913043478,0,0,0,0,0,0,Nehru Stadium,0,0,2014,10
+ATRayudu,India,England,12,17,1,0,70.58823529411765,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,2,2015,29
+ATRayudu,India,Sri Lanka,27,20,3,0,135.0,0,0,0,0,0,0,Barabati Stadium,0,0,2014,30
+ATRayudu,India,Zimbabwe,124,135,11,1,91.85185185185185,0,0,0,0,0,0,Harare Sports Club,0,0,2015,153
+ATRayudu,India,West Indies,32,55,3,0,58.18181818181818,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2014,31
+ATRayudu,India,Bangladesh,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,3
+ATRayudu,India,England,23,54,2,0,42.592592592592595,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2015,19
+ATRayudu,India,England,64,81,6,0,79.01234567901234,12,2,8,1,0,4.0,Trent Bridge,1,0,2014,119
+ATRayudu,India,Sri Lanka,59,70,8,1,84.28571428571429,23,3,33,0,0,11.0,JSCA International Stadium Complex,0,2,2014,89
+ATRayudu,India,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,-8
+ATRayudu,India,West Indies,12,7,0,1,171.42857142857142,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2014,14
+ATRayudu,India,Zimbabwe,33,56,2,0,58.92857142857143,0,0,0,0,0,0,Harare Sports Club,0,0,2013,31
+ATRayudu,India,Pakistan,58,64,4,1,90.625,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,72
+ATRayudu,India,Zimbabwe,5,29,0,0,17.24137931034483,0,0,0,0,0,0,Harare Sports Club,0,0,2013,-1
+ATRayudu,India,Zimbabwe,63,86,4,0,73.25581395348837,0,0,0,0,0,0,Harare Sports Club,0,0,2013,75
+ATRayudu,India,Zimbabwe,62,121,5,0,51.2396694214876,0,0,0,0,0,0,Harare Sports Club,0,1,2016,79
+ATRayudu,India,Bangladesh,9,16,0,0,56.25,17,2,17,0,0,8.5,Khan Shaheb Osman Ali Stadium,0,0,2014,5
+ATRayudu,India,Australia,23,27,2,1,85.18518518518519,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2015,27

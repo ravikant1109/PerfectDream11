@@ -1,39 +1,74 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-FBehardien,South Africa,England,3,8,0,0,37.5,0,0,0,0,0,0,Sophia Gardens,-3
-FBehardien,South Africa,Pakistan,18,21,2,0,85.71428571428571,0,0,0,0,0,0,R Premadasa Stadium,20
-FBehardien,South Africa,India,32,23,3,1,139.1304347826087,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,37
-FBehardien,South Africa,England,64,52,4,2,123.07692307692308,0,0,0,0,0,0,The Rose Bowl,80
-FBehardien,South Africa,England,3,8,0,0,37.5,0,0,0,0,0,0,Sophia Gardens,-3
-FBehardien,South Africa,Pakistan,18,21,2,0,85.71428571428571,0,0,0,0,0,0,R Premadasa Stadium,20
-FBehardien,South Africa,India,32,23,3,1,139.1304347826087,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,37
-FBehardien,South Africa,England,64,52,4,2,123.07692307692308,0,0,0,0,0,0,The Rose Bowl,80
-FBehardien,South Africa,England,3,8,0,0,37.5,0,0,0,0,0,0,Sophia Gardens,-3
-FBehardien,South Africa,Pakistan,18,21,2,0,85.71428571428571,0,0,0,0,0,0,R Premadasa Stadium,20
-FBehardien,South Africa,India,32,23,3,1,139.1304347826087,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,37
-FBehardien,South Africa,England,64,52,4,2,123.07692307692308,0,0,0,0,0,0,The Rose Bowl,80
-FBehardien,South Africa,India,11,18,0,0,61.111111111111114,0,0,0,0,0,0,Barabati Stadium,9
-FBehardien,South Africa,Sri Lanka,0,0,0,0,0,17,2,15,2,0,7.5,Feroz Shah Kotla,50
-FBehardien,South Africa,Australia,31,30,2,1,103.33333333333334,0,0,0,0,0,0,R Premadasa Stadium,35
-FBehardien,South Africa,Australia,1,5,0,0,20.0,0,0,0,0,0,0,Stadium Australia,-5
-FBehardien,South Africa,New Zealand,4,2,1,0,200.0,0,0,0,0,0,0,Kingsmead,5
-FBehardien,South Africa,Sri Lanka,6,6,0,0,100.0,0,0,0,0,0,0,Newlands,6
-FBehardien,South Africa,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,SuperSport Park,-8
-FBehardien,South Africa,New Zealand,5,2,1,0,250.0,0,0,0,0,0,0,Buffalo Park,6
-FBehardien,South Africa,India,20,11,2,0,181.8181818181818,0,0,0,0,0,0,New Wanderers Stadium,22
-FBehardien,South Africa,New Zealand,22,14,2,1,157.14285714285714,0,0,0,0,0,0,St George's Park,26
-FBehardien,South Africa,New Zealand,36,28,3,1,128.57142857142858,5,0,4,1,0,0,SuperSport Park,66
-FBehardien,South Africa,Sri Lanka,27,22,2,0,122.72727272727273,0,0,0,0,0,0,New Wanderers Stadium,29
-FBehardien,South Africa,Sri Lanka,5,4,0,0,125.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,5
-FBehardien,South Africa,Australia,5,10,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,1
-FBehardien,South Africa,England,32,21,2,2,152.38095238095238,0,0,0,0,0,0,County Ground,38
-FBehardien,South Africa,West Indies,18,12,0,1,150.0,5,0,8,0,0,0,Newlands,20
-FBehardien,South Africa,India,13,12,1,0,108.33333333333333,0,0,0,0,0,0,R Premadasa Stadium,14
-FBehardien,South Africa,Sri Lanka,31,19,3,1,163.1578947368421,0,0,0,0,0,0,SuperSport Park,36
-FBehardien,South Africa,Australia,3,5,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,1
-FBehardien,South Africa,New Zealand,8,7,0,1,114.28571428571428,0,0,0,0,0,0,Eden Park,10
-FBehardien,South Africa,West Indies,8,13,0,0,61.53846153846154,0,0,0,0,0,0,New Wanderers Stadium,6
-FBehardien,South Africa,England,3,8,0,0,37.5,0,0,0,0,0,0,Sophia Gardens,-3
-FBehardien,South Africa,Pakistan,18,21,2,0,85.71428571428571,0,0,0,0,0,0,R Premadasa Stadium,20
-FBehardien,South Africa,India,32,23,3,1,139.1304347826087,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,37
-FBehardien,South Africa,England,64,52,4,2,123.07692307692308,0,0,0,0,0,0,The Rose Bowl,80
-FBehardien,South Africa,India,11,18,0,0,61.111111111111114,0,0,0,0,0,0,Barabati Stadium,9
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+FBehardien,South Africa,New Zealand,5,2,1,0,250.0,0,0,0,0,0,0,Buffalo Park,0,0,2012,6
+FBehardien,South Africa,England,64,52,4,2,123.07692307692308,0,0,0,0,0,0,The Rose Bowl,0,0,2017,80
+FBehardien,South Africa,Australia,3,5,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2016,1
+FBehardien,South Africa,New Zealand,8,7,0,1,114.28571428571428,0,0,0,0,0,0,Eden Park,0,0,2017,10
+FBehardien,South Africa,Sri Lanka,0,0,0,0,0,17,2,15,2,0,7.5,Feroz Shah Kotla,0,1,2016,58
+FBehardien,South Africa,Sri Lanka,31,19,3,1,163.1578947368421,0,0,0,0,0,0,SuperSport Park,0,0,2017,36
+FBehardien,South Africa,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,SuperSport Park,0,1,2013,0
+FBehardien,South Africa,New Zealand,36,28,3,1,128.57142857142858,5,0,4,1,0,0,SuperSport Park,0,0,2015,66
+FBehardien,South Africa,Sri Lanka,6,6,0,0,100.0,0,0,0,0,0,0,Newlands,0,2,2017,22
+FBehardien,South Africa,Australia,1,5,0,0,20.0,0,0,0,0,0,0,Stadium Australia,0,0,2014,-5
+FBehardien,South Africa,West Indies,18,12,0,1,150.0,5,0,8,0,0,0,Newlands,0,0,2015,20
+FBehardien,South Africa,Sri Lanka,5,4,0,0,125.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,5
+FBehardien,South Africa,Pakistan,18,21,2,0,85.71428571428571,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,20
+FBehardien,South Africa,England,3,8,0,0,37.5,0,0,0,0,0,0,Sophia Gardens,0,0,2017,-3
+FBehardien,South Africa,New Zealand,4,2,1,0,200.0,0,0,0,0,0,0,Kingsmead,1,0,2015,17
+FBehardien,South Africa,India,20,11,2,0,181.8181818181818,0,0,0,0,0,0,New Wanderers Stadium,0,0,2012,22
+FBehardien,South Africa,Australia,31,30,2,1,103.33333333333334,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,35
+FBehardien,South Africa,England,32,21,2,2,152.38095238095238,0,0,0,0,0,0,County Ground,0,1,2017,46
+FBehardien,South Africa,West Indies,8,13,0,0,61.53846153846154,0,0,0,0,0,0,New Wanderers Stadium,0,2,2015,22
+FBehardien,South Africa,India,13,12,1,0,108.33333333333333,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,14
+FBehardien,South Africa,Australia,5,10,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2014,1
+FBehardien,South Africa,Sri Lanka,27,22,2,0,122.72727272727273,0,0,0,0,0,0,New Wanderers Stadium,0,1,2017,37
+FBehardien,South Africa,India,11,18,0,0,61.111111111111114,0,0,0,0,0,0,Barabati Stadium,0,0,2015,9
+FBehardien,South Africa,New Zealand,22,14,2,1,157.14285714285714,0,0,0,0,0,0,St George's Park,0,0,2012,26
+FBehardien,South Africa,India,32,23,3,1,139.1304347826087,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2015,37
+FBehardien,South Africa,India,22,38,1,0,57.89473684210527,18,3,17,0,0,5.666666666666667,MA Chidambaram Stadium Chepauk,0,0,2015,21
+FBehardien,South Africa,West Indies,12,9,1,0,133.33333333333331,0,0,0,0,0,0,Kingsmead,1,0,2015,25
+FBehardien,South Africa,Australia,12,12,2,0,100.0,47,7,39,1,0,5.571428571428571,Manuka Oval,0,0,2014,41
+FBehardien,South Africa,Australia,62,83,4,1,74.69879518072288,0,0,0,0,0,0,Providence Stadium,0,0,2016,76
+FBehardien,South Africa,New Zealand,40,28,6,1,142.85714285714286,5,0,9,0,0,0,Kingsmead,0,0,2015,48
+FBehardien,South Africa,New Zealand,0,1,0,0,0.0,0,0,0,0,0,0,Seddon Park,0,2,2017,8
+FBehardien,South Africa,Australia,5,6,0,0,83.33333333333334,11,1,15,0,0,15.0,SuperSport Park,0,1,2016,13
+FBehardien,South Africa,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kingsmead,0,2,2013,11
+FBehardien,South Africa,New Zealand,70,87,4,1,80.45977011494253,12,2,19,0,0,9.5,Senwes Park,0,0,2015,82
+FBehardien,South Africa,Australia,0,1,0,0,0.0,48,8,42,1,0,5.25,Western Australia Cricket Association Ground,0,0,2014,19
+FBehardien,South Africa,West Indies,12,18,0,0,66.66666666666666,24,4,21,2,0,5.25,St George's Park,0,1,2015,70
+FBehardien,South Africa,Pakistan,34,14,3,2,242.85714285714283,5,0,9,0,0,0,Chevrolet Park,0,1,2013,49
+FBehardien,South Africa,Pakistan,6,6,0,0,100.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2013,6
+FBehardien,South Africa,England,38,42,2,0,90.47619047619048,0,0,0,0,0,0,New Wanderers Stadium,0,1,2016,48
+FBehardien,South Africa,West Indies,0,0,0,0,0,11,1,5,0,0,5.0,Buffalo Park,0,0,2015,0
+FBehardien,South Africa,Australia,12,14,1,0,85.71428571428571,0,0,0,0,0,0,St George's Park,0,0,2016,13
+FBehardien,South Africa,Sri Lanka,1,24,0,0,4.166666666666666,23,3,28,0,0,9.333333333333334,R Premadasa Stadium,0,0,2013,-7
+FBehardien,South Africa,West Indies,0,0,0,0,0,35,5,39,1,0,7.8,New Wanderers Stadium,0,2,2015,41
+FBehardien,South Africa,Sri Lanka,2,4,0,0,50.0,36,6,20,3,0,3.3333333333333335,Pallekele International Cricket Stadium,0,0,2013,79
+FBehardien,South Africa,Pakistan,58,84,5,0,69.04761904761905,0,0,0,0,0,0,SuperSport Park,0,0,2013,69
+FBehardien,South Africa,England,23,28,1,0,82.14285714285714,36,6,35,0,0,5.833333333333333,St George's Park,0,0,2016,26
+FBehardien,South Africa,Australia,20,22,2,0,90.9090909090909,5,0,5,0,0,0,Western Australia Cricket Association Ground,0,0,2014,22
+FBehardien,South Africa,Sri Lanka,32,21,1,2,152.38095238095238,5,0,17,0,0,0,SuperSport Park,1,0,2017,49
+FBehardien,South Africa,Bangladesh,36,44,2,1,81.81818181818183,11,1,11,0,0,11.0,Shere Bangla National Stadium,0,0,2015,40
+FBehardien,South Africa,Australia,13,14,1,0,92.85714285714286,0,0,0,0,0,0,New Wanderers Stadium,0,1,2016,22
+FBehardien,South Africa,India,33,37,0,1,89.1891891891892,11,1,9,0,0,9.0,Saurashtra Cricket Association Stadium,0,0,2015,35
+FBehardien,South Africa,England,13,18,0,1,72.22222222222221,0,0,0,0,0,0,Newlands,0,1,2016,23
+FBehardien,South Africa,Sri Lanka,0,2,0,0,0.0,7,1,14,0,0,14.0,Pallekele International Cricket Stadium,0,0,2013,-8
+FBehardien,South Africa,Ireland,50,23,3,3,217.39130434782606,0,0,0,0,0,0,Willowmoore Park,0,0,2016,67
+FBehardien,South Africa,Pakistan,35,36,3,0,97.22222222222221,17,2,11,1,0,5.5,Willowmoore Park,0,1,2013,73
+FBehardien,South Africa,England,17,26,0,0,65.38461538461539,0,0,0,0,0,0,The Rose Bowl,0,0,2017,15
+FBehardien,South Africa,West Indies,10,5,0,1,200.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2015,12
+FBehardien,South Africa,New Zealand,4,9,0,0,44.44444444444444,11,1,10,0,0,10.0,Senwes Park,0,0,2013,-2
+FBehardien,South Africa,England,4,1,0,0,400.0,30,5,45,1,0,9.0,Mangaung Oval,0,1,2016,37
+FBehardien,South Africa,West Indies,5,2,0,0,250.0,35,5,40,1,0,8.0,SuperSport Park,0,0,2015,30
+FBehardien,South Africa,New Zealand,15,10,1,1,150.0,17,2,13,0,0,6.5,SuperSport Park,0,1,2015,26
+FBehardien,South Africa,India,18,33,0,0,54.54545454545454,5,0,4,0,0,0,Holkar Cricket Stadium,1,0,2015,26
+FBehardien,South Africa,Australia,63,41,7,2,153.65853658536585,29,4,20,0,0,5.0,Sydney Cricket Ground,0,1,2014,92
+FBehardien,South Africa,West Indies,35,59,4,0,59.32203389830508,0,0,0,0,0,0,Kensington Oval Bridgetown,1,0,2016,47
+FBehardien,South Africa,New Zealand,31,40,1,1,77.5,0,0,0,0,0,0,De Beers Diamond Oval,0,0,2013,34
+FBehardien,South Africa,India,16,10,0,2,160.0,47,7,55,0,0,7.857142857142857,Wankhede Stadium,0,1,2015,28
+FBehardien,South Africa,England,0,0,0,0,0,11,1,13,0,0,13.0,SuperSport Park,0,1,2016,8
+FBehardien,South Africa,Australia,22,23,2,0,95.65217391304348,18,3,13,0,0,4.333333333333333,Melbourne Cricket Ground,0,0,2014,28
+FBehardien,South Africa,Australia,4,8,0,0,50.0,0,0,0,0,0,0,Warner Park Basseterre,0,1,2016,8
+FBehardien,South Africa,Zimbabwe,0,0,0,0,0,30,5,41,0,0,8.2,Seddon Park,0,0,2015,0
+FBehardien,South Africa,Bangladesh,12,17,1,0,70.58823529411765,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2015,13
+FBehardien,South Africa,United Arab Emirates,64,31,5,3,206.4516129032258,25,4,11,0,1,2.75,Westpac Stadium,0,1,2015,105
+FBehardien,South Africa,Sri Lanka,36,21,4,1,171.42857142857142,5,0,10,0,0,0,Newlands,0,1,2017,50

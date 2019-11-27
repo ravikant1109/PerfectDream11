@@ -1,46 +1,89 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RRampaul,West Indies,India,0,0,0,0,0,27,4,39,0,0,9.75,Queen's Park Oval Port of Spain,-2
-RRampaul,West Indies,Sri Lanka,0,0,0,0,0,27,4,40,1,0,10.0,Pallekele International Cricket Stadium,23
-RRampaul,West Indies,England,0,0,0,0,0,17,2,31,0,0,15.5,Kensington Oval Bridgetown,-6
-RRampaul,West Indies,England,0,0,0,0,0,18,3,30,0,0,10.0,Kensington Oval Bridgetown,-2
-RRampaul,West Indies,England,0,0,0,0,0,23,3,37,2,1,12.333333333333334,Pallekele International Cricket Stadium,52
-RRampaul,West Indies,Ireland,0,0,0,0,0,23,3,20,1,0,6.666666666666667,R Premadasa Stadium,25
-RRampaul,West Indies,India,0,0,0,0,0,27,4,39,0,0,9.75,Queen's Park Oval Port of Spain,-2
-RRampaul,West Indies,Sri Lanka,0,0,0,0,0,27,4,40,1,0,10.0,Pallekele International Cricket Stadium,23
-RRampaul,West Indies,England,0,0,0,0,0,17,2,31,0,0,15.5,Kensington Oval Bridgetown,-6
-RRampaul,West Indies,England,0,0,0,0,0,18,3,30,0,0,10.0,Kensington Oval Bridgetown,-2
-RRampaul,West Indies,England,0,0,0,0,0,23,3,37,2,1,12.333333333333334,Pallekele International Cricket Stadium,52
-RRampaul,West Indies,Ireland,0,0,0,0,0,23,3,20,1,0,6.666666666666667,R Premadasa Stadium,25
-RRampaul,West Indies,India,0,0,0,0,0,27,4,39,0,0,9.75,Queen's Park Oval Port of Spain,-2
-RRampaul,West Indies,Sri Lanka,0,0,0,0,0,27,4,40,1,0,10.0,Pallekele International Cricket Stadium,23
-RRampaul,West Indies,England,0,0,0,0,0,17,2,31,0,0,15.5,Kensington Oval Bridgetown,-6
-RRampaul,West Indies,England,0,0,0,0,0,18,3,30,0,0,10.0,Kensington Oval Bridgetown,-2
-RRampaul,West Indies,England,0,0,0,0,0,23,3,37,2,1,12.333333333333334,Pallekele International Cricket Stadium,52
-RRampaul,West Indies,Ireland,0,0,0,0,0,23,3,20,1,0,6.666666666666667,R Premadasa Stadium,25
-RRampaul,West Indies,Bangladesh,0,0,0,0,0,25,4,36,2,0,9.0,New Wanderers Stadium,50
-RRampaul,West Indies,Sri Lanka,0,0,0,0,0,18,3,31,1,0,10.333333333333334,R Premadasa Stadium,21
-RRampaul,West Indies,Bangladesh,0,0,0,0,0,23,3,28,2,0,9.333333333333334,Shere Bangla National Stadium,48
-RRampaul,West Indies,England,0,1,0,0,0.0,23,3,27,0,0,9.0,Kennington Oval,-8
-RRampaul,West Indies,Australia,0,0,0,0,0,22,3,17,3,0,5.666666666666667,R Premadasa Stadium,77
-RRampaul,West Indies,South Africa,0,0,0,0,0,23,3,27,0,0,9.0,New Wanderers Stadium,0
-RRampaul,West Indies,Zimbabwe,3,10,0,0,30.0,26,4,34,1,0,8.5,Queen's Park Oval Port of Spain,22
-RRampaul,West Indies,England,0,0,0,0,0,25,4,37,2,0,9.25,Trent Bridge,48
-RRampaul,West Indies,England,0,0,0,0,0,26,4,39,2,0,9.75,Kennington Oval,48
-RRampaul,West Indies,New Zealand,1,3,0,0,33.33333333333333,23,3,23,1,0,7.666666666666667,Pallekele International Cricket Stadium,20
-RRampaul,West Indies,Ireland,8,8,0,0,100.0,20,3,18,3,0,6.0,Providence Stadium,83
-RRampaul,West Indies,Sri Lanka,0,0,0,0,0,23,3,20,3,0,6.666666666666667,R Premadasa Stadium,75
-RRampaul,West Indies,England,0,0,0,0,0,21,3,52,0,0,17.333333333333332,Providence Stadium,-6
-RRampaul,West Indies,Pakistan,0,0,0,0,0,27,4,31,3,0,7.75,Beausejour Stadium Gros Islet,75
-RRampaul,West Indies,Ireland,0,0,0,0,0,20,3,31,1,0,10.333333333333334,Sabina Park Kingston,21
-RRampaul,West Indies,Australia,0,0,0,0,0,7,1,23,0,0,23.0,R Premadasa Stadium,0
-RRampaul,West Indies,South Africa,0,0,0,0,0,25,4,53,1,0,13.25,New Wanderers Stadium,19
-RRampaul,West Indies,India,0,0,0,0,0,27,4,39,0,0,9.75,Queen's Park Oval Port of Spain,-2
-RRampaul,West Indies,Sri Lanka,0,0,0,0,0,27,4,40,1,0,10.0,Pallekele International Cricket Stadium,23
-RRampaul,West Indies,England,0,0,0,0,0,17,2,31,0,0,15.5,Kensington Oval Bridgetown,-6
-RRampaul,West Indies,England,0,0,0,0,0,18,3,30,0,0,10.0,Kensington Oval Bridgetown,-2
-RRampaul,West Indies,England,0,0,0,0,0,23,3,37,2,1,12.333333333333334,Pallekele International Cricket Stadium,52
-RRampaul,West Indies,Ireland,0,0,0,0,0,23,3,20,1,0,6.666666666666667,R Premadasa Stadium,25
-RRampaul,West Indies,Bangladesh,0,0,0,0,0,25,4,36,2,0,9.0,New Wanderers Stadium,50
-RRampaul,West Indies,Sri Lanka,0,0,0,0,0,18,3,31,1,0,10.333333333333334,R Premadasa Stadium,21
-RRampaul,West Indies,Bangladesh,0,0,0,0,0,23,3,28,2,0,9.333333333333334,Shere Bangla National Stadium,48
-RRampaul,West Indies,England,0,1,0,0,0.0,23,3,27,0,0,9.0,Kennington Oval,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,25,4,36,2,0,9.0,New Wanderers Stadium,0,0,2007,50
+RRampaul,West Indies,England,0,0,0,0,0,18,3,30,0,0,10.0,Kensington Oval Bridgetown,0,0,2014,-2
+RRampaul,West Indies,England,0,0,0,0,0,23,3,37,2,1,12.333333333333334,Pallekele International Cricket Stadium,0,0,2012,52
+RRampaul,West Indies,Sri Lanka,0,0,0,0,0,27,4,40,1,0,10.0,Pallekele International Cricket Stadium,0,0,2012,23
+RRampaul,West Indies,South Africa,0,0,0,0,0,23,3,27,0,0,9.0,New Wanderers Stadium,0,0,2008,0
+RRampaul,West Indies,Australia,0,0,0,0,0,7,1,23,0,0,23.0,R Premadasa Stadium,0,0,2012,0
+RRampaul,West Indies,Pakistan,0,0,0,0,0,27,4,31,3,0,7.75,Beausejour Stadium Gros Islet,0,0,2011,75
+RRampaul,West Indies,England,0,0,0,0,0,25,4,37,2,0,9.25,Trent Bridge,0,0,2012,48
+RRampaul,West Indies,Sri Lanka,0,0,0,0,0,23,3,20,3,0,6.666666666666667,R Premadasa Stadium,0,0,2015,75
+RRampaul,West Indies,Ireland,0,0,0,0,0,23,3,20,1,0,6.666666666666667,R Premadasa Stadium,0,0,2012,25
+RRampaul,West Indies,England,0,0,0,0,0,21,3,52,0,0,17.333333333333332,Providence Stadium,0,0,2010,-6
+RRampaul,West Indies,Ireland,0,0,0,0,0,20,3,31,1,0,10.333333333333334,Sabina Park Kingston,0,0,2014,21
+RRampaul,West Indies,England,0,0,0,0,0,17,2,31,0,0,15.5,Kensington Oval Bridgetown,0,1,2014,2
+RRampaul,West Indies,Ireland,8,8,0,0,100.0,20,3,18,3,0,6.0,Providence Stadium,0,0,2010,83
+RRampaul,West Indies,New Zealand,1,3,0,0,33.33333333333333,23,3,23,1,0,7.666666666666667,Pallekele International Cricket Stadium,0,0,2012,20
+RRampaul,West Indies,England,0,1,0,0,0.0,23,3,27,0,0,9.0,Kennington Oval,0,0,2007,-8
+RRampaul,West Indies,India,0,0,0,0,0,27,4,39,0,0,9.75,Queen's Park Oval Port of Spain,0,0,2011,-2
+RRampaul,West Indies,England,0,0,0,0,0,26,4,39,2,0,9.75,Kennington Oval,0,0,2007,48
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,23,3,28,2,0,9.333333333333334,Shere Bangla National Stadium,0,0,2011,48
+RRampaul,West Indies,Sri Lanka,0,0,0,0,0,18,3,31,1,0,10.333333333333334,R Premadasa Stadium,0,0,2012,21
+RRampaul,West Indies,South Africa,0,0,0,0,0,25,4,53,1,0,13.25,New Wanderers Stadium,0,0,2007,19
+RRampaul,West Indies,Australia,0,0,0,0,0,22,3,17,3,0,5.666666666666667,R Premadasa Stadium,0,0,2012,77
+RRampaul,West Indies,Zimbabwe,3,10,0,0,30.0,26,4,34,1,0,8.5,Queen's Park Oval Port of Spain,0,0,2010,22
+RRampaul,West Indies,New Zealand,0,0,0,0,0,17,2,64,0,0,32.0,Queenstown Events Centre,0,0,2014,-6
+RRampaul,West Indies,Pakistan,9,14,1,0,64.28571428571429,53,8,32,4,0,4.0,Kensington Oval Bridgetown,0,0,2011,120
+RRampaul,West Indies,India,2,7,0,0,28.57142857142857,35,5,32,0,0,6.4,Kennington Oval,0,0,2013,-4
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,34,5,21,2,1,4.2,National Cricket Stadium St George's,0,0,2014,62
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,62,10,48,1,1,4.8,National Cricket Stadium St George's,0,0,2014,37
+RRampaul,West Indies,Zimbabwe,14,6,0,1,233.33333333333334,24,4,24,0,0,6.0,Arnos Vale Ground Kingstown,0,0,2010,16
+RRampaul,West Indies,India,1,16,0,0,6.25,48,8,39,1,1,4.875,Nehru Stadium,0,0,2013,32
+RRampaul,West Indies,England,7,9,1,0,77.77777777777779,37,6,31,0,0,5.166666666666667,County Ground,0,0,2009,10
+RRampaul,West Indies,Sri Lanka,0,0,0,0,0,62,10,39,3,0,3.9,Sabina Park Kingston,0,0,2013,81
+RRampaul,West Indies,New Zealand,9,11,2,0,81.81818181818183,60,10,62,0,0,6.2,Warner Park Basseterre,0,0,2012,11
+RRampaul,West Indies,India,0,0,0,0,0,24,4,29,0,0,7.25,Beausejour Stadium Gros Islet,1,0,2009,12
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,62,10,30,4,2,3.0,Warner Park Basseterre,0,0,2014,130
+RRampaul,West Indies,Sri Lanka,1,1,0,0,100.0,35,5,40,1,0,8.0,R Premadasa Stadium,0,0,2015,26
+RRampaul,West Indies,South Africa,2,5,0,0,40.0,43,7,34,1,0,4.857142857142857,SuperSport Park,0,0,2008,25
+RRampaul,West Indies,Pakistan,0,0,0,0,0,60,10,45,4,1,4.5,Providence Stadium,0,0,2011,120
+RRampaul,West Indies,New Zealand,0,0,0,0,0,53,8,27,2,0,3.375,Eden Park,0,0,2013,56
+RRampaul,West Indies,India,0,0,0,0,0,61,10,59,2,1,5.9,Green Park,0,0,2013,60
+RRampaul,West Indies,Sri Lanka,0,0,0,0,0,31,5,50,1,0,10.0,Sinhalese Sports Club Ground,0,0,2011,23
+RRampaul,West Indies,England,24,44,3,0,54.54545454545454,56,9,38,1,2,4.222222222222222,Lord's,0,0,2007,68
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,61,10,40,2,0,4.0,Shere Bangla National Stadium,0,0,2011,54
+RRampaul,West Indies,England,0,0,0,0,0,51,8,57,1,0,7.125,Sir Vivian Richards Stadium North Sound,0,1,2014,33
+RRampaul,West Indies,England,0,1,0,0,0.0,24,4,19,1,0,4.75,Beausejour Stadium Gros Islet,0,0,2009,21
+RRampaul,West Indies,South Africa,5,8,0,0,62.5,48,8,59,0,0,7.375,Sir Vivian Richards Stadium North Sound,0,0,2010,3
+RRampaul,West Indies,India,9,8,1,0,112.5,62,10,59,2,0,5.9,Queen's Park Oval Port of Spain,0,0,2011,62
+RRampaul,West Indies,India,0,0,0,0,0,61,10,37,4,2,3.7,Sabina Park Kingston,0,0,2009,130
+RRampaul,West Indies,Zimbabwe,26,12,1,3,216.66666666666666,51,8,27,1,2,3.375,Harare Sports Club,0,0,2007,80
+RRampaul,West Indies,Pakistan,0,0,0,0,0,60,10,37,0,2,3.7,Kensington Oval Bridgetown,0,1,2011,30
+RRampaul,West Indies,Sri Lanka,2,4,0,0,50.0,32,5,34,1,0,6.8,Pallekele International Cricket Stadium,0,0,2015,23
+RRampaul,West Indies,Australia,0,0,0,0,0,59,9,73,1,0,8.11111111111111,Brisbane Cricket Ground Woolloongabba,0,1,2010,33
+RRampaul,West Indies,Bangladesh,25,36,3,1,69.44444444444444,43,7,42,0,1,6.0,Sheikh Abu Naser Stadium,0,0,2012,36
+RRampaul,West Indies,New Zealand,0,0,0,0,0,56,9,54,3,0,6.0,Sabina Park Kingston,0,0,2012,75
+RRampaul,West Indies,Zimbabwe,0,0,0,0,0,48,8,24,2,1,3.0,Arnos Vale Ground Kingstown,0,0,2010,64
+RRampaul,West Indies,Zimbabwe,0,0,0,0,0,62,10,28,2,1,2.8,Arnos Vale Ground Kingstown,0,0,2010,64
+RRampaul,West Indies,India,0,0,0,0,0,49,8,49,2,1,6.125,Nehru Stadium,0,0,2014,58
+RRampaul,West Indies,South Africa,0,0,0,0,0,38,6,39,0,1,6.5,New Wanderers Stadium,0,0,2008,8
+RRampaul,West Indies,India,0,0,0,0,0,61,10,60,4,0,6.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2013,108
+RRampaul,West Indies,Pakistan,0,0,0,0,0,64,10,39,1,0,3.9,Kennington Oval,0,2,2013,47
+RRampaul,West Indies,New Zealand,0,0,0,0,0,60,10,43,2,0,4.3,Sabina Park Kingston,0,0,2012,54
+RRampaul,West Indies,Australia,4,7,0,0,57.14285714285714,61,10,69,2,0,6.9,Melbourne Cricket Ground,0,0,2010,50
+RRampaul,West Indies,India,1,4,0,0,25.0,60,10,51,5,0,5.1,MA Chidambaram Stadium Chepauk,0,1,2011,146
+RRampaul,West Indies,England,1,6,0,0,16.666666666666664,59,9,40,1,1,4.444444444444445,Sir Vivian Richards Stadium North Sound,0,0,2014,32
+RRampaul,West Indies,India,16,13,1,1,123.07692307692308,49,8,47,1,0,5.875,Feroz Shah Kotla,0,0,2014,46
+RRampaul,West Indies,Zimbabwe,0,1,0,0,0.0,43,7,29,0,1,4.142857142857143,Harare Sports Club,0,1,2007,12
+RRampaul,West Indies,Australia,18,23,3,0,78.26086956521739,36,6,36,0,0,6.0,Adelaide Oval,0,0,2010,21
+RRampaul,West Indies,Australia,0,0,0,0,0,60,10,63,4,0,6.3,Sydney Cricket Ground,0,0,2010,108
+RRampaul,West Indies,England,0,0,0,0,0,46,7,25,1,0,3.5714285714285716,Trent Bridge,0,0,2007,31
+RRampaul,West Indies,India,10,31,1,0,32.25806451612903,56,9,66,0,0,7.333333333333333,Holkar Cricket Stadium,0,1,2011,13
+RRampaul,West Indies,England,9,10,1,0,90.0,61,10,68,1,0,6.8,The Rose Bowl,0,0,2012,35
+RRampaul,West Indies,Ireland,0,0,0,0,0,37,6,31,1,0,5.166666666666667,Clontarf Cricket Club Ground,0,0,2007,27
+RRampaul,West Indies,Zimbabwe,0,0,0,0,0,37,6,16,0,1,2.6666666666666665,Queens Sports Club,0,0,2007,14
+RRampaul,West Indies,South Africa,0,0,0,0,0,38,6,41,1,0,6.833333333333333,Sophia Gardens,0,0,2013,25
+RRampaul,West Indies,South Africa,7,11,1,0,63.63636363636363,59,9,46,1,1,5.111111111111111,Windsor Park Roseau,0,0,2010,41
+RRampaul,West Indies,England,0,0,0,0,0,62,10,54,1,0,5.4,Sir Vivian Richards Stadium North Sound,0,0,2014,27
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,64,10,50,5,2,5.0,Sheikh Abu Naser Stadium,0,0,2012,159
+RRampaul,West Indies,India,86,66,6,6,130.3030303030303,60,10,63,2,1,6.3,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2011,170
+RRampaul,West Indies,South Africa,0,0,0,0,0,53,8,59,0,0,7.375,Windsor Park Roseau,0,0,2010,0
+RRampaul,West Indies,South Africa,3,8,0,0,37.5,60,10,46,2,1,4.6,Sir Vivian Richards Stadium North Sound,0,1,2010,67
+RRampaul,West Indies,England,16,10,1,1,160.0,24,4,29,0,0,7.25,Edgbaston,0,1,2009,27
+RRampaul,West Indies,India,0,0,0,0,0,54,9,58,4,1,6.444444444444445,Sardar Patel Stadium Motera,0,0,2011,116
+RRampaul,West Indies,India,14,16,3,0,87.5,41,6,32,1,0,5.333333333333333,Queen's Park Oval Port of Spain,0,0,2011,44
+RRampaul,West Indies,South Africa,1,8,0,0,12.5,17,2,33,0,0,16.5,Newlands,0,0,2008,-11
+RRampaul,West Indies,Sri Lanka,1,10,0,0,10.0,43,7,27,1,0,3.857142857142857,Sinhalese Sports Club Ground,0,0,2011,26
+RRampaul,West Indies,Australia,3,10,0,0,30.0,47,7,47,2,0,6.714285714285714,Melbourne Cricket Ground,0,0,2010,47
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,59,9,27,2,2,3.0,Shere Bangla National Stadium,0,0,2011,72
+RRampaul,West Indies,Bangladesh,0,0,0,0,0,24,4,19,0,0,4.75,Shere Bangla National Stadium,0,0,2012,4

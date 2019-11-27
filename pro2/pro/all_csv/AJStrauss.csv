@@ -1,8 +1,82 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,-8
-AJStrauss,England,West Indies,22,26,2,0,84.61538461538461,0,0,0,0,0,0,Queen's Park Oval Port of Spain,24
-AJStrauss,England,Australia,18,17,1,0,105.88235294117648,0,0,0,0,0,0,The Rose Bowl,19
-AJStrauss,England,Sri Lanka,33,23,6,0,143.47826086956522,0,0,0,0,0,0,The Rose Bowl,39
-AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AJStrauss,England,Sri Lanka,33,23,6,0,143.47826086956522,0,0,0,0,0,0,The Rose Bowl,0,1,2006,47
+AJStrauss,England,Australia,18,17,1,0,105.88235294117648,0,0,0,0,0,0,The Rose Bowl,0,0,2005,19
+AJStrauss,England,West Indies,22,26,2,0,84.61538461538461,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2009,24
+AJStrauss,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,0,0,2006,-8
+AJStrauss,England,West Indies,7,13,1,0,53.84615384615385,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2007,4
+AJStrauss,England,Bangladesh,50,39,7,0,128.2051282051282,0,0,0,0,0,0,Trent Bridge,1,0,2010,77
+AJStrauss,England,South Africa,0,4,0,0,0.0,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,-8
+AJStrauss,England,Australia,63,75,8,0,84.0,0,0,0,0,0,0,Lord's,0,0,2009,79
+AJStrauss,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2011,0
+AJStrauss,England,West Indies,31,39,3,1,79.48717948717949,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,1,2011,44
+AJStrauss,England,India,74,86,10,0,86.04651162790698,0,0,0,0,0,0,Keenan Stadium,0,0,2006,92
+AJStrauss,England,Pakistan,41,46,3,2,89.13043478260869,0,0,0,0,0,0,Riverside Ground,0,0,2010,48
+AJStrauss,England,Netherlands,88,84,9,0,104.76190476190477,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,105
+AJStrauss,England,Australia,7,12,0,0,58.333333333333336,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,3
+AJStrauss,England,Australia,37,46,5,0,80.43478260869566,0,0,0,0,0,0,Kennington Oval,0,1,2010,50
+AJStrauss,England,Australia,6,13,1,0,46.15384615384615,0,0,0,0,0,0,Lord's,0,0,2010,1
+AJStrauss,England,Sri Lanka,12,16,1,0,75.0,0,0,0,0,0,0,Lord's,0,2,2006,29
+AJStrauss,England,Australia,51,56,3,2,91.07142857142857,0,0,0,0,0,0,Sophia Gardens,0,0,2010,66
+AJStrauss,England,Pakistan,2,16,0,0,12.5,0,0,0,0,0,0,Sophia Gardens,0,0,2006,-4
+AJStrauss,England,West Indies,4,19,0,0,21.052631578947366,0,0,0,0,0,0,County Ground,1,1,2009,18
+AJStrauss,England,South Africa,32,60,6,0,53.333333333333336,0,0,0,0,0,0,St George's Park,0,1,2009,42
+AJStrauss,England,Australia,12,15,2,0,80.0,0,0,0,0,0,0,Kennington Oval,0,0,2009,14
+AJStrauss,England,Pakistan,57,54,8,0,105.55555555555556,0,0,0,0,0,0,Kennington Oval,0,1,2010,81
+AJStrauss,England,Sri Lanka,18,23,2,0,78.26086956521739,0,0,0,0,0,0,Kennington Oval,0,1,2006,28
+AJStrauss,England,New Zealand,12,20,0,0,60.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2007,18
+AJStrauss,England,Sri Lanka,26,34,1,0,76.47058823529412,0,0,0,0,0,0,Headingley,0,1,2006,35
+AJStrauss,England,New Zealand,28,59,3,0,47.45762711864407,0,0,0,0,0,0,Bellerive Oval,0,0,2007,25
+AJStrauss,England,India,7,13,1,0,53.84615384615385,0,0,0,0,0,0,Nehru Stadium Fatorda,0,0,2006,4
+AJStrauss,England,Australia,14,10,1,1,140.0,0,0,0,0,0,0,SuperSport Park,0,0,2009,17
+AJStrauss,England,Australia,26,25,2,0,104.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2007,28
+AJStrauss,England,Australia,63,71,6,0,88.73239436619718,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2011,85
+AJStrauss,England,Bangladesh,23,38,2,1,60.526315789473685,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2007,41
+AJStrauss,England,Pakistan,78,102,10,0,76.47058823529412,0,0,0,0,0,0,Trent Bridge,0,2,2006,112
+AJStrauss,England,India,0,3,0,0,0.0,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2006,-8
+AJStrauss,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Trent Bridge,0,1,2009,0
+AJStrauss,England,South Africa,24,25,4,0,96.0,0,0,0,0,0,0,Newlands,0,0,2009,28
+AJStrauss,England,Bangladesh,18,32,2,0,56.25,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2011,16
+AJStrauss,England,Australia,6,5,1,0,120.0,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2007,23
+AJStrauss,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2007,-8
+AJStrauss,England,Pakistan,68,73,7,0,93.15068493150685,0,0,0,0,0,0,Lord's,0,2,2010,99
+AJStrauss,England,Bangladesh,33,36,4,1,91.66666666666666,0,0,0,0,0,0,County Ground,0,0,2010,39
+AJStrauss,England,Australia,35,38,6,0,92.10526315789474,0,0,0,0,0,0,Trent Bridge,0,0,2009,41
+AJStrauss,England,West Indies,3,5,0,0,60.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2009,1
+AJStrauss,England,Australia,3,17,0,0,17.647058823529413,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,2,2011,13
+AJStrauss,England,Australia,12,20,1,0,60.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2007,11
+AJStrauss,England,Australia,63,67,7,0,94.02985074626866,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2011,78
+AJStrauss,England,South Africa,46,68,2,1,67.64705882352942,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2007,48
+AJStrauss,England,West Indies,2,18,0,0,11.11111111111111,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2009,-4
+AJStrauss,England,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,-8
+AJStrauss,England,South Africa,25,38,5,0,65.78947368421053,0,0,0,0,0,0,SuperSport Park,0,0,2009,28
+AJStrauss,England,New Zealand,19,33,3,0,57.57575757575758,0,0,0,0,0,0,Adelaide Oval,0,1,2007,26
+AJStrauss,England,Australia,19,31,2,0,61.29032258064516,0,0,0,0,0,0,Bellerive Oval,0,1,2011,27
+AJStrauss,England,Sri Lanka,5,19,0,0,26.31578947368421,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,-1
+AJStrauss,England,Sri Lanka,45,44,5,0,102.27272727272727,0,0,0,0,0,0,Old Trafford,0,0,2006,50
+AJStrauss,England,West Indies,50,48,8,0,104.16666666666667,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,66
+AJStrauss,England,Australia,87,123,8,0,70.73170731707317,0,0,0,0,0,0,Old Trafford,0,3,2010,127
+AJStrauss,England,West Indies,105,134,7,0,78.35820895522389,0,0,0,0,0,0,Providence Stadium,0,0,2009,128
+AJStrauss,England,Australia,56,91,6,0,61.53846153846154,0,0,0,0,0,0,Sawai Mansingh Stadium,0,1,2006,76
+AJStrauss,England,India,10,33,1,0,30.303030303030305,0,0,0,0,0,0,Sawai Mansingh Stadium,0,2,2006,21
+AJStrauss,England,Australia,63,73,7,0,86.3013698630137,0,0,0,0,0,0,The Rose Bowl,0,0,2009,78
+AJStrauss,England,Ireland,34,39,2,1,87.17948717948718,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2011,38
+AJStrauss,England,West Indies,15,27,1,0,55.55555555555556,0,0,0,0,0,0,Providence Stadium,0,2,2009,28
+AJStrauss,England,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Lord's,0,0,2006,-8
+AJStrauss,England,Australia,10,12,2,0,83.33333333333334,0,0,0,0,0,0,The Rose Bowl,0,1,2010,20
+AJStrauss,England,India,158,145,17,1,108.9655172413793,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2011,193
+AJStrauss,England,South Africa,16,26,3,0,61.53846153846154,0,0,0,0,0,0,SuperSport Park,0,2,2009,33
+AJStrauss,England,Ireland,4,13,1,0,30.76923076923077,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2006,-1
+AJStrauss,England,Pakistan,126,137,10,1,91.97080291970804,0,0,0,0,0,0,Headingley,0,2,2010,170
+AJStrauss,England,Bangladesh,154,142,16,5,108.45070422535213,0,0,0,0,0,0,Edgbaston,0,1,2010,204
+AJStrauss,England,Pakistan,50,48,8,0,104.16666666666667,0,0,0,0,0,0,The Rose Bowl,1,0,2006,78
+AJStrauss,England,New Zealand,55,63,4,1,87.3015873015873,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2007,69
+AJStrauss,England,Sri Lanka,32,45,3,0,71.11111111111111,0,0,0,0,0,0,Riverside Ground,0,1,2006,43
+AJStrauss,England,West Indies,79,63,9,1,125.39682539682539,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2009,98
+AJStrauss,England,West Indies,52,68,4,0,76.47058823529412,0,0,0,0,0,0,Edgbaston,1,1,2009,84
+AJStrauss,England,Australia,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Adelaide Oval,0,2,2011,25
+AJStrauss,England,India,61,85,6,0,71.76470588235294,0,0,0,0,0,0,Nahar Singh Stadium,0,0,2006,75
+AJStrauss,England,Australia,47,54,6,0,87.03703703703704,0,0,0,0,0,0,Lord's,0,0,2009,53
+AJStrauss,England,Sri Lanka,9,26,1,0,34.61538461538461,0,0,0,0,0,0,New Wanderers Stadium,0,2,2009,20
+AJStrauss,England,Pakistan,35,43,8,0,81.3953488372093,0,0,0,0,0,0,Edgbaston,0,1,2006,51
+AJStrauss,England,Australia,17,34,2,0,50.0,0,0,0,0,0,0,Adelaide Oval,0,0,2007,15
+AJStrauss,England,Pakistan,25,36,2,1,69.44444444444444,0,0,0,0,0,0,The Rose Bowl,0,0,2010,27

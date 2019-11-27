@@ -1,30 +1,32 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HAVaraiya,Kenya,Ireland,0,0,0,0,0,24,4,27,1,0,6.75,Mombasa Sports Club Ground,25
-HAVaraiya,Kenya,Canada,0,0,0,0,0,23,3,18,1,0,6.0,Dubai International Cricket Stadium,25
-HAVaraiya,Kenya,Netherlands,0,0,0,0,0,17,2,28,0,0,14.0,Wanderers Cricket Ground,-6
-HAVaraiya,Kenya,Ireland,0,0,0,0,0,24,4,27,1,0,6.75,Mombasa Sports Club Ground,25
-HAVaraiya,Kenya,Ireland,0,0,0,0,0,24,4,27,1,0,6.75,Mombasa Sports Club Ground,25
-HAVaraiya,Kenya,Canada,0,0,0,0,0,23,3,18,1,0,6.0,Dubai International Cricket Stadium,25
-HAVaraiya,Kenya,Netherlands,0,0,0,0,0,17,2,28,0,0,14.0,Wanderers Cricket Ground,-6
-HAVaraiya,Kenya,Ireland,0,0,0,0,0,24,4,27,1,0,6.75,Mombasa Sports Club Ground,25
-HAVaraiya,Kenya,Canada,0,0,0,0,0,23,3,18,1,0,6.0,Dubai International Cricket Stadium,25
-HAVaraiya,Kenya,Netherlands,0,0,0,0,0,17,2,28,0,0,14.0,Wanderers Cricket Ground,-6
-HAVaraiya,Kenya,Netherlands,0,0,0,0,0,23,3,13,1,0,4.333333333333333,Wanderers Cricket Ground,29
-HAVaraiya,Kenya,Bangladesh,0,0,0,0,0,11,1,15,0,0,15.0,Gymkhana Club Ground,0
-HAVaraiya,Kenya,Ireland,6,13,0,0,46.15384615384615,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0
-HAVaraiya,Kenya,Ireland,3,9,0,0,33.33333333333333,1,0,4,0,0,0,Dubai International Cricket Stadium,-3
-HAVaraiya,Kenya,Pakistan,5,8,0,0,62.5,24,4,33,1,0,8.25,Gymkhana Club Ground,28
-HAVaraiya,Kenya,Afghanistan,0,0,0,0,0,23,3,12,1,1,4.0,Sharjah Cricket Stadium,37
-HAVaraiya,Kenya,Canada,0,0,0,0,0,24,4,27,1,0,6.75,ICC Global Cricket Academy,25
-HAVaraiya,Kenya,Scotland,0,0,0,0,0,11,1,18,1,0,18.0,ICC Academy,25
-HAVaraiya,Kenya,Canada,0,0,0,0,0,24,4,23,2,0,5.75,ICC Global Cricket Academy,52
-HAVaraiya,Kenya,Afghanistan,2,4,0,0,50.0,5,0,12,0,0,0,Sharjah Cricket Stadium,-2
-HAVaraiya,Kenya,Netherlands,18,18,1,0,100.0,11,1,16,0,0,16.0,ICC Academy,19
-HAVaraiya,Kenya,Ireland,0,0,0,0,0,27,4,19,2,0,4.75,Mombasa Sports Club Ground,54
-HAVaraiya,Kenya,Afghanistan,7,16,0,0,43.75,17,2,44,1,0,22.0,Sharjah Cricket Stadium,20
-HAVaraiya,Kenya,Ireland,0,0,0,0,0,24,4,27,1,0,6.75,Mombasa Sports Club Ground,25
-HAVaraiya,Kenya,Canada,0,0,0,0,0,23,3,18,1,0,6.0,Dubai International Cricket Stadium,25
-HAVaraiya,Kenya,Netherlands,0,0,0,0,0,17,2,28,0,0,14.0,Wanderers Cricket Ground,-6
-HAVaraiya,Kenya,Netherlands,0,0,0,0,0,23,3,13,1,0,4.333333333333333,Wanderers Cricket Ground,29
-HAVaraiya,Kenya,Bangladesh,0,0,0,0,0,11,1,15,0,0,15.0,Gymkhana Club Ground,0
-HAVaraiya,Kenya,Ireland,6,13,0,0,46.15384615384615,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HAVaraiya,Kenya,Netherlands,0,0,0,0,0,17,2,28,0,0,14.0,Wanderers Cricket Ground,0,0,2013,-6
+HAVaraiya,Kenya,Scotland,0,0,0,0,0,11,1,18,1,0,18.0,ICC Academy,0,1,2013,33
+HAVaraiya,Kenya,Ireland,6,13,0,0,46.15384615384615,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2008,8
+HAVaraiya,Kenya,Netherlands,0,0,0,0,0,23,3,13,1,0,4.333333333333333,Wanderers Cricket Ground,0,0,2013,29
+HAVaraiya,Kenya,Netherlands,18,18,1,0,100.0,11,1,16,0,0,16.0,ICC Academy,0,1,2013,27
+HAVaraiya,Kenya,Canada,0,0,0,0,0,24,4,23,2,0,5.75,ICC Global Cricket Academy,0,0,2013,52
+HAVaraiya,Kenya,Pakistan,5,8,0,0,62.5,24,4,33,1,0,8.25,Gymkhana Club Ground,0,1,2007,36
+HAVaraiya,Kenya,Afghanistan,7,16,0,0,43.75,17,2,44,1,0,22.0,Sharjah Cricket Stadium,0,0,2013,20
+HAVaraiya,Kenya,Bangladesh,0,0,0,0,0,11,1,15,0,0,15.0,Gymkhana Club Ground,0,0,2007,0
+HAVaraiya,Kenya,Canada,0,0,0,0,0,23,3,18,1,0,6.0,Dubai International Cricket Stadium,0,0,2010,25
+HAVaraiya,Kenya,Ireland,0,0,0,0,0,24,4,27,1,0,6.75,Mombasa Sports Club Ground,0,0,2012,25
+HAVaraiya,Kenya,Afghanistan,2,4,0,0,50.0,5,0,12,0,0,0,Sharjah Cricket Stadium,0,2,2013,14
+HAVaraiya,Kenya,Canada,0,0,0,0,0,24,4,27,1,0,6.75,ICC Global Cricket Academy,1,1,2013,45
+HAVaraiya,Kenya,Ireland,3,9,0,0,33.33333333333333,1,0,4,0,0,0,Dubai International Cricket Stadium,0,0,2012,-3
+HAVaraiya,Kenya,Afghanistan,0,0,0,0,0,23,3,12,1,1,4.0,Sharjah Cricket Stadium,0,0,2013,37
+HAVaraiya,Kenya,Ireland,0,0,0,0,0,27,4,19,2,0,4.75,Mombasa Sports Club Ground,1,1,2012,74
+HAVaraiya,Kenya,New Zealand,1,16,0,0,6.25,42,7,40,0,0,5.714285714285714,Beausejour Stadium Gros Islet,0,1,2007,5
+HAVaraiya,Kenya,Scotland,10,28,1,0,35.714285714285715,63,10,62,1,1,6.2,Gymkhana Club Ground,0,0,2007,38
+HAVaraiya,Kenya,Bangladesh,2,3,0,0,66.66666666666666,29,4,33,0,0,8.25,Gymkhana Club Ground,0,0,2006,0
+HAVaraiya,Kenya,South Africa,4,12,0,0,33.33333333333333,47,7,50,1,0,7.142857142857143,OUTsurance Oval,0,1,2008,31
+HAVaraiya,Kenya,Bermuda,0,0,0,0,0,37,6,29,1,1,4.833333333333333,Gymkhana Club Ground,0,0,2007,37
+HAVaraiya,Kenya,Ireland,0,0,0,0,0,60,10,42,1,2,4.2,Mombasa Sports Club Ground,0,0,2012,45
+HAVaraiya,Kenya,Ireland,0,1,0,0,0.0,59,9,47,3,0,5.222222222222222,Mombasa Sports Club Ground,0,0,2012,69
+HAVaraiya,Kenya,Scotland,1,1,0,0,100.0,0,0,0,0,0,0,Cambusdoon New Ground,0,0,2008,1
+HAVaraiya,Kenya,Bermuda,0,0,0,0,0,59,9,27,2,2,3.0,Gymkhana Club Ground,0,0,2007,72
+HAVaraiya,Kenya,Scotland,13,14,2,0,92.85714285714286,60,10,36,0,0,3.6,Hagley Oval,0,0,2014,21
+HAVaraiya,Kenya,Netherlands,0,0,0,0,0,59,9,49,1,0,5.444444444444445,Bert Sutcliffe Oval,0,0,2014,27
+HAVaraiya,Kenya,England,4,7,0,0,57.14285714285714,37,6,39,0,0,6.5,Beausejour Stadium Gros Islet,0,0,2007,0
+HAVaraiya,Kenya,Canada,2,16,0,0,12.5,31,5,35,0,1,7.0,Maple Leaf North-West Ground,0,0,2009,4
+HAVaraiya,Kenya,Canada,0,0,0,0,0,5,0,10,0,0,0,Gymkhana Club Ground,0,1,2007,8
+HAVaraiya,Kenya,Canada,0,0,0,0,0,59,9,44,1,1,4.888888888888889,ICC Global Cricket Academy,0,1,2013,45

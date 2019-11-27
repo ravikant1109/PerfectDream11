@@ -1,10 +1,24 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GJHopkins,New Zealand,Australia,36,17,2,2,211.76470588235296,0,0,0,0,0,0,AMI Stadium,42
-GJHopkins,New Zealand,Sri Lanka,1,8,0,0,12.5,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-5
-GJHopkins,New Zealand,Sri Lanka,1,1,0,0,100.0,0,0,0,0,0,0,Providence Stadium,1
-GJHopkins,New Zealand,England,1,2,0,0,50.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,-3
-GJHopkins,New Zealand,Pakistan,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kensington Oval Bridgetown,-4
-GJHopkins,New Zealand,South Africa,18,14,0,2,128.57142857142858,0,0,0,0,0,0,Kensington Oval Bridgetown,22
-GJHopkins,New Zealand,Australia,21,13,2,1,161.53846153846155,0,0,0,0,0,0,Westpac Stadium,25
-GJHopkins,New Zealand,South Africa,6,10,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,4
-GJHopkins,New Zealand,Australia,36,17,2,2,211.76470588235296,0,0,0,0,0,0,AMI Stadium,42
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GJHopkins,New Zealand,South Africa,18,14,0,2,128.57142857142858,0,0,0,0,0,0,Kensington Oval Bridgetown,1,0,2010,34
+GJHopkins,New Zealand,England,1,2,0,0,50.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,-3
+GJHopkins,New Zealand,Sri Lanka,1,1,0,0,100.0,0,0,0,0,0,0,Providence Stadium,0,0,2010,1
+GJHopkins,New Zealand,Pakistan,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2010,12
+GJHopkins,New Zealand,Australia,21,13,2,1,161.53846153846155,0,0,0,0,0,0,Westpac Stadium,0,0,2010,25
+GJHopkins,New Zealand,South Africa,6,10,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,4
+GJHopkins,New Zealand,Sri Lanka,1,8,0,0,12.5,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2010,-5
+GJHopkins,New Zealand,Australia,36,17,2,2,211.76470588235296,0,0,0,0,0,0,AMI Stadium,0,0,2010,42
+GJHopkins,New Zealand,India,16,14,2,0,114.28571428571428,0,0,0,0,0,0,Nehru Stadium,0,3,2010,42
+GJHopkins,New Zealand,India,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Sawai Mansingh Stadium,0,0,2010,12
+GJHopkins,New Zealand,Sri Lanka,11,23,0,0,47.82608695652174,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,13
+GJHopkins,New Zealand,India,0,5,0,0,0.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,4,2010,24
+GJHopkins,New Zealand,India,10,12,0,0,83.33333333333334,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,18
+GJHopkins,New Zealand,Australia,9,17,1,0,52.94117647058824,0,0,0,0,0,0,Bellerive Oval,1,0,2007,18
+GJHopkins,New Zealand,Australia,26,28,3,0,92.85714285714286,0,0,0,0,0,0,Westpac Stadium,0,2,2010,45
+GJHopkins,New Zealand,England,2,6,0,0,33.33333333333333,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,-4
+GJHopkins,New Zealand,Australia,45,53,3,2,84.90566037735849,0,0,0,0,0,0,Seddon Park,1,0,2010,64
+GJHopkins,New Zealand,India,6,6,1,0,100.0,0,0,0,0,0,0,Reliance Stadium,0,0,2010,7
+GJHopkins,New Zealand,Australia,20,33,1,0,60.60606060606061,0,0,0,0,0,0,Eden Park,0,0,2010,19
+GJHopkins,New Zealand,South Africa,13,13,2,0,100.0,0,0,0,0,0,0,SuperSport Park,0,0,2009,15
+GJHopkins,New Zealand,England,7,25,0,0,28.000000000000004,0,0,0,0,0,0,County Ground,0,1,2008,9
+GJHopkins,New Zealand,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,Kingsmead,0,0,2007,-8
+GJHopkins,New Zealand,England,25,30,2,0,83.33333333333334,0,0,0,0,0,0,Riverside Ground,0,0,2008,27

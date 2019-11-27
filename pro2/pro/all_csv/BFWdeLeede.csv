@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BFWdeLeede,Netherlands,Scotland,19,17,1,1,111.76470588235294,6,1,15,0,0,15.0,The Village Malahide,22
-BFWdeLeede,Netherlands,Scotland,30,37,0,1,81.08108108108108,0,0,0,0,0,0,The Village Malahide,32
-BFWdeLeede,Netherlands,Zimbabwe,1,2,0,0,50.0,0,0,0,0,0,0,Hazelaarweg,-3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BFWdeLeede,Netherlands,Scotland,19,17,1,1,111.76470588235294,6,1,15,0,0,15.0,The Village Malahide,0,0,2019,22
+BFWdeLeede,Netherlands,Scotland,30,37,0,1,81.08108108108108,0,0,0,0,0,0,The Village Malahide,0,0,2019,32
+BFWdeLeede,Netherlands,Zimbabwe,1,2,0,0,50.0,0,0,0,0,0,0,Hazelaarweg,0,0,2019,-3

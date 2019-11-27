@@ -1,10 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NMCarter,Scotland,Afghanistan,3,7,0,0,42.857142857142854,24,4,27,2,0,6.75,Sharjah Cricket Stadium,47
-NMCarter,Scotland,Afghanistan,3,7,0,0,42.857142857142854,24,4,27,2,0,6.75,Sharjah Cricket Stadium,47
-NMCarter,Scotland,Afghanistan,3,7,0,0,42.857142857142854,24,4,27,2,0,6.75,Sharjah Cricket Stadium,47
-NMCarter,Scotland,Afghanistan,0,0,0,0,0,24,4,25,0,0,6.25,Sharjah Cricket Stadium,0
-NMCarter,Scotland,Netherlands,0,0,0,0,0,23,3,37,1,0,12.333333333333334,ICC Academy,19
-NMCarter,Scotland,Kenya,1,6,0,0,16.666666666666664,23,3,38,0,0,12.666666666666666,ICC Academy,-11
-NMCarter,Scotland,Netherlands,0,0,0,0,0,17,2,22,1,0,11.0,Sheikh Zayed Stadium,21
-NMCarter,Scotland,Afghanistan,3,7,0,0,42.857142857142854,24,4,27,2,0,6.75,Sharjah Cricket Stadium,47
-NMCarter,Scotland,Afghanistan,0,0,0,0,0,24,4,25,0,0,6.25,Sharjah Cricket Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NMCarter,Scotland,Kenya,1,6,0,0,16.666666666666664,23,3,38,0,0,12.666666666666666,ICC Academy,0,1,2013,-3
+NMCarter,Scotland,Netherlands,0,0,0,0,0,23,3,37,1,0,12.333333333333334,ICC Academy,0,0,2013,19
+NMCarter,Scotland,Afghanistan,3,7,0,0,42.857142857142854,24,4,27,2,0,6.75,Sharjah Cricket Stadium,0,0,2013,47
+NMCarter,Scotland,Afghanistan,0,0,0,0,0,24,4,25,0,0,6.25,Sharjah Cricket Stadium,0,0,2013,0
+NMCarter,Scotland,Netherlands,0,0,0,0,0,17,2,22,1,0,11.0,Sheikh Zayed Stadium,0,0,2013,21
+NMCarter,Scotland,Pakistan,0,6,0,0,0.0,60,10,56,1,0,5.6,Grange Cricket Club Ground Raeburn Place,0,0,2013,19

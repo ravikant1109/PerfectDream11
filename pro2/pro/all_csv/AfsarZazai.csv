@@ -1,2 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AfsarZazai,Afghanistan,Kenya,9,22,0,0,40.909090909090914,0,0,0,0,0,0,Sharjah Cricket Stadium,3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AfsarZazai,Afghanistan,Kenya,9,22,0,0,40.909090909090914,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,3
+AfsarZazai,Afghanistan,United Arab Emirates,60,111,4,0,54.054054054054056,0,0,0,0,0,0,ICC Academy,0,1,2014,76
+AfsarZazai,Afghanistan,Scotland,0,1,0,0,0.0,0,0,0,0,0,0,University Oval,0,3,2015,16
+AfsarZazai,Afghanistan,Ireland,18,17,1,0,105.88235294117648,0,0,0,0,0,0,Dubai International Cricket Stadium,0,2,2015,35
+AfsarZazai,Afghanistan,United Arab Emirates,51,85,3,0,60.0,0,0,0,0,0,0,ICC Academy,0,2,2014,76
+AfsarZazai,Afghanistan,West Indies,9,37,0,0,24.324324324324326,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,1,2017,11
+AfsarZazai,Afghanistan,Bangladesh,1,5,0,0,20.0,0,0,0,0,0,0,Manuka Oval,1,2,2015,23
+AfsarZazai,Afghanistan,Sri Lanka,19,43,1,0,44.18604651162791,0,0,0,0,0,0,University Oval,0,1,2015,22
+AfsarZazai,Afghanistan,England,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2015,8
+AfsarZazai,Afghanistan,West Indies,13,17,0,0,76.47058823529412,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,13
+AfsarZazai,Afghanistan,Scotland,48,60,5,0,80.0,0,0,0,0,0,0,ICC Academy,0,3,2015,77
+AfsarZazai,Afghanistan,Scotland,0,4,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2015,8

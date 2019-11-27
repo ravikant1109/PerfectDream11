@@ -1,3 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-VJKingma,Netherlands,United Arab Emirates,0,1,0,0,0.0,18,3,31,1,0,10.333333333333334,VRA Ground,13
-VJKingma,Netherlands,United Arab Emirates,0,0,0,0,0,23,3,33,1,0,11.0,Sportpark Westvliet,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+VJKingma,Netherlands,United Arab Emirates,0,0,0,0,0,23,3,33,1,0,11.0,Sportpark Westvliet,0,0,2019,21
+VJKingma,Netherlands,United Arab Emirates,0,1,0,0,0.0,18,3,31,1,0,10.333333333333334,VRA Ground,0,0,2019,13
+VJKingma,Netherlands,Canada,0,0,0,0,0,11,1,11,0,0,11.0,Bay Oval,1,0,2014,12
+VJKingma,Netherlands,Zimbabwe,0,0,0,0,0,61,10,49,1,1,4.9,Sportpark Het Schootsveld,0,0,2019,37

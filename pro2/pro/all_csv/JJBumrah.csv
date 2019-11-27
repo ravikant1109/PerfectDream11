@@ -1,37 +1,48 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,19,0,1,6.333333333333333,Maharashtra Cricket Association Stadium,8
-JJBumrah,India,New Zealand,0,2,0,0,0.0,23,3,15,1,0,5.0,Vidarbha Cricket Association Stadium Jamtha,19
-JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,27,2,0,9.0,Shere Bangla National Stadium,50
-JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,19,0,1,6.333333333333333,Maharashtra Cricket Association Stadium,8
-JJBumrah,India,New Zealand,0,2,0,0,0.0,23,3,15,1,0,5.0,Vidarbha Cricket Association Stadium Jamtha,19
-JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,27,2,0,9.0,Shere Bangla National Stadium,50
-JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,19,0,1,6.333333333333333,Maharashtra Cricket Association Stadium,8
-JJBumrah,India,New Zealand,0,2,0,0,0.0,23,3,15,1,0,5.0,Vidarbha Cricket Association Stadium Jamtha,19
-JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,27,2,0,9.0,Shere Bangla National Stadium,50
-JJBumrah,India,Australia,0,0,0,0,0,25,4,45,1,0,11.25,Sydney Cricket Ground,19
-JJBumrah,India,Bangladesh,0,0,0,0,0,23,3,32,0,0,10.666666666666666,M Chinnaswamy Stadium,-4
-JJBumrah,India,Pakistan,0,0,0,0,0,17,2,12,1,2,6.0,Shere Bangla National Stadium,41
-JJBumrah,India,England,0,0,0,0,0,19,3,26,0,0,8.666666666666666,Green Park,0
-JJBumrah,India,Zimbabwe,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Harare Sports Club,0
-JJBumrah,India,United Arab Emirates,0,0,0,0,0,24,4,23,1,0,5.75,Shere Bangla National Stadium,27
-JJBumrah,India,England,0,0,0,0,0,23,3,21,2,0,7.0,Vidarbha Cricket Association Stadium Jamtha,50
-JJBumrah,India,West Indies,0,0,0,0,0,25,4,47,2,0,11.75,Central Broward Regional Park Stadium Turf Ground,44
-JJBumrah,India,West Indies,0,0,0,0,0,24,4,30,2,0,7.5,Central Broward Regional Park Stadium Turf Ground,50
-JJBumrah,India,Sri Lanka,0,0,0,0,0,18,3,17,2,1,5.666666666666667,JSCA International Stadium Complex,60
-JJBumrah,India,England,0,0,0,0,0,14,2,14,3,0,7.0,M Chinnaswamy Stadium,75
-JJBumrah,India,Bangladesh,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Shere Bangla National Stadium,25
-JJBumrah,India,Zimbabwe,0,0,0,0,0,23,3,11,3,0,3.6666666666666665,Harare Sports Club,81
-JJBumrah,India,Sri Lanka,0,0,0,0,0,17,2,10,1,0,5.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,27
-JJBumrah,India,Bangladesh,0,0,0,0,0,17,2,13,1,0,6.5,Shere Bangla National Stadium,25
-JJBumrah,India,Pakistan,0,0,0,0,0,24,4,34,1,0,8.5,Eden Gardens,25
-JJBumrah,India,Australia,0,0,0,0,0,21,3,23,3,0,7.666666666666667,Adelaide Oval,75
-JJBumrah,India,Australia,0,0,0,0,0,24,4,38,2,0,9.5,Melbourne Cricket Ground,48
-JJBumrah,India,Zimbabwe,0,0,0,0,0,23,3,25,2,1,8.333333333333334,Harare Sports Club,58
-JJBumrah,India,West Indies,0,0,0,0,0,23,3,42,1,0,14.0,Wankhede Stadium,19
-JJBumrah,India,Australia,0,0,0,0,0,23,3,33,1,0,11.0,Punjab Cricket Association IS Bindra Stadium Mohali,21
-JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,19,0,1,6.333333333333333,Maharashtra Cricket Association Stadium,8
-JJBumrah,India,New Zealand,0,2,0,0,0.0,23,3,15,1,0,5.0,Vidarbha Cricket Association Stadium Jamtha,19
-JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,27,2,0,9.0,Shere Bangla National Stadium,50
-JJBumrah,India,Australia,0,0,0,0,0,25,4,45,1,0,11.25,Sydney Cricket Ground,19
-JJBumrah,India,Bangladesh,0,0,0,0,0,23,3,32,0,0,10.666666666666666,M Chinnaswamy Stadium,-4
-JJBumrah,India,Pakistan,0,0,0,0,0,17,2,12,1,2,6.0,Shere Bangla National Stadium,41
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JJBumrah,India,West Indies,0,0,0,0,0,25,4,47,2,0,11.75,Central Broward Regional Park Stadium Turf Ground,1,0,2016,56
+JJBumrah,India,England,0,0,0,0,0,19,3,26,0,0,8.666666666666666,Green Park,0,0,2017,0
+JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,27,2,0,9.0,Shere Bangla National Stadium,0,0,2016,50
+JJBumrah,India,Bangladesh,0,0,0,0,0,17,2,13,1,0,6.5,Shere Bangla National Stadium,0,1,2016,33
+JJBumrah,India,Australia,0,0,0,0,0,23,3,33,1,0,11.0,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,21
+JJBumrah,India,Australia,0,0,0,0,0,24,4,38,2,0,9.5,Melbourne Cricket Ground,0,0,2016,48
+JJBumrah,India,England,0,0,0,0,0,23,3,21,2,0,7.0,Vidarbha Cricket Association Stadium Jamtha,0,1,2017,58
+JJBumrah,India,Sri Lanka,0,0,0,0,0,18,3,17,2,1,5.666666666666667,JSCA International Stadium Complex,0,0,2016,60
+JJBumrah,India,Pakistan,0,0,0,0,0,17,2,12,1,2,6.0,Shere Bangla National Stadium,0,0,2016,41
+JJBumrah,India,Bangladesh,0,0,0,0,0,23,3,32,0,0,10.666666666666666,M Chinnaswamy Stadium,0,0,2016,-4
+JJBumrah,India,Zimbabwe,0,0,0,0,0,23,3,25,2,1,8.333333333333334,Harare Sports Club,0,0,2016,58
+JJBumrah,India,West Indies,0,0,0,0,0,23,3,42,1,0,14.0,Wankhede Stadium,0,0,2016,19
+JJBumrah,India,Bangladesh,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Shere Bangla National Stadium,0,0,2016,25
+JJBumrah,India,New Zealand,0,2,0,0,0.0,23,3,15,1,0,5.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,19
+JJBumrah,India,Pakistan,0,0,0,0,0,24,4,34,1,0,8.5,Eden Gardens,0,0,2016,25
+JJBumrah,India,Zimbabwe,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Harare Sports Club,0,1,2016,8
+JJBumrah,India,Zimbabwe,0,0,0,0,0,23,3,11,3,0,3.6666666666666665,Harare Sports Club,0,0,2016,81
+JJBumrah,India,England,0,0,0,0,0,14,2,14,3,0,7.0,M Chinnaswamy Stadium,0,0,2017,75
+JJBumrah,India,United Arab Emirates,0,0,0,0,0,24,4,23,1,0,5.75,Shere Bangla National Stadium,0,0,2016,27
+JJBumrah,India,West Indies,0,0,0,0,0,24,4,30,2,0,7.5,Central Broward Regional Park Stadium Turf Ground,0,0,2016,50
+JJBumrah,India,Australia,0,0,0,0,0,25,4,45,1,0,11.25,Sydney Cricket Ground,0,0,2016,19
+JJBumrah,India,Sri Lanka,0,0,0,0,0,17,2,10,1,0,5.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,27
+JJBumrah,India,Australia,0,0,0,0,0,21,3,23,3,0,7.666666666666667,Adelaide Oval,0,0,2016,75
+JJBumrah,India,Sri Lanka,0,0,0,0,0,23,3,19,0,1,6.333333333333333,Maharashtra Cricket Association Stadium,0,0,2016,8
+JJBumrah,India,New Zealand,0,1,0,0,0.0,59,9,35,3,0,3.888888888888889,Feroz Shah Kotla,0,0,2016,73
+JJBumrah,India,Australia,0,0,0,0,0,60,10,64,3,1,6.4,Kennington Oval,0,0,2019,83
+JJBumrah,India,Pakistan,0,0,0,0,0,29,4,24,0,1,6.0,Edgbaston,0,0,2017,8
+JJBumrah,India,England,0,0,0,0,0,55,9,87,2,0,9.666666666666666,Barabati Stadium,1,0,2017,60
+JJBumrah,India,Sri Lanka,0,0,0,0,0,60,10,61,0,0,6.1,Kennington Oval,0,0,2017,0
+JJBumrah,India,New Zealand,0,0,0,0,0,59,9,40,1,2,4.444444444444445,Old Trafford,1,0,2019,57
+JJBumrah,India,Bangladesh,0,0,0,0,0,61,10,56,4,1,5.6,Edgbaston,0,0,2019,118
+JJBumrah,India,West Indies,0,0,0,0,0,35,5,13,2,1,2.6,Old Trafford,0,0,2019,64
+JJBumrah,India,Zimbabwe,0,0,0,0,0,38,6,27,1,0,4.5,Harare Sports Club,0,1,2016,37
+JJBumrah,India,New Zealand,0,0,0,0,0,49,8,30,0,1,3.75,Himachal Pradesh Cricket Association Stadium,0,0,2016,14
+JJBumrah,India,England,0,0,0,0,0,63,10,75,1,1,7.5,Eden Gardens,0,2,2017,49
+JJBumrah,India,New Zealand,0,0,0,0,0,29,4,16,1,0,4.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,29
+JJBumrah,India,South Africa,0,0,0,0,0,49,8,29,2,1,3.625,Kennington Oval,1,0,2017,76
+JJBumrah,India,New Zealand,0,0,0,0,0,57,9,52,2,0,5.777777777777778,Punjab Cricket Association Stadium Mohali,0,0,2016,52
+JJBumrah,India,England,0,0,0,0,0,63,10,85,2,0,8.5,Maharashtra Cricket Association Stadium,1,0,2017,62
+JJBumrah,India,Pakistan,1,9,0,0,11.11111111111111,61,10,70,0,0,7.0,Kennington Oval,0,0,2017,-5
+JJBumrah,India,South Africa,0,0,0,0,0,59,9,37,2,2,4.111111111111111,The Rose Bowl,0,0,2019,70
+JJBumrah,India,Pakistan,0,0,0,0,0,48,8,53,0,0,6.625,Old Trafford,0,0,2019,0
+JJBumrah,India,Zimbabwe,0,0,0,0,0,61,10,24,4,1,2.4,Harare Sports Club,0,1,2016,130
+JJBumrah,India,Zimbabwe,0,0,0,0,0,63,10,30,4,1,3.0,Harare Sports Club,0,0,2016,122
+JJBumrah,India,Afghanistan,1,1,0,0,100.0,59,9,44,2,1,4.888888888888889,The Rose Bowl,0,0,2019,63
+JJBumrah,India,Sri Lanka,0,0,0,0,0,61,10,38,3,2,3.8,Headingley,0,0,2019,97
+JJBumrah,India,Australia,0,0,0,0,0,59,9,47,2,1,5.222222222222222,Sydney Cricket Ground,0,0,2016,60

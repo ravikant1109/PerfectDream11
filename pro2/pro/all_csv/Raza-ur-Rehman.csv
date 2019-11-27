@@ -1,6 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-Raza-ur-Rehman,Canada,Kenya,10,6,1,0,166.66666666666669,23,3,16,2,0,5.333333333333333,Sharjah Cricket Stadium,63
-Raza-ur-Rehman,Canada,Netherlands,1,4,0,0,25.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-5
-Raza-ur-Rehman,Canada,Ireland,0,0,0,0,0,11,1,18,0,0,18.0,Sheikh Zayed Stadium,0
-Raza-ur-Rehman,Canada,Kenya,5,6,0,0,83.33333333333334,0,0,0,0,0,0,ICC Global Cricket Academy,5
-Raza-ur-Rehman,Canada,Kenya,9,13,1,0,69.23076923076923,17,2,24,0,0,12.0,ICC Global Cricket Academy,2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+Raza-ur-Rehman,Canada,Netherlands,1,4,0,0,25.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,-5
+Raza-ur-Rehman,Canada,Kenya,9,13,1,0,69.23076923076923,17,2,24,0,0,12.0,ICC Global Cricket Academy,0,0,2013,2
+Raza-ur-Rehman,Canada,Kenya,10,6,1,0,166.66666666666669,23,3,16,2,0,5.333333333333333,Sharjah Cricket Stadium,0,1,2013,71
+Raza-ur-Rehman,Canada,Kenya,5,6,0,0,83.33333333333334,0,0,0,0,0,0,ICC Global Cricket Academy,0,1,2013,13
+Raza-ur-Rehman,Canada,Ireland,0,0,0,0,0,11,1,18,0,0,18.0,Sheikh Zayed Stadium,0,0,2013,0
+Raza-ur-Rehman,Canada,Scotland,16,19,2,0,84.21052631578947,11,1,18,0,0,18.0,Hagley Oval,0,4,2014,50
+Raza-ur-Rehman,Canada,Netherlands,0,3,0,0,0.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2013,-8
+Raza-ur-Rehman,Canada,Netherlands,88,107,11,0,82.2429906542056,54,9,59,1,1,6.555555555555555,Bay Oval,0,0,2014,140
+Raza-ur-Rehman,Canada,Netherlands,0,0,0,0,0,17,2,14,0,0,7.0,Maple Leaf North-West Ground,1,0,2013,12
+Raza-ur-Rehman,Canada,Kenya,70,86,11,0,81.3953488372093,27,4,23,0,0,5.75,ICC Global Cricket Academy,0,0,2013,91

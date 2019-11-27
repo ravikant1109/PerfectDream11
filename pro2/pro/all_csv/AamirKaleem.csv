@@ -1,32 +1,21 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AamirKaleem,Oman,Ireland,46,30,2,3,153.33333333333334,12,2,22,2,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),100
-AamirKaleem,Oman,Bangladesh,0,3,0,0,0.0,5,0,15,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-AamirKaleem,Oman,Canada,0,0,0,0,0,24,4,24,1,0,6.0,Sheikh Zayed Stadium,25
-AamirKaleem,Oman,Hong Kong,0,6,0,0,0.0,24,4,14,3,0,3.5,Sheikh Zayed Stadium,73
-AamirKaleem,Oman,Ireland,46,30,2,3,153.33333333333334,12,2,22,2,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),100
-AamirKaleem,Oman,Bangladesh,0,3,0,0,0.0,5,0,15,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-AamirKaleem,Oman,Canada,0,0,0,0,0,24,4,24,1,0,6.0,Sheikh Zayed Stadium,25
-AamirKaleem,Oman,Hong Kong,0,6,0,0,0.0,24,4,14,3,0,3.5,Sheikh Zayed Stadium,73
-AamirKaleem,Oman,Ireland,46,30,2,3,153.33333333333334,12,2,22,2,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),100
-AamirKaleem,Oman,Bangladesh,0,3,0,0,0.0,5,0,15,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-AamirKaleem,Oman,Canada,0,0,0,0,0,24,4,24,1,0,6.0,Sheikh Zayed Stadium,25
-AamirKaleem,Oman,Hong Kong,0,6,0,0,0.0,24,4,14,3,0,3.5,Sheikh Zayed Stadium,73
-AamirKaleem,Oman,Afghanistan,8,6,1,0,133.33333333333331,5,0,11,0,0,0,Sheikh Zayed Stadium,9
-AamirKaleem,Oman,Nigeria,1,2,0,0,50.0,23,3,14,4,0,4.666666666666667,Tolerance Oval,109
-AamirKaleem,Oman,Ireland,0,2,0,0,0.0,23,3,27,1,0,9.0,Himachal Pradesh Cricket Association Stadium,17
-AamirKaleem,Oman,Jersey,0,3,0,0,0.0,11,1,17,0,0,17.0,Sheikh Zayed Stadium,-8
-AamirKaleem,Oman,Afghanistan,13,17,0,0,76.47058823529412,17,2,22,0,0,11.0,Khan Shaheb Osman Ali Stadium,9
-AamirKaleem,Oman,Hong Kong,46,37,5,1,124.32432432432432,11,1,20,0,0,20.0,Sheikh Zayed Stadium,53
-AamirKaleem,Oman,Ireland,12,11,0,1,109.09090909090908,11,1,21,0,0,21.0,Tolerance Oval,14
-AamirKaleem,Oman,Hong Kong,19,12,1,1,158.33333333333331,17,2,27,0,0,13.5,Khan Shaheb Osman Ali Stadium,16
-AamirKaleem,Oman,United Arab Emirates,12,12,2,0,100.0,23,3,38,4,0,12.666666666666666,Shere Bangla National Stadium,116
-AamirKaleem,Oman,United Arab Emirates,27,19,4,0,142.10526315789474,11,1,9,0,0,9.0,Sheikh Zayed Stadium,31
-AamirKaleem,Oman,Netherlands,15,14,1,1,107.14285714285714,11,1,17,1,0,17.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),43
-AamirKaleem,Oman,Afghanistan,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Clontarf Cricket Club Ground,9
-AamirKaleem,Oman,Hong Kong,42,34,4,1,123.52941176470588,0,0,0,0,0,0,Sheikh Zayed Stadium,48
-AamirKaleem,Oman,Nepal,8,10,1,0,80.0,24,4,15,5,0,3.75,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),156
-AamirKaleem,Oman,Ireland,46,30,2,3,153.33333333333334,12,2,22,2,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),100
-AamirKaleem,Oman,Bangladesh,0,3,0,0,0.0,5,0,15,0,0,0,Himachal Pradesh Cricket Association Stadium,-8
-AamirKaleem,Oman,Canada,0,0,0,0,0,24,4,24,1,0,6.0,Sheikh Zayed Stadium,25
-AamirKaleem,Oman,Hong Kong,0,6,0,0,0.0,24,4,14,3,0,3.5,Sheikh Zayed Stadium,73
-AamirKaleem,Oman,Afghanistan,8,6,1,0,133.33333333333331,5,0,11,0,0,0,Sheikh Zayed Stadium,9
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AamirKaleem,Oman,Canada,0,0,0,0,0,24,4,24,1,0,6.0,Sheikh Zayed Stadium,0,1,2019,33
+AamirKaleem,Oman,Hong Kong,42,34,4,1,123.52941176470588,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2015,64
+AamirKaleem,Oman,Hong Kong,0,6,0,0,0.0,24,4,14,3,0,3.5,Sheikh Zayed Stadium,0,1,2019,81
+AamirKaleem,Oman,Ireland,46,30,2,3,153.33333333333334,12,2,22,2,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,100
+AamirKaleem,Oman,Ireland,12,11,0,1,109.09090909090908,11,1,21,0,0,21.0,Tolerance Oval,0,0,2019,14
+AamirKaleem,Oman,Netherlands,15,14,1,1,107.14285714285714,11,1,17,1,0,17.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,43
+AamirKaleem,Oman,Jersey,0,3,0,0,0.0,11,1,17,0,0,17.0,Sheikh Zayed Stadium,0,1,2019,0
+AamirKaleem,Oman,Afghanistan,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2015,9
+AamirKaleem,Oman,Hong Kong,46,37,5,1,124.32432432432432,11,1,20,0,0,20.0,Sheikh Zayed Stadium,0,0,2015,53
+AamirKaleem,Oman,Afghanistan,13,17,0,0,76.47058823529412,17,2,22,0,0,11.0,Khan Shaheb Osman Ali Stadium,0,0,2016,9
+AamirKaleem,Oman,Bangladesh,0,3,0,0,0.0,5,0,15,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,-8
+AamirKaleem,Oman,United Arab Emirates,27,19,4,0,142.10526315789474,11,1,9,0,0,9.0,Sheikh Zayed Stadium,0,1,2019,39
+AamirKaleem,Oman,Nepal,8,10,1,0,80.0,24,4,15,5,0,3.75,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,156
+AamirKaleem,Oman,Hong Kong,19,12,1,1,158.33333333333331,17,2,27,0,0,13.5,Khan Shaheb Osman Ali Stadium,1,1,2016,36
+AamirKaleem,Oman,Afghanistan,8,6,1,0,133.33333333333331,5,0,11,0,0,0,Sheikh Zayed Stadium,0,0,2015,9
+AamirKaleem,Oman,United Arab Emirates,12,12,2,0,100.0,23,3,38,4,0,12.666666666666666,Shere Bangla National Stadium,0,0,2016,116
+AamirKaleem,Oman,Nigeria,1,2,0,0,50.0,23,3,14,4,0,4.666666666666667,Tolerance Oval,0,0,2019,109
+AamirKaleem,Oman,Ireland,0,2,0,0,0.0,23,3,27,1,0,9.0,Himachal Pradesh Cricket Association Stadium,0,0,2016,17
+AamirKaleem,Oman,Scotland,13,17,1,0,76.47058823529412,30,5,24,0,0,4.8,Mannofield Park,0,1,2019,26
+AamirKaleem,Oman,Scotland,0,0,0,0,0,45,7,30,2,0,4.285714285714286,Mannofield Park,0,1,2019,62

@@ -1,2 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-IHRomaine,Bermuda,Scotland,8,12,0,0,66.66666666666666,15,2,20,0,0,10.0,Civil Service Cricket Club Stormont,4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+IHRomaine,Bermuda,Scotland,8,12,0,0,66.66666666666666,15,2,20,0,0,10.0,Civil Service Cricket Club Stormont,0,1,2008,12
+IHRomaine,Bermuda,Canada,2,5,0,0,40.0,20,3,20,0,0,6.666666666666667,Maple Leaf North-West Ground,1,0,2008,8
+IHRomaine,Bermuda,Netherlands,23,18,4,0,127.77777777777777,0,0,0,0,0,0,Willowmoore Park,0,0,2006,27
+IHRomaine,Bermuda,Netherlands,2,8,0,0,25.0,11,1,8,0,0,8.0,Ruaraka Sports Club Ground,0,0,2007,-4
+IHRomaine,Bermuda,Sri Lanka,0,1,0,0,0.0,18,3,29,0,0,9.666666666666666,Queen's Park Oval Port of Spain,0,0,2007,-10
+IHRomaine,Bermuda,Kenya,2,15,0,0,13.333333333333334,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,-4
+IHRomaine,Bermuda,Canada,29,66,2,0,43.93939393939394,0,0,0,0,0,0,Willowmoore Park,0,1,2006,33
+IHRomaine,Bermuda,Canada,9,13,1,0,69.23076923076923,0,0,0,0,0,0,Gymkhana Club Ground,0,2,2007,24
+IHRomaine,Bermuda,India,0,10,0,0,0.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2007,-8
+IHRomaine,Bermuda,Kenya,61,131,5,0,46.56488549618321,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,68
+IHRomaine,Bermuda,Canada,36,63,6,1,57.14285714285714,11,1,18,0,0,18.0,Sedgars Park,0,0,2006,40
+IHRomaine,Bermuda,Bangladesh,11,23,2,0,47.82608695652174,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2007,7

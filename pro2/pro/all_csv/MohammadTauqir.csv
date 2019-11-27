@@ -1,4 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MohammadTauqir,United Arab Emirates,Afghanistan,0,0,0,0,0,12,2,20,0,0,10.0,Grange Cricket Club Ground Raeburn Place,-2
-MohammadTauqir,United Arab Emirates,Netherlands,0,2,0,0,0.0,24,4,22,0,1,5.5,Grange Cricket Club Ground Raeburn Place,2
-MohammadTauqir,United Arab Emirates,Scotland,4,4,1,0,100.0,5,0,13,0,0,0,Grange Cricket Club Ground Raeburn Place,5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MohammadTauqir,United Arab Emirates,Scotland,4,4,1,0,100.0,5,0,13,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2015,5
+MohammadTauqir,United Arab Emirates,Netherlands,0,2,0,0,0.0,24,4,22,0,1,5.5,Grange Cricket Club Ground Raeburn Place,0,1,2015,10
+MohammadTauqir,United Arab Emirates,Afghanistan,0,0,0,0,0,12,2,20,0,0,10.0,Grange Cricket Club Ground Raeburn Place,0,0,2015,-2
+MohammadTauqir,United Arab Emirates,Afghanistan,0,0,0,0,0,29,4,20,1,0,5.0,ICC Academy,0,2,2014,43
+MohammadTauqir,United Arab Emirates,Zimbabwe,0,0,0,0,0,54,9,51,2,0,5.666666666666667,Saxton Oval,0,0,2015,52
+MohammadTauqir,United Arab Emirates,India,1,5,0,0,20.0,16,2,21,0,0,10.5,Western Australia Cricket Association Ground,0,0,2015,-9
+MohammadTauqir,United Arab Emirates,Bangladesh,17,23,2,0,73.91304347826086,17,2,6,0,0,3.0,Gaddafi Stadium,0,0,2008,25
+MohammadTauqir,United Arab Emirates,Sri Lanka,9,16,2,0,56.25,60,10,47,2,0,4.7,Gaddafi Stadium,0,1,2008,69
+MohammadTauqir,United Arab Emirates,Pakistan,0,1,0,0,0.0,60,10,52,0,0,5.2,McLean Park,0,0,2015,-6
+MohammadTauqir,United Arab Emirates,West Indies,2,20,0,0,10.0,17,2,24,0,0,12.0,McLean Park,0,0,2015,-10
+MohammadTauqir,United Arab Emirates,South Africa,3,16,0,0,18.75,60,10,51,1,0,5.1,Westpac Stadium,0,0,2015,24

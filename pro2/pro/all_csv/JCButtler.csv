@@ -1,99 +1,132 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JCButtler,England,Sri Lanka,26,16,4,0,162.5,0,0,0,0,0,0,Kennington Oval,30
-JCButtler,England,South Africa,54,32,4,4,168.75,0,0,0,0,0,0,New Wanderers Stadium,74
-JCButtler,England,Pakistan,16,15,1,0,106.66666666666667,0,0,0,0,0,0,Old Trafford,17
-JCButtler,England,South Africa,34,25,2,1,136.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,38
-JCButtler,England,South Africa,31,22,1,2,140.9090909090909,0,0,0,0,0,0,Sophia Gardens,36
-JCButtler,England,South Africa,21,17,1,1,123.52941176470588,0,0,0,0,0,0,Wankhede Stadium,24
-JCButtler,England,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-JCButtler,England,West Indies,67,44,5,3,152.27272727272728,0,0,0,0,0,0,Kensington Oval Bridgetown,86
-JCButtler,England,West Indies,1,1,0,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,1
-JCButtler,England,South Africa,32,10,2,3,320.0,0,0,0,0,0,0,Edgbaston,40
-JCButtler,England,Netherlands,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0
-JCButtler,England,West Indies,3,8,0,0,37.5,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-JCButtler,England,India,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Edgbaston,8
-JCButtler,England,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Riverside Ground,-8
-JCButtler,England,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,Sharjah Cricket Stadium,1
-JCButtler,England,West Indies,36,22,1,3,163.63636363636365,0,0,0,0,0,0,Eden Gardens,43
-JCButtler,England,Sri Lanka,26,16,4,0,162.5,0,0,0,0,0,0,Kennington Oval,30
-JCButtler,England,South Africa,54,32,4,4,168.75,0,0,0,0,0,0,New Wanderers Stadium,74
-JCButtler,England,Pakistan,16,15,1,0,106.66666666666667,0,0,0,0,0,0,Old Trafford,17
-JCButtler,England,South Africa,34,25,2,1,136.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,38
-JCButtler,England,South Africa,31,22,1,2,140.9090909090909,0,0,0,0,0,0,Sophia Gardens,36
-JCButtler,England,South Africa,21,17,1,1,123.52941176470588,0,0,0,0,0,0,Wankhede Stadium,24
-JCButtler,England,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-JCButtler,England,West Indies,67,44,5,3,152.27272727272728,0,0,0,0,0,0,Kensington Oval Bridgetown,86
-JCButtler,England,West Indies,1,1,0,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,1
-JCButtler,England,South Africa,32,10,2,3,320.0,0,0,0,0,0,0,Edgbaston,40
-JCButtler,England,Netherlands,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0
-JCButtler,England,West Indies,3,8,0,0,37.5,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-JCButtler,England,India,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Edgbaston,8
-JCButtler,England,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Riverside Ground,-8
-JCButtler,England,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,Sharjah Cricket Stadium,1
-JCButtler,England,West Indies,36,22,1,3,163.63636363636365,0,0,0,0,0,0,Eden Gardens,43
-JCButtler,England,Sri Lanka,26,16,4,0,162.5,0,0,0,0,0,0,Kennington Oval,30
-JCButtler,England,South Africa,54,32,4,4,168.75,0,0,0,0,0,0,New Wanderers Stadium,74
-JCButtler,England,Pakistan,16,15,1,0,106.66666666666667,0,0,0,0,0,0,Old Trafford,17
-JCButtler,England,South Africa,34,25,2,1,136.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,38
-JCButtler,England,South Africa,31,22,1,2,140.9090909090909,0,0,0,0,0,0,Sophia Gardens,36
-JCButtler,England,South Africa,21,17,1,1,123.52941176470588,0,0,0,0,0,0,Wankhede Stadium,24
-JCButtler,England,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-JCButtler,England,West Indies,67,44,5,3,152.27272727272728,0,0,0,0,0,0,Kensington Oval Bridgetown,86
-JCButtler,England,West Indies,1,1,0,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,1
-JCButtler,England,South Africa,32,10,2,3,320.0,0,0,0,0,0,0,Edgbaston,40
-JCButtler,England,Netherlands,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0
-JCButtler,England,West Indies,3,8,0,0,37.5,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-JCButtler,England,India,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Edgbaston,8
-JCButtler,England,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Riverside Ground,-8
-JCButtler,England,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,Sharjah Cricket Stadium,1
-JCButtler,England,West Indies,36,22,1,3,163.63636363636365,0,0,0,0,0,0,Eden Gardens,43
-JCButtler,England,South Africa,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Riverside Ground,4
-JCButtler,England,India,33,21,0,3,157.14285714285714,0,0,0,0,0,0,Subrata Roy Sahara Stadium,39
-JCButtler,England,New Zealand,17,10,1,1,170.0,0,0,0,0,0,0,Kennington Oval,20
-JCButtler,England,Sri Lanka,2,4,0,0,50.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-2
-JCButtler,England,Afghanistan,6,10,1,0,60.0,0,0,0,0,0,0,Feroz Shah Kotla,5
-JCButtler,England,New Zealand,54,31,9,1,174.19354838709677,0,0,0,0,0,0,Seddon Park,73
-JCButtler,England,West Indies,13,12,1,0,108.33333333333333,0,0,0,0,0,0,Kennington Oval,14
-JCButtler,England,West Indies,30,20,0,3,150.0,0,0,0,0,0,0,Wankhede Stadium,36
-JCButtler,England,New Zealand,32,17,2,3,188.23529411764704,0,0,0,0,0,0,Feroz Shah Kotla,40
-JCButtler,England,India,15,10,1,1,150.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,18
-JCButtler,England,Australia,11,5,1,1,220.00000000000003,0,0,0,0,0,0,Sophia Gardens,14
-JCButtler,England,India,0,2,0,0,0.0,0,0,0,0,0,0,M Chinnaswamy Stadium,-8
-JCButtler,England,South Africa,32,34,2,0,94.11764705882352,0,0,0,0,0,0,Newlands,34
-JCButtler,England,India,11,12,1,0,91.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,12
-JCButtler,England,New Zealand,5,8,0,0,62.5,0,0,0,0,0,0,Pallekele International Cricket Stadium,3
-JCButtler,England,New Zealand,32,23,4,0,139.1304347826087,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,36
-JCButtler,England,Sri Lanka,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Pallekele International Cricket Stadium,8
-JCButtler,England,Pakistan,3,4,0,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,3
-JCButtler,England,Pakistan,7,13,0,0,53.84615384615385,0,0,0,0,0,0,Sheikh Zayed Stadium,3
-JCButtler,England,India,15,7,1,1,214.28571428571428,0,0,0,0,0,0,Wankhede Stadium,18
-JCButtler,England,Pakistan,33,24,1,3,137.5,0,0,0,0,0,0,Dubai International Cricket Stadium,40
-JCButtler,England,Sri Lanka,73,50,3,4,146.0,0,0,0,0,0,0,The Rose Bowl,92
-JCButtler,England,Sri Lanka,66,38,8,2,173.6842105263158,0,0,0,0,0,0,Feroz Shah Kotla,86
-JCButtler,England,Afghanistan,15,8,3,0,187.5,0,0,0,0,0,0,R Premadasa Stadium,18
-JCButtler,England,Australia,22,28,2,0,78.57142857142857,0,0,0,0,0,0,Melbourne Cricket Ground,24
-JCButtler,England,South Africa,10,9,1,0,111.11111111111111,0,0,0,0,0,0,County Ground,11
-JCButtler,England,New Zealand,32,16,2,3,200.0,0,0,0,0,0,0,Eden Park,40
-JCButtler,England,Australia,20,14,1,1,142.85714285714286,0,0,0,0,0,0,Bellerive Oval,23
-JCButtler,England,Australia,27,17,1,2,158.8235294117647,0,0,0,0,0,0,The Rose Bowl,32
-JCButtler,England,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Dubai International Cricket Stadium,8
-JCButtler,England,Australia,8,9,1,0,88.88888888888889,0,0,0,0,0,0,Stadium Australia,9
-JCButtler,England,Sri Lanka,26,16,4,0,162.5,0,0,0,0,0,0,Kennington Oval,30
-JCButtler,England,South Africa,54,32,4,4,168.75,0,0,0,0,0,0,New Wanderers Stadium,74
-JCButtler,England,Pakistan,16,15,1,0,106.66666666666667,0,0,0,0,0,0,Old Trafford,17
-JCButtler,England,South Africa,34,25,2,1,136.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,38
-JCButtler,England,South Africa,31,22,1,2,140.9090909090909,0,0,0,0,0,0,Sophia Gardens,36
-JCButtler,England,South Africa,21,17,1,1,123.52941176470588,0,0,0,0,0,0,Wankhede Stadium,24
-JCButtler,England,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-JCButtler,England,West Indies,67,44,5,3,152.27272727272728,0,0,0,0,0,0,Kensington Oval Bridgetown,86
-JCButtler,England,West Indies,1,1,0,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,1
-JCButtler,England,South Africa,32,10,2,3,320.0,0,0,0,0,0,0,Edgbaston,40
-JCButtler,England,Netherlands,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0
-JCButtler,England,West Indies,3,8,0,0,37.5,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-JCButtler,England,India,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Edgbaston,8
-JCButtler,England,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Riverside Ground,-8
-JCButtler,England,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,Sharjah Cricket Stadium,1
-JCButtler,England,West Indies,36,22,1,3,163.63636363636365,0,0,0,0,0,0,Eden Gardens,43
-JCButtler,England,South Africa,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Riverside Ground,4
-JCButtler,England,India,33,21,0,3,157.14285714285714,0,0,0,0,0,0,Subrata Roy Sahara Stadium,39
-JCButtler,England,New Zealand,17,10,1,1,170.0,0,0,0,0,0,0,Kennington Oval,20
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JCButtler,England,Australia,20,14,1,1,142.85714285714286,0,0,0,0,0,0,Bellerive Oval,0,0,2014,23
+JCButtler,England,India,11,12,1,0,91.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,12
+JCButtler,England,Pakistan,33,24,1,3,137.5,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2015,48
+JCButtler,England,New Zealand,5,8,0,0,62.5,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,3
+JCButtler,England,West Indies,67,44,5,3,152.27272727272728,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2014,94
+JCButtler,England,South Africa,54,32,4,4,168.75,0,0,0,0,0,0,New Wanderers Stadium,0,0,2016,74
+JCButtler,England,South Africa,32,10,2,3,320.0,0,0,0,0,0,0,Edgbaston,0,0,2012,40
+JCButtler,England,West Indies,1,1,0,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,1
+JCButtler,England,South Africa,34,25,2,1,136.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,38
+JCButtler,England,South Africa,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Riverside Ground,0,0,2012,4
+JCButtler,England,Pakistan,3,4,0,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,3
+JCButtler,England,Sri Lanka,66,38,8,2,173.6842105263158,0,0,0,0,0,0,Feroz Shah Kotla,0,1,2016,94
+JCButtler,England,New Zealand,17,10,1,1,170.0,0,0,0,0,0,0,Kennington Oval,0,1,2013,28
+JCButtler,England,India,15,10,1,1,150.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2017,18
+JCButtler,England,West Indies,3,8,0,0,37.5,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2014,-3
+JCButtler,England,India,33,21,0,3,157.14285714285714,0,0,0,0,0,0,Subrata Roy Sahara Stadium,0,0,2012,39
+JCButtler,England,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2015,1
+JCButtler,England,Sri Lanka,73,50,3,4,146.0,0,0,0,0,0,0,The Rose Bowl,0,1,2016,100
+JCButtler,England,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Riverside Ground,0,0,2013,-8
+JCButtler,England,South Africa,31,22,1,2,140.9090909090909,0,0,0,0,0,0,Sophia Gardens,0,1,2017,44
+JCButtler,England,New Zealand,32,23,4,0,139.1304347826087,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,36
+JCButtler,England,South Africa,32,34,2,0,94.11764705882352,0,0,0,0,0,0,Newlands,0,0,2016,34
+JCButtler,England,South Africa,21,17,1,1,123.52941176470588,0,0,0,0,0,0,Wankhede Stadium,0,0,2016,24
+JCButtler,England,West Indies,36,22,1,3,163.63636363636365,0,0,0,0,0,0,Eden Gardens,0,0,2016,43
+JCButtler,England,Australia,22,28,2,0,78.57142857142857,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2014,24
+JCButtler,England,India,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Edgbaston,0,0,2014,8
+JCButtler,England,Australia,8,9,1,0,88.88888888888889,0,0,0,0,0,0,Stadium Australia,0,1,2014,17
+JCButtler,England,Netherlands,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,0
+JCButtler,England,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2012,16
+JCButtler,England,Australia,11,5,1,1,220.00000000000003,0,0,0,0,0,0,Sophia Gardens,0,0,2015,14
+JCButtler,England,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2014,-8
+JCButtler,England,India,15,7,1,1,214.28571428571428,0,0,0,0,0,0,Wankhede Stadium,0,0,2012,18
+JCButtler,England,South Africa,10,9,1,0,111.11111111111111,0,0,0,0,0,0,County Ground,0,2,2017,27
+JCButtler,England,Sri Lanka,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,8
+JCButtler,England,New Zealand,32,17,2,3,188.23529411764704,0,0,0,0,0,0,Feroz Shah Kotla,1,1,2016,60
+JCButtler,England,New Zealand,32,16,2,3,200.0,0,0,0,0,0,0,Eden Park,0,2,2013,56
+JCButtler,England,New Zealand,54,31,9,1,174.19354838709677,0,0,0,0,0,0,Seddon Park,0,1,2013,81
+JCButtler,England,Sri Lanka,2,4,0,0,50.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2014,6
+JCButtler,England,India,0,2,0,0,0.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,1,2017,0
+JCButtler,England,Pakistan,7,13,0,0,53.84615384615385,0,0,0,0,0,0,Sheikh Zayed Stadium,1,0,2012,15
+JCButtler,England,Pakistan,16,15,1,0,106.66666666666667,0,0,0,0,0,0,Old Trafford,0,0,2016,17
+JCButtler,England,Australia,27,17,1,2,158.8235294117647,0,0,0,0,0,0,The Rose Bowl,0,1,2013,40
+JCButtler,England,Afghanistan,6,10,1,0,60.0,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2016,5
+JCButtler,England,Afghanistan,15,8,3,0,187.5,0,0,0,0,0,0,R Premadasa Stadium,1,0,2012,30
+JCButtler,England,West Indies,30,20,0,3,150.0,0,0,0,0,0,0,Wankhede Stadium,0,0,2016,36
+JCButtler,England,Sri Lanka,26,16,4,0,162.5,0,0,0,0,0,0,Kennington Oval,0,0,2014,30
+JCButtler,England,West Indies,13,12,1,0,108.33333333333333,0,0,0,0,0,0,Kennington Oval,0,0,2011,14
+JCButtler,England,New Zealand,66,64,7,0,103.125,0,0,0,0,0,0,Lord's,0,1,2019,89
+JCButtler,England,Sri Lanka,4,8,1,0,50.0,0,0,0,0,0,0,Riverside Ground,0,1,2014,9
+JCButtler,England,Australia,4,8,0,0,50.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2014,0
+JCButtler,England,Australia,1,2,0,0,50.0,0,0,0,0,0,0,Edgbaston,0,2,2013,13
+JCButtler,England,Pakistan,110,56,6,9,196.42857142857142,0,0,0,0,0,0,The Rose Bowl,0,2,2019,166
+JCButtler,England,Sri Lanka,39,19,6,1,205.26315789473685,0,0,0,0,0,0,Westpac Stadium,0,0,2015,47
+JCButtler,England,Australia,28,61,0,0,45.90163934426229,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2015,38
+JCButtler,England,Sri Lanka,15,23,0,1,65.21739130434783,0,0,0,0,0,0,R Premadasa Stadium,0,0,2014,15
+JCButtler,England,Australia,49,39,3,1,125.64102564102564,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2014,62
+JCButtler,England,Sri Lanka,17,9,2,0,188.88888888888889,0,0,0,0,0,0,Kennington Oval,0,0,2016,19
+JCButtler,England,Australia,29,32,3,1,90.625,0,0,0,0,0,0,Edgbaston,0,1,2017,42
+JCButtler,England,Pakistan,90,52,7,7,173.0769230769231,0,0,0,0,0,0,Trent Bridge,0,1,2016,127
+JCButtler,England,Bangladesh,57,59,6,0,96.61016949152543,0,0,0,0,0,0,Shere Bangla National Stadium,1,1,2016,91
+JCButtler,England,Pakistan,4,5,0,0,80.0,0,0,0,0,0,0,Lord's,0,3,2016,28
+JCButtler,England,New Zealand,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Riverside Ground,0,2,2019,28
+JCButtler,England,New Zealand,61,51,2,2,119.6078431372549,0,0,0,0,0,0,Sophia Gardens,0,1,2017,83
+JCButtler,England,India,49,40,5,2,122.50000000000001,0,0,0,0,0,0,Headingley,0,1,2014,66
+JCButtler,England,South Africa,1,6,0,0,16.666666666666664,0,0,0,0,0,0,New Wanderers Stadium,0,0,2016,-5
+JCButtler,England,India,10,10,1,0,100.0,0,0,0,0,0,0,Barabati Stadium,0,1,2017,19
+JCButtler,England,Sri Lanka,10,10,1,0,100.0,0,0,0,0,0,0,Headingley,0,1,2019,19
+JCButtler,England,New Zealand,47,19,6,3,247.3684210526316,0,0,0,0,0,0,Trent Bridge,0,2,2013,75
+JCButtler,England,Australia,5,9,0,0,55.55555555555556,0,0,0,0,0,0,Adelaide Oval,0,2,2014,17
+JCButtler,England,New Zealand,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Westpac Stadium,0,0,2015,-3
+JCButtler,England,New Zealand,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Sophia Gardens,0,1,2013,24
+JCButtler,England,New Zealand,3,4,0,0,75.0,0,0,0,0,0,0,Eden Park,0,3,2013,27
+JCButtler,England,India,0,1,0,0,0.0,0,0,0,0,0,0,Edgbaston,0,0,2013,-8
+JCButtler,England,Sri Lanka,121,75,11,4,161.33333333333331,0,0,0,0,0,0,Lord's,0,0,2014,156
+JCButtler,England,New Zealand,21,13,0,2,161.53846153846155,0,0,0,0,0,0,Seddon Park,0,1,2013,33
+JCButtler,England,New Zealand,41,39,4,1,105.12820512820514,0,0,0,0,0,0,Kennington Oval,0,1,2015,55
+JCButtler,England,Sri Lanka,70,45,6,1,155.55555555555557,0,0,0,0,0,0,Sophia Gardens,1,0,2016,98
+JCButtler,England,New Zealand,2,3,0,0,66.66666666666666,0,0,0,0,0,0,The Rose Bowl,0,0,2013,0
+JCButtler,England,New Zealand,13,10,2,0,130.0,0,0,0,0,0,0,The Rose Bowl,0,0,2015,15
+JCButtler,England,South Africa,7,7,1,0,100.0,0,0,0,0,0,0,Headingley,0,4,2017,40
+JCButtler,England,West Indies,99,84,7,4,117.85714285714286,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,2,2014,138
+JCButtler,England,Australia,0,3,0,0,0.0,0,0,0,0,0,0,Lord's,0,1,2015,0
+JCButtler,England,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2015,-3
+JCButtler,England,Sri Lanka,2,1,0,0,200.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2014,2
+JCButtler,England,Pakistan,116,54,10,8,214.81481481481484,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2015,166
+JCButtler,England,Pakistan,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Sophia Gardens,0,0,2017,0
+JCButtler,England,South Africa,48,28,4,3,171.42857142857142,0,0,0,0,0,0,St George's Park,0,1,2016,66
+JCButtler,England,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,0,0,2013,-8
+JCButtler,England,Scotland,9,5,1,0,180.0,0,0,0,0,0,0,Mannofield Park,0,0,2014,10
+JCButtler,England,Bangladesh,63,38,3,4,165.78947368421052,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2016,98
+JCButtler,England,Sri Lanka,93,101,6,1,92.07920792079209,0,0,0,0,0,0,Trent Bridge,0,2,2016,125
+JCButtler,England,Australia,4,10,0,0,40.0,0,0,0,0,0,0,The Rose Bowl,0,1,2015,6
+JCButtler,England,Australia,25,27,2,0,92.5925925925926,0,0,0,0,0,0,Lord's,0,2,2019,43
+JCButtler,England,Bangladesh,25,26,3,0,96.15384615384616,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2016,36
+JCButtler,England,Australia,25,25,2,0,100.0,0,0,0,0,0,0,Bellerive Oval,0,0,2015,27
+JCButtler,England,India,11,15,1,0,73.33333333333333,0,0,0,0,0,0,Eden Gardens,0,3,2017,36
+JCButtler,England,Australia,10,13,1,0,76.92307692307693,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2015,19
+JCButtler,England,India,67,79,7,0,84.81012658227847,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,4,2015,114
+JCButtler,England,Sri Lanka,7,15,0,0,46.666666666666664,0,0,0,0,0,0,R Premadasa Stadium,0,0,2014,1
+JCButtler,England,Sri Lanka,26,21,1,1,123.80952380952381,0,0,0,0,0,0,Kennington Oval,0,2,2014,45
+JCButtler,England,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,Newlands,0,1,2016,0
+JCButtler,England,West Indies,7,5,0,0,140.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2017,15
+JCButtler,England,South Africa,18,16,0,0,112.5,0,0,0,0,0,0,Kennington Oval,0,1,2019,26
+JCButtler,England,India,31,36,1,2,86.11111111111111,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,0,1,2017,44
+JCButtler,England,Pakistan,49,51,2,1,96.07843137254902,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2015,61
+JCButtler,England,Sri Lanka,21,25,1,0,84.0,0,0,0,0,0,0,Edgbaston,0,0,2014,22
+JCButtler,England,Bangladesh,64,46,2,4,139.1304347826087,0,0,0,0,0,0,Sophia Gardens,0,0,2019,82
+JCButtler,England,South Africa,65,55,7,0,118.18181818181819,0,0,0,0,0,0,The Rose Bowl,0,3,2017,104
+JCButtler,England,Pakistan,11,10,1,0,110.00000000000001,0,0,0,0,0,0,Sheikh Zayed Stadium,0,3,2015,36
+JCButtler,England,India,14,9,1,1,155.55555555555557,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,1,2013,25
+JCButtler,England,Sri Lanka,55,37,9,0,148.64864864864865,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,2,2014,88
+JCButtler,England,New Zealand,14,25,1,0,56.00000000000001,0,0,0,0,0,0,Lord's,0,2,2013,27
+JCButtler,England,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2014,-8
+JCButtler,England,West Indies,14,19,0,0,73.68421052631578,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,2,2017,30
+JCButtler,England,Australia,65,49,5,2,132.6530612244898,0,0,0,0,0,0,Sophia Gardens,0,3,2013,106
+JCButtler,England,South Africa,105,77,11,5,136.36363636363635,0,0,0,0,0,0,Mangaung Oval,0,0,2016,142
+JCButtler,England,India,42,58,3,0,72.41379310344827,0,0,0,0,0,0,Trent Bridge,0,1,2014,53
+JCButtler,England,Bangladesh,65,52,6,1,125.0,0,0,0,0,0,0,Adelaide Oval,0,1,2015,89
+JCButtler,England,Sri Lanka,21,23,1,1,91.30434782608695,0,0,0,0,0,0,R Premadasa Stadium,0,1,2014,32
+JCButtler,England,Scotland,24,15,3,0,160.0,0,0,0,0,0,0,Hagley Oval,0,4,2015,59
+JCButtler,England,Sri Lanka,23,24,2,0,95.83333333333334,0,0,0,0,0,0,R Premadasa Stadium,0,0,2014,25
+JCButtler,England,West Indies,12,17,1,0,70.58823529411765,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2014,21
+JCButtler,England,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,SuperSport Park,0,1,2016,0
+JCButtler,England,Australia,75,65,5,3,115.38461538461537,0,0,0,0,0,0,Old Trafford,0,3,2013,118
+JCButtler,England,Australia,42,38,4,0,110.5263157894737,0,0,0,0,0,0,The Rose Bowl,0,4,2013,78
+JCButtler,England,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Trent Bridge,0,0,2019,-8
+JCButtler,England,Australia,17,22,2,0,77.27272727272727,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2015,27
+JCButtler,England,Australia,34,24,1,1,141.66666666666669,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2014,37
+JCButtler,England,Afghanistan,2,2,0,0,100.0,0,0,0,0,0,0,Old Trafford,0,1,2019,10
+JCButtler,England,New Zealand,129,81,13,5,159.25925925925927,0,0,0,0,0,0,Edgbaston,0,1,2015,176
+JCButtler,England,Pakistan,103,77,9,2,133.76623376623377,0,0,0,0,0,0,Trent Bridge,0,0,2019,132

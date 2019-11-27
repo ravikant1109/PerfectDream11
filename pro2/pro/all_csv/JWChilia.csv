@@ -1,12 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JWChilia,Vanuatu,Malaysia,3,2,0,0,150.0,23,3,33,0,0,11.0,Kinrara Academy Oval,-1
-JWChilia,Vanuatu,Malaysia,0,0,0,0,0,23,3,21,1,0,7.0,Kinrara Academy Oval,25
-JWChilia,Vanuatu,Malaysia,3,2,0,0,150.0,23,3,33,0,0,11.0,Kinrara Academy Oval,-1
-JWChilia,Vanuatu,Malaysia,0,0,0,0,0,23,3,21,1,0,7.0,Kinrara Academy Oval,25
-JWChilia,Vanuatu,Malaysia,3,2,0,0,150.0,23,3,33,0,0,11.0,Kinrara Academy Oval,-1
-JWChilia,Vanuatu,Malaysia,0,0,0,0,0,23,3,21,1,0,7.0,Kinrara Academy Oval,25
-JWChilia,Vanuatu,Malaysia,0,0,0,0,0,24,4,24,1,0,6.0,Kinrara Academy Oval,25
-JWChilia,Vanuatu,Malaysia,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Kinrara Academy Oval,21
-JWChilia,Vanuatu,Malaysia,1,5,0,0,20.0,23,3,15,0,0,5.0,Kinrara Academy Oval,-3
-JWChilia,Vanuatu,Malaysia,3,2,0,0,150.0,23,3,33,0,0,11.0,Kinrara Academy Oval,-1
-JWChilia,Vanuatu,Malaysia,0,0,0,0,0,23,3,21,1,0,7.0,Kinrara Academy Oval,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JWChilia,Vanuatu,Malaysia,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Kinrara Academy Oval,0,0,2019,21
+JWChilia,Vanuatu,Malaysia,3,2,0,0,150.0,23,3,33,0,0,11.0,Kinrara Academy Oval,0,0,2019,-1
+JWChilia,Vanuatu,Malaysia,1,5,0,0,20.0,23,3,15,0,0,5.0,Kinrara Academy Oval,1,0,2019,9
+JWChilia,Vanuatu,Malaysia,0,0,0,0,0,24,4,24,1,0,6.0,Kinrara Academy Oval,0,0,2019,25
+JWChilia,Vanuatu,Malaysia,0,0,0,0,0,23,3,21,1,0,7.0,Kinrara Academy Oval,0,2,2019,41

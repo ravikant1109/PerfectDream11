@@ -1,26 +1,37 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JMubarak,Sri Lanka,West Indies,7,5,0,0,140.0,0,0,0,0,0,0,Kennington Oval,7
-JMubarak,Sri Lanka,Australia,28,26,3,0,107.6923076923077,1,0,8,0,0,0,Newlands,31
-JMubarak,Sri Lanka,West Indies,7,5,0,0,140.0,0,0,0,0,0,0,Kennington Oval,7
-JMubarak,Sri Lanka,Australia,28,26,3,0,107.6923076923077,1,0,8,0,0,0,Newlands,31
-JMubarak,Sri Lanka,West Indies,7,5,0,0,140.0,0,0,0,0,0,0,Kennington Oval,7
-JMubarak,Sri Lanka,Australia,28,26,3,0,107.6923076923077,1,0,8,0,0,0,Newlands,31
-JMubarak,Sri Lanka,Ireland,7,9,0,0,77.77777777777779,0,0,0,0,0,0,Lord's,7
-JMubarak,Sri Lanka,India,13,19,1,0,68.42105263157895,5,0,9,1,0,0,R Premadasa Stadium,37
-JMubarak,Sri Lanka,West Indies,8,6,1,0,133.33333333333331,0,0,0,0,0,0,Trent Bridge,9
-JMubarak,Sri Lanka,Pakistan,5,10,0,0,50.0,0,0,0,0,0,0,Lord's,1
-JMubarak,Sri Lanka,Kenya,46,13,3,5,353.8461538461538,0,0,0,0,0,0,New Wanderers Stadium,59
-JMubarak,Sri Lanka,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-JMubarak,Sri Lanka,Pakistan,0,4,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,-8
-JMubarak,Sri Lanka,Australia,21,15,1,2,140.0,0,0,0,0,0,0,Trent Bridge,26
-JMubarak,Sri Lanka,Pakistan,8,11,0,0,72.72727272727273,0,0,0,0,0,0,Maple Leaf North-West Ground,8
-JMubarak,Sri Lanka,New Zealand,8,5,1,0,160.0,0,0,0,0,0,0,Trent Bridge,9
-JMubarak,Sri Lanka,Bangladesh,31,20,2,1,155.0,0,0,0,0,0,0,New Wanderers Stadium,35
-JMubarak,Sri Lanka,Pakistan,39,30,6,0,130.0,0,0,0,0,0,0,Maple Leaf North-West Ground,45
-JMubarak,Sri Lanka,West Indies,7,5,0,0,140.0,0,0,0,0,0,0,Kennington Oval,7
-JMubarak,Sri Lanka,Australia,28,26,3,0,107.6923076923077,1,0,8,0,0,0,Newlands,31
-JMubarak,Sri Lanka,Ireland,7,9,0,0,77.77777777777779,0,0,0,0,0,0,Lord's,7
-JMubarak,Sri Lanka,India,13,19,1,0,68.42105263157895,5,0,9,1,0,0,R Premadasa Stadium,37
-JMubarak,Sri Lanka,West Indies,8,6,1,0,133.33333333333331,0,0,0,0,0,0,Trent Bridge,9
-JMubarak,Sri Lanka,Pakistan,5,10,0,0,50.0,0,0,0,0,0,0,Lord's,1
-JMubarak,Sri Lanka,Kenya,46,13,3,5,353.8461538461538,0,0,0,0,0,0,New Wanderers Stadium,59
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JMubarak,Sri Lanka,West Indies,7,5,0,0,140.0,0,0,0,0,0,0,Kennington Oval,0,1,2009,15
+JMubarak,Sri Lanka,New Zealand,8,5,1,0,160.0,0,0,0,0,0,0,Trent Bridge,0,2,2009,25
+JMubarak,Sri Lanka,Pakistan,39,30,6,0,130.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2008,45
+JMubarak,Sri Lanka,Bangladesh,31,20,2,1,155.0,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,43
+JMubarak,Sri Lanka,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,0,0,2009,-8
+JMubarak,Sri Lanka,India,13,19,1,0,68.42105263157895,5,0,9,1,0,0,R Premadasa Stadium,0,1,2009,45
+JMubarak,Sri Lanka,West Indies,8,6,1,0,133.33333333333331,0,0,0,0,0,0,Trent Bridge,0,1,2009,17
+JMubarak,Sri Lanka,Australia,21,15,1,2,140.0,0,0,0,0,0,0,Trent Bridge,0,0,2009,26
+JMubarak,Sri Lanka,Pakistan,5,10,0,0,50.0,0,0,0,0,0,0,Lord's,0,0,2009,1
+JMubarak,Sri Lanka,Ireland,7,9,0,0,77.77777777777779,0,0,0,0,0,0,Lord's,0,0,2009,7
+JMubarak,Sri Lanka,Pakistan,8,11,0,0,72.72727272727273,0,0,0,0,0,0,Maple Leaf North-West Ground,0,2,2008,24
+JMubarak,Sri Lanka,Pakistan,0,4,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,0
+JMubarak,Sri Lanka,Australia,28,26,3,0,107.6923076923077,1,0,8,0,0,0,Newlands,0,0,2007,31
+JMubarak,Sri Lanka,Kenya,46,13,3,5,353.8461538461538,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,59
+JMubarak,Sri Lanka,South Africa,61,70,9,0,87.14285714285714,5,0,10,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2006,78
+JMubarak,Sri Lanka,England,6,15,0,0,40.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2007,0
+JMubarak,Sri Lanka,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,2,2007,8
+JMubarak,Sri Lanka,Bangladesh,10,14,0,0,71.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,1,0,2009,22
+JMubarak,Sri Lanka,South Africa,14,20,1,0,70.0,0,0,0,0,0,0,Bellerive Oval,0,1,2006,23
+JMubarak,Sri Lanka,Australia,2,19,0,0,10.526315789473683,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2006,4
+JMubarak,Sri Lanka,Zimbabwe,22,23,0,1,95.65217391304348,0,0,0,0,0,0,Harare Sports Club,0,0,2008,24
+JMubarak,Sri Lanka,England,44,70,3,0,62.857142857142854,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2007,53
+JMubarak,Sri Lanka,Zimbabwe,16,44,1,0,36.36363636363637,23,3,14,0,0,4.666666666666667,Harare Sports Club,0,0,2008,15
+JMubarak,Sri Lanka,England,1,2,0,0,50.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2007,5
+JMubarak,Sri Lanka,India,47,57,3,0,82.45614035087719,0,0,0,0,0,0,R Premadasa Stadium,0,0,2008,50
+JMubarak,Sri Lanka,Pakistan,8,16,0,0,50.0,0,0,0,0,0,0,National Stadium,0,0,2009,4
+JMubarak,Sri Lanka,Bangladesh,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Shaheed Chandu Stadium,0,0,2006,-2
+JMubarak,Sri Lanka,Bangladesh,22,20,1,0,110.00000000000001,2,0,1,0,0,0,P Saravanamuttu Stadium,0,0,2007,23
+JMubarak,Sri Lanka,Bangladesh,72,83,6,0,86.74698795180723,0,0,0,0,0,0,R Premadasa Stadium,0,0,2007,86
+JMubarak,Sri Lanka,South Africa,31,50,5,0,62.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2006,34
+JMubarak,Sri Lanka,South Africa,0,0,0,0,0,11,1,14,0,0,14.0,R Premadasa Stadium,0,0,2013,0
+JMubarak,Sri Lanka,Bangladesh,2,13,0,0,15.384615384615385,0,0,0,0,0,0,Shaheed Chandu Stadium,0,0,2006,-4
+JMubarak,Sri Lanka,England,20,21,1,0,95.23809523809523,0,0,0,0,0,0,R Premadasa Stadium,0,0,2007,21
+JMubarak,Sri Lanka,New Zealand,53,84,6,0,63.095238095238095,0,0,0,0,0,0,Westpac Stadium,0,0,2006,65
+JMubarak,Sri Lanka,South Africa,4,20,0,0,20.0,0,0,0,0,0,0,Adelaide Oval,0,0,2006,-2
+JMubarak,Sri Lanka,Zimbabwe,0,10,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,0,0,2008,-8

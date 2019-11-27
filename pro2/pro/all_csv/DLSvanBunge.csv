@@ -1,21 +1,19 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DLSvanBunge,Netherlands,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-DLSvanBunge,Netherlands,Kenya,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Wanderers Cricket Ground,0
-DLSvanBunge,Netherlands,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-DLSvanBunge,Netherlands,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-DLSvanBunge,Netherlands,Kenya,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Wanderers Cricket Ground,0
-DLSvanBunge,Netherlands,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-DLSvanBunge,Netherlands,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-DLSvanBunge,Netherlands,Kenya,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Wanderers Cricket Ground,0
-DLSvanBunge,Netherlands,Kenya,19,12,0,2,158.33333333333331,1,0,1,0,0,0,Wanderers Cricket Ground,23
-DLSvanBunge,Netherlands,Ireland,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-DLSvanBunge,Netherlands,Afghanistan,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Sharjah Cricket Stadium,8
-DLSvanBunge,Netherlands,England,8,8,1,0,100.0,0,0,0,0,0,0,Lord's,9
-DLSvanBunge,Netherlands,Afghanistan,24,23,0,1,104.34782608695652,0,0,0,0,0,0,Dubai International Cricket Stadium,26
-DLSvanBunge,Netherlands,Scotland,0,2,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,-8
-DLSvanBunge,Netherlands,Canada,0,0,0,0,0,11,1,14,1,0,14.0,Dubai International Cricket Stadium,25
-DLSvanBunge,Netherlands,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,-8
-DLSvanBunge,Netherlands,Kenya,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Wanderers Cricket Ground,0
-DLSvanBunge,Netherlands,Kenya,19,12,0,2,158.33333333333331,1,0,1,0,0,0,Wanderers Cricket Ground,23
-DLSvanBunge,Netherlands,Ireland,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,0
-DLSvanBunge,Netherlands,Afghanistan,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Sharjah Cricket Stadium,8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DLSvanBunge,Netherlands,Kenya,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Wanderers Cricket Ground,0,0,2013,0
+DLSvanBunge,Netherlands,England,8,8,1,0,100.0,0,0,0,0,0,0,Lord's,0,0,2009,9
+DLSvanBunge,Netherlands,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,0,0,2009,-8
+DLSvanBunge,Netherlands,Kenya,19,12,0,2,158.33333333333331,1,0,1,0,0,0,Wanderers Cricket Ground,0,0,2013,23
+DLSvanBunge,Netherlands,Canada,0,0,0,0,0,11,1,14,1,0,14.0,Dubai International Cricket Stadium,0,0,2010,25
+DLSvanBunge,Netherlands,Scotland,0,2,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2008,-8
+DLSvanBunge,Netherlands,Afghanistan,24,23,0,1,104.34782608695652,0,0,0,0,0,0,Dubai International Cricket Stadium,1,0,2010,38
+DLSvanBunge,Netherlands,Afghanistan,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,8
+DLSvanBunge,Netherlands,Ireland,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2010,8
+DLSvanBunge,Netherlands,Bermuda,9,12,0,1,75.0,0,0,0,0,0,0,Willowmoore Park,0,0,2006,11
+DLSvanBunge,Netherlands,Scotland,0,0,0,0,0,6,1,4,1,0,4.0,Warner Park Basseterre,0,0,2007,25
+DLSvanBunge,Netherlands,Bermuda,5,13,1,0,38.46153846153847,17,2,24,0,0,12.0,Ruaraka Sports Club Ground,0,0,2007,-6
+DLSvanBunge,Netherlands,Canada,52,64,4,1,81.25,43,7,32,0,0,4.571428571428571,Willowmoore Park,0,1,2006,78
+DLSvanBunge,Netherlands,Australia,33,33,3,1,100.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,38
+DLSvanBunge,Netherlands,Canada,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2013,9
+DLSvanBunge,Netherlands,South Africa,5,16,1,0,31.25,23,3,56,0,0,18.666666666666668,Warner Park Basseterre,0,1,2007,2
+DLSvanBunge,Netherlands,Ireland,11,26,1,0,42.30769230769231,0,0,0,0,0,0,VRA Ground,0,0,2013,6
+DLSvanBunge,Netherlands,Scotland,34,91,1,1,37.362637362637365,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2008,31

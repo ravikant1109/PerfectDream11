@@ -1,6 +1,32 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MAWood,England,South Africa,0,0,0,0,0,23,3,36,2,0,12.0,The Rose Bowl,44
-MAWood,England,South Africa,0,0,0,0,0,23,3,36,2,0,12.0,The Rose Bowl,44
-MAWood,England,South Africa,0,0,0,0,0,23,3,36,2,0,12.0,The Rose Bowl,44
-MAWood,England,New Zealand,0,0,0,0,0,17,2,26,3,0,13.0,Old Trafford,69
-MAWood,England,South Africa,0,0,0,0,0,23,3,36,2,0,12.0,The Rose Bowl,44
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MAWood,England,South Africa,0,0,0,0,0,23,3,36,2,0,12.0,The Rose Bowl,0,0,2017,44
+MAWood,England,New Zealand,0,0,0,0,0,17,2,26,3,0,13.0,Old Trafford,0,0,2015,69
+MAWood,England,New Zealand,0,0,0,0,0,61,10,54,1,1,5.4,Lord's,0,0,2019,35
+MAWood,England,Pakistan,8,5,0,0,160.0,60,10,56,2,0,5.6,Sophia Gardens,0,1,2016,68
+MAWood,England,Ireland,0,0,0,0,0,33,5,26,1,1,5.2,The Village Malahide,0,0,2015,35
+MAWood,England,Pakistan,0,0,0,0,0,62,10,57,1,0,5.7,The Rose Bowl,0,1,2016,35
+MAWood,England,West Indies,0,0,0,0,0,40,6,19,3,0,3.1666666666666665,The Rose Bowl,0,0,2019,81
+MAWood,England,Australia,0,0,0,0,0,59,9,34,4,2,3.7777777777777777,Edgbaston,0,0,2017,130
+MAWood,England,Pakistan,0,0,0,0,0,61,10,76,1,0,7.6,Trent Bridge,0,0,2016,25
+MAWood,England,Pakistan,0,0,0,0,0,61,10,51,3,1,5.1,Lord's,0,0,2016,85
+MAWood,England,New Zealand,0,0,0,0,0,55,9,36,3,0,4.0,Riverside Ground,1,0,2019,91
+MAWood,England,New Zealand,0,1,0,0,0.0,53,8,36,1,1,4.5,Sophia Gardens,0,0,2017,29
+MAWood,England,New Zealand,0,0,0,0,0,59,9,61,0,0,6.777777777777778,Riverside Ground,0,0,2015,0
+MAWood,England,Sri Lanka,0,4,0,0,0.0,48,8,41,3,0,5.125,Headingley,0,0,2019,69
+MAWood,England,New Zealand,3,4,0,0,75.0,61,10,49,1,0,4.9,The Rose Bowl,0,1,2015,40
+MAWood,England,South Africa,0,0,0,0,0,35,5,49,1,0,9.8,Headingley,0,1,2017,31
+MAWood,England,Australia,0,0,0,0,0,57,9,49,1,0,5.444444444444445,Edgbaston,0,0,2019,27
+MAWood,England,Pakistan,3,5,0,0,60.0,49,8,38,0,1,4.75,Sophia Gardens,0,0,2017,13
+MAWood,England,Ireland,0,0,0,0,0,35,5,24,1,0,4.8,County Ground,0,0,2017,29
+MAWood,England,Australia,10,11,1,0,90.9090909090909,61,10,72,1,0,7.2,The Rose Bowl,0,0,2015,36
+MAWood,England,Australia,1,2,0,0,50.0,55,9,60,1,1,6.666666666666667,Lord's,0,0,2019,30
+MAWood,England,Bangladesh,0,0,0,0,0,47,7,54,2,0,7.714285714285714,Sophia Gardens,0,0,2019,50
+MAWood,England,South Africa,0,0,0,0,0,60,10,51,0,0,5.1,The Rose Bowl,0,0,2017,2
+MAWood,England,Australia,13,14,1,0,92.85714285714286,29,4,26,1,1,6.5,Old Trafford,0,0,2015,47
+MAWood,England,Ireland,0,0,0,0,0,48,8,39,2,1,4.875,Lord's,0,0,2017,62
+MAWood,England,Bangladesh,0,0,0,0,0,60,10,58,0,1,5.8,Kennington Oval,0,1,2017,18
+MAWood,England,Pakistan,0,0,0,0,0,59,9,72,2,0,8.0,Trent Bridge,0,2,2019,66
+MAWood,England,Afghanistan,0,0,0,0,0,60,10,40,2,1,4.0,Old Trafford,0,0,2019,62
+MAWood,England,Australia,0,0,0,0,0,54,9,65,0,0,7.222222222222222,Headingley,0,0,2015,0
+MAWood,England,New Zealand,0,0,0,0,0,60,10,49,1,1,4.9,Trent Bridge,0,0,2015,37
+MAWood,England,Pakistan,10,6,2,0,166.66666666666669,61,10,54,2,0,5.4,Trent Bridge,0,0,2019,64

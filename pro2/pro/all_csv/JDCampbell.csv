@@ -1,2 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JDCampbell,West Indies,India,0,2,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JDCampbell,West Indies,India,0,2,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,-8
+JDCampbell,West Indies,Ireland,179,140,15,6,127.85714285714285,0,0,0,0,0,0,Castle Avenue,0,0,2019,222

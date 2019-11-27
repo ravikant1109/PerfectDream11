@@ -1,46 +1,145 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GCSmith,South Africa,Pakistan,38,42,4,0,90.47619047619048,0,0,0,0,0,0,Sheikh Zayed Stadium,42
-GCSmith,South Africa,India,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Kingsmead,2
-GCSmith,South Africa,Pakistan,38,42,4,0,90.47619047619048,0,0,0,0,0,0,Sheikh Zayed Stadium,42
-GCSmith,South Africa,Pakistan,38,42,4,0,90.47619047619048,0,0,0,0,0,0,Sheikh Zayed Stadium,42
-GCSmith,South Africa,India,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Kingsmead,2
-GCSmith,South Africa,Pakistan,38,42,4,0,90.47619047619048,0,0,0,0,0,0,Sheikh Zayed Stadium,42
-GCSmith,South Africa,India,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Kingsmead,2
-GCSmith,South Africa,Pakistan,13,12,3,0,108.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,16
-GCSmith,South Africa,England,11,15,2,0,73.33333333333333,0,0,0,0,0,0,Trent Bridge,13
-GCSmith,South Africa,India,26,27,2,0,96.29629629629629,0,0,0,0,0,0,Trent Bridge,28
-GCSmith,South Africa,Pakistan,13,13,1,0,100.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,14
-GCSmith,South Africa,England,41,23,3,4,178.26086956521738,0,0,0,0,0,0,New Wanderers Stadium,52
-GCSmith,South Africa,New Zealand,2,4,0,0,50.0,0,0,0,0,0,0,Kingsmead,-2
-GCSmith,South Africa,Australia,22,26,3,0,84.61538461538461,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,25
-GCSmith,South Africa,Afghanistan,27,14,4,1,192.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,33
-GCSmith,South Africa,West Indies,4,5,0,0,80.0,0,0,0,0,0,0,New Wanderers Stadium,4
-GCSmith,South Africa,England,88,45,8,6,195.55555555555554,0,0,0,0,0,0,SuperSport Park,116
-GCSmith,South Africa,New Zealand,33,36,4,0,91.66666666666666,0,0,0,0,0,0,Lord's,37
-GCSmith,South Africa,New Zealand,61,44,10,1,138.63636363636365,7,1,21,0,0,21.0,New Wanderers Stadium,81
-GCSmith,South Africa,England,19,25,2,0,76.0,0,0,0,0,0,0,Kensington Oval Bridgetown,21
-GCSmith,South Africa,West Indies,37,31,3,1,119.35483870967742,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,42
-GCSmith,South Africa,Australia,24,22,1,1,109.09090909090908,0,0,0,0,0,0,New Wanderers Stadium,27
-GCSmith,South Africa,England,19,14,4,0,135.71428571428572,0,0,0,0,0,0,Newlands,23
-GCSmith,South Africa,Scotland,38,29,6,1,131.0344827586207,0,0,0,0,0,0,Kennington Oval,46
-GCSmith,South Africa,Australia,89,61,11,1,145.9016393442623,11,1,22,0,0,22.0,New Wanderers Stadium,110
-GCSmith,South Africa,New Zealand,14,13,2,0,107.6923076923077,0,0,0,0,0,0,Kensington Oval Bridgetown,16
-GCSmith,South Africa,Zimbabwe,58,30,9,2,193.33333333333334,0,0,0,0,0,0,OUTsurance Oval,79
-GCSmith,South Africa,Zimbabwe,46,30,7,1,153.33333333333334,0,0,0,0,0,0,De Beers Diamond Oval,55
-GCSmith,South Africa,West Indies,31,18,6,0,172.22222222222223,0,0,0,0,0,0,Kennington Oval,37
-GCSmith,South Africa,India,16,24,3,0,66.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,17
-GCSmith,South Africa,India,36,28,1,2,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,41
-GCSmith,South Africa,West Indies,15,18,2,0,83.33333333333334,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,17
-GCSmith,South Africa,Australia,0,8,0,0,0.0,0,0,0,0,0,0,Newlands,-8
-GCSmith,South Africa,Bangladesh,41,34,6,0,120.58823529411764,0,0,0,0,0,0,Newlands,47
-GCSmith,South Africa,West Indies,28,25,4,1,112.00000000000001,5,0,17,0,0,0,New Wanderers Stadium,34
-GCSmith,South Africa,New Zealand,7,16,1,0,43.75,0,0,0,0,0,0,New Wanderers Stadium,2
-GCSmith,South Africa,Pakistan,10,14,0,0,71.42857142857143,0,0,0,0,0,0,Trent Bridge,10
-GCSmith,South Africa,Pakistan,38,42,4,0,90.47619047619048,0,0,0,0,0,0,Sheikh Zayed Stadium,42
-GCSmith,South Africa,India,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Kingsmead,2
-GCSmith,South Africa,Pakistan,13,12,3,0,108.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,16
-GCSmith,South Africa,England,11,15,2,0,73.33333333333333,0,0,0,0,0,0,Trent Bridge,13
-GCSmith,South Africa,India,26,27,2,0,96.29629629629629,0,0,0,0,0,0,Trent Bridge,28
-GCSmith,South Africa,Pakistan,13,13,1,0,100.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,14
-GCSmith,South Africa,England,41,23,3,4,178.26086956521738,0,0,0,0,0,0,New Wanderers Stadium,52
-GCSmith,South Africa,New Zealand,2,4,0,0,50.0,0,0,0,0,0,0,Kingsmead,-2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GCSmith,South Africa,New Zealand,2,4,0,0,50.0,0,0,0,0,0,0,Kingsmead,0,0,2007,-2
+GCSmith,South Africa,England,19,14,4,0,135.71428571428572,0,0,0,0,0,0,Newlands,0,0,2007,23
+GCSmith,South Africa,England,11,15,2,0,73.33333333333333,0,0,0,0,0,0,Trent Bridge,0,0,2009,13
+GCSmith,South Africa,India,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Kingsmead,0,2,2007,18
+GCSmith,South Africa,Bangladesh,41,34,6,0,120.58823529411764,0,0,0,0,0,0,Newlands,0,2,2007,63
+GCSmith,South Africa,India,36,28,1,2,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,2,2010,57
+GCSmith,South Africa,New Zealand,14,13,2,0,107.6923076923077,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,16
+GCSmith,South Africa,Pakistan,13,12,3,0,108.33333333333333,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2010,32
+GCSmith,South Africa,New Zealand,61,44,10,1,138.63636363636365,7,1,21,0,0,21.0,New Wanderers Stadium,0,0,2005,81
+GCSmith,South Africa,India,26,27,2,0,96.29629629629629,0,0,0,0,0,0,Trent Bridge,0,0,2009,28
+GCSmith,South Africa,Pakistan,10,14,0,0,71.42857142857143,0,0,0,0,0,0,Trent Bridge,0,0,2009,10
+GCSmith,South Africa,Australia,22,26,3,0,84.61538461538461,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2006,25
+GCSmith,South Africa,West Indies,4,5,0,0,80.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2008,4
+GCSmith,South Africa,England,19,25,2,0,76.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2010,29
+GCSmith,South Africa,Afghanistan,27,14,4,1,192.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,33
+GCSmith,South Africa,Pakistan,13,13,1,0,100.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2010,22
+GCSmith,South Africa,India,16,24,3,0,66.66666666666666,0,0,0,0,0,0,New Wanderers Stadium,0,0,2006,17
+GCSmith,South Africa,Zimbabwe,46,30,7,1,153.33333333333334,0,0,0,0,0,0,De Beers Diamond Oval,0,0,2010,55
+GCSmith,South Africa,Australia,24,22,1,1,109.09090909090908,0,0,0,0,0,0,New Wanderers Stadium,0,0,2011,27
+GCSmith,South Africa,West Indies,37,31,3,1,119.35483870967742,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2010,50
+GCSmith,South Africa,Zimbabwe,58,30,9,2,193.33333333333334,0,0,0,0,0,0,OUTsurance Oval,0,0,2010,79
+GCSmith,South Africa,Pakistan,38,42,4,0,90.47619047619048,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2010,50
+GCSmith,South Africa,Scotland,38,29,6,1,131.0344827586207,0,0,0,0,0,0,Kennington Oval,0,0,2009,46
+GCSmith,South Africa,England,41,23,3,4,178.26086956521738,0,0,0,0,0,0,New Wanderers Stadium,1,0,2009,64
+GCSmith,South Africa,Australia,0,8,0,0,0.0,0,0,0,0,0,0,Newlands,0,0,2011,-8
+GCSmith,South Africa,Australia,89,61,11,1,145.9016393442623,11,1,22,0,0,22.0,New Wanderers Stadium,0,2,2006,126
+GCSmith,South Africa,New Zealand,33,36,4,0,91.66666666666666,0,0,0,0,0,0,Lord's,1,0,2009,49
+GCSmith,South Africa,West Indies,15,18,2,0,83.33333333333334,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,17
+GCSmith,South Africa,New Zealand,7,16,1,0,43.75,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,10
+GCSmith,South Africa,West Indies,28,25,4,1,112.00000000000001,5,0,17,0,0,0,New Wanderers Stadium,0,0,2007,34
+GCSmith,South Africa,West Indies,31,18,6,0,172.22222222222223,0,0,0,0,0,0,Kennington Oval,0,1,2009,45
+GCSmith,South Africa,England,88,45,8,6,195.55555555555554,0,0,0,0,0,0,SuperSport Park,0,1,2009,124
+GCSmith,South Africa,Sri Lanka,3,10,0,0,30.0,17,2,16,0,0,8.0,Brisbane Cricket Ground Woolloongabba,1,1,2006,17
+GCSmith,South Africa,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,-8
+GCSmith,South Africa,Sri Lanka,68,70,7,1,97.14285714285714,0,0,0,0,0,0,De Beers Diamond Oval,0,0,2012,85
+GCSmith,South Africa,Pakistan,48,70,5,0,68.57142857142857,0,0,0,0,0,0,Iqbal Stadium,0,1,2007,59
+GCSmith,South Africa,England,22,41,2,0,53.65853658536586,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,20
+GCSmith,South Africa,Pakistan,20,25,1,0,80.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2013,29
+GCSmith,South Africa,Australia,24,30,3,0,80.0,0,0,0,0,0,0,Newlands,0,0,2006,27
+GCSmith,South Africa,Australia,10,13,2,0,76.92307692307693,24,4,15,0,1,3.75,St George's Park,0,0,2006,26
+GCSmith,South Africa,Pakistan,14,35,0,0,40.0,0,0,0,0,0,0,Dubai International Cricket Stadium,1,1,2013,28
+GCSmith,South Africa,India,0,3,0,0,0.0,0,0,0,0,0,0,St George's Park,0,2,2006,8
+GCSmith,South Africa,India,43,81,3,0,53.086419753086425,0,0,0,0,0,0,Newlands,0,1,2011,50
+GCSmith,South Africa,Australia,90,57,13,2,157.89473684210526,23,3,29,0,0,9.666666666666666,New Wanderers Stadium,0,0,2006,113
+GCSmith,South Africa,Australia,4,5,1,0,80.0,0,0,0,0,0,0,SuperSport Park,0,0,2011,5
+GCSmith,South Africa,England,2,5,0,0,40.0,0,0,0,0,0,0,St George's Park,0,0,2009,-4
+GCSmith,South Africa,India,77,98,8,0,78.57142857142857,0,0,0,0,0,0,New Wanderers Stadium,0,0,2011,93
+GCSmith,South Africa,Sri Lanka,6,8,0,0,75.0,0,0,0,0,0,0,Boland Park,0,0,2012,6
+GCSmith,South Africa,Pakistan,12,22,0,1,54.54545454545454,0,0,0,0,0,0,Kingsmead,0,0,2013,10
+GCSmith,South Africa,Netherlands,20,33,1,0,60.60606060606061,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,1,0,2011,31
+GCSmith,South Africa,Zimbabwe,19,21,3,0,90.47619047619048,0,0,0,0,0,0,OUTsurance Oval,0,1,2010,30
+GCSmith,South Africa,Pakistan,1,7,0,0,14.285714285714285,0,0,0,0,0,0,St George's Park,0,0,2013,-5
+GCSmith,South Africa,Zimbabwe,53,48,7,1,110.41666666666667,0,0,0,0,0,0,SuperSport Park,0,1,2009,78
+GCSmith,South Africa,Pakistan,30,48,4,0,62.5,0,0,0,0,0,0,Chevrolet Park,0,2,2013,48
+GCSmith,South Africa,Bangladesh,45,68,4,0,66.17647058823529,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2011,55
+GCSmith,South Africa,India,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Kingsmead,0,0,2006,-5
+GCSmith,South Africa,Pakistan,3,11,0,0,27.27272727272727,0,0,0,0,0,0,New Wanderers Stadium,0,0,2013,-3
+GCSmith,South Africa,England,21,23,2,0,91.30434782608695,0,0,0,0,0,0,Headingley,0,0,2008,23
+GCSmith,South Africa,Bangladesh,68,96,3,3,70.83333333333334,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2008,93
+GCSmith,South Africa,Australia,52,58,6,0,89.65517241379311,0,0,0,0,0,0,Kingsmead,0,0,2009,66
+GCSmith,South Africa,Sri Lanka,67,77,5,0,87.01298701298701,18,3,19,0,0,6.333333333333333,Bellerive Oval,0,0,2006,80
+GCSmith,South Africa,England,18,25,2,0,72.0,0,0,0,0,0,0,Kennington Oval,0,0,2012,20
+GCSmith,South Africa,New Zealand,28,34,2,0,82.35294117647058,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,30
+GCSmith,South Africa,West Indies,1,3,0,0,33.33333333333333,0,0,0,0,0,0,SuperSport Park,0,1,2008,3
+GCSmith,South Africa,New Zealand,0,7,0,0,0.0,0,0,0,0,0,0,St George's Park,0,0,2007,-8
+GCSmith,South Africa,Pakistan,72,50,15,0,144.0,9,1,6,1,0,6.0,SuperSport Park,0,2,2007,136
+GCSmith,South Africa,Sri Lanka,58,44,9,1,131.8181818181818,0,0,0,0,0,0,SuperSport Park,0,0,2009,77
+GCSmith,South Africa,New Zealand,9,16,1,0,56.25,0,0,0,0,0,0,Westpac Stadium,0,1,2012,14
+GCSmith,South Africa,Pakistan,81,105,7,0,77.14285714285715,0,0,0,0,0,0,Multan Cricket Stadium,0,1,2007,104
+GCSmith,South Africa,New Zealand,51,74,3,0,68.91891891891892,0,0,0,0,0,0,Newlands,0,1,2007,68
+GCSmith,South Africa,New Zealand,1,13,0,0,7.6923076923076925,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2007,-5
+GCSmith,South Africa,Zimbabwe,50,57,7,0,87.71929824561403,0,0,0,0,0,0,Queens Sports Club,0,1,2007,73
+GCSmith,South Africa,England,54,57,6,0,94.73684210526315,0,0,0,0,0,0,Newlands,0,3,2009,92
+GCSmith,South Africa,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Gaddafi Stadium,0,0,2007,-8
+GCSmith,South Africa,Zimbabwe,96,103,11,2,93.20388349514563,0,0,0,0,0,0,Harare Sports Club,0,0,2007,119
+GCSmith,South Africa,India,79,89,7,3,88.76404494382022,0,0,0,0,0,0,SuperSport Park,0,1,2006,108
+GCSmith,South Africa,New Zealand,42,58,5,0,72.41379310344827,50,8,32,1,0,4.0,Brabourne Stadium,0,0,2006,76
+GCSmith,South Africa,Pakistan,18,23,2,0,78.26086956521739,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2010,28
+GCSmith,South Africa,Scotland,91,65,13,1,140.0,17,2,13,0,0,6.5,Warner Park Basseterre,0,1,2007,122
+GCSmith,South Africa,Zimbabwe,26,21,4,1,123.80952380952381,0,0,0,0,0,0,Willowmoore Park,0,0,2010,32
+GCSmith,South Africa,West Indies,7,23,0,0,30.434782608695656,30,5,56,2,0,11.2,National Cricket Stadium St George's,0,1,2007,53
+GCSmith,South Africa,Australia,0,2,0,0,0.0,60,10,59,1,0,5.9,Docklands Stadium,0,0,2006,19
+GCSmith,South Africa,West Indies,37,52,2,0,71.15384615384616,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,1,0,2010,51
+GCSmith,South Africa,Pakistan,10,18,1,0,55.55555555555556,0,0,0,0,0,0,SuperSport Park,0,1,2013,15
+GCSmith,South Africa,Pakistan,15,13,3,0,115.38461538461537,41,6,36,1,0,6.0,Kingsmead,0,0,2007,43
+GCSmith,South Africa,England,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Trent Bridge,0,0,2012,-5
+GCSmith,South Africa,Sri Lanka,2,13,0,0,15.384615384615385,0,0,0,0,0,0,Chevrolet Park,0,1,2012,4
+GCSmith,South Africa,England,89,59,13,0,150.84745762711864,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2007,126
+GCSmith,South Africa,Bangladesh,28,44,3,0,63.63636363636363,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2008,37
+GCSmith,South Africa,Pakistan,65,100,5,0,65.0,0,0,0,0,0,0,Gaddafi Stadium,0,1,2007,84
+GCSmith,South Africa,England,141,135,16,0,104.44444444444446,0,0,0,0,0,0,SuperSport Park,0,1,2009,181
+GCSmith,South Africa,Bangladesh,12,24,1,0,50.0,20,3,16,0,0,5.333333333333333,Providence Stadium,0,2,2007,27
+GCSmith,South Africa,India,0,2,0,0,0.0,11,1,10,0,0,10.0,Newlands,0,4,2006,24
+GCSmith,South Africa,Australia,9,17,1,0,52.94117647058824,25,4,15,1,0,3.75,Docklands Stadium,0,1,2006,45
+GCSmith,South Africa,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,1,2006,0
+GCSmith,South Africa,Australia,20,16,3,0,125.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,23
+GCSmith,South Africa,Sri Lanka,59,66,7,1,89.39393939393939,17,2,16,0,0,8.0,Providence Stadium,0,0,2007,76
+GCSmith,South Africa,Sri Lanka,41,54,4,1,75.92592592592592,61,10,32,3,0,3.2,Western Australia Cricket Association Ground,0,0,2006,128
+GCSmith,South Africa,West Indies,12,22,1,0,54.54545454545454,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2010,25
+GCSmith,South Africa,Ireland,7,18,0,0,38.88888888888889,0,0,0,0,0,0,Eden Gardens,0,2,2011,17
+GCSmith,South Africa,West Indies,5,9,1,0,55.55555555555556,0,0,0,0,0,0,New Wanderers Stadium,0,1,2008,10
+GCSmith,South Africa,England,29,54,2,0,53.70370370370371,0,0,0,0,0,0,Lord's,0,0,2012,27
+GCSmith,South Africa,Sri Lanka,28,56,2,0,50.0,0,0,0,0,0,0,Buffalo Park,0,0,2012,26
+GCSmith,South Africa,Pakistan,56,45,6,2,124.44444444444444,0,0,0,0,0,0,Newlands,0,0,2007,74
+GCSmith,South Africa,Zimbabwe,35,40,6,1,87.5,0,0,0,0,0,0,Willowmoore Park,0,0,2009,43
+GCSmith,South Africa,Australia,8,14,1,0,57.14285714285714,0,0,0,0,0,0,Newlands,0,0,2009,5
+GCSmith,South Africa,Australia,40,49,5,0,81.63265306122449,0,0,0,0,0,0,SuperSport Park,0,0,2009,45
+GCSmith,South Africa,New Zealand,116,132,14,0,87.87878787878788,0,0,0,0,0,0,Senwes Park,0,0,2013,146
+GCSmith,South Africa,Australia,1,3,0,0,33.33333333333333,15,2,23,0,0,11.5,Kingsmead,0,0,2006,-11
+GCSmith,South Africa,Pakistan,12,16,2,0,75.0,0,0,0,0,0,0,Newlands,0,0,2013,14
+GCSmith,South Africa,India,7,11,1,0,63.63636363636363,0,0,0,0,0,0,SuperSport Park,0,1,2011,14
+GCSmith,South Africa,England,52,76,5,0,68.42105263157895,0,0,0,0,0,0,The Rose Bowl,0,1,2012,71
+GCSmith,South Africa,Zimbabwe,24,33,4,0,72.72727272727273,0,0,0,0,0,0,Harare Sports Club,1,0,2007,40
+GCSmith,South Africa,New Zealand,7,14,1,0,50.0,0,0,0,0,0,0,SuperSport Park,0,0,2009,4
+GCSmith,South Africa,England,12,21,2,0,57.14285714285714,0,0,0,0,0,0,SuperSport Park,0,0,2009,10
+GCSmith,South Africa,Sri Lanka,10,16,1,0,62.5,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,2,2006,25
+GCSmith,South Africa,Pakistan,92,106,9,0,86.79245283018868,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,109
+GCSmith,South Africa,Pakistan,34,45,5,0,75.55555555555556,0,0,0,0,0,0,Gaddafi Stadium,0,1,2007,47
+GCSmith,South Africa,Australia,6,9,1,0,66.66666666666666,61,10,53,1,0,5.3,Sydney Cricket Ground,1,0,2006,44
+GCSmith,South Africa,Pakistan,0,0,0,0,0,18,3,17,0,0,5.666666666666667,St George's Park,0,0,2007,2
+GCSmith,South Africa,Bangladesh,103,120,14,1,85.83333333333333,0,0,0,0,0,0,Chittagong Divisional Stadium,0,1,2008,143
+GCSmith,South Africa,Australia,74,71,9,2,104.22535211267605,11,1,14,0,0,14.0,Warner Park Basseterre,0,0,2007,95
+GCSmith,South Africa,New Zealand,66,76,8,0,86.8421052631579,0,0,0,0,0,0,De Beers Diamond Oval,0,0,2013,82
+GCSmith,South Africa,West Indies,56,67,7,0,83.5820895522388,0,0,0,0,0,0,St George's Park,0,1,2008,79
+GCSmith,South Africa,Australia,119,128,12,1,92.96875,18,3,24,0,0,8.0,SuperSport Park,0,0,2006,149
+GCSmith,South Africa,Netherlands,67,59,6,2,113.55932203389831,47,7,32,1,1,4.571428571428571,Warner Park Basseterre,0,1,2007,130
+GCSmith,South Africa,West Indies,29,41,1,0,70.73170731707317,0,0,0,0,0,0,Windsor Park Roseau,0,0,2010,30
+GCSmith,South Africa,India,16,29,2,0,55.172413793103445,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,2,2011,30
+GCSmith,South Africa,Australia,19,37,1,0,51.35135135135135,0,0,0,0,0,0,Kingsmead,0,0,2011,16
+GCSmith,South Africa,West Indies,23,30,2,0,76.66666666666667,0,0,0,0,0,0,Windsor Park Roseau,0,1,2010,33
+GCSmith,South Africa,Sri Lanka,28,50,2,0,56.00000000000001,5,0,7,0,0,0,Adelaide Oval,0,0,2006,26
+GCSmith,South Africa,Australia,2,5,0,0,40.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2007,4
+GCSmith,South Africa,West Indies,18,17,2,1,105.88235294117648,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2010,30
+GCSmith,South Africa,India,18,30,2,0,60.0,0,0,0,0,0,0,St George's Park,0,1,2011,26
+GCSmith,South Africa,Pakistan,14,15,3,0,93.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2010,25
+GCSmith,South Africa,India,11,16,2,0,68.75,0,0,0,0,0,0,Kingsmead,0,2,2011,27
+GCSmith,South Africa,West Indies,86,108,11,0,79.62962962962963,0,0,0,0,0,0,Newlands,0,1,2008,113
+GCSmith,South Africa,West Indies,45,78,2,0,57.692307692307686,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2011,43
+GCSmith,South Africa,Australia,57,71,6,0,80.28169014084507,0,0,0,0,0,0,St George's Park,0,1,2011,79
+GCSmith,South Africa,Australia,20,30,2,0,66.66666666666666,0,0,0,0,0,0,St George's Park,0,0,2009,20
+GCSmith,South Africa,Zimbabwe,40,42,5,1,95.23809523809523,0,0,0,0,0,0,Senwes Park,0,0,2010,47
+GCSmith,South Africa,West Indies,50,37,10,0,135.13513513513513,0,0,0,0,0,0,Kingsmead,0,1,2008,76
+GCSmith,South Africa,New Zealand,44,66,4,0,66.66666666666666,0,0,0,0,0,0,Kingsmead,0,0,2007,46
+GCSmith,South Africa,Australia,12,26,1,0,46.15384615384615,29,4,19,0,0,4.75,Brisbane Cricket Ground Woolloongabba,0,1,2006,19

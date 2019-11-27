@@ -1,30 +1,50 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NoorAliZadran,Afghanistan,Hong Kong,35,38,1,0,92.10526315789474,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,36
-NoorAliZadran,Afghanistan,Scotland,17,12,2,1,141.66666666666669,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,21
-NoorAliZadran,Afghanistan,India,50,49,4,0,102.04081632653062,0,0,0,0,0,0,Beausejour Stadium Gros Islet,62
-NoorAliZadran,Afghanistan,Hong Kong,35,38,1,0,92.10526315789474,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,36
-NoorAliZadran,Afghanistan,Scotland,17,12,2,1,141.66666666666669,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,21
-NoorAliZadran,Afghanistan,India,50,49,4,0,102.04081632653062,0,0,0,0,0,0,Beausejour Stadium Gros Islet,62
-NoorAliZadran,Afghanistan,Hong Kong,35,38,1,0,92.10526315789474,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,36
-NoorAliZadran,Afghanistan,Scotland,17,12,2,1,141.66666666666669,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,21
-NoorAliZadran,Afghanistan,India,50,49,4,0,102.04081632653062,0,0,0,0,0,0,Beausejour Stadium Gros Islet,62
-NoorAliZadran,Afghanistan,Scotland,9,13,0,0,69.23076923076923,0,0,0,0,0,0,Sharjah Cricket Stadium,7
-NoorAliZadran,Afghanistan,Netherlands,11,5,2,0,220.00000000000003,0,0,0,0,0,0,Dubai International Cricket Stadium,13
-NoorAliZadran,Afghanistan,England,17,20,0,0,85.0,0,0,0,0,0,0,Feroz Shah Kotla,17
-NoorAliZadran,Afghanistan,Sri Lanka,20,24,3,0,83.33333333333334,0,0,0,0,0,0,Eden Gardens,23
-NoorAliZadran,Afghanistan,South Africa,0,4,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-NoorAliZadran,Afghanistan,Ireland,42,45,5,0,93.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,47
-NoorAliZadran,Afghanistan,West Indies,35,20,5,2,175.0,0,0,0,0,0,0,Warner Park Basseterre,44
-NoorAliZadran,Afghanistan,Oman,63,44,8,0,143.1818181818182,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,79
-NoorAliZadran,Afghanistan,South Africa,25,25,1,1,100.0,0,0,0,0,0,0,Wankhede Stadium,28
-NoorAliZadran,Afghanistan,West Indies,6,6,1,0,100.0,0,0,0,0,0,0,Warner Park Basseterre,7
-NoorAliZadran,Afghanistan,Ireland,16,24,1,0,66.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,15
-NoorAliZadran,Afghanistan,Netherlands,18,25,0,0,72.0,0,0,0,0,0,0,Dubai International Cricket Stadium,18
-NoorAliZadran,Afghanistan,Zimbabwe,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,9
-NoorAliZadran,Afghanistan,Hong Kong,9,17,1,0,52.94117647058824,0,0,0,0,0,0,Shere Bangla National Stadium,6
-NoorAliZadran,Afghanistan,Kenya,50,49,4,1,102.04081632653062,0,0,0,0,0,0,Sharjah Cricket Stadium,64
-NoorAliZadran,Afghanistan,Hong Kong,35,38,1,0,92.10526315789474,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,36
-NoorAliZadran,Afghanistan,Scotland,17,12,2,1,141.66666666666669,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,21
-NoorAliZadran,Afghanistan,India,50,49,4,0,102.04081632653062,0,0,0,0,0,0,Beausejour Stadium Gros Islet,62
-NoorAliZadran,Afghanistan,Scotland,9,13,0,0,69.23076923076923,0,0,0,0,0,0,Sharjah Cricket Stadium,7
-NoorAliZadran,Afghanistan,Netherlands,11,5,2,0,220.00000000000003,0,0,0,0,0,0,Dubai International Cricket Stadium,13
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NoorAliZadran,Afghanistan,Ireland,16,24,1,0,66.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,15
+NoorAliZadran,Afghanistan,West Indies,6,6,1,0,100.0,0,0,0,0,0,0,Warner Park Basseterre,0,1,2017,15
+NoorAliZadran,Afghanistan,Hong Kong,9,17,1,0,52.94117647058824,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,6
+NoorAliZadran,Afghanistan,South Africa,25,25,1,1,100.0,0,0,0,0,0,0,Wankhede Stadium,0,1,2016,36
+NoorAliZadran,Afghanistan,India,50,49,4,0,102.04081632653062,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,62
+NoorAliZadran,Afghanistan,Zimbabwe,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,9
+NoorAliZadran,Afghanistan,Sri Lanka,20,24,3,0,83.33333333333334,0,0,0,0,0,0,Eden Gardens,0,0,2016,23
+NoorAliZadran,Afghanistan,South Africa,0,4,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,-8
+NoorAliZadran,Afghanistan,Scotland,9,13,0,0,69.23076923076923,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2013,15
+NoorAliZadran,Afghanistan,Oman,63,44,8,0,143.1818181818182,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,79
+NoorAliZadran,Afghanistan,Netherlands,18,25,0,0,72.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,18
+NoorAliZadran,Afghanistan,Ireland,42,45,5,0,93.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2010,55
+NoorAliZadran,Afghanistan,Kenya,50,49,4,1,102.04081632653062,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,64
+NoorAliZadran,Afghanistan,England,17,20,0,0,85.0,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2016,17
+NoorAliZadran,Afghanistan,Netherlands,11,5,2,0,220.00000000000003,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,13
+NoorAliZadran,Afghanistan,Hong Kong,35,38,1,0,92.10526315789474,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,36
+NoorAliZadran,Afghanistan,Scotland,17,12,2,1,141.66666666666669,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,21
+NoorAliZadran,Afghanistan,West Indies,35,20,5,2,175.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,44
+NoorAliZadran,Afghanistan,India,31,38,6,0,81.57894736842105,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,37
+NoorAliZadran,Afghanistan,Pakistan,44,63,6,0,69.84126984126983,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,1,2014,56
+NoorAliZadran,Afghanistan,Zimbabwe,63,83,7,0,75.90361445783132,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2015,86
+NoorAliZadran,Afghanistan,Zimbabwe,0,4,0,0,0.0,0,0,0,0,0,0,Queens Sports Club,0,0,2014,-8
+NoorAliZadran,Afghanistan,Scotland,6,20,1,0,30.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,1,2016,9
+NoorAliZadran,Afghanistan,Zimbabwe,60,99,5,0,60.60606060606061,0,0,0,0,0,0,Queens Sports Club,0,1,2015,79
+NoorAliZadran,Afghanistan,Scotland,1,4,0,0,25.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2016,-5
+NoorAliZadran,Afghanistan,New Zealand,31,38,5,0,81.57894736842105,0,0,0,0,0,0,The Cooper Associates County Ground,0,0,2019,36
+NoorAliZadran,Afghanistan,Ireland,5,10,0,0,50.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2019,1
+NoorAliZadran,Afghanistan,South Africa,32,58,4,0,55.172413793103445,0,0,0,0,0,0,Sophia Gardens,0,0,2019,32
+NoorAliZadran,Afghanistan,Zimbabwe,14,28,2,0,50.0,0,0,0,0,0,0,Harare Sports Club,0,0,2017,12
+NoorAliZadran,Afghanistan,Scotland,45,29,9,0,155.17241379310346,0,0,0,0,0,0,Willowmoore Park,0,2,2009,70
+NoorAliZadran,Afghanistan,West Indies,8,15,1,0,53.333333333333336,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,5
+NoorAliZadran,Afghanistan,Zimbabwe,13,26,2,0,50.0,0,0,0,0,0,0,Queens Sports Club,0,0,2014,11
+NoorAliZadran,Afghanistan,Zimbabwe,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,2
+NoorAliZadran,Afghanistan,Pakistan,9,8,1,0,112.5,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2012,10
+NoorAliZadran,Afghanistan,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,0,1,2017,0
+NoorAliZadran,Afghanistan,Ireland,25,46,3,0,54.347826086956516,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,24
+NoorAliZadran,Afghanistan,West Indies,5,15,0,0,33.33333333333333,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,-1
+NoorAliZadran,Afghanistan,Zimbabwe,23,54,2,0,42.592592592592595,0,0,0,0,0,0,Queens Sports Club,0,0,2015,19
+NoorAliZadran,Afghanistan,Zimbabwe,0,4,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2016,0
+NoorAliZadran,Afghanistan,Scotland,6,6,0,0,100.0,0,0,0,0,0,0,Cambusdoon New Ground,0,0,2010,6
+NoorAliZadran,Afghanistan,United Arab Emirates,53,73,4,0,72.6027397260274,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2014,65
+NoorAliZadran,Afghanistan,Zimbabwe,39,76,4,0,51.31578947368421,0,0,0,0,0,0,Harare Sports Club,0,0,2017,39
+NoorAliZadran,Afghanistan,Zimbabwe,30,44,4,0,68.18181818181817,0,0,0,0,0,0,Sharjah Cricket Stadium,0,2,2016,48
+NoorAliZadran,Afghanistan,Ireland,51,71,3,0,71.83098591549296,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,62
+NoorAliZadran,Afghanistan,England,0,8,0,0,0.0,0,0,0,0,0,0,Old Trafford,0,0,2019,-8
+NoorAliZadran,Afghanistan,Zimbabwe,31,52,3,0,59.61538461538461,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2015,30
+NoorAliZadran,Afghanistan,Zimbabwe,46,50,6,1,92.0,0,0,0,0,0,0,Harare Sports Club,0,1,2017,62
+NoorAliZadran,Afghanistan,Ireland,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,-5
+NoorAliZadran,Afghanistan,Ireland,10,12,2,0,83.33333333333334,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2016,12

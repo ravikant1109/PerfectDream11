@@ -1,34 +1,53 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CRBrathwaite,West Indies,South Africa,10,11,0,1,90.9090909090909,11,1,11,0,0,11.0,Vidarbha Cricket Association Stadium Jamtha,12
-CRBrathwaite,West Indies,England,34,10,1,4,340.0,24,4,24,3,0,6.0,Eden Gardens,118
-CRBrathwaite,West Indies,South Africa,10,11,0,1,90.9090909090909,11,1,11,0,0,11.0,Vidarbha Cricket Association Stadium Jamtha,12
-CRBrathwaite,West Indies,England,34,10,1,4,340.0,24,4,24,3,0,6.0,Eden Gardens,118
-CRBrathwaite,West Indies,South Africa,10,11,0,1,90.9090909090909,11,1,11,0,0,11.0,Vidarbha Cricket Association Stadium Jamtha,12
-CRBrathwaite,West Indies,England,34,10,1,4,340.0,24,4,24,3,0,6.0,Eden Gardens,118
-CRBrathwaite,West Indies,Pakistan,15,23,1,0,65.21739130434783,24,4,37,3,0,9.25,Queen's Park Oval Port of Spain,87
-CRBrathwaite,West Indies,Bangladesh,1,2,0,0,50.0,17,2,25,1,0,12.5,Shere Bangla National Stadium,16
-CRBrathwaite,West Indies,Pakistan,0,2,0,0,0.0,14,2,29,0,0,14.5,Dubai International Cricket Stadium,-14
-CRBrathwaite,West Indies,Afghanistan,0,0,0,0,0,23,3,17,2,0,5.666666666666667,Warner Park Basseterre,52
-CRBrathwaite,West Indies,Afghanistan,13,8,0,2,162.5,11,1,21,0,0,21.0,Vidarbha Cricket Association Stadium Jamtha,17
-CRBrathwaite,West Indies,England,0,0,0,0,0,11,1,16,0,0,16.0,Wankhede Stadium,0
-CRBrathwaite,West Indies,India,14,10,1,1,140.0,23,3,47,0,0,15.666666666666666,Central Broward Regional Park Stadium Turf Ground,11
-CRBrathwaite,West Indies,Sri Lanka,0,0,0,0,0,26,4,39,1,0,9.75,M Chinnaswamy Stadium,23
-CRBrathwaite,West Indies,India,18,11,2,1,163.63636363636365,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,22
-CRBrathwaite,West Indies,India,10,7,0,1,142.85714285714286,12,2,25,0,0,12.5,Providence Stadium Guyana,6
-CRBrathwaite,West Indies,Afghanistan,0,0,0,0,0,5,0,3,0,0,0,Warner Park Basseterre,0
-CRBrathwaite,West Indies,India,0,0,0,0,0,14,2,26,0,0,13.0,Sabina Park Kingston,-6
-CRBrathwaite,West Indies,Afghanistan,8,5,0,1,160.0,17,2,26,2,0,13.0,Warner Park Basseterre,54
-CRBrathwaite,West Indies,Pakistan,0,0,0,0,0,6,1,18,0,0,18.0,Sheikh Zayed Stadium,0
-CRBrathwaite,West Indies,Pakistan,8,6,1,0,133.33333333333331,23,3,25,1,0,8.333333333333334,Dubai International Cricket Stadium,34
-CRBrathwaite,West Indies,South Africa,1,2,0,0,50.0,20,3,42,0,0,14.0,Kingsmead,-9
-CRBrathwaite,West Indies,Pakistan,37,24,2,2,154.16666666666669,13,2,13,0,0,6.5,Queen's Park Oval Port of Spain,43
-CRBrathwaite,West Indies,Pakistan,34,28,2,2,121.42857142857142,17,2,18,1,0,9.0,Kensington Oval Bridgetown,65
-CRBrathwaite,West Indies,India,0,0,0,0,0,12,2,22,0,0,11.0,Central Broward Regional Park Stadium Turf Ground,-4
-CRBrathwaite,West Indies,India,9,24,0,0,37.5,11,1,12,0,0,12.0,Central Broward Regional Park Stadium Turf Ground,3
-CRBrathwaite,West Indies,Pakistan,0,0,0,0,0,17,2,16,1,0,8.0,Queen's Park Oval Port of Spain,25
-CRBrathwaite,West Indies,India,0,0,0,0,0,23,3,38,0,0,12.666666666666666,Wankhede Stadium,-6
-CRBrathwaite,West Indies,South Africa,10,11,0,1,90.9090909090909,11,1,11,0,0,11.0,Vidarbha Cricket Association Stadium Jamtha,12
-CRBrathwaite,West Indies,England,34,10,1,4,340.0,24,4,24,3,0,6.0,Eden Gardens,118
-CRBrathwaite,West Indies,Pakistan,15,23,1,0,65.21739130434783,24,4,37,3,0,9.25,Queen's Park Oval Port of Spain,87
-CRBrathwaite,West Indies,Bangladesh,1,2,0,0,50.0,17,2,25,1,0,12.5,Shere Bangla National Stadium,16
-CRBrathwaite,West Indies,Pakistan,0,2,0,0,0.0,14,2,29,0,0,14.5,Dubai International Cricket Stadium,-14
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CRBrathwaite,West Indies,India,14,10,1,1,140.0,23,3,47,0,0,15.666666666666666,Central Broward Regional Park Stadium Turf Ground,0,0,2016,11
+CRBrathwaite,West Indies,India,0,0,0,0,0,14,2,26,0,0,13.0,Sabina Park Kingston,0,0,2017,-6
+CRBrathwaite,West Indies,Pakistan,0,2,0,0,0.0,14,2,29,0,0,14.5,Dubai International Cricket Stadium,0,0,2016,-14
+CRBrathwaite,West Indies,Afghanistan,8,5,0,1,160.0,17,2,26,2,0,13.0,Warner Park Basseterre,0,1,2017,62
+CRBrathwaite,West Indies,South Africa,1,2,0,0,50.0,20,3,42,0,0,14.0,Kingsmead,0,0,2015,-9
+CRBrathwaite,West Indies,India,0,0,0,0,0,12,2,22,0,0,11.0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,-4
+CRBrathwaite,West Indies,Pakistan,0,0,0,0,0,17,2,16,1,0,8.0,Queen's Park Oval Port of Spain,0,0,2017,25
+CRBrathwaite,West Indies,South Africa,10,11,0,1,90.9090909090909,11,1,11,0,0,11.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,12
+CRBrathwaite,West Indies,India,10,7,0,1,142.85714285714286,12,2,25,0,0,12.5,Providence Stadium Guyana,0,0,2019,6
+CRBrathwaite,West Indies,Pakistan,0,0,0,0,0,6,1,18,0,0,18.0,Sheikh Zayed Stadium,0,0,2016,0
+CRBrathwaite,West Indies,Afghanistan,13,8,0,2,162.5,11,1,21,0,0,21.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,17
+CRBrathwaite,West Indies,England,34,10,1,4,340.0,24,4,24,3,0,6.0,Eden Gardens,0,0,2016,118
+CRBrathwaite,West Indies,India,0,0,0,0,0,23,3,38,0,0,12.666666666666666,Wankhede Stadium,0,0,2016,-6
+CRBrathwaite,West Indies,India,9,24,0,0,37.5,11,1,12,0,0,12.0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,3
+CRBrathwaite,West Indies,India,18,11,2,1,163.63636363636365,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,22
+CRBrathwaite,West Indies,Bangladesh,1,2,0,0,50.0,17,2,25,1,0,12.5,Shere Bangla National Stadium,0,0,2011,16
+CRBrathwaite,West Indies,Pakistan,15,23,1,0,65.21739130434783,24,4,37,3,0,9.25,Queen's Park Oval Port of Spain,1,2,2017,115
+CRBrathwaite,West Indies,Pakistan,37,24,2,2,154.16666666666669,13,2,13,0,0,6.5,Queen's Park Oval Port of Spain,0,0,2017,43
+CRBrathwaite,West Indies,Afghanistan,0,0,0,0,0,23,3,17,2,0,5.666666666666667,Warner Park Basseterre,0,0,2017,52
+CRBrathwaite,West Indies,Pakistan,34,28,2,2,121.42857142857142,17,2,18,1,0,9.0,Kensington Oval Bridgetown,0,0,2017,65
+CRBrathwaite,West Indies,England,0,0,0,0,0,11,1,16,0,0,16.0,Wankhede Stadium,0,1,2016,8
+CRBrathwaite,West Indies,Sri Lanka,0,0,0,0,0,26,4,39,1,0,9.75,M Chinnaswamy Stadium,0,0,2016,23
+CRBrathwaite,West Indies,Pakistan,8,6,1,0,133.33333333333331,23,3,25,1,0,8.333333333333334,Dubai International Cricket Stadium,0,0,2016,34
+CRBrathwaite,West Indies,Afghanistan,0,0,0,0,0,5,0,3,0,0,0,Warner Park Basseterre,0,0,2017,0
+CRBrathwaite,West Indies,Sri Lanka,8,16,1,0,50.0,42,7,55,0,0,7.857142857142857,Riverside Ground,1,0,2019,17
+CRBrathwaite,West Indies,England,14,22,0,1,63.63636363636363,30,5,35,0,0,7.0,The Rose Bowl,0,1,2019,22
+CRBrathwaite,West Indies,Sri Lanka,9,6,0,1,150.0,31,5,37,2,0,7.4,R Premadasa Stadium,0,1,2015,69
+CRBrathwaite,West Indies,Australia,21,48,1,1,43.75,17,2,14,0,0,7.0,Providence Stadium,0,0,2016,18
+CRBrathwaite,West Indies,South Africa,11,15,0,1,73.33333333333333,62,10,39,0,1,3.9,St George's Park,0,0,2015,27
+CRBrathwaite,West Indies,South Africa,0,1,0,0,0.0,59,9,69,1,0,7.666666666666667,Warner Park Basseterre,0,0,2016,17
+CRBrathwaite,West Indies,New Zealand,101,83,9,5,121.6867469879518,36,6,58,2,0,9.666666666666666,Old Trafford,0,0,2019,184
+CRBrathwaite,West Indies,Australia,14,13,1,1,107.6923076923077,47,7,32,1,3,4.571428571428571,Kensington Oval Bridgetown,1,0,2016,82
+CRBrathwaite,West Indies,Sri Lanka,17,13,1,1,130.76923076923077,25,4,35,0,0,8.75,R Premadasa Stadium,0,1,2015,28
+CRBrathwaite,West Indies,South Africa,4,10,0,0,40.0,29,4,32,0,0,8.0,Buffalo Park,0,0,2015,-2
+CRBrathwaite,West Indies,India,0,3,0,0,0.0,61,10,54,3,0,5.4,Queen's Park Oval Trinidad,0,0,2019,69
+CRBrathwaite,West Indies,Pakistan,14,13,2,0,107.6923076923077,47,7,61,0,0,8.714285714285714,Sharjah Cricket Stadium,0,1,2016,24
+CRBrathwaite,West Indies,Australia,7,6,1,0,116.66666666666667,53,8,64,1,0,8.0,Kensington Oval Bridgetown,0,0,2016,33
+CRBrathwaite,West Indies,India,1,5,0,0,20.0,19,3,33,0,0,11.0,Old Trafford,0,0,2019,-9
+CRBrathwaite,West Indies,Sri Lanka,19,18,0,1,105.55555555555556,43,7,64,1,0,9.142857142857142,Queens Sports Club,0,0,2016,44
+CRBrathwaite,West Indies,Sri Lanka,18,14,3,0,128.57142857142858,44,7,40,1,0,5.714285714285714,Pallekele International Cricket Stadium,0,0,2015,48
+CRBrathwaite,West Indies,Bangladesh,11,20,1,0,55.00000000000001,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2011,8
+CRBrathwaite,West Indies,Pakistan,0,0,0,0,0,23,3,14,0,0,4.666666666666667,Trent Bridge,0,0,2019,4
+CRBrathwaite,West Indies,Pakistan,15,16,0,2,93.75,59,9,56,3,0,6.222222222222222,Sharjah Cricket Stadium,1,0,2016,106
+CRBrathwaite,West Indies,England,7,24,0,0,29.166666666666668,62,10,56,0,0,5.6,Kensington Oval Bridgetown,0,1,2017,11
+CRBrathwaite,West Indies,Zimbabwe,0,0,0,0,0,49,8,52,0,0,6.5,Queens Sports Club,0,0,2016,0
+CRBrathwaite,West Indies,Zimbabwe,9,5,0,1,180.0,60,10,48,4,0,4.8,Queens Sports Club,0,0,2016,123
+CRBrathwaite,West Indies,England,12,12,1,0,100.0,60,10,54,0,1,5.4,Sir Vivian Richards Stadium North Sound,1,1,2017,43
+CRBrathwaite,West Indies,South Africa,1,9,0,0,11.11111111111111,55,9,51,0,0,5.666666666666667,SuperSport Park,0,0,2015,-3
+CRBrathwaite,West Indies,Sri Lanka,14,13,1,0,107.6923076923077,54,9,34,1,0,3.7777777777777777,Harare Sports Club,0,0,2016,46
+CRBrathwaite,West Indies,South Africa,33,45,2,1,73.33333333333333,59,9,39,2,2,4.333333333333333,Kensington Oval Bridgetown,0,0,2016,107
+CRBrathwaite,West Indies,Australia,16,17,1,1,94.11764705882352,61,10,67,3,1,6.7,Trent Bridge,0,0,2019,102
+CRBrathwaite,West Indies,Afghanistan,14,4,2,1,350.0,57,9,63,4,0,7.0,Headingley,0,0,2019,126

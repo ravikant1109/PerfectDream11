@@ -1,4 +1,27 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SFMire,Zimbabwe,Ireland,0,0,0,0,0,23,3,36,0,0,12.0,Bready,-6
-SFMire,Zimbabwe,Netherlands,4,4,1,0,100.0,0,0,0,0,0,0,Hazelaarweg,5
-SFMire,Zimbabwe,Ireland,0,0,0,0,0,23,3,36,0,0,12.0,Bready,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SFMire,Zimbabwe,Ireland,0,0,0,0,0,23,3,36,0,0,12.0,Bready,0,0,2019,-6
+SFMire,Zimbabwe,Netherlands,4,4,1,0,100.0,0,0,0,0,0,0,Hazelaarweg,0,1,2019,13
+SFMire,Zimbabwe,India,9,23,1,0,39.130434782608695,29,4,29,0,1,7.25,Eden Park,0,0,2015,12
+SFMire,Zimbabwe,Pakistan,8,15,0,0,53.333333333333336,6,1,9,0,0,9.0,Brisbane Cricket Ground Woolloongabba,0,0,2015,4
+SFMire,Zimbabwe,Sri Lanka,43,30,5,1,143.33333333333334,19,3,21,0,0,7.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,50
+SFMire,Zimbabwe,Sri Lanka,0,5,0,0,0.0,0,0,0,0,0,0,Galle International Stadium,0,0,2017,-8
+SFMire,Zimbabwe,Afghanistan,46,52,5,2,88.46153846153845,18,3,9,1,0,3.0,Harare Sports Club,0,0,2017,86
+SFMire,Zimbabwe,Scotland,40,48,4,0,83.33333333333334,12,2,19,0,0,9.5,Grange Cricket Club Ground Raeburn Place,0,1,2017,50
+SFMire,Zimbabwe,Ireland,14,28,1,0,50.0,24,4,22,1,0,5.5,Civil Service Cricket Club Stormont,0,0,2019,38
+SFMire,Zimbabwe,Bangladesh,52,54,6,2,96.29629629629629,64,10,50,3,0,5.0,Shere Bangla National Stadium,0,0,2014,147
+SFMire,Zimbabwe,United Arab Emirates,9,22,0,0,40.909090909090914,47,7,39,2,0,5.571428571428571,Saxton Oval,0,0,2015,55
+SFMire,Zimbabwe,Bangladesh,50,81,2,0,61.72839506172839,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,58
+SFMire,Zimbabwe,Bangladesh,11,18,0,1,61.111111111111114,26,4,22,0,0,5.5,Zahur Ahmed Chowdhury Stadium,0,1,2014,21
+SFMire,Zimbabwe,Sri Lanka,112,102,14,0,109.80392156862746,43,7,47,1,0,6.714285714285714,Galle International Stadium,0,0,2017,167
+SFMire,Zimbabwe,Sri Lanka,13,21,2,0,61.904761904761905,11,1,19,0,0,19.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,13
+SFMire,Zimbabwe,Bangladesh,9,16,0,1,56.25,3,0,10,0,0,0,Shere Bangla National Stadium,0,1,2014,15
+SFMire,Zimbabwe,Sri Lanka,43,32,5,2,134.375,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,52
+SFMire,Zimbabwe,Netherlands,28,34,5,0,82.35294117647058,18,3,17,0,0,5.666666666666667,Sportpark Het Schootsveld,0,0,2019,35
+SFMire,Zimbabwe,Afghanistan,54,55,7,1,98.18181818181819,35,5,41,0,0,8.2,Harare Sports Club,0,0,2017,71
+SFMire,Zimbabwe,Ireland,11,21,1,0,52.38095238095239,0,0,0,0,0,0,Bellerive Oval,0,0,2015,8
+SFMire,Zimbabwe,Afghanistan,4,8,0,0,50.0,0,0,0,0,0,0,Harare Sports Club,0,1,2017,8
+SFMire,Zimbabwe,Afghanistan,2,11,0,0,18.181818181818183,37,6,30,0,0,5.0,Harare Sports Club,0,1,2017,6
+SFMire,Zimbabwe,South Africa,27,26,2,2,103.84615384615385,37,6,61,0,0,10.166666666666666,Seddon Park,0,0,2015,29
+SFMire,Zimbabwe,Ireland,4,8,1,0,50.0,49,8,44,4,1,5.5,Civil Service Cricket Club Stormont,0,0,2019,119
+SFMire,Zimbabwe,Afghanistan,2,6,0,0,33.33333333333333,29,4,23,0,0,5.75,Harare Sports Club,0,1,2017,6
+SFMire,Zimbabwe,Bangladesh,12,34,1,0,35.294117647058826,5,0,11,0,0,0,Shere Bangla National Stadium,0,0,2014,7

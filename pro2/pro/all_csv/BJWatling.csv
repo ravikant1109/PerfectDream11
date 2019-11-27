@@ -1,6 +1,28 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BJWatling,New Zealand,Sri Lanka,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,7
-BJWatling,New Zealand,Pakistan,22,36,1,0,61.111111111111114,0,0,0,0,0,0,Dubai International Cricket Stadium,21
-BJWatling,New Zealand,Pakistan,7,10,1,0,70.0,0,0,0,0,0,0,Dubai International Cricket Stadium,8
-BJWatling,New Zealand,West Indies,1,2,0,0,50.0,0,0,0,0,0,0,Windsor Park Roseau,-3
-BJWatling,New Zealand,Sri Lanka,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,7
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BJWatling,New Zealand,Pakistan,22,36,1,0,61.111111111111114,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2009,29
+BJWatling,New Zealand,Sri Lanka,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,7
+BJWatling,New Zealand,West Indies,1,2,0,0,50.0,0,0,0,0,0,0,Windsor Park Roseau,0,0,2014,-3
+BJWatling,New Zealand,Pakistan,7,10,1,0,70.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2009,16
+BJWatling,New Zealand,Bangladesh,6,11,0,0,54.54545454545454,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,2
+BJWatling,New Zealand,Sri Lanka,55,70,8,0,78.57142857142857,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,79
+BJWatling,New Zealand,West Indies,40,47,4,1,85.1063829787234,0,0,0,0,0,0,Warner Park Basseterre,0,0,2012,46
+BJWatling,New Zealand,Australia,17,22,2,0,77.27272727272727,0,0,0,0,0,0,Manuka Oval,0,0,2016,19
+BJWatling,New Zealand,Australia,8,13,1,0,61.53846153846154,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2016,7
+BJWatling,New Zealand,Bangladesh,1,8,0,0,12.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,3
+BJWatling,New Zealand,India,2,13,0,0,15.384615384615385,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,4
+BJWatling,New Zealand,England,1,11,0,0,9.090909090909092,0,0,0,0,0,0,Eden Park,0,3,2013,19
+BJWatling,New Zealand,England,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Seddon Park,0,0,2013,-4
+BJWatling,New Zealand,Sri Lanka,96,91,12,0,105.4945054945055,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,116
+BJWatling,New Zealand,Bangladesh,0,14,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,0
+BJWatling,New Zealand,Australia,6,13,0,0,46.15384615384615,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2016,16
+BJWatling,New Zealand,India,14,21,1,0,66.66666666666666,0,0,0,0,0,0,JSCA International Stadium Complex,0,2,2016,29
+BJWatling,New Zealand,West Indies,72,66,4,2,109.09090909090908,0,0,0,0,0,0,Sabina Park Kingston,0,1,2012,96
+BJWatling,New Zealand,India,0,2,0,0,0.0,0,0,0,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,-8
+BJWatling,New Zealand,West Indies,60,102,5,0,58.82352941176471,0,0,0,0,0,0,Sabina Park Kingston,0,1,2012,77
+BJWatling,New Zealand,England,7,23,0,0,30.434782608695656,0,0,0,0,0,0,McLean Park,0,0,2013,1
+BJWatling,New Zealand,South Africa,20,41,2,0,48.78048780487805,0,0,0,0,0,0,Senwes Park,0,1,2013,24
+BJWatling,New Zealand,Zimbabwe,19,17,3,0,111.76470588235294,0,0,0,0,0,0,Harare Sports Club,0,0,2011,22
+BJWatling,New Zealand,Bangladesh,20,42,2,0,47.61904761904761,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,16
+BJWatling,New Zealand,Sri Lanka,15,26,1,0,57.692307692307686,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2012,20
+BJWatling,New Zealand,South Africa,12,33,2,0,36.36363636363637,0,0,0,0,0,0,De Beers Diamond Oval,0,1,2013,16
+BJWatling,New Zealand,Sri Lanka,55,87,6,0,63.2183908045977,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,75

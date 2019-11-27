@@ -1,2 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JEdness,Bermuda,Scotland,0,1,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JEdness,Bermuda,Scotland,0,1,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2008,-8
+JEdness,Bermuda,Canada,35,49,4,0,71.42857142857143,0,0,0,0,0,0,Maple Leaf North-West Ground,0,1,2008,47
+JEdness,Bermuda,Kenya,12,37,1,0,32.432432432432435,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,7
+JEdness,Bermuda,Kenya,0,5,0,0,0.0,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,-8

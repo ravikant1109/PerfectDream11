@@ -1,38 +1,37 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AnwarAli,Pakistan,England,20,14,0,2,142.85714285714286,23,3,19,1,0,6.333333333333333,Dubai International Cricket Stadium,49
-AnwarAli,Pakistan,Zimbabwe,10,7,1,0,142.85714285714286,17,2,21,1,0,10.5,Harare Sports Club,32
-AnwarAli,Pakistan,New Zealand,2,4,0,0,50.0,12,2,13,0,0,6.5,Dubai International Cricket Stadium,-2
-AnwarAli,Pakistan,New Zealand,0,0,0,0,0,11,1,16,1,0,16.0,Dubai International Cricket Stadium,25
-AnwarAli,Pakistan,New Zealand,8,7,1,0,114.28571428571428,17,2,31,0,0,15.5,Westpac Stadium,3
-AnwarAli,Pakistan,England,0,0,0,0,0,24,4,36,1,0,9.0,Sharjah Cricket Stadium,25
-AnwarAli,Pakistan,England,20,14,0,2,142.85714285714286,23,3,19,1,0,6.333333333333333,Dubai International Cricket Stadium,49
-AnwarAli,Pakistan,England,20,14,0,2,142.85714285714286,23,3,19,1,0,6.333333333333333,Dubai International Cricket Stadium,49
-AnwarAli,Pakistan,Zimbabwe,10,7,1,0,142.85714285714286,17,2,21,1,0,10.5,Harare Sports Club,32
-AnwarAli,Pakistan,New Zealand,2,4,0,0,50.0,12,2,13,0,0,6.5,Dubai International Cricket Stadium,-2
-AnwarAli,Pakistan,New Zealand,0,0,0,0,0,11,1,16,1,0,16.0,Dubai International Cricket Stadium,25
-AnwarAli,Pakistan,New Zealand,8,7,1,0,114.28571428571428,17,2,31,0,0,15.5,Westpac Stadium,3
-AnwarAli,Pakistan,England,0,0,0,0,0,24,4,36,1,0,9.0,Sharjah Cricket Stadium,25
-AnwarAli,Pakistan,England,20,14,0,2,142.85714285714286,23,3,19,1,0,6.333333333333333,Dubai International Cricket Stadium,49
-AnwarAli,Pakistan,England,20,14,0,2,142.85714285714286,23,3,19,1,0,6.333333333333333,Dubai International Cricket Stadium,49
-AnwarAli,Pakistan,Zimbabwe,10,7,1,0,142.85714285714286,17,2,21,1,0,10.5,Harare Sports Club,32
-AnwarAli,Pakistan,New Zealand,2,4,0,0,50.0,12,2,13,0,0,6.5,Dubai International Cricket Stadium,-2
-AnwarAli,Pakistan,New Zealand,0,0,0,0,0,11,1,16,1,0,16.0,Dubai International Cricket Stadium,25
-AnwarAli,Pakistan,New Zealand,8,7,1,0,114.28571428571428,17,2,31,0,0,15.5,Westpac Stadium,3
-AnwarAli,Pakistan,England,0,0,0,0,0,24,4,36,1,0,9.0,Sharjah Cricket Stadium,25
-AnwarAli,Pakistan,Bangladesh,13,9,1,0,144.44444444444443,13,2,25,0,0,12.5,Shere Bangla National Stadium,8
-AnwarAli,Pakistan,South Africa,0,0,0,0,0,11,1,22,0,0,22.0,New Wanderers Stadium,0
-AnwarAli,Pakistan,Sri Lanka,0,1,0,0,0.0,24,4,28,2,0,7.0,R Premadasa Stadium,42
-AnwarAli,Pakistan,Australia,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Dubai International Cricket Stadium,-1
-AnwarAli,Pakistan,Sri Lanka,46,17,3,4,270.5882352941177,24,4,40,1,0,10.0,R Premadasa Stadium,80
-AnwarAli,Pakistan,Zimbabwe,0,0,0,0,0,11,1,24,1,0,24.0,Harare Sports Club,25
-AnwarAli,Pakistan,England,3,4,0,0,75.0,25,4,27,2,0,6.75,Dubai International Cricket Stadium,53
-AnwarAli,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,18,3,31,0,0,10.333333333333334,Gaddafi Stadium,-4
-AnwarAli,Pakistan,Zimbabwe,0,0,0,0,0,17,2,19,0,0,9.5,Gaddafi Stadium,-2
-AnwarAli,Pakistan,England,20,14,0,2,142.85714285714286,23,3,19,1,0,6.333333333333333,Dubai International Cricket Stadium,49
-AnwarAli,Pakistan,Zimbabwe,10,7,1,0,142.85714285714286,17,2,21,1,0,10.5,Harare Sports Club,32
-AnwarAli,Pakistan,New Zealand,2,4,0,0,50.0,12,2,13,0,0,6.5,Dubai International Cricket Stadium,-2
-AnwarAli,Pakistan,New Zealand,0,0,0,0,0,11,1,16,1,0,16.0,Dubai International Cricket Stadium,25
-AnwarAli,Pakistan,New Zealand,8,7,1,0,114.28571428571428,17,2,31,0,0,15.5,Westpac Stadium,3
-AnwarAli,Pakistan,England,0,0,0,0,0,24,4,36,1,0,9.0,Sharjah Cricket Stadium,25
-AnwarAli,Pakistan,Bangladesh,13,9,1,0,144.44444444444443,13,2,25,0,0,12.5,Shere Bangla National Stadium,8
-AnwarAli,Pakistan,South Africa,0,0,0,0,0,11,1,22,0,0,22.0,New Wanderers Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AnwarAli,Pakistan,England,3,4,0,0,75.0,25,4,27,2,0,6.75,Dubai International Cricket Stadium,0,1,2015,61
+AnwarAli,Pakistan,Bangladesh,13,9,1,0,144.44444444444443,13,2,25,0,0,12.5,Shere Bangla National Stadium,0,0,2016,8
+AnwarAli,Pakistan,Zimbabwe,0,0,0,0,0,11,1,24,1,0,24.0,Harare Sports Club,0,0,2013,25
+AnwarAli,Pakistan,New Zealand,2,4,0,0,50.0,12,2,13,0,0,6.5,Dubai International Cricket Stadium,0,1,2014,6
+AnwarAli,Pakistan,England,0,0,0,0,0,24,4,36,1,0,9.0,Sharjah Cricket Stadium,0,0,2015,25
+AnwarAli,Pakistan,New Zealand,0,0,0,0,0,11,1,16,1,0,16.0,Dubai International Cricket Stadium,0,0,2014,25
+AnwarAli,Pakistan,Zimbabwe,2,3,0,0,66.66666666666666,18,3,31,0,0,10.333333333333334,Gaddafi Stadium,0,2,2015,12
+AnwarAli,Pakistan,Sri Lanka,0,1,0,0,0.0,24,4,28,2,0,7.0,R Premadasa Stadium,0,1,2015,50
+AnwarAli,Pakistan,Zimbabwe,0,0,0,0,0,17,2,19,0,0,9.5,Gaddafi Stadium,0,0,2015,-2
+AnwarAli,Pakistan,Australia,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2014,-1
+AnwarAli,Pakistan,Sri Lanka,46,17,3,4,270.5882352941177,24,4,40,1,0,10.0,R Premadasa Stadium,0,0,2015,80
+AnwarAli,Pakistan,New Zealand,8,7,1,0,114.28571428571428,17,2,31,0,0,15.5,Westpac Stadium,0,0,2016,3
+AnwarAli,Pakistan,England,20,14,0,2,142.85714285714286,23,3,19,1,0,6.333333333333333,Dubai International Cricket Stadium,0,0,2015,49
+AnwarAli,Pakistan,South Africa,0,0,0,0,0,11,1,22,0,0,22.0,New Wanderers Stadium,0,0,2013,0
+AnwarAli,Pakistan,Zimbabwe,10,7,1,0,142.85714285714286,17,2,21,1,0,10.5,Harare Sports Club,0,0,2013,32
+AnwarAli,Pakistan,Sri Lanka,41,39,2,1,105.12820512820514,34,5,36,1,0,7.2,Sheikh Zayed Stadium,0,0,2013,70
+AnwarAli,Pakistan,New Zealand,20,13,3,0,153.84615384615387,54,9,50,1,1,5.555555555555555,Sheikh Zayed Stadium,0,0,2014,58
+AnwarAli,Pakistan,Afghanistan,21,36,2,0,58.333333333333336,23,3,23,0,0,7.666666666666667,Khan Shaheb Osman Ali Stadium,0,0,2014,19
+AnwarAli,Pakistan,Sri Lanka,0,0,0,0,0,29,4,24,2,1,6.0,R Premadasa Stadium,0,2,2015,74
+AnwarAli,Pakistan,Sri Lanka,0,0,0,0,0,41,6,39,1,0,6.5,Rangiri Dambulla International Stadium,0,0,2015,25
+AnwarAli,Pakistan,South Africa,7,4,1,0,175.0,41,6,39,0,1,6.5,St George's Park,0,0,2013,16
+AnwarAli,Pakistan,Sri Lanka,0,0,0,0,0,45,7,42,2,0,6.0,R Premadasa Stadium,1,0,2015,62
+AnwarAli,Pakistan,Zimbabwe,0,0,0,0,0,53,8,57,1,0,7.125,Gaddafi Stadium,0,0,2015,25
+AnwarAli,Pakistan,England,0,0,0,0,0,35,5,33,2,0,6.6,Sheikh Zayed Stadium,0,0,2015,50
+AnwarAli,Pakistan,England,24,24,4,0,100.0,54,9,75,0,1,8.333333333333334,Dubai International Cricket Stadium,0,0,2015,36
+AnwarAli,Pakistan,Australia,8,23,1,0,34.78260869565217,48,8,52,0,0,6.5,Sharjah Cricket Stadium,0,1,2014,11
+AnwarAli,Pakistan,Sri Lanka,29,21,2,1,138.0952380952381,41,6,33,1,0,5.5,Pallekele International Cricket Stadium,0,1,2015,68
+AnwarAli,Pakistan,Sri Lanka,11,14,2,0,78.57142857142857,53,8,71,0,0,8.875,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1,0,2015,25
+AnwarAli,Pakistan,England,7,19,0,0,36.84210526315789,17,2,17,0,0,8.5,Sharjah Cricket Stadium,0,0,2015,1
+AnwarAli,Pakistan,England,23,35,1,1,65.71428571428571,53,8,48,0,0,6.0,Sheikh Zayed Stadium,0,0,2015,24
+AnwarAli,Pakistan,Zimbabwe,38,23,2,2,165.2173913043478,11,1,21,0,0,21.0,Gaddafi Stadium,0,0,2015,44
+AnwarAli,Pakistan,South Africa,43,56,6,0,76.78571428571429,36,6,24,2,0,4.0,Newlands,0,0,2013,103
+AnwarAli,Pakistan,New Zealand,18,14,3,0,128.57142857142858,60,10,63,0,0,6.3,Sheikh Zayed Stadium,0,0,2014,21
+AnwarAli,Pakistan,Zimbabwe,0,0,0,0,0,60,10,82,1,0,8.2,Gaddafi Stadium,0,0,2015,25
+AnwarAli,Pakistan,South Africa,1,2,0,0,50.0,11,1,15,0,0,15.0,SuperSport Park,0,0,2013,-3
+AnwarAli,Pakistan,New Zealand,16,24,0,1,66.66666666666666,61,10,68,4,0,6.8,Basin Reserve,0,0,2016,124

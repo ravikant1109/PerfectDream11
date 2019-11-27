@@ -1,27 +1,13 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GJDelany,Ireland,Jersey,8,7,0,0,114.28571428571428,24,4,22,1,0,5.5,Tolerance Oval,35
-GJDelany,Ireland,Oman,11,11,0,0,100.0,18,3,33,1,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),32
-GJDelany,Ireland,Nigeria,11,8,2,0,137.5,24,4,17,1,0,4.25,Sheikh Zayed Stadium,42
-GJDelany,Ireland,Nepal,4,6,0,0,66.66666666666666,25,4,30,2,0,7.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),52
-GJDelany,Ireland,Jersey,8,7,0,0,114.28571428571428,24,4,22,1,0,5.5,Tolerance Oval,35
-GJDelany,Ireland,Jersey,8,7,0,0,114.28571428571428,24,4,22,1,0,5.5,Tolerance Oval,35
-GJDelany,Ireland,Oman,11,11,0,0,100.0,18,3,33,1,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),32
-GJDelany,Ireland,Nigeria,11,8,2,0,137.5,24,4,17,1,0,4.25,Sheikh Zayed Stadium,42
-GJDelany,Ireland,Nepal,4,6,0,0,66.66666666666666,25,4,30,2,0,7.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),52
-GJDelany,Ireland,Jersey,8,7,0,0,114.28571428571428,24,4,22,1,0,5.5,Tolerance Oval,35
-GJDelany,Ireland,Jersey,8,7,0,0,114.28571428571428,24,4,22,1,0,5.5,Tolerance Oval,35
-GJDelany,Ireland,Oman,11,11,0,0,100.0,18,3,33,1,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),32
-GJDelany,Ireland,Nigeria,11,8,2,0,137.5,24,4,17,1,0,4.25,Sheikh Zayed Stadium,42
-GJDelany,Ireland,Nepal,4,6,0,0,66.66666666666666,25,4,30,2,0,7.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),52
-GJDelany,Ireland,United Arab Emirates,2,2,0,0,100.0,5,0,7,0,0,0,Sheikh Zayed Stadium,2
-GJDelany,Ireland,Hong Kong,0,0,0,0,0,18,3,23,1,0,7.666666666666667,Sheikh Zayed Stadium,25
-GJDelany,Ireland,Hong Kong,19,10,2,1,190.0,24,4,27,2,1,6.75,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),81
-GJDelany,Ireland,Oman,89,50,9,3,178.0,24,4,30,2,0,7.5,Tolerance Oval,162
-GJDelany,Ireland,Scotland,52,28,8,1,185.71428571428572,23,3,31,2,0,10.333333333333334,The Village Malahide,116
-GJDelany,Ireland,Zimbabwe,0,0,0,0,0,11,1,26,0,0,26.0,Bready Cricket Club Magheramason,0
-GJDelany,Ireland,Canada,16,10,1,1,160.0,23,3,31,1,0,10.333333333333334,Sheikh Zayed Stadium,40
-GJDelany,Ireland,Netherlands,29,26,1,1,111.53846153846155,17,2,21,0,0,10.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),28
-GJDelany,Ireland,Jersey,8,7,0,0,114.28571428571428,24,4,22,1,0,5.5,Tolerance Oval,35
-GJDelany,Ireland,Oman,11,11,0,0,100.0,18,3,33,1,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),32
-GJDelany,Ireland,Nigeria,11,8,2,0,137.5,24,4,17,1,0,4.25,Sheikh Zayed Stadium,42
-GJDelany,Ireland,Nepal,4,6,0,0,66.66666666666666,25,4,30,2,0,7.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),52
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GJDelany,Ireland,Hong Kong,0,0,0,0,0,18,3,23,1,0,7.666666666666667,Sheikh Zayed Stadium,0,0,2019,25
+GJDelany,Ireland,Nigeria,11,8,2,0,137.5,24,4,17,1,0,4.25,Sheikh Zayed Stadium,1,0,2019,54
+GJDelany,Ireland,Canada,16,10,1,1,160.0,23,3,31,1,0,10.333333333333334,Sheikh Zayed Stadium,0,0,2019,40
+GJDelany,Ireland,Hong Kong,19,10,2,1,190.0,24,4,27,2,1,6.75,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,81
+GJDelany,Ireland,Oman,11,11,0,0,100.0,18,3,33,1,0,11.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,40
+GJDelany,Ireland,Oman,89,50,9,3,178.0,24,4,30,2,0,7.5,Tolerance Oval,0,0,2019,162
+GJDelany,Ireland,Netherlands,29,26,1,1,111.53846153846155,17,2,21,0,0,10.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,36
+GJDelany,Ireland,Scotland,52,28,8,1,185.71428571428572,23,3,31,2,0,10.333333333333334,The Village Malahide,0,1,2019,124
+GJDelany,Ireland,Jersey,8,7,0,0,114.28571428571428,24,4,22,1,0,5.5,Tolerance Oval,0,1,2019,43
+GJDelany,Ireland,United Arab Emirates,2,2,0,0,100.0,5,0,7,0,0,0,Sheikh Zayed Stadium,0,0,2019,2
+GJDelany,Ireland,Zimbabwe,0,0,0,0,0,11,1,26,0,0,26.0,Bready Cricket Club Magheramason,0,0,2019,0
+GJDelany,Ireland,Nepal,4,6,0,0,66.66666666666666,25,4,30,2,0,7.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,52

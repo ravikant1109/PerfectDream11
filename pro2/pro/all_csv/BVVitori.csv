@@ -1,26 +1,31 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,25,4,26,0,0,6.5,Harare Sports Club,0
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,19,3,25,0,0,8.333333333333334,Sheikh Abu Naser Stadium,0
-BVVitori,Zimbabwe,Sri Lanka,7,4,0,0,175.0,21,3,27,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,7
-BVVitori,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,29,1,0,7.25,Queens Sports Club,20
-BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,25,4,26,0,0,6.5,Harare Sports Club,0
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,19,3,25,0,0,8.333333333333334,Sheikh Abu Naser Stadium,0
-BVVitori,Zimbabwe,Sri Lanka,7,4,0,0,175.0,21,3,27,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,7
-BVVitori,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,29,1,0,7.25,Queens Sports Club,20
-BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,25,4,26,0,0,6.5,Harare Sports Club,0
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,19,3,25,0,0,8.333333333333334,Sheikh Abu Naser Stadium,0
-BVVitori,Zimbabwe,Sri Lanka,7,4,0,0,175.0,21,3,27,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,7
-BVVitori,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,29,1,0,7.25,Queens Sports Club,20
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Sheikh Abu Naser Stadium,-4
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,24,4,45,0,0,11.25,Sheikh Abu Naser Stadium,-6
-BVVitori,Zimbabwe,South Africa,0,0,0,0,0,12,2,21,0,0,10.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,-4
-BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,25,4,41,0,0,10.25,Harare Sports Club,-4
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,23,3,24,1,0,8.0,Queens Sports Club,25
-BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,22,3,36,1,0,12.0,Gaddafi Stadium,19
-BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,23,3,24,1,0,8.0,Gaddafi Stadium,25
-BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,25,4,26,0,0,6.5,Harare Sports Club,0
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,19,3,25,0,0,8.333333333333334,Sheikh Abu Naser Stadium,0
-BVVitori,Zimbabwe,Sri Lanka,7,4,0,0,175.0,21,3,27,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,7
-BVVitori,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,29,1,0,7.25,Queens Sports Club,20
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Sheikh Abu Naser Stadium,-4
-BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,24,4,45,0,0,11.25,Sheikh Abu Naser Stadium,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,19,3,25,0,0,8.333333333333334,Sheikh Abu Naser Stadium,0,0,2016,0
+BVVitori,Zimbabwe,South Africa,0,0,0,0,0,12,2,21,0,0,10.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,-4
+BVVitori,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,29,1,0,7.25,Queens Sports Club,0,0,2013,20
+BVVitori,Zimbabwe,Sri Lanka,7,4,0,0,175.0,21,3,27,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,7
+BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,25,4,41,0,0,10.25,Harare Sports Club,0,0,2013,-4
+BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,22,3,36,1,0,12.0,Gaddafi Stadium,0,0,2015,19
+BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,24,4,45,0,0,11.25,Sheikh Abu Naser Stadium,0,0,2016,-6
+BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,23,3,24,1,0,8.0,Queens Sports Club,0,0,2013,25
+BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,23,3,24,1,0,8.0,Gaddafi Stadium,0,0,2015,25
+BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,23,3,31,0,0,10.333333333333334,Sheikh Abu Naser Stadium,0,1,2016,4
+BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,25,4,26,0,0,6.5,Harare Sports Club,0,1,2013,8
+BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,59,9,43,2,0,4.777777777777778,Queens Sports Club,0,0,2013,54
+BVVitori,Zimbabwe,South Africa,20,8,2,2,250.0,55,9,57,2,0,6.333333333333333,Queens Sports Club,0,0,2014,76
+BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,60,10,46,1,1,4.6,Harare Sports Club,0,0,2011,37
+BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,47,7,52,0,0,7.428571428571429,Gaddafi Stadium,0,0,2015,0
+BVVitori,Zimbabwe,India,4,9,0,0,44.44444444444444,31,5,42,0,0,8.4,Queens Sports Club,0,0,2013,-2
+BVVitori,Zimbabwe,India,8,6,0,1,133.33333333333331,34,5,21,0,1,4.2,Queens Sports Club,0,0,2013,22
+BVVitori,Zimbabwe,Pakistan,0,1,0,0,0.0,61,10,70,2,0,7.0,Harare Sports Club,0,0,2013,42
+BVVitori,Zimbabwe,India,8,9,1,0,88.88888888888889,49,8,47,1,0,5.875,Harare Sports Club,0,1,2015,44
+BVVitori,Zimbabwe,New Zealand,0,2,0,0,0.0,57,9,105,1,0,11.666666666666666,McLean Park,0,0,2012,11
+BVVitori,Zimbabwe,Pakistan,3,3,0,0,100.0,59,9,64,1,1,7.111111111111111,Harare Sports Club,0,0,2011,36
+BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,47,7,45,0,0,6.428571428571429,Harare Sports Club,0,0,2011,0
+BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,65,10,46,2,1,4.6,Harare Sports Club,1,0,2013,74
+BVVitori,Zimbabwe,Bangladesh,0,0,0,0,0,57,9,28,5,0,3.111111111111111,Harare Sports Club,0,0,2011,147
+BVVitori,Zimbabwe,India,0,0,0,0,0,54,9,64,1,0,7.111111111111111,Harare Sports Club,0,0,2015,25
+BVVitori,Zimbabwe,Pakistan,0,0,0,0,0,59,9,78,0,1,8.666666666666666,Gaddafi Stadium,0,0,2015,8
+BVVitori,Zimbabwe,India,17,29,2,1,58.620689655172406,48,8,54,1,1,6.75,Harare Sports Club,0,0,2013,50
+BVVitori,Zimbabwe,Sri Lanka,0,2,0,0,0.0,54,9,54,3,0,6.0,Queens Sports Club,0,0,2016,67
+BVVitori,Zimbabwe,India,0,1,0,0,0.0,51,8,27,2,0,3.375,Harare Sports Club,0,0,2013,48
+BVVitori,Zimbabwe,South Africa,3,5,0,0,60.0,35,5,52,0,0,10.4,Harare Sports Club,0,0,2014,-3

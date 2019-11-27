@@ -1,10 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JJojo,Denmark,Germany,4,5,0,0,80.0,11,1,10,0,0,10.0,King George V Sports Ground,4
-JJojo,Denmark,Germany,4,5,0,0,80.0,11,1,10,0,0,10.0,King George V Sports Ground,4
-JJojo,Denmark,Germany,4,5,0,0,80.0,11,1,10,0,0,10.0,King George V Sports Ground,4
-JJojo,Denmark,Norway,0,0,0,0,0,23,3,22,0,0,7.333333333333333,King George V Sports Ground,0
-JJojo,Denmark,Italy,9,8,0,0,112.5,24,4,26,2,0,6.5,King George V Sports Ground,59
-JJojo,Denmark,Guernsey,13,10,0,1,130.0,23,3,28,0,0,9.333333333333334,King George V Sports Ground,13
-JJojo,Denmark,Jersey,3,2,0,0,150.0,17,2,20,0,0,10.0,King George V Sports Ground,1
-JJojo,Denmark,Guernsey,7,2,0,0,350.0,0,0,0,0,0,0,King George V Sports Ground,7
-JJojo,Denmark,Germany,4,5,0,0,80.0,11,1,10,0,0,10.0,King George V Sports Ground,4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JJojo,Denmark,Jersey,3,2,0,0,150.0,17,2,20,0,0,10.0,King George V Sports Ground,1,1,2019,21
+JJojo,Denmark,Guernsey,7,2,0,0,350.0,0,0,0,0,0,0,King George V Sports Ground,0,0,2019,7
+JJojo,Denmark,Germany,4,5,0,0,80.0,11,1,10,0,0,10.0,King George V Sports Ground,0,0,2019,4
+JJojo,Denmark,Italy,9,8,0,0,112.5,24,4,26,2,0,6.5,King George V Sports Ground,0,0,2019,59
+JJojo,Denmark,Norway,0,0,0,0,0,23,3,22,0,0,7.333333333333333,King George V Sports Ground,0,0,2019,0
+JJojo,Denmark,Guernsey,13,10,0,1,130.0,23,3,28,0,0,9.333333333333334,King George V Sports Ground,0,0,2019,13

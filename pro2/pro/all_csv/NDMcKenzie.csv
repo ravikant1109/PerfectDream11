@@ -1,2 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NDMcKenzie,South Africa,Australia,7,8,0,0,87.5,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,7
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NDMcKenzie,South Africa,Australia,7,8,0,0,87.5,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2009,7
+NDMcKenzie,South Africa,Australia,63,83,6,0,75.90361445783132,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2009,77
+NDMcKenzie,South Africa,Australia,10,28,1,0,35.714285714285715,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2009,5
+NDMcKenzie,South Africa,Australia,8,15,0,0,53.333333333333336,0,0,0,0,0,0,Bellerive Oval,0,0,2009,4
+NDMcKenzie,South Africa,Australia,27,42,2,0,64.28571428571429,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2009,27

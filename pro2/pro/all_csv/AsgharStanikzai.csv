@@ -1,72 +1,101 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AsgharStanikzai,Afghanistan,United Arab Emirates,29,20,1,2,145.0,0,0,0,0,0,0,Dubai International Cricket Stadium,34
-AsgharStanikzai,Afghanistan,Ireland,20,14,2,1,142.85714285714286,0,0,0,0,0,0,Greater Noida Sports Complex Ground,24
-AsgharStanikzai,Afghanistan,Scotland,55,56,2,1,98.21428571428571,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,67
-AsgharStanikzai,Afghanistan,Scotland,30,37,2,1,81.08108108108108,0,0,0,0,0,0,Sharjah Cricket Stadium,34
-AsgharStanikzai,Afghanistan,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-AsgharStanikzai,Afghanistan,India,30,34,0,3,88.23529411764706,0,0,0,0,0,0,Beausejour Stadium Gros Islet,36
-AsgharStanikzai,Afghanistan,Bangladesh,40,39,3,2,102.56410256410255,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,47
-AsgharStanikzai,Afghanistan,United Arab Emirates,29,20,1,2,145.0,0,0,0,0,0,0,Dubai International Cricket Stadium,34
-AsgharStanikzai,Afghanistan,United Arab Emirates,29,20,1,2,145.0,0,0,0,0,0,0,Dubai International Cricket Stadium,34
-AsgharStanikzai,Afghanistan,Ireland,20,14,2,1,142.85714285714286,0,0,0,0,0,0,Greater Noida Sports Complex Ground,24
-AsgharStanikzai,Afghanistan,Scotland,55,56,2,1,98.21428571428571,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,67
-AsgharStanikzai,Afghanistan,Scotland,30,37,2,1,81.08108108108108,0,0,0,0,0,0,Sharjah Cricket Stadium,34
-AsgharStanikzai,Afghanistan,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-AsgharStanikzai,Afghanistan,India,30,34,0,3,88.23529411764706,0,0,0,0,0,0,Beausejour Stadium Gros Islet,36
-AsgharStanikzai,Afghanistan,Bangladesh,40,39,3,2,102.56410256410255,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,47
-AsgharStanikzai,Afghanistan,United Arab Emirates,29,20,1,2,145.0,0,0,0,0,0,0,Dubai International Cricket Stadium,34
-AsgharStanikzai,Afghanistan,Ireland,20,14,2,1,142.85714285714286,0,0,0,0,0,0,Greater Noida Sports Complex Ground,24
-AsgharStanikzai,Afghanistan,Scotland,55,56,2,1,98.21428571428571,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,67
-AsgharStanikzai,Afghanistan,Scotland,30,37,2,1,81.08108108108108,0,0,0,0,0,0,Sharjah Cricket Stadium,34
-AsgharStanikzai,Afghanistan,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-AsgharStanikzai,Afghanistan,India,30,34,0,3,88.23529411764706,0,0,0,0,0,0,Beausejour Stadium Gros Islet,36
-AsgharStanikzai,Afghanistan,Bangladesh,40,39,3,2,102.56410256410255,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,47
-AsgharStanikzai,Afghanistan,Nepal,49,36,4,1,136.11111111111111,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,55
-AsgharStanikzai,Afghanistan,Hong Kong,29,30,2,2,96.66666666666667,0,0,0,0,0,0,The Village Malahide,35
-AsgharStanikzai,Afghanistan,Oman,19,19,2,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,21
-AsgharStanikzai,Afghanistan,Zimbabwe,14,16,0,1,87.5,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,16
-AsgharStanikzai,Afghanistan,Scotland,34,33,3,1,103.03030303030303,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,39
-AsgharStanikzai,Afghanistan,England,1,4,0,0,25.0,0,0,0,0,0,0,Feroz Shah Kotla,-5
-AsgharStanikzai,Afghanistan,Sri Lanka,62,48,3,4,129.16666666666669,0,0,0,0,0,0,Eden Gardens,81
-AsgharStanikzai,Afghanistan,United Arab Emirates,44,34,2,3,129.41176470588235,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,52
-AsgharStanikzai,Afghanistan,West Indies,5,8,1,0,62.5,0,0,0,0,0,0,Warner Park Basseterre,4
-AsgharStanikzai,Afghanistan,West Indies,16,22,0,1,72.72727272727273,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,18
-AsgharStanikzai,Afghanistan,South Africa,3,6,0,0,50.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-1
-AsgharStanikzai,Afghanistan,Netherlands,2,5,0,0,40.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,-4
-AsgharStanikzai,Afghanistan,Zimbabwe,18,9,0,2,200.0,0,0,0,0,0,0,Queens Sports Club,22
-AsgharStanikzai,Afghanistan,India,6,9,0,0,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,4
-AsgharStanikzai,Afghanistan,Kenya,16,34,1,0,47.05882352941176,0,0,0,0,0,0,Sharjah Cricket Stadium,11
-AsgharStanikzai,Afghanistan,Zimbabwe,8,8,0,1,100.0,0,0,0,0,0,0,Sharjah Cricket Stadium,10
-AsgharStanikzai,Afghanistan,Pakistan,15,20,0,2,75.0,0,0,0,0,0,0,Sharjah Cricket Stadium,19
-AsgharStanikzai,Afghanistan,West Indies,13,24,1,0,54.166666666666664,0,0,0,0,0,0,Warner Park Basseterre,10
-AsgharStanikzai,Afghanistan,Oman,34,18,5,1,188.88888888888889,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,41
-AsgharStanikzai,Afghanistan,Ireland,12,5,1,1,240.0,0,0,0,0,0,0,Greater Noida Sports Complex Ground,15
-AsgharStanikzai,Afghanistan,South Africa,7,6,0,0,116.66666666666667,0,0,0,0,0,0,Wankhede Stadium,7
-AsgharStanikzai,Afghanistan,West Indies,9,12,0,1,75.0,0,0,0,0,0,0,Warner Park Basseterre,11
-AsgharStanikzai,Afghanistan,United Arab Emirates,30,24,3,1,125.0,0,0,0,0,0,0,Sheikh Zayed Stadium,35
-AsgharStanikzai,Afghanistan,Oman,25,18,2,1,138.88888888888889,0,0,0,0,0,0,Dubai International Cricket Stadium,29
-AsgharStanikzai,Afghanistan,Ireland,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,4
-AsgharStanikzai,Afghanistan,Papua New Guinea,22,30,2,0,73.33333333333333,0,0,0,0,0,0,The Village Malahide,24
-AsgharStanikzai,Afghanistan,Zimbabwe,0,2,0,0,0.0,3,0,4,1,0,0,Vidarbha Cricket Association Stadium Jamtha,17
-AsgharStanikzai,Afghanistan,United Arab Emirates,13,13,0,0,100.0,0,0,0,0,0,0,ICC Academy,13
-AsgharStanikzai,Afghanistan,Ireland,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0
-AsgharStanikzai,Afghanistan,Hong Kong,49,35,3,3,140.0,0,0,0,0,0,0,Shere Bangla National Stadium,58
-AsgharStanikzai,Afghanistan,England,4,11,0,0,36.36363636363637,0,0,0,0,0,0,R Premadasa Stadium,-2
-AsgharStanikzai,Afghanistan,Oman,0,7,0,0,0.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,-8
-AsgharStanikzai,Afghanistan,Zimbabwe,18,12,2,1,150.0,0,0,0,0,0,0,Sharjah Cricket Stadium,22
-AsgharStanikzai,Afghanistan,United Arab Emirates,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,5
-AsgharStanikzai,Afghanistan,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-AsgharStanikzai,Afghanistan,Hong Kong,13,21,0,0,61.904761904761905,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,11
-AsgharStanikzai,Afghanistan,Kenya,43,34,3,2,126.47058823529412,0,0,0,0,0,0,Sharjah Cricket Stadium,50
-AsgharStanikzai,Afghanistan,United Arab Emirates,10,9,0,1,111.11111111111111,0,0,0,0,0,0,ICC Academy,12
-AsgharStanikzai,Afghanistan,United Arab Emirates,29,20,1,2,145.0,0,0,0,0,0,0,Dubai International Cricket Stadium,34
-AsgharStanikzai,Afghanistan,Ireland,20,14,2,1,142.85714285714286,0,0,0,0,0,0,Greater Noida Sports Complex Ground,24
-AsgharStanikzai,Afghanistan,Scotland,55,56,2,1,98.21428571428571,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,67
-AsgharStanikzai,Afghanistan,Scotland,30,37,2,1,81.08108108108108,0,0,0,0,0,0,Sharjah Cricket Stadium,34
-AsgharStanikzai,Afghanistan,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-AsgharStanikzai,Afghanistan,India,30,34,0,3,88.23529411764706,0,0,0,0,0,0,Beausejour Stadium Gros Islet,36
-AsgharStanikzai,Afghanistan,Bangladesh,40,39,3,2,102.56410256410255,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,47
-AsgharStanikzai,Afghanistan,Nepal,49,36,4,1,136.11111111111111,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,55
-AsgharStanikzai,Afghanistan,Hong Kong,29,30,2,2,96.66666666666667,0,0,0,0,0,0,The Village Malahide,35
-AsgharStanikzai,Afghanistan,Oman,19,19,2,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,21
-AsgharStanikzai,Afghanistan,Zimbabwe,14,16,0,1,87.5,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,16
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AsgharStanikzai,Afghanistan,United Arab Emirates,30,24,3,1,125.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,35
+AsgharStanikzai,Afghanistan,Hong Kong,29,30,2,2,96.66666666666667,0,0,0,0,0,0,The Village Malahide,0,1,2015,43
+AsgharStanikzai,Afghanistan,Zimbabwe,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2019,-8
+AsgharStanikzai,Afghanistan,West Indies,9,12,0,1,75.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,11
+AsgharStanikzai,Afghanistan,Oman,25,18,2,1,138.88888888888889,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2017,29
+AsgharStanikzai,Afghanistan,Papua New Guinea,22,30,2,0,73.33333333333333,0,0,0,0,0,0,The Village Malahide,0,0,2015,24
+AsgharStanikzai,Afghanistan,Hong Kong,49,35,3,3,140.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2016,66
+AsgharStanikzai,Afghanistan,South Africa,7,6,0,0,116.66666666666667,0,0,0,0,0,0,Wankhede Stadium,0,1,2016,15
+AsgharStanikzai,Afghanistan,Netherlands,2,5,0,0,40.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,2,2015,12
+AsgharStanikzai,Afghanistan,India,30,34,0,3,88.23529411764706,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,36
+AsgharStanikzai,Afghanistan,Zimbabwe,0,2,0,0,0.0,3,0,4,1,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,17
+AsgharStanikzai,Afghanistan,Zimbabwe,14,16,0,1,87.5,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,0,0,2019,16
+AsgharStanikzai,Afghanistan,Oman,0,7,0,0,0.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,2,2015,8
+AsgharStanikzai,Afghanistan,Nepal,49,36,4,1,136.11111111111111,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2014,63
+AsgharStanikzai,Afghanistan,Ireland,12,5,1,1,240.0,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,15
+AsgharStanikzai,Afghanistan,Sri Lanka,62,48,3,4,129.16666666666669,0,0,0,0,0,0,Eden Gardens,0,0,2016,81
+AsgharStanikzai,Afghanistan,South Africa,3,6,0,0,50.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,-1
+AsgharStanikzai,Afghanistan,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2019,0
+AsgharStanikzai,Afghanistan,Scotland,30,37,2,1,81.08108108108108,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,34
+AsgharStanikzai,Afghanistan,United Arab Emirates,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,5
+AsgharStanikzai,Afghanistan,Kenya,43,34,3,2,126.47058823529412,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,50
+AsgharStanikzai,Afghanistan,West Indies,16,22,0,1,72.72727272727273,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,18
+AsgharStanikzai,Afghanistan,Zimbabwe,18,12,2,1,150.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2016,30
+AsgharStanikzai,Afghanistan,Pakistan,15,20,0,2,75.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,19
+AsgharStanikzai,Afghanistan,Oman,34,18,5,1,188.88888888888889,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,41
+AsgharStanikzai,Afghanistan,India,6,9,0,0,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,4
+AsgharStanikzai,Afghanistan,United Arab Emirates,10,9,0,1,111.11111111111111,0,0,0,0,0,0,ICC Academy,0,0,2016,12
+AsgharStanikzai,Afghanistan,United Arab Emirates,13,13,0,0,100.0,0,0,0,0,0,0,ICC Academy,0,0,2016,13
+AsgharStanikzai,Afghanistan,Bangladesh,40,39,3,2,102.56410256410255,0,0,0,0,0,0,Shere Bangla National Stadium Mirpur,0,0,2019,47
+AsgharStanikzai,Afghanistan,Ireland,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,0
+AsgharStanikzai,Afghanistan,United Arab Emirates,29,20,1,2,145.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2016,42
+AsgharStanikzai,Afghanistan,Ireland,20,14,2,1,142.85714285714286,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,24
+AsgharStanikzai,Afghanistan,England,1,4,0,0,25.0,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2016,-5
+AsgharStanikzai,Afghanistan,Oman,19,19,2,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2015,21
+AsgharStanikzai,Afghanistan,England,4,11,0,0,36.36363636363637,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,-2
+AsgharStanikzai,Afghanistan,United Arab Emirates,44,34,2,3,129.41176470588235,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2015,52
+AsgharStanikzai,Afghanistan,West Indies,5,8,1,0,62.5,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,4
+AsgharStanikzai,Afghanistan,Kenya,16,34,1,0,47.05882352941176,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,11
+AsgharStanikzai,Afghanistan,Scotland,34,33,3,1,103.03030303030303,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2015,39
+AsgharStanikzai,Afghanistan,Hong Kong,13,21,0,0,61.904761904761905,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2014,19
+AsgharStanikzai,Afghanistan,Ireland,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,4
+AsgharStanikzai,Afghanistan,Zimbabwe,18,9,0,2,200.0,0,0,0,0,0,0,Queens Sports Club,0,0,2015,22
+AsgharStanikzai,Afghanistan,Zimbabwe,8,8,0,1,100.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,10
+AsgharStanikzai,Afghanistan,Scotland,55,56,2,1,98.21428571428571,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2016,75
+AsgharStanikzai,Afghanistan,West Indies,13,24,1,0,54.166666666666664,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,10
+AsgharStanikzai,Afghanistan,India,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,5
+AsgharStanikzai,Afghanistan,Pakistan,40,92,3,0,43.47826086956522,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,1,2014,45
+AsgharStanikzai,Afghanistan,Zimbabwe,9,32,0,0,28.125,0,0,0,0,0,0,Sharjah Cricket Stadium,1,0,2015,15
+AsgharStanikzai,Afghanistan,Bangladesh,20,38,1,0,52.63157894736842,0,0,0,0,0,0,The Rose Bowl,0,0,2019,17
+AsgharStanikzai,Afghanistan,Bangladesh,1,4,0,0,25.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,-5
+AsgharStanikzai,Afghanistan,Ireland,0,4,0,0,0.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,2,2012,8
+AsgharStanikzai,Afghanistan,Scotland,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2016,-1
+AsgharStanikzai,Afghanistan,Zimbabwe,19,18,2,1,105.55555555555556,0,0,0,0,0,0,Harare Sports Club,0,0,2017,23
+AsgharStanikzai,Afghanistan,Zimbabwe,39,37,3,0,105.40540540540539,0,0,0,0,0,0,Queens Sports Club,0,0,2015,42
+AsgharStanikzai,Afghanistan,Scotland,20,20,2,0,100.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2016,22
+AsgharStanikzai,Afghanistan,United Arab Emirates,46,34,1,4,135.29411764705884,0,0,0,0,0,0,ICC Academy,0,0,2014,55
+AsgharStanikzai,Afghanistan,Scotland,4,3,1,0,133.33333333333331,0,0,0,0,0,0,University Oval,0,0,2015,5
+AsgharStanikzai,Afghanistan,Ireland,39,51,3,2,76.47058823529412,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,46
+AsgharStanikzai,Afghanistan,Bangladesh,10,10,0,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,10
+AsgharStanikzai,Afghanistan,Netherlands,25,41,2,0,60.97560975609756,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2012,25
+AsgharStanikzai,Afghanistan,Ireland,35,58,5,0,60.3448275862069,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,38
+AsgharStanikzai,Afghanistan,Australia,66,109,6,0,60.550458715596335,0,0,0,0,0,0,Sharjah Cricket Association Stadium,0,0,2012,78
+AsgharStanikzai,Afghanistan,Ireland,0,7,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2016,-8
+AsgharStanikzai,Afghanistan,Ireland,14,20,1,0,70.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,2,2019,31
+AsgharStanikzai,Afghanistan,Pakistan,42,35,3,2,120.0,0,0,0,0,0,0,Headingley,0,0,2019,49
+AsgharStanikzai,Afghanistan,Scotland,0,5,0,0,0.0,0,0,0,0,0,0,Cambusdoon New Ground,0,0,2010,-8
+AsgharStanikzai,Afghanistan,Ireland,44,84,1,0,52.38095238095239,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2015,41
+AsgharStanikzai,Afghanistan,South Africa,0,5,0,0,0.0,0,0,0,0,0,0,Sophia Gardens,0,0,2019,-8
+AsgharStanikzai,Afghanistan,United Arab Emirates,1,2,0,0,50.0,0,0,0,0,0,0,ICC Academy,0,0,2014,-3
+AsgharStanikzai,Afghanistan,Zimbabwe,6,20,0,0,30.0,0,0,0,0,0,0,Harare Sports Club,0,0,2017,0
+AsgharStanikzai,Afghanistan,Scotland,9,26,0,0,34.61538461538461,0,0,0,0,0,0,Willowmoore Park,0,0,2009,3
+AsgharStanikzai,Afghanistan,West Indies,11,19,2,0,57.89473684210527,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,9
+AsgharStanikzai,Afghanistan,Zimbabwe,2,16,0,0,12.5,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2016,4
+AsgharStanikzai,Afghanistan,West Indies,3,8,0,0,37.5,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,0,2019,-3
+AsgharStanikzai,Afghanistan,Scotland,22,18,1,0,122.22222222222223,0,0,0,0,0,0,Grange Cricket Club Raeburn Place,0,0,2019,23
+AsgharStanikzai,Afghanistan,Bangladesh,1,7,0,0,14.285714285714285,0,0,0,0,0,0,Manuka Oval,0,0,2015,-5
+AsgharStanikzai,Afghanistan,Ireland,32,65,1,0,49.23076923076923,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2016,27
+AsgharStanikzai,Afghanistan,Zimbabwe,31,33,2,0,93.93939393939394,0,0,0,0,0,0,Harare Sports Club,0,0,2017,33
+AsgharStanikzai,Afghanistan,Sri Lanka,54,59,5,1,91.52542372881356,4,0,6,0,0,0,University Oval,0,0,2015,69
+AsgharStanikzai,Afghanistan,Ireland,101,92,6,6,109.78260869565217,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,135
+AsgharStanikzai,Afghanistan,West Indies,2,11,0,0,18.181818181818183,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,-4
+AsgharStanikzai,Afghanistan,Zimbabwe,32,63,4,1,50.79365079365079,0,0,0,0,0,0,Queens Sports Club,0,0,2015,34
+AsgharStanikzai,Afghanistan,Zimbabwe,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,7
+AsgharStanikzai,Afghanistan,Scotland,0,0,0,0,0,37,6,34,1,0,5.666666666666667,Cambusdoon New Ground,0,0,2010,27
+AsgharStanikzai,Afghanistan,West Indies,86,86,3,6,100.0,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,0,2019,109
+AsgharStanikzai,Afghanistan,West Indies,35,52,1,1,67.3076923076923,0,0,0,0,0,0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,0,2019,36
+AsgharStanikzai,Afghanistan,Zimbabwe,50,58,1,2,86.20689655172413,0,0,0,0,0,0,Harare Sports Club,0,0,2017,63
+AsgharStanikzai,Afghanistan,Zimbabwe,8,28,0,0,28.57142857142857,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2016,2
+AsgharStanikzai,Afghanistan,Scotland,2,16,0,0,12.5,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2015,-4
+AsgharStanikzai,Afghanistan,West Indies,40,34,3,1,117.64705882352942,0,0,0,0,0,0,Headingley,0,0,2019,45
+AsgharStanikzai,Afghanistan,Ireland,10,15,1,0,66.66666666666666,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,9
+AsgharStanikzai,Afghanistan,Ireland,29,54,3,0,53.70370370370371,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2019,36
+AsgharStanikzai,Afghanistan,England,44,48,3,2,91.66666666666666,0,0,0,0,0,0,Old Trafford,0,0,2019,51
+AsgharStanikzai,Afghanistan,Zimbabwe,1,2,0,0,50.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2015,-3
+AsgharStanikzai,Afghanistan,India,8,20,0,0,40.0,0,0,0,0,0,0,The Rose Bowl,0,0,2019,2
+AsgharStanikzai,Afghanistan,Bangladesh,90,104,6,3,86.53846153846155,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2014,110
+AsgharStanikzai,Afghanistan,Zimbabwe,18,34,1,0,52.94117647058824,0,0,0,0,0,0,Harare Sports Club,0,0,2017,15
+AsgharStanikzai,Afghanistan,Ireland,16,23,3,0,69.56521739130434,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,0,2017,17
+AsgharStanikzai,Afghanistan,Ireland,0,4,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2016,-8
+AsgharStanikzai,Afghanistan,Bangladesh,57,97,4,2,58.76288659793815,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,69

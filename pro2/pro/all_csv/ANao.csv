@@ -1,3 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ANao,Papua New Guinea,United Arab Emirates,0,0,0,0,0,18,3,30,0,0,10.0,Sheikh Zayed Stadium,-2
-ANao,Papua New Guinea,United Arab Emirates,7,4,1,0,175.0,13,2,19,0,0,9.5,Sheikh Zayed Stadium,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ANao,Papua New Guinea,United Arab Emirates,0,0,0,0,0,18,3,30,0,0,10.0,Sheikh Zayed Stadium,0,0,2017,-2
+ANao,Papua New Guinea,United Arab Emirates,7,4,1,0,175.0,13,2,19,0,0,9.5,Sheikh Zayed Stadium,0,0,2017,6
+ANao,Papua New Guinea,United States of America,5,3,1,0,166.66666666666669,55,9,61,1,1,6.777777777777778,Central Broward Regional Park Stadium Turf Ground,0,2,2019,55

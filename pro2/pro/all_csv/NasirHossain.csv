@@ -1,40 +1,78 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NasirHossain,Bangladesh,Hong Kong,14,17,0,0,82.35294117647058,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,14
-NasirHossain,Bangladesh,Sri Lanka,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,18
-NasirHossain,Bangladesh,Ireland,8,6,0,0,133.33333333333331,0,0,0,0,0,0,Civil Service Cricket Club Stormont,8
-NasirHossain,Bangladesh,Zimbabwe,27,25,3,0,108.0,0,0,0,0,0,0,Queens Sports Club,30
-NasirHossain,Bangladesh,Hong Kong,14,17,0,0,82.35294117647058,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,14
-NasirHossain,Bangladesh,Sri Lanka,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,18
-NasirHossain,Bangladesh,Ireland,8,6,0,0,133.33333333333331,0,0,0,0,0,0,Civil Service Cricket Club Stormont,8
-NasirHossain,Bangladesh,Zimbabwe,27,25,3,0,108.0,0,0,0,0,0,0,Queens Sports Club,30
-NasirHossain,Bangladesh,Hong Kong,14,17,0,0,82.35294117647058,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,14
-NasirHossain,Bangladesh,Sri Lanka,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,18
-NasirHossain,Bangladesh,Ireland,8,6,0,0,133.33333333333331,0,0,0,0,0,0,Civil Service Cricket Club Stormont,8
-NasirHossain,Bangladesh,Zimbabwe,27,25,3,0,108.0,0,0,0,0,0,0,Queens Sports Club,30
-NasirHossain,Bangladesh,Australia,14,10,2,0,140.0,0,0,0,0,0,0,Shere Bangla National Stadium,16
-NasirHossain,Bangladesh,New Zealand,28,20,4,0,140.0,5,0,16,0,0,0,Shere Bangla National Stadium,32
-NasirHossain,Bangladesh,West Indies,18,15,1,0,120.0,0,0,0,0,0,0,Shere Bangla National Stadium,19
-NasirHossain,Bangladesh,Pakistan,35,39,2,1,89.74358974358975,12,2,14,1,0,7.0,Shere Bangla National Stadium,64
-NasirHossain,Bangladesh,South Africa,0,2,0,0,0.0,25,4,26,2,0,6.5,Shere Bangla National Stadium,42
-NasirHossain,Bangladesh,Zimbabwe,3,5,0,0,60.0,22,3,45,1,0,15.0,Shere Bangla National Stadium,20
-NasirHossain,Bangladesh,Zimbabwe,16,12,1,1,133.33333333333331,17,2,30,1,0,15.0,Shere Bangla National Stadium,38
-NasirHossain,Bangladesh,India,16,17,1,0,94.11764705882352,0,0,0,0,0,0,Shere Bangla National Stadium,17
-NasirHossain,Bangladesh,Pakistan,0,0,0,0,0,12,2,16,0,0,8.0,Shere Bangla National Stadium,0
-NasirHossain,Bangladesh,Netherlands,3,7,0,0,42.857142857142854,11,1,24,1,0,24.0,Himachal Pradesh Cricket Association Stadium,22
-NasirHossain,Bangladesh,Netherlands,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Sportpark Westvliet,0
-NasirHossain,Bangladesh,India,0,0,0,0,0,17,2,22,0,0,11.0,Shere Bangla National Stadium,-4
-NasirHossain,Bangladesh,New Zealand,50,40,6,1,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,66
-NasirHossain,Bangladesh,Pakistan,16,13,2,0,123.07692307692308,0,0,0,0,0,0,Pallekele International Cricket Stadium,18
-NasirHossain,Bangladesh,Sri Lanka,8,6,1,0,133.33333333333331,0,0,0,0,0,0,Pallekele International Cricket Stadium,9
-NasirHossain,Bangladesh,Pakistan,23,19,1,1,121.05263157894737,0,0,0,0,0,0,Shere Bangla National Stadium,26
-NasirHossain,Bangladesh,South Africa,1,2,0,0,50.0,25,4,37,1,0,9.25,Shere Bangla National Stadium,20
-NasirHossain,Bangladesh,Sri Lanka,8,13,0,0,61.53846153846154,12,2,11,0,0,5.5,Zahur Ahmed Chowdhury Stadium,8
-NasirHossain,Bangladesh,Nepal,0,0,0,0,0,19,3,22,0,0,7.333333333333333,Zahur Ahmed Chowdhury Stadium,0
-NasirHossain,Bangladesh,Hong Kong,14,17,0,0,82.35294117647058,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,14
-NasirHossain,Bangladesh,Sri Lanka,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,18
-NasirHossain,Bangladesh,Ireland,8,6,0,0,133.33333333333331,0,0,0,0,0,0,Civil Service Cricket Club Stormont,8
-NasirHossain,Bangladesh,Zimbabwe,27,25,3,0,108.0,0,0,0,0,0,0,Queens Sports Club,30
-NasirHossain,Bangladesh,Australia,14,10,2,0,140.0,0,0,0,0,0,0,Shere Bangla National Stadium,16
-NasirHossain,Bangladesh,New Zealand,28,20,4,0,140.0,5,0,16,0,0,0,Shere Bangla National Stadium,32
-NasirHossain,Bangladesh,West Indies,18,15,1,0,120.0,0,0,0,0,0,0,Shere Bangla National Stadium,19
-NasirHossain,Bangladesh,Pakistan,35,39,2,1,89.74358974358975,12,2,14,1,0,7.0,Shere Bangla National Stadium,64
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NasirHossain,Bangladesh,Sri Lanka,16,13,0,1,123.07692307692308,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,2,2014,34
+NasirHossain,Bangladesh,India,0,0,0,0,0,17,2,22,0,0,11.0,Shere Bangla National Stadium,0,0,2016,-4
+NasirHossain,Bangladesh,Zimbabwe,27,25,3,0,108.0,0,0,0,0,0,0,Queens Sports Club,0,2,2013,46
+NasirHossain,Bangladesh,Hong Kong,14,17,0,0,82.35294117647058,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,14
+NasirHossain,Bangladesh,South Africa,1,2,0,0,50.0,25,4,37,1,0,9.25,Shere Bangla National Stadium,0,1,2015,28
+NasirHossain,Bangladesh,Zimbabwe,16,12,1,1,133.33333333333331,17,2,30,1,0,15.0,Shere Bangla National Stadium,0,1,2015,46
+NasirHossain,Bangladesh,South Africa,0,2,0,0,0.0,25,4,26,2,0,6.5,Shere Bangla National Stadium,0,0,2015,42
+NasirHossain,Bangladesh,Sri Lanka,8,6,1,0,133.33333333333331,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2013,9
+NasirHossain,Bangladesh,Ireland,8,6,0,0,133.33333333333331,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2012,8
+NasirHossain,Bangladesh,Australia,14,10,2,0,140.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,24
+NasirHossain,Bangladesh,Netherlands,3,7,0,0,42.857142857142854,11,1,24,1,0,24.0,Himachal Pradesh Cricket Association Stadium,0,1,2016,30
+NasirHossain,Bangladesh,Pakistan,23,19,1,1,121.05263157894737,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,26
+NasirHossain,Bangladesh,New Zealand,50,40,6,1,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,66
+NasirHossain,Bangladesh,India,16,17,1,0,94.11764705882352,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,25
+NasirHossain,Bangladesh,Sri Lanka,8,13,0,0,61.53846153846154,12,2,11,0,0,5.5,Zahur Ahmed Chowdhury Stadium,0,0,2014,8
+NasirHossain,Bangladesh,Nepal,0,0,0,0,0,19,3,22,0,0,7.333333333333333,Zahur Ahmed Chowdhury Stadium,0,0,2014,0
+NasirHossain,Bangladesh,Zimbabwe,3,5,0,0,60.0,22,3,45,1,0,15.0,Shere Bangla National Stadium,0,0,2015,20
+NasirHossain,Bangladesh,West Indies,18,15,1,0,120.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2011,35
+NasirHossain,Bangladesh,Netherlands,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Sportpark Westvliet,0,0,2012,0
+NasirHossain,Bangladesh,Pakistan,35,39,2,1,89.74358974358975,12,2,14,1,0,7.0,Shere Bangla National Stadium,0,1,2011,72
+NasirHossain,Bangladesh,Pakistan,0,0,0,0,0,12,2,16,0,0,8.0,Shere Bangla National Stadium,0,0,2015,0
+NasirHossain,Bangladesh,New Zealand,28,20,4,0,140.0,5,0,16,0,0,0,Shere Bangla National Stadium,0,1,2013,40
+NasirHossain,Bangladesh,Pakistan,16,13,2,0,123.07692307692308,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,18
+NasirHossain,Bangladesh,India,54,58,5,0,93.10344827586206,5,0,6,0,0,0,Shere Bangla National Stadium,1,0,2012,79
+NasirHossain,Bangladesh,Zimbabwe,0,0,0,0,0,17,2,14,0,0,7.0,Queens Sports Club,1,1,2011,20
+NasirHossain,Bangladesh,South Africa,31,46,3,1,67.3913043478261,41,6,28,1,1,4.666666666666667,Shere Bangla National Stadium,0,0,2015,71
+NasirHossain,Bangladesh,New Zealand,3,6,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2013,-1
+NasirHossain,Bangladesh,India,34,27,3,1,125.92592592592592,39,6,31,0,0,5.166666666666667,Shere Bangla National Stadium,0,1,2015,49
+NasirHossain,Bangladesh,West Indies,6,13,0,0,46.15384615384615,5,0,8,0,0,0,National Cricket Stadium St George's,0,0,2014,0
+NasirHossain,Bangladesh,Zimbabwe,8,6,1,0,133.33333333333331,23,3,18,0,0,6.0,Queens Sports Club,0,1,2011,17
+NasirHossain,Bangladesh,New Zealand,1,2,0,0,50.0,5,0,6,0,0,0,Shere Bangla National Stadium,0,0,2013,-3
+NasirHossain,Bangladesh,West Indies,26,38,2,0,68.42105263157895,11,1,20,0,0,20.0,National Cricket Stadium St George's,0,0,2014,26
+NasirHossain,Bangladesh,India,22,20,4,0,110.00000000000001,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,26
+NasirHossain,Bangladesh,England,27,27,2,0,100.0,59,9,31,1,0,3.4444444444444446,Shere Bangla National Stadium,0,1,2016,68
+NasirHossain,Bangladesh,West Indies,39,53,2,1,73.58490566037736,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2012,51
+NasirHossain,Bangladesh,Scotland,0,0,0,0,0,29,4,32,2,0,8.0,Saxton Oval,0,0,2015,50
+NasirHossain,Bangladesh,Zimbabwe,63,74,4,0,85.13513513513513,0,0,0,0,0,0,Queens Sports Club,0,1,2013,83
+NasirHossain,Bangladesh,New Zealand,11,7,0,1,157.14285714285714,29,4,32,2,0,8.0,Seddon Park,0,1,2015,71
+NasirHossain,Bangladesh,Sri Lanka,8,29,1,0,27.586206896551722,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,3
+NasirHossain,Bangladesh,Pakistan,21,41,2,0,51.21951219512195,5,0,1,1,0,0,Shere Bangla National Stadium,0,0,2011,44
+NasirHossain,Bangladesh,New Zealand,44,40,5,1,110.00000000000001,59,9,35,0,1,3.888888888888889,Khan Shaheb Osman Ali Stadium,0,0,2013,65
+NasirHossain,Bangladesh,Zimbabwe,0,2,0,0,0.0,35,5,37,0,0,7.4,Harare Sports Club,0,0,2011,-8
+NasirHossain,Bangladesh,West Indies,26,30,3,0,86.66666666666667,0,0,0,0,0,0,Warner Park Basseterre,0,2,2014,45
+NasirHossain,Bangladesh,Zimbabwe,41,53,3,0,77.35849056603774,55,9,36,2,1,4.0,Shere Bangla National Stadium,0,1,2015,114
+NasirHossain,Bangladesh,India,0,0,0,0,0,12,2,14,0,0,7.0,Shere Bangla National Stadium,0,2,2014,16
+NasirHossain,Bangladesh,West Indies,9,9,1,0,100.0,11,1,10,0,0,10.0,Shere Bangla National Stadium,0,0,2011,10
+NasirHossain,Bangladesh,Pakistan,28,65,1,0,43.07692307692308,0,0,0,0,0,0,Shere Bangla National Stadium,1,1,2012,43
+NasirHossain,Bangladesh,West Indies,28,29,4,0,96.55172413793103,0,0,0,0,0,0,Sheikh Abu Naser Stadium,0,0,2012,32
+NasirHossain,Bangladesh,Pakistan,100,139,11,1,71.94244604316546,17,2,18,0,0,9.0,Shere Bangla National Stadium,0,1,2011,137
+NasirHossain,Bangladesh,South Africa,0,0,0,0,0,47,7,26,3,0,3.7142857142857144,Shere Bangla National Stadium,0,1,2015,89
+NasirHossain,Bangladesh,Sri Lanka,38,45,3,0,84.44444444444444,23,3,13,0,1,4.333333333333333,Shere Bangla National Stadium,0,0,2014,53
+NasirHossain,Bangladesh,England,4,10,0,0,40.0,42,7,53,1,0,7.571428571428571,Zahur Ahmed Chowdhury Stadium,0,0,2016,23
+NasirHossain,Bangladesh,West Indies,0,0,0,0,0,11,1,3,2,0,3.0,Zahur Ahmed Chowdhury Stadium,0,0,2011,50
+NasirHossain,Bangladesh,New Zealand,0,0,0,0,0,54,9,47,2,0,5.222222222222222,Clontarf Cricket Club Ground,0,0,2017,52
+NasirHossain,Bangladesh,Zimbabwe,63,92,6,0,68.47826086956522,11,1,11,0,0,11.0,Harare Sports Club,0,0,2011,75
+NasirHossain,Bangladesh,West Indies,2,4,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2012,6
+NasirHossain,Bangladesh,Sri Lanka,22,24,1,1,91.66666666666666,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,25
+NasirHossain,Bangladesh,Pakistan,0,0,0,0,0,30,5,17,1,0,3.4,Shere Bangla National Stadium,0,0,2015,31
+NasirHossain,Bangladesh,Sri Lanka,30,49,1,0,61.224489795918366,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,37
+NasirHossain,Bangladesh,Pakistan,47,50,3,1,94.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,52
+NasirHossain,Bangladesh,India,5,14,0,0,35.714285714285715,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,7
+NasirHossain,Bangladesh,Zimbabwe,0,3,0,0,0.0,12,2,6,1,0,3.0,Shere Bangla National Stadium,0,2,2015,39
+NasirHossain,Bangladesh,Pakistan,3,8,0,0,37.5,23,3,31,0,0,10.333333333333334,Zahur Ahmed Chowdhury Stadium,0,1,2011,1
+NasirHossain,Bangladesh,Zimbabwe,36,53,2,1,67.9245283018868,0,0,0,0,0,0,Queens Sports Club,0,0,2013,38
+NasirHossain,Bangladesh,India,0,0,0,0,0,59,9,33,2,1,3.6666666666666665,Shere Bangla National Stadium,0,1,2015,72
+NasirHossain,Bangladesh,Sri Lanka,73,61,6,3,119.67213114754098,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2013,101
+NasirHossain,Bangladesh,Pakistan,0,0,0,0,0,17,2,17,0,0,8.5,Shere Bangla National Stadium,0,0,2014,0
+NasirHossain,Bangladesh,West Indies,4,10,0,0,40.0,0,0,0,0,0,0,Sheikh Abu Naser Stadium,0,0,2012,-2
+NasirHossain,Bangladesh,Zimbabwe,68,69,7,1,98.55072463768117,0,0,0,0,0,0,Queens Sports Club,0,0,2013,85
+NasirHossain,Bangladesh,Pakistan,3,1,0,0,300.0,17,2,20,0,0,10.0,Shere Bangla National Stadium,0,2,2015,17
+NasirHossain,Bangladesh,India,1,6,0,0,16.666666666666664,24,4,20,0,0,5.0,Khan Shaheb Osman Ali Stadium,0,0,2014,-3
+NasirHossain,Bangladesh,Afghanistan,41,61,1,1,67.21311475409836,14,2,8,0,0,4.0,Khan Shaheb Osman Ali Stadium,0,1,2014,54
+NasirHossain,Bangladesh,South Africa,0,0,0,0,0,47,7,30,0,0,4.285714285714286,Zahur Ahmed Chowdhury Stadium,0,0,2015,4
+NasirHossain,Bangladesh,India,35,35,6,0,100.0,54,9,39,0,0,4.333333333333333,Melbourne Cricket Ground,0,1,2015,53
+NasirHossain,Bangladesh,West Indies,50,55,3,1,90.9090909090909,15,2,15,0,0,7.5,Shere Bangla National Stadium,0,0,2011,63
+NasirHossain,Bangladesh,West Indies,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,7
+NasirHossain,Bangladesh,Pakistan,0,0,0,0,0,41,6,37,1,0,6.166666666666667,Shere Bangla National Stadium,0,1,2015,33

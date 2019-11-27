@@ -1,45 +1,49 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-COObuya,Kenya,Ireland,13,15,1,0,86.66666666666667,14,2,15,0,0,7.5,Mombasa Sports Club Ground,14
-COObuya,Kenya,Canada,6,8,1,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,7
-COObuya,Kenya,Bermuda,4,5,0,0,80.0,24,4,27,4,0,6.75,ICC Academy,112
-COObuya,Kenya,Netherlands,75,37,7,4,202.7027027027027,0,0,0,0,0,0,Wanderers Cricket Ground,98
-COObuya,Kenya,Ireland,13,15,1,0,86.66666666666667,14,2,15,0,0,7.5,Mombasa Sports Club Ground,14
-COObuya,Kenya,Ireland,13,15,1,0,86.66666666666667,14,2,15,0,0,7.5,Mombasa Sports Club Ground,14
-COObuya,Kenya,Canada,6,8,1,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,7
-COObuya,Kenya,Bermuda,4,5,0,0,80.0,24,4,27,4,0,6.75,ICC Academy,112
-COObuya,Kenya,Netherlands,75,37,7,4,202.7027027027027,0,0,0,0,0,0,Wanderers Cricket Ground,98
-COObuya,Kenya,Ireland,13,15,1,0,86.66666666666667,14,2,15,0,0,7.5,Mombasa Sports Club Ground,14
-COObuya,Kenya,Canada,6,8,1,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,7
-COObuya,Kenya,Bermuda,4,5,0,0,80.0,24,4,27,4,0,6.75,ICC Academy,112
-COObuya,Kenya,Netherlands,75,37,7,4,202.7027027027027,0,0,0,0,0,0,Wanderers Cricket Ground,98
-COObuya,Kenya,Netherlands,19,21,2,0,90.47619047619048,0,0,0,0,0,0,Wanderers Cricket Ground,21
-COObuya,Kenya,Bangladesh,14,10,1,0,140.0,0,0,0,0,0,0,Gymkhana Club Ground,15
-COObuya,Kenya,Namibia,7,16,0,0,43.75,18,3,23,1,0,7.666666666666667,Dubai International Cricket Stadium,26
-COObuya,Kenya,Sri Lanka,2,4,0,0,50.0,0,0,0,0,0,0,New Wanderers Stadium,-2
-COObuya,Kenya,Singapore,16,6,0,1,266.66666666666663,11,1,10,0,0,10.0,ICC Academy Ground No 2,18
-COObuya,Kenya,Canada,40,36,0,3,111.11111111111111,18,3,16,1,0,5.333333333333333,Sharjah Cricket Stadium,73
-COObuya,Kenya,Ireland,3,5,0,0,60.0,18,3,25,1,0,8.333333333333334,Mombasa Sports Club Ground,26
-COObuya,Kenya,Ireland,0,4,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-COObuya,Kenya,Pakistan,17,23,0,0,73.91304347826086,0,0,0,0,0,0,Gymkhana Club Ground,17
-COObuya,Kenya,Afghanistan,60,49,6,1,122.44897959183673,27,4,36,2,0,9.0,Sharjah Cricket Stadium,126
-COObuya,Kenya,New Zealand,18,28,2,0,64.28571428571429,0,0,0,0,0,0,Kingsmead,18
-COObuya,Kenya,Uganda,21,34,0,1,61.76470588235294,12,2,7,1,0,3.5,Lugogo Cricket Oval,52
-COObuya,Kenya,Netherlands,63,40,7,2,157.5,17,2,16,2,0,8.0,ICC Academy,132
-COObuya,Kenya,Scotland,16,12,1,1,133.33333333333331,17,2,12,2,0,6.0,ICC Academy Ground No 2,69
-COObuya,Kenya,Canada,11,17,0,0,64.70588235294117,23,3,17,3,0,5.666666666666667,ICC Global Cricket Academy,86
-COObuya,Kenya,Scotland,36,34,2,0,105.88235294117648,0,0,0,0,0,0,ICC Academy,38
-COObuya,Kenya,Canada,0,1,0,0,0.0,11,1,11,0,0,11.0,ICC Global Cricket Academy,-8
-COObuya,Kenya,Afghanistan,12,26,0,0,46.15384615384615,6,1,11,2,0,11.0,Sharjah Cricket Stadium,56
-COObuya,Kenya,Ghana,34,43,2,0,79.06976744186046,0,0,0,0,0,0,Kyambogo Cricket Oval,36
-COObuya,Kenya,Papua New Guinea,10,21,0,0,47.61904761904761,20,3,17,2,0,5.666666666666667,Dubai International Cricket Stadium,56
-COObuya,Kenya,Netherlands,1,6,0,0,16.666666666666664,0,0,0,0,0,0,ICC Academy,-5
-COObuya,Kenya,Ireland,42,39,5,0,107.6923076923077,24,4,22,0,0,5.5,Mombasa Sports Club Ground,49
-COObuya,Kenya,Afghanistan,1,6,0,0,16.666666666666664,18,3,17,1,0,5.666666666666667,Sharjah Cricket Stadium,22
-COObuya,Kenya,Ireland,13,15,1,0,86.66666666666667,14,2,15,0,0,7.5,Mombasa Sports Club Ground,14
-COObuya,Kenya,Canada,6,8,1,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,7
-COObuya,Kenya,Bermuda,4,5,0,0,80.0,24,4,27,4,0,6.75,ICC Academy,112
-COObuya,Kenya,Netherlands,75,37,7,4,202.7027027027027,0,0,0,0,0,0,Wanderers Cricket Ground,98
-COObuya,Kenya,Netherlands,19,21,2,0,90.47619047619048,0,0,0,0,0,0,Wanderers Cricket Ground,21
-COObuya,Kenya,Bangladesh,14,10,1,0,140.0,0,0,0,0,0,0,Gymkhana Club Ground,15
-COObuya,Kenya,Namibia,7,16,0,0,43.75,18,3,23,1,0,7.666666666666667,Dubai International Cricket Stadium,26
-COObuya,Kenya,Sri Lanka,2,4,0,0,50.0,0,0,0,0,0,0,New Wanderers Stadium,-2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+COObuya,Kenya,Singapore,16,6,0,1,266.66666666666663,11,1,10,0,0,10.0,ICC Academy Ground No 2,0,1,2019,26
+COObuya,Kenya,Netherlands,75,37,7,4,202.7027027027027,0,0,0,0,0,0,Wanderers Cricket Ground,1,0,2013,110
+COObuya,Kenya,Scotland,36,34,2,0,105.88235294117648,0,0,0,0,0,0,ICC Academy,0,0,2013,38
+COObuya,Kenya,Netherlands,19,21,2,0,90.47619047619048,0,0,0,0,0,0,Wanderers Cricket Ground,1,0,2013,33
+COObuya,Kenya,Ghana,34,43,2,0,79.06976744186046,0,0,0,0,0,0,Kyambogo Cricket Oval,0,0,2019,36
+COObuya,Kenya,Netherlands,1,6,0,0,16.666666666666664,0,0,0,0,0,0,ICC Academy,0,1,2013,3
+COObuya,Kenya,Papua New Guinea,10,21,0,0,47.61904761904761,20,3,17,2,0,5.666666666666667,Dubai International Cricket Stadium,0,1,2019,64
+COObuya,Kenya,Namibia,7,16,0,0,43.75,18,3,23,1,0,7.666666666666667,Dubai International Cricket Stadium,1,0,2019,38
+COObuya,Kenya,Canada,0,1,0,0,0.0,11,1,11,0,0,11.0,ICC Global Cricket Academy,0,0,2013,-8
+COObuya,Kenya,Pakistan,17,23,0,0,73.91304347826086,0,0,0,0,0,0,Gymkhana Club Ground,0,1,2007,25
+COObuya,Kenya,Canada,40,36,0,3,111.11111111111111,18,3,16,1,0,5.333333333333333,Sharjah Cricket Stadium,1,2,2013,101
+COObuya,Kenya,Afghanistan,1,6,0,0,16.666666666666664,18,3,17,1,0,5.666666666666667,Sharjah Cricket Stadium,0,1,2013,30
+COObuya,Kenya,Scotland,16,12,1,1,133.33333333333331,17,2,12,2,0,6.0,ICC Academy Ground No 2,0,1,2019,77
+COObuya,Kenya,Bangladesh,14,10,1,0,140.0,0,0,0,0,0,0,Gymkhana Club Ground,0,1,2007,23
+COObuya,Kenya,Canada,6,8,1,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,7
+COObuya,Kenya,Ireland,13,15,1,0,86.66666666666667,14,2,15,0,0,7.5,Mombasa Sports Club Ground,0,1,2012,22
+COObuya,Kenya,Uganda,21,34,0,1,61.76470588235294,12,2,7,1,0,3.5,Lugogo Cricket Oval,0,2,2019,68
+COObuya,Kenya,Bermuda,4,5,0,0,80.0,24,4,27,4,0,6.75,ICC Academy,0,0,2019,112
+COObuya,Kenya,New Zealand,18,28,2,0,64.28571428571429,0,0,0,0,0,0,Kingsmead,0,0,2007,18
+COObuya,Kenya,Afghanistan,12,26,0,0,46.15384615384615,6,1,11,2,0,11.0,Sharjah Cricket Stadium,0,1,2013,64
+COObuya,Kenya,Canada,11,17,0,0,64.70588235294117,23,3,17,3,0,5.666666666666667,ICC Global Cricket Academy,0,1,2013,94
+COObuya,Kenya,Ireland,3,5,0,0,60.0,18,3,25,1,0,8.333333333333334,Mombasa Sports Club Ground,0,0,2012,26
+COObuya,Kenya,Ireland,0,4,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,-8
+COObuya,Kenya,Afghanistan,60,49,6,1,122.44897959183673,27,4,36,2,0,9.0,Sharjah Cricket Stadium,0,2,2013,142
+COObuya,Kenya,Ireland,42,39,5,0,107.6923076923077,24,4,22,0,0,5.5,Mombasa Sports Club Ground,1,0,2012,61
+COObuya,Kenya,Sri Lanka,2,4,0,0,50.0,0,0,0,0,0,0,New Wanderers Stadium,1,0,2007,10
+COObuya,Kenya,Netherlands,63,40,7,2,157.5,17,2,16,2,0,8.0,ICC Academy,0,1,2019,140
+COObuya,Kenya,Canada,44,62,4,1,70.96774193548387,0,0,0,0,0,0,Gymkhana Club Ground,1,1,2007,70
+COObuya,Kenya,New Zealand,21,31,0,0,67.74193548387096,0,0,0,0,0,0,Beausejour Stadium Gros Islet,1,0,2007,31
+COObuya,Kenya,Scotland,2,4,0,0,50.0,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,-2
+COObuya,Kenya,Bangladesh,17,41,1,1,41.46341463414634,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2006,14
+COObuya,Kenya,Bermuda,0,0,0,0,0,27,4,21,0,0,5.25,Gymkhana Club Ground,1,0,2007,14
+COObuya,Kenya,Ireland,29,34,2,0,85.29411764705883,36,6,24,3,0,4.0,Mombasa Sports Club Ground,0,1,2012,118
+COObuya,Kenya,Bangladesh,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2006,7
+COObuya,Kenya,Canada,31,36,3,1,86.11111111111111,12,2,15,0,0,7.5,Feroz Shah Kotla,0,0,2011,36
+COObuya,Kenya,Ireland,10,27,1,0,37.03703703703704,24,4,21,0,0,5.25,Mombasa Sports Club Ground,0,0,2012,7
+COObuya,Kenya,Zimbabwe,1,6,0,0,16.666666666666664,17,2,14,0,0,7.0,Eden Gardens,1,0,2011,7
+COObuya,Kenya,Bermuda,34,42,5,0,80.95238095238095,0,0,0,0,0,0,Gymkhana Club Ground,1,2,2007,67
+COObuya,Kenya,Scotland,29,45,2,0,64.44444444444444,0,0,0,0,0,0,Hagley Oval,0,0,2014,29
+COObuya,Kenya,Netherlands,37,24,3,2,154.16666666666669,0,0,0,0,0,0,Bert Sutcliffe Oval,0,0,2014,44
+COObuya,Kenya,England,10,14,2,0,71.42857142857143,17,2,8,0,0,4.0,Beausejour Stadium Gros Islet,0,1,2007,24
+COObuya,Kenya,Canada,6,5,0,0,120.0,0,0,0,0,0,0,Maple Leaf North-West Ground,0,0,2009,6
+COObuya,Kenya,Zimbabwe,55,63,4,1,87.3015873015873,60,10,49,0,1,4.9,Gymkhana Club Ground,0,1,2009,89
+COObuya,Kenya,Bangladesh,1,6,0,0,16.666666666666664,0,0,5,0,0,0,Gymkhana Club Ground,0,2,2006,11
+COObuya,Kenya,Pakistan,47,58,3,3,81.03448275862068,5,0,5,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2011,64
+COObuya,Kenya,Canada,4,14,0,0,28.57142857142857,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,-2
+COObuya,Kenya,Canada,34,35,4,0,97.14285714285714,20,3,29,0,0,9.666666666666666,ICC Global Cricket Academy,0,1,2013,44
+COObuya,Kenya,New Zealand,14,19,2,0,73.68421052631578,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,16

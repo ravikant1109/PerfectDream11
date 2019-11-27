@@ -1,10 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NPokana,Papua New Guinea,Netherlands,0,0,0,0,0,23,3,29,1,0,9.666666666666666,ICC Academy,23
-NPokana,Papua New Guinea,Ireland,0,0,0,0,0,11,1,6,1,0,6.0,Tony Ireland Stadium,25
-NPokana,Papua New Guinea,Scotland,1,1,0,0,100.0,24,4,43,1,0,10.75,ICC Academy,22
-NPokana,Papua New Guinea,Bermuda,0,0,0,0,0,17,2,18,2,0,9.0,ICC Academy,50
-NPokana,Papua New Guinea,Namibia,0,0,0,0,0,19,3,24,1,0,8.0,ICC Academy Ground No 2,25
-NPokana,Papua New Guinea,Ireland,2,3,0,0,66.66666666666666,6,1,8,0,0,8.0,Tony Ireland Stadium,0
-NPokana,Papua New Guinea,Singapore,0,0,0,0,0,24,4,28,1,0,7.0,Dubai International Cricket Stadium,25
-NPokana,Papua New Guinea,Kenya,7,9,0,0,77.77777777777779,25,4,21,3,0,5.25,Dubai International Cricket Stadium,84
-NPokana,Papua New Guinea,Netherlands,0,0,0,0,0,23,3,29,1,0,9.666666666666666,ICC Academy,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NPokana,Papua New Guinea,Netherlands,0,0,0,0,0,23,3,29,1,0,9.666666666666666,ICC Academy,0,0,2019,23
+NPokana,Papua New Guinea,Ireland,2,3,0,0,66.66666666666666,6,1,8,0,0,8.0,Tony Ireland Stadium,0,0,2016,0
+NPokana,Papua New Guinea,Scotland,1,1,0,0,100.0,24,4,43,1,0,10.75,ICC Academy,0,0,2019,22
+NPokana,Papua New Guinea,Kenya,7,9,0,0,77.77777777777779,25,4,21,3,0,5.25,Dubai International Cricket Stadium,0,0,2019,84
+NPokana,Papua New Guinea,Namibia,0,0,0,0,0,19,3,24,1,0,8.0,ICC Academy Ground No 2,0,0,2019,25
+NPokana,Papua New Guinea,Bermuda,0,0,0,0,0,17,2,18,2,0,9.0,ICC Academy,0,0,2019,50
+NPokana,Papua New Guinea,Ireland,0,0,0,0,0,11,1,6,1,0,6.0,Tony Ireland Stadium,0,0,2016,25
+NPokana,Papua New Guinea,Singapore,0,0,0,0,0,24,4,28,1,0,7.0,Dubai International Cricket Stadium,1,0,2019,37
+NPokana,Papua New Guinea,United States of America,11,16,1,1,68.75,60,10,45,3,1,4.5,Central Broward Regional Park Stadium Turf Ground,0,0,2019,99
+NPokana,Papua New Guinea,United States of America,0,0,0,0,0,62,10,41,3,0,4.1,Central Broward Regional Park Stadium Turf Ground,0,0,2019,79
+NPokana,Papua New Guinea,Scotland,6,15,0,0,40.0,46,7,25,3,2,3.5714285714285716,Mannofield Park,0,1,2019,105
+NPokana,Papua New Guinea,United States of America,0,0,0,0,0,51,8,28,3,3,3.5,Affies Park,0,0,2019,105
+NPokana,Papua New Guinea,Scotland,6,6,0,0,100.0,61,10,41,2,1,4.1,Mannofield Park,0,0,2019,68
+NPokana,Papua New Guinea,Namibia,9,6,1,0,150.0,44,7,32,3,0,4.571428571428571,Central Broward Regional Park Stadium Turf Ground,0,3,2019,113
+NPokana,Papua New Guinea,Namibia,0,0,0,0,0,48,8,32,2,0,4.0,Central Broward Regional Park Stadium Turf Ground,0,1,2019,62
+NPokana,Papua New Guinea,Oman,11,26,1,0,42.30769230769231,29,4,19,0,0,4.75,Mannofield Park,0,1,2019,18
+NPokana,Papua New Guinea,Oman,0,0,0,0,0,50,8,34,1,0,4.25,Mannofield Park,1,0,2019,41

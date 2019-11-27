@@ -1,13 +1,36 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JWHastings,Australia,Sri Lanka,3,6,0,0,50.0,24,4,16,3,0,4.0,Pallekele International Cricket Stadium,78
-JWHastings,Australia,Sri Lanka,3,6,0,0,50.0,24,4,16,3,0,4.0,Pallekele International Cricket Stadium,78
-JWHastings,Australia,Sri Lanka,3,6,0,0,50.0,24,4,16,3,0,4.0,Pallekele International Cricket Stadium,78
-JWHastings,Australia,South Africa,0,0,0,0,0,17,2,28,0,0,14.0,Newlands,-6
-JWHastings,Australia,Sri Lanka,14,4,0,1,350.0,19,3,37,0,0,12.333333333333334,Pallekele International Cricket Stadium,10
-JWHastings,Australia,Sri Lanka,15,9,2,0,166.66666666666669,18,3,19,0,0,6.333333333333333,Western Australia Cricket Association Ground,17
-JWHastings,Australia,India,4,6,0,0,66.66666666666666,17,2,35,0,0,17.5,Melbourne Cricket Ground,-4
-JWHastings,Australia,Sri Lanka,0,0,0,0,0,25,4,23,2,0,5.75,R Premadasa Stadium,52
-JWHastings,Australia,South Africa,7,9,1,0,77.77777777777779,23,3,30,0,0,10.0,Kingsmead,6
-JWHastings,Australia,Bangladesh,3,4,0,0,75.0,17,2,24,0,0,12.0,M Chinnaswamy Stadium,-3
-JWHastings,Australia,South Africa,0,0,0,0,0,23,3,43,2,0,14.333333333333334,New Wanderers Stadium,44
-JWHastings,Australia,Sri Lanka,3,6,0,0,50.0,24,4,16,3,0,4.0,Pallekele International Cricket Stadium,78
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JWHastings,Australia,South Africa,0,0,0,0,0,23,3,43,2,0,14.333333333333334,New Wanderers Stadium,0,0,2016,44
+JWHastings,Australia,India,4,6,0,0,66.66666666666666,17,2,35,0,0,17.5,Melbourne Cricket Ground,0,0,2016,-4
+JWHastings,Australia,Bangladesh,3,4,0,0,75.0,17,2,24,0,0,12.0,M Chinnaswamy Stadium,0,0,2016,-3
+JWHastings,Australia,Sri Lanka,14,4,0,1,350.0,19,3,37,0,0,12.333333333333334,Pallekele International Cricket Stadium,0,0,2011,10
+JWHastings,Australia,Sri Lanka,15,9,2,0,166.66666666666669,18,3,19,0,0,6.333333333333333,Western Australia Cricket Association Ground,0,0,2010,17
+JWHastings,Australia,South Africa,7,9,1,0,77.77777777777779,23,3,30,0,0,10.0,Kingsmead,1,0,2016,18
+JWHastings,Australia,Sri Lanka,3,6,0,0,50.0,24,4,16,3,0,4.0,Pallekele International Cricket Stadium,0,0,2011,78
+JWHastings,Australia,South Africa,0,0,0,0,0,17,2,28,0,0,14.0,Newlands,0,1,2016,2
+JWHastings,Australia,Sri Lanka,0,0,0,0,0,25,4,23,2,0,5.75,R Premadasa Stadium,0,0,2016,52
+JWHastings,Australia,Bangladesh,0,0,0,0,0,48,8,32,1,1,4.0,Shere Bangla National Stadium,0,0,2011,37
+JWHastings,Australia,England,6,5,1,0,120.0,56,9,40,1,0,4.444444444444445,Western Australia Cricket Association Ground,0,0,2011,36
+JWHastings,Australia,South Africa,0,0,0,0,0,60,10,81,2,0,8.1,Kingsmead,0,0,2016,50
+JWHastings,Australia,South Africa,51,57,6,2,89.47368421052632,43,7,52,0,0,7.428571428571429,SuperSport Park,0,0,2016,69
+JWHastings,Australia,India,0,0,0,0,0,60,10,58,4,0,5.8,Melbourne Cricket Ground,0,0,2016,110
+JWHastings,Australia,South Africa,4,3,0,0,133.33333333333331,23,3,28,0,0,9.333333333333334,St George's Park,0,0,2016,2
+JWHastings,Australia,England,7,4,1,0,175.0,43,7,48,0,0,6.857142857142857,Sydney Cricket Ground,0,0,2011,8
+JWHastings,Australia,Sri Lanka,5,7,0,0,71.42857142857143,61,10,45,2,1,4.5,Rangiri Dambulla International Stadium,0,0,2016,67
+JWHastings,Australia,India,0,0,0,0,0,61,10,50,2,0,5.0,Manuka Oval,0,0,2016,52
+JWHastings,Australia,Bangladesh,0,0,0,0,0,35,5,20,1,0,4.0,Shere Bangla National Stadium,0,0,2011,29
+JWHastings,Australia,New Zealand,48,48,5,1,100.0,60,10,43,0,2,4.3,Westpac Stadium,0,0,2016,75
+JWHastings,Australia,Sri Lanka,8,6,2,0,133.33333333333331,41,6,30,1,1,5.0,Pallekele International Cricket Stadium,0,0,2016,45
+JWHastings,Australia,England,13,11,2,0,118.18181818181819,55,9,35,2,0,3.888888888888889,Brisbane Cricket Ground Woolloongabba,0,1,2011,79
+JWHastings,Australia,India,0,0,0,0,0,62,10,48,2,1,4.8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2010,62
+JWHastings,Australia,New Zealand,0,0,0,0,0,53,8,69,2,0,8.625,Edgbaston,0,0,2017,50
+JWHastings,Australia,Sri Lanka,0,1,0,0,0.0,67,11,28,0,0,2.5454545454545454,R Premadasa Stadium,0,1,2011,6
+JWHastings,Australia,South Africa,23,19,1,2,121.05263157894737,60,10,57,3,0,5.7,New Wanderers Stadium,0,0,2016,105
+JWHastings,Australia,Bangladesh,21,9,3,1,233.33333333333334,54,9,42,0,0,4.666666666666667,Shere Bangla National Stadium,0,0,2011,30
+JWHastings,Australia,New Zealand,8,9,2,0,88.88888888888889,59,9,39,1,0,4.333333333333333,Eden Park,0,1,2016,47
+JWHastings,Australia,Sri Lanka,16,15,1,0,106.66666666666667,38,6,27,0,0,4.5,Melbourne Cricket Ground,0,0,2010,21
+JWHastings,Australia,Sri Lanka,0,0,0,0,0,61,10,45,6,0,4.5,Rangiri Dambulla International Stadium,0,0,2016,170
+JWHastings,Australia,England,0,0,0,0,0,59,9,21,3,3,2.3333333333333335,Old Trafford,0,0,2015,105
+JWHastings,Australia,England,34,27,3,2,125.92592592592592,37,6,56,0,0,9.333333333333334,Headingley,0,0,2015,39
+JWHastings,Australia,England,1,3,0,0,33.33333333333333,42,7,45,0,0,6.428571428571429,Adelaide Oval,0,0,2011,-5
+JWHastings,Australia,Ireland,0,0,0,0,0,48,8,31,2,0,3.875,Willowmoore Park,0,0,2016,56
+JWHastings,Australia,India,2,3,0,0,66.66666666666666,61,10,61,3,1,6.1,Sydney Cricket Ground,0,0,2016,83

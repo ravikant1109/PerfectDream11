@@ -1,11 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TTaylor,Cayman Islands,Bermuda,3,6,0,0,50.0,12,2,17,1,0,8.5,White Hill Field Sandys Parish,24
-TTaylor,Cayman Islands,Bermuda,3,6,0,0,50.0,12,2,17,1,0,8.5,White Hill Field Sandys Parish,24
-TTaylor,Cayman Islands,Bermuda,3,6,0,0,50.0,12,2,17,1,0,8.5,White Hill Field Sandys Parish,24
-TTaylor,Cayman Islands,Canada,11,12,1,0,91.66666666666666,0,0,0,0,0,0,White Hill Field Sandys Parish,12
-TTaylor,Cayman Islands,United States of America,19,28,1,1,67.85714285714286,5,0,3,0,0,0,White Hill Field Sandys Parish,20
-TTaylor,Cayman Islands,Bermuda,17,9,0,2,188.88888888888889,12,2,23,0,0,11.5,White Hill Field Sandys Parish,15
-TTaylor,Cayman Islands,Canada,19,35,0,2,54.285714285714285,23,3,32,1,0,10.666666666666666,White Hill Field Sandys Parish,40
-TTaylor,Cayman Islands,United States of America,2,5,0,0,40.0,0,0,0,0,0,0,National Stadium,-4
-TTaylor,Cayman Islands,Bermuda,3,6,0,0,50.0,12,2,17,1,0,8.5,White Hill Field Sandys Parish,24
-TTaylor,Cayman Islands,Canada,11,12,1,0,91.66666666666666,0,0,0,0,0,0,White Hill Field Sandys Parish,12
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TTaylor,Cayman Islands,United States of America,19,28,1,1,67.85714285714286,5,0,3,0,0,0,White Hill Field Sandys Parish,0,0,2019,20
+TTaylor,Cayman Islands,Bermuda,17,9,0,2,188.88888888888889,12,2,23,0,0,11.5,White Hill Field Sandys Parish,0,0,2019,15
+TTaylor,Cayman Islands,United States of America,2,5,0,0,40.0,0,0,0,0,0,0,National Stadium,0,0,2019,-4
+TTaylor,Cayman Islands,Canada,19,35,0,2,54.285714285714285,23,3,32,1,0,10.666666666666666,White Hill Field Sandys Parish,0,0,2019,40
+TTaylor,Cayman Islands,Bermuda,3,6,0,0,50.0,12,2,17,1,0,8.5,White Hill Field Sandys Parish,0,1,2019,32
+TTaylor,Cayman Islands,Canada,11,12,1,0,91.66666666666666,0,0,0,0,0,0,White Hill Field Sandys Parish,0,0,2019,12

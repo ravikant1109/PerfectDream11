@@ -1,9 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HFGurney,England,Sri Lanka,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Kennington Oval,50
-HFGurney,England,India,0,0,0,0,0,24,4,30,1,0,7.5,Edgbaston,25
-HFGurney,England,Sri Lanka,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Kennington Oval,50
-HFGurney,England,India,0,0,0,0,0,24,4,30,1,0,7.5,Edgbaston,25
-HFGurney,England,Sri Lanka,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Kennington Oval,50
-HFGurney,England,India,0,0,0,0,0,24,4,30,1,0,7.5,Edgbaston,25
-HFGurney,England,Sri Lanka,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Kennington Oval,50
-HFGurney,England,India,0,0,0,0,0,24,4,30,1,0,7.5,Edgbaston,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HFGurney,England,India,0,0,0,0,0,24,4,30,1,0,7.5,Edgbaston,0,0,2014,25
+HFGurney,England,Sri Lanka,0,0,0,0,0,23,3,26,2,0,8.666666666666666,Kennington Oval,1,0,2014,62
+HFGurney,England,Sri Lanka,4,4,1,0,100.0,64,10,59,3,0,5.9,Riverside Ground,0,0,2014,82
+HFGurney,England,Sri Lanka,0,0,0,0,0,35,5,25,0,0,5.0,Old Trafford,0,0,2014,2
+HFGurney,England,Sri Lanka,0,0,0,0,0,62,10,57,4,1,5.7,Lord's,0,0,2014,118
+HFGurney,England,Scotland,0,0,0,0,0,23,3,20,0,0,6.666666666666667,Mannofield Park,0,1,2014,8
+HFGurney,England,Sri Lanka,1,5,0,0,20.0,32,5,34,0,0,6.8,R Premadasa Stadium,0,0,2014,-5
+HFGurney,England,Sri Lanka,0,0,0,0,0,33,5,20,2,0,4.0,Kennington Oval,0,0,2014,54
+HFGurney,England,Sri Lanka,0,2,0,0,0.0,61,10,46,0,1,4.6,Edgbaston,0,0,2014,4
+HFGurney,England,Sri Lanka,1,2,0,0,50.0,65,10,67,0,0,6.7,R Premadasa Stadium,0,0,2014,-3
+HFGurney,England,Sri Lanka,6,11,0,0,54.54545454545454,55,9,63,1,0,7.0,R Premadasa Stadium,0,0,2014,27

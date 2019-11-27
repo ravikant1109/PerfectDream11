@@ -1,9 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JBReva,Papua New Guinea,Ireland,2,7,0,0,28.57142857142857,23,3,26,1,0,8.666666666666666,Civil Service Cricket Club Stormont,21
-JBReva,Papua New Guinea,United Arab Emirates,0,0,0,0,0,11,1,21,0,0,21.0,Sheikh Zayed Stadium,0
-JBReva,Papua New Guinea,United Arab Emirates,6,6,0,0,100.0,18,3,18,2,0,6.0,Sheikh Zayed Stadium,56
-JBReva,Papua New Guinea,United Arab Emirates,1,5,0,0,20.0,17,2,30,1,0,15.0,Sheikh Zayed Stadium,14
-JBReva,Papua New Guinea,Ireland,7,5,0,1,140.0,5,0,15,0,0,0,Tony Ireland Stadium,9
-JBReva,Papua New Guinea,Nepal,0,0,0,0,0,23,3,13,2,0,4.333333333333333,The Village Malahide,54
-JBReva,Papua New Guinea,Ireland,2,7,0,0,28.57142857142857,23,3,26,1,0,8.666666666666666,Civil Service Cricket Club Stormont,21
-JBReva,Papua New Guinea,United Arab Emirates,0,0,0,0,0,11,1,21,0,0,21.0,Sheikh Zayed Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JBReva,Papua New Guinea,Nepal,0,0,0,0,0,23,3,13,2,0,4.333333333333333,The Village Malahide,0,0,2015,54
+JBReva,Papua New Guinea,United Arab Emirates,6,6,0,0,100.0,18,3,18,2,0,6.0,Sheikh Zayed Stadium,0,0,2017,56
+JBReva,Papua New Guinea,Ireland,7,5,0,1,140.0,5,0,15,0,0,0,Tony Ireland Stadium,0,0,2016,9
+JBReva,Papua New Guinea,United Arab Emirates,0,0,0,0,0,11,1,21,0,0,21.0,Sheikh Zayed Stadium,0,0,2017,0
+JBReva,Papua New Guinea,United Arab Emirates,1,5,0,0,20.0,17,2,30,1,0,15.0,Sheikh Zayed Stadium,0,0,2017,14
+JBReva,Papua New Guinea,Ireland,2,7,0,0,28.57142857142857,23,3,26,1,0,8.666666666666666,Civil Service Cricket Club Stormont,0,0,2015,21
+JBReva,Papua New Guinea,Hong Kong,0,0,0,0,0,17,2,22,0,0,11.0,Mission Road Ground Mong Kok,0,0,2016,-4
+JBReva,Papua New Guinea,Hong Kong,1,8,0,0,12.5,54,9,31,1,0,3.4444444444444446,Mission Road Ground Mong Kok,0,0,2016,26

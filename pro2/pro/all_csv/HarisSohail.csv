@@ -1,12 +1,37 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HarisSohail,Pakistan,New Zealand,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,-3
-HarisSohail,Pakistan,New Zealand,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,12
-HarisSohail,Pakistan,New Zealand,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,-3
-HarisSohail,Pakistan,New Zealand,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,12
-HarisSohail,Pakistan,New Zealand,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,-3
-HarisSohail,Pakistan,New Zealand,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,12
-HarisSohail,Pakistan,Sri Lanka,52,53,4,1,98.11320754716981,0,0,0,0,0,0,Gaddafi Stadium,66
-HarisSohail,Pakistan,Bangladesh,30,24,0,1,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,32
-HarisSohail,Pakistan,West Indies,1,4,0,0,25.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,-5
-HarisSohail,Pakistan,New Zealand,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,-3
-HarisSohail,Pakistan,New Zealand,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,12
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HarisSohail,Pakistan,New Zealand,3,9,0,0,33.33333333333333,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2014,-3
+HarisSohail,Pakistan,New Zealand,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2014,12
+HarisSohail,Pakistan,West Indies,1,4,0,0,25.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2013,3
+HarisSohail,Pakistan,Sri Lanka,52,53,4,1,98.11320754716981,0,0,0,0,0,0,Gaddafi Stadium,0,0,2019,66
+HarisSohail,Pakistan,Bangladesh,30,24,0,1,125.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,32
+HarisSohail,Pakistan,New Zealand,13,25,2,0,52.0,49,8,47,0,0,5.875,Sheikh Zayed Stadium,0,0,2014,13
+HarisSohail,Pakistan,Sri Lanka,40,48,1,0,83.33333333333334,0,0,0,0,0,0,National Stadium,0,0,2019,41
+HarisSohail,Pakistan,England,14,19,0,0,73.68421052631578,17,2,16,0,0,8.0,The Rose Bowl,0,1,2019,22
+HarisSohail,Pakistan,Zimbabwe,27,49,3,0,55.10204081632652,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,2,2015,42
+HarisSohail,Pakistan,New Zealand,85,114,5,1,74.56140350877193,62,10,41,0,0,4.1,Dubai International Cricket Stadium,0,0,2014,104
+HarisSohail,Pakistan,Sri Lanka,56,50,3,1,112.00000000000001,0,0,0,0,0,0,National Stadium,0,2,2019,85
+HarisSohail,Pakistan,New Zealand,6,6,1,0,100.0,35,5,47,0,0,9.4,McLean Park,0,2,2015,21
+HarisSohail,Pakistan,Zimbabwe,52,49,6,0,106.12244897959184,0,0,0,0,0,0,Gaddafi Stadium,0,0,2015,66
+HarisSohail,Pakistan,England,41,41,7,0,100.0,11,1,20,0,0,20.0,County Ground,0,0,2019,48
+HarisSohail,Pakistan,New Zealand,68,79,5,2,86.07594936708861,0,0,0,0,0,0,Edgbaston,0,1,2019,93
+HarisSohail,Pakistan,Afghanistan,27,59,2,0,45.76271186440678,0,0,0,0,0,0,Headingley,0,0,2019,23
+HarisSohail,Pakistan,New Zealand,39,29,5,1,134.48275862068965,41,6,45,3,0,7.5,Sharjah Cricket Stadium,0,0,2014,121
+HarisSohail,Pakistan,New Zealand,33,45,2,1,73.33333333333333,54,9,52,3,0,5.777777777777778,Sharjah Cricket Stadium,0,0,2014,114
+HarisSohail,Pakistan,England,14,15,2,0,93.33333333333333,0,0,0,0,0,0,Kennington Oval,0,0,2019,16
+HarisSohail,Pakistan,West Indies,0,6,0,0,0.0,53,8,65,2,0,8.125,Hagley Oval,0,1,2015,50
+HarisSohail,Pakistan,Zimbabwe,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Harare Sports Club,0,0,2013,-4
+HarisSohail,Pakistan,West Indies,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Trent Bridge,0,0,2019,9
+HarisSohail,Pakistan,South Africa,89,59,9,3,150.84745762711864,0,0,0,0,0,0,Lord's,0,0,2019,112
+HarisSohail,Pakistan,New Zealand,23,39,3,0,58.97435897435898,23,3,16,0,0,5.333333333333333,Westpac Stadium,0,0,2015,24
+HarisSohail,Pakistan,Bangladesh,44,62,1,1,70.96774193548387,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,47
+HarisSohail,Pakistan,West Indies,17,22,2,0,77.27272727272727,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,2,2013,35
+HarisSohail,Pakistan,New Zealand,65,74,5,1,87.83783783783784,47,7,38,0,0,5.428571428571429,Sheikh Zayed Stadium,0,0,2014,82
+HarisSohail,Pakistan,Bangladesh,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Lord's,0,1,2019,15
+HarisSohail,Pakistan,India,36,52,3,0,69.23076923076923,23,3,26,0,0,8.666666666666666,Adelaide Oval,0,1,2015,45
+HarisSohail,Pakistan,Ireland,3,7,0,0,42.857142857142854,18,3,20,1,0,6.666666666666667,Adelaide Oval,0,0,2015,22
+HarisSohail,Pakistan,Zimbabwe,89,67,6,2,132.8358208955224,0,0,0,0,0,0,Gaddafi Stadium,0,0,2015,107
+HarisSohail,Pakistan,West Indies,26,37,2,0,70.27027027027027,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2013,28
+HarisSohail,Pakistan,Bangladesh,51,65,4,1,78.46153846153847,17,2,31,0,0,15.5,Shere Bangla National Stadium,0,0,2015,59
+HarisSohail,Pakistan,United Arab Emirates,70,85,5,1,82.35294117647058,17,2,18,0,0,9.0,McLean Park,0,0,2015,85
+HarisSohail,Pakistan,Australia,41,58,3,0,70.6896551724138,11,1,7,0,0,7.0,Adelaide Oval,0,0,2015,44
+HarisSohail,Pakistan,Bangladesh,52,58,1,2,89.65517241379311,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2015,65

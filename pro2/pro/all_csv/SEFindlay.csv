@@ -1,4 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SEFindlay,West Indies,New Zealand,13,14,2,0,92.85714285714286,0,0,0,0,0,0,Seddon Park,15
-SEFindlay,West Indies,New Zealand,19,17,2,0,111.76470588235294,0,0,0,0,0,0,Eden Park,21
-SEFindlay,West Indies,New Zealand,13,14,2,0,92.85714285714286,0,0,0,0,0,0,Seddon Park,15
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SEFindlay,West Indies,New Zealand,13,14,2,0,92.85714285714286,0,0,0,0,0,0,Seddon Park,1,1,2008,35
+SEFindlay,West Indies,New Zealand,19,17,2,0,111.76470588235294,0,0,0,0,0,0,Eden Park,0,0,2008,21
+SEFindlay,West Indies,Australia,9,14,0,1,64.28571428571429,0,0,0,0,0,0,Warner Park Basseterre,0,0,2008,9
+SEFindlay,West Indies,Pakistan,12,26,2,0,46.15384615384615,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2008,8
+SEFindlay,West Indies,Australia,59,75,5,1,78.66666666666666,0,0,0,0,0,0,Warner Park Basseterre,0,1,2008,82
+SEFindlay,West Indies,New Zealand,8,25,2,0,32.0,0,0,0,0,0,0,Westpac Stadium,0,0,2009,4

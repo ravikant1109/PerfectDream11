@@ -1,53 +1,73 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,1,0,2,1,0,0,Kennington Oval,25
-MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,25,4,23,0,0,5.75,Eden Park,2
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Dubai International Cricket Stadium,25
-MJMcClenaghan,New Zealand,Zimbabwe,0,0,0,0,0,25,4,33,2,0,8.25,Harare Sports Club,50
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,18,3,16,0,0,5.333333333333333,Westpac Stadium,2
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,24,4,24,2,0,6.0,Seddon Park,50
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,1,0,2,1,0,0,Kennington Oval,25
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,1,0,2,1,0,0,Kennington Oval,25
-MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,25,4,23,0,0,5.75,Eden Park,2
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Dubai International Cricket Stadium,25
-MJMcClenaghan,New Zealand,Zimbabwe,0,0,0,0,0,25,4,33,2,0,8.25,Harare Sports Club,50
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,18,3,16,0,0,5.333333333333333,Westpac Stadium,2
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,24,4,24,2,0,6.0,Seddon Park,50
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,1,0,2,1,0,0,Kennington Oval,25
-MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,25,4,23,0,0,5.75,Eden Park,2
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Dubai International Cricket Stadium,25
-MJMcClenaghan,New Zealand,Zimbabwe,0,0,0,0,0,25,4,33,2,0,8.25,Harare Sports Club,50
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,18,3,16,0,0,5.333333333333333,Westpac Stadium,2
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,24,4,24,2,0,6.0,Seddon Park,50
-MJMcClenaghan,New Zealand,Bangladesh,6,1,0,0,600.0,5,0,3,1,0,0,Eden Gardens,31
-MJMcClenaghan,New Zealand,Australia,0,0,0,0,0,17,2,18,3,0,9.0,Himachal Pradesh Cricket Association Stadium,75
-MJMcClenaghan,New Zealand,Bangladesh,0,0,0,0,0,17,2,45,1,0,22.5,Shere Bangla National Stadium,19
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,25,4,38,1,0,9.5,Kennington Oval,23
-MJMcClenaghan,New Zealand,South Africa,0,3,0,0,0.0,17,2,20,1,1,10.0,Kingsmead,23
-MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,24,4,30,0,0,7.5,Zahur Ahmed Chowdhury Stadium,0
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,23,3,25,2,0,8.333333333333334,Seddon Park,50
-MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,23,3,34,1,0,11.333333333333334,Pallekele International Cricket Stadium,19
-MJMcClenaghan,New Zealand,England,1,2,0,0,50.0,17,2,24,0,0,12.0,Feroz Shah Kotla,-9
-MJMcClenaghan,New Zealand,Netherlands,0,0,0,0,0,24,4,31,1,0,7.75,Zahur Ahmed Chowdhury Stadium,25
-MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,28,4,42,0,0,10.5,Bay Oval,-4
-MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,18,3,35,1,0,11.666666666666666,Kingsmead,19
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Zahur Ahmed Chowdhury Stadium,25
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,23,3,43,0,0,14.333333333333334,Punjab Cricket Association IS Bindra Stadium Mohali,-6
-MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,24,4,32,1,0,8.0,Buffalo Park,25
-MJMcClenaghan,New Zealand,England,0,1,0,0,0.0,24,4,38,2,0,9.5,Old Trafford,40
-MJMcClenaghan,New Zealand,South Africa,1,1,0,0,100.0,25,4,25,2,0,6.25,St George's Park,51
-MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,24,4,28,2,0,7.0,SuperSport Park,50
-MJMcClenaghan,New Zealand,West Indies,0,0,0,0,0,23,3,30,1,0,10.0,Westpac Stadium,23
-MJMcClenaghan,New Zealand,England,6,7,1,0,85.71428571428571,23,3,29,1,0,9.666666666666666,Eden Park,30
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,17,2,39,0,0,19.5,Westpac Stadium,-6
-MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,24,4,24,2,0,6.0,Zahur Ahmed Chowdhury Stadium,50
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,1,0,2,1,0,0,Kennington Oval,25
-MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,25,4,23,0,0,5.75,Eden Park,2
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Dubai International Cricket Stadium,25
-MJMcClenaghan,New Zealand,Zimbabwe,0,0,0,0,0,25,4,33,2,0,8.25,Harare Sports Club,50
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,18,3,16,0,0,5.333333333333333,Westpac Stadium,2
-MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,24,4,24,2,0,6.0,Seddon Park,50
-MJMcClenaghan,New Zealand,Bangladesh,6,1,0,0,600.0,5,0,3,1,0,0,Eden Gardens,31
-MJMcClenaghan,New Zealand,Australia,0,0,0,0,0,17,2,18,3,0,9.0,Himachal Pradesh Cricket Association Stadium,75
-MJMcClenaghan,New Zealand,Bangladesh,0,0,0,0,0,17,2,45,1,0,22.5,Shere Bangla National Stadium,19
-MJMcClenaghan,New Zealand,England,0,0,0,0,0,25,4,38,1,0,9.5,Kennington Oval,23
-MJMcClenaghan,New Zealand,South Africa,0,3,0,0,0.0,17,2,20,1,1,10.0,Kingsmead,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,24,4,32,1,0,8.0,Buffalo Park,0,0,2012,25
+MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,23,3,43,0,0,14.333333333333334,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,-6
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,25,4,38,1,0,9.5,Kennington Oval,0,0,2013,23
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,23,3,34,1,0,11.333333333333334,Pallekele International Cricket Stadium,0,0,2013,19
+MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,24,4,28,2,0,7.0,SuperSport Park,0,0,2015,50
+MJMcClenaghan,New Zealand,Zimbabwe,0,0,0,0,0,25,4,33,2,0,8.25,Harare Sports Club,0,0,2015,50
+MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Dubai International Cricket Stadium,0,0,2014,25
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Zahur Ahmed Chowdhury Stadium,0,1,2014,33
+MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,18,3,35,1,0,11.666666666666666,Kingsmead,0,0,2015,19
+MJMcClenaghan,New Zealand,Bangladesh,6,1,0,0,600.0,5,0,3,1,0,0,Eden Gardens,0,0,2016,31
+MJMcClenaghan,New Zealand,West Indies,0,0,0,0,0,23,3,30,1,0,10.0,Westpac Stadium,0,0,2014,23
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,1,0,2,1,0,0,Kennington Oval,0,0,2013,25
+MJMcClenaghan,New Zealand,England,1,2,0,0,50.0,17,2,24,0,0,12.0,Feroz Shah Kotla,0,0,2016,-9
+MJMcClenaghan,New Zealand,England,6,7,1,0,85.71428571428571,23,3,29,1,0,9.666666666666666,Eden Park,0,0,2013,30
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,23,3,25,2,0,8.333333333333334,Seddon Park,0,1,2013,58
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,24,4,24,2,0,6.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,50
+MJMcClenaghan,New Zealand,South Africa,0,3,0,0,0.0,17,2,20,1,1,10.0,Kingsmead,0,0,2012,23
+MJMcClenaghan,New Zealand,England,0,1,0,0,0.0,24,4,38,2,0,9.5,Old Trafford,0,0,2015,40
+MJMcClenaghan,New Zealand,Australia,0,0,0,0,0,17,2,18,3,0,9.0,Himachal Pradesh Cricket Association Stadium,0,0,2016,75
+MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,24,4,24,2,0,6.0,Seddon Park,0,0,2016,50
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,17,2,39,0,0,19.5,Westpac Stadium,0,0,2013,-6
+MJMcClenaghan,New Zealand,South Africa,1,1,0,0,100.0,25,4,25,2,0,6.25,St George's Park,0,1,2012,59
+MJMcClenaghan,New Zealand,Bangladesh,0,0,0,0,0,17,2,45,1,0,22.5,Shere Bangla National Stadium,0,1,2013,27
+MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,18,3,16,0,0,5.333333333333333,Westpac Stadium,0,1,2016,10
+MJMcClenaghan,New Zealand,Netherlands,0,0,0,0,0,24,4,31,1,0,7.75,Zahur Ahmed Chowdhury Stadium,0,0,2014,25
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,25,4,23,0,0,5.75,Eden Park,0,1,2016,10
+MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,24,4,30,0,0,7.5,Zahur Ahmed Chowdhury Stadium,0,0,2014,0
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,28,4,42,0,0,10.5,Bay Oval,0,1,2016,4
+MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,62,10,69,1,0,6.9,Sheikh Zayed Stadium,1,0,2014,37
+MJMcClenaghan,New Zealand,West Indies,0,0,0,0,0,11,1,7,2,0,7.0,Queenstown Events Centre,0,0,2014,50
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,60,10,58,2,0,5.8,Saxton Oval,0,0,2015,52
+MJMcClenaghan,New Zealand,Bangladesh,1,1,0,0,100.0,50,8,51,0,0,6.375,Shere Bangla National Stadium,0,0,2013,1
+MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,32,5,29,0,0,5.8,Seddon Park,0,0,2014,2
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,54,9,39,1,0,4.333333333333333,Saxton Oval,0,0,2015,29
+MJMcClenaghan,New Zealand,Sri Lanka,5,6,1,0,83.33333333333334,53,8,47,0,0,5.875,Westpac Stadium,0,0,2015,8
+MJMcClenaghan,New Zealand,Bangladesh,0,0,0,0,0,47,7,68,0,0,9.714285714285714,Seddon Park,0,0,2015,-2
+MJMcClenaghan,New Zealand,South Africa,34,44,4,0,77.27272727272727,62,10,49,2,0,4.9,Bay Oval,0,0,2014,92
+MJMcClenaghan,New Zealand,India,0,0,0,0,0,60,10,46,0,0,4.6,Westpac Stadium,0,0,2014,4
+MJMcClenaghan,New Zealand,Zimbabwe,0,0,0,0,0,54,9,36,3,0,4.0,Harare Sports Club,0,0,2015,79
+MJMcClenaghan,New Zealand,Bangladesh,0,0,0,0,0,57,9,65,2,0,7.222222222222222,Khan Shaheb Osman Ali Stadium,1,0,2013,62
+MJMcClenaghan,New Zealand,England,4,13,0,0,30.76923076923077,64,10,55,3,1,5.5,Trent Bridge,0,0,2013,83
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,32,5,36,3,0,7.2,Sophia Gardens,0,1,2013,83
+MJMcClenaghan,New Zealand,West Indies,0,0,0,0,0,39,6,31,1,1,5.166666666666667,Saxton Oval,0,0,2014,35
+MJMcClenaghan,New Zealand,India,3,6,0,0,50.0,61,10,77,0,0,7.7,Eden Park,0,0,2014,-1
+MJMcClenaghan,New Zealand,West Indies,3,15,0,0,20.0,63,10,62,5,1,6.2,Eden Park,0,0,2013,146
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,59,9,56,4,0,6.222222222222222,Seddon Park,0,0,2013,108
+MJMcClenaghan,New Zealand,Zimbabwe,0,0,0,0,0,57,9,47,0,0,5.222222222222222,Harare Sports Club,0,0,2015,2
+MJMcClenaghan,New Zealand,India,0,0,0,0,0,48,8,46,1,2,5.75,Seddon Park,0,0,2014,43
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,54,9,61,2,0,6.777777777777778,Kennington Oval,0,0,2015,50
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,52,8,36,3,0,4.5,The Rose Bowl,0,0,2013,79
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,47,7,67,0,0,9.571428571428571,The Rose Bowl,0,1,2015,6
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,48,8,56,2,0,7.0,University Oval,0,0,2015,50
+MJMcClenaghan,New Zealand,Pakistan,6,9,1,0,66.66666666666666,60,10,73,1,0,7.3,Sharjah Cricket Stadium,0,0,2014,30
+MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,62,10,56,3,0,5.6,Sharjah Cricket Stadium,0,0,2014,77
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,49,8,32,3,1,4.0,Hagley Oval,0,0,2015,87
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,28,4,29,2,1,7.25,University Oval,0,0,2015,58
+MJMcClenaghan,New Zealand,India,0,0,0,0,0,63,10,69,4,0,6.9,McLean Park,0,0,2014,108
+MJMcClenaghan,New Zealand,South Africa,2,3,0,0,66.66666666666666,62,10,70,2,0,7.0,Senwes Park,0,0,2013,50
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,60,10,49,2,1,4.9,Lord's,0,1,2013,70
+MJMcClenaghan,New Zealand,Australia,0,0,0,0,0,65,10,70,4,0,7.0,Edgbaston,0,1,2013,116
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,49,8,79,2,0,9.875,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,48
+MJMcClenaghan,New Zealand,Pakistan,0,0,0,0,0,47,7,45,1,0,6.428571428571429,Sheikh Zayed Stadium,0,0,2014,25
+MJMcClenaghan,New Zealand,West Indies,0,1,0,0,0.0,49,8,64,0,0,8.0,Seddon Park,0,0,2014,-8
+MJMcClenaghan,New Zealand,South Africa,16,13,1,1,123.07692307692308,60,10,77,2,1,7.7,SuperSport Park,1,0,2015,89
+MJMcClenaghan,New Zealand,Sri Lanka,1,4,0,0,25.0,53,8,44,4,1,5.5,Sophia Gardens,0,0,2013,113
+MJMcClenaghan,New Zealand,South Africa,0,0,0,0,0,61,10,51,0,0,5.1,De Beers Diamond Oval,0,0,2013,2
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,44,7,35,2,1,5.0,Rangiri Dambulla International Stadium,0,0,2013,60
+MJMcClenaghan,New Zealand,Sri Lanka,0,0,0,0,0,61,10,36,4,2,3.6,Hagley Oval,0,0,2015,130
+MJMcClenaghan,New Zealand,England,2,2,0,0,100.0,62,10,93,2,0,9.3,Edgbaston,0,0,2015,50
+MJMcClenaghan,New Zealand,England,0,0,0,0,0,47,7,64,0,0,9.142857142857142,Trent Bridge,0,0,2015,-2
+MJMcClenaghan,New Zealand,Zimbabwe,0,0,0,0,0,63,10,55,1,1,5.5,Harare Sports Club,0,0,2015,35
+MJMcClenaghan,New Zealand,Pakistan,31,19,3,2,163.1578947368421,0,0,0,0,0,0,Basin Reserve,0,0,2016,38

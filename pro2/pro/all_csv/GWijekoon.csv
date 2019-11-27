@@ -1,8 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GWijekoon,Sri Lanka,New Zealand,0,0,0,0,0,25,4,50,1,0,12.5,New Wanderers Stadium,19
-GWijekoon,Sri Lanka,New Zealand,0,0,0,0,0,25,4,50,1,0,12.5,New Wanderers Stadium,19
-GWijekoon,Sri Lanka,New Zealand,0,0,0,0,0,25,4,50,1,0,12.5,New Wanderers Stadium,19
-GWijekoon,Sri Lanka,Kenya,1,1,0,0,100.0,17,2,12,1,0,6.0,New Wanderers Stadium,26
-GWijekoon,Sri Lanka,Pakistan,0,5,0,0,0.0,23,3,39,0,0,13.0,New Wanderers Stadium,-14
-GWijekoon,Sri Lanka,New Zealand,0,0,0,0,0,25,4,50,1,0,12.5,New Wanderers Stadium,19
-GWijekoon,Sri Lanka,Kenya,1,1,0,0,100.0,17,2,12,1,0,6.0,New Wanderers Stadium,26
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GWijekoon,Sri Lanka,New Zealand,0,0,0,0,0,25,4,50,1,0,12.5,New Wanderers Stadium,0,0,2007,19
+GWijekoon,Sri Lanka,Pakistan,0,5,0,0,0.0,23,3,39,0,0,13.0,New Wanderers Stadium,0,0,2007,-14
+GWijekoon,Sri Lanka,Kenya,1,1,0,0,100.0,17,2,12,1,0,6.0,New Wanderers Stadium,0,0,2007,26

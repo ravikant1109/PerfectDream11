@@ -1,8 +1,22 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MNvanWyk,South Africa,West Indies,1,4,0,0,25.0,0,0,0,0,0,0,St George's Park,-5
-MNvanWyk,South Africa,New Zealand,19,21,2,1,90.47619047619048,0,0,0,0,0,0,Kingsmead,23
-MNvanWyk,South Africa,West Indies,114,73,9,7,156.16438356164383,0,0,0,0,0,0,Kingsmead,153
-MNvanWyk,South Africa,India,67,41,5,5,163.41463414634146,0,0,0,0,0,0,Moses Mabhida Stadium,90
-MNvanWyk,South Africa,New Zealand,3,6,0,0,50.0,0,0,0,0,0,0,SuperSport Park,-1
-MNvanWyk,South Africa,West Indies,17,15,2,1,113.33333333333333,0,0,0,0,0,0,Newlands,21
-MNvanWyk,South Africa,West Indies,4,3,1,0,133.33333333333331,0,0,0,0,0,0,New Wanderers Stadium,5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MNvanWyk,South Africa,West Indies,114,73,9,7,156.16438356164383,0,0,0,0,0,0,Kingsmead,0,1,2015,161
+MNvanWyk,South Africa,New Zealand,3,6,0,0,50.0,0,0,0,0,0,0,SuperSport Park,0,0,2015,-1
+MNvanWyk,South Africa,West Indies,17,15,2,1,113.33333333333333,0,0,0,0,0,0,Newlands,0,1,2015,29
+MNvanWyk,South Africa,New Zealand,19,21,2,1,90.47619047619048,0,0,0,0,0,0,Kingsmead,0,0,2015,23
+MNvanWyk,South Africa,West Indies,1,4,0,0,25.0,0,0,0,0,0,0,St George's Park,0,0,2007,-5
+MNvanWyk,South Africa,West Indies,4,3,1,0,133.33333333333331,0,0,0,0,0,0,New Wanderers Stadium,0,1,2015,13
+MNvanWyk,South Africa,India,67,41,5,5,163.41463414634146,0,0,0,0,0,0,Moses Mabhida Stadium,0,1,2011,98
+MNvanWyk,South Africa,India,82,128,7,1,64.0625,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2007,97
+MNvanWyk,South Africa,England,13,37,0,0,35.13513513513514,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,1,2011,15
+MNvanWyk,South Africa,New Zealand,58,102,4,2,56.86274509803921,0,0,0,0,0,0,Kingsmead,0,1,2015,78
+MNvanWyk,South Africa,New Zealand,2,4,0,0,50.0,0,0,0,0,0,0,Senwes Park,0,0,2015,-2
+MNvanWyk,South Africa,West Indies,18,24,4,0,75.0,0,0,0,0,0,0,St George's Park,0,0,2015,22
+MNvanWyk,South Africa,Bangladesh,5,5,0,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2011,21
+MNvanWyk,South Africa,Ireland,42,41,7,1,102.4390243902439,0,0,0,0,0,0,Eden Gardens,0,4,2011,83
+MNvanWyk,South Africa,India,44,57,6,0,77.19298245614034,0,0,0,0,0,0,Civil Service Cricket Club Stormont,1,0,2007,62
+MNvanWyk,South Africa,India,56,63,8,0,88.88888888888889,0,0,0,0,0,0,SuperSport Park,0,0,2011,72
+MNvanWyk,South Africa,New Zealand,16,24,3,0,66.66666666666666,0,0,0,0,0,0,SuperSport Park,0,1,2015,25
+MNvanWyk,South Africa,India,5,5,1,0,100.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,6
+MNvanWyk,South Africa,India,0,5,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2007,-8
+MNvanWyk,South Africa,India,15,24,1,0,62.5,0,0,0,0,0,0,St George's Park,0,0,2011,14
+MNvanWyk,South Africa,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Kingsmead,0,0,2007,-8

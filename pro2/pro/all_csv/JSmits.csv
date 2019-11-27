@@ -1,7 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JSmits,Netherlands,Pakistan,11,19,0,0,57.89473684210527,0,0,0,0,0,0,Lord's,7
-JSmits,Netherlands,Pakistan,11,19,0,0,57.89473684210527,0,0,0,0,0,0,Lord's,7
-JSmits,Netherlands,Pakistan,11,19,0,0,57.89473684210527,0,0,0,0,0,0,Lord's,7
-JSmits,Netherlands,Pakistan,11,19,0,0,57.89473684210527,0,0,0,0,0,0,Lord's,7
-JSmits,Netherlands,Pakistan,11,19,0,0,57.89473684210527,0,0,0,0,0,0,Lord's,7
-JSmits,Netherlands,Pakistan,11,19,0,0,57.89473684210527,0,0,0,0,0,0,Lord's,7
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JSmits,Netherlands,Pakistan,11,19,0,0,57.89473684210527,0,0,0,0,0,0,Lord's,0,0,2009,7
+JSmits,Netherlands,Bermuda,9,35,0,0,25.71428571428571,0,0,0,0,0,0,Willowmoore Park,0,0,2006,3
+JSmits,Netherlands,Canada,0,1,0,0,0.0,0,0,0,0,0,0,Willowmoore Park,0,1,2006,0
+JSmits,Netherlands,Australia,3,12,0,0,25.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,-3
+JSmits,Netherlands,Scotland,2,11,0,0,18.181818181818183,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2008,-4

@@ -1,32 +1,45 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CHMorris,South Africa,England,0,0,0,0,0,27,4,34,2,0,8.5,New Wanderers Stadium,50
-CHMorris,South Africa,West Indies,16,17,2,0,94.11764705882352,25,4,33,1,0,8.25,Vidarbha Cricket Association Stadium Jamtha,43
-CHMorris,South Africa,England,8,9,1,0,88.88888888888889,24,4,25,0,0,6.25,Sophia Gardens,9
-CHMorris,South Africa,England,0,0,0,0,0,20,3,45,0,0,15.0,Wankhede Stadium,-6
-CHMorris,South Africa,India,0,0,0,0,0,24,4,46,1,0,11.5,Himachal Pradesh Cricket Association Stadium,19
-CHMorris,South Africa,England,0,0,0,0,0,27,4,34,2,0,8.5,New Wanderers Stadium,50
-CHMorris,South Africa,West Indies,16,17,2,0,94.11764705882352,25,4,33,1,0,8.25,Vidarbha Cricket Association Stadium Jamtha,43
-CHMorris,South Africa,England,8,9,1,0,88.88888888888889,24,4,25,0,0,6.25,Sophia Gardens,9
-CHMorris,South Africa,England,0,0,0,0,0,20,3,45,0,0,15.0,Wankhede Stadium,-6
-CHMorris,South Africa,India,0,0,0,0,0,24,4,46,1,0,11.5,Himachal Pradesh Cricket Association Stadium,19
-CHMorris,South Africa,England,0,0,0,0,0,27,4,34,2,0,8.5,New Wanderers Stadium,50
-CHMorris,South Africa,West Indies,16,17,2,0,94.11764705882352,25,4,33,1,0,8.25,Vidarbha Cricket Association Stadium Jamtha,43
-CHMorris,South Africa,England,8,9,1,0,88.88888888888889,24,4,25,0,0,6.25,Sophia Gardens,9
-CHMorris,South Africa,England,0,0,0,0,0,20,3,45,0,0,15.0,Wankhede Stadium,-6
-CHMorris,South Africa,India,0,0,0,0,0,24,4,46,1,0,11.5,Himachal Pradesh Cricket Association Stadium,19
-CHMorris,South Africa,New Zealand,0,0,0,0,0,22,3,19,2,0,6.333333333333333,Kingsmead,50
-CHMorris,South Africa,India,0,0,0,0,0,14,2,16,2,0,8.0,Barabati Stadium,50
-CHMorris,South Africa,England,17,7,1,1,242.85714285714283,25,4,32,0,0,8.0,Newlands,20
-CHMorris,South Africa,Afghanistan,0,0,0,0,0,26,4,27,4,0,6.75,Wankhede Stadium,108
-CHMorris,South Africa,Pakistan,0,1,0,0,0.0,25,4,35,2,0,8.75,SuperSport Park,42
-CHMorris,South Africa,England,12,12,1,0,100.0,24,4,19,3,0,4.75,County Ground,92
-CHMorris,South Africa,Australia,8,9,1,0,88.88888888888889,17,2,36,1,0,18.0,Kingsmead,28
-CHMorris,South Africa,Australia,3,6,0,0,50.0,27,4,41,1,0,10.25,New Wanderers Stadium,20
-CHMorris,South Africa,New Zealand,9,7,0,1,128.57142857142858,17,2,10,2,1,5.0,Eden Park,71
-CHMorris,South Africa,England,0,0,0,0,0,27,4,34,2,0,8.5,New Wanderers Stadium,50
-CHMorris,South Africa,West Indies,16,17,2,0,94.11764705882352,25,4,33,1,0,8.25,Vidarbha Cricket Association Stadium Jamtha,43
-CHMorris,South Africa,England,8,9,1,0,88.88888888888889,24,4,25,0,0,6.25,Sophia Gardens,9
-CHMorris,South Africa,England,0,0,0,0,0,20,3,45,0,0,15.0,Wankhede Stadium,-6
-CHMorris,South Africa,India,0,0,0,0,0,24,4,46,1,0,11.5,Himachal Pradesh Cricket Association Stadium,19
-CHMorris,South Africa,New Zealand,0,0,0,0,0,22,3,19,2,0,6.333333333333333,Kingsmead,50
-CHMorris,South Africa,India,0,0,0,0,0,14,2,16,2,0,8.0,Barabati Stadium,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CHMorris,South Africa,Australia,3,6,0,0,50.0,27,4,41,1,0,10.25,New Wanderers Stadium,0,0,2016,20
+CHMorris,South Africa,England,0,0,0,0,0,27,4,34,2,0,8.5,New Wanderers Stadium,1,0,2016,62
+CHMorris,South Africa,New Zealand,9,7,0,1,128.57142857142858,17,2,10,2,1,5.0,Eden Park,0,0,2017,71
+CHMorris,South Africa,Pakistan,0,1,0,0,0.0,25,4,35,2,0,8.75,SuperSport Park,1,0,2013,54
+CHMorris,South Africa,Afghanistan,0,0,0,0,0,26,4,27,4,0,6.75,Wankhede Stadium,0,0,2016,108
+CHMorris,South Africa,West Indies,16,17,2,0,94.11764705882352,25,4,33,1,0,8.25,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,43
+CHMorris,South Africa,England,8,9,1,0,88.88888888888889,24,4,25,0,0,6.25,Sophia Gardens,0,0,2017,9
+CHMorris,South Africa,England,17,7,1,1,242.85714285714283,25,4,32,0,0,8.0,Newlands,0,0,2016,20
+CHMorris,South Africa,England,0,0,0,0,0,20,3,45,0,0,15.0,Wankhede Stadium,0,1,2016,2
+CHMorris,South Africa,Australia,8,9,1,0,88.88888888888889,17,2,36,1,0,18.0,Kingsmead,0,0,2016,28
+CHMorris,South Africa,England,12,12,1,0,100.0,24,4,19,3,0,4.75,County Ground,0,0,2017,92
+CHMorris,South Africa,New Zealand,0,0,0,0,0,22,3,19,2,0,6.333333333333333,Kingsmead,0,1,2012,58
+CHMorris,South Africa,India,0,0,0,0,0,14,2,16,2,0,8.0,Barabati Stadium,1,0,2015,62
+CHMorris,South Africa,India,0,0,0,0,0,24,4,46,1,0,11.5,Himachal Pradesh Cricket Association Stadium,0,1,2015,27
+CHMorris,South Africa,India,9,18,1,0,50.0,57,9,55,1,0,6.111111111111111,MA Chidambaram Stadium Chepauk,0,0,2015,31
+CHMorris,South Africa,Bangladesh,0,0,0,0,0,39,6,33,2,0,5.5,Shere Bangla National Stadium,0,0,2015,52
+CHMorris,South Africa,New Zealand,6,7,1,0,85.71428571428571,59,9,49,3,0,5.444444444444445,Edgbaston,0,0,2019,84
+CHMorris,South Africa,New Zealand,16,16,3,0,100.0,42,7,62,4,0,8.857142857142858,Seddon Park,0,0,2017,127
+CHMorris,South Africa,New Zealand,7,8,1,0,87.5,61,10,58,0,0,5.8,Hagley Oval,0,0,2017,10
+CHMorris,South Africa,Sri Lanka,0,0,0,0,0,59,9,46,3,2,5.111111111111111,Riverside Ground,0,1,2019,101
+CHMorris,South Africa,Sri Lanka,20,22,3,0,90.9090909090909,42,7,32,2,0,4.571428571428571,Kennington Oval,0,0,2017,77
+CHMorris,South Africa,Bangladesh,10,10,1,0,100.0,61,10,73,2,0,7.3,Kennington Oval,0,0,2019,61
+CHMorris,South Africa,West Indies,40,26,2,2,153.84615384615387,42,7,26,0,0,3.7142857142857144,Warner Park Basseterre,0,1,2016,60
+CHMorris,South Africa,England,62,39,3,4,158.97435897435898,55,9,54,1,0,6.0,New Wanderers Stadium,0,0,2016,106
+CHMorris,South Africa,New Zealand,0,0,0,0,0,55,9,39,1,1,4.333333333333333,Eden Park,0,0,2017,37
+CHMorris,South Africa,Sri Lanka,0,0,0,0,0,61,10,31,2,1,3.1,St George's Park,0,0,2017,64
+CHMorris,South Africa,England,5,4,1,0,125.0,61,10,61,2,1,6.1,Headingley,0,0,2017,64
+CHMorris,South Africa,Sri Lanka,0,0,0,0,0,50,8,39,1,1,4.875,New Wanderers Stadium,0,1,2017,45
+CHMorris,South Africa,New Zealand,28,27,4,0,103.7037037037037,54,9,55,0,0,6.111111111111111,Seddon Park,0,0,2017,32
+CHMorris,South Africa,Pakistan,1,2,0,0,50.0,42,7,29,2,0,4.142857142857143,Edgbaston,0,0,2013,51
+CHMorris,South Africa,Sri Lanka,3,6,0,0,50.0,60,10,32,4,1,3.2,SuperSport Park,0,0,2017,121
+CHMorris,South Africa,Afghanistan,0,0,0,0,0,36,6,13,3,3,2.1666666666666665,Sophia Gardens,0,0,2019,105
+CHMorris,South Africa,Bangladesh,12,13,3,0,92.3076923076923,18,3,29,0,0,9.666666666666666,Shere Bangla National Stadium,0,0,2015,13
+CHMorris,South Africa,Sri Lanka,9,17,0,0,52.94117647058824,59,9,82,1,0,9.11111111111111,R Premadasa Stadium,0,0,2013,28
+CHMorris,South Africa,Pakistan,16,10,1,1,160.0,54,9,65,0,0,7.222222222222222,Lord's,0,0,2019,19
+CHMorris,South Africa,England,0,0,0,0,0,51,8,66,0,0,8.25,Newlands,0,0,2016,0
+CHMorris,South Africa,India,4,8,0,0,50.0,48,8,40,0,0,5.0,Kennington Oval,0,0,2017,2
+CHMorris,South Africa,England,35,22,3,2,159.0909090909091,61,10,68,0,0,6.8,The Rose Bowl,0,0,2017,42
+CHMorris,South Africa,England,3,6,0,0,50.0,50,8,38,1,1,4.75,Kennington Oval,0,0,2013,36
+CHMorris,South Africa,England,0,0,0,0,0,62,10,76,3,0,7.6,Mangaung Oval,0,1,2016,83
+CHMorris,South Africa,India,42,36,1,2,116.66666666666667,60,10,37,1,3,3.7,The Rose Bowl,0,0,2019,102
+CHMorris,South Africa,West Indies,7,8,1,0,87.5,62,10,64,3,1,6.4,Kensington Oval Bridgetown,1,1,2016,111
+CHMorris,South Africa,Sri Lanka,26,20,0,2,130.0,35,5,27,1,0,5.4,Kingsmead,0,0,2017,57
+CHMorris,South Africa,West Indies,0,0,0,0,0,24,4,31,1,0,7.75,Sophia Gardens,0,0,2013,25

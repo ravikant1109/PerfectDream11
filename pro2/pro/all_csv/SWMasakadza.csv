@@ -1,20 +1,21 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SWMasakadza,Zimbabwe,Pakistan,0,0,0,0,0,25,4,37,1,0,9.25,Harare Sports Club,23
-SWMasakadza,Zimbabwe,New Zealand,8,7,1,0,114.28571428571428,18,3,26,0,0,8.666666666666666,Eden Park,9
-SWMasakadza,Zimbabwe,New Zealand,0,0,0,0,0,9,1,31,0,0,31.0,Seddon Park,0
-SWMasakadza,Zimbabwe,Bangladesh,9,12,0,0,75.0,12,2,32,0,0,16.0,Queens Sports Club,3
-SWMasakadza,Zimbabwe,Pakistan,0,0,0,0,0,25,4,37,1,0,9.25,Harare Sports Club,23
-SWMasakadza,Zimbabwe,New Zealand,8,7,1,0,114.28571428571428,18,3,26,0,0,8.666666666666666,Eden Park,9
-SWMasakadza,Zimbabwe,New Zealand,0,0,0,0,0,9,1,31,0,0,31.0,Seddon Park,0
-SWMasakadza,Zimbabwe,Bangladesh,9,12,0,0,75.0,12,2,32,0,0,16.0,Queens Sports Club,3
-SWMasakadza,Zimbabwe,Pakistan,0,0,0,0,0,25,4,37,1,0,9.25,Harare Sports Club,23
-SWMasakadza,Zimbabwe,New Zealand,8,7,1,0,114.28571428571428,18,3,26,0,0,8.666666666666666,Eden Park,9
-SWMasakadza,Zimbabwe,New Zealand,0,0,0,0,0,9,1,31,0,0,31.0,Seddon Park,0
-SWMasakadza,Zimbabwe,Bangladesh,9,12,0,0,75.0,12,2,32,0,0,16.0,Queens Sports Club,3
-SWMasakadza,Zimbabwe,West Indies,0,2,0,0,0.0,6,1,6,0,0,6.0,Queen's Park Oval Port of Spain,-8
-SWMasakadza,Zimbabwe,Pakistan,0,1,0,0,0.0,23,3,42,1,0,14.0,Harare Sports Club,11
-SWMasakadza,Zimbabwe,South Africa,1,2,0,0,50.0,24,4,39,2,0,9.75,De Beers Diamond Oval,45
-SWMasakadza,Zimbabwe,Pakistan,0,0,0,0,0,25,4,37,1,0,9.25,Harare Sports Club,23
-SWMasakadza,Zimbabwe,New Zealand,8,7,1,0,114.28571428571428,18,3,26,0,0,8.666666666666666,Eden Park,9
-SWMasakadza,Zimbabwe,New Zealand,0,0,0,0,0,9,1,31,0,0,31.0,Seddon Park,0
-SWMasakadza,Zimbabwe,Bangladesh,9,12,0,0,75.0,12,2,32,0,0,16.0,Queens Sports Club,3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SWMasakadza,Zimbabwe,Bangladesh,9,12,0,0,75.0,12,2,32,0,0,16.0,Queens Sports Club,0,1,2013,11
+SWMasakadza,Zimbabwe,Pakistan,0,1,0,0,0.0,23,3,42,1,0,14.0,Harare Sports Club,0,0,2013,11
+SWMasakadza,Zimbabwe,New Zealand,8,7,1,0,114.28571428571428,18,3,26,0,0,8.666666666666666,Eden Park,1,0,2012,21
+SWMasakadza,Zimbabwe,New Zealand,0,0,0,0,0,9,1,31,0,0,31.0,Seddon Park,0,0,2012,0
+SWMasakadza,Zimbabwe,South Africa,1,2,0,0,50.0,24,4,39,2,0,9.75,De Beers Diamond Oval,0,0,2010,45
+SWMasakadza,Zimbabwe,West Indies,0,2,0,0,0.0,6,1,6,0,0,6.0,Queen's Park Oval Port of Spain,0,1,2010,0
+SWMasakadza,Zimbabwe,Pakistan,0,0,0,0,0,25,4,37,1,0,9.25,Harare Sports Club,0,0,2013,23
+SWMasakadza,Zimbabwe,Afghanistan,1,2,0,0,50.0,30,5,35,0,0,7.0,Queens Sports Club,0,0,2014,-3
+SWMasakadza,Zimbabwe,Pakistan,0,1,0,0,0.0,63,10,66,1,0,6.6,Harare Sports Club,0,0,2013,17
+SWMasakadza,Zimbabwe,South Africa,0,0,0,0,0,59,9,87,4,0,9.666666666666666,OUTsurance Oval,0,0,2010,106
+SWMasakadza,Zimbabwe,South Africa,14,12,0,2,116.66666666666667,62,10,96,2,0,9.6,Willowmoore Park,0,1,2010,74
+SWMasakadza,Zimbabwe,Afghanistan,0,0,0,0,0,54,9,36,1,0,4.0,Queens Sports Club,0,1,2014,37
+SWMasakadza,Zimbabwe,Pakistan,0,0,0,0,0,40,6,44,0,1,7.333333333333333,Pallekele International Cricket Stadium,0,0,2011,8
+SWMasakadza,Zimbabwe,New Zealand,38,33,3,2,115.15151515151516,49,8,68,1,2,8.5,Cobham Oval (New),0,3,2012,110
+SWMasakadza,Zimbabwe,Bangladesh,0,0,0,0,0,60,10,71,1,0,7.1,Queens Sports Club,0,0,2013,25
+SWMasakadza,Zimbabwe,Bangladesh,33,34,3,2,97.05882352941177,64,10,53,4,0,5.3,Queens Sports Club,0,0,2013,150
+SWMasakadza,Zimbabwe,West Indies,0,0,0,0,0,19,3,36,3,0,12.0,Providence Stadium,0,0,2010,69
+SWMasakadza,Zimbabwe,Bangladesh,14,16,3,0,87.5,49,8,35,1,0,4.375,Shere Bangla National Stadium,0,1,2010,54
+SWMasakadza,Zimbabwe,Afghanistan,15,20,1,1,75.0,57,9,39,2,0,4.333333333333333,Queens Sports Club,0,0,2014,72
+SWMasakadza,Zimbabwe,South Africa,2,3,0,0,66.66666666666666,57,9,64,1,1,7.111111111111111,Senwes Park,0,0,2010,33

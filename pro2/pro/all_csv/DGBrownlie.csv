@@ -1,12 +1,20 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DGBrownlie,New Zealand,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-DGBrownlie,New Zealand,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Eden Park,6
-DGBrownlie,New Zealand,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-DGBrownlie,New Zealand,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Eden Park,6
-DGBrownlie,New Zealand,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-DGBrownlie,New Zealand,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Eden Park,6
-DGBrownlie,New Zealand,Pakistan,0,5,0,0,0.0,0,0,0,0,0,0,AMI Stadium,-8
-DGBrownlie,New Zealand,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-8
-DGBrownlie,New Zealand,West Indies,1,4,0,0,25.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-5
-DGBrownlie,New Zealand,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-DGBrownlie,New Zealand,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Eden Park,6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DGBrownlie,New Zealand,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2012,-8
+DGBrownlie,New Zealand,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Eden Park,0,1,2010,14
+DGBrownlie,New Zealand,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2014,0
+DGBrownlie,New Zealand,Pakistan,0,5,0,0,0.0,0,0,0,0,0,0,AMI Stadium,0,1,2010,0
+DGBrownlie,New Zealand,West Indies,1,4,0,0,25.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2012,-5
+DGBrownlie,New Zealand,Pakistan,42,48,6,0,87.5,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2014,48
+DGBrownlie,New Zealand,Australia,63,81,7,0,77.77777777777779,0,0,0,0,0,0,Seddon Park,0,1,2017,86
+DGBrownlie,New Zealand,Pakistan,14,14,2,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2014,24
+DGBrownlie,New Zealand,South Africa,31,40,3,0,77.5,0,0,0,0,0,0,Seddon Park,0,0,2017,34
+DGBrownlie,New Zealand,South Africa,34,45,6,0,75.55555555555556,0,0,0,0,0,0,Hagley Oval,1,0,2017,52
+DGBrownlie,New Zealand,South Africa,20,28,3,0,71.42857142857143,0,0,0,0,0,0,Bay Oval,0,1,2014,31
+DGBrownlie,New Zealand,South Africa,24,39,3,0,61.53846153846154,0,0,0,0,0,0,Eden Park,0,0,2017,25
+DGBrownlie,New Zealand,Pakistan,47,66,8,0,71.21212121212122,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2014,55
+DGBrownlie,New Zealand,South Africa,4,10,1,0,40.0,0,0,0,0,0,0,Seddon Park,0,1,2017,7
+DGBrownlie,New Zealand,South Africa,2,5,0,0,40.0,0,0,0,0,0,0,Westpac Stadium,0,0,2017,-4
+DGBrownlie,New Zealand,South Africa,24,28,2,1,85.71428571428571,0,0,0,0,0,0,Bay Oval,0,1,2014,36
+DGBrownlie,New Zealand,West Indies,1,14,0,0,7.142857142857142,0,0,0,0,0,0,Sabina Park Kingston,0,0,2012,-5
+DGBrownlie,New Zealand,Zimbabwe,2,2,0,0,100.0,0,0,0,0,0,0,Cobham Oval (New),0,1,2012,10
+DGBrownlie,New Zealand,Pakistan,34,52,3,0,65.38461538461539,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2014,35

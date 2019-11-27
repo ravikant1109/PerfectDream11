@@ -1,12 +1,16 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JJTucker,Bermuda,Namibia,6,11,1,0,54.54545454545454,0,0,0,0,0,0,ICC Academy Ground No 2,3
-JJTucker,Bermuda,Kenya,22,34,1,0,64.70588235294117,17,2,21,0,0,10.5,ICC Academy,17
-JJTucker,Bermuda,Namibia,6,11,1,0,54.54545454545454,0,0,0,0,0,0,ICC Academy Ground No 2,3
-JJTucker,Bermuda,Kenya,22,34,1,0,64.70588235294117,17,2,21,0,0,10.5,ICC Academy,17
-JJTucker,Bermuda,Namibia,6,11,1,0,54.54545454545454,0,0,0,0,0,0,ICC Academy Ground No 2,3
-JJTucker,Bermuda,Kenya,22,34,1,0,64.70588235294117,17,2,21,0,0,10.5,ICC Academy,17
-JJTucker,Bermuda,Netherlands,12,15,2,0,80.0,5,0,13,0,0,0,Dubai International Cricket Stadium,14
-JJTucker,Bermuda,Papua New Guinea,4,5,1,0,80.0,5,0,12,0,0,0,ICC Academy,5
-JJTucker,Bermuda,Singapore,50,37,5,1,135.13513513513513,12,2,16,1,0,8.0,ICC Academy Ground No 2,90
-JJTucker,Bermuda,Namibia,6,11,1,0,54.54545454545454,0,0,0,0,0,0,ICC Academy Ground No 2,3
-JJTucker,Bermuda,Kenya,22,34,1,0,64.70588235294117,17,2,21,0,0,10.5,ICC Academy,17
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JJTucker,Bermuda,Papua New Guinea,4,5,1,0,80.0,5,0,12,0,0,0,ICC Academy,0,0,2019,5
+JJTucker,Bermuda,Namibia,6,11,1,0,54.54545454545454,0,0,0,0,0,0,ICC Academy Ground No 2,0,0,2019,3
+JJTucker,Bermuda,Kenya,22,34,1,0,64.70588235294117,17,2,21,0,0,10.5,ICC Academy,0,0,2019,17
+JJTucker,Bermuda,Singapore,50,37,5,1,135.13513513513513,12,2,16,1,0,8.0,ICC Academy Ground No 2,0,0,2019,90
+JJTucker,Bermuda,Netherlands,12,15,2,0,80.0,5,0,13,0,0,0,Dubai International Cricket Stadium,0,0,2019,14
+JJTucker,Bermuda,Netherlands,10,14,2,0,71.42857142857143,0,0,0,0,0,0,Willowmoore Park,0,0,2006,12
+JJTucker,Bermuda,Netherlands,32,41,5,0,78.04878048780488,29,4,29,0,0,7.25,Ruaraka Sports Club Ground,0,0,2007,37
+JJTucker,Bermuda,Sri Lanka,4,21,1,0,19.047619047619047,61,10,52,0,0,5.2,Queen's Park Oval Port of Spain,0,2,2007,17
+JJTucker,Bermuda,Kenya,18,26,3,0,69.23076923076923,23,3,26,0,0,8.666666666666666,Gymkhana Club Ground,0,0,2007,19
+JJTucker,Bermuda,Canada,19,51,3,0,37.254901960784316,0,0,0,0,0,0,Willowmoore Park,0,1,2006,24
+JJTucker,Bermuda,Canada,7,12,1,0,58.333333333333336,5,0,6,1,0,0,Gymkhana Club Ground,0,0,2007,29
+JJTucker,Bermuda,India,0,6,0,0,0.0,54,9,67,0,1,7.444444444444445,Queen's Park Oval Port of Spain,0,1,2007,8
+JJTucker,Bermuda,Kenya,49,72,5,1,68.05555555555556,35,5,25,0,0,5.0,Gymkhana Club Ground,0,1,2007,64
+JJTucker,Bermuda,Canada,27,43,2,0,62.7906976744186,61,10,24,2,3,2.4,Sedgars Park,0,0,2006,107
+JJTucker,Bermuda,Bangladesh,9,6,1,0,150.0,17,2,14,0,0,7.0,Queen's Park Oval Port of Spain,0,1,2007,18

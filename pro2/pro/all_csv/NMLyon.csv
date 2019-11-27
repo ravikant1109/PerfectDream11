@@ -1,2 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NMLyon,Australia,India,0,0,0,0,0,6,1,15,0,0,15.0,Melbourne Cricket Ground,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NMLyon,Australia,India,0,0,0,0,0,6,1,15,0,0,15.0,Melbourne Cricket Ground,0,0,2016,0
+NMLyon,Australia,South Africa,30,31,4,0,96.7741935483871,59,9,40,1,0,4.444444444444445,Providence Stadium,0,0,2016,63
+NMLyon,Australia,West Indies,0,0,0,0,0,61,10,40,3,2,4.0,Providence Stadium,0,0,2016,95
+NMLyon,Australia,Zimbabwe,8,3,0,1,266.66666666666663,61,10,46,4,2,4.6,Harare Sports Club,0,0,2014,138
+NMLyon,Australia,Sri Lanka,0,1,0,0,0.0,47,7,36,0,0,5.142857142857143,Adelaide Oval,0,1,2012,2
+NMLyon,Australia,India,0,0,0,0,0,59,9,76,1,0,8.444444444444445,Manuka Oval,0,0,2016,25
+NMLyon,Australia,England,5,6,0,0,83.33333333333334,29,4,49,0,0,12.25,Edgbaston,0,0,2019,-1
+NMLyon,Australia,West Indies,4,5,0,0,80.0,48,8,42,1,2,5.25,Arnos Vale Ground Kingstown,0,0,2012,47
+NMLyon,Australia,Sri Lanka,4,6,0,0,66.66666666666666,55,9,53,1,0,5.888888888888889,R Premadasa Stadium,0,0,2016,29
+NMLyon,Australia,England,0,0,0,0,0,53,8,44,0,1,5.5,Lord's,0,0,2019,10
+NMLyon,Australia,Pakistan,0,0,0,0,0,59,9,35,2,2,3.888888888888889,Sharjah Cricket Stadium,0,0,2014,72
+NMLyon,Australia,New Zealand,0,1,0,0,0.0,60,10,40,1,0,4.0,Lord's,0,0,2019,21
+NMLyon,Australia,South Africa,0,0,0,0,0,59,9,41,0,1,4.555555555555555,Harare Sports Club,0,0,2014,12
+NMLyon,Australia,Zimbabwe,0,0,0,0,0,41,6,42,2,1,7.0,Harare Sports Club,0,0,2014,58
+NMLyon,Australia,South Africa,0,0,0,0,0,59,9,53,1,0,5.888888888888889,Harare Sports Club,0,0,2014,27
+NMLyon,Australia,Pakistan,0,0,0,0,0,60,10,41,1,1,4.1,Dubai International Cricket Stadium,0,0,2014,37
+NMLyon,Australia,India,0,0,0,0,0,48,8,58,0,0,7.25,Sydney Cricket Ground,0,0,2016,0

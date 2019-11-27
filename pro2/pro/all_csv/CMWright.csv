@@ -1,5 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CMWright,Scotland,Pakistan,14,19,0,0,73.68421052631578,24,4,29,3,0,7.25,Kingsmead,89
-CMWright,Scotland,New Zealand,0,0,0,0,0,5,0,20,1,0,0,Kennington Oval,25
-CMWright,Scotland,Pakistan,14,19,0,0,73.68421052631578,24,4,29,3,0,7.25,Kingsmead,89
-CMWright,Scotland,New Zealand,0,0,0,0,0,5,0,20,1,0,0,Kennington Oval,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CMWright,Scotland,New Zealand,0,0,0,0,0,5,0,20,1,0,0,Kennington Oval,0,0,2009,25
+CMWright,Scotland,Pakistan,14,19,0,0,73.68421052631578,24,4,29,3,0,7.25,Kingsmead,0,0,2007,89
+CMWright,Scotland,Kenya,15,16,1,0,93.75,29,4,20,1,1,5.0,Gymkhana Club Ground,0,0,2007,51
+CMWright,Scotland,Netherlands,1,8,0,0,12.5,23,3,17,0,1,5.666666666666667,Warner Park Basseterre,0,1,2007,13
+CMWright,Scotland,Australia,4,21,0,0,19.047619047619047,59,9,58,1,1,6.444444444444445,Warner Park Basseterre,0,0,2007,31
+CMWright,Scotland,Kenya,0,0,0,0,0,43,7,17,1,2,2.4285714285714284,Cambusdoon New Ground,0,0,2008,47
+CMWright,Scotland,Ireland,19,57,1,0,33.33333333333333,36,6,49,1,0,8.166666666666666,Willowmoore Park,0,0,2009,39
+CMWright,Scotland,Canada,5,8,0,0,62.5,60,10,23,3,4,2.3,Willowmoore Park,0,0,2009,116

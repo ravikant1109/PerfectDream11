@@ -1,15 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HDavids,South Africa,Pakistan,0,2,0,0,0.0,6,1,6,1,0,6.0,Dubai International Cricket Stadium,17
-HDavids,South Africa,Pakistan,0,2,0,0,0.0,6,1,6,1,0,6.0,Dubai International Cricket Stadium,17
-HDavids,South Africa,Pakistan,0,2,0,0,0.0,6,1,6,1,0,6.0,Dubai International Cricket Stadium,17
-HDavids,South Africa,New Zealand,20,14,3,1,142.85714285714286,0,0,0,0,0,0,Kingsmead,25
-HDavids,South Africa,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,1
-HDavids,South Africa,Sri Lanka,1,8,0,0,12.5,5,0,7,0,0,0,R Premadasa Stadium,-5
-HDavids,South Africa,Pakistan,7,6,1,0,116.66666666666667,0,0,0,0,0,0,SuperSport Park,8
-HDavids,South Africa,New Zealand,55,38,7,1,144.73684210526315,0,0,0,0,0,0,Buffalo Park,72
-HDavids,South Africa,Sri Lanka,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,5
-HDavids,South Africa,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,-8
-HDavids,South Africa,New Zealand,68,53,7,2,128.30188679245282,0,0,0,0,0,0,St George's Park,87
-HDavids,South Africa,Pakistan,0,2,0,0,0.0,6,1,6,1,0,6.0,Dubai International Cricket Stadium,17
-HDavids,South Africa,New Zealand,20,14,3,1,142.85714285714286,0,0,0,0,0,0,Kingsmead,25
-HDavids,South Africa,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,1
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HDavids,South Africa,New Zealand,55,38,7,1,144.73684210526315,0,0,0,0,0,0,Buffalo Park,0,0,2012,72
+HDavids,South Africa,Pakistan,7,6,1,0,116.66666666666667,0,0,0,0,0,0,SuperSport Park,0,0,2013,8
+HDavids,South Africa,Sri Lanka,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,5
+HDavids,South Africa,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,-8
+HDavids,South Africa,Sri Lanka,1,8,0,0,12.5,5,0,7,0,0,0,R Premadasa Stadium,0,0,2013,-5
+HDavids,South Africa,New Zealand,20,14,3,1,142.85714285714286,0,0,0,0,0,0,Kingsmead,0,0,2012,25
+HDavids,South Africa,New Zealand,68,53,7,2,128.30188679245282,0,0,0,0,0,0,St George's Park,0,0,2012,87
+HDavids,South Africa,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2013,1
+HDavids,South Africa,Pakistan,0,2,0,0,0.0,6,1,6,1,0,6.0,Dubai International Cricket Stadium,0,0,2013,17
+HDavids,South Africa,India,1,7,0,0,14.285714285714285,0,0,0,0,0,0,SuperSport Park,0,0,2013,-5
+HDavids,South Africa,Pakistan,7,18,0,0,38.88888888888889,0,0,0,0,0,0,SuperSport Park,0,0,2013,1

@@ -1,2 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JDUnadkat,India,Zimbabwe,0,0,0,0,0,25,4,44,1,0,11.0,Harare Sports Club,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JDUnadkat,India,Zimbabwe,0,0,0,0,0,25,4,44,1,0,11.0,Harare Sports Club,0,0,2016,21
+JDUnadkat,India,West Indies,0,0,0,0,0,35,5,39,0,0,7.8,Nehru Stadium,0,0,2013,0
+JDUnadkat,India,Australia,0,0,0,0,0,35,5,31,0,0,6.2,JSCA International Stadium Complex,0,0,2013,0
+JDUnadkat,India,Zimbabwe,0,0,0,0,0,35,5,8,1,3,1.6,Queens Sports Club,0,0,2013,55
+JDUnadkat,India,Zimbabwe,0,0,0,0,0,41,6,27,1,0,4.5,Queens Sports Club,0,0,2013,29
+JDUnadkat,India,Zimbabwe,0,0,0,0,0,41,6,24,1,0,4.0,Harare Sports Club,0,0,2013,29
+JDUnadkat,India,Zimbabwe,0,0,0,0,0,59,9,42,4,3,4.666666666666667,Harare Sports Club,1,0,2013,148
+JDUnadkat,India,Zimbabwe,0,0,0,0,0,61,10,44,1,0,4.4,Harare Sports Club,0,0,2013,29

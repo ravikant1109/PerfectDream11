@@ -1,10 +1,29 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DASGunaratne,Sri Lanka,Bangladesh,17,18,1,0,94.44444444444444,23,3,24,1,0,8.0,R Premadasa Stadium,43
-DASGunaratne,Sri Lanka,Australia,52,38,7,0,136.8421052631579,5,0,11,1,0,0,Melbourne Cricket Ground,92
-DASGunaratne,Sri Lanka,Australia,4,5,0,0,80.0,6,1,12,0,0,12.0,Adelaide Oval,4
-DASGunaratne,Sri Lanka,India,4,12,0,0,33.33333333333333,16,2,22,0,0,11.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,-6
-DASGunaratne,Sri Lanka,Bangladesh,0,1,0,0,0.0,11,1,16,1,0,16.0,R Premadasa Stadium,17
-DASGunaratne,Sri Lanka,South Africa,11,6,2,0,183.33333333333331,24,4,35,1,0,8.75,Newlands,38
-DASGunaratne,Sri Lanka,Australia,84,46,6,5,182.6086956521739,17,2,26,1,0,13.0,Simonds Stadium South Geelong,127
-DASGunaratne,Sri Lanka,South Africa,3,5,0,0,60.0,23,3,27,0,0,9.0,New Wanderers Stadium,1
-DASGunaratne,Sri Lanka,South Africa,10,6,0,1,166.66666666666669,12,2,12,0,0,6.0,SuperSport Park,12
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DASGunaratne,Sri Lanka,Bangladesh,17,18,1,0,94.44444444444444,23,3,24,1,0,8.0,R Premadasa Stadium,0,1,2017,51
+DASGunaratne,Sri Lanka,South Africa,10,6,0,1,166.66666666666669,12,2,12,0,0,6.0,SuperSport Park,1,2,2017,40
+DASGunaratne,Sri Lanka,Australia,4,5,0,0,80.0,6,1,12,0,0,12.0,Adelaide Oval,0,0,2017,4
+DASGunaratne,Sri Lanka,South Africa,11,6,2,0,183.33333333333331,24,4,35,1,0,8.75,Newlands,0,0,2017,38
+DASGunaratne,Sri Lanka,Australia,52,38,7,0,136.8421052631579,5,0,11,1,0,0,Melbourne Cricket Ground,0,0,2017,92
+DASGunaratne,Sri Lanka,Bangladesh,0,1,0,0,0.0,11,1,16,1,0,16.0,R Premadasa Stadium,0,0,2017,17
+DASGunaratne,Sri Lanka,Australia,84,46,6,5,182.6086956521739,17,2,26,1,0,13.0,Simonds Stadium South Geelong,0,0,2017,127
+DASGunaratne,Sri Lanka,South Africa,3,5,0,0,60.0,23,3,27,0,0,9.0,New Wanderers Stadium,0,1,2017,9
+DASGunaratne,Sri Lanka,India,4,12,0,0,33.33333333333333,16,2,22,0,0,11.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2016,-6
+DASGunaratne,Sri Lanka,Zimbabwe,1,3,0,0,33.33333333333333,41,6,42,1,0,7.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,20
+DASGunaratne,Sri Lanka,Zimbabwe,0,0,0,0,0,29,4,16,1,1,4.0,Galle International Stadium,0,0,2017,37
+DASGunaratne,Sri Lanka,South Africa,4,13,0,0,30.76923076923077,60,10,64,0,0,6.4,Kennington Oval,0,0,2017,-2
+DASGunaratne,Sri Lanka,Bangladesh,24,40,2,0,60.0,60,10,41,1,0,4.1,Rangiri Dambulla International Stadium,0,0,2017,53
+DASGunaratne,Sri Lanka,Pakistan,27,48,1,0,56.25,29,4,19,0,0,4.75,Sophia Gardens,0,1,2017,36
+DASGunaratne,Sri Lanka,India,34,21,2,2,161.9047619047619,17,2,7,1,0,3.5,Kennington Oval,0,0,2017,71
+DASGunaratne,Sri Lanka,Bangladesh,34,44,3,0,77.27272727272727,11,1,16,0,0,16.0,Sinhalese Sports Club Ground,0,1,2017,45
+DASGunaratne,Sri Lanka,Zimbabwe,0,0,0,0,0,39,6,21,3,2,3.5,Harare Sports Club,0,0,2016,97
+DASGunaratne,Sri Lanka,South Africa,10,10,1,0,100.0,29,4,19,1,0,4.75,St George's Park,0,0,2017,40
+DASGunaratne,Sri Lanka,Zimbabwe,28,26,4,0,107.6923076923077,41,6,45,2,0,7.5,Galle International Stadium,0,0,2017,82
+DASGunaratne,Sri Lanka,Zimbabwe,0,0,0,0,0,59,9,53,2,1,5.888888888888889,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,60
+DASGunaratne,Sri Lanka,South Africa,2,15,0,0,13.333333333333334,0,0,0,0,0,0,New Wanderers Stadium,0,0,2017,-4
+DASGunaratne,Sri Lanka,West Indies,6,7,0,0,85.71428571428571,54,9,49,1,0,5.444444444444445,Queens Sports Club,0,0,2016,33
+DASGunaratne,Sri Lanka,Zimbabwe,59,83,4,0,71.08433734939759,23,3,23,1,0,7.666666666666667,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,96
+DASGunaratne,Sri Lanka,South Africa,114,119,14,2,95.7983193277311,30,5,47,0,0,9.4,SuperSport Park,0,1,2017,154
+DASGunaratne,Sri Lanka,West Indies,18,25,2,0,72.0,59,9,40,1,1,4.444444444444445,Harare Sports Club,0,0,2016,57
+DASGunaratne,Sri Lanka,South Africa,18,24,1,0,75.0,41,6,37,0,0,6.166666666666667,Kingsmead,0,0,2017,19
+DASGunaratne,Sri Lanka,Zimbabwe,16,25,1,0,64.0,26,4,10,3,1,2.5,Queens Sports Club,0,0,2016,104
+DASGunaratne,Sri Lanka,South Africa,38,31,2,1,122.58064516129032,11,1,16,0,0,16.0,Newlands,0,2,2017,58

@@ -1,14 +1,14 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AJRedmond,New Zealand,Sri Lanka,8,10,1,0,80.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,9
-AJRedmond,New Zealand,Ireland,63,30,12,0,210.0,0,0,0,0,0,0,Trent Bridge,83
-AJRedmond,New Zealand,Sri Lanka,8,10,1,0,80.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,9
-AJRedmond,New Zealand,Ireland,63,30,12,0,210.0,0,0,0,0,0,0,Trent Bridge,83
-AJRedmond,New Zealand,Sri Lanka,8,10,1,0,80.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,9
-AJRedmond,New Zealand,Ireland,63,30,12,0,210.0,0,0,0,0,0,0,Trent Bridge,83
-AJRedmond,New Zealand,Sri Lanka,1,2,0,0,50.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-3
-AJRedmond,New Zealand,England,16,15,0,1,106.66666666666667,0,0,0,0,0,0,Beausejour Stadium Gros Islet,18
-AJRedmond,New Zealand,Pakistan,0,0,0,0,0,17,2,24,2,0,12.0,Dubai International Cricket Stadium,44
-AJRedmond,New Zealand,Pakistan,15,14,2,0,107.14285714285714,0,0,0,0,0,0,Kennington Oval,17
-AJRedmond,New Zealand,Sri Lanka,23,13,3,1,176.9230769230769,0,0,0,0,0,0,Trent Bridge,28
-AJRedmond,New Zealand,Sri Lanka,8,10,1,0,80.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,9
-AJRedmond,New Zealand,Ireland,63,30,12,0,210.0,0,0,0,0,0,0,Trent Bridge,83
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AJRedmond,New Zealand,Sri Lanka,8,10,1,0,80.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,1,2010,17
+AJRedmond,New Zealand,Sri Lanka,23,13,3,1,176.9230769230769,0,0,0,0,0,0,Trent Bridge,0,0,2009,28
+AJRedmond,New Zealand,Ireland,63,30,12,0,210.0,0,0,0,0,0,0,Trent Bridge,0,0,2009,83
+AJRedmond,New Zealand,Pakistan,0,0,0,0,0,17,2,24,2,0,12.0,Dubai International Cricket Stadium,0,1,2009,52
+AJRedmond,New Zealand,England,16,15,0,1,106.66666666666667,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,18
+AJRedmond,New Zealand,Sri Lanka,1,2,0,0,50.0,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2010,-3
+AJRedmond,New Zealand,Pakistan,15,14,2,0,107.14285714285714,0,0,0,0,0,0,Kennington Oval,0,0,2009,17
+AJRedmond,New Zealand,Bangladesh,16,30,1,0,53.333333333333336,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,21
+AJRedmond,New Zealand,Pakistan,31,57,5,0,54.385964912280706,0,0,0,0,0,0,New Wanderers Stadium,0,1,2009,40
+AJRedmond,New Zealand,Australia,26,46,3,0,56.52173913043478,0,0,0,0,0,0,SuperSport Park,0,0,2009,25
+AJRedmond,New Zealand,Pakistan,6,8,1,0,75.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2009,7
+AJRedmond,New Zealand,Pakistan,52,93,6,0,55.91397849462365,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2009,62
+AJRedmond,New Zealand,Pakistan,21,32,3,0,65.625,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2009,30

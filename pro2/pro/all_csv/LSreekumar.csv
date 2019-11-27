@@ -1,3 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LSreekumar,United Arab Emirates,Papua New Guinea,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-LSreekumar,United Arab Emirates,Papua New Guinea,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LSreekumar,United Arab Emirates,Papua New Guinea,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,-8
+LSreekumar,United Arab Emirates,Hong Kong,13,18,2,0,72.22222222222221,0,0,0,0,0,0,ICC Academy,0,1,2015,23
+LSreekumar,United Arab Emirates,Scotland,28,32,6,0,87.5,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2016,34
+LSreekumar,United Arab Emirates,Scotland,16,19,2,1,84.21052631578947,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2016,20

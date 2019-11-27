@@ -1,16 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CWPerchard,Jersey,Ireland,8,10,0,0,80.0,17,2,16,1,0,8.0,Tolerance Oval,33
-CWPerchard,Jersey,Ireland,8,10,0,0,80.0,17,2,16,1,0,8.0,Tolerance Oval,33
-CWPerchard,Jersey,Ireland,8,10,0,0,80.0,17,2,16,1,0,8.0,Tolerance Oval,33
-CWPerchard,Jersey,Ireland,8,10,0,0,80.0,17,2,16,1,0,8.0,Tolerance Oval,33
-CWPerchard,Jersey,Ireland,8,10,0,0,80.0,17,2,16,1,0,8.0,Tolerance Oval,33
-CWPerchard,Jersey,Canada,0,1,0,0,0.0,25,4,22,2,0,5.5,Tolerance Oval,44
-CWPerchard,Jersey,Nigeria,0,0,0,0,0,19,3,17,1,0,5.666666666666667,Sheikh Zayed Stadium,27
-CWPerchard,Jersey,Oman,0,0,0,0,0,23,3,21,0,0,7.0,Sheikh Zayed Stadium,0
-CWPerchard,Jersey,Italy,0,0,0,0,0,22,3,14,4,0,4.666666666666667,College Field,112
-CWPerchard,Jersey,Denmark,5,9,0,0,55.55555555555556,20,3,17,1,0,5.666666666666667,King George V Sports Ground,28
-CWPerchard,Jersey,United Arab Emirates,3,3,0,0,100.0,23,3,22,2,0,7.333333333333333,Tolerance Oval,53
-CWPerchard,Jersey,Germany,0,0,0,0,0,23,3,29,2,0,9.666666666666666,College Field,48
-CWPerchard,Jersey,Hong Kong,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Sheikh Zayed Stadium,21
-CWPerchard,Jersey,Ireland,8,10,0,0,80.0,17,2,16,1,0,8.0,Tolerance Oval,33
-CWPerchard,Jersey,Canada,0,1,0,0,0.0,25,4,22,2,0,5.5,Tolerance Oval,44
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CWPerchard,Jersey,Hong Kong,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Sheikh Zayed Stadium,0,1,2019,29
+CWPerchard,Jersey,Germany,0,0,0,0,0,23,3,29,2,0,9.666666666666666,College Field,0,1,2019,56
+CWPerchard,Jersey,Nigeria,0,0,0,0,0,19,3,17,1,0,5.666666666666667,Sheikh Zayed Stadium,0,0,2019,27
+CWPerchard,Jersey,Oman,0,0,0,0,0,23,3,21,0,0,7.0,Sheikh Zayed Stadium,0,1,2019,8
+CWPerchard,Jersey,Denmark,5,9,0,0,55.55555555555556,20,3,17,1,0,5.666666666666667,King George V Sports Ground,1,0,2019,40
+CWPerchard,Jersey,United Arab Emirates,3,3,0,0,100.0,23,3,22,2,0,7.333333333333333,Tolerance Oval,0,1,2019,61
+CWPerchard,Jersey,Ireland,8,10,0,0,80.0,17,2,16,1,0,8.0,Tolerance Oval,0,0,2019,33
+CWPerchard,Jersey,Italy,0,0,0,0,0,22,3,14,4,0,4.666666666666667,College Field,0,1,2019,120
+CWPerchard,Jersey,Canada,0,1,0,0,0.0,25,4,22,2,0,5.5,Tolerance Oval,0,0,2019,44

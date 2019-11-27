@@ -1,24 +1,21 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SWPoynter,Ireland,United Arab Emirates,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Sheikh Zayed Stadium,-5
-SWPoynter,Ireland,Afghanistan,8,3,1,0,266.66666666666663,0,0,0,0,0,0,Dubai International Cricket Stadium,9
-SWPoynter,Ireland,Hong Kong,7,8,1,0,87.5,0,0,0,0,0,0,The Village Malahide,8
-SWPoynter,Ireland,United Arab Emirates,10,13,0,0,76.92307692307693,0,0,0,0,0,0,Sheikh Zayed Stadium,10
-SWPoynter,Ireland,United Arab Emirates,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Sheikh Zayed Stadium,-5
-SWPoynter,Ireland,Afghanistan,8,3,1,0,266.66666666666663,0,0,0,0,0,0,Dubai International Cricket Stadium,9
-SWPoynter,Ireland,Hong Kong,7,8,1,0,87.5,0,0,0,0,0,0,The Village Malahide,8
-SWPoynter,Ireland,United Arab Emirates,10,13,0,0,76.92307692307693,0,0,0,0,0,0,Sheikh Zayed Stadium,10
-SWPoynter,Ireland,United Arab Emirates,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Sheikh Zayed Stadium,-5
-SWPoynter,Ireland,Afghanistan,8,3,1,0,266.66666666666663,0,0,0,0,0,0,Dubai International Cricket Stadium,9
-SWPoynter,Ireland,Hong Kong,7,8,1,0,87.5,0,0,0,0,0,0,The Village Malahide,8
-SWPoynter,Ireland,United Arab Emirates,10,13,0,0,76.92307692307693,0,0,0,0,0,0,Sheikh Zayed Stadium,10
-SWPoynter,Ireland,Scotland,39,19,7,1,205.26315789473685,0,0,0,0,0,0,Dubai International Cricket Stadium,48
-SWPoynter,Ireland,Papua New Guinea,9,15,0,0,60.0,0,0,0,0,0,0,Tony Ireland Stadium,7
-SWPoynter,Ireland,Scotland,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Bready Cricket Club Magheramason,12
-SWPoynter,Ireland,Afghanistan,18,20,3,0,90.0,0,0,0,0,0,0,Sheikh Zayed Stadium,21
-SWPoynter,Ireland,Netherlands,3,4,0,0,75.0,0,0,0,0,0,0,The Village Malahide,3
-SWPoynter,Ireland,Papua New Guinea,35,24,1,2,145.83333333333331,0,0,0,0,0,0,Tony Ireland Stadium,40
-SWPoynter,Ireland,United Arab Emirates,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Dubai International Cricket Stadium,5
-SWPoynter,Ireland,United Arab Emirates,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Sheikh Zayed Stadium,-5
-SWPoynter,Ireland,Afghanistan,8,3,1,0,266.66666666666663,0,0,0,0,0,0,Dubai International Cricket Stadium,9
-SWPoynter,Ireland,Hong Kong,7,8,1,0,87.5,0,0,0,0,0,0,The Village Malahide,8
-SWPoynter,Ireland,United Arab Emirates,10,13,0,0,76.92307692307693,0,0,0,0,0,0,Sheikh Zayed Stadium,10
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SWPoynter,Ireland,Afghanistan,8,3,1,0,266.66666666666663,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2017,9
+SWPoynter,Ireland,United Arab Emirates,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2017,13
+SWPoynter,Ireland,Scotland,11,12,1,0,91.66666666666666,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,1,2015,20
+SWPoynter,Ireland,Papua New Guinea,35,24,1,2,145.83333333333331,0,0,0,0,0,0,Tony Ireland Stadium,0,1,2016,48
+SWPoynter,Ireland,Netherlands,3,4,0,0,75.0,0,0,0,0,0,0,The Village Malahide,0,1,2015,11
+SWPoynter,Ireland,Hong Kong,7,8,1,0,87.5,0,0,0,0,0,0,The Village Malahide,0,1,2015,16
+SWPoynter,Ireland,United Arab Emirates,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,-5
+SWPoynter,Ireland,United Arab Emirates,10,13,0,0,76.92307692307693,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2016,18
+SWPoynter,Ireland,Scotland,39,19,7,1,205.26315789473685,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2017,48
+SWPoynter,Ireland,Afghanistan,18,20,3,0,90.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,21
+SWPoynter,Ireland,Papua New Guinea,9,15,0,0,60.0,0,0,0,0,0,0,Tony Ireland Stadium,0,0,2016,7
+SWPoynter,Ireland,Scotland,8,16,1,0,50.0,0,0,0,0,0,0,The Village Malahide,1,3,2014,41
+SWPoynter,Ireland,Afghanistan,0,3,0,0,0.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,1,2016,0
+SWPoynter,Ireland,Scotland,7,14,0,0,50.0,0,0,0,0,0,0,The Village Malahide,0,1,2014,11
+SWPoynter,Ireland,Sri Lanka,36,51,2,0,70.58823529411765,0,0,0,0,0,0,The Village Malahide,0,0,2016,38
+SWPoynter,Ireland,Afghanistan,12,16,0,0,75.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2016,12
+SWPoynter,Ireland,South Africa,8,9,0,0,88.88888888888889,0,0,0,0,0,0,Willowmoore Park,0,1,2016,16
+SWPoynter,Ireland,Pakistan,4,3,0,0,133.33333333333331,0,0,0,0,0,0,The Village Malahide,0,0,2016,4
+SWPoynter,Ireland,Australia,11,8,2,0,137.5,0,0,0,0,0,0,Willowmoore Park,0,0,2016,13
+SWPoynter,Ireland,Afghanistan,15,22,2,0,68.18181818181817,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,2,2016,31

@@ -1,5 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KVSharma,India,England,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Edgbaston,23
-KVSharma,India,England,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Edgbaston,23
-KVSharma,India,England,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Edgbaston,23
-KVSharma,India,England,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Edgbaston,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KVSharma,India,England,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Edgbaston,0,0,2014,23
+KVSharma,India,Sri Lanka,0,0,0,0,0,53,8,64,0,1,8.0,Eden Gardens,0,2,2014,24
+KVSharma,India,Sri Lanka,0,0,0,0,0,59,9,61,0,0,6.777777777777778,JSCA International Stadium Complex,0,1,2014,8

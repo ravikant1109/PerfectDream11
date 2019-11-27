@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SAteak,Ghana,Namibia,26,22,3,1,118.18181818181819,0,0,0,0,0,0,Kyambogo Cricket Oval,31
-SAteak,Ghana,Nigeria,4,5,1,0,80.0,0,0,0,0,0,0,Kyambogo Cricket Oval,5
-SAteak,Ghana,Kenya,15,21,2,0,71.42857142857143,0,0,0,0,0,0,Kyambogo Cricket Oval,17
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SAteak,Ghana,Kenya,15,21,2,0,71.42857142857143,0,0,0,0,0,0,Kyambogo Cricket Oval,0,0,2019,17
+SAteak,Ghana,Nigeria,4,5,1,0,80.0,0,0,0,0,0,0,Kyambogo Cricket Oval,0,0,2019,5
+SAteak,Ghana,Namibia,26,22,3,1,118.18181818181819,0,0,0,0,0,0,Kyambogo Cricket Oval,0,0,2019,31

@@ -1,29 +1,47 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ShoaibAkhtar,Pakistan,South Africa,0,0,0,0,0,24,4,36,1,0,9.0,Sheikh Zayed Stadium,25
-ShoaibAkhtar,Pakistan,New Zealand,8,4,0,1,200.0,23,3,38,3,0,12.666666666666666,Eden Park,79
-ShoaibAkhtar,Pakistan,Australia,0,2,0,0,0.0,25,4,30,1,0,7.5,Edgbaston,17
-ShoaibAkhtar,Pakistan,England,0,0,0,0,0,23,3,33,1,0,11.0,County Ground,21
-ShoaibAkhtar,Pakistan,South Africa,0,0,0,0,0,24,4,36,1,0,9.0,Sheikh Zayed Stadium,25
-ShoaibAkhtar,Pakistan,South Africa,0,0,0,0,0,24,4,36,1,0,9.0,Sheikh Zayed Stadium,25
-ShoaibAkhtar,Pakistan,New Zealand,8,4,0,1,200.0,23,3,38,3,0,12.666666666666666,Eden Park,79
-ShoaibAkhtar,Pakistan,Australia,0,2,0,0,0.0,25,4,30,1,0,7.5,Edgbaston,17
-ShoaibAkhtar,Pakistan,England,0,0,0,0,0,23,3,33,1,0,11.0,County Ground,21
-ShoaibAkhtar,Pakistan,South Africa,0,0,0,0,0,24,4,36,1,0,9.0,Sheikh Zayed Stadium,25
-ShoaibAkhtar,Pakistan,New Zealand,8,4,0,1,200.0,23,3,38,3,0,12.666666666666666,Eden Park,79
-ShoaibAkhtar,Pakistan,Australia,0,2,0,0,0.0,25,4,30,1,0,7.5,Edgbaston,17
-ShoaibAkhtar,Pakistan,England,0,0,0,0,0,23,3,33,1,0,11.0,County Ground,21
-ShoaibAkhtar,Pakistan,South Africa,3,2,0,0,150.0,23,3,31,2,0,10.333333333333334,Sheikh Zayed Stadium,49
-ShoaibAkhtar,Pakistan,Australia,0,0,0,0,0,11,1,34,0,0,34.0,Edgbaston,0
-ShoaibAkhtar,Pakistan,Kenya,0,0,0,0,0,23,3,23,2,0,7.666666666666667,Gymkhana Club Ground,50
-ShoaibAkhtar,Pakistan,England,4,4,1,0,100.0,23,3,20,1,0,6.666666666666667,Sophia Gardens,30
-ShoaibAkhtar,Pakistan,New Zealand,5,3,1,0,166.66666666666669,25,4,42,1,0,10.5,Seddon Park,27
-ShoaibAkhtar,Pakistan,Australia,0,0,0,0,0,12,2,19,0,0,9.5,Dubai International Cricket Stadium,-2
-ShoaibAkhtar,Pakistan,Bangladesh,1,1,0,0,100.0,25,4,30,2,0,7.5,Gymkhana Club Ground,51
-ShoaibAkhtar,Pakistan,Sri Lanka,0,0,0,0,0,20,3,40,0,0,13.333333333333334,Maple Leaf North-West Ground,-6
-ShoaibAkhtar,Pakistan,England,0,0,0,0,0,24,4,24,2,1,6.0,Sophia Gardens,58
-ShoaibAkhtar,Pakistan,Sri Lanka,0,0,0,0,0,23,3,34,1,0,11.333333333333334,Maple Leaf North-West Ground,19
-ShoaibAkhtar,Pakistan,South Africa,0,0,0,0,0,24,4,36,1,0,9.0,Sheikh Zayed Stadium,25
-ShoaibAkhtar,Pakistan,New Zealand,8,4,0,1,200.0,23,3,38,3,0,12.666666666666666,Eden Park,79
-ShoaibAkhtar,Pakistan,Australia,0,2,0,0,0.0,25,4,30,1,0,7.5,Edgbaston,17
-ShoaibAkhtar,Pakistan,England,0,0,0,0,0,23,3,33,1,0,11.0,County Ground,21
-ShoaibAkhtar,Pakistan,South Africa,3,2,0,0,150.0,23,3,31,2,0,10.333333333333334,Sheikh Zayed Stadium,49
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ShoaibAkhtar,Pakistan,Sri Lanka,0,0,0,0,0,23,3,34,1,0,11.333333333333334,Maple Leaf North-West Ground,1,0,2008,31
+ShoaibAkhtar,Pakistan,South Africa,3,2,0,0,150.0,23,3,31,2,0,10.333333333333334,Sheikh Zayed Stadium,0,0,2010,49
+ShoaibAkhtar,Pakistan,New Zealand,8,4,0,1,200.0,23,3,38,3,0,12.666666666666666,Eden Park,0,0,2010,79
+ShoaibAkhtar,Pakistan,Bangladesh,1,1,0,0,100.0,25,4,30,2,0,7.5,Gymkhana Club Ground,0,0,2007,51
+ShoaibAkhtar,Pakistan,England,0,0,0,0,0,24,4,24,2,1,6.0,Sophia Gardens,0,0,2010,58
+ShoaibAkhtar,Pakistan,Kenya,0,0,0,0,0,23,3,23,2,0,7.666666666666667,Gymkhana Club Ground,0,0,2007,50
+ShoaibAkhtar,Pakistan,Australia,0,0,0,0,0,12,2,19,0,0,9.5,Dubai International Cricket Stadium,0,0,2009,-2
+ShoaibAkhtar,Pakistan,England,0,0,0,0,0,23,3,33,1,0,11.0,County Ground,0,1,2006,29
+ShoaibAkhtar,Pakistan,South Africa,0,0,0,0,0,24,4,36,1,0,9.0,Sheikh Zayed Stadium,0,0,2010,25
+ShoaibAkhtar,Pakistan,Australia,0,2,0,0,0.0,25,4,30,1,0,7.5,Edgbaston,0,0,2010,17
+ShoaibAkhtar,Pakistan,England,4,4,1,0,100.0,23,3,20,1,0,6.666666666666667,Sophia Gardens,0,0,2010,30
+ShoaibAkhtar,Pakistan,Sri Lanka,0,0,0,0,0,20,3,40,0,0,13.333333333333334,Maple Leaf North-West Ground,0,1,2008,2
+ShoaibAkhtar,Pakistan,New Zealand,5,3,1,0,166.66666666666669,25,4,42,1,0,10.5,Seddon Park,0,0,2010,27
+ShoaibAkhtar,Pakistan,Australia,0,0,0,0,0,11,1,34,0,0,34.0,Edgbaston,0,0,2010,0
+ShoaibAkhtar,Pakistan,Sri Lanka,0,0,0,0,0,59,9,45,2,0,5.0,R Premadasa Stadium,0,0,2011,52
+ShoaibAkhtar,Pakistan,Australia,25,14,4,1,178.57142857142858,44,7,34,0,2,4.857142857142857,Dubai Sports City Cricket Stadium,0,0,2009,51
+ShoaibAkhtar,Pakistan,South Africa,1,1,0,0,100.0,61,10,40,3,1,4.0,Dubai International Cricket Stadium,0,0,2010,88
+ShoaibAkhtar,Pakistan,India,1,2,0,0,50.0,65,10,43,1,1,4.3,Green Park,0,0,2007,34
+ShoaibAkhtar,Pakistan,Australia,0,0,0,0,0,37,6,35,0,0,5.833333333333333,Dubai Sports City Cricket Stadium,0,0,2009,2
+ShoaibAkhtar,Pakistan,Australia,2,2,0,0,100.0,42,7,42,2,0,6.0,Sheikh Zayed Stadium,0,0,2009,52
+ShoaibAkhtar,Pakistan,England,0,1,0,0,0.0,49,8,28,0,1,3.5,Riverside Ground,0,0,2010,6
+ShoaibAkhtar,Pakistan,England,0,0,0,0,0,64,10,47,3,2,4.7,Sophia Gardens,0,0,2006,95
+ShoaibAkhtar,Pakistan,New Zealand,0,2,0,0,0.0,59,9,70,1,2,7.777777777777778,Pallekele International Cricket Stadium,0,0,2011,33
+ShoaibAkhtar,Pakistan,England,6,7,1,0,85.71428571428571,59,9,45,1,1,5.0,Kennington Oval,0,0,2010,42
+ShoaibAkhtar,Pakistan,India,0,0,0,0,0,62,10,50,1,0,5.0,Captain Roop Singh Stadium,0,0,2007,27
+ShoaibAkhtar,Pakistan,Australia,0,0,0,0,0,43,7,43,1,1,6.142857142857143,Sheikh Zayed Stadium,0,0,2009,33
+ShoaibAkhtar,Pakistan,India,3,5,0,0,60.0,62,10,64,0,0,6.4,Rangiri Dambulla International Stadium,0,0,2010,1
+ShoaibAkhtar,Pakistan,New Zealand,0,0,0,0,0,48,8,32,1,0,4.0,Seddon Park,0,0,2011,29
+ShoaibAkhtar,Pakistan,England,10,19,0,1,52.63157894736842,48,8,36,0,1,4.5,Trent Bridge,0,0,2006,20
+ShoaibAkhtar,Pakistan,Sri Lanka,1,2,0,0,50.0,59,9,44,3,1,4.888888888888889,Rangiri Dambulla International Stadium,0,0,2010,84
+ShoaibAkhtar,Pakistan,South Africa,0,1,0,0,0.0,57,9,44,4,1,4.888888888888889,Gaddafi Stadium,0,0,2007,112
+ShoaibAkhtar,Pakistan,England,0,0,0,0,0,63,10,59,3,0,5.9,Lord's,0,0,2010,77
+ShoaibAkhtar,Pakistan,South Africa,6,9,0,1,66.66666666666666,51,8,50,0,0,6.25,Sheikh Zayed Stadium,0,0,2010,6
+ShoaibAkhtar,Pakistan,Sri Lanka,0,0,0,0,0,41,6,43,0,0,7.166666666666667,National Stadium,0,0,2009,0
+ShoaibAkhtar,Pakistan,India,0,0,0,0,0,50,8,52,2,1,6.5,Nehru Stadium,0,0,2007,58
+ShoaibAkhtar,Pakistan,India,0,0,0,0,0,67,11,42,3,1,3.8181818181818183,Punjab Cricket Association Stadium Mohali,0,0,2007,89
+ShoaibAkhtar,Pakistan,England,0,0,0,0,0,50,8,31,4,0,3.875,Lord's,0,0,2006,114
+ShoaibAkhtar,Pakistan,South Africa,0,0,0,0,0,55,9,52,2,0,5.777777777777778,Dubai International Cricket Stadium,0,0,2010,52
+ShoaibAkhtar,Pakistan,New Zealand,1,2,0,0,50.0,24,4,47,0,0,11.75,Westpac Stadium,0,0,2011,-9
+ShoaibAkhtar,Pakistan,England,0,0,0,0,0,48,8,51,1,0,6.375,Headingley,1,0,2010,37
+ShoaibAkhtar,Pakistan,England,2,2,0,0,100.0,60,10,59,2,1,5.9,The Rose Bowl,0,1,2006,70
+ShoaibAkhtar,Pakistan,Kenya,0,0,0,0,0,30,5,14,0,0,2.8,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2011,6
+ShoaibAkhtar,Pakistan,Bangladesh,0,0,0,0,0,50,8,22,1,2,2.75,Rangiri Dambulla International Stadium,0,0,2010,47
+ShoaibAkhtar,Pakistan,South Africa,1,3,0,0,33.33333333333333,41,6,77,1,0,12.833333333333334,Dubai International Cricket Stadium,0,1,2010,22
+ShoaibAkhtar,Pakistan,New Zealand,2,6,0,0,33.33333333333333,42,7,39,1,1,5.571428571428571,Eden Park,0,0,2011,31
+ShoaibAkhtar,Pakistan,England,0,2,0,0,0.0,61,10,42,3,1,4.2,The Rose Bowl,0,0,2010,79

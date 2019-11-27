@@ -1,13 +1,46 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NOMiller,West Indies,Bangladesh,0,0,0,0,0,24,4,22,2,0,5.5,Warner Park Basseterre,52
-NOMiller,West Indies,Bangladesh,0,0,0,0,0,24,4,22,2,0,5.5,Warner Park Basseterre,52
-NOMiller,West Indies,Bangladesh,0,0,0,0,0,24,4,22,2,0,5.5,Warner Park Basseterre,52
-NOMiller,West Indies,Australia,11,8,1,0,137.5,23,3,20,2,0,6.666666666666667,Bellerive Oval,62
-NOMiller,West Indies,South Africa,5,6,0,0,83.33333333333334,11,1,13,1,0,13.0,Sir Vivian Richards Stadium North Sound,30
-NOMiller,West Indies,Ireland,2,2,0,0,100.0,24,4,20,1,0,5.0,Providence Stadium,29
-NOMiller,West Indies,New Zealand,0,0,0,0,0,17,2,25,0,0,12.5,Westpac Stadium,-6
-NOMiller,West Indies,England,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Providence Stadium,23
-NOMiller,West Indies,Australia,10,14,0,0,71.42857142857143,23,3,16,0,0,5.333333333333333,Beausejour Stadium Gros Islet,12
-NOMiller,West Indies,Australia,0,0,0,0,0,21,3,56,2,0,18.666666666666668,Sydney Cricket Ground,44
-NOMiller,West Indies,New Zealand,15,20,1,0,75.0,17,2,26,2,0,13.0,Eden Park,60
-NOMiller,West Indies,Bangladesh,0,0,0,0,0,24,4,22,2,0,5.5,Warner Park Basseterre,52
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NOMiller,West Indies,Australia,0,0,0,0,0,21,3,56,2,0,18.666666666666668,Sydney Cricket Ground,0,0,2010,44
+NOMiller,West Indies,Australia,11,8,1,0,137.5,23,3,20,2,0,6.666666666666667,Bellerive Oval,0,1,2010,70
+NOMiller,West Indies,Australia,10,14,0,0,71.42857142857143,23,3,16,0,0,5.333333333333333,Beausejour Stadium Gros Islet,0,0,2010,12
+NOMiller,West Indies,Bangladesh,0,0,0,0,0,24,4,22,2,0,5.5,Warner Park Basseterre,0,0,2009,52
+NOMiller,West Indies,England,0,0,0,0,0,23,3,29,1,0,9.666666666666666,Providence Stadium,0,0,2010,23
+NOMiller,West Indies,New Zealand,0,0,0,0,0,17,2,25,0,0,12.5,Westpac Stadium,0,1,2014,2
+NOMiller,West Indies,Ireland,2,2,0,0,100.0,24,4,20,1,0,5.0,Providence Stadium,0,0,2010,29
+NOMiller,West Indies,South Africa,5,6,0,0,83.33333333333334,11,1,13,1,0,13.0,Sir Vivian Richards Stadium North Sound,0,0,2010,30
+NOMiller,West Indies,New Zealand,15,20,1,0,75.0,17,2,26,2,0,13.0,Eden Park,0,0,2014,60
+NOMiller,West Indies,Australia,0,0,0,0,0,59,9,56,1,2,6.222222222222222,Warner Park Basseterre,0,0,2008,41
+NOMiller,West Indies,New Zealand,0,0,0,0,0,23,3,44,1,0,14.666666666666666,Queenstown Events Centre,0,1,2014,27
+NOMiller,West Indies,Zimbabwe,0,1,0,0,0.0,10,1,3,1,0,3.0,Arnos Vale Ground Kingstown,0,1,2010,25
+NOMiller,West Indies,Pakistan,12,15,1,0,80.0,59,9,39,1,0,4.333333333333333,Sheikh Zayed Stadium,0,0,2008,42
+NOMiller,West Indies,Australia,8,11,1,0,72.72727272727273,59,9,39,1,1,4.333333333333333,Warner Park Basseterre,0,0,2008,46
+NOMiller,West Indies,Australia,4,7,0,0,57.14285714285714,59,9,24,2,2,2.6666666666666665,New Wanderers Stadium,0,0,2009,72
+NOMiller,West Indies,New Zealand,0,0,0,0,0,59,9,47,0,0,5.222222222222222,Saxton Oval,0,0,2014,2
+NOMiller,West Indies,Pakistan,51,58,5,1,87.93103448275862,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,66
+NOMiller,West Indies,Bangladesh,13,16,1,0,81.25,53,8,42,0,0,5.25,Warner Park Basseterre,0,0,2009,16
+NOMiller,West Indies,Sri Lanka,13,17,0,0,76.47058823529412,29,4,36,0,0,9.0,Sinhalese Sports Club Ground,1,1,2011,33
+NOMiller,West Indies,England,10,17,1,0,58.82352941176471,60,10,49,1,0,4.9,Sir Vivian Richards Stadium North Sound,0,0,2014,36
+NOMiller,West Indies,India,17,25,1,1,68.0,18,3,20,0,0,6.666666666666667,New Wanderers Stadium,0,0,2009,18
+NOMiller,West Indies,South Africa,0,1,0,0,0.0,17,2,19,1,0,9.5,Sir Vivian Richards Stadium North Sound,0,0,2010,15
+NOMiller,West Indies,Ireland,5,6,0,0,83.33333333333334,35,5,40,0,0,8.0,Punjab Cricket Association Stadium Mohali,0,0,2011,5
+NOMiller,West Indies,Bangladesh,16,12,1,0,133.33333333333331,53,8,52,1,0,6.5,Windsor Park Roseau,0,0,2009,42
+NOMiller,West Indies,England,0,0,0,0,0,11,1,5,0,0,5.0,Kensington Oval Bridgetown,0,0,2009,0
+NOMiller,West Indies,Australia,5,4,1,0,125.0,59,9,59,1,0,6.555555555555555,Brisbane Cricket Ground Woolloongabba,0,1,2010,39
+NOMiller,West Indies,Zimbabwe,0,0,0,0,0,59,9,26,1,3,2.888888888888889,Arnos Vale Ground Kingstown,0,2,2010,71
+NOMiller,West Indies,Ireland,0,0,0,0,0,59,9,31,2,3,3.4444444444444446,Sabina Park Kingston,0,0,2014,80
+NOMiller,West Indies,Australia,22,20,1,0,110.00000000000001,47,7,60,0,0,8.571428571428571,Melbourne Cricket Ground,0,0,2010,23
+NOMiller,West Indies,England,0,1,0,0,0.0,53,8,43,1,0,5.375,Providence Stadium,1,0,2009,31
+NOMiller,West Indies,England,2,13,0,0,15.384615384615385,59,9,29,2,1,3.2222222222222223,Sir Vivian Richards Stadium North Sound,0,1,2014,68
+NOMiller,West Indies,England,0,0,0,0,0,54,9,49,1,0,5.444444444444445,Providence Stadium,0,0,2009,27
+NOMiller,West Indies,New Zealand,25,36,2,0,69.44444444444444,17,2,22,0,0,11.0,Westpac Stadium,0,1,2009,29
+NOMiller,West Indies,Australia,6,7,1,0,85.71428571428571,30,5,24,0,0,4.8,Adelaide Oval,0,0,2010,11
+NOMiller,West Indies,Australia,0,0,0,0,0,59,9,35,0,0,3.888888888888889,Sydney Cricket Ground,0,0,2010,6
+NOMiller,West Indies,Netherlands,11,7,1,0,157.14285714285714,41,6,23,0,0,3.8333333333333335,Feroz Shah Kotla,0,0,2011,18
+NOMiller,West Indies,New Zealand,0,0,0,0,0,59,9,45,4,1,5.0,Seddon Park,0,0,2014,118
+NOMiller,West Indies,Pakistan,0,2,0,0,0.0,61,10,65,1,0,6.5,Sheikh Zayed Stadium,0,0,2008,17
+NOMiller,West Indies,Zimbabwe,0,0,0,0,0,40,6,50,1,0,8.333333333333334,Manuka Oval,0,0,2015,25
+NOMiller,West Indies,Zimbabwe,0,0,0,0,0,55,9,43,4,0,4.777777777777778,Providence Stadium,0,1,2010,120
+NOMiller,West Indies,Zimbabwe,12,4,1,1,300.0,60,10,52,1,1,5.2,Providence Stadium,0,0,2010,50
+NOMiller,West Indies,England,10,13,1,0,76.92307692307693,11,1,12,0,0,12.0,Kensington Oval Bridgetown,0,1,2009,19
+NOMiller,West Indies,South Africa,13,16,0,1,81.25,42,7,46,0,0,6.571428571428571,Sir Vivian Richards Stadium North Sound,0,0,2010,15
+NOMiller,West Indies,Sri Lanka,0,1,0,0,0.0,40,6,34,0,0,5.666666666666667,Sinhalese Sports Club Ground,0,0,2011,-6
+NOMiller,West Indies,Australia,4,10,0,0,40.0,47,7,40,0,0,5.714285714285714,Melbourne Cricket Ground,0,0,2010,0

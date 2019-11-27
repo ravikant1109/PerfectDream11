@@ -1,17 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HamzaTariq,Canada,Oman,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-HamzaTariq,Canada,Oman,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-HamzaTariq,Canada,Oman,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-HamzaTariq,Canada,United States of America,1,3,0,0,33.33333333333333,0,0,0,0,0,0,White Hill Field Sandys Parish,-5
-HamzaTariq,Canada,Jersey,0,2,0,0,0.0,0,0,0,0,0,0,Tolerance Oval,-8
-HamzaTariq,Canada,Kenya,22,16,0,2,137.5,0,0,0,0,0,0,Sharjah Cricket Stadium,26
-HamzaTariq,Canada,Nigeria,33,16,0,3,206.25,0,0,0,0,0,0,Sheikh Zayed Stadium,39
-HamzaTariq,Canada,Cayman Islands,8,8,0,0,100.0,0,0,0,0,0,0,White Hill Field Sandys Parish,8
-HamzaTariq,Canada,Hong Kong,17,14,3,0,121.42857142857142,0,0,0,0,0,0,Tolerance Oval,20
-HamzaTariq,Canada,United States of America,11,10,1,0,110.00000000000001,0,0,0,0,0,0,White Hill Field Sandys Parish,12
-HamzaTariq,Canada,Kenya,4,7,0,0,57.14285714285714,0,0,0,0,0,0,ICC Global Cricket Academy,0
-HamzaTariq,Canada,Ireland,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-HamzaTariq,Canada,United Arab Emirates,2,5,0,0,40.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-4
-HamzaTariq,Canada,Oman,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-HamzaTariq,Canada,United States of America,1,3,0,0,33.33333333333333,0,0,0,0,0,0,White Hill Field Sandys Parish,-5
-HamzaTariq,Canada,Jersey,0,2,0,0,0.0,0,0,0,0,0,0,Tolerance Oval,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HamzaTariq,Canada,Oman,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,2
+HamzaTariq,Canada,Ireland,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2019,0
+HamzaTariq,Canada,United States of America,11,10,1,0,110.00000000000001,0,0,0,0,0,0,White Hill Field Sandys Parish,0,1,2019,20
+HamzaTariq,Canada,United Arab Emirates,2,5,0,0,40.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2019,-4
+HamzaTariq,Canada,United States of America,1,3,0,0,33.33333333333333,0,0,0,0,0,0,White Hill Field Sandys Parish,0,1,2019,3
+HamzaTariq,Canada,Kenya,22,16,0,2,137.5,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,26
+HamzaTariq,Canada,Cayman Islands,8,8,0,0,100.0,0,0,0,0,0,0,White Hill Field Sandys Parish,0,2,2019,24
+HamzaTariq,Canada,Nigeria,33,16,0,3,206.25,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2019,47
+HamzaTariq,Canada,Hong Kong,17,14,3,0,121.42857142857142,0,0,0,0,0,0,Tolerance Oval,0,0,2019,20
+HamzaTariq,Canada,Kenya,4,7,0,0,57.14285714285714,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2013,0
+HamzaTariq,Canada,Jersey,0,2,0,0,0.0,0,0,0,0,0,0,Tolerance Oval,0,0,2019,-8
+HamzaTariq,Canada,Scotland,71,78,13,1,91.02564102564102,0,0,0,0,0,0,Hagley Oval,0,1,2014,102
+HamzaTariq,Canada,Netherlands,0,5,0,0,0.0,0,0,0,0,0,0,Bay Oval,0,0,2014,-8
+HamzaTariq,Canada,Ireland,4,13,0,0,30.76923076923077,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2011,-2
+HamzaTariq,Canada,Ireland,24,44,1,1,54.54545454545454,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2011,23
+HamzaTariq,Canada,Kenya,0,4,0,0,0.0,0,0,0,0,0,0,ICC Global Cricket Academy,0,0,2013,-8

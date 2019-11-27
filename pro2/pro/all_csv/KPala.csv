@@ -1,4 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KPala,Papua New Guinea,Ireland,19,15,2,0,126.66666666666666,0,0,0,0,0,0,Civil Service Cricket Club Stormont,21
-KPala,Papua New Guinea,Nepal,22,16,1,2,137.5,0,0,0,0,0,0,The Village Malahide,27
-KPala,Papua New Guinea,Ireland,19,15,2,0,126.66666666666666,0,0,0,0,0,0,Civil Service Cricket Club Stormont,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KPala,Papua New Guinea,Nepal,22,16,1,2,137.5,0,0,0,0,0,0,The Village Malahide,0,1,2015,35
+KPala,Papua New Guinea,Ireland,19,15,2,0,126.66666666666666,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2015,21

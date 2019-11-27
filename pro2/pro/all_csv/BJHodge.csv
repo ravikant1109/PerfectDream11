@@ -1,22 +1,28 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BJHodge,Australia,India,11,10,0,1,110.00000000000001,0,0,0,0,0,0,Kingsmead,13
-BJHodge,Australia,South Africa,21,10,1,2,210.0,0,0,0,0,0,0,Kingsmead,26
-BJHodge,Australia,West Indies,35,26,2,1,134.6153846153846,0,0,0,0,0,0,Shere Bangla National Stadium,39
-BJHodge,Australia,India,11,10,0,1,110.00000000000001,0,0,0,0,0,0,Kingsmead,13
-BJHodge,Australia,South Africa,21,10,1,2,210.0,0,0,0,0,0,0,Kingsmead,26
-BJHodge,Australia,West Indies,35,26,2,1,134.6153846153846,0,0,0,0,0,0,Shere Bangla National Stadium,39
-BJHodge,Australia,India,11,10,0,1,110.00000000000001,0,0,0,0,0,0,Kingsmead,13
-BJHodge,Australia,South Africa,21,10,1,2,210.0,0,0,0,0,0,0,Kingsmead,26
-BJHodge,Australia,West Indies,35,26,2,1,134.6153846153846,0,0,0,0,0,0,Shere Bangla National Stadium,39
-BJHodge,Australia,Pakistan,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Shere Bangla National Stadium,0
-BJHodge,Australia,India,10,10,1,0,100.0,0,0,0,0,0,0,Melbourne Cricket Ground,11
-BJHodge,Australia,Pakistan,36,29,3,0,124.13793103448276,0,0,0,0,0,0,New Wanderers Stadium,39
-BJHodge,Australia,India,13,18,0,0,72.22222222222221,12,2,15,1,0,7.5,Shere Bangla National Stadium,38
-BJHodge,Australia,India,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Brabourne Stadium,-4
-BJHodge,Australia,England,0,0,0,0,0,5,0,10,0,0,0,Melbourne Cricket Ground,0
-BJHodge,Australia,South Africa,11,5,0,1,220.00000000000003,0,0,0,0,0,0,SuperSport Park,13
-BJHodge,Australia,Zimbabwe,35,22,2,2,159.0909090909091,11,1,20,0,0,20.0,Newlands,41
-BJHodge,Australia,England,7,7,1,0,100.0,0,0,0,0,0,0,Stadium Australia,8
-BJHodge,Australia,India,11,10,0,1,110.00000000000001,0,0,0,0,0,0,Kingsmead,13
-BJHodge,Australia,South Africa,21,10,1,2,210.0,0,0,0,0,0,0,Kingsmead,26
-BJHodge,Australia,West Indies,35,26,2,1,134.6153846153846,0,0,0,0,0,0,Shere Bangla National Stadium,39
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BJHodge,Australia,South Africa,21,10,1,2,210.0,0,0,0,0,0,0,Kingsmead,0,0,2014,26
+BJHodge,Australia,Pakistan,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,0
+BJHodge,Australia,India,11,10,0,1,110.00000000000001,0,0,0,0,0,0,Kingsmead,0,1,2007,21
+BJHodge,Australia,England,0,0,0,0,0,5,0,10,0,0,0,Melbourne Cricket Ground,1,1,2014,20
+BJHodge,Australia,England,7,7,1,0,100.0,0,0,0,0,0,0,Stadium Australia,0,0,2014,8
+BJHodge,Australia,India,10,10,1,0,100.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2008,19
+BJHodge,Australia,Zimbabwe,35,22,2,2,159.0909090909091,11,1,20,0,0,20.0,Newlands,0,0,2007,41
+BJHodge,Australia,India,13,18,0,0,72.22222222222221,12,2,15,1,0,7.5,Shere Bangla National Stadium,0,0,2014,38
+BJHodge,Australia,Pakistan,36,29,3,0,124.13793103448276,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,39
+BJHodge,Australia,West Indies,35,26,2,1,134.6153846153846,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,39
+BJHodge,Australia,India,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Brabourne Stadium,0,0,2007,-4
+BJHodge,Australia,South Africa,11,5,0,1,220.00000000000003,0,0,0,0,0,0,SuperSport Park,0,1,2014,21
+BJHodge,Australia,India,17,32,1,0,53.125,0,0,0,0,0,0,Sector 16 Stadium,0,0,2007,14
+BJHodge,Australia,New Zealand,22,50,2,0,44.0,0,0,0,0,0,0,Westpac Stadium,0,0,2007,18
+BJHodge,Australia,India,3,10,0,0,30.0,0,0,0,0,0,0,Nehru Stadium,0,2,2007,13
+BJHodge,Australia,England,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2007,3
+BJHodge,Australia,Scotland,29,28,2,0,103.57142857142858,35,5,17,1,0,3.4,Warner Park Basseterre,0,0,2007,62
+BJHodge,Australia,New Zealand,97,86,10,2,112.79069767441861,0,0,0,0,0,0,Eden Park,0,0,2007,119
+BJHodge,Australia,England,49,46,5,1,106.5217391304348,0,0,0,0,0,0,Sydney Cricket Ground,1,2,2007,84
+BJHodge,Australia,India,3,7,0,0,42.857142857142854,11,1,18,0,0,18.0,Rajiv Gandhi International Stadium Uppal,0,0,2007,-3
+BJHodge,Australia,England,5,10,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2007,1
+BJHodge,Australia,New Zealand,12,10,0,1,120.0,0,0,0,0,0,0,Seddon Park,0,1,2007,22
+BJHodge,Australia,India,20,28,4,0,71.42857142857143,0,0,0,0,0,0,Vidarbha Cricket Association Ground,0,2,2007,40
+BJHodge,Australia,Netherlands,123,92,8,7,133.69565217391303,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,161
+BJHodge,Australia,New Zealand,99,88,7,1,112.5,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2007,124
+BJHodge,Australia,India,0,8,0,0,0.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2007,-8
+BJHodge,Australia,India,16,31,1,0,51.61290322580645,0,0,0,0,0,0,Wankhede Stadium,0,0,2007,13

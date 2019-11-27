@@ -1,8 +1,39 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DBLPowell,West Indies,Bangladesh,1,1,0,0,100.0,17,2,28,0,0,14.0,New Wanderers Stadium,-5
-DBLPowell,West Indies,England,0,0,0,0,0,19,3,40,0,0,13.333333333333334,Kennington Oval,-6
-DBLPowell,West Indies,South Africa,0,0,0,0,0,18,3,10,1,0,3.3333333333333335,St George's Park,31
-DBLPowell,West Indies,England,0,0,0,0,0,24,4,28,1,0,7.0,Kennington Oval,25
-DBLPowell,West Indies,South Africa,0,0,0,0,0,27,4,35,0,0,8.75,New Wanderers Stadium,0
-DBLPowell,West Indies,Bangladesh,1,1,0,0,100.0,17,2,28,0,0,14.0,New Wanderers Stadium,-5
-DBLPowell,West Indies,England,0,0,0,0,0,19,3,40,0,0,13.333333333333334,Kennington Oval,-6
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DBLPowell,West Indies,Bangladesh,1,1,0,0,100.0,17,2,28,0,0,14.0,New Wanderers Stadium,0,1,2007,3
+DBLPowell,West Indies,South Africa,0,0,0,0,0,18,3,10,1,0,3.3333333333333335,St George's Park,0,0,2007,31
+DBLPowell,West Indies,England,0,0,0,0,0,19,3,40,0,0,13.333333333333334,Kennington Oval,0,1,2007,2
+DBLPowell,West Indies,England,0,0,0,0,0,24,4,28,1,0,7.0,Kennington Oval,0,0,2007,25
+DBLPowell,West Indies,South Africa,0,0,0,0,0,27,4,35,0,0,8.75,New Wanderers Stadium,0,0,2007,0
+DBLPowell,West Indies,Australia,0,0,0,0,0,60,10,70,2,2,7.0,Warner Park Basseterre,0,0,2008,66
+DBLPowell,West Indies,England,0,1,0,0,0.0,61,10,59,0,1,5.9,Kensington Oval Bridgetown,0,1,2007,10
+DBLPowell,West Indies,Pakistan,6,7,0,0,85.71428571428571,49,8,51,3,0,6.375,Sheikh Zayed Stadium,1,1,2008,101
+DBLPowell,West Indies,Australia,10,25,1,0,40.0,59,9,50,0,0,5.555555555555555,Warner Park Basseterre,0,2,2008,23
+DBLPowell,West Indies,India,1,8,0,0,12.5,49,8,70,1,0,8.75,Indian Petrochemicals Corporation Limited Sports Complex Ground,0,0,2007,20
+DBLPowell,West Indies,Australia,2,4,0,0,50.0,36,6,33,0,0,5.5,National Cricket Stadium St George's,0,0,2008,0
+DBLPowell,West Indies,India,0,0,0,0,0,38,6,42,1,1,7.0,MA Chidambaram Stadium Chepauk,0,0,2007,33
+DBLPowell,West Indies,South Africa,0,1,0,0,0.0,44,7,38,1,1,5.428571428571429,SuperSport Park,0,0,2008,27
+DBLPowell,West Indies,Ireland,0,0,0,0,0,54,9,28,2,2,3.111111111111111,Sabina Park Kingston,0,0,2007,72
+DBLPowell,West Indies,Zimbabwe,0,0,0,0,0,37,6,15,1,1,2.5,Sabina Park Kingston,0,1,2007,47
+DBLPowell,West Indies,England,1,8,0,0,12.5,59,9,47,0,2,5.222222222222222,Lord's,0,0,2007,13
+DBLPowell,West Indies,South Africa,48,38,2,3,126.3157894736842,60,10,78,0,0,7.8,National Cricket Stadium St George's,0,0,2007,56
+DBLPowell,West Indies,Zimbabwe,1,1,0,0,100.0,60,10,39,2,1,3.9,Harare Sports Club,0,0,2007,65
+DBLPowell,West Indies,Pakistan,1,1,0,0,100.0,59,9,43,2,3,4.777777777777778,Sabina Park Kingston,0,0,2007,79
+DBLPowell,West Indies,South Africa,0,0,0,0,0,45,7,41,2,0,5.857142857142857,New Wanderers Stadium,0,0,2008,52
+DBLPowell,West Indies,Pakistan,0,0,0,0,0,63,10,34,3,1,3.4,Multan Cricket Stadium,0,1,2006,97
+DBLPowell,West Indies,Bangladesh,0,0,0,0,0,63,10,39,3,1,3.9,Kensington Oval Bridgetown,0,0,2007,89
+DBLPowell,West Indies,Sri Lanka,2,4,0,0,50.0,63,10,39,2,1,3.9,Providence Stadium,0,0,2007,62
+DBLPowell,West Indies,Zimbabwe,0,0,0,0,0,55,9,50,1,1,5.555555555555555,Harare Sports Club,0,0,2007,35
+DBLPowell,West Indies,England,0,0,0,0,0,35,5,27,1,0,5.4,Providence Stadium,0,1,2009,35
+DBLPowell,West Indies,Sri Lanka,0,0,0,0,0,41,6,21,0,0,3.5,Queen's Park Oval Port of Spain,0,0,2008,6
+DBLPowell,West Indies,New Zealand,1,4,0,0,25.0,42,7,32,3,0,4.571428571428571,Westpac Stadium,0,0,2009,74
+DBLPowell,West Indies,Sri Lanka,0,0,0,0,0,60,10,51,2,0,5.1,Beausejour Stadium Gros Islet,0,1,2008,60
+DBLPowell,West Indies,England,0,0,0,0,0,59,9,45,4,2,5.0,Trent Bridge,0,0,2007,126
+DBLPowell,West Indies,Pakistan,0,1,0,0,0.0,64,10,63,0,0,6.3,Sheikh Zayed Stadium,0,0,2008,-8
+DBLPowell,West Indies,Australia,21,12,1,2,175.0,59,9,29,1,2,3.2222222222222223,National Cricket Stadium St George's,0,0,2008,73
+DBLPowell,West Indies,Ireland,0,0,0,0,0,43,7,30,2,2,4.285714285714286,Clontarf Cricket Club Ground,0,0,2007,70
+DBLPowell,West Indies,Zimbabwe,0,0,0,0,0,49,8,39,0,1,4.875,Queens Sports Club,0,0,2007,12
+DBLPowell,West Indies,South Africa,0,0,0,0,0,62,10,43,1,1,4.3,St George's Park,0,0,2008,37
+DBLPowell,West Indies,Pakistan,0,0,0,0,0,61,10,52,0,1,5.2,National Stadium,0,0,2006,10
+DBLPowell,West Indies,Australia,5,10,0,0,50.0,59,9,58,2,2,6.444444444444445,Sir Vivian Richards Stadium North Sound,0,0,2007,67
+DBLPowell,West Indies,South Africa,0,1,0,0,0.0,60,10,51,1,1,5.1,Kingsmead,0,0,2008,27
+DBLPowell,West Indies,New Zealand,0,1,0,0,0.0,62,10,40,2,1,4.0,Sir Vivian Richards Stadium North Sound,0,0,2007,54

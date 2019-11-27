@@ -1,8 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BBChari,Zimbabwe,Nepal,19,18,4,0,105.55555555555556,0,0,0,0,0,0,Indian Association Ground,23
-BBChari,Zimbabwe,Nepal,19,18,4,0,105.55555555555556,0,0,0,0,0,0,Indian Association Ground,23
-BBChari,Zimbabwe,Nepal,19,18,4,0,105.55555555555556,0,0,0,0,0,0,Indian Association Ground,23
-BBChari,Zimbabwe,Singapore,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Indian Association Ground,-4
-BBChari,Zimbabwe,Nepal,0,4,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,-8
-BBChari,Zimbabwe,Nepal,19,18,4,0,105.55555555555556,0,0,0,0,0,0,Indian Association Ground,23
-BBChari,Zimbabwe,Singapore,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Indian Association Ground,-4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BBChari,Zimbabwe,Nepal,0,4,0,0,0.0,0,0,0,0,0,0,Indian Association Ground,0,1,2019,0
+BBChari,Zimbabwe,Singapore,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Indian Association Ground,0,1,2019,4
+BBChari,Zimbabwe,Nepal,19,18,4,0,105.55555555555556,0,0,0,0,0,0,Indian Association Ground,0,0,2019,23
+BBChari,Zimbabwe,Sri Lanka,11,28,1,0,39.285714285714285,0,0,0,0,0,0,Queens Sports Club,0,0,2016,6
+BBChari,Zimbabwe,Sri Lanka,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Harare Sports Club,0,0,2016,5
+BBChari,Zimbabwe,Pakistan,16,36,1,0,44.44444444444444,0,0,0,0,0,0,Harare Sports Club,0,0,2015,11
+BBChari,Zimbabwe,West Indies,19,47,1,0,40.42553191489361,0,0,0,0,0,0,Queens Sports Club,0,0,2016,14
+BBChari,Zimbabwe,West Indies,15,43,1,0,34.883720930232556,0,0,0,0,0,0,Queens Sports Club,0,0,2016,10
+BBChari,Zimbabwe,Ireland,17,58,2,0,29.310344827586203,0,0,0,0,0,0,Harare Sports Club,0,1,2015,21
+BBChari,Zimbabwe,Pakistan,4,8,0,0,50.0,0,0,0,0,0,0,Harare Sports Club,0,1,2015,8

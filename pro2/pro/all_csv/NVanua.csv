@@ -1,18 +1,27 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-NVanua,Papua New Guinea,Netherlands,2,3,0,0,66.66666666666666,24,4,25,0,0,6.25,ICC Academy,0
-NVanua,Papua New Guinea,Ireland,28,10,0,4,280.0,24,4,22,1,0,5.5,Civil Service Cricket Club Stormont,63
-NVanua,Papua New Guinea,United Arab Emirates,5,3,0,0,166.66666666666669,26,4,35,3,0,8.75,Sheikh Zayed Stadium,80
-NVanua,Papua New Guinea,United Arab Emirates,14,10,0,0,140.0,24,4,20,1,0,5.0,Sheikh Zayed Stadium,41
-NVanua,Papua New Guinea,Ireland,1,2,0,0,50.0,25,4,24,1,0,6.0,Tony Ireland Stadium,22
-NVanua,Papua New Guinea,Scotland,33,20,2,1,165.0,17,2,15,1,0,7.5,ICC Academy,62
-NVanua,Papua New Guinea,Bermuda,0,0,0,0,0,13,2,14,3,1,7.0,ICC Academy,83
-NVanua,Papua New Guinea,United Arab Emirates,0,1,0,0,0.0,21,3,42,2,0,14.0,Sheikh Zayed Stadium,36
-NVanua,Papua New Guinea,Namibia,0,2,0,0,0.0,11,1,9,1,0,9.0,ICC Academy Ground No 2,17
-NVanua,Papua New Guinea,Afghanistan,22,10,3,1,220.00000000000003,20,3,20,2,0,6.666666666666667,The Village Malahide,77
-NVanua,Papua New Guinea,Ireland,26,17,0,2,152.94117647058823,11,1,19,0,0,19.0,Tony Ireland Stadium,30
-NVanua,Papua New Guinea,Singapore,0,0,0,0,0,24,4,31,1,0,7.75,Dubai International Cricket Stadium,25
-NVanua,Papua New Guinea,Kenya,54,50,3,2,108.0,18,3,20,2,0,6.666666666666667,Dubai International Cricket Stadium,119
-NVanua,Papua New Guinea,Nepal,0,0,0,0,0,19,3,17,1,0,5.666666666666667,The Village Malahide,27
-NVanua,Papua New Guinea,Netherlands,2,3,0,0,66.66666666666666,24,4,25,0,0,6.25,ICC Academy,0
-NVanua,Papua New Guinea,Ireland,28,10,0,4,280.0,24,4,22,1,0,5.5,Civil Service Cricket Club Stormont,63
-NVanua,Papua New Guinea,United Arab Emirates,5,3,0,0,166.66666666666669,26,4,35,3,0,8.75,Sheikh Zayed Stadium,80
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+NVanua,Papua New Guinea,Netherlands,2,3,0,0,66.66666666666666,24,4,25,0,0,6.25,ICC Academy,0,0,2019,0
+NVanua,Papua New Guinea,Nepal,0,0,0,0,0,19,3,17,1,0,5.666666666666667,The Village Malahide,1,0,2015,39
+NVanua,Papua New Guinea,United Arab Emirates,14,10,0,0,140.0,24,4,20,1,0,5.0,Sheikh Zayed Stadium,0,0,2017,41
+NVanua,Papua New Guinea,Ireland,26,17,0,2,152.94117647058823,11,1,19,0,0,19.0,Tony Ireland Stadium,0,1,2016,38
+NVanua,Papua New Guinea,Scotland,33,20,2,1,165.0,17,2,15,1,0,7.5,ICC Academy,0,1,2019,70
+NVanua,Papua New Guinea,Afghanistan,22,10,3,1,220.00000000000003,20,3,20,2,0,6.666666666666667,The Village Malahide,0,0,2015,77
+NVanua,Papua New Guinea,United Arab Emirates,5,3,0,0,166.66666666666669,26,4,35,3,0,8.75,Sheikh Zayed Stadium,0,0,2017,80
+NVanua,Papua New Guinea,Kenya,54,50,3,2,108.0,18,3,20,2,0,6.666666666666667,Dubai International Cricket Stadium,0,0,2019,119
+NVanua,Papua New Guinea,United Arab Emirates,0,1,0,0,0.0,21,3,42,2,0,14.0,Sheikh Zayed Stadium,0,0,2017,36
+NVanua,Papua New Guinea,Namibia,0,2,0,0,0.0,11,1,9,1,0,9.0,ICC Academy Ground No 2,1,0,2019,29
+NVanua,Papua New Guinea,Bermuda,0,0,0,0,0,13,2,14,3,1,7.0,ICC Academy,1,0,2019,95
+NVanua,Papua New Guinea,Ireland,28,10,0,4,280.0,24,4,22,1,0,5.5,Civil Service Cricket Club Stormont,0,1,2015,71
+NVanua,Papua New Guinea,Ireland,1,2,0,0,50.0,25,4,24,1,0,6.0,Tony Ireland Stadium,0,1,2016,30
+NVanua,Papua New Guinea,Singapore,0,0,0,0,0,24,4,31,1,0,7.75,Dubai International Cricket Stadium,0,0,2019,25
+NVanua,Papua New Guinea,United States of America,1,12,0,0,8.333333333333332,33,5,17,1,1,3.4,Central Broward Regional Park Stadium Turf Ground,0,1,2019,42
+NVanua,Papua New Guinea,United States of America,15,25,1,0,60.0,39,6,44,1,1,7.333333333333333,Central Broward Regional Park Stadium Turf Ground,0,0,2019,47
+NVanua,Papua New Guinea,Scotland,5,15,0,0,33.33333333333333,17,2,18,0,0,9.0,Mannofield Park,0,0,2019,-1
+NVanua,Papua New Guinea,United States of America,28,12,2,3,233.33333333333334,60,10,37,4,2,3.7,Affies Park,0,0,2019,166
+NVanua,Papua New Guinea,Scotland,4,4,1,0,100.0,30,5,52,1,0,10.4,Mannofield Park,1,0,2019,38
+NVanua,Papua New Guinea,Hong Kong,0,1,0,0,0.0,65,10,46,1,1,4.6,Mission Road Ground Mong Kok,0,0,2016,29
+NVanua,Papua New Guinea,Hong Kong,0,0,0,0,0,16,2,21,0,0,10.5,Mission Road Ground Mong Kok,0,0,2016,-4
+NVanua,Papua New Guinea,Namibia,15,18,0,1,83.33333333333334,49,8,70,1,0,8.75,Central Broward Regional Park Stadium Turf Ground,1,0,2019,54
+NVanua,Papua New Guinea,Hong Kong,8,15,0,0,53.333333333333336,45,7,31,0,0,4.428571428571429,Mission Road Ground Mong Kok,0,0,2016,8
+NVanua,Papua New Guinea,Namibia,30,32,0,3,93.75,56,9,27,1,2,3.0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,83
+NVanua,Papua New Guinea,Oman,2,5,0,0,40.0,40,6,39,1,0,6.5,Mannofield Park,0,0,2019,21
+NVanua,Papua New Guinea,Oman,4,9,0,0,44.44444444444444,61,10,47,0,1,4.7,Mannofield Park,0,0,2019,10

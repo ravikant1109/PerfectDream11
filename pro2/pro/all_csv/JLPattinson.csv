@@ -1,5 +1,19 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JLPattinson,Australia,West Indies,0,0,0,0,0,18,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0
-JLPattinson,Australia,South Africa,5,3,1,0,166.66666666666669,24,4,18,2,0,4.5,New Wanderers Stadium,60
-JLPattinson,Australia,West Indies,0,0,0,0,0,13,2,34,0,0,17.0,Kensington Oval Bridgetown,-6
-JLPattinson,Australia,South Africa,0,0,0,0,0,24,4,32,1,0,8.0,Newlands,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JLPattinson,Australia,West Indies,0,0,0,0,0,18,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0,1,2012,8
+JLPattinson,Australia,South Africa,5,3,1,0,166.66666666666669,24,4,18,2,0,4.5,New Wanderers Stadium,0,1,2011,68
+JLPattinson,Australia,West Indies,0,0,0,0,0,13,2,34,0,0,17.0,Kensington Oval Bridgetown,0,0,2012,-6
+JLPattinson,Australia,South Africa,0,0,0,0,0,24,4,32,1,0,8.0,Newlands,0,0,2011,25
+JLPattinson,Australia,England,0,0,0,0,0,38,6,41,0,0,6.833333333333333,Sydney Cricket Ground,0,0,2014,0
+JLPattinson,Australia,Pakistan,0,0,0,0,0,61,10,50,0,1,5.0,Sharjah Cricket Stadium,0,0,2012,10
+JLPattinson,Australia,England,13,28,1,0,46.42857142857143,36,6,34,0,0,5.666666666666667,Old Trafford,0,0,2012,10
+JLPattinson,Australia,Afghanistan,1,2,0,0,50.0,57,9,47,3,2,5.222222222222222,Sharjah Cricket Association Stadium,0,0,2012,90
+JLPattinson,Australia,Sri Lanka,0,2,0,0,0.0,60,10,42,2,1,4.2,R Premadasa Stadium,0,0,2011,54
+JLPattinson,Australia,England,2,8,0,0,25.0,37,6,36,0,1,6.0,Old Trafford,0,1,2015,12
+JLPattinson,Australia,Bangladesh,0,0,0,0,0,42,7,43,1,0,6.142857142857143,Shere Bangla National Stadium,0,1,2011,33
+JLPattinson,Australia,Sri Lanka,12,24,1,0,50.0,60,10,53,4,1,5.3,Melbourne Cricket Ground,0,0,2012,127
+JLPattinson,Australia,England,8,6,0,0,133.33333333333331,61,10,46,0,3,4.6,Riverside Ground,0,0,2012,36
+JLPattinson,Australia,Pakistan,0,0,0,0,0,56,9,27,3,0,3.0,Sharjah Cricket Stadium,0,0,2012,81
+JLPattinson,Australia,Pakistan,2,2,0,0,100.0,49,8,46,1,0,5.75,Sheikh Zayed Stadium,0,0,2012,29
+JLPattinson,Australia,Sri Lanka,0,0,0,0,0,52,8,47,1,1,5.875,Adelaide Oval,0,0,2012,35
+JLPattinson,Australia,England,0,0,0,0,0,56,9,75,0,0,8.333333333333334,Headingley,0,0,2015,0
+JLPattinson,Australia,Sri Lanka,0,0,0,0,0,31,5,49,0,0,9.8,Brisbane Cricket Ground Woolloongabba,0,1,2012,6

@@ -1,41 +1,22 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-PKhadka,Nepal,Hong Kong,0,1,0,0,0.0,11,1,5,0,0,5.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-8
-PKhadka,Nepal,Kuwait,68,43,11,1,158.13953488372093,0,0,0,0,0,0,Indian Association Ground,89
-PKhadka,Nepal,Netherlands,2,6,0,0,33.33333333333333,24,4,43,0,0,10.75,VRA Ground,-8
-PKhadka,Nepal,Zimbabwe,18,24,3,0,75.0,11,1,10,1,0,10.0,Indian Association Ground,46
-PKhadka,Nepal,Ireland,25,15,2,2,166.66666666666669,5,0,12,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),31
-PKhadka,Nepal,Hong Kong,0,1,0,0,0.0,11,1,5,0,0,5.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-8
-PKhadka,Nepal,Kuwait,68,43,11,1,158.13953488372093,0,0,0,0,0,0,Indian Association Ground,89
-PKhadka,Nepal,Netherlands,2,6,0,0,33.33333333333333,24,4,43,0,0,10.75,VRA Ground,-8
-PKhadka,Nepal,Zimbabwe,18,24,3,0,75.0,11,1,10,1,0,10.0,Indian Association Ground,46
-PKhadka,Nepal,Ireland,25,15,2,2,166.66666666666669,5,0,12,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),31
-PKhadka,Nepal,Hong Kong,0,1,0,0,0.0,11,1,5,0,0,5.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-8
-PKhadka,Nepal,Kuwait,68,43,11,1,158.13953488372093,0,0,0,0,0,0,Indian Association Ground,89
-PKhadka,Nepal,Netherlands,2,6,0,0,33.33333333333333,24,4,43,0,0,10.75,VRA Ground,-8
-PKhadka,Nepal,Zimbabwe,18,24,3,0,75.0,11,1,10,1,0,10.0,Indian Association Ground,46
-PKhadka,Nepal,Ireland,25,15,2,2,166.66666666666669,5,0,12,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),31
-PKhadka,Nepal,Afghanistan,1,5,0,0,20.0,17,2,14,0,0,7.0,Zahur Ahmed Chowdhury Stadium,-5
-PKhadka,Nepal,Malaysia,86,54,7,5,159.25925925925927,5,0,4,0,0,0,Kinrara Academy Oval,111
-PKhadka,Nepal,Singapore,106,55,7,9,192.72727272727272,0,0,0,0,0,0,Indian Association Ground,147
-PKhadka,Nepal,Malaysia,23,20,2,2,114.99999999999999,11,1,23,1,0,23.0,Kinrara Academy Oval,54
-PKhadka,Nepal,Hong Kong,1,11,0,0,9.090909090909092,19,3,13,0,1,4.333333333333333,Civil Service Cricket Club Stormont,7
-PKhadka,Nepal,Netherlands,33,45,1,1,73.33333333333333,5,0,14,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),36
-PKhadka,Nepal,Hong Kong,41,42,4,0,97.61904761904762,11,1,8,1,0,8.0,Zahur Ahmed Chowdhury Stadium,70
-PKhadka,Nepal,Zimbabwe,12,16,2,0,75.0,12,2,26,1,0,13.0,Indian Association Ground,33
-PKhadka,Nepal,Singapore,12,10,0,1,120.0,0,0,0,0,0,0,Indian Association Ground,14
-PKhadka,Nepal,Qatar,28,18,4,1,155.55555555555557,0,0,0,0,0,0,Indian Association Ground,34
-PKhadka,Nepal,Ireland,10,17,1,0,58.82352941176471,13,2,8,0,0,4.0,Civil Service Cricket Club Stormont,11
-PKhadka,Nepal,Bangladesh,41,38,5,0,107.89473684210526,17,2,24,0,0,12.0,Zahur Ahmed Chowdhury Stadium,40
-PKhadka,Nepal,Oman,5,5,1,0,100.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),6
-PKhadka,Nepal,Netherlands,36,29,2,0,124.13793103448276,5,0,9,0,0,0,Hazelaarweg,38
-PKhadka,Nepal,Hong Kong,0,1,0,0,0.0,4,0,3,1,0,0,P Sara Oval,17
-PKhadka,Nepal,Papua New Guinea,5,9,0,0,55.55555555555556,24,4,30,0,0,7.5,The Village Malahide,1
-PKhadka,Nepal,Hong Kong,0,1,0,0,0.0,11,1,5,0,0,5.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-8
-PKhadka,Nepal,Kuwait,68,43,11,1,158.13953488372093,0,0,0,0,0,0,Indian Association Ground,89
-PKhadka,Nepal,Netherlands,2,6,0,0,33.33333333333333,24,4,43,0,0,10.75,VRA Ground,-8
-PKhadka,Nepal,Zimbabwe,18,24,3,0,75.0,11,1,10,1,0,10.0,Indian Association Ground,46
-PKhadka,Nepal,Ireland,25,15,2,2,166.66666666666669,5,0,12,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),31
-PKhadka,Nepal,Afghanistan,1,5,0,0,20.0,17,2,14,0,0,7.0,Zahur Ahmed Chowdhury Stadium,-5
-PKhadka,Nepal,Malaysia,86,54,7,5,159.25925925925927,5,0,4,0,0,0,Kinrara Academy Oval,111
-PKhadka,Nepal,Singapore,106,55,7,9,192.72727272727272,0,0,0,0,0,0,Indian Association Ground,147
-PKhadka,Nepal,Malaysia,23,20,2,2,114.99999999999999,11,1,23,1,0,23.0,Kinrara Academy Oval,54
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+PKhadka,Nepal,Papua New Guinea,5,9,0,0,55.55555555555556,24,4,30,0,0,7.5,The Village Malahide,0,0,2015,1
+PKhadka,Nepal,Qatar,28,18,4,1,155.55555555555557,0,0,0,0,0,0,Indian Association Ground,0,0,2019,34
+PKhadka,Nepal,Netherlands,36,29,2,0,124.13793103448276,5,0,9,0,0,0,Hazelaarweg,1,1,2015,58
+PKhadka,Nepal,Hong Kong,41,42,4,0,97.61904761904762,11,1,8,1,0,8.0,Zahur Ahmed Chowdhury Stadium,0,1,2014,78
+PKhadka,Nepal,Hong Kong,0,1,0,0,0.0,11,1,5,0,0,5.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,0
+PKhadka,Nepal,Afghanistan,1,5,0,0,20.0,17,2,14,0,0,7.0,Zahur Ahmed Chowdhury Stadium,0,2,2014,11
+PKhadka,Nepal,Ireland,10,17,1,0,58.82352941176471,13,2,8,0,0,4.0,Civil Service Cricket Club Stormont,0,0,2015,11
+PKhadka,Nepal,Malaysia,86,54,7,5,159.25925925925927,5,0,4,0,0,0,Kinrara Academy Oval,0,0,2019,111
+PKhadka,Nepal,Zimbabwe,12,16,2,0,75.0,12,2,26,1,0,13.0,Indian Association Ground,0,0,2019,33
+PKhadka,Nepal,Singapore,106,55,7,9,192.72727272727272,0,0,0,0,0,0,Indian Association Ground,0,0,2019,147
+PKhadka,Nepal,Hong Kong,0,1,0,0,0.0,4,0,3,1,0,0,P Sara Oval,0,0,2014,17
+PKhadka,Nepal,Singapore,12,10,0,1,120.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,14
+PKhadka,Nepal,Netherlands,2,6,0,0,33.33333333333333,24,4,43,0,0,10.75,VRA Ground,0,0,2015,-8
+PKhadka,Nepal,Oman,5,5,1,0,100.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,6
+PKhadka,Nepal,Zimbabwe,18,24,3,0,75.0,11,1,10,1,0,10.0,Indian Association Ground,0,0,2019,46
+PKhadka,Nepal,Bangladesh,41,38,5,0,107.89473684210526,17,2,24,0,0,12.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,40
+PKhadka,Nepal,Kuwait,68,43,11,1,158.13953488372093,0,0,0,0,0,0,Indian Association Ground,0,2,2019,105
+PKhadka,Nepal,Malaysia,23,20,2,2,114.99999999999999,11,1,23,1,0,23.0,Kinrara Academy Oval,0,1,2019,62
+PKhadka,Nepal,Hong Kong,1,11,0,0,9.090909090909092,19,3,13,0,1,4.333333333333333,Civil Service Cricket Club Stormont,0,0,2015,7
+PKhadka,Nepal,Netherlands,33,45,1,1,73.33333333333333,5,0,14,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,44
+PKhadka,Nepal,Ireland,25,15,2,2,166.66666666666669,5,0,12,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,39

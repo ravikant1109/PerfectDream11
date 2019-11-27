@@ -1,2 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SGBorthwick,England,West Indies,14,16,2,0,87.5,23,3,15,1,0,5.0,Kennington Oval,43
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SGBorthwick,England,West Indies,14,16,2,0,87.5,23,3,15,1,0,5.0,Kennington Oval,0,1,2011,51
+SGBorthwick,England,Ireland,15,9,1,1,166.66666666666669,5,0,13,0,0,0,Clontarf Cricket Club Ground,1,0,2011,30
+SGBorthwick,England,India,3,7,0,0,42.857142857142854,47,7,59,0,0,8.428571428571429,Wankhede Stadium,0,0,2011,-3

@@ -1,25 +1,10 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AhmedFaizMohammadNoor,Malaysia,Maldives,5,5,0,0,100.0,0,0,0,0,0,0,Kinrara Academy Oval,5
-AhmedFaizMohammadNoor,Malaysia,Nepal,9,10,1,0,90.0,0,0,0,0,0,0,Indian Association Ground,10
-AhmedFaizMohammadNoor,Malaysia,Kuwait,15,13,0,1,115.38461538461537,0,0,0,0,0,0,Indian Association Ground,17
-AhmedFaizMohammadNoor,Malaysia,Singapore,7,13,0,0,53.84615384615385,0,0,0,0,0,0,Indian Association Ground,3
-AhmedFaizMohammadNoor,Malaysia,Maldives,5,5,0,0,100.0,0,0,0,0,0,0,Kinrara Academy Oval,5
-AhmedFaizMohammadNoor,Malaysia,Nepal,9,10,1,0,90.0,0,0,0,0,0,0,Indian Association Ground,10
-AhmedFaizMohammadNoor,Malaysia,Kuwait,15,13,0,1,115.38461538461537,0,0,0,0,0,0,Indian Association Ground,17
-AhmedFaizMohammadNoor,Malaysia,Singapore,7,13,0,0,53.84615384615385,0,0,0,0,0,0,Indian Association Ground,3
-AhmedFaizMohammadNoor,Malaysia,Maldives,5,5,0,0,100.0,0,0,0,0,0,0,Kinrara Academy Oval,5
-AhmedFaizMohammadNoor,Malaysia,Nepal,9,10,1,0,90.0,0,0,0,0,0,0,Indian Association Ground,10
-AhmedFaizMohammadNoor,Malaysia,Kuwait,15,13,0,1,115.38461538461537,0,0,0,0,0,0,Indian Association Ground,17
-AhmedFaizMohammadNoor,Malaysia,Singapore,7,13,0,0,53.84615384615385,0,0,0,0,0,0,Indian Association Ground,3
-AhmedFaizMohammadNoor,Malaysia,Nepal,45,39,0,2,115.38461538461537,0,0,0,0,0,0,Kinrara Academy Oval,49
-AhmedFaizMohammadNoor,Malaysia,Nepal,17,17,0,1,100.0,0,0,0,0,0,0,Kinrara Academy Oval,19
-AhmedFaizMohammadNoor,Malaysia,Thailand,11,16,1,0,68.75,0,0,0,0,0,0,Kinrara Academy Oval,10
-AhmedFaizMohammadNoor,Malaysia,Thailand,27,20,4,0,135.0,0,0,0,0,0,0,Kinrara Academy Oval,31
-AhmedFaizMohammadNoor,Malaysia,Qatar,23,14,5,0,164.28571428571428,0,0,0,0,0,0,Indian Association Ground,28
-AhmedFaizMohammadNoor,Malaysia,Maldives,5,5,0,0,100.0,0,0,0,0,0,0,Kinrara Academy Oval,5
-AhmedFaizMohammadNoor,Malaysia,Nepal,9,10,1,0,90.0,0,0,0,0,0,0,Indian Association Ground,10
-AhmedFaizMohammadNoor,Malaysia,Kuwait,15,13,0,1,115.38461538461537,0,0,0,0,0,0,Indian Association Ground,17
-AhmedFaizMohammadNoor,Malaysia,Singapore,7,13,0,0,53.84615384615385,0,0,0,0,0,0,Indian Association Ground,3
-AhmedFaizMohammadNoor,Malaysia,Nepal,45,39,0,2,115.38461538461537,0,0,0,0,0,0,Kinrara Academy Oval,49
-AhmedFaizMohammadNoor,Malaysia,Nepal,17,17,0,1,100.0,0,0,0,0,0,0,Kinrara Academy Oval,19
-AhmedFaizMohammadNoor,Malaysia,Thailand,11,16,1,0,68.75,0,0,0,0,0,0,Kinrara Academy Oval,10
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AhmedFaizMohammadNoor,Malaysia,Thailand,11,16,1,0,68.75,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,10
+AhmedFaizMohammadNoor,Malaysia,Maldives,5,5,0,0,100.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,5
+AhmedFaizMohammadNoor,Malaysia,Nepal,45,39,0,2,115.38461538461537,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,49
+AhmedFaizMohammadNoor,Malaysia,Thailand,27,20,4,0,135.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,31
+AhmedFaizMohammadNoor,Malaysia,Singapore,7,13,0,0,53.84615384615385,0,0,0,0,0,0,Indian Association Ground,0,0,2019,3
+AhmedFaizMohammadNoor,Malaysia,Kuwait,15,13,0,1,115.38461538461537,0,0,0,0,0,0,Indian Association Ground,0,1,2019,25
+AhmedFaizMohammadNoor,Malaysia,Nepal,9,10,1,0,90.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,10
+AhmedFaizMohammadNoor,Malaysia,Nepal,17,17,0,1,100.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,19
+AhmedFaizMohammadNoor,Malaysia,Qatar,23,14,5,0,164.28571428571428,0,0,0,0,0,0,Indian Association Ground,0,1,2019,36

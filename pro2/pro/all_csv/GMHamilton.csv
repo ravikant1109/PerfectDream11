@@ -1,6 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GMHamilton,Scotland,Pakistan,2,5,0,0,40.0,0,0,0,0,0,0,Kingsmead,-4
-GMHamilton,Scotland,Ireland,5,3,0,0,166.66666666666669,0,0,0,0,0,0,Dubai International Cricket Stadium,5
-GMHamilton,Scotland,Netherlands,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Civil Service Cricket Club Stormont,5
-GMHamilton,Scotland,South Africa,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Kennington Oval,6
-GMHamilton,Scotland,Pakistan,2,5,0,0,40.0,0,0,0,0,0,0,Kingsmead,-4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GMHamilton,Scotland,Netherlands,7,11,0,0,63.63636363636363,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2008,5
+GMHamilton,Scotland,Ireland,5,3,0,0,166.66666666666669,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2010,5
+GMHamilton,Scotland,South Africa,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Kennington Oval,0,0,2009,6
+GMHamilton,Scotland,Pakistan,2,5,0,0,40.0,0,0,0,0,0,0,Kingsmead,0,1,2007,4
+GMHamilton,Scotland,Ireland,21,26,3,0,80.76923076923077,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2008,24
+GMHamilton,Scotland,Kenya,58,62,2,1,93.54838709677419,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,70
+GMHamilton,Scotland,Netherlands,4,14,0,0,28.57142857142857,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,-2
+GMHamilton,Scotland,Australia,3,18,0,0,16.666666666666664,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,-3
+GMHamilton,Scotland,South Africa,4,14,0,0,28.57142857142857,0,0,0,0,0,0,Warner Park Basseterre,0,0,2007,-2
+GMHamilton,Scotland,Afghanistan,2,12,0,0,16.666666666666664,0,0,0,0,0,0,Cambusdoon New Ground,0,0,2010,-4
+GMHamilton,Scotland,Kenya,9,30,0,0,30.0,0,0,0,0,0,0,Cambusdoon New Ground,0,0,2008,3
+GMHamilton,Scotland,Ireland,1,5,0,0,20.0,0,0,0,0,0,0,Willowmoore Park,0,0,2009,-5
+GMHamilton,Scotland,Afghanistan,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Willowmoore Park,0,1,2009,15
+GMHamilton,Scotland,Canada,7,15,1,0,46.666666666666664,0,0,0,0,0,0,Willowmoore Park,0,0,2009,2
+GMHamilton,Scotland,Afghanistan,31,66,3,0,46.96969696969697,0,0,0,0,0,0,Cambusdoon New Ground,0,0,2010,28
+GMHamilton,Scotland,Netherlands,22,40,3,0,55.00000000000001,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,1,2008,29

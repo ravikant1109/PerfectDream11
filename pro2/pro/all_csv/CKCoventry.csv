@@ -1,13 +1,31 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CKCoventry,Zimbabwe,South Africa,12,7,1,1,171.42857142857142,0,0,0,0,0,0,OUTsurance Oval,15
-CKCoventry,Zimbabwe,South Africa,8,6,0,1,133.33333333333331,0,0,0,0,0,0,De Beers Diamond Oval,10
-CKCoventry,Zimbabwe,India,28,13,3,2,215.3846153846154,0,0,0,0,0,0,Harare Sports Club,35
-CKCoventry,Zimbabwe,India,10,10,0,1,100.0,0,0,0,0,0,0,Harare Sports Club,12
-CKCoventry,Zimbabwe,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,-8
-CKCoventry,Zimbabwe,Pakistan,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Gaddafi Stadium,0
-CKCoventry,Zimbabwe,Pakistan,30,13,4,1,230.76923076923075,0,0,0,0,0,0,Harare Sports Club,36
-CKCoventry,Zimbabwe,Pakistan,9,4,2,0,225.0,0,0,0,0,0,0,Harare Sports Club,11
-CKCoventry,Zimbabwe,India,4,10,0,0,40.0,0,0,0,0,0,0,Harare Sports Club,-2
-CKCoventry,Zimbabwe,Pakistan,14,7,3,0,200.0,0,0,0,0,0,0,Gaddafi Stadium,17
-CKCoventry,Zimbabwe,New Zealand,10,13,1,0,76.92307692307693,0,0,0,0,0,0,Harare Sports Club,11
-CKCoventry,Zimbabwe,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Providence Stadium,-8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CKCoventry,Zimbabwe,Pakistan,9,4,2,0,225.0,0,0,0,0,0,0,Harare Sports Club,0,0,2011,11
+CKCoventry,Zimbabwe,India,10,10,0,1,100.0,0,0,0,0,0,0,Harare Sports Club,0,0,2015,12
+CKCoventry,Zimbabwe,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Harare Sports Club,0,0,2011,-8
+CKCoventry,Zimbabwe,New Zealand,10,13,1,0,76.92307692307693,0,0,0,0,0,0,Harare Sports Club,0,0,2011,11
+CKCoventry,Zimbabwe,Pakistan,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Gaddafi Stadium,0,0,2015,0
+CKCoventry,Zimbabwe,South Africa,8,6,0,1,133.33333333333331,0,0,0,0,0,0,De Beers Diamond Oval,0,0,2010,10
+CKCoventry,Zimbabwe,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Providence Stadium,0,0,2010,-8
+CKCoventry,Zimbabwe,South Africa,12,7,1,1,171.42857142857142,0,0,0,0,0,0,OUTsurance Oval,0,0,2010,15
+CKCoventry,Zimbabwe,India,4,10,0,0,40.0,0,0,0,0,0,0,Harare Sports Club,1,0,2015,10
+CKCoventry,Zimbabwe,Pakistan,14,7,3,0,200.0,0,0,0,0,0,0,Gaddafi Stadium,0,1,2015,25
+CKCoventry,Zimbabwe,India,28,13,3,2,215.3846153846154,0,0,0,0,0,0,Harare Sports Club,0,0,2010,35
+CKCoventry,Zimbabwe,Pakistan,30,13,4,1,230.76923076923075,0,0,0,0,0,0,Harare Sports Club,1,1,2011,56
+CKCoventry,Zimbabwe,India,32,25,0,3,128.0,0,0,0,0,0,0,Queens Sports Club,0,0,2010,38
+CKCoventry,Zimbabwe,South Africa,10,26,1,0,38.46153846153847,0,0,0,0,0,0,SuperSport Park,0,0,2009,5
+CKCoventry,Zimbabwe,Pakistan,10,8,0,1,125.0,0,0,0,0,0,0,Gaddafi Stadium,0,1,2015,20
+CKCoventry,Zimbabwe,Bangladesh,0,7,0,0,0.0,0,0,0,0,0,0,Queens Sports Club,0,0,2009,-8
+CKCoventry,Zimbabwe,Bangladesh,29,29,1,2,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2009,34
+CKCoventry,Zimbabwe,Bangladesh,32,44,3,1,72.72727272727273,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2009,45
+CKCoventry,Zimbabwe,West Indies,56,89,5,0,62.92134831460674,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2010,67
+CKCoventry,Zimbabwe,Bangladesh,61,64,2,3,95.3125,0,0,0,0,0,0,Queens Sports Club,0,1,2009,85
+CKCoventry,Zimbabwe,West Indies,0,7,0,0,0.0,0,0,0,0,0,0,Antigua Recreation Ground St John's,0,1,2006,0
+CKCoventry,Zimbabwe,Bangladesh,22,22,3,1,100.0,0,0,0,0,0,0,Queens Sports Club,0,1,2009,35
+CKCoventry,Zimbabwe,Bangladesh,194,164,16,7,118.29268292682926,0,0,0,0,0,0,Queens Sports Club,0,1,2009,248
+CKCoventry,Zimbabwe,India,20,23,2,0,86.95652173913044,0,0,0,0,0,0,Harare Sports Club,0,1,2010,30
+CKCoventry,Zimbabwe,Bangladesh,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Zohur Ahmed Chowdhury Stadium,0,0,2009,-5
+CKCoventry,Zimbabwe,Bangladesh,19,24,1,1,79.16666666666666,0,0,0,0,0,0,Queens Sports Club,0,1,2009,30
+CKCoventry,Zimbabwe,Sri Lanka,11,11,0,1,100.0,0,0,0,0,0,0,Queens Sports Club,0,0,2010,13
+CKCoventry,Zimbabwe,New Zealand,0,3,0,0,0.0,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2011,-8
+CKCoventry,Zimbabwe,Canada,4,10,0,0,40.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,-2
+CKCoventry,Zimbabwe,Australia,14,25,1,1,56.00000000000001,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2011,13

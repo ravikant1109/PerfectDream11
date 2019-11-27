@@ -1,14 +1,15 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JMVince,England,Pakistan,41,37,6,1,110.8108108108108,0,0,0,0,0,0,Dubai International Cricket Stadium,49
-JMVince,England,Pakistan,46,49,3,1,93.87755102040816,0,0,0,0,0,0,Sharjah Cricket Stadium,51
-JMVince,England,Pakistan,41,37,6,1,110.8108108108108,0,0,0,0,0,0,Dubai International Cricket Stadium,49
-JMVince,England,Pakistan,41,37,6,1,110.8108108108108,0,0,0,0,0,0,Dubai International Cricket Stadium,49
-JMVince,England,Pakistan,46,49,3,1,93.87755102040816,0,0,0,0,0,0,Sharjah Cricket Stadium,51
-JMVince,England,Pakistan,41,37,6,1,110.8108108108108,0,0,0,0,0,0,Dubai International Cricket Stadium,49
-JMVince,England,Pakistan,41,37,6,1,110.8108108108108,0,0,0,0,0,0,Dubai International Cricket Stadium,49
-JMVince,England,Pakistan,46,49,3,1,93.87755102040816,0,0,0,0,0,0,Sharjah Cricket Stadium,51
-JMVince,England,Afghanistan,22,18,4,0,122.22222222222223,0,0,0,0,0,0,Feroz Shah Kotla,26
-JMVince,England,Pakistan,38,26,3,2,146.15384615384613,0,0,0,0,0,0,Dubai International Cricket Stadium,45
-JMVince,England,Sri Lanka,16,14,2,0,114.28571428571428,0,0,0,0,0,0,The Rose Bowl,18
-JMVince,England,Pakistan,41,37,6,1,110.8108108108108,0,0,0,0,0,0,Dubai International Cricket Stadium,49
-JMVince,England,Pakistan,46,49,3,1,93.87755102040816,0,0,0,0,0,0,Sharjah Cricket Stadium,51
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JMVince,England,Pakistan,38,26,3,2,146.15384615384613,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2015,45
+JMVince,England,Pakistan,46,49,3,1,93.87755102040816,0,0,0,0,0,0,Sharjah Cricket Stadium,1,0,2015,63
+JMVince,England,Sri Lanka,16,14,2,0,114.28571428571428,0,0,0,0,0,0,The Rose Bowl,1,0,2016,30
+JMVince,England,Afghanistan,22,18,4,0,122.22222222222223,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2016,26
+JMVince,England,Pakistan,41,37,6,1,110.8108108108108,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2015,49
+JMVince,England,Bangladesh,5,10,1,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,2
+JMVince,England,Ireland,18,28,3,0,64.28571428571429,0,0,0,0,0,0,The Village Malahide,0,0,2019,19
+JMVince,England,Sri Lanka,14,18,2,0,77.77777777777779,0,0,0,0,0,0,Headingley,0,0,2019,16
+JMVince,England,Sri Lanka,51,56,5,0,91.07142857142857,0,0,0,0,0,0,Sophia Gardens,0,0,2016,64
+JMVince,England,Bangladesh,16,20,1,0,80.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2016,25
+JMVince,England,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Lord's,0,0,2019,-8
+JMVince,England,Bangladesh,32,37,5,0,86.48648648648648,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,2,2016,53
+JMVince,England,Pakistan,43,40,5,0,107.5,0,0,0,0,0,0,Trent Bridge,0,0,2019,48
+JMVince,England,Afghanistan,26,31,3,0,83.87096774193549,0,0,0,0,0,0,Old Trafford,0,0,2019,29

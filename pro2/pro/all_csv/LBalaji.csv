@@ -1,6 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-LBalaji,India,Afghanistan,0,0,0,0,0,21,3,19,3,0,6.333333333333333,R Premadasa Stadium,75
-LBalaji,India,England,0,0,0,0,0,5,0,10,0,0,0,R Premadasa Stadium,0
-LBalaji,India,New Zealand,0,0,0,0,0,23,3,33,1,0,11.0,MA Chidambaram Stadium Chepauk,21
-LBalaji,India,Pakistan,0,0,0,0,0,21,3,22,3,0,7.333333333333333,R Premadasa Stadium,75
-LBalaji,India,South Africa,0,0,0,0,0,22,3,39,3,0,13.0,R Premadasa Stadium,69
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+LBalaji,India,England,0,0,0,0,0,5,0,10,0,0,0,R Premadasa Stadium,1,0,2012,12
+LBalaji,India,New Zealand,0,0,0,0,0,23,3,33,1,0,11.0,MA Chidambaram Stadium Chepauk,0,0,2012,21
+LBalaji,India,Pakistan,0,0,0,0,0,21,3,22,3,0,7.333333333333333,R Premadasa Stadium,0,0,2012,75
+LBalaji,India,Afghanistan,0,0,0,0,0,21,3,19,3,0,6.333333333333333,R Premadasa Stadium,0,0,2012,75
+LBalaji,India,South Africa,0,0,0,0,0,22,3,39,3,0,13.0,R Premadasa Stadium,0,0,2012,69
+LBalaji,India,Sri Lanka,7,10,1,0,70.0,30,5,34,0,0,6.8,R Premadasa Stadium,0,0,2009,8

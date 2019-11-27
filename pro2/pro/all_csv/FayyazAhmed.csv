@@ -1,2 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-FayyazAhmed,United Arab Emirates,Netherlands,11,12,2,0,91.66666666666666,17,2,31,1,0,15.5,Grange Cricket Club Ground Raeburn Place,32
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+FayyazAhmed,United Arab Emirates,Netherlands,11,12,2,0,91.66666666666666,17,2,31,1,0,15.5,Grange Cricket Club Ground Raeburn Place,0,1,2015,40
+FayyazAhmed,United Arab Emirates,Hong Kong,37,82,5,0,45.1219512195122,41,6,16,0,1,2.6666666666666665,Kinrara Academy Oval,0,0,2014,50
+FayyazAhmed,United Arab Emirates,Scotland,4,16,0,0,25.0,59,9,53,0,0,5.888888888888889,Grange Cricket Club Ground Raeburn Place,0,0,2016,0
+FayyazAhmed,United Arab Emirates,Afghanistan,6,6,1,0,100.0,59,9,52,0,0,5.777777777777778,Kinrara Academy Oval,0,0,2014,9

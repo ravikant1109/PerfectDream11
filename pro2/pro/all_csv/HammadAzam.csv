@@ -1,5 +1,14 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HammadAzam,Pakistan,West Indies,1,2,0,0,50.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,-3
-HammadAzam,Pakistan,England,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,2
-HammadAzam,Pakistan,West Indies,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Arnos Vale Ground Kingstown,8
-HammadAzam,Pakistan,England,21,15,3,1,140.0,0,0,0,0,0,0,Dubai International Cricket Stadium,26
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HammadAzam,Pakistan,West Indies,1,2,0,0,50.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,1,1,2013,17
+HammadAzam,Pakistan,England,21,15,3,1,140.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,26
+HammadAzam,Pakistan,England,2,2,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2012,2
+HammadAzam,Pakistan,West Indies,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2013,16
+HammadAzam,Pakistan,India,4,5,0,0,80.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,4
+HammadAzam,Pakistan,West Indies,36,66,1,1,54.54545454545454,11,1,10,0,0,10.0,Kensington Oval Bridgetown,0,0,2011,35
+HammadAzam,Pakistan,Zimbabwe,0,0,0,0,0,17,2,14,0,0,7.0,Gaddafi Stadium,0,0,2015,0
+HammadAzam,Pakistan,West Indies,1,6,0,0,16.666666666666664,5,0,9,0,0,0,Kensington Oval Bridgetown,0,0,2011,-5
+HammadAzam,Pakistan,Bangladesh,30,37,3,1,81.08108108108108,18,3,20,0,0,6.666666666666667,Shere Bangla National Stadium,0,0,2012,35
+HammadAzam,Pakistan,Zimbabwe,4,12,0,0,33.33333333333333,0,0,0,0,0,0,Gaddafi Stadium,0,0,2015,-2
+HammadAzam,Pakistan,Sri Lanka,4,5,1,0,80.0,23,3,21,1,0,7.0,Shere Bangla National Stadium,0,0,2012,30
+HammadAzam,Pakistan,Zimbabwe,0,0,0,0,0,30,5,29,0,0,5.8,Gaddafi Stadium,0,1,2015,10
+HammadAzam,Pakistan,West Indies,0,0,0,0,0,30,5,26,1,0,5.2,Beausejour Stadium Gros Islet,1,1,2011,47

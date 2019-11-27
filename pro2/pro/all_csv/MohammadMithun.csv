@@ -1,17 +1,18 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MohammadMithun,Bangladesh,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-MohammadMithun,Bangladesh,United Arab Emirates,47,41,4,2,114.6341463414634,0,0,0,0,0,0,Shere Bangla National Stadium,55
-MohammadMithun,Bangladesh,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-MohammadMithun,Bangladesh,United Arab Emirates,47,41,4,2,114.6341463414634,0,0,0,0,0,0,Shere Bangla National Stadium,55
-MohammadMithun,Bangladesh,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-MohammadMithun,Bangladesh,United Arab Emirates,47,41,4,2,114.6341463414634,0,0,0,0,0,0,Shere Bangla National Stadium,55
-MohammadMithun,Bangladesh,New Zealand,11,17,1,0,64.70588235294117,0,0,0,0,0,0,Eden Gardens,10
-MohammadMithun,Bangladesh,India,1,3,0,0,33.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,-5
-MohammadMithun,Bangladesh,India,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,-5
-MohammadMithun,Bangladesh,Pakistan,2,4,0,0,50.0,0,0,0,0,0,0,Eden Gardens,-2
-MohammadMithun,Bangladesh,Australia,23,23,1,1,100.0,0,0,0,0,0,0,M Chinnaswamy Stadium,26
-MohammadMithun,Bangladesh,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,-8
-MohammadMithun,Bangladesh,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-MohammadMithun,Bangladesh,United Arab Emirates,47,41,4,2,114.6341463414634,0,0,0,0,0,0,Shere Bangla National Stadium,55
-MohammadMithun,Bangladesh,New Zealand,11,17,1,0,64.70588235294117,0,0,0,0,0,0,Eden Gardens,10
-MohammadMithun,Bangladesh,India,1,3,0,0,33.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,-5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MohammadMithun,Bangladesh,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,1,0,2014,4
+MohammadMithun,Bangladesh,Pakistan,2,4,0,0,50.0,0,0,0,0,0,0,Eden Gardens,0,0,2016,-2
+MohammadMithun,Bangladesh,United Arab Emirates,47,41,4,2,114.6341463414634,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,55
+MohammadMithun,Bangladesh,India,1,3,0,0,33.33333333333333,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2016,-5
+MohammadMithun,Bangladesh,Australia,23,23,1,1,100.0,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2016,26
+MohammadMithun,Bangladesh,New Zealand,11,17,1,0,64.70588235294117,0,0,0,0,0,0,Eden Gardens,0,1,2016,18
+MohammadMithun,Bangladesh,India,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,-5
+MohammadMithun,Bangladesh,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,-8
+MohammadMithun,Bangladesh,New Zealand,26,37,3,0,70.27027027027027,0,0,0,0,0,0,Kennington Oval,0,0,2019,29
+MohammadMithun,Bangladesh,Sri Lanka,10,23,1,0,43.47826086956522,0,0,0,0,0,0,R.Premadasa Stadium Khettarama,0,0,2019,5
+MohammadMithun,Bangladesh,South Africa,21,22,2,1,95.45454545454545,0,0,0,0,0,0,Kennington Oval,0,0,2019,25
+MohammadMithun,Bangladesh,West Indies,43,54,2,2,79.62962962962963,0,0,0,0,0,0,The Village Malahide,0,0,2019,49
+MohammadMithun,Bangladesh,Sri Lanka,4,11,0,0,36.36363636363637,0,0,0,0,0,0,R.Premadasa Stadium Khettarama,0,0,2019,-2
+MohammadMithun,Bangladesh,West Indies,17,14,1,1,121.42857142857142,0,0,0,0,0,0,The Village Malahide,0,0,2019,20
+MohammadMithun,Bangladesh,England,0,2,0,0,0.0,0,0,0,0,0,0,Sophia Gardens,0,0,2019,-8
+MohammadMithun,Bangladesh,India,26,43,5,0,60.46511627906976,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,29
+MohammadMithun,Bangladesh,Sri Lanka,12,24,1,0,50.0,0,0,0,0,0,0,R.Premadasa Stadium Khettarama,0,0,2019,9

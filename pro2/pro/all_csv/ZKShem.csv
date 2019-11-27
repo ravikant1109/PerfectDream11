@@ -1,5 +1,2 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ZKShem,Vanuatu,Malaysia,0,0,0,0,0,26,4,36,1,0,9.0,Kinrara Academy Oval,25
-ZKShem,Vanuatu,Malaysia,0,0,0,0,0,26,4,36,1,0,9.0,Kinrara Academy Oval,25
-ZKShem,Vanuatu,Malaysia,0,0,0,0,0,26,4,36,1,0,9.0,Kinrara Academy Oval,25
-ZKShem,Vanuatu,Malaysia,0,0,0,0,0,26,4,36,1,0,9.0,Kinrara Academy Oval,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ZKShem,Vanuatu,Malaysia,0,0,0,0,0,26,4,36,1,0,9.0,Kinrara Academy Oval,0,0,2019,25

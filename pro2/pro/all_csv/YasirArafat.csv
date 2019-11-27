@@ -1,25 +1,20 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-YasirArafat,Pakistan,India,15,11,2,0,136.36363636363635,11,1,19,0,0,19.0,New Wanderers Stadium,17
-YasirArafat,Pakistan,South Africa,3,5,0,0,60.0,18,3,25,2,0,8.333333333333334,R Premadasa Stadium,51
-YasirArafat,Pakistan,India,12,5,1,0,240.0,23,3,40,1,0,13.333333333333334,Kingsmead,32
-YasirArafat,Pakistan,India,15,11,2,0,136.36363636363635,11,1,19,0,0,19.0,New Wanderers Stadium,17
-YasirArafat,Pakistan,South Africa,3,5,0,0,60.0,18,3,25,2,0,8.333333333333334,R Premadasa Stadium,51
-YasirArafat,Pakistan,India,12,5,1,0,240.0,23,3,40,1,0,13.333333333333334,Kingsmead,32
-YasirArafat,Pakistan,India,15,11,2,0,136.36363636363635,11,1,19,0,0,19.0,New Wanderers Stadium,17
-YasirArafat,Pakistan,South Africa,3,5,0,0,60.0,18,3,25,2,0,8.333333333333334,R Premadasa Stadium,51
-YasirArafat,Pakistan,India,12,5,1,0,240.0,23,3,40,1,0,13.333333333333334,Kingsmead,32
-YasirArafat,Pakistan,Scotland,17,8,1,1,212.5,17,2,14,0,0,7.0,Kingsmead,20
-YasirArafat,Pakistan,England,9,4,2,0,225.0,26,4,19,1,0,4.75,Dubai International Cricket Stadium,40
-YasirArafat,Pakistan,India,8,11,1,0,72.72727272727273,5,0,11,0,0,0,R Premadasa Stadium,9
-YasirArafat,Pakistan,England,5,5,0,0,100.0,24,4,32,3,0,8.0,Dubai International Cricket Stadium,80
-YasirArafat,Pakistan,Bangladesh,0,0,0,0,0,17,2,25,3,0,12.5,Pallekele International Cricket Stadium,69
-YasirArafat,Pakistan,Australia,15,19,0,1,78.94736842105263,17,2,31,2,0,15.5,Dubai International Cricket Stadium,61
-YasirArafat,Pakistan,Bangladesh,2,2,0,0,100.0,24,4,33,1,0,8.25,Gymkhana Club Ground,27
-YasirArafat,Pakistan,Sri Lanka,2,3,0,0,66.66666666666666,21,3,18,3,1,6.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,83
-YasirArafat,Pakistan,New Zealand,0,0,0,0,0,6,1,12,0,0,12.0,Pallekele International Cricket Stadium,0
-YasirArafat,Pakistan,England,4,6,0,0,66.66666666666666,24,4,42,0,0,10.5,Kennington Oval,-2
-YasirArafat,Pakistan,India,15,11,2,0,136.36363636363635,11,1,19,0,0,19.0,New Wanderers Stadium,17
-YasirArafat,Pakistan,South Africa,3,5,0,0,60.0,18,3,25,2,0,8.333333333333334,R Premadasa Stadium,51
-YasirArafat,Pakistan,India,12,5,1,0,240.0,23,3,40,1,0,13.333333333333334,Kingsmead,32
-YasirArafat,Pakistan,Scotland,17,8,1,1,212.5,17,2,14,0,0,7.0,Kingsmead,20
-YasirArafat,Pakistan,England,9,4,2,0,225.0,26,4,19,1,0,4.75,Dubai International Cricket Stadium,40
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+YasirArafat,Pakistan,India,8,11,1,0,72.72727272727273,5,0,11,0,0,0,R Premadasa Stadium,0,0,2012,9
+YasirArafat,Pakistan,Bangladesh,2,2,0,0,100.0,24,4,33,1,0,8.25,Gymkhana Club Ground,0,0,2007,27
+YasirArafat,Pakistan,England,9,4,2,0,225.0,26,4,19,1,0,4.75,Dubai International Cricket Stadium,0,0,2010,40
+YasirArafat,Pakistan,South Africa,3,5,0,0,60.0,18,3,25,2,0,8.333333333333334,R Premadasa Stadium,0,0,2012,51
+YasirArafat,Pakistan,England,5,5,0,0,100.0,24,4,32,3,0,8.0,Dubai International Cricket Stadium,0,0,2010,80
+YasirArafat,Pakistan,India,12,5,1,0,240.0,23,3,40,1,0,13.333333333333334,Kingsmead,0,0,2007,32
+YasirArafat,Pakistan,England,4,6,0,0,66.66666666666666,24,4,42,0,0,10.5,Kennington Oval,0,0,2009,-2
+YasirArafat,Pakistan,Sri Lanka,2,3,0,0,66.66666666666666,21,3,18,3,1,6.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,83
+YasirArafat,Pakistan,Bangladesh,0,0,0,0,0,17,2,25,3,0,12.5,Pallekele International Cricket Stadium,0,0,2012,69
+YasirArafat,Pakistan,New Zealand,0,0,0,0,0,6,1,12,0,0,12.0,Pallekele International Cricket Stadium,0,0,2012,0
+YasirArafat,Pakistan,Australia,15,19,0,1,78.94736842105263,17,2,31,2,0,15.5,Dubai International Cricket Stadium,0,0,2012,61
+YasirArafat,Pakistan,Scotland,17,8,1,1,212.5,17,2,14,0,0,7.0,Kingsmead,0,1,2007,28
+YasirArafat,Pakistan,India,15,11,2,0,136.36363636363635,11,1,19,0,0,19.0,New Wanderers Stadium,0,0,2007,17
+YasirArafat,Pakistan,Australia,23,32,2,1,71.875,51,8,33,0,1,4.125,Sheikh Zayed Stadium,0,0,2009,39
+YasirArafat,Pakistan,India,1,2,0,0,50.0,54,9,54,0,0,6.0,Gaddafi Stadium,0,0,2006,-3
+YasirArafat,Pakistan,Australia,0,0,0,0,0,31,5,39,0,0,7.8,Sheikh Zayed Stadium,0,0,2009,0
+YasirArafat,Pakistan,Australia,3,17,0,0,17.647058823529413,44,7,34,0,1,4.857142857142857,Sheikh Zayed Stadium,0,1,2009,17
+YasirArafat,Pakistan,South Africa,27,40,5,0,67.5,30,5,38,1,0,7.6,Punjab Cricket Association Stadium Mohali,0,0,2006,55
+YasirArafat,Pakistan,India,10,12,0,0,83.33333333333334,49,8,56,0,0,7.0,National Stadium,0,0,2006,10

@@ -1,29 +1,69 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RJPeterson,South Africa,Pakistan,3,4,0,0,75.0,23,3,16,2,1,5.333333333333333,R Premadasa Stadium,63
-RJPeterson,South Africa,England,0,0,0,0,0,13,2,16,0,0,8.0,Edgbaston,0
-RJPeterson,South Africa,Pakistan,3,4,0,0,75.0,23,3,16,2,1,5.333333333333333,R Premadasa Stadium,63
-RJPeterson,South Africa,England,0,0,0,0,0,13,2,16,0,0,8.0,Edgbaston,0
-RJPeterson,South Africa,Pakistan,3,4,0,0,75.0,23,3,16,2,1,5.333333333333333,R Premadasa Stadium,63
-RJPeterson,South Africa,England,0,0,0,0,0,13,2,16,0,0,8.0,Edgbaston,0
-RJPeterson,South Africa,England,0,0,0,0,0,23,3,27,2,0,9.0,Riverside Ground,50
-RJPeterson,South Africa,New Zealand,0,0,0,0,0,23,3,8,2,0,2.6666666666666665,Kingsmead,56
-RJPeterson,South Africa,New Zealand,11,11,1,0,100.0,23,3,34,1,0,11.333333333333334,Eden Park,31
-RJPeterson,South Africa,Zimbabwe,0,0,0,0,0,5,0,8,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0
-RJPeterson,South Africa,Australia,32,19,6,0,168.42105263157893,23,3,41,1,0,13.666666666666666,R Premadasa Stadium,57
-RJPeterson,South Africa,Australia,4,4,0,0,100.0,24,4,28,3,0,7.0,Stadium Australia,79
-RJPeterson,South Africa,Pakistan,13,14,1,0,92.85714285714286,11,1,26,0,0,26.0,SuperSport Park,14
-RJPeterson,South Africa,New Zealand,0,1,0,0,0.0,18,3,28,1,0,9.333333333333334,Buffalo Park,15
-RJPeterson,South Africa,India,2,6,0,0,33.33333333333333,18,3,20,0,0,6.666666666666667,Moses Mabhida Stadium,-4
-RJPeterson,South Africa,Australia,0,0,0,0,0,17,2,29,2,0,14.5,New Wanderers Stadium,44
-RJPeterson,South Africa,New Zealand,0,0,0,0,0,17,2,24,1,0,12.0,St George's Park,19
-RJPeterson,South Africa,Zimbabwe,1,2,0,0,50.0,23,3,36,2,0,12.0,De Beers Diamond Oval,41
-RJPeterson,South Africa,India,8,12,0,0,66.66666666666666,10,1,12,1,0,12.0,New Wanderers Stadium,31
-RJPeterson,South Africa,Australia,34,27,3,2,125.92592592592592,11,1,16,0,0,16.0,SuperSport Park,41
-RJPeterson,South Africa,Australia,0,0,0,0,0,23,3,30,3,0,10.0,New Wanderers Stadium,73
-RJPeterson,South Africa,India,10,10,1,0,100.0,23,3,26,2,0,8.666666666666666,R Premadasa Stadium,61
-RJPeterson,South Africa,Australia,6,4,1,0,150.0,17,2,29,1,0,14.5,Newlands,26
-RJPeterson,South Africa,Pakistan,3,4,0,0,75.0,23,3,16,2,1,5.333333333333333,R Premadasa Stadium,63
-RJPeterson,South Africa,England,0,0,0,0,0,13,2,16,0,0,8.0,Edgbaston,0
-RJPeterson,South Africa,England,0,0,0,0,0,23,3,27,2,0,9.0,Riverside Ground,50
-RJPeterson,South Africa,New Zealand,0,0,0,0,0,23,3,8,2,0,2.6666666666666665,Kingsmead,56
-RJPeterson,South Africa,New Zealand,11,11,1,0,100.0,23,3,34,1,0,11.333333333333334,Eden Park,31
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RJPeterson,South Africa,New Zealand,0,1,0,0,0.0,18,3,28,1,0,9.333333333333334,Buffalo Park,0,0,2012,15
+RJPeterson,South Africa,Zimbabwe,0,0,0,0,0,5,0,8,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2012,8
+RJPeterson,South Africa,Pakistan,13,14,1,0,92.85714285714286,11,1,26,0,0,26.0,SuperSport Park,0,1,2013,22
+RJPeterson,South Africa,England,0,0,0,0,0,13,2,16,0,0,8.0,Edgbaston,0,0,2012,0
+RJPeterson,South Africa,England,0,0,0,0,0,23,3,27,2,0,9.0,Riverside Ground,0,0,2012,50
+RJPeterson,South Africa,Australia,4,4,0,0,100.0,24,4,28,3,0,7.0,Stadium Australia,0,0,2014,79
+RJPeterson,South Africa,Pakistan,3,4,0,0,75.0,23,3,16,2,1,5.333333333333333,R Premadasa Stadium,0,1,2012,71
+RJPeterson,South Africa,India,8,12,0,0,66.66666666666666,10,1,12,1,0,12.0,New Wanderers Stadium,0,0,2006,31
+RJPeterson,South Africa,Australia,32,19,6,0,168.42105263157893,23,3,41,1,0,13.666666666666666,R Premadasa Stadium,0,0,2012,57
+RJPeterson,South Africa,Australia,34,27,3,2,125.92592592592592,11,1,16,0,0,16.0,SuperSport Park,0,0,2009,41
+RJPeterson,South Africa,Zimbabwe,1,2,0,0,50.0,23,3,36,2,0,12.0,De Beers Diamond Oval,0,0,2010,41
+RJPeterson,South Africa,India,2,6,0,0,33.33333333333333,18,3,20,0,0,6.666666666666667,Moses Mabhida Stadium,0,0,2011,-4
+RJPeterson,South Africa,India,10,10,1,0,100.0,23,3,26,2,0,8.666666666666666,R Premadasa Stadium,0,0,2012,61
+RJPeterson,South Africa,Australia,0,0,0,0,0,23,3,30,3,0,10.0,New Wanderers Stadium,0,0,2009,73
+RJPeterson,South Africa,Australia,6,4,1,0,150.0,17,2,29,1,0,14.5,Newlands,0,0,2011,26
+RJPeterson,South Africa,New Zealand,0,0,0,0,0,23,3,8,2,0,2.6666666666666665,Kingsmead,0,1,2012,64
+RJPeterson,South Africa,Australia,0,0,0,0,0,17,2,29,2,0,14.5,New Wanderers Stadium,0,0,2006,44
+RJPeterson,South Africa,New Zealand,0,0,0,0,0,17,2,24,1,0,12.0,St George's Park,0,2,2012,35
+RJPeterson,South Africa,New Zealand,11,11,1,0,100.0,23,3,34,1,0,11.333333333333334,Eden Park,0,0,2012,31
+RJPeterson,South Africa,Sri Lanka,23,32,2,0,71.875,35,5,47,1,0,9.4,De Beers Diamond Oval,0,0,2012,48
+RJPeterson,South Africa,England,3,16,0,0,18.75,48,8,22,3,2,2.75,MA Chidambaram Stadium Chepauk,0,1,2011,102
+RJPeterson,South Africa,Australia,4,3,0,0,133.33333333333331,29,4,17,1,1,4.25,Newlands,0,0,2006,41
+RJPeterson,South Africa,Australia,3,5,0,0,60.0,60,10,39,0,1,3.9,St George's Park,0,1,2006,23
+RJPeterson,South Africa,Zimbabwe,0,0,0,0,0,61,10,28,2,1,2.8,Buffalo Park,0,0,2006,64
+RJPeterson,South Africa,Sri Lanka,4,9,0,0,44.44444444444444,18,3,5,2,0,1.6666666666666667,Boland Park,0,2,2012,70
+RJPeterson,South Africa,Pakistan,25,35,2,0,71.42857142857143,59,9,47,2,0,5.222222222222222,Kingsmead,0,0,2013,79
+RJPeterson,South Africa,Netherlands,0,0,0,0,0,30,5,22,2,1,4.4,Punjab Cricket Association Stadium Mohali,0,0,2011,62
+RJPeterson,South Africa,Pakistan,0,0,0,0,0,47,7,47,0,1,6.714285714285714,Chevrolet Park,0,0,2013,8
+RJPeterson,South Africa,Bangladesh,22,9,3,0,244.44444444444446,41,6,12,4,4,2.0,Shere Bangla National Stadium,0,1,2011,179
+RJPeterson,South Africa,Pakistan,0,0,0,0,0,59,9,54,2,0,6.0,New Wanderers Stadium,0,0,2013,50
+RJPeterson,South Africa,England,23,35,1,0,65.71428571428571,59,9,39,2,0,4.333333333333333,Kennington Oval,0,0,2012,76
+RJPeterson,South Africa,New Zealand,0,5,0,0,0.0,53,8,55,1,0,6.875,Shere Bangla National Stadium,0,0,2011,17
+RJPeterson,South Africa,Pakistan,0,0,0,0,0,53,8,49,1,1,6.125,SuperSport Park,0,1,2007,41
+RJPeterson,South Africa,New Zealand,0,0,0,0,0,49,8,43,0,0,5.375,McLean Park,0,1,2012,10
+RJPeterson,South Africa,New Zealand,0,0,0,0,0,60,10,47,2,1,4.7,Westpac Stadium,0,1,2012,70
+RJPeterson,South Africa,New Zealand,0,0,0,0,0,60,10,38,2,0,3.8,Eden Park,0,0,2012,56
+RJPeterson,South Africa,New Zealand,8,8,1,0,100.0,43,7,40,1,0,5.714285714285714,National Cricket Stadium St George's,0,0,2007,36
+RJPeterson,South Africa,Sri Lanka,3,10,0,0,30.0,42,7,51,1,0,7.285714285714286,Pallekele International Cricket Stadium,0,0,2013,22
+RJPeterson,South Africa,India,0,0,0,0,0,29,4,33,0,0,8.25,SuperSport Park,0,0,2006,0
+RJPeterson,South Africa,India,68,73,6,0,93.15068493150685,18,3,24,0,0,8.0,Sophia Gardens,0,1,2013,90
+RJPeterson,South Africa,New Zealand,0,2,0,0,0.0,51,8,34,2,0,4.25,Brabourne Stadium,0,0,2006,46
+RJPeterson,South Africa,Pakistan,44,67,3,0,65.67164179104478,47,7,52,2,0,7.428571428571429,SuperSport Park,0,0,2013,95
+RJPeterson,South Africa,England,0,0,0,0,0,59,9,38,3,0,4.222222222222222,Trent Bridge,0,0,2012,79
+RJPeterson,South Africa,Zimbabwe,0,0,0,0,0,29,4,35,0,0,8.75,Goodyear Park,0,1,2006,8
+RJPeterson,South Africa,Sri Lanka,0,0,0,0,0,61,10,46,1,0,4.6,Chevrolet Park,0,1,2012,37
+RJPeterson,South Africa,Pakistan,16,18,2,0,88.88888888888889,23,3,17,0,0,5.666666666666667,Edgbaston,0,0,2013,20
+RJPeterson,South Africa,Sri Lanka,4,8,1,0,50.0,30,5,22,0,0,4.4,Providence Stadium,0,0,2007,5
+RJPeterson,South Africa,Sri Lanka,29,39,1,0,74.35897435897436,29,4,30,0,0,7.5,R Premadasa Stadium,0,1,2013,38
+RJPeterson,South Africa,Ireland,0,0,0,0,0,47,7,32,3,0,4.571428571428571,Eden Gardens,0,0,2011,79
+RJPeterson,South Africa,England,31,20,4,1,155.0,41,6,25,0,2,4.166666666666667,Lord's,0,0,2012,57
+RJPeterson,South Africa,Sri Lanka,13,15,0,0,86.66666666666667,47,7,46,0,0,6.571428571428571,Pallekele International Cricket Stadium,0,0,2013,13
+RJPeterson,South Africa,Sri Lanka,0,0,0,0,0,60,10,45,0,0,4.5,Buffalo Park,0,1,2012,12
+RJPeterson,South Africa,Pakistan,0,0,0,0,0,41,6,51,1,1,8.5,Willowmoore Park,0,0,2013,33
+RJPeterson,South Africa,England,30,43,4,0,69.76744186046511,56,9,49,0,1,5.444444444444445,Kennington Oval,0,0,2013,42
+RJPeterson,South Africa,India,4,2,0,0,200.0,42,7,45,1,0,6.428571428571429,SuperSport Park,0,0,2011,29
+RJPeterson,South Africa,England,0,0,0,0,0,53,8,52,2,0,6.5,The Rose Bowl,0,0,2012,50
+RJPeterson,South Africa,Sri Lanka,22,16,3,1,137.5,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,27
+RJPeterson,South Africa,Pakistan,2,2,0,0,100.0,29,4,29,0,0,7.25,Sharjah Cricket Stadium,0,0,2013,2
+RJPeterson,South Africa,Australia,0,0,0,0,0,36,6,32,4,1,5.333333333333333,Sydney Cricket Ground,0,1,2014,126
+RJPeterson,South Africa,New Zealand,0,4,0,0,0.0,53,8,45,0,0,5.625,De Beers Diamond Oval,0,0,2013,-6
+RJPeterson,South Africa,Australia,0,0,0,0,0,41,6,36,0,0,6.0,SuperSport Park,0,0,2006,0
+RJPeterson,South Africa,West Indies,0,0,0,0,0,23,3,23,1,0,7.666666666666667,Sophia Gardens,0,0,2013,25
+RJPeterson,South Africa,India,18,7,2,1,257.14285714285717,55,9,52,2,0,5.777777777777778,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,74
+RJPeterson,South Africa,Australia,11,12,0,1,91.66666666666666,48,8,44,1,0,5.5,Melbourne Cricket Ground,0,0,2014,40
+RJPeterson,South Africa,India,31,35,3,0,88.57142857142857,47,7,46,2,0,6.571428571428571,St George's Park,0,0,2011,84
+RJPeterson,South Africa,Pakistan,0,0,0,0,0,53,8,42,3,1,5.25,Dubai International Cricket Stadium,0,0,2010,85
+RJPeterson,South Africa,West Indies,0,0,0,0,0,59,9,50,0,0,5.555555555555555,Feroz Shah Kotla,0,1,2011,10
+RJPeterson,South Africa,Zimbabwe,0,0,0,0,0,60,10,43,0,0,4.3,Senwes Park,0,2,2010,20

@@ -1,12 +1,17 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CAKWalton,West Indies,Pakistan,21,26,2,0,80.76923076923077,0,0,0,0,0,0,Queen's Park Oval Port of Spain,23
-CAKWalton,West Indies,Afghanistan,22,15,4,0,146.66666666666666,0,0,0,0,0,0,Warner Park Basseterre,26
-CAKWalton,West Indies,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Warner Park Basseterre,-8
-CAKWalton,West Indies,Afghanistan,29,19,4,1,152.63157894736844,0,0,0,0,0,0,Warner Park Basseterre,35
-CAKWalton,West Indies,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,-8
-CAKWalton,West Indies,Pakistan,40,32,1,4,125.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,49
-CAKWalton,West Indies,Pakistan,18,18,1,1,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,21
-CAKWalton,West Indies,New Zealand,0,3,0,0,0.0,0,0,0,0,0,0,Westpac Stadium,-8
-CAKWalton,West Indies,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-5
-CAKWalton,West Indies,New Zealand,9,8,0,1,112.5,0,0,0,0,0,0,Eden Park,11
-CAKWalton,West Indies,Pakistan,21,26,2,0,80.76923076923077,0,0,0,0,0,0,Queen's Park Oval Port of Spain,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CAKWalton,West Indies,Afghanistan,29,19,4,1,152.63157894736844,0,0,0,0,0,0,Warner Park Basseterre,0,1,2017,43
+CAKWalton,West Indies,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,-5
+CAKWalton,West Indies,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2016,-8
+CAKWalton,West Indies,New Zealand,0,3,0,0,0.0,0,0,0,0,0,0,Westpac Stadium,0,1,2014,0
+CAKWalton,West Indies,New Zealand,9,8,0,1,112.5,0,0,0,0,0,0,Eden Park,0,0,2014,11
+CAKWalton,West Indies,Pakistan,21,26,2,0,80.76923076923077,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2017,31
+CAKWalton,West Indies,Pakistan,40,32,1,4,125.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2017,49
+CAKWalton,West Indies,Afghanistan,22,15,4,0,146.66666666666666,0,0,0,0,0,0,Warner Park Basseterre,0,3,2017,50
+CAKWalton,West Indies,Pakistan,18,18,1,1,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2017,29
+CAKWalton,West Indies,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,-8
+CAKWalton,West Indies,New Zealand,17,23,1,0,73.91304347826086,0,0,0,0,0,0,Queenstown Events Centre,0,0,2014,18
+CAKWalton,West Indies,Australia,0,2,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,1,2,2009,20
+CAKWalton,West Indies,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Saxton Oval,0,0,2014,-8
+CAKWalton,West Indies,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,0,4,2009,24
+CAKWalton,West Indies,Pakistan,10,9,2,0,111.11111111111111,0,0,0,0,0,0,Providence Stadium,0,1,2017,20
+CAKWalton,West Indies,Pakistan,19,27,3,0,70.37037037037037,0,0,0,0,0,0,Providence Stadium,0,0,2017,22

@@ -1,21 +1,26 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,0,0,11.75,Eden Park,-6
-DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,0,0,11.75,Eden Park,-6
-DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,0,0,11.75,Eden Park,-6
-DAJBracewell,New Zealand,South Africa,21,25,3,0,84.0,12,2,21,0,0,10.5,Kingsmead,20
-DAJBracewell,New Zealand,South Africa,0,2,0,0,0.0,24,4,28,1,1,7.0,Eden Park,25
-DAJBracewell,New Zealand,South Africa,0,0,0,0,0,17,2,13,0,0,6.5,Westpac Stadium,0
-DAJBracewell,New Zealand,England,2,1,0,0,200.0,5,0,8,1,0,0,Pallekele International Cricket Stadium,27
-DAJBracewell,New Zealand,South Africa,7,2,0,0,350.0,17,2,18,1,0,9.0,Kingsmead,32
-DAJBracewell,New Zealand,West Indies,1,1,0,0,100.0,23,3,31,3,0,10.333333333333334,Pallekele International Cricket Stadium,72
-DAJBracewell,New Zealand,South Africa,0,0,0,0,0,18,3,33,3,0,11.0,Buffalo Park,71
-DAJBracewell,New Zealand,South Africa,0,0,0,0,0,11,1,38,0,0,38.0,Seddon Park,0
-DAJBracewell,New Zealand,South Africa,15,10,2,0,150.0,18,3,37,2,0,12.333333333333334,St George's Park,61
-DAJBracewell,New Zealand,West Indies,11,5,0,1,220.00000000000003,25,4,48,1,0,12.0,Central Broward Regional Park Stadium Turf Ground,32
-DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,22,3,25,3,0,8.333333333333334,Harare Sports Club,75
-DAJBracewell,New Zealand,West Indies,20,11,0,2,181.8181818181818,17,2,43,1,0,21.5,Central Broward Regional Park Stadium Turf Ground,43
-DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,24,4,26,1,0,6.5,Harare Sports Club,25
-DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,0,0,11.75,Eden Park,-6
-DAJBracewell,New Zealand,South Africa,21,25,3,0,84.0,12,2,21,0,0,10.5,Kingsmead,20
-DAJBracewell,New Zealand,South Africa,0,2,0,0,0.0,24,4,28,1,1,7.0,Eden Park,25
-DAJBracewell,New Zealand,South Africa,0,0,0,0,0,17,2,13,0,0,6.5,Westpac Stadium,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DAJBracewell,New Zealand,South Africa,0,0,0,0,0,18,3,33,3,0,11.0,Buffalo Park,0,0,2012,71
+DAJBracewell,New Zealand,England,2,1,0,0,200.0,5,0,8,1,0,0,Pallekele International Cricket Stadium,0,1,2012,35
+DAJBracewell,New Zealand,West Indies,11,5,0,1,220.00000000000003,25,4,48,1,0,12.0,Central Broward Regional Park Stadium Turf Ground,0,0,2012,32
+DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,24,4,47,0,0,11.75,Eden Park,0,1,2012,2
+DAJBracewell,New Zealand,South Africa,0,0,0,0,0,17,2,13,0,0,6.5,Westpac Stadium,0,1,2012,8
+DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,22,3,25,3,0,8.333333333333334,Harare Sports Club,0,0,2011,75
+DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,24,4,26,1,0,6.5,Harare Sports Club,0,0,2011,25
+DAJBracewell,New Zealand,South Africa,7,2,0,0,350.0,17,2,18,1,0,9.0,Kingsmead,0,0,2015,32
+DAJBracewell,New Zealand,South Africa,0,0,0,0,0,11,1,38,0,0,38.0,Seddon Park,0,0,2012,0
+DAJBracewell,New Zealand,West Indies,1,1,0,0,100.0,23,3,31,3,0,10.333333333333334,Pallekele International Cricket Stadium,0,0,2012,72
+DAJBracewell,New Zealand,West Indies,20,11,0,2,181.8181818181818,17,2,43,1,0,21.5,Central Broward Regional Park Stadium Turf Ground,0,0,2012,43
+DAJBracewell,New Zealand,South Africa,21,25,3,0,84.0,12,2,21,0,0,10.5,Kingsmead,0,0,2012,20
+DAJBracewell,New Zealand,South Africa,15,10,2,0,150.0,18,3,37,2,0,12.333333333333334,St George's Park,0,0,2012,61
+DAJBracewell,New Zealand,South Africa,0,2,0,0,0.0,24,4,28,1,1,7.0,Eden Park,0,0,2012,25
+DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,59,9,56,3,2,6.222222222222222,Harare Sports Club,0,0,2011,91
+DAJBracewell,New Zealand,Sri Lanka,30,35,2,0,85.71428571428571,38,6,45,0,0,7.5,Saxton Oval,0,0,2015,32
+DAJBracewell,New Zealand,South Africa,13,19,1,0,68.42105263157895,62,10,54,1,2,5.4,Kingsmead,0,0,2015,55
+DAJBracewell,New Zealand,South Africa,0,0,0,0,0,59,9,31,3,0,3.4444444444444446,Senwes Park,0,0,2015,81
+DAJBracewell,New Zealand,South Africa,0,4,0,0,0.0,59,9,61,1,1,6.777777777777778,Westpac Stadium,0,0,2012,25
+DAJBracewell,New Zealand,England,0,0,0,0,0,48,8,56,1,1,7.0,The Rose Bowl,0,1,2013,41
+DAJBracewell,New Zealand,Zimbabwe,1,2,0,0,50.0,47,7,26,1,1,3.7142857142857144,McLean Park,0,0,2012,36
+DAJBracewell,New Zealand,Sri Lanka,0,0,0,0,0,35,5,31,1,3,6.2,Hagley Oval,0,0,2015,49
+DAJBracewell,New Zealand,India,15,48,0,0,31.25,48,8,44,1,2,5.5,Himachal Pradesh Cricket Association Stadium,0,0,2016,52
+DAJBracewell,New Zealand,Zimbabwe,0,0,0,0,0,60,10,48,0,2,4.8,Harare Sports Club,0,0,2011,20
+DAJBracewell,New Zealand,West Indies,5,9,0,0,55.55555555555556,60,10,59,1,2,5.9,Warner Park Basseterre,0,0,2012,44

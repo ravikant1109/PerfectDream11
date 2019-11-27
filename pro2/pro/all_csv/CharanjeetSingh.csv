@@ -1,4 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CharanjeetSingh,Italy,Guernsey,8,9,1,0,88.88888888888889,17,2,18,1,0,9.0,College Field,34
-CharanjeetSingh,Italy,Jersey,0,0,0,0,0,11,1,17,0,0,17.0,College Field,0
-CharanjeetSingh,Italy,Guernsey,8,9,1,0,88.88888888888889,17,2,18,1,0,9.0,College Field,34
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CharanjeetSingh,Italy,Jersey,0,0,0,0,0,11,1,17,0,0,17.0,College Field,0,0,2019,0
+CharanjeetSingh,Italy,Guernsey,8,9,1,0,88.88888888888889,17,2,18,1,0,9.0,College Field,0,0,2019,34

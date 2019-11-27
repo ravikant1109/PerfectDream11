@@ -1,2 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GJPKruger,South Africa,Australia,3,5,0,0,60.0,25,4,34,0,0,8.5,Brisbane Cricket Ground Woolloongabba,1
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GJPKruger,South Africa,Australia,3,5,0,0,60.0,25,4,34,0,0,8.5,Brisbane Cricket Ground Woolloongabba,0,0,2006,1
+GJPKruger,South Africa,Sri Lanka,0,3,0,0,0.0,51,8,61,1,0,7.625,Brisbane Cricket Ground Woolloongabba,0,0,2006,17
+GJPKruger,South Africa,Australia,0,7,0,0,0.0,37,6,36,0,0,6.0,Docklands Stadium,0,1,2006,0
+GJPKruger,South Africa,Australia,0,0,0,0,0,59,9,46,1,1,5.111111111111111,Brisbane Cricket Ground Woolloongabba,0,0,2006,35

@@ -1,34 +1,28 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SONgoche,Kenya,Canada,0,0,0,0,0,11,1,17,0,0,17.0,Dubai International Cricket Stadium,0
-SONgoche,Kenya,Bermuda,0,0,0,0,0,23,3,15,2,0,5.0,ICC Academy,52
-SONgoche,Kenya,Netherlands,0,0,0,0,0,17,2,29,0,0,14.5,Wanderers Cricket Ground,-6
-SONgoche,Kenya,Canada,0,0,0,0,0,11,1,17,0,0,17.0,Dubai International Cricket Stadium,0
-SONgoche,Kenya,Bermuda,0,0,0,0,0,23,3,15,2,0,5.0,ICC Academy,52
-SONgoche,Kenya,Netherlands,0,0,0,0,0,17,2,29,0,0,14.5,Wanderers Cricket Ground,-6
-SONgoche,Kenya,Canada,0,0,0,0,0,11,1,17,0,0,17.0,Dubai International Cricket Stadium,0
-SONgoche,Kenya,Bermuda,0,0,0,0,0,23,3,15,2,0,5.0,ICC Academy,52
-SONgoche,Kenya,Netherlands,0,0,0,0,0,17,2,29,0,0,14.5,Wanderers Cricket Ground,-6
-SONgoche,Kenya,Netherlands,0,0,0,0,0,24,4,35,4,0,8.75,Wanderers Cricket Ground,108
-SONgoche,Kenya,Namibia,2,4,0,0,50.0,23,3,36,1,0,12.0,Dubai International Cricket Stadium,17
-SONgoche,Kenya,Singapore,0,0,0,0,0,23,3,33,2,0,11.0,ICC Academy Ground No 2,46
-SONgoche,Kenya,Canada,0,1,0,0,0.0,23,3,27,0,0,9.0,Sharjah Cricket Stadium,-8
-SONgoche,Kenya,Ireland,3,7,0,0,42.857142857142854,22,3,26,0,0,8.666666666666666,Mombasa Sports Club Ground,-3
-SONgoche,Kenya,Ireland,0,2,0,0,0.0,5,0,8,0,0,0,Dubai International Cricket Stadium,-8
-SONgoche,Kenya,Afghanistan,0,0,0,0,0,24,4,20,1,0,5.0,Sharjah Cricket Stadium,27
-SONgoche,Kenya,Uganda,22,11,1,2,200.0,23,3,21,1,0,7.0,Lugogo Cricket Oval,52
-SONgoche,Kenya,Netherlands,7,6,1,0,116.66666666666667,23,3,22,1,0,7.333333333333333,ICC Academy,33
-SONgoche,Kenya,Scotland,10,14,1,0,71.42857142857143,23,3,45,1,0,15.0,ICC Academy Ground No 2,30
-SONgoche,Kenya,Canada,0,0,0,0,0,23,3,30,1,0,10.0,ICC Global Cricket Academy,23
-SONgoche,Kenya,Scotland,0,0,0,0,0,11,1,17,2,0,17.0,ICC Academy,50
-SONgoche,Kenya,Canada,2,7,0,0,28.57142857142857,24,4,18,2,0,4.5,ICC Global Cricket Academy,50
-SONgoche,Kenya,Afghanistan,1,2,0,0,50.0,17,2,27,1,0,13.5,Sharjah Cricket Stadium,16
-SONgoche,Kenya,Ghana,6,8,0,0,75.0,23,3,20,2,0,6.666666666666667,Kyambogo Cricket Oval,56
-SONgoche,Kenya,Papua New Guinea,5,8,0,0,62.5,21,3,26,1,0,8.666666666666666,Dubai International Cricket Stadium,28
-SONgoche,Kenya,Netherlands,38,28,2,2,135.71428571428572,18,3,22,0,0,7.333333333333333,ICC Academy,44
-SONgoche,Kenya,Ireland,2,2,0,0,100.0,17,2,14,4,0,7.0,Mombasa Sports Club Ground,110
-SONgoche,Kenya,Afghanistan,3,10,0,0,30.0,17,2,30,2,0,15.0,Sharjah Cricket Stadium,41
-SONgoche,Kenya,Canada,0,0,0,0,0,11,1,17,0,0,17.0,Dubai International Cricket Stadium,0
-SONgoche,Kenya,Bermuda,0,0,0,0,0,23,3,15,2,0,5.0,ICC Academy,52
-SONgoche,Kenya,Netherlands,0,0,0,0,0,17,2,29,0,0,14.5,Wanderers Cricket Ground,-6
-SONgoche,Kenya,Netherlands,0,0,0,0,0,24,4,35,4,0,8.75,Wanderers Cricket Ground,108
-SONgoche,Kenya,Namibia,2,4,0,0,50.0,23,3,36,1,0,12.0,Dubai International Cricket Stadium,17
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SONgoche,Kenya,Singapore,0,0,0,0,0,23,3,33,2,0,11.0,ICC Academy Ground No 2,0,0,2019,46
+SONgoche,Kenya,Netherlands,0,0,0,0,0,17,2,29,0,0,14.5,Wanderers Cricket Ground,0,0,2013,-6
+SONgoche,Kenya,Scotland,0,0,0,0,0,11,1,17,2,0,17.0,ICC Academy,0,1,2013,58
+SONgoche,Kenya,Netherlands,0,0,0,0,0,24,4,35,4,0,8.75,Wanderers Cricket Ground,0,0,2013,108
+SONgoche,Kenya,Ghana,6,8,0,0,75.0,23,3,20,2,0,6.666666666666667,Kyambogo Cricket Oval,0,0,2019,56
+SONgoche,Kenya,Netherlands,38,28,2,2,135.71428571428572,18,3,22,0,0,7.333333333333333,ICC Academy,0,0,2013,44
+SONgoche,Kenya,Papua New Guinea,5,8,0,0,62.5,21,3,26,1,0,8.666666666666666,Dubai International Cricket Stadium,1,1,2019,48
+SONgoche,Kenya,Namibia,2,4,0,0,50.0,23,3,36,1,0,12.0,Dubai International Cricket Stadium,0,0,2019,17
+SONgoche,Kenya,Canada,2,7,0,0,28.57142857142857,24,4,18,2,0,4.5,ICC Global Cricket Academy,0,0,2013,50
+SONgoche,Kenya,Canada,0,1,0,0,0.0,23,3,27,0,0,9.0,Sharjah Cricket Stadium,1,2,2013,20
+SONgoche,Kenya,Afghanistan,3,10,0,0,30.0,17,2,30,2,0,15.0,Sharjah Cricket Stadium,0,0,2013,41
+SONgoche,Kenya,Scotland,10,14,1,0,71.42857142857143,23,3,45,1,0,15.0,ICC Academy Ground No 2,0,0,2019,30
+SONgoche,Kenya,Canada,0,0,0,0,0,11,1,17,0,0,17.0,Dubai International Cricket Stadium,0,0,2010,0
+SONgoche,Kenya,Uganda,22,11,1,2,200.0,23,3,21,1,0,7.0,Lugogo Cricket Oval,0,1,2019,60
+SONgoche,Kenya,Bermuda,0,0,0,0,0,23,3,15,2,0,5.0,ICC Academy,0,0,2019,52
+SONgoche,Kenya,Afghanistan,1,2,0,0,50.0,17,2,27,1,0,13.5,Sharjah Cricket Stadium,0,0,2013,16
+SONgoche,Kenya,Canada,0,0,0,0,0,23,3,30,1,0,10.0,ICC Global Cricket Academy,0,0,2013,23
+SONgoche,Kenya,Ireland,3,7,0,0,42.857142857142854,22,3,26,0,0,8.666666666666666,Mombasa Sports Club Ground,0,1,2012,5
+SONgoche,Kenya,Ireland,0,2,0,0,0.0,5,0,8,0,0,0,Dubai International Cricket Stadium,0,0,2012,-8
+SONgoche,Kenya,Afghanistan,0,0,0,0,0,24,4,20,1,0,5.0,Sharjah Cricket Stadium,0,0,2013,27
+SONgoche,Kenya,Ireland,2,2,0,0,100.0,17,2,14,4,0,7.0,Mombasa Sports Club Ground,0,1,2012,118
+SONgoche,Kenya,Netherlands,7,6,1,0,116.66666666666667,23,3,22,1,0,7.333333333333333,ICC Academy,0,0,2019,33
+SONgoche,Kenya,Ireland,0,0,0,0,0,59,9,40,2,0,4.444444444444445,Mombasa Sports Club Ground,0,0,2012,54
+SONgoche,Kenya,Ireland,28,37,1,1,75.67567567567568,60,10,49,2,0,4.9,Mombasa Sports Club Ground,0,0,2012,85
+SONgoche,Kenya,Scotland,9,5,0,1,180.0,53,8,43,1,0,5.375,Hagley Oval,0,0,2014,38
+SONgoche,Kenya,Pakistan,0,1,0,0,0.0,60,10,46,1,0,4.6,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2011,21
+SONgoche,Kenya,New Zealand,0,1,0,0,0.0,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,-8

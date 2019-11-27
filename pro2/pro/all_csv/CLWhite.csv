@@ -1,63 +1,110 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CLWhite,Australia,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Edgbaston,8
-CLWhite,Australia,Sri Lanka,85,49,6,6,173.46938775510205,0,0,0,0,0,0,Kensington Oval Bridgetown,111
-CLWhite,Australia,Sri Lanka,39,32,1,3,121.875,0,0,0,0,0,0,Pallekele International Cricket Stadium,46
-CLWhite,Australia,Pakistan,15,23,0,0,65.21739130434783,5,0,12,0,0,0,Dubai International Cricket Stadium,13
-CLWhite,Australia,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Edgbaston,8
-CLWhite,Australia,Sri Lanka,85,49,6,6,173.46938775510205,0,0,0,0,0,0,Kensington Oval Bridgetown,111
-CLWhite,Australia,Sri Lanka,39,32,1,3,121.875,0,0,0,0,0,0,Pallekele International Cricket Stadium,46
-CLWhite,Australia,Pakistan,15,23,0,0,65.21739130434783,5,0,12,0,0,0,Dubai International Cricket Stadium,13
-CLWhite,Australia,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Edgbaston,8
-CLWhite,Australia,Sri Lanka,85,49,6,6,173.46938775510205,0,0,0,0,0,0,Kensington Oval Bridgetown,111
-CLWhite,Australia,Sri Lanka,39,32,1,3,121.875,0,0,0,0,0,0,Pallekele International Cricket Stadium,46
-CLWhite,Australia,Pakistan,15,23,0,0,65.21739130434783,5,0,12,0,0,0,Dubai International Cricket Stadium,13
-CLWhite,Australia,New Zealand,68,30,5,5,226.66666666666666,0,0,0,0,0,0,AMI Stadium,91
-CLWhite,Australia,Bangladesh,18,16,2,0,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,20
-CLWhite,Australia,Ireland,22,20,3,0,110.00000000000001,0,0,0,0,0,0,R Premadasa Stadium,25
-CLWhite,Australia,Pakistan,4,9,0,0,44.44444444444444,0,0,0,0,0,0,Melbourne Cricket Ground,-2
-CLWhite,Australia,Pakistan,5,5,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,5
-CLWhite,Australia,England,40,20,1,4,200.0,11,1,11,1,0,11.0,Sydney Cricket Ground,74
-CLWhite,Australia,West Indies,5,6,0,0,83.33333333333334,0,0,0,0,0,0,R Premadasa Stadium,5
-CLWhite,Australia,South Africa,24,21,3,0,114.28571428571428,0,0,0,0,0,0,Adelaide Oval,27
-CLWhite,Australia,Pakistan,17,13,1,1,130.76923076923077,0,0,0,0,0,0,Edgbaston,20
-CLWhite,Australia,New Zealand,16,11,0,1,145.45454545454547,0,0,0,0,0,0,Sydney Cricket Ground,18
-CLWhite,Australia,Pakistan,43,32,0,5,134.375,0,0,0,0,0,0,Beausejour Stadium Gros Islet,53
-CLWhite,Australia,South Africa,21,13,3,1,161.53846153846155,0,0,0,0,0,0,R Premadasa Stadium,26
-CLWhite,Australia,Pakistan,9,7,0,0,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,9
-CLWhite,Australia,India,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Kensington Oval Bridgetown,5
-CLWhite,Australia,South Africa,40,18,5,1,222.22222222222223,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,47
-CLWhite,Australia,West Indies,15,20,0,0,75.0,0,0,0,0,0,0,Bellerive Oval,15
-CLWhite,Australia,Bangladesh,8,11,0,0,72.72727272727273,0,0,0,0,0,0,Kensington Oval Bridgetown,8
-CLWhite,Australia,South Africa,41,31,4,1,132.25806451612902,0,0,0,0,0,0,Stadium Australia,47
-CLWhite,Australia,Sri Lanka,7,7,1,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,8
-CLWhite,Australia,West Indies,10,6,1,0,166.66666666666669,7,1,10,0,0,10.0,Kensington Oval Bridgetown,11
-CLWhite,Australia,South Africa,39,27,4,1,144.44444444444443,0,0,0,0,0,0,New Wanderers Stadium,45
-CLWhite,Australia,Sri Lanka,8,10,0,0,80.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,8
-CLWhite,Australia,England,55,38,1,3,144.73684210526315,0,0,0,0,0,0,Old Trafford,70
-CLWhite,Australia,India,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,-8
-CLWhite,Australia,England,30,19,4,1,157.89473684210526,0,0,0,0,0,0,Kensington Oval Bridgetown,36
-CLWhite,Australia,South Africa,23,22,2,1,104.54545454545455,6,1,6,0,0,6.0,SuperSport Park,27
-CLWhite,Australia,South Africa,7,5,0,1,140.0,0,0,0,0,0,0,Melbourne Cricket Ground,9
-CLWhite,Australia,South Africa,16,20,0,1,80.0,0,0,0,0,0,0,New Wanderers Stadium,18
-CLWhite,Australia,Pakistan,12,11,0,1,109.09090909090908,0,0,0,0,0,0,R Premadasa Stadium,14
-CLWhite,Australia,England,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Adelaide Oval,4
-CLWhite,Australia,Pakistan,0,4,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,-8
-CLWhite,Australia,England,58,45,9,0,128.88888888888889,11,1,14,0,0,14.0,Melbourne Cricket Ground,75
-CLWhite,Australia,South Africa,1,2,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,-3
-CLWhite,Australia,England,0,2,0,0,0.0,0,0,0,0,0,0,Melbourne Cricket Ground,-8
-CLWhite,Australia,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,-8
-CLWhite,Australia,New Zealand,11,9,1,1,122.22222222222223,0,0,0,0,0,0,Westpac Stadium,14
-CLWhite,Australia,South Africa,14,11,2,0,127.27272727272727,0,0,0,0,0,0,SuperSport Park,16
-CLWhite,Australia,England,75,44,6,4,170.45454545454547,0,0,0,0,0,0,Bellerive Oval,97
-CLWhite,Australia,South Africa,28,22,1,1,127.27272727272727,0,0,0,0,0,0,Newlands,31
-CLWhite,Australia,England,41,38,4,1,107.89473684210526,0,0,0,0,0,0,Stadium Australia,47
-CLWhite,Australia,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Edgbaston,8
-CLWhite,Australia,Sri Lanka,85,49,6,6,173.46938775510205,0,0,0,0,0,0,Kensington Oval Bridgetown,111
-CLWhite,Australia,Sri Lanka,39,32,1,3,121.875,0,0,0,0,0,0,Pallekele International Cricket Stadium,46
-CLWhite,Australia,Pakistan,15,23,0,0,65.21739130434783,5,0,12,0,0,0,Dubai International Cricket Stadium,13
-CLWhite,Australia,New Zealand,68,30,5,5,226.66666666666666,0,0,0,0,0,0,AMI Stadium,91
-CLWhite,Australia,Bangladesh,18,16,2,0,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,20
-CLWhite,Australia,Ireland,22,20,3,0,110.00000000000001,0,0,0,0,0,0,R Premadasa Stadium,25
-CLWhite,Australia,Pakistan,4,9,0,0,44.44444444444444,0,0,0,0,0,0,Melbourne Cricket Ground,-2
-CLWhite,Australia,Pakistan,5,5,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,5
-CLWhite,Australia,England,40,20,1,4,200.0,11,1,11,1,0,11.0,Sydney Cricket Ground,74
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CLWhite,Australia,England,75,44,6,4,170.45454545454547,0,0,0,0,0,0,Bellerive Oval,0,0,2014,97
+CLWhite,Australia,England,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Adelaide Oval,0,1,2011,12
+CLWhite,Australia,South Africa,24,21,3,0,114.28571428571428,0,0,0,0,0,0,Adelaide Oval,0,1,2014,35
+CLWhite,Australia,Pakistan,12,11,0,1,109.09090909090908,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,22
+CLWhite,Australia,Sri Lanka,85,49,6,6,173.46938775510205,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2010,119
+CLWhite,Australia,West Indies,15,20,0,0,75.0,0,0,0,0,0,0,Bellerive Oval,0,0,2010,15
+CLWhite,Australia,Pakistan,43,32,0,5,134.375,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,53
+CLWhite,Australia,India,5,6,0,0,83.33333333333334,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2010,13
+CLWhite,Australia,England,40,20,1,4,200.0,11,1,11,1,0,11.0,Sydney Cricket Ground,0,2,2007,90
+CLWhite,Australia,England,55,38,1,3,144.73684210526315,0,0,0,0,0,0,Old Trafford,0,0,2009,70
+CLWhite,Australia,South Africa,41,31,4,1,132.25806451612902,0,0,0,0,0,0,Stadium Australia,0,0,2014,47
+CLWhite,Australia,New Zealand,16,11,0,1,145.45454545454547,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2009,18
+CLWhite,Australia,Pakistan,15,23,0,0,65.21739130434783,5,0,12,0,0,0,Dubai International Cricket Stadium,0,1,2012,21
+CLWhite,Australia,England,0,2,0,0,0.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2011,0
+CLWhite,Australia,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,-8
+CLWhite,Australia,South Africa,7,5,0,1,140.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2009,25
+CLWhite,Australia,South Africa,21,13,3,1,161.53846153846155,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,26
+CLWhite,Australia,England,58,45,9,0,128.88888888888889,11,1,14,0,0,14.0,Melbourne Cricket Ground,0,0,2014,75
+CLWhite,Australia,Sri Lanka,7,7,1,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2011,16
+CLWhite,Australia,Ireland,22,20,3,0,110.00000000000001,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,25
+CLWhite,Australia,Sri Lanka,8,10,0,0,80.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2010,8
+CLWhite,Australia,England,41,38,4,1,107.89473684210526,0,0,0,0,0,0,Stadium Australia,0,0,2014,47
+CLWhite,Australia,Bangladesh,18,16,2,0,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,20
+CLWhite,Australia,South Africa,23,22,2,1,104.54545454545455,6,1,6,0,0,6.0,SuperSport Park,0,1,2009,35
+CLWhite,Australia,India,0,2,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,0
+CLWhite,Australia,Pakistan,9,7,0,0,128.57142857142858,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,9
+CLWhite,Australia,South Africa,39,27,4,1,144.44444444444443,0,0,0,0,0,0,New Wanderers Stadium,0,0,2011,45
+CLWhite,Australia,West Indies,10,6,1,0,166.66666666666669,7,1,10,0,0,10.0,Kensington Oval Bridgetown,0,0,2008,11
+CLWhite,Australia,South Africa,1,2,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2014,-3
+CLWhite,Australia,Sri Lanka,39,32,1,3,121.875,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2011,54
+CLWhite,Australia,England,30,19,4,1,157.89473684210526,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,36
+CLWhite,Australia,South Africa,16,20,0,1,80.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,18
+CLWhite,Australia,South Africa,28,22,1,1,127.27272727272727,0,0,0,0,0,0,Newlands,0,1,2011,39
+CLWhite,Australia,Pakistan,7,8,1,0,87.5,0,0,0,0,0,0,Edgbaston,0,1,2010,16
+CLWhite,Australia,New Zealand,11,9,1,1,122.22222222222223,0,0,0,0,0,0,Westpac Stadium,0,0,2010,14
+CLWhite,Australia,Pakistan,4,9,0,0,44.44444444444444,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2010,6
+CLWhite,Australia,Bangladesh,8,11,0,0,72.72727272727273,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,8
+CLWhite,Australia,New Zealand,68,30,5,5,226.66666666666666,0,0,0,0,0,0,AMI Stadium,1,0,2010,103
+CLWhite,Australia,South Africa,40,18,5,1,222.22222222222223,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2009,55
+CLWhite,Australia,Pakistan,0,4,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2012,0
+CLWhite,Australia,West Indies,5,6,0,0,83.33333333333334,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,5
+CLWhite,Australia,South Africa,14,11,2,0,127.27272727272727,0,0,0,0,0,0,SuperSport Park,0,0,2014,16
+CLWhite,Australia,Pakistan,5,5,0,0,100.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2012,13
+CLWhite,Australia,Pakistan,17,13,1,1,130.76923076923077,0,0,0,0,0,0,Edgbaston,1,0,2010,32
+CLWhite,Australia,Bangladesh,20,50,1,0,40.0,5,0,7,0,0,0,Shere Bangla National Stadium,0,0,2011,15
+CLWhite,Australia,India,25,48,0,0,52.083333333333336,0,0,0,0,0,0,Nehru Stadium,0,1,2009,29
+CLWhite,Australia,South Africa,21,24,2,0,87.5,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2009,31
+CLWhite,Australia,Pakistan,13,20,1,1,65.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2010,22
+CLWhite,Australia,England,24,48,1,0,50.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2011,21
+CLWhite,Australia,New Zealand,13,18,0,0,72.22222222222221,0,0,0,0,0,0,Westpac Stadium,0,0,2007,13
+CLWhite,Australia,England,17,16,1,0,106.25,0,0,0,0,0,0,Kennington Oval,0,1,2010,26
+CLWhite,Australia,New Zealand,0,0,0,0,0,11,1,24,0,0,24.0,Adelaide Oval,0,0,2009,0
+CLWhite,Australia,England,20,31,2,0,64.51612903225806,0,0,0,0,0,0,Lord's,0,0,2010,20
+CLWhite,Australia,Ireland,42,55,3,0,76.36363636363637,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2010,45
+CLWhite,Australia,England,86,99,7,2,86.86868686868688,0,0,0,0,0,0,Sophia Gardens,0,0,2010,105
+CLWhite,Australia,England,53,73,7,0,72.6027397260274,0,0,0,0,0,0,Kennington Oval,0,1,2009,76
+CLWhite,Australia,New Zealand,5,15,0,0,33.33333333333333,5,0,6,0,0,0,Sydney Cricket Ground,0,0,2007,-1
+CLWhite,Australia,West Indies,4,17,0,0,23.52941176470588,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,-2
+CLWhite,Australia,England,13,21,0,0,61.904761904761905,32,5,28,1,0,5.6,Sydney Cricket Ground,0,0,2007,38
+CLWhite,Australia,England,20,21,1,1,95.23809523809523,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2011,23
+CLWhite,Australia,New Zealand,42,19,3,3,221.0526315789474,19,3,29,0,0,9.666666666666666,Eden Park,0,0,2007,49
+CLWhite,Australia,England,35,23,5,1,152.17391304347828,0,0,0,0,0,0,Trent Bridge,0,0,2009,42
+CLWhite,Australia,Pakistan,105,88,8,4,119.31818181818181,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2010,137
+CLWhite,Australia,New Zealand,6,21,1,0,28.57142857142857,0,0,0,0,0,0,Westpac Stadium,0,0,2010,1
+CLWhite,Australia,New Zealand,13,8,0,2,162.5,0,0,0,0,0,0,Seddon Park,0,0,2007,17
+CLWhite,Australia,India,23,42,3,0,54.761904761904766,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2009,30
+CLWhite,Australia,New Zealand,20,12,1,1,166.66666666666669,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2007,23
+CLWhite,Australia,England,24,15,4,0,160.0,0,0,0,0,0,0,Trent Bridge,0,0,2009,28
+CLWhite,Australia,England,16,16,2,1,100.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2011,20
+CLWhite,Australia,England,0,0,0,0,0,17,2,27,0,0,13.5,Melbourne Cricket Ground,0,0,2007,-6
+CLWhite,Australia,England,25,24,2,0,104.16666666666667,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2011,35
+CLWhite,Australia,India,89,49,6,6,181.6326530612245,0,0,0,0,0,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2010,115
+CLWhite,Australia,New Zealand,62,102,7,1,60.78431372549019,0,0,0,0,0,0,SuperSport Park,0,0,2009,77
+CLWhite,Australia,New Zealand,33,49,3,0,67.3469387755102,0,0,0,0,0,0,McLean Park,1,0,2010,46
+CLWhite,Australia,West Indies,63,78,2,1,80.76923076923077,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2010,75
+CLWhite,Australia,Bangladesh,9,12,0,0,75.0,9,1,5,3,0,5.0,Marrara Cricket Ground,0,0,2008,84
+CLWhite,Australia,New Zealand,25,36,3,0,69.44444444444444,0,0,0,0,0,0,Seddon Park,0,1,2010,34
+CLWhite,Australia,England,0,2,0,0,0.0,0,0,0,0,0,0,Bellerive Oval,0,0,2015,-8
+CLWhite,Australia,India,35,30,2,1,116.66666666666667,0,0,0,0,0,0,SuperSport Park,0,0,2009,39
+CLWhite,Australia,England,45,78,3,0,57.692307692307686,0,0,0,0,0,0,Bellerive Oval,0,0,2011,44
+CLWhite,Australia,New Zealand,22,28,3,0,78.57142857142857,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,25
+CLWhite,Australia,West Indies,22,33,1,0,66.66666666666666,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,21
+CLWhite,Australia,England,12,23,2,0,52.17391304347826,0,0,0,0,0,0,Old Trafford,0,0,2010,10
+CLWhite,Australia,Pakistan,55,58,4,1,94.82758620689656,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2010,85
+CLWhite,Australia,India,62,71,3,1,87.32394366197182,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2009,75
+CLWhite,Australia,Pakistan,8,18,0,0,44.44444444444444,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,2
+CLWhite,Australia,England,105,125,9,1,84.0,0,0,0,0,0,0,The Rose Bowl,0,1,2009,140
+CLWhite,Australia,New Zealand,50,57,5,1,87.71929824561403,0,0,0,0,0,0,Eden Park,0,1,2010,73
+CLWhite,Australia,Bangladesh,0,0,0,0,0,44,7,42,2,0,6.0,Marrara Cricket Ground,0,1,2008,58
+CLWhite,Australia,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,-8
+CLWhite,Australia,India,51,68,3,1,75.0,0,0,0,0,0,0,Reliance Stadium,0,0,2009,64
+CLWhite,Australia,New Zealand,1,1,0,0,100.0,24,4,27,0,0,6.75,Melbourne Cricket Ground,0,0,2007,1
+CLWhite,Australia,England,10,19,1,0,52.63157894736842,0,0,0,0,0,0,The Rose Bowl,0,0,2010,7
+CLWhite,Australia,New Zealand,45,35,2,3,128.57142857142858,18,3,23,1,0,7.666666666666667,Bellerive Oval,0,0,2007,78
+CLWhite,Australia,Pakistan,28,31,3,0,90.32258064516128,0,0,0,0,0,0,Adelaide Oval,0,1,2010,39
+CLWhite,Australia,West Indies,17,41,1,0,41.46341463414634,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,12
+CLWhite,Australia,Sri Lanka,35,43,0,0,81.3953488372093,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,35
+CLWhite,Australia,South Africa,1,5,0,0,20.0,18,3,18,0,0,6.0,Bellerive Oval,0,1,2009,3
+CLWhite,Australia,West Indies,40,39,3,0,102.56410256410255,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2008,51
+CLWhite,Australia,India,57,33,2,5,172.72727272727272,0,0,0,0,0,0,Rajiv Gandhi International Stadium Uppal,1,0,2009,89
+CLWhite,Australia,South Africa,30,54,1,1,55.55555555555556,0,0,0,0,0,0,Adelaide Oval,0,0,2009,29
+CLWhite,Australia,Bangladesh,22,24,1,1,91.66666666666666,0,0,0,0,0,0,Marrara Cricket Ground,0,1,2008,33
+CLWhite,Australia,New Zealand,17,15,0,0,113.33333333333333,17,2,20,0,0,10.0,Melbourne Cricket Ground,0,1,2009,23
+CLWhite,Australia,England,44,65,2,0,67.6923076923077,0,0,0,0,0,0,Adelaide Oval,0,1,2011,52
+CLWhite,Australia,England,42,67,5,0,62.68656716417911,0,0,0,0,0,0,Lord's,0,0,2009,45
+CLWhite,Australia,West Indies,8,8,1,0,100.0,35,5,32,0,0,6.4,Arnos Vale Ground Kingstown,0,0,2008,9
+CLWhite,Australia,West Indies,22,36,1,0,61.111111111111114,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2010,29
+CLWhite,Australia,Zimbabwe,22,36,0,0,61.111111111111114,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2011,20
+CLWhite,Australia,New Zealand,10,18,1,0,55.55555555555556,11,1,10,2,0,10.0,Sydney Cricket Ground,0,1,2009,65

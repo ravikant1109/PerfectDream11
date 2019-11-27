@@ -1,40 +1,33 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BabarHayat,Hong Kong,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,-8
-BabarHayat,Hong Kong,Bangladesh,1,4,0,0,25.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-5
-BabarHayat,Hong Kong,Oman,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Sheikh Zayed Stadium,6
-BabarHayat,Hong Kong,Netherlands,11,26,0,0,42.30769230769231,0,0,0,0,0,0,Dubai International Cricket Stadium,5
-BabarHayat,Hong Kong,Ireland,7,6,0,1,116.66666666666667,0,0,0,0,0,0,The Village Malahide,9
-BabarHayat,Hong Kong,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,-8
-BabarHayat,Hong Kong,Bangladesh,1,4,0,0,25.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-5
-BabarHayat,Hong Kong,Oman,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Sheikh Zayed Stadium,6
-BabarHayat,Hong Kong,Netherlands,11,26,0,0,42.30769230769231,0,0,0,0,0,0,Dubai International Cricket Stadium,5
-BabarHayat,Hong Kong,Ireland,7,6,0,1,116.66666666666667,0,0,0,0,0,0,The Village Malahide,9
-BabarHayat,Hong Kong,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,-8
-BabarHayat,Hong Kong,Bangladesh,1,4,0,0,25.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-5
-BabarHayat,Hong Kong,Oman,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Sheikh Zayed Stadium,6
-BabarHayat,Hong Kong,Netherlands,11,26,0,0,42.30769230769231,0,0,0,0,0,0,Dubai International Cricket Stadium,5
-BabarHayat,Hong Kong,Ireland,7,6,0,1,116.66666666666667,0,0,0,0,0,0,The Village Malahide,9
-BabarHayat,Hong Kong,Afghanistan,20,10,1,1,200.0,0,0,0,0,0,0,The Village Malahide,23
-BabarHayat,Hong Kong,Nepal,17,22,0,0,77.27272727272727,0,0,0,0,0,0,Civil Service Cricket Club Stormont,17
-BabarHayat,Hong Kong,Nepal,20,25,2,0,80.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,22
-BabarHayat,Hong Kong,Ireland,49,31,2,2,158.06451612903226,0,0,0,0,0,0,Bready Cricket Club Magheramason,55
-BabarHayat,Hong Kong,Oman,65,45,4,3,144.44444444444443,0,0,0,0,0,0,Sheikh Zayed Stadium,83
-BabarHayat,Hong Kong,Oman,122,60,9,7,203.33333333333331,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,161
-BabarHayat,Hong Kong,Scotland,8,20,0,0,40.0,0,0,0,0,0,0,The Village Malahide,2
-BabarHayat,Hong Kong,Afghanistan,18,16,2,1,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,22
-BabarHayat,Hong Kong,Scotland,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Mission Road Ground Mong Kok,-5
-BabarHayat,Hong Kong,Scotland,10,10,2,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,12
-BabarHayat,Hong Kong,Zimbabwe,9,12,1,0,75.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,10
-BabarHayat,Hong Kong,Scotland,15,11,2,0,136.36363636363635,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,17
-BabarHayat,Hong Kong,United Arab Emirates,54,47,8,0,114.89361702127661,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,70
-BabarHayat,Hong Kong,Oman,27,35,2,0,77.14285714285715,0,0,0,0,0,0,Sheikh Zayed Stadium,29
-BabarHayat,Hong Kong,Scotland,26,15,2,2,173.33333333333334,0,0,0,0,0,0,Mission Road Ground Mong Kok,32
-BabarHayat,Hong Kong,Oman,16,7,4,0,228.57142857142856,0,0,0,0,0,0,Sheikh Zayed Stadium,20
-BabarHayat,Hong Kong,Nepal,0,2,0,0,0.0,0,0,0,0,0,0,P Sara Oval,-8
-BabarHayat,Hong Kong,Afghanistan,5,3,1,0,166.66666666666669,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,6
-BabarHayat,Hong Kong,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,-8
-BabarHayat,Hong Kong,Bangladesh,1,4,0,0,25.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-5
-BabarHayat,Hong Kong,Oman,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Sheikh Zayed Stadium,6
-BabarHayat,Hong Kong,Netherlands,11,26,0,0,42.30769230769231,0,0,0,0,0,0,Dubai International Cricket Stadium,5
-BabarHayat,Hong Kong,Ireland,7,6,0,1,116.66666666666667,0,0,0,0,0,0,The Village Malahide,9
-BabarHayat,Hong Kong,Afghanistan,20,10,1,1,200.0,0,0,0,0,0,0,The Village Malahide,23
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BabarHayat,Hong Kong,Scotland,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,1,2016,3
+BabarHayat,Hong Kong,Afghanistan,20,10,1,1,200.0,0,0,0,0,0,0,The Village Malahide,0,0,2015,23
+BabarHayat,Hong Kong,Oman,27,35,2,0,77.14285714285715,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2015,45
+BabarHayat,Hong Kong,Bangladesh,1,4,0,0,25.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2014,3
+BabarHayat,Hong Kong,Zimbabwe,9,12,1,0,75.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,2,0,2016,34
+BabarHayat,Hong Kong,Afghanistan,18,16,2,1,112.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,4,2016,54
+BabarHayat,Hong Kong,Ireland,49,31,2,2,158.06451612903226,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,0,2016,55
+BabarHayat,Hong Kong,Netherlands,11,26,0,0,42.30769230769231,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2017,13
+BabarHayat,Hong Kong,Nepal,20,25,2,0,80.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,22
+BabarHayat,Hong Kong,Ireland,7,6,0,1,116.66666666666667,0,0,0,0,0,0,The Village Malahide,0,1,2015,17
+BabarHayat,Hong Kong,Nepal,0,2,0,0,0.0,0,0,0,0,0,0,P Sara Oval,0,0,2014,-8
+BabarHayat,Hong Kong,Oman,65,45,4,3,144.44444444444443,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2015,99
+BabarHayat,Hong Kong,Scotland,15,11,2,0,136.36363636363635,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,17
+BabarHayat,Hong Kong,Oman,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,6
+BabarHayat,Hong Kong,Scotland,8,20,0,0,40.0,0,0,0,0,0,0,The Village Malahide,0,0,2015,2
+BabarHayat,Hong Kong,United Arab Emirates,54,47,8,0,114.89361702127661,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,1,2016,78
+BabarHayat,Hong Kong,Oman,122,60,9,7,203.33333333333331,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,1,2016,169
+BabarHayat,Hong Kong,Scotland,26,15,2,2,173.33333333333334,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,1,2016,40
+BabarHayat,Hong Kong,Oman,16,7,4,0,228.57142857142856,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2015,20
+BabarHayat,Hong Kong,Scotland,10,10,2,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,12
+BabarHayat,Hong Kong,Afghanistan,5,3,1,0,166.66666666666669,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2014,14
+BabarHayat,Hong Kong,Nepal,17,22,0,0,77.27272727272727,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2015,17
+BabarHayat,Hong Kong,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,1,0,2016,4
+BabarHayat,Hong Kong,United Arab Emirates,0,3,0,0,0.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2017,-8
+BabarHayat,Hong Kong,United Arab Emirates,45,58,4,1,77.58620689655173,0,0,0,0,0,0,ICC Academy,0,1,2015,59
+BabarHayat,Hong Kong,Scotland,56,68,8,1,82.35294117647058,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2016,74
+BabarHayat,Hong Kong,Scotland,26,30,2,0,86.66666666666667,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2016,28
+BabarHayat,Hong Kong,Papua New Guinea,77,98,4,4,78.57142857142857,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,0,2016,97
+BabarHayat,Hong Kong,Papua New Guinea,82,89,9,3,92.13483146067416,5,0,9,0,0,0,Mission Road Ground Mong Kok,0,1,2016,113
+BabarHayat,Hong Kong,United Arab Emirates,14,47,0,1,29.78723404255319,0,0,0,0,0,0,Kinrara Academy Oval,0,1,2014,18
+BabarHayat,Hong Kong,Papua New Guinea,0,3,0,0,0.0,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,1,2016,0
+BabarHayat,Hong Kong,Scotland,79,111,7,0,71.17117117117117,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2017,94

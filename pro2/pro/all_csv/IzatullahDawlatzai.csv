@@ -1,18 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-IzatullahDawlatzai,Afghanistan,Ireland,0,0,0,0,0,17,2,34,0,0,17.0,Dubai International Cricket Stadium,-6
-IzatullahDawlatzai,Germany,Denmark,0,0,0,0,0,23,3,16,1,0,5.333333333333333,King George V Sports Ground,27
-IzatullahDawlatzai,Afghanistan,Ireland,0,0,0,0,0,17,2,34,0,0,17.0,Dubai International Cricket Stadium,-6
-IzatullahDawlatzai,Germany,Denmark,0,0,0,0,0,23,3,16,1,0,5.333333333333333,King George V Sports Ground,27
-IzatullahDawlatzai,Afghanistan,Ireland,0,0,0,0,0,17,2,34,0,0,17.0,Dubai International Cricket Stadium,-6
-IzatullahDawlatzai,Germany,Denmark,0,0,0,0,0,23,3,16,1,0,5.333333333333333,King George V Sports Ground,27
-IzatullahDawlatzai,Afghanistan,Netherlands,0,0,0,0,0,23,3,34,3,0,11.333333333333334,Dubai International Cricket Stadium,69
-IzatullahDawlatzai,Germany,Norway,0,0,0,0,0,23,3,27,3,0,9.0,College Field,75
-IzatullahDawlatzai,Germany,Guernsey,0,0,0,0,0,25,4,20,1,0,5.0,King George V Sports Ground,27
-IzatullahDawlatzai,Germany,Italy,0,0,0,0,0,24,4,37,0,0,9.25,Sportpark Maarschalkerweerd,-2
-IzatullahDawlatzai,Afghanistan,Canada,0,0,0,0,0,12,2,13,1,0,6.5,ICC Global Cricket Academy,25
-IzatullahDawlatzai,Germany,Jersey,24,12,2,1,200.0,24,4,17,0,0,4.25,College Field,32
-IzatullahDawlatzai,Afghanistan,England,0,3,0,0,0.0,20,3,56,2,0,18.666666666666668,R Premadasa Stadium,36
-IzatullahDawlatzai,Afghanistan,Ireland,0,0,0,0,0,17,2,34,0,0,17.0,Dubai International Cricket Stadium,-6
-IzatullahDawlatzai,Germany,Denmark,0,0,0,0,0,23,3,16,1,0,5.333333333333333,King George V Sports Ground,27
-IzatullahDawlatzai,Afghanistan,Netherlands,0,0,0,0,0,23,3,34,3,0,11.333333333333334,Dubai International Cricket Stadium,69
-IzatullahDawlatzai,Germany,Norway,0,0,0,0,0,23,3,27,3,0,9.0,College Field,75
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+IzatullahDawlatzai,Germany,Guernsey,0,0,0,0,0,25,4,20,1,0,5.0,King George V Sports Ground,1,0,2019,39
+IzatullahDawlatzai,Germany,Jersey,24,12,2,1,200.0,24,4,17,0,0,4.25,College Field,0,0,2019,32
+IzatullahDawlatzai,Afghanistan,Canada,0,0,0,0,0,12,2,13,1,0,6.5,ICC Global Cricket Academy,0,1,2012,33
+IzatullahDawlatzai,Germany,Norway,0,0,0,0,0,23,3,27,3,0,9.0,College Field,0,0,2019,75
+IzatullahDawlatzai,Germany,Denmark,0,0,0,0,0,23,3,16,1,0,5.333333333333333,King George V Sports Ground,0,0,2019,27
+IzatullahDawlatzai,Afghanistan,England,0,3,0,0,0.0,20,3,56,2,0,18.666666666666668,R Premadasa Stadium,0,0,2012,36
+IzatullahDawlatzai,Afghanistan,Ireland,0,0,0,0,0,17,2,34,0,0,17.0,Dubai International Cricket Stadium,0,0,2012,-6
+IzatullahDawlatzai,Afghanistan,Netherlands,0,0,0,0,0,23,3,34,3,0,11.333333333333334,Dubai International Cricket Stadium,0,0,2012,69
+IzatullahDawlatzai,Germany,Italy,0,0,0,0,0,24,4,37,0,0,9.25,Sportpark Maarschalkerweerd,0,0,2019,-2
+IzatullahDawlatzai,Afghanistan,Netherlands,1,5,0,0,20.0,29,4,19,1,0,4.75,Sharjah Cricket Stadium,0,0,2012,24
+IzatullahDawlatzai,Afghanistan,Scotland,0,6,0,0,0.0,59,9,40,0,1,4.444444444444445,Sheikh Zayed Stadium,0,1,2015,12

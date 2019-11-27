@@ -1,21 +1,63 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TTaibu,Zimbabwe,New Zealand,27,24,3,0,112.5,0,0,0,0,0,0,Eden Park,30
-TTaibu,Zimbabwe,Sri Lanka,12,14,0,0,85.71428571428571,0,0,0,0,0,0,Providence Stadium,12
-TTaibu,Zimbabwe,England,2,4,0,0,50.0,11,1,20,0,0,20.0,Newlands,-2
-TTaibu,Zimbabwe,New Zealand,27,24,3,0,112.5,0,0,0,0,0,0,Eden Park,30
-TTaibu,Zimbabwe,Sri Lanka,12,14,0,0,85.71428571428571,0,0,0,0,0,0,Providence Stadium,12
-TTaibu,Zimbabwe,England,2,4,0,0,50.0,11,1,20,0,0,20.0,Newlands,-2
-TTaibu,Zimbabwe,New Zealand,27,24,3,0,112.5,0,0,0,0,0,0,Eden Park,30
-TTaibu,Zimbabwe,Sri Lanka,12,14,0,0,85.71428571428571,0,0,0,0,0,0,Providence Stadium,12
-TTaibu,Zimbabwe,England,2,4,0,0,50.0,11,1,20,0,0,20.0,Newlands,-2
-TTaibu,Zimbabwe,West Indies,0,7,0,0,0.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,-8
-TTaibu,Zimbabwe,India,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Harare Sports Club,2
-TTaibu,Zimbabwe,South Africa,11,6,0,1,183.33333333333331,0,0,0,0,0,0,De Beers Diamond Oval,13
-TTaibu,Zimbabwe,India,45,41,2,0,109.75609756097562,0,0,0,0,0,0,Harare Sports Club,47
-TTaibu,Zimbabwe,Pakistan,6,7,0,0,85.71428571428571,0,0,0,0,0,0,Harare Sports Club,6
-TTaibu,Zimbabwe,Pakistan,37,28,2,1,132.14285714285714,0,0,0,0,0,0,Harare Sports Club,41
-TTaibu,Zimbabwe,Australia,0,7,0,0,0.0,11,1,22,0,0,22.0,Newlands,-8
-TTaibu,Zimbabwe,New Zealand,21,15,3,0,140.0,0,0,0,0,0,0,Providence Stadium,24
-TTaibu,Zimbabwe,New Zealand,27,24,3,0,112.5,0,0,0,0,0,0,Eden Park,30
-TTaibu,Zimbabwe,Sri Lanka,12,14,0,0,85.71428571428571,0,0,0,0,0,0,Providence Stadium,12
-TTaibu,Zimbabwe,England,2,4,0,0,50.0,11,1,20,0,0,20.0,Newlands,-2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TTaibu,Zimbabwe,Pakistan,37,28,2,1,132.14285714285714,0,0,0,0,0,0,Harare Sports Club,1,2,2011,69
+TTaibu,Zimbabwe,New Zealand,27,24,3,0,112.5,0,0,0,0,0,0,Eden Park,0,0,2012,30
+TTaibu,Zimbabwe,Sri Lanka,12,14,0,0,85.71428571428571,0,0,0,0,0,0,Providence Stadium,0,0,2010,12
+TTaibu,Zimbabwe,England,2,4,0,0,50.0,11,1,20,0,0,20.0,Newlands,0,0,2007,-2
+TTaibu,Zimbabwe,Australia,0,7,0,0,0.0,11,1,22,0,0,22.0,Newlands,0,0,2007,-8
+TTaibu,Zimbabwe,South Africa,11,6,0,1,183.33333333333331,0,0,0,0,0,0,De Beers Diamond Oval,0,0,2010,13
+TTaibu,Zimbabwe,New Zealand,21,15,3,0,140.0,0,0,0,0,0,0,Providence Stadium,0,1,2010,32
+TTaibu,Zimbabwe,India,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Harare Sports Club,0,1,2010,10
+TTaibu,Zimbabwe,India,45,41,2,0,109.75609756097562,0,0,0,0,0,0,Harare Sports Club,0,0,2010,47
+TTaibu,Zimbabwe,Pakistan,6,7,0,0,85.71428571428571,0,0,0,0,0,0,Harare Sports Club,0,0,2011,6
+TTaibu,Zimbabwe,West Indies,0,7,0,0,0.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2010,-8
+TTaibu,Zimbabwe,Bangladesh,7,17,1,0,41.17647058823529,0,0,0,0,0,0,Queens Sports Club,0,0,2011,2
+TTaibu,Zimbabwe,Bangladesh,7,14,1,0,50.0,0,0,0,0,0,0,Queens Sports Club,0,2,2011,20
+TTaibu,Zimbabwe,New Zealand,4,12,0,0,33.33333333333333,0,0,0,0,0,0,Harare Sports Club,0,0,2011,-2
+TTaibu,Zimbabwe,Bangladesh,14,30,2,0,46.666666666666664,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,10
+TTaibu,Zimbabwe,West Indies,1,5,0,0,20.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2010,-5
+TTaibu,Zimbabwe,New Zealand,53,39,4,2,135.8974358974359,0,0,0,0,0,0,Queens Sports Club,0,0,2011,69
+TTaibu,Zimbabwe,Bangladesh,12,17,1,0,70.58823529411765,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2009,21
+TTaibu,Zimbabwe,Pakistan,81,115,3,0,70.43478260869566,0,0,0,0,0,0,Niaz Stadium Hyderabad,0,1,2008,100
+TTaibu,Zimbabwe,South Africa,13,18,1,0,72.22222222222221,0,0,0,0,0,0,OUTsurance Oval,0,0,2010,14
+TTaibu,Zimbabwe,Bangladesh,64,106,1,1,60.37735849056604,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2010,81
+TTaibu,Zimbabwe,South Africa,52,72,6,0,72.22222222222221,0,0,0,0,0,0,SuperSport Park,0,0,2009,66
+TTaibu,Zimbabwe,Sri Lanka,42,56,0,1,75.0,0,0,0,0,0,0,Harare Sports Club,1,0,2010,56
+TTaibu,Zimbabwe,Bangladesh,83,104,8,0,79.8076923076923,0,0,0,0,0,0,Harare Sports Club,1,0,2011,111
+TTaibu,Zimbabwe,Sri Lanka,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,2
+TTaibu,Zimbabwe,Sri Lanka,31,39,1,0,79.48717948717949,0,0,0,0,0,0,Harare Sports Club,0,2,2008,48
+TTaibu,Zimbabwe,Pakistan,6,12,0,0,50.0,0,0,0,0,0,0,Sheikhupura Stadium,0,0,2008,2
+TTaibu,Zimbabwe,Sri Lanka,14,20,2,0,70.0,0,0,0,0,0,0,Harare Sports Club,2,1,2008,48
+TTaibu,Zimbabwe,South Africa,22,29,4,0,75.86206896551724,0,0,0,0,0,0,Queens Sports Club,0,2,2007,42
+TTaibu,Zimbabwe,Pakistan,13,23,1,0,56.52173913043478,0,0,0,0,0,0,National Stadium,1,0,2008,22
+TTaibu,Zimbabwe,South Africa,43,42,4,3,102.38095238095238,0,0,0,0,0,0,Harare Sports Club,0,1,2007,61
+TTaibu,Zimbabwe,New Zealand,26,47,1,0,55.319148936170215,0,0,0,0,0,0,McLean Park,0,0,2012,23
+TTaibu,Zimbabwe,Pakistan,27,26,2,1,103.84615384615385,0,0,0,0,0,0,Harare Sports Club,0,0,2011,31
+TTaibu,Zimbabwe,South Africa,28,29,5,0,96.55172413793103,0,0,0,0,0,0,Willowmoore Park,0,1,2010,41
+TTaibu,Zimbabwe,Sri Lanka,12,38,0,0,31.57894736842105,0,0,0,0,0,0,Harare Sports Club,0,0,2008,6
+TTaibu,Zimbabwe,Pakistan,26,32,3,0,81.25,0,0,0,0,0,0,Harare Sports Club,0,0,2011,29
+TTaibu,Zimbabwe,West Indies,6,27,1,0,22.22222222222222,0,0,0,0,0,0,Harare Sports Club,0,1,2007,9
+TTaibu,Zimbabwe,Bangladesh,0,3,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,4,2009,24
+TTaibu,Zimbabwe,West Indies,14,33,0,0,42.42424242424242,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2010,16
+TTaibu,Zimbabwe,West Indies,0,3,0,0,0.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2010,-8
+TTaibu,Zimbabwe,Kenya,53,76,7,0,69.73684210526315,0,0,0,0,0,0,Eden Gardens,0,0,2011,66
+TTaibu,Zimbabwe,Pakistan,19,29,2,0,65.51724137931035,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,19
+TTaibu,Zimbabwe,Pakistan,51,77,4,0,66.23376623376623,0,0,0,0,0,0,Iqbal Stadium,0,0,2008,61
+TTaibu,Zimbabwe,Bangladesh,61,76,4,2,80.26315789473685,0,0,0,0,0,0,Harare Sports Club,0,2,2011,93
+TTaibu,Zimbabwe,South Africa,103,115,6,3,89.56521739130436,0,0,0,0,0,0,Willowmoore Park,0,0,2009,131
+TTaibu,Zimbabwe,New Zealand,50,78,1,0,64.1025641025641,0,0,0,0,0,0,Cobham Oval (New),0,0,2012,57
+TTaibu,Zimbabwe,Bangladesh,21,48,1,0,43.75,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,24
+TTaibu,Zimbabwe,Pakistan,26,43,0,1,60.46511627906976,0,0,0,0,0,0,Queens Sports Club,0,2,2011,42
+TTaibu,Zimbabwe,Ireland,74,102,5,0,72.54901960784314,0,0,0,0,0,0,Gymkhana Club Ground,0,1,2008,95
+TTaibu,Zimbabwe,West Indies,10,20,0,1,50.0,0,0,0,0,0,0,Harare Sports Club,0,2,2007,24
+TTaibu,Zimbabwe,New Zealand,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Harare Sports Club,0,0,2011,-4
+TTaibu,Zimbabwe,South Africa,107,104,9,1,102.88461538461537,0,0,0,0,0,0,Harare Sports Club,0,3,2007,158
+TTaibu,Zimbabwe,India,13,17,1,0,76.47058823529412,0,0,0,0,0,0,Harare Sports Club,0,2,2010,30
+TTaibu,Zimbabwe,West Indies,0,1,0,0,0.0,0,0,0,0,0,0,Queens Sports Club,0,0,2007,-8
+TTaibu,Zimbabwe,West Indies,31,46,2,0,67.3913043478261,0,0,0,0,0,0,Providence Stadium,0,0,2010,31
+TTaibu,Zimbabwe,West Indies,56,55,5,0,101.81818181818181,0,0,0,0,0,0,Providence Stadium,1,0,2010,81
+TTaibu,Zimbabwe,Bangladesh,3,24,0,0,12.5,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,5
+TTaibu,Zimbabwe,New Zealand,8,18,1,0,44.44444444444444,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2011,3
+TTaibu,Zimbabwe,Canada,98,100,9,0,98.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,115
+TTaibu,Zimbabwe,South Africa,78,91,4,1,85.71428571428571,0,0,0,0,0,0,Senwes Park,0,0,2010,92
+TTaibu,Zimbabwe,Sri Lanka,36,62,2,0,58.06451612903226,0,0,0,0,0,0,Harare Sports Club,0,0,2008,34
+TTaibu,Zimbabwe,Australia,7,18,1,0,38.88888888888889,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2011,2

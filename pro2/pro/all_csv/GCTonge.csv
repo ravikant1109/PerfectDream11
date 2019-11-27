@@ -1,5 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-GCTonge,West Indies,Bangladesh,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Warner Park Basseterre,25
-GCTonge,West Indies,Bangladesh,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Warner Park Basseterre,25
-GCTonge,West Indies,Bangladesh,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Warner Park Basseterre,25
-GCTonge,West Indies,Bangladesh,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Warner Park Basseterre,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+GCTonge,West Indies,Bangladesh,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Warner Park Basseterre,0,1,2009,33
+GCTonge,West Indies,Bangladesh,0,0,0,0,0,61,10,51,0,0,5.1,Windsor Park Roseau,0,0,2009,2
+GCTonge,West Indies,Australia,0,0,0,0,0,59,9,57,0,1,6.333333333333333,New Wanderers Stadium,0,0,2009,8
+GCTonge,West Indies,Pakistan,4,9,0,0,44.44444444444444,62,10,26,4,4,2.6,New Wanderers Stadium,0,0,2009,144
+GCTonge,West Indies,Bangladesh,1,1,0,0,100.0,60,10,59,0,2,5.9,Warner Park Basseterre,0,0,2009,19
+GCTonge,West Indies,India,5,6,1,0,83.33333333333334,60,10,36,1,0,3.6,New Wanderers Stadium,0,0,2009,37

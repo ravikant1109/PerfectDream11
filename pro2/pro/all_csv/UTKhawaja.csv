@@ -1,15 +1,33 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-UTKhawaja,Australia,Sri Lanka,36,22,2,2,163.63636363636365,0,0,0,0,0,0,Pallekele International Cricket Stadium,42
-UTKhawaja,Australia,Sri Lanka,36,22,2,2,163.63636363636365,0,0,0,0,0,0,Pallekele International Cricket Stadium,42
-UTKhawaja,Australia,Sri Lanka,36,22,2,2,163.63636363636365,0,0,0,0,0,0,Pallekele International Cricket Stadium,42
-UTKhawaja,Australia,New Zealand,38,27,6,0,140.74074074074073,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,44
-UTKhawaja,Australia,India,14,6,2,0,233.33333333333334,0,0,0,0,0,0,Sydney Cricket Ground,16
-UTKhawaja,Australia,South Africa,33,25,4,1,132.0,0,0,0,0,0,0,Newlands,39
-UTKhawaja,Australia,Pakistan,21,17,3,1,123.52941176470588,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,26
-UTKhawaja,Australia,Sri Lanka,6,15,0,0,40.0,0,0,0,0,0,0,R Premadasa Stadium,0
-UTKhawaja,Australia,South Africa,9,11,1,0,81.81818181818183,0,0,0,0,0,0,Kingsmead,10
-UTKhawaja,Australia,Bangladesh,58,46,7,1,126.08695652173914,0,0,0,0,0,0,M Chinnaswamy Stadium,75
-UTKhawaja,Australia,India,26,16,5,0,162.5,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,31
-UTKhawaja,Australia,Sri Lanka,36,22,2,2,163.63636363636365,0,0,0,0,0,0,Pallekele International Cricket Stadium,42
-UTKhawaja,Australia,New Zealand,38,27,6,0,140.74074074074073,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,44
-UTKhawaja,Australia,India,14,6,2,0,233.33333333333334,0,0,0,0,0,0,Sydney Cricket Ground,16
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+UTKhawaja,Australia,India,26,16,5,0,162.5,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,0,1,2016,39
+UTKhawaja,Australia,Bangladesh,58,46,7,1,126.08695652173914,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2016,75
+UTKhawaja,Australia,South Africa,9,11,1,0,81.81818181818183,0,0,0,0,0,0,Kingsmead,0,1,2016,18
+UTKhawaja,Australia,Sri Lanka,36,22,2,2,163.63636363636365,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2016,42
+UTKhawaja,Australia,South Africa,33,25,4,1,132.0,0,0,0,0,0,0,Newlands,0,1,2016,47
+UTKhawaja,Australia,Pakistan,21,17,3,1,123.52941176470588,0,0,0,0,0,0,Punjab Cricket Association IS Bindra Stadium Mohali,0,1,2016,34
+UTKhawaja,Australia,New Zealand,38,27,6,0,140.74074074074073,0,0,0,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,44
+UTKhawaja,Australia,India,14,6,2,0,233.33333333333334,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2016,16
+UTKhawaja,Australia,Sri Lanka,6,15,0,0,40.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2016,8
+UTKhawaja,Australia,Sri Lanka,3,12,0,0,25.0,0,0,0,0,0,0,Melbourne Cricket Ground,1,0,2013,9
+UTKhawaja,Australia,Pakistan,9,21,2,0,42.857142857142854,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2017,13
+UTKhawaja,Australia,South Africa,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Providence Stadium,0,0,2016,-4
+UTKhawaja,Australia,West Indies,27,38,5,0,71.05263157894737,0,0,0,0,0,0,Providence Stadium,0,0,2016,32
+UTKhawaja,Australia,India,42,39,4,1,107.6923076923077,0,0,0,0,0,0,Kennington Oval,0,0,2019,48
+UTKhawaja,Australia,West Indies,14,14,3,0,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2016,17
+UTKhawaja,Australia,Pakistan,30,49,2,0,61.224489795918366,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2017,30
+UTKhawaja,Australia,Sri Lanka,10,20,1,0,50.0,0,0,0,0,0,0,Kennington Oval,0,1,2019,15
+UTKhawaja,Australia,West Indies,17,17,1,0,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2016,18
+UTKhawaja,Australia,Pakistan,17,21,1,0,80.95238095238095,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2017,18
+UTKhawaja,Australia,Afghanistan,15,22,1,0,68.18181818181817,0,0,0,0,0,0,County Ground,0,0,2019,14
+UTKhawaja,Australia,New Zealand,50,51,6,0,98.0392156862745,0,0,0,0,0,0,Westpac Stadium,0,1,2016,72
+UTKhawaja,Australia,Sri Lanka,6,6,1,0,100.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2016,7
+UTKhawaja,Australia,England,23,29,1,0,79.3103448275862,0,0,0,0,0,0,Lord's,0,1,2019,32
+UTKhawaja,Australia,West Indies,8,15,1,0,53.333333333333336,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2013,5
+UTKhawaja,Australia,New Zealand,88,132,5,0,66.66666666666666,0,0,0,0,0,0,Lord's,0,1,2019,107
+UTKhawaja,Australia,West Indies,3,14,0,0,21.428571428571427,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2013,-3
+UTKhawaja,Australia,Bangladesh,89,72,10,0,123.61111111111111,0,0,0,0,0,0,Trent Bridge,0,0,2019,107
+UTKhawaja,Australia,Sri Lanka,0,2,0,0,0.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2016,-8
+UTKhawaja,Australia,Pakistan,18,17,3,0,105.88235294117648,0,0,0,0,0,0,The Cooper Associates County Ground,0,1,2019,29
+UTKhawaja,Australia,West Indies,13,21,2,0,61.904761904761905,0,0,0,0,0,0,Trent Bridge,0,1,2019,21
+UTKhawaja,Australia,South Africa,59,72,4,1,81.94444444444444,0,0,0,0,0,0,Warner Park Basseterre,1,0,2016,85
+UTKhawaja,Australia,Ireland,82,81,8,2,101.23456790123457,0,0,0,0,0,0,Willowmoore Park,0,0,2016,102

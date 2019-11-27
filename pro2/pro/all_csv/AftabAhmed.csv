@@ -1,16 +1,51 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,15
-AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,15
-AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,15
-AftabAhmed,Bangladesh,West Indies,62,52,8,1,119.23076923076923,0,0,0,0,0,0,New Wanderers Stadium,80
-AftabAhmed,Bangladesh,Kenya,17,6,2,1,283.33333333333337,0,0,0,0,0,0,Gymkhana Club Ground,21
-AftabAhmed,Bangladesh,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,National Stadium,1
-AftabAhmed,Bangladesh,Australia,31,35,2,0,88.57142857142857,0,0,0,0,0,0,Newlands,33
-AftabAhmed,Bangladesh,Pakistan,15,17,0,0,88.23529411764706,0,0,0,0,0,0,Newlands,15
-AftabAhmed,Bangladesh,Australia,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,-5
-AftabAhmed,Bangladesh,Pakistan,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Gymkhana Club Ground,6
-AftabAhmed,Bangladesh,Sri Lanka,18,11,3,0,163.63636363636365,0,0,0,0,0,0,New Wanderers Stadium,21
-AftabAhmed,Bangladesh,South Africa,36,14,5,2,257.14285714285717,0,0,0,0,0,0,Newlands,45
-AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,15
-AftabAhmed,Bangladesh,West Indies,62,52,8,1,119.23076923076923,0,0,0,0,0,0,New Wanderers Stadium,80
-AftabAhmed,Bangladesh,Kenya,17,6,2,1,283.33333333333337,0,0,0,0,0,0,Gymkhana Club Ground,21
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AftabAhmed,Bangladesh,West Indies,62,52,8,1,119.23076923076923,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,80
+AftabAhmed,Bangladesh,Pakistan,3,5,0,0,60.0,0,0,0,0,0,0,National Stadium,0,0,2008,1
+AftabAhmed,Bangladesh,South Africa,36,14,5,2,257.14285714285717,0,0,0,0,0,0,Newlands,0,0,2007,45
+AftabAhmed,Bangladesh,Sri Lanka,18,11,3,0,163.63636363636365,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,21
+AftabAhmed,Bangladesh,Pakistan,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Gymkhana Club Ground,0,1,2007,14
+AftabAhmed,Bangladesh,Australia,31,35,2,0,88.57142857142857,0,0,0,0,0,0,Newlands,0,0,2007,33
+AftabAhmed,Bangladesh,New Zealand,12,14,1,1,85.71428571428571,1,0,8,0,0,0,Seddon Park,0,0,2010,15
+AftabAhmed,Bangladesh,Kenya,17,6,2,1,283.33333333333337,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2007,21
+AftabAhmed,Bangladesh,Pakistan,15,17,0,0,88.23529411764706,0,0,0,0,0,0,Newlands,0,1,2007,23
+AftabAhmed,Bangladesh,Australia,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2010,11
+AftabAhmed,Bangladesh,Zimbabwe,4,2,0,0,200.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2006,4
+AftabAhmed,Bangladesh,Sri Lanka,47,87,2,0,54.02298850574713,0,0,0,0,0,0,R Premadasa Stadium,0,3,2007,69
+AftabAhmed,Bangladesh,India,40,42,5,1,95.23809523809523,11,1,12,0,0,12.0,Shere Bangla National Stadium,0,0,2007,47
+AftabAhmed,Bangladesh,India,8,10,1,0,80.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2007,25
+AftabAhmed,Bangladesh,Zimbabwe,16,18,4,0,88.88888888888889,0,0,0,0,0,0,Shaheed Chandu Stadium,0,0,2006,20
+AftabAhmed,Bangladesh,New Zealand,19,35,3,0,54.285714285714285,0,0,0,0,0,0,Queenstown Events Centre,0,0,2007,18
+AftabAhmed,Bangladesh,Kenya,14,14,3,0,100.0,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2006,17
+AftabAhmed,Bangladesh,India,16,16,0,0,100.0,11,1,13,0,0,13.0,Shere Bangla National Stadium,0,1,2007,24
+AftabAhmed,Bangladesh,Ireland,12,11,1,1,109.09090909090908,12,2,8,0,0,4.0,Kensington Oval Bridgetown,0,0,2007,19
+AftabAhmed,Bangladesh,Sri Lanka,12,17,2,0,70.58823529411765,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2007,30
+AftabAhmed,Bangladesh,West Indies,59,56,6,2,105.35714285714286,7,1,12,0,0,12.0,Sawai Mansingh Stadium,0,0,2006,77
+AftabAhmed,Bangladesh,Pakistan,0,2,0,0,0.0,0,0,0,0,0,0,Multan Cricket Stadium,0,0,2008,-8
+AftabAhmed,Bangladesh,Sri Lanka,0,1,0,0,0.0,17,2,22,0,0,11.0,Chittagong Divisional Stadium,0,0,2006,-12
+AftabAhmed,Bangladesh,England,4,5,0,0,80.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,4
+AftabAhmed,Bangladesh,New Zealand,18,13,4,0,138.46153846153845,0,0,0,0,0,0,AMI Stadium,0,1,2010,30
+AftabAhmed,Bangladesh,New Zealand,27,39,3,0,69.23076923076923,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,28
+AftabAhmed,Bangladesh,England,46,63,7,0,73.01587301587301,0,0,0,0,0,0,Zohur Ahmed Chowdhury Stadium,0,0,2010,53
+AftabAhmed,Bangladesh,England,10,5,0,0,200.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2007,18
+AftabAhmed,Bangladesh,Kenya,5,8,1,0,62.5,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2006,4
+AftabAhmed,Bangladesh,Australia,11,8,1,0,137.5,0,0,1,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,12
+AftabAhmed,Bangladesh,New Zealand,54,78,5,1,69.23076923076923,0,0,0,0,0,0,McLean Park,0,0,2007,67
+AftabAhmed,Bangladesh,England,2,5,0,0,40.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,4
+AftabAhmed,Bangladesh,South Africa,35,47,2,2,74.46808510638297,0,0,0,0,0,0,Providence Stadium,0,0,2007,41
+AftabAhmed,Bangladesh,New Zealand,8,11,2,0,72.72727272727273,0,0,0,0,0,0,Eden Park,0,1,2007,18
+AftabAhmed,Bangladesh,Sri Lanka,21,19,1,1,110.5263157894737,0,0,0,0,0,0,Shaheed Chandu Stadium,0,0,2006,24
+AftabAhmed,Bangladesh,Sri Lanka,16,28,2,0,57.14285714285714,11,1,17,0,0,17.0,P Saravanamuttu Stadium,0,0,2007,14
+AftabAhmed,Bangladesh,Sri Lanka,3,11,0,0,27.27272727272727,0,0,0,0,0,0,R Premadasa Stadium,0,0,2007,-3
+AftabAhmed,Bangladesh,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,National Stadium,0,0,2008,-8
+AftabAhmed,Bangladesh,West Indies,6,8,0,0,75.0,11,1,12,1,0,12.0,Kensington Oval Bridgetown,0,0,2007,31
+AftabAhmed,Bangladesh,Pakistan,14,33,1,0,42.42424242424242,17,2,21,0,0,10.5,Gaddafi Stadium,0,0,2008,5
+AftabAhmed,Bangladesh,Pakistan,42,50,5,0,84.0,0,0,0,0,0,0,Gaddafi Stadium,0,0,2008,47
+AftabAhmed,Bangladesh,Zimbabwe,58,70,3,4,82.85714285714286,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2006,77
+AftabAhmed,Bangladesh,Sri Lanka,32,21,2,1,152.38095238095238,36,6,24,1,0,4.0,Shaheed Chandu Stadium,0,0,2006,65
+AftabAhmed,Bangladesh,New Zealand,10,27,2,0,37.03703703703704,0,0,0,0,0,0,University Oval,0,0,2010,6
+AftabAhmed,Bangladesh,Zimbabwe,6,14,0,0,42.857142857142854,0,0,0,0,0,0,Harare Sports Club,0,0,2006,0
+AftabAhmed,Bangladesh,Kenya,38,70,4,1,54.285714285714285,0,0,0,0,0,0,Gymkhana Club Ground,0,0,2006,40
+AftabAhmed,Bangladesh,Australia,30,46,4,1,65.21739130434783,0,0,0,0,0,0,Chittagong Divisional Stadium,0,0,2006,34
+AftabAhmed,Bangladesh,Sri Lanka,33,34,5,1,97.05882352941177,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,1,2006,48
+AftabAhmed,Bangladesh,Bermuda,7,14,1,0,50.0,5,0,17,0,0,0,Queen's Park Oval Port of Spain,0,1,2007,12
+AftabAhmed,Bangladesh,Pakistan,1,10,0,0,10.0,0,0,0,0,0,0,Iqbal Stadium,0,0,2008,-5

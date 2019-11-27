@@ -1,5 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ANdlovu,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,37,1,0,12.333333333333334,Shere Bangla National Stadium Mirpur,19
-ANdlovu,Zimbabwe,Bangladesh,2,4,0,0,50.0,17,2,32,0,0,16.0,Zahur Ahmed Chowdhury Stadium,-8
-ANdlovu,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Zahur Ahmed Chowdhury Stadium,0
-ANdlovu,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,37,1,0,12.333333333333334,Shere Bangla National Stadium Mirpur,19
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ANdlovu,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Zahur Ahmed Chowdhury Stadium,0,2,2019,16
+ANdlovu,Zimbabwe,Afghanistan,0,0,0,0,0,23,3,37,1,0,12.333333333333334,Shere Bangla National Stadium Mirpur,0,1,2019,27
+ANdlovu,Zimbabwe,Bangladesh,2,4,0,0,50.0,17,2,32,0,0,16.0,Zahur Ahmed Chowdhury Stadium,0,0,2019,-8
+ANdlovu,Zimbabwe,Netherlands,0,0,0,0,0,47,7,51,0,1,7.285714285714286,Sportpark Het Schootsveld,0,0,2019,8

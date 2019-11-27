@@ -1,5 +1,2 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TLanga,Vanuatu,Malaysia,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kinrara Academy Oval,16
-TLanga,Vanuatu,Malaysia,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kinrara Academy Oval,16
-TLanga,Vanuatu,Malaysia,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kinrara Academy Oval,16
-TLanga,Vanuatu,Malaysia,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kinrara Academy Oval,16
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TLanga,Vanuatu,Malaysia,14,9,2,0,155.55555555555557,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,16

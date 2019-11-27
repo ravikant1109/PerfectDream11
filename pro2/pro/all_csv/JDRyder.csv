@@ -1,39 +1,58 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JDRyder,New Zealand,India,1,4,0,0,25.0,11,1,7,1,0,7.0,AMI Stadium,20
-JDRyder,New Zealand,England,12,13,1,0,92.3076923076923,11,1,22,0,0,22.0,Jade Stadium,13
-JDRyder,New Zealand,Pakistan,6,5,1,0,120.0,0,0,0,0,0,0,Eden Park,7
-JDRyder,New Zealand,Sri Lanka,13,15,2,0,86.66666666666667,0,0,0,0,0,0,R Premadasa Stadium,15
-JDRyder,New Zealand,India,1,4,0,0,25.0,11,1,7,1,0,7.0,AMI Stadium,20
-JDRyder,New Zealand,India,1,4,0,0,25.0,11,1,7,1,0,7.0,AMI Stadium,20
-JDRyder,New Zealand,England,12,13,1,0,92.3076923076923,11,1,22,0,0,22.0,Jade Stadium,13
-JDRyder,New Zealand,Pakistan,6,5,1,0,120.0,0,0,0,0,0,0,Eden Park,7
-JDRyder,New Zealand,Sri Lanka,13,15,2,0,86.66666666666667,0,0,0,0,0,0,R Premadasa Stadium,15
-JDRyder,New Zealand,India,1,4,0,0,25.0,11,1,7,1,0,7.0,AMI Stadium,20
-JDRyder,New Zealand,India,1,4,0,0,25.0,11,1,7,1,0,7.0,AMI Stadium,20
-JDRyder,New Zealand,England,12,13,1,0,92.3076923076923,11,1,22,0,0,22.0,Jade Stadium,13
-JDRyder,New Zealand,Pakistan,6,5,1,0,120.0,0,0,0,0,0,0,Eden Park,7
-JDRyder,New Zealand,Sri Lanka,13,15,2,0,86.66666666666667,0,0,0,0,0,0,R Premadasa Stadium,15
-JDRyder,New Zealand,Scotland,31,12,3,2,258.33333333333337,5,0,19,0,0,0,Kennington Oval,38
-JDRyder,New Zealand,West Indies,62,41,7,3,151.21951219512195,0,0,0,0,0,0,Seddon Park,83
-JDRyder,New Zealand,South Africa,52,44,5,2,118.18181818181819,0,0,0,0,0,0,Eden Park,69
-JDRyder,New Zealand,Sri Lanka,42,27,2,2,155.55555555555557,0,0,0,0,0,0,Providence Stadium,48
-JDRyder,New Zealand,Sri Lanka,52,38,3,3,136.8421052631579,0,0,0,0,0,0,R Premadasa Stadium,69
-JDRyder,New Zealand,England,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Beausejour Stadium Gros Islet,11
-JDRyder,New Zealand,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Seddon Park,-8
-JDRyder,New Zealand,England,22,23,4,0,95.65217391304348,5,0,2,1,0,0,Eden Park,51
-JDRyder,New Zealand,Pakistan,0,6,0,0,0.0,0,0,0,0,0,0,AMI Stadium,-8
-JDRyder,New Zealand,Pakistan,7,10,1,0,70.0,0,0,0,0,0,0,Kensington Oval Bridgetown,8
-JDRyder,New Zealand,South Africa,33,28,2,2,117.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,39
-JDRyder,New Zealand,West Indies,23,10,2,1,229.99999999999997,0,0,0,0,0,0,Westpac Stadium,27
-JDRyder,New Zealand,Zimbabwe,30,23,3,0,130.43478260869566,0,0,0,0,0,0,Harare Sports Club,33
-JDRyder,New Zealand,India,26,15,3,1,173.33333333333334,23,3,18,0,0,6.0,Westpac Stadium,31
-JDRyder,New Zealand,West Indies,22,14,3,0,157.14285714285714,0,0,0,0,0,0,Eden Park,25
-JDRyder,New Zealand,Zimbabwe,2,11,0,0,18.181818181818183,0,0,0,0,0,0,Providence Stadium,-4
-JDRyder,New Zealand,West Indies,12,18,1,0,66.66666666666666,0,0,0,0,0,0,Eden Park,11
-JDRyder,New Zealand,India,1,4,0,0,25.0,11,1,7,1,0,7.0,AMI Stadium,20
-JDRyder,New Zealand,England,12,13,1,0,92.3076923076923,11,1,22,0,0,22.0,Jade Stadium,13
-JDRyder,New Zealand,Pakistan,6,5,1,0,120.0,0,0,0,0,0,0,Eden Park,7
-JDRyder,New Zealand,Sri Lanka,13,15,2,0,86.66666666666667,0,0,0,0,0,0,R Premadasa Stadium,15
-JDRyder,New Zealand,Scotland,31,12,3,2,258.33333333333337,5,0,19,0,0,0,Kennington Oval,38
-JDRyder,New Zealand,West Indies,62,41,7,3,151.21951219512195,0,0,0,0,0,0,Seddon Park,83
-JDRyder,New Zealand,South Africa,52,44,5,2,118.18181818181819,0,0,0,0,0,0,Eden Park,69
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JDRyder,New Zealand,South Africa,33,28,2,2,117.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,39
+JDRyder,New Zealand,Pakistan,6,5,1,0,120.0,0,0,0,0,0,0,Eden Park,0,0,2010,7
+JDRyder,New Zealand,West Indies,62,41,7,3,151.21951219512195,0,0,0,0,0,0,Seddon Park,0,1,2008,91
+JDRyder,New Zealand,Zimbabwe,30,23,3,0,130.43478260869566,0,0,0,0,0,0,Harare Sports Club,0,0,2011,33
+JDRyder,New Zealand,India,26,15,3,1,173.33333333333334,23,3,18,0,0,6.0,Westpac Stadium,0,0,2009,31
+JDRyder,New Zealand,West Indies,12,18,1,0,66.66666666666666,0,0,0,0,0,0,Eden Park,0,0,2008,11
+JDRyder,New Zealand,England,12,13,1,0,92.3076923076923,11,1,22,0,0,22.0,Jade Stadium,0,1,2008,21
+JDRyder,New Zealand,Sri Lanka,52,38,3,3,136.8421052631579,0,0,0,0,0,0,R Premadasa Stadium,0,1,2009,77
+JDRyder,New Zealand,England,22,23,4,0,95.65217391304348,5,0,2,1,0,0,Eden Park,0,1,2008,59
+JDRyder,New Zealand,West Indies,23,10,2,1,229.99999999999997,0,0,0,0,0,0,Westpac Stadium,0,0,2014,27
+JDRyder,New Zealand,England,9,11,2,0,81.81818181818183,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,11
+JDRyder,New Zealand,Zimbabwe,2,11,0,0,18.181818181818183,0,0,0,0,0,0,Providence Stadium,0,0,2010,-4
+JDRyder,New Zealand,Pakistan,0,6,0,0,0.0,0,0,0,0,0,0,AMI Stadium,0,0,2010,-8
+JDRyder,New Zealand,Sri Lanka,42,27,2,2,155.55555555555557,0,0,0,0,0,0,Providence Stadium,0,0,2010,48
+JDRyder,New Zealand,Pakistan,7,10,1,0,70.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,8
+JDRyder,New Zealand,West Indies,22,14,3,0,157.14285714285714,0,0,0,0,0,0,Eden Park,0,2,2014,41
+JDRyder,New Zealand,Scotland,31,12,3,2,258.33333333333337,5,0,19,0,0,0,Kennington Oval,0,0,2009,38
+JDRyder,New Zealand,India,1,4,0,0,25.0,11,1,7,1,0,7.0,AMI Stadium,0,0,2009,20
+JDRyder,New Zealand,South Africa,52,44,5,2,118.18181818181819,0,0,0,0,0,0,Eden Park,0,0,2012,69
+JDRyder,New Zealand,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Seddon Park,0,0,2010,-8
+JDRyder,New Zealand,Sri Lanka,13,15,2,0,86.66666666666667,0,0,0,0,0,0,R Premadasa Stadium,1,1,2009,35
+JDRyder,New Zealand,West Indies,104,52,11,5,200.0,23,3,14,1,0,4.666666666666667,Queenstown Events Centre,0,0,2014,170
+JDRyder,New Zealand,England,79,62,11,2,127.41935483870968,0,0,0,0,0,0,Seddon Park,0,1,2008,110
+JDRyder,New Zealand,England,24,35,3,0,68.57142857142857,30,5,50,0,0,10.0,AMI Stadium,0,1,2008,31
+JDRyder,New Zealand,Zimbabwe,53,69,5,1,76.81159420289855,0,0,0,0,0,0,Queens Sports Club,0,0,2011,68
+JDRyder,New Zealand,England,23,40,2,1,57.49999999999999,0,0,0,0,0,0,Eden Park,0,0,2008,23
+JDRyder,New Zealand,India,17,28,1,1,60.71428571428571,0,0,0,0,0,0,Westpac Stadium,0,0,2014,18
+JDRyder,New Zealand,Bangladesh,4,8,0,0,50.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,0
+JDRyder,New Zealand,Sri Lanka,19,34,2,0,55.88235294117647,11,1,14,0,0,14.0,R Premadasa Stadium,0,2,2011,33
+JDRyder,New Zealand,South Africa,83,124,8,0,66.93548387096774,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,97
+JDRyder,New Zealand,West Indies,47,49,7,0,95.91836734693877,0,0,0,0,0,0,Saxton Oval,0,0,2014,54
+JDRyder,New Zealand,Canada,38,56,3,0,67.85714285714286,8,1,15,1,0,15.0,Wankhede Stadium,0,0,2011,64
+JDRyder,New Zealand,South Africa,0,2,0,0,0.0,0,0,0,0,0,0,McLean Park,0,0,2012,-8
+JDRyder,New Zealand,India,20,13,4,0,153.84615384615387,0,0,0,0,0,0,Eden Park,0,0,2014,24
+JDRyder,New Zealand,South Africa,6,13,1,0,46.15384615384615,0,0,0,0,0,0,Westpac Stadium,0,1,2012,9
+JDRyder,New Zealand,West Indies,0,5,0,0,0.0,0,0,0,0,0,0,Eden Park,0,0,2013,-8
+JDRyder,New Zealand,India,20,12,3,0,166.66666666666669,0,0,0,0,0,0,Seddon Park,0,0,2014,23
+JDRyder,New Zealand,Bangladesh,21,20,3,0,105.0,25,4,18,2,0,4.5,Shere Bangla National Stadium,0,1,2010,86
+JDRyder,New Zealand,Sri Lanka,74,60,10,1,123.33333333333334,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,94
+JDRyder,New Zealand,India,46,60,6,0,76.66666666666667,0,0,0,0,0,0,Seddon Park,0,0,2009,52
+JDRyder,New Zealand,India,0,2,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,-8
+JDRyder,New Zealand,England,31,50,4,1,62.0,0,0,0,0,0,0,Westpac Stadium,0,0,2008,35
+JDRyder,New Zealand,Australia,25,32,6,0,78.125,32,5,24,0,0,4.8,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,35
+JDRyder,New Zealand,England,39,32,3,2,121.875,17,2,14,2,0,7.0,McLean Park,0,0,2008,96
+JDRyder,New Zealand,India,18,16,3,1,112.5,0,0,0,0,0,0,McLean Park,0,1,2014,31
+JDRyder,New Zealand,Sri Lanka,19,25,2,0,76.0,24,4,18,0,0,4.5,Wankhede Stadium,0,0,2011,25
+JDRyder,New Zealand,West Indies,14,20,1,0,70.0,23,3,17,1,0,5.666666666666667,Westpac Stadium,0,0,2009,42
+JDRyder,New Zealand,Bangladesh,33,43,1,2,76.74418604651163,18,3,20,0,0,6.666666666666667,Shere Bangla National Stadium,0,0,2010,38
+JDRyder,New Zealand,India,63,49,6,4,128.57142857142858,54,9,29,3,2,3.2222222222222223,Eden Park,0,0,2009,182
+JDRyder,New Zealand,India,11,25,1,0,44.0,17,2,27,0,0,13.5,McLean Park,0,0,2009,0
+JDRyder,New Zealand,South Africa,8,12,1,0,66.66666666666666,11,1,15,0,0,15.0,SuperSport Park,0,0,2009,7
+JDRyder,New Zealand,West Indies,17,15,2,0,113.33333333333333,0,0,0,0,0,0,Seddon Park,0,0,2014,19
+JDRyder,New Zealand,Pakistan,55,36,6,2,152.77777777777777,0,0,0,0,0,0,Westpac Stadium,0,2,2011,89
+JDRyder,New Zealand,India,0,0,0,0,0,9,1,15,0,0,15.0,Westpac Stadium,0,0,2009,0
+JDRyder,New Zealand,Zimbabwe,0,0,0,0,0,11,1,10,0,0,10.0,Sardar Patel Stadium Motera,0,1,2011,8
+JDRyder,New Zealand,Pakistan,107,94,7,6,113.82978723404256,0,0,0,0,0,0,Eden Park,0,0,2011,142
+JDRyder,New Zealand,India,105,81,12,4,129.62962962962962,30,5,57,1,0,11.4,AMI Stadium,0,0,2009,160

@@ -1,19 +1,25 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-MohammadSami,Pakistan,Sri Lanka,4,7,0,0,57.14285714285714,11,1,22,1,0,22.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
-MohammadSami,Pakistan,Sri Lanka,4,7,0,0,57.14285714285714,11,1,22,1,0,22.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
-MohammadSami,Pakistan,Sri Lanka,4,7,0,0,57.14285714285714,11,1,22,1,0,22.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
-MohammadSami,Pakistan,Bangladesh,0,0,0,0,0,25,4,31,0,0,7.75,Shere Bangla National Stadium,0
-MohammadSami,Pakistan,India,8,18,1,0,44.44444444444444,23,3,16,2,0,5.333333333333333,Shere Bangla National Stadium,55
-MohammadSami,Pakistan,Australia,5,5,0,0,100.0,25,4,54,1,0,13.5,Beausejour Stadium Gros Islet,24
-MohammadSami,Pakistan,Australia,4,2,0,0,200.0,26,4,53,0,0,13.25,Punjab Cricket Association IS Bindra Stadium Mohali,-2
-MohammadSami,Pakistan,New Zealand,0,0,0,0,0,24,4,27,2,1,6.75,Punjab Cricket Association IS Bindra Stadium Mohali,58
-MohammadSami,Pakistan,United Arab Emirates,0,0,0,0,0,25,4,29,1,1,7.25,Shere Bangla National Stadium,33
-MohammadSami,Pakistan,New Zealand,0,0,0,0,0,19,3,26,2,0,8.666666666666666,Kensington Oval Bridgetown,50
-MohammadSami,Pakistan,India,0,0,0,0,0,12,2,17,2,0,8.5,Eden Gardens,50
-MohammadSami,Pakistan,Zimbabwe,0,0,0,0,0,23,3,39,1,0,13.0,Gaddafi Stadium,19
-MohammadSami,Pakistan,Bangladesh,0,0,0,0,0,24,4,29,3,0,7.25,Beausejour Stadium Gros Islet,75
-MohammadSami,Pakistan,Sri Lanka,0,0,0,0,0,19,3,17,3,0,5.666666666666667,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,77
-MohammadSami,Pakistan,Zimbabwe,0,0,0,0,0,24,4,36,3,0,9.0,Gaddafi Stadium,75
-MohammadSami,Pakistan,Sri Lanka,4,7,0,0,57.14285714285714,11,1,22,1,0,22.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,25
-MohammadSami,Pakistan,Bangladesh,0,0,0,0,0,25,4,31,0,0,7.75,Shere Bangla National Stadium,0
-MohammadSami,Pakistan,India,8,18,1,0,44.44444444444444,23,3,16,2,0,5.333333333333333,Shere Bangla National Stadium,55
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+MohammadSami,Pakistan,New Zealand,0,0,0,0,0,24,4,27,2,1,6.75,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,58
+MohammadSami,Pakistan,Bangladesh,0,0,0,0,0,25,4,31,0,0,7.75,Shere Bangla National Stadium,0,0,2016,0
+MohammadSami,Pakistan,United Arab Emirates,0,0,0,0,0,25,4,29,1,1,7.25,Shere Bangla National Stadium,0,0,2016,33
+MohammadSami,Pakistan,Sri Lanka,4,7,0,0,57.14285714285714,11,1,22,1,0,22.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,25
+MohammadSami,Pakistan,India,8,18,1,0,44.44444444444444,23,3,16,2,0,5.333333333333333,Shere Bangla National Stadium,0,0,2016,55
+MohammadSami,Pakistan,Zimbabwe,0,0,0,0,0,23,3,39,1,0,13.0,Gaddafi Stadium,0,0,2015,19
+MohammadSami,Pakistan,Australia,5,5,0,0,100.0,25,4,54,1,0,13.5,Beausejour Stadium Gros Islet,0,1,2010,32
+MohammadSami,Pakistan,India,0,0,0,0,0,12,2,17,2,0,8.5,Eden Gardens,0,1,2016,58
+MohammadSami,Pakistan,New Zealand,0,0,0,0,0,19,3,26,2,0,8.666666666666666,Kensington Oval Bridgetown,1,1,2010,70
+MohammadSami,Pakistan,Australia,4,2,0,0,200.0,26,4,53,0,0,13.25,Punjab Cricket Association IS Bindra Stadium Mohali,0,0,2016,-2
+MohammadSami,Pakistan,Zimbabwe,0,0,0,0,0,24,4,36,3,0,9.0,Gaddafi Stadium,0,0,2015,75
+MohammadSami,Pakistan,Sri Lanka,0,0,0,0,0,19,3,17,3,0,5.666666666666667,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,77
+MohammadSami,Pakistan,Bangladesh,0,0,0,0,0,24,4,29,3,0,7.25,Beausejour Stadium Gros Islet,0,0,2010,75
+MohammadSami,Pakistan,Sri Lanka,0,0,0,0,0,37,6,24,3,1,4.0,Pallekele International Cricket Stadium,0,0,2012,87
+MohammadSami,Pakistan,Zimbabwe,5,11,0,0,45.45454545454545,30,5,15,1,0,3.0,Sabina Park Kingston,0,0,2007,30
+MohammadSami,Pakistan,Ireland,12,35,1,0,34.285714285714285,62,10,30,3,2,3.0,Sabina Park Kingston,0,0,2007,104
+MohammadSami,Pakistan,Zimbabwe,0,0,0,0,0,55,9,54,0,1,6.0,Gaddafi Stadium,0,0,2015,8
+MohammadSami,Pakistan,South Africa,46,64,5,1,71.875,44,7,72,0,0,10.285714285714286,SuperSport Park,0,0,2007,49
+MohammadSami,Pakistan,India,2,3,0,0,66.66666666666666,55,9,66,1,0,7.333333333333333,National Stadium,0,0,2006,25
+MohammadSami,Pakistan,West Indies,2,3,0,0,66.66666666666666,49,8,43,1,0,5.375,Multan Cricket Stadium,0,0,2006,27
+MohammadSami,Pakistan,India,11,15,1,0,73.33333333333333,55,9,42,3,0,4.666666666666667,Multan Cricket Stadium,0,0,2006,91
+MohammadSami,Pakistan,Sri Lanka,0,0,0,0,0,59,9,78,0,0,8.666666666666666,R Premadasa Stadium,0,1,2012,8
+MohammadSami,Pakistan,Zimbabwe,0,0,0,0,0,41,6,63,0,0,10.5,Gaddafi Stadium,0,0,2015,-4
+MohammadSami,Pakistan,West Indies,0,0,0,0,0,61,10,41,1,1,4.1,National Stadium,0,0,2006,37

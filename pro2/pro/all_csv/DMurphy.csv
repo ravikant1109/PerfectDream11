@@ -1,10 +1,7 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DMurphy,Scotland,Afghanistan,6,5,0,0,120.0,0,0,0,0,0,0,Sharjah Cricket Stadium,6
-DMurphy,Scotland,Afghanistan,6,5,0,0,120.0,0,0,0,0,0,0,Sharjah Cricket Stadium,6
-DMurphy,Scotland,Afghanistan,6,5,0,0,120.0,0,0,0,0,0,0,Sharjah Cricket Stadium,6
-DMurphy,Scotland,Afghanistan,5,4,1,0,125.0,0,0,0,0,0,0,Sharjah Cricket Stadium,6
-DMurphy,Scotland,Afghanistan,4,5,0,0,80.0,0,0,0,0,0,0,Sharjah Cricket Stadium,4
-DMurphy,Scotland,Kenya,20,21,0,0,95.23809523809523,0,0,0,0,0,0,ICC Academy,20
-DMurphy,Scotland,Afghanistan,6,5,0,0,120.0,0,0,0,0,0,0,Sharjah Cricket Stadium,6
-DMurphy,Scotland,Afghanistan,5,4,1,0,125.0,0,0,0,0,0,0,Sharjah Cricket Stadium,6
-DMurphy,Scotland,Afghanistan,4,5,0,0,80.0,0,0,0,0,0,0,Sharjah Cricket Stadium,4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DMurphy,Scotland,Kenya,20,21,0,0,95.23809523809523,0,0,0,0,0,0,ICC Academy,0,0,2013,20
+DMurphy,Scotland,Afghanistan,6,5,0,0,120.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,6
+DMurphy,Scotland,Afghanistan,5,4,1,0,125.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,6
+DMurphy,Scotland,Afghanistan,4,5,0,0,80.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,1,2013,12
+DMurphy,Scotland,Ireland,2,8,0,0,25.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,3,2013,20
+DMurphy,Scotland,Pakistan,7,20,0,0,35.0,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2013,1

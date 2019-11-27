@@ -1,99 +1,272 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KCSangakkara,Sri Lanka,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-KCSangakkara,Sri Lanka,West Indies,39,36,5,0,108.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,44
-KCSangakkara,Sri Lanka,Zimbabwe,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Providence Stadium,-3
-KCSangakkara,Sri Lanka,Bangladesh,11,6,1,0,183.33333333333331,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,12
-KCSangakkara,Sri Lanka,Australia,22,23,3,0,95.65217391304348,0,0,0,0,0,0,Newlands,25
-KCSangakkara,Sri Lanka,Zimbabwe,44,26,2,1,169.23076923076923,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,48
-KCSangakkara,Sri Lanka,New Zealand,14,19,1,0,73.68421052631578,0,0,0,0,0,0,New Wanderers Stadium,15
-KCSangakkara,Sri Lanka,Australia,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Kensington Oval Bridgetown,0
-KCSangakkara,Sri Lanka,New Zealand,13,9,1,0,144.44444444444443,0,0,0,0,0,0,R Premadasa Stadium,14
-KCSangakkara,Sri Lanka,New Zealand,17,26,1,0,65.38461538461539,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,16
-KCSangakkara,Sri Lanka,England,16,19,1,0,84.21052631578947,0,0,0,0,0,0,Beausejour Stadium Gros Islet,17
-KCSangakkara,Sri Lanka,Australia,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Pallekele International Cricket Stadium,27
-KCSangakkara,Sri Lanka,Pakistan,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,22
-KCSangakkara,Sri Lanka,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-KCSangakkara,Sri Lanka,West Indies,39,36,5,0,108.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,44
-KCSangakkara,Sri Lanka,Zimbabwe,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Providence Stadium,-3
-KCSangakkara,Sri Lanka,Bangladesh,11,6,1,0,183.33333333333331,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,12
-KCSangakkara,Sri Lanka,Australia,22,23,3,0,95.65217391304348,0,0,0,0,0,0,Newlands,25
-KCSangakkara,Sri Lanka,Zimbabwe,44,26,2,1,169.23076923076923,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,48
-KCSangakkara,Sri Lanka,New Zealand,14,19,1,0,73.68421052631578,0,0,0,0,0,0,New Wanderers Stadium,15
-KCSangakkara,Sri Lanka,Australia,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Kensington Oval Bridgetown,0
-KCSangakkara,Sri Lanka,New Zealand,13,9,1,0,144.44444444444443,0,0,0,0,0,0,R Premadasa Stadium,14
-KCSangakkara,Sri Lanka,New Zealand,17,26,1,0,65.38461538461539,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,16
-KCSangakkara,Sri Lanka,England,16,19,1,0,84.21052631578947,0,0,0,0,0,0,Beausejour Stadium Gros Islet,17
-KCSangakkara,Sri Lanka,Australia,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Pallekele International Cricket Stadium,27
-KCSangakkara,Sri Lanka,Pakistan,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,22
-KCSangakkara,Sri Lanka,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-KCSangakkara,Sri Lanka,West Indies,39,36,5,0,108.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,44
-KCSangakkara,Sri Lanka,Zimbabwe,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Providence Stadium,-3
-KCSangakkara,Sri Lanka,Bangladesh,11,6,1,0,183.33333333333331,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,12
-KCSangakkara,Sri Lanka,Australia,22,23,3,0,95.65217391304348,0,0,0,0,0,0,Newlands,25
-KCSangakkara,Sri Lanka,Zimbabwe,44,26,2,1,169.23076923076923,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,48
-KCSangakkara,Sri Lanka,New Zealand,14,19,1,0,73.68421052631578,0,0,0,0,0,0,New Wanderers Stadium,15
-KCSangakkara,Sri Lanka,Australia,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Kensington Oval Bridgetown,0
-KCSangakkara,Sri Lanka,New Zealand,13,9,1,0,144.44444444444443,0,0,0,0,0,0,R Premadasa Stadium,14
-KCSangakkara,Sri Lanka,New Zealand,17,26,1,0,65.38461538461539,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,16
-KCSangakkara,Sri Lanka,England,16,19,1,0,84.21052631578947,0,0,0,0,0,0,Beausejour Stadium Gros Islet,17
-KCSangakkara,Sri Lanka,Australia,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Pallekele International Cricket Stadium,27
-KCSangakkara,Sri Lanka,Pakistan,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,22
-KCSangakkara,Sri Lanka,South Africa,13,11,1,0,118.18181818181819,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,14
-KCSangakkara,Sri Lanka,West Indies,22,26,2,0,84.61538461538461,0,0,0,0,0,0,R Premadasa Stadium,24
-KCSangakkara,Sri Lanka,Ireland,3,11,0,0,27.27272727272727,0,0,0,0,0,0,Lord's,-3
-KCSangakkara,Sri Lanka,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Trent Bridge,5
-KCSangakkara,Sri Lanka,Pakistan,15,17,1,0,88.23529411764706,0,0,0,0,0,0,Lord's,16
-KCSangakkara,Sri Lanka,Kenya,30,19,5,0,157.89473684210526,0,0,0,0,0,0,New Wanderers Stadium,35
-KCSangakkara,Sri Lanka,Pakistan,64,52,7,0,123.07692307692308,0,0,0,0,0,0,Lord's,79
-KCSangakkara,Sri Lanka,England,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-8
-KCSangakkara,Sri Lanka,New Zealand,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,-1
-KCSangakkara,Sri Lanka,New Zealand,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Providence Stadium,-2
-KCSangakkara,Sri Lanka,New Zealand,69,52,7,0,132.69230769230768,0,0,0,0,0,0,R Premadasa Stadium,84
-KCSangakkara,Sri Lanka,New Zealand,20,17,1,0,117.64705882352942,0,0,0,0,0,0,Pallekele International Cricket Stadium,21
-KCSangakkara,Sri Lanka,Pakistan,18,12,2,0,150.0,0,0,0,0,0,0,R Premadasa Stadium,20
-KCSangakkara,Sri Lanka,India,46,33,2,3,139.3939393939394,0,0,0,0,0,0,Beausejour Stadium Gros Islet,54
-KCSangakkara,Sri Lanka,South Africa,59,53,9,0,111.32075471698113,0,0,0,0,0,0,R Premadasa Stadium,76
-KCSangakkara,Sri Lanka,Pakistan,9,9,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,9
-KCSangakkara,Sri Lanka,Australia,30,24,4,0,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,34
-KCSangakkara,Sri Lanka,England,13,12,1,0,108.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,14
-KCSangakkara,Sri Lanka,South Africa,39,35,4,0,111.42857142857143,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,43
-KCSangakkara,Sri Lanka,New Zealand,13,17,2,0,76.47058823529412,0,0,0,0,0,0,Eden Park,15
-KCSangakkara,Sri Lanka,Pakistan,18,11,2,1,163.63636363636365,0,0,0,0,0,0,New Wanderers Stadium,22
-KCSangakkara,Sri Lanka,West Indies,68,51,5,3,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,87
-KCSangakkara,Sri Lanka,Australia,55,43,4,2,127.90697674418605,0,0,0,0,0,0,Trent Bridge,71
-KCSangakkara,Sri Lanka,Australia,44,45,6,0,97.77777777777777,0,0,0,0,0,0,Western Australia Cricket Association Ground,50
-KCSangakkara,Sri Lanka,India,78,37,11,2,210.81081081081078,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,101
-KCSangakkara,Sri Lanka,Pakistan,21,22,1,0,95.45454545454545,0,0,0,0,0,0,Dubai International Cricket Stadium,22
-KCSangakkara,Sri Lanka,South Africa,14,19,1,0,73.68421052631578,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,15
-KCSangakkara,Sri Lanka,West Indies,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Shere Bangla National Stadium,-5
-KCSangakkara,Sri Lanka,Bangladesh,37,38,1,1,97.36842105263158,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,40
-KCSangakkara,Sri Lanka,England,43,43,5,0,100.0,0,0,0,0,0,0,County Ground,48
-KCSangakkara,Sri Lanka,Pakistan,44,22,4,2,200.0,0,0,0,0,0,0,Dubai International Cricket Stadium,52
-KCSangakkara,Sri Lanka,India,52,37,6,1,140.54054054054055,0,0,0,0,0,0,Shere Bangla National Stadium,68
-KCSangakkara,Sri Lanka,India,59,35,7,2,168.57142857142858,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,78
-KCSangakkara,Sri Lanka,Pakistan,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,9
-KCSangakkara,Sri Lanka,New Zealand,4,11,1,0,36.36363636363637,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,-1
-KCSangakkara,Sri Lanka,New Zealand,35,37,2,0,94.5945945945946,0,0,0,0,0,0,Trent Bridge,37
-KCSangakkara,Sri Lanka,New Zealand,21,15,4,0,140.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,25
-KCSangakkara,Sri Lanka,Bangladesh,20,29,2,0,68.96551724137932,0,0,0,0,0,0,New Wanderers Stadium,20
-KCSangakkara,Sri Lanka,England,21,14,3,0,150.0,0,0,0,0,0,0,The Rose Bowl,24
-KCSangakkara,Sri Lanka,Pakistan,38,31,2,1,122.58064516129032,0,0,0,0,0,0,R Premadasa Stadium,42
-KCSangakkara,Sri Lanka,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,-8
-KCSangakkara,Sri Lanka,West Indies,39,36,5,0,108.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,44
-KCSangakkara,Sri Lanka,Zimbabwe,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Providence Stadium,-3
-KCSangakkara,Sri Lanka,Bangladesh,11,6,1,0,183.33333333333331,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,12
-KCSangakkara,Sri Lanka,Australia,22,23,3,0,95.65217391304348,0,0,0,0,0,0,Newlands,25
-KCSangakkara,Sri Lanka,Zimbabwe,44,26,2,1,169.23076923076923,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,48
-KCSangakkara,Sri Lanka,New Zealand,14,19,1,0,73.68421052631578,0,0,0,0,0,0,New Wanderers Stadium,15
-KCSangakkara,Sri Lanka,Australia,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Kensington Oval Bridgetown,0
-KCSangakkara,Sri Lanka,New Zealand,13,9,1,0,144.44444444444443,0,0,0,0,0,0,R Premadasa Stadium,14
-KCSangakkara,Sri Lanka,New Zealand,17,26,1,0,65.38461538461539,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,16
-KCSangakkara,Sri Lanka,England,16,19,1,0,84.21052631578947,0,0,0,0,0,0,Beausejour Stadium Gros Islet,17
-KCSangakkara,Sri Lanka,Australia,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Pallekele International Cricket Stadium,27
-KCSangakkara,Sri Lanka,Pakistan,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,22
-KCSangakkara,Sri Lanka,South Africa,13,11,1,0,118.18181818181819,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,14
-KCSangakkara,Sri Lanka,West Indies,22,26,2,0,84.61538461538461,0,0,0,0,0,0,R Premadasa Stadium,24
-KCSangakkara,Sri Lanka,Ireland,3,11,0,0,27.27272727272727,0,0,0,0,0,0,Lord's,-3
-KCSangakkara,Sri Lanka,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Trent Bridge,5
-KCSangakkara,Sri Lanka,Pakistan,15,17,1,0,88.23529411764706,0,0,0,0,0,0,Lord's,16
-KCSangakkara,Sri Lanka,Kenya,30,19,5,0,157.89473684210526,0,0,0,0,0,0,New Wanderers Stadium,35
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KCSangakkara,Sri Lanka,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Kennington Oval,0,0,2009,-8
+KCSangakkara,Sri Lanka,Bangladesh,11,6,1,0,183.33333333333331,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,12
+KCSangakkara,Sri Lanka,New Zealand,17,26,1,0,65.38461538461539,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2010,16
+KCSangakkara,Sri Lanka,Pakistan,18,12,2,0,150.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,20
+KCSangakkara,Sri Lanka,India,78,37,11,2,210.81081081081078,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,101
+KCSangakkara,Sri Lanka,New Zealand,35,37,2,0,94.5945945945946,0,0,0,0,0,0,Trent Bridge,0,0,2009,37
+KCSangakkara,Sri Lanka,England,21,14,3,0,150.0,0,0,0,0,0,0,The Rose Bowl,1,1,2006,44
+KCSangakkara,Sri Lanka,Australia,2,3,0,0,66.66666666666666,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,0
+KCSangakkara,Sri Lanka,South Africa,39,35,4,0,111.42857142857143,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,43
+KCSangakkara,Sri Lanka,Zimbabwe,44,26,2,1,169.23076923076923,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,48
+KCSangakkara,Sri Lanka,Bangladesh,20,29,2,0,68.96551724137932,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,28
+KCSangakkara,Sri Lanka,West Indies,39,36,5,0,108.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,52
+KCSangakkara,Sri Lanka,England,16,19,1,0,84.21052631578947,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2010,25
+KCSangakkara,Sri Lanka,India,46,33,2,3,139.3939393939394,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2010,62
+KCSangakkara,Sri Lanka,New Zealand,20,17,1,0,117.64705882352942,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2013,29
+KCSangakkara,Sri Lanka,Pakistan,19,13,3,0,146.15384615384613,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,2,2012,38
+KCSangakkara,Sri Lanka,Zimbabwe,3,7,0,0,42.857142857142854,0,0,0,0,0,0,Providence Stadium,0,0,2010,-3
+KCSangakkara,Sri Lanka,Pakistan,44,22,4,2,200.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,2,2013,68
+KCSangakkara,Sri Lanka,New Zealand,13,17,2,0,76.47058823529412,0,0,0,0,0,0,Eden Park,0,0,2006,15
+KCSangakkara,Sri Lanka,Pakistan,64,52,7,0,123.07692307692308,0,0,0,0,0,0,Lord's,0,0,2009,79
+KCSangakkara,Sri Lanka,South Africa,14,19,1,0,73.68421052631578,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,1,2014,23
+KCSangakkara,Sri Lanka,New Zealand,69,52,7,0,132.69230769230768,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,84
+KCSangakkara,Sri Lanka,West Indies,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,-5
+KCSangakkara,Sri Lanka,South Africa,59,53,9,0,111.32075471698113,0,0,0,0,0,0,R Premadasa Stadium,0,0,2013,76
+KCSangakkara,Sri Lanka,New Zealand,21,15,4,0,140.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,25
+KCSangakkara,Sri Lanka,West Indies,5,7,0,0,71.42857142857143,0,0,0,0,0,0,Trent Bridge,0,0,2009,5
+KCSangakkara,Sri Lanka,Australia,30,24,4,0,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,34
+KCSangakkara,Sri Lanka,Australia,44,45,6,0,97.77777777777777,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,2,2010,66
+KCSangakkara,Sri Lanka,Australia,55,43,4,2,127.90697674418605,0,0,0,0,0,0,Trent Bridge,0,1,2009,79
+KCSangakkara,Sri Lanka,England,43,43,5,0,100.0,0,0,0,0,0,0,County Ground,1,0,2011,60
+KCSangakkara,Sri Lanka,New Zealand,14,19,1,0,73.68421052631578,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,23
+KCSangakkara,Sri Lanka,England,13,12,1,0,108.33333333333333,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,14
+KCSangakkara,Sri Lanka,Pakistan,15,17,1,0,88.23529411764706,0,0,0,0,0,0,Lord's,0,2,2009,32
+KCSangakkara,Sri Lanka,New Zealand,4,11,0,0,36.36363636363637,0,0,0,0,0,0,Providence Stadium,0,0,2010,-2
+KCSangakkara,Sri Lanka,England,0,1,0,0,0.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,-8
+KCSangakkara,Sri Lanka,India,52,37,6,1,140.54054054054055,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,68
+KCSangakkara,Sri Lanka,Australia,24,17,1,1,141.1764705882353,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,27
+KCSangakkara,Sri Lanka,Bangladesh,37,38,1,1,97.36842105263158,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,40
+KCSangakkara,Sri Lanka,New Zealand,4,11,1,0,36.36363636363637,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,-1
+KCSangakkara,Sri Lanka,Pakistan,21,22,1,0,95.45454545454545,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2013,22
+KCSangakkara,Sri Lanka,West Indies,68,51,5,3,133.33333333333331,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,87
+KCSangakkara,Sri Lanka,Ireland,3,11,0,0,27.27272727272727,0,0,0,0,0,0,Lord's,1,2,2009,25
+KCSangakkara,Sri Lanka,West Indies,22,26,2,0,84.61538461538461,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,24
+KCSangakkara,Sri Lanka,New Zealand,5,11,0,0,45.45454545454545,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,1,2010,7
+KCSangakkara,Sri Lanka,India,59,35,7,2,168.57142857142858,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2009,78
+KCSangakkara,Sri Lanka,Pakistan,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,9
+KCSangakkara,Sri Lanka,Pakistan,18,11,2,1,163.63636363636365,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,22
+KCSangakkara,Sri Lanka,Australia,22,23,3,0,95.65217391304348,0,0,0,0,0,0,Newlands,0,0,2007,25
+KCSangakkara,Sri Lanka,Pakistan,9,9,0,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2011,17
+KCSangakkara,Sri Lanka,South Africa,13,11,1,0,118.18181818181819,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,14
+KCSangakkara,Sri Lanka,Pakistan,38,31,2,1,122.58064516129032,0,0,0,0,0,0,R Premadasa Stadium,0,1,2009,50
+KCSangakkara,Sri Lanka,Kenya,30,19,5,0,157.89473684210526,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,35
+KCSangakkara,Sri Lanka,New Zealand,13,9,1,0,144.44444444444443,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,14
+KCSangakkara,Sri Lanka,Pakistan,5,24,1,0,20.833333333333336,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2011,0
+KCSangakkara,Sri Lanka,Pakistan,22,49,0,0,44.89795918367347,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2013,24
+KCSangakkara,Sri Lanka,India,2,10,0,0,20.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2008,4
+KCSangakkara,Sri Lanka,South Africa,88,113,10,0,77.87610619469027,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2006,106
+KCSangakkara,Sri Lanka,India,0,1,0,0,0.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2013,-8
+KCSangakkara,Sri Lanka,Pakistan,23,33,0,0,69.6969696969697,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,21
+KCSangakkara,Sri Lanka,Bangladesh,101,96,16,0,105.20833333333333,0,0,0,0,0,0,Gaddafi Stadium,0,2,2008,149
+KCSangakkara,Sri Lanka,South Africa,36,24,6,0,150.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2014,42
+KCSangakkara,Sri Lanka,England,40,69,2,0,57.971014492753625,0,0,0,0,0,0,Riverside Ground,0,2,2014,54
+KCSangakkara,Sri Lanka,England,13,24,2,0,54.166666666666664,0,0,0,0,0,0,Old Trafford,0,0,2014,11
+KCSangakkara,Sri Lanka,Bangladesh,52,70,4,0,74.28571428571429,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,2,2010,80
+KCSangakkara,Sri Lanka,England,26,44,1,0,59.09090909090909,0,0,0,0,0,0,R Premadasa Stadium,0,4,2007,55
+KCSangakkara,Sri Lanka,South Africa,32,32,2,1,100.0,0,0,0,0,0,0,De Beers Diamond Oval,0,2,2012,52
+KCSangakkara,Sri Lanka,Bangladesh,6,11,1,0,54.54545454545454,0,0,0,0,0,0,R Premadasa Stadium,0,2,2007,19
+KCSangakkara,Sri Lanka,Pakistan,49,63,2,1,77.77777777777779,0,0,0,0,0,0,R Premadasa Stadium,0,1,2011,61
+KCSangakkara,Sri Lanka,England,117,88,11,2,132.95454545454547,0,0,0,0,0,0,Westpac Stadium,0,0,2015,148
+KCSangakkara,Sri Lanka,Pakistan,9,34,1,0,26.47058823529412,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,12
+KCSangakkara,Sri Lanka,Canada,92,89,7,1,103.37078651685394,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,3,2011,133
+KCSangakkara,Sri Lanka,New Zealand,76,85,8,1,89.41176470588236,0,0,0,0,0,0,Saxton Oval,0,2,2015,110
+KCSangakkara,Sri Lanka,New Zealand,39,39,5,0,100.0,0,0,0,0,0,0,Hagley Oval,0,1,2015,52
+KCSangakkara,Sri Lanka,England,86,109,7,0,78.89908256880734,0,0,0,0,0,0,R Premadasa Stadium,0,2,2014,117
+KCSangakkara,Sri Lanka,New Zealand,19,32,2,0,59.375,0,0,0,0,0,0,Brabourne Stadium,0,2,2006,33
+KCSangakkara,Sri Lanka,Australia,73,103,7,0,70.87378640776699,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,88
+KCSangakkara,Sri Lanka,South Africa,88,85,8,0,103.5294117647059,0,0,0,0,0,0,R Premadasa Stadium,0,0,2014,104
+KCSangakkara,Sri Lanka,Pakistan,58,104,6,0,55.769230769230774,0,0,0,0,0,0,Sharjah Cricket Stadium,0,2,2011,84
+KCSangakkara,Sri Lanka,India,105,87,8,2,120.6896551724138,0,0,0,0,0,0,Bellerive Oval,0,0,2012,133
+KCSangakkara,Sri Lanka,Pakistan,58,69,4,1,84.05797101449275,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2013,72
+KCSangakkara,Sri Lanka,Bangladesh,0,5,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2009,0
+KCSangakkara,Sri Lanka,India,61,87,4,0,70.11494252873564,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2014,73
+KCSangakkara,Sri Lanka,New Zealand,113,107,14,0,105.60747663551402,0,0,0,0,0,0,Westpac Stadium,0,2,2015,159
+KCSangakkara,Sri Lanka,Pakistan,2,5,0,0,40.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,2,2014,12
+KCSangakkara,Sri Lanka,England,15,20,2,0,75.0,0,0,0,0,0,0,Lord's,0,1,2006,25
+KCSangakkara,Sri Lanka,New Zealand,48,66,5,0,72.72727272727273,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,61
+KCSangakkara,Sri Lanka,India,103,85,12,1,121.17647058823529,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2014,133
+KCSangakkara,Sri Lanka,West Indies,90,100,6,1,90.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2013,114
+KCSangakkara,Sri Lanka,South Africa,4,14,1,0,28.57142857142857,0,0,0,0,0,0,Boland Park,0,2,2012,15
+KCSangakkara,Sri Lanka,West Indies,17,23,1,0,73.91304347826086,0,0,0,0,0,0,Sabina Park Kingston,0,0,2013,18
+KCSangakkara,Sri Lanka,Australia,54,54,6,1,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2007,70
+KCSangakkara,Sri Lanka,Bangladesh,74,75,10,0,98.66666666666667,0,0,0,0,0,0,Shere Bangla National Stadium,1,0,2010,104
+KCSangakkara,Sri Lanka,Bangladesh,56,56,3,1,100.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2007,85
+KCSangakkara,Sri Lanka,India,44,86,2,0,51.162790697674424,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2009,42
+KCSangakkara,Sri Lanka,Bangladesh,8,14,1,0,57.14285714285714,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2014,21
+KCSangakkara,Sri Lanka,India,7,10,1,0,70.0,0,0,0,0,0,0,National Stadium,0,0,2008,8
+KCSangakkara,Sri Lanka,Bangladesh,109,129,11,0,84.49612403100775,0,0,0,0,0,0,Chittagong Divisional Stadium,0,1,2006,144
+KCSangakkara,Sri Lanka,Bermuda,76,86,6,0,88.37209302325581,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,3,2007,114
+KCSangakkara,Sri Lanka,England,51,43,5,1,118.6046511627907,0,0,0,0,0,0,Kennington Oval,2,1,2006,98
+KCSangakkara,Sri Lanka,India,1,2,0,0,50.0,0,0,0,0,0,0,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,0,0,2007,-3
+KCSangakkara,Sri Lanka,New Zealand,36,59,4,0,61.016949152542374,0,0,0,0,0,0,Jade Stadium,0,1,2006,46
+KCSangakkara,Sri Lanka,England,23,20,4,0,114.99999999999999,0,0,0,0,0,0,Headingley,0,2,2006,43
+KCSangakkara,Sri Lanka,New Zealand,69,105,3,0,65.71428571428571,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2007,86
+KCSangakkara,Sri Lanka,India,26,35,2,0,74.28571428571429,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2012,28
+KCSangakkara,Sri Lanka,Pakistan,16,23,3,0,69.56521739130434,0,0,0,0,0,0,R Premadasa Stadium,0,2,2009,33
+KCSangakkara,Sri Lanka,India,83,85,9,0,97.6470588235294,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,100
+KCSangakkara,Sri Lanka,Zimbabwe,11,9,1,0,122.22222222222223,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2011,20
+KCSangakkara,Sri Lanka,New Zealand,54,81,7,1,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,3,2011,93
+KCSangakkara,Sri Lanka,Pakistan,14,14,1,1,100.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2013,17
+KCSangakkara,Sri Lanka,South Africa,62,78,5,0,79.48717948717949,0,0,0,0,0,0,Bellerive Oval,0,1,2006,83
+KCSangakkara,Sri Lanka,Pakistan,11,17,2,0,64.70588235294117,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,2,2014,27
+KCSangakkara,Sri Lanka,Australia,78,97,7,0,80.41237113402062,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2006,93
+KCSangakkara,Sri Lanka,England,25,49,2,0,51.02040816326531,0,0,0,0,0,0,Lord's,1,0,2011,35
+KCSangakkara,Sri Lanka,India,46,42,3,1,109.52380952380953,0,0,0,0,0,0,Barabati Stadium,0,1,2009,59
+KCSangakkara,Sri Lanka,India,68,79,9,0,86.07594936708861,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,93
+KCSangakkara,Sri Lanka,India,17,41,2,0,41.46341463414634,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,21
+KCSangakkara,Sri Lanka,Bangladesh,17,14,2,0,121.42857142857142,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,27
+KCSangakkara,Sri Lanka,Zimbabwe,57,62,4,0,91.93548387096774,0,0,0,0,0,0,Harare Sports Club,0,1,2008,77
+KCSangakkara,Sri Lanka,South Africa,75,45,12,0,166.66666666666669,0,0,0,0,0,0,R Premadasa Stadium,0,2,2013,111
+KCSangakkara,Sri Lanka,Pakistan,22,27,3,0,81.48148148148148,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,0,2006,25
+KCSangakkara,Sri Lanka,India,9,12,2,0,75.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2008,19
+KCSangakkara,Sri Lanka,Pakistan,42,64,4,0,65.625,0,0,0,0,0,0,Rangiri Dambulla International Stadium,1,3,2010,80
+KCSangakkara,Sri Lanka,England,9,38,0,0,23.684210526315788,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2007,3
+KCSangakkara,Sri Lanka,Australia,22,23,1,0,95.65217391304348,0,0,0,0,0,0,Bellerive Oval,0,1,2012,31
+KCSangakkara,Sri Lanka,South Africa,54,76,5,0,71.05263157894737,0,0,0,0,0,0,SuperSport Park,0,0,2009,67
+KCSangakkara,Sri Lanka,Pakistan,37,30,4,0,123.33333333333334,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,2,2009,57
+KCSangakkara,Sri Lanka,Zimbabwe,80,86,7,0,93.02325581395348,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,2,2006,111
+KCSangakkara,Sri Lanka,Australia,19,10,3,0,190.0,0,0,0,0,0,0,Adelaide Oval,0,2,2012,38
+KCSangakkara,Sri Lanka,Pakistan,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Dubai International Cricket Stadium,1,2,2011,27
+KCSangakkara,Sri Lanka,India,56,76,4,0,73.68421052631578,0,0,0,0,0,0,R Premadasa Stadium,0,1,2009,76
+KCSangakkara,Sri Lanka,England,112,108,14,0,103.7037037037037,0,0,0,0,0,0,Lord's,0,1,2014,150
+KCSangakkara,Sri Lanka,Zimbabwe,28,61,0,0,45.90163934426229,0,0,0,0,0,0,Harare Sports Club,0,0,2008,22
+KCSangakkara,Sri Lanka,South Africa,0,3,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,3,2013,16
+KCSangakkara,Sri Lanka,Bangladesh,105,76,13,1,138.1578947368421,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2015,152
+KCSangakkara,Sri Lanka,England,69,87,5,0,79.3103448275862,0,0,0,0,0,0,Headingley,0,0,2011,82
+KCSangakkara,Sri Lanka,India,4,8,0,0,50.0,0,0,0,0,0,0,R Premadasa Stadium,0,2,2009,16
+KCSangakkara,Sri Lanka,Australia,31,57,1,0,54.385964912280706,0,0,0,0,0,0,R Premadasa Stadium,0,2,2011,44
+KCSangakkara,Sri Lanka,West Indies,75,105,4,1,71.42857142857143,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,1,2011,97
+KCSangakkara,Sri Lanka,Australia,11,26,2,0,42.30769230769231,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2008,15
+KCSangakkara,Sri Lanka,England,38,59,4,0,64.40677966101694,0,0,0,0,0,0,Rangiri Dambulla International Stadium,1,3,2007,76
+KCSangakkara,Sri Lanka,New Zealand,15,28,0,0,53.57142857142857,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,11
+KCSangakkara,Sri Lanka,New Zealand,71,60,9,0,118.33333333333333,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,2,2013,104
+KCSangakkara,Sri Lanka,Pakistan,1,11,0,0,9.090909090909092,0,0,0,0,0,0,R Premadasa Stadium,0,2,2006,11
+KCSangakkara,Sri Lanka,New Zealand,9,18,0,0,50.0,0,0,0,0,0,0,University Oval,0,2,2015,21
+KCSangakkara,Sri Lanka,South Africa,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,3,2014,32
+KCSangakkara,Sri Lanka,India,65,89,2,1,73.03370786516854,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,77
+KCSangakkara,Sri Lanka,India,1,6,0,0,16.666666666666664,0,0,0,0,0,0,R Premadasa Stadium,0,1,2008,3
+KCSangakkara,Sri Lanka,Pakistan,25,42,4,0,59.523809523809526,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2014,33
+KCSangakkara,Sri Lanka,Zimbabwe,28,27,5,0,103.7037037037037,0,0,0,0,0,0,Harare Sports Club,0,3,2008,57
+KCSangakkara,Sri Lanka,India,13,15,2,0,86.66666666666667,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,4,2010,47
+KCSangakkara,Sri Lanka,South Africa,45,100,3,0,45.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2015,42
+KCSangakkara,Sri Lanka,England,91,124,10,0,73.38709677419355,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2014,109
+KCSangakkara,Sri Lanka,India,0,1,0,0,0.0,0,0,0,0,0,0,Rajiv Gandhi International Stadium Uppal,0,1,2014,0
+KCSangakkara,Sri Lanka,Australia,16,19,2,0,84.21052631578947,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,18
+KCSangakkara,Sri Lanka,South Africa,38,39,3,1,97.43589743589743,0,0,0,0,0,0,Chevrolet Park,0,0,2012,43
+KCSangakkara,Sri Lanka,India,60,82,4,0,73.17073170731707,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2010,88
+KCSangakkara,Sri Lanka,India,1,9,0,0,11.11111111111111,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2009,-5
+KCSangakkara,Sri Lanka,Pakistan,39,48,5,0,81.25,0,0,0,0,0,0,Sawai Mansingh Stadium,0,2,2006,60
+KCSangakkara,Sri Lanka,New Zealand,11,14,1,0,78.57142857142857,0,0,0,0,0,0,New Wanderers Stadium,0,1,2009,20
+KCSangakkara,Sri Lanka,India,5,15,0,0,33.33333333333333,0,0,0,0,0,0,R Premadasa Stadium,0,4,2009,31
+KCSangakkara,Sri Lanka,England,134,138,12,0,97.10144927536231,0,0,0,0,0,0,Kennington Oval,0,1,2013,170
+KCSangakkara,Sri Lanka,Australia,22,59,0,0,37.28813559322034,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2008,24
+KCSangakkara,Sri Lanka,India,0,5,0,0,0.0,0,0,0,0,0,0,Nehru Stadium Fatorda,0,0,2007,-8
+KCSangakkara,Sri Lanka,Australia,13,13,2,0,100.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2006,15
+KCSangakkara,Sri Lanka,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2014,8
+KCSangakkara,Sri Lanka,Australia,83,110,3,1,75.45454545454545,0,0,0,0,0,0,Adelaide Oval,0,0,2006,96
+KCSangakkara,Sri Lanka,India,31,56,2,0,55.35714285714286,0,0,0,0,0,0,Adelaide Oval,0,2,2012,45
+KCSangakkara,Sri Lanka,India,71,102,6,1,69.6078431372549,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,3,2013,109
+KCSangakkara,Sri Lanka,Pakistan,49,73,4,0,67.12328767123287,0,0,0,0,0,0,National Stadium,0,0,2009,51
+KCSangakkara,Sri Lanka,Pakistan,51,78,3,0,65.38461538461539,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2013,60
+KCSangakkara,Sri Lanka,England,48,76,3,0,63.1578947368421,0,0,0,0,0,0,Old Trafford,0,2,2011,65
+KCSangakkara,Sri Lanka,India,17,44,1,0,38.63636363636363,0,0,0,0,0,0,Sophia Gardens,0,0,2013,12
+KCSangakkara,Sri Lanka,Bangladesh,50,64,7,1,78.125,0,0,0,0,0,0,Shaheed Chandu Stadium,0,3,2006,91
+KCSangakkara,Sri Lanka,New Zealand,40,60,3,0,66.66666666666666,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,41
+KCSangakkara,Sri Lanka,Australia,22,32,3,0,68.75,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2012,31
+KCSangakkara,Sri Lanka,Ireland,10,11,0,0,90.9090909090909,0,0,0,0,0,0,National Cricket Stadium St George's,0,3,2007,34
+KCSangakkara,Sri Lanka,Bangladesh,16,19,2,0,84.21052631578947,0,0,0,0,0,0,P Saravanamuttu Stadium,0,1,2007,26
+KCSangakkara,Sri Lanka,Bangladesh,18,33,2,0,54.54545454545454,0,0,0,0,0,0,R Premadasa Stadium,0,3,2007,40
+KCSangakkara,Sri Lanka,South Africa,28,38,4,0,73.68421052631578,0,0,0,0,0,0,Providence Stadium,0,1,2007,40
+KCSangakkara,Sri Lanka,India,6,16,1,0,37.5,0,0,0,0,0,0,R Premadasa Stadium,0,0,2008,1
+KCSangakkara,Sri Lanka,South Africa,16,24,1,0,66.66666666666666,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,2,2006,31
+KCSangakkara,Sri Lanka,New Zealand,5,17,0,0,29.411764705882355,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,-1
+KCSangakkara,Sri Lanka,England,17,33,2,0,51.515151515151516,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2007,23
+KCSangakkara,Sri Lanka,Australia,0,4,0,0,0.0,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2007,-8
+KCSangakkara,Sri Lanka,South Africa,169,142,18,6,119.01408450704226,0,0,0,0,0,0,R Premadasa Stadium,0,2,2013,231
+KCSangakkara,Sri Lanka,Australia,7,8,0,0,87.5,0,0,0,0,0,0,R Premadasa Stadium,0,2,2011,23
+KCSangakkara,Sri Lanka,India,21,22,2,0,95.45454545454545,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,1,2009,31
+KCSangakkara,Sri Lanka,Australia,30,31,4,1,96.7741935483871,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2012,44
+KCSangakkara,Sri Lanka,Pakistan,112,113,9,1,99.11504424778761,0,0,0,0,0,0,National Stadium,0,0,2008,139
+KCSangakkara,Sri Lanka,New Zealand,18,42,2,0,42.857142857142854,0,0,0,0,0,0,Sabina Park Kingston,0,0,2007,14
+KCSangakkara,Sri Lanka,England,7,15,0,0,46.666666666666664,0,0,0,0,0,0,Old Trafford,0,1,2006,9
+KCSangakkara,Sri Lanka,England,67,93,8,0,72.04301075268818,0,0,0,0,0,0,R Premadasa Stadium,0,0,2014,83
+KCSangakkara,Sri Lanka,England,8,14,2,0,57.14285714285714,0,0,0,0,0,0,Kennington Oval,0,1,2014,14
+KCSangakkara,Sri Lanka,India,19,41,2,0,46.34146341463415,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2008,23
+KCSangakkara,Sri Lanka,South Africa,91,106,8,2,85.84905660377359,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,2,2013,127
+KCSangakkara,Sri Lanka,South Africa,3,28,0,0,10.714285714285714,0,0,0,0,0,0,Buffalo Park,0,0,2012,-3
+KCSangakkara,Sri Lanka,India,13,13,2,0,100.0,0,0,0,0,0,0,Barabati Stadium,0,0,2014,15
+KCSangakkara,Sri Lanka,India,4,3,0,0,133.33333333333331,0,0,0,0,0,0,National Stadium,0,1,2008,12
+KCSangakkara,Sri Lanka,New Zealand,81,66,7,2,122.72727272727273,0,0,0,0,0,0,University Oval,1,1,2015,120
+KCSangakkara,Sri Lanka,India,84,73,8,1,115.06849315068493,0,0,0,0,0,0,R Premadasa Stadium,0,2,2009,118
+KCSangakkara,Sri Lanka,England,75,110,7,0,68.18181818181817,0,0,0,0,0,0,Trent Bridge,0,0,2011,88
+KCSangakkara,Sri Lanka,Bangladesh,128,117,14,0,109.40170940170941,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2014,174
+KCSangakkara,Sri Lanka,India,73,83,10,0,87.95180722891565,0,0,0,0,0,0,Rangiri Dambulla International Stadium,1,3,2010,127
+KCSangakkara,Sri Lanka,England,2,13,0,0,15.384615384615385,0,0,0,0,0,0,Edgbaston,0,2,2014,12
+KCSangakkara,Sri Lanka,Pakistan,97,135,7,3,71.85185185185186,0,0,0,0,0,0,R Premadasa Stadium,0,3,2012,142
+KCSangakkara,Sri Lanka,Australia,49,38,3,2,128.94736842105263,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2011,56
+KCSangakkara,Sri Lanka,West Indies,7,11,1,0,63.63636363636363,0,0,0,0,0,0,Providence Stadium,0,0,2007,6
+KCSangakkara,Sri Lanka,India,2,13,0,0,15.384615384615385,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2010,4
+KCSangakkara,Sri Lanka,England,63,65,7,0,96.92307692307692,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,2,2014,94
+KCSangakkara,Sri Lanka,Pakistan,78,101,8,0,77.22772277227723,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2011,110
+KCSangakkara,Sri Lanka,Afghanistan,7,13,1,0,53.84615384615385,0,0,0,0,0,0,University Oval,0,0,2015,4
+KCSangakkara,Sri Lanka,New Zealand,111,130,12,2,85.38461538461539,0,0,0,0,0,0,Wankhede Stadium,0,1,2011,151
+KCSangakkara,Sri Lanka,West Indies,28,51,2,0,54.90196078431373,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2008,26
+KCSangakkara,Sri Lanka,Bangladesh,2,5,0,0,40.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,-4
+KCSangakkara,Sri Lanka,Australia,49,46,5,0,106.5217391304348,0,0,0,0,0,0,Melbourne Cricket Ground,0,3,2010,78
+KCSangakkara,Sri Lanka,Pakistan,45,69,3,0,65.21739130434783,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2011,46
+KCSangakkara,Sri Lanka,Australia,64,93,3,0,68.81720430107528,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2012,89
+KCSangakkara,Sri Lanka,Pakistan,2,17,0,0,11.76470588235294,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,2,2009,12
+KCSangakkara,Sri Lanka,Pakistan,40,72,3,0,55.55555555555556,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,39
+KCSangakkara,Sri Lanka,India,60,73,5,0,82.1917808219178,0,0,0,0,0,0,Eden Gardens,0,0,2009,73
+KCSangakkara,Sri Lanka,New Zealand,79,84,9,2,94.04761904761905,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,100
+KCSangakkara,Sri Lanka,Pakistan,71,93,3,1,76.34408602150538,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,84
+KCSangakkara,Sri Lanka,West Indies,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,2,2008,11
+KCSangakkara,Sri Lanka,Bangladesh,23,56,1,0,41.07142857142857,0,0,0,0,0,0,Shaheed Chandu Stadium,0,1,2006,26
+KCSangakkara,Sri Lanka,India,33,42,4,0,78.57142857142857,0,0,0,0,0,0,Bellerive Oval,0,0,2008,37
+KCSangakkara,Sri Lanka,Australia,45,53,4,0,84.90566037735849,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,49
+KCSangakkara,Sri Lanka,South Africa,0,9,0,0,0.0,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,2,2006,8
+KCSangakkara,Sri Lanka,England,69,104,4,0,66.34615384615384,0,0,0,0,0,0,R Premadasa Stadium,0,0,2007,79
+KCSangakkara,Sri Lanka,New Zealand,52,46,9,0,113.04347826086956,0,0,0,0,0,0,Westpac Stadium,0,1,2006,77
+KCSangakkara,Sri Lanka,India,128,156,12,0,82.05128205128204,0,0,0,0,0,0,Adelaide Oval,0,1,2008,164
+KCSangakkara,Sri Lanka,Bangladesh,121,131,16,1,92.36641221374046,0,0,0,0,0,0,National Stadium,0,0,2008,155
+KCSangakkara,Sri Lanka,India,73,95,5,0,76.84210526315789,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,86
+KCSangakkara,Sri Lanka,New Zealand,42,59,5,1,71.1864406779661,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2012,57
+KCSangakkara,Sri Lanka,Pakistan,50,60,2,0,83.33333333333334,0,0,0,0,0,0,Gaddafi Stadium,0,1,2009,68
+KCSangakkara,Sri Lanka,England,2,5,0,0,40.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2014,4
+KCSangakkara,Sri Lanka,Bangladesh,63,69,6,0,91.30434782608695,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2013,85
+KCSangakkara,Sri Lanka,India,15,36,2,0,41.66666666666667,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2007,11
+KCSangakkara,Sri Lanka,New Zealand,68,88,8,0,77.27272727272727,0,0,0,0,0,0,Sophia Gardens,0,1,2013,92
+KCSangakkara,Sri Lanka,India,12,19,2,0,63.1578947368421,0,0,0,0,0,0,Eden Gardens,0,0,2007,12
+KCSangakkara,Sri Lanka,Australia,52,87,1,1,59.77011494252874,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2011,67
+KCSangakkara,Sri Lanka,Australia,51,57,5,0,89.47368421052632,0,0,0,0,0,0,Adelaide Oval,0,0,2012,64
+KCSangakkara,Sri Lanka,England,33,50,3,0,66.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2014,42
+KCSangakkara,Sri Lanka,Pakistan,39,33,6,0,118.18181818181819,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,45
+KCSangakkara,Sri Lanka,India,133,157,12,0,84.71337579617835,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,161
+KCSangakkara,Sri Lanka,United Arab Emirates,0,6,0,0,0.0,0,0,0,0,0,0,Gaddafi Stadium,0,2,2008,8
+KCSangakkara,Sri Lanka,New Zealand,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,20
+KCSangakkara,Sri Lanka,England,58,77,5,0,75.32467532467533,0,0,0,0,0,0,Riverside Ground,0,1,2006,79
+KCSangakkara,Sri Lanka,Scotland,124,99,13,4,125.25252525252526,0,0,0,0,0,0,Bellerive Oval,0,2,2015,177
+KCSangakkara,Sri Lanka,Bangladesh,22,24,1,0,91.66666666666666,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,3,2006,47
+KCSangakkara,Sri Lanka,Pakistan,67,68,8,0,98.52941176470588,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,1,2014,91
+KCSangakkara,Sri Lanka,South Africa,23,32,4,0,71.875,0,0,0,0,0,0,Adelaide Oval,0,0,2006,27
+KCSangakkara,Sri Lanka,New Zealand,38,41,1,3,92.6829268292683,0,0,0,0,0,0,Seddon Park,0,1,2015,53
+KCSangakkara,Sri Lanka,Australia,0,4,0,0,0.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2010,-8
+KCSangakkara,Sri Lanka,New Zealand,15,18,3,0,83.33333333333334,0,0,0,0,0,0,Jade Stadium,0,1,2007,26
+KCSangakkara,Sri Lanka,Pakistan,18,27,1,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,4,2012,49
+KCSangakkara,Sri Lanka,New Zealand,0,2,0,0,0.0,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2013,-8
+KCSangakkara,Sri Lanka,Australia,42,41,6,0,102.4390243902439,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2008,48
+KCSangakkara,Sri Lanka,New Zealand,4,15,1,0,26.666666666666668,0,0,0,0,0,0,Hagley Oval,0,0,2015,-1
+KCSangakkara,Sri Lanka,West Indies,20,44,1,0,45.45454545454545,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,0,2011,15
+KCSangakkara,Sri Lanka,Australia,42,51,4,0,82.35294117647058,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2012,54
+KCSangakkara,Sri Lanka,Australia,80,114,4,0,70.17543859649122,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2008,100
+KCSangakkara,Sri Lanka,West Indies,23,28,4,0,82.14285714285714,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2008,35
+KCSangakkara,Sri Lanka,India,110,128,11,4,85.9375,0,0,0,0,0,0,Madhavrao Scindia Cricket Ground,0,2,2007,161
+KCSangakkara,Sri Lanka,England,1,6,0,0,16.666666666666664,0,0,0,0,0,0,New Wanderers Stadium,0,1,2009,3
+KCSangakkara,Sri Lanka,Zimbabwe,46,98,5,0,46.93877551020408,0,0,0,0,0,0,Harare Sports Club,0,0,2008,45
+KCSangakkara,Sri Lanka,India,71,65,7,1,109.23076923076923,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,2,2010,104
+KCSangakkara,Sri Lanka,Australia,3,12,0,0,25.0,0,0,0,0,0,0,Kennington Oval,0,2,2013,13
+KCSangakkara,Sri Lanka,Australia,104,107,11,0,97.19626168224299,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2015,131
+KCSangakkara,Sri Lanka,Pakistan,36,41,3,0,87.8048780487805,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,3,2009,63
+KCSangakkara,Sri Lanka,New Zealand,36,42,5,0,85.71428571428571,0,0,0,0,0,0,McLean Park,0,2,2006,57
+KCSangakkara,Sri Lanka,New Zealand,79,104,8,1,75.96153846153845,0,0,0,0,0,0,Eden Park,0,2,2007,113

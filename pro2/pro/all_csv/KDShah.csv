@@ -1,32 +1,24 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KDShah,Hong Kong,Nepal,31,31,2,1,100.0,17,2,18,1,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),60
-KDShah,Hong Kong,Afghanistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,12
-KDShah,Hong Kong,Oman,12,15,1,0,80.0,23,3,18,1,0,6.0,Sheikh Zayed Stadium,38
-KDShah,Hong Kong,United Arab Emirates,30,37,2,0,81.08108108108108,5,0,13,0,0,0,Sheikh Zayed Stadium,32
-KDShah,Hong Kong,Nepal,31,31,2,1,100.0,17,2,18,1,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),60
-KDShah,Hong Kong,Afghanistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,12
-KDShah,Hong Kong,Oman,12,15,1,0,80.0,23,3,18,1,0,6.0,Sheikh Zayed Stadium,38
-KDShah,Hong Kong,United Arab Emirates,30,37,2,0,81.08108108108108,5,0,13,0,0,0,Sheikh Zayed Stadium,32
-KDShah,Hong Kong,Nepal,31,31,2,1,100.0,17,2,18,1,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),60
-KDShah,Hong Kong,Afghanistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,12
-KDShah,Hong Kong,Oman,12,15,1,0,80.0,23,3,18,1,0,6.0,Sheikh Zayed Stadium,38
-KDShah,Hong Kong,United Arab Emirates,30,37,2,0,81.08108108108108,5,0,13,0,0,0,Sheikh Zayed Stadium,32
-KDShah,Hong Kong,Nepal,12,19,0,0,63.1578947368421,0,0,0,0,0,0,Civil Service Cricket Club Stormont,10
-KDShah,Hong Kong,Canada,59,49,2,3,120.40816326530613,0,0,0,0,0,0,Tolerance Oval,75
-KDShah,Hong Kong,Ireland,79,56,6,2,141.07142857142858,11,1,22,0,0,22.0,Sheikh Zayed Stadium,97
-KDShah,Hong Kong,Oman,5,4,0,0,125.0,0,0,0,0,0,0,Sheikh Zayed Stadium,5
-KDShah,Hong Kong,Ireland,8,10,0,1,80.0,12,2,37,0,0,18.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),4
-KDShah,Hong Kong,Oman,0,1,0,0,0.0,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,-8
-KDShah,Hong Kong,Nigeria,25,10,3,1,250.0,0,0,0,0,0,0,Tolerance Oval,30
-KDShah,Hong Kong,Scotland,4,3,0,0,133.33333333333331,0,0,0,0,0,0,The Village Malahide,4
-KDShah,Hong Kong,Netherlands,11,16,0,1,68.75,23,3,25,1,1,8.333333333333334,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),44
-KDShah,Hong Kong,Afghanistan,29,20,5,1,145.0,0,0,0,0,0,0,Shere Bangla National Stadium,36
-KDShah,Hong Kong,Scotland,7,16,0,0,43.75,0,0,0,0,0,0,Mission Road Ground Mong Kok,1
-KDShah,Hong Kong,Scotland,7,5,1,0,140.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,8
-KDShah,Hong Kong,United Arab Emirates,0,2,0,0,0.0,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,-8
-KDShah,Hong Kong,Nepal,0,10,0,0,0.0,0,0,0,0,0,0,P Sara Oval,-8
-KDShah,Hong Kong,Jersey,14,17,1,0,82.35294117647058,23,3,31,2,0,10.333333333333334,Sheikh Zayed Stadium,61
-KDShah,Hong Kong,Nepal,31,31,2,1,100.0,17,2,18,1,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),60
-KDShah,Hong Kong,Afghanistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,12
-KDShah,Hong Kong,Oman,12,15,1,0,80.0,23,3,18,1,0,6.0,Sheikh Zayed Stadium,38
-KDShah,Hong Kong,United Arab Emirates,30,37,2,0,81.08108108108108,5,0,13,0,0,0,Sheikh Zayed Stadium,32
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KDShah,Hong Kong,Ireland,79,56,6,2,141.07142857142858,11,1,22,0,0,22.0,Sheikh Zayed Stadium,1,0,2019,109
+KDShah,Hong Kong,Jersey,14,17,1,0,82.35294117647058,23,3,31,2,0,10.333333333333334,Sheikh Zayed Stadium,0,0,2019,61
+KDShah,Hong Kong,Scotland,7,16,0,0,43.75,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,0,2016,1
+KDShah,Hong Kong,Oman,12,15,1,0,80.0,23,3,18,1,0,6.0,Sheikh Zayed Stadium,0,0,2019,38
+KDShah,Hong Kong,Ireland,8,10,0,1,80.0,12,2,37,0,0,18.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,4
+KDShah,Hong Kong,United Arab Emirates,30,37,2,0,81.08108108108108,5,0,13,0,0,0,Sheikh Zayed Stadium,0,0,2019,32
+KDShah,Hong Kong,Afghanistan,29,20,5,1,145.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,36
+KDShah,Hong Kong,Nepal,31,31,2,1,100.0,17,2,18,1,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,60
+KDShah,Hong Kong,Nepal,0,10,0,0,0.0,0,0,0,0,0,0,P Sara Oval,0,0,2014,-8
+KDShah,Hong Kong,Oman,5,4,0,0,125.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2015,5
+KDShah,Hong Kong,Scotland,7,5,1,0,140.0,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,8
+KDShah,Hong Kong,Scotland,4,3,0,0,133.33333333333331,0,0,0,0,0,0,The Village Malahide,0,0,2015,4
+KDShah,Hong Kong,Nigeria,25,10,3,1,250.0,0,0,0,0,0,0,Tolerance Oval,0,0,2019,30
+KDShah,Hong Kong,Canada,59,49,2,3,120.40816326530613,0,0,0,0,0,0,Tolerance Oval,0,2,2019,91
+KDShah,Hong Kong,United Arab Emirates,0,2,0,0,0.0,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,-8
+KDShah,Hong Kong,Oman,0,1,0,0,0.0,0,0,0,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,-8
+KDShah,Hong Kong,Netherlands,11,16,0,1,68.75,23,3,25,1,1,8.333333333333334,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,44
+KDShah,Hong Kong,Nepal,12,19,0,0,63.1578947368421,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2015,10
+KDShah,Hong Kong,Afghanistan,11,14,1,0,78.57142857142857,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,12
+KDShah,Hong Kong,United Arab Emirates,34,38,4,1,89.47368421052632,0,0,0,0,0,0,ICC Academy,0,0,2015,40
+KDShah,Hong Kong,Papua New Guinea,9,21,1,0,42.857142857142854,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,0,2016,4
+KDShah,Hong Kong,Papua New Guinea,18,32,3,0,56.25,35,5,30,0,1,6.0,Mission Road Ground Mong Kok,0,0,2016,25
+KDShah,Hong Kong,Papua New Guinea,0,7,0,0,0.0,0,0,0,0,0,0,Mission Road Ground Mong Kok,0,0,2016,-8

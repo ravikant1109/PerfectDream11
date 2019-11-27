@@ -1,7 +1,19 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HJHMarshall,New Zealand,Australia,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Eden Park,8
-HJHMarshall,New Zealand,Australia,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Eden Park,8
-HJHMarshall,New Zealand,Australia,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Eden Park,8
-HJHMarshall,New Zealand,South Africa,3,3,0,0,100.0,0,0,0,0,0,0,New Wanderers Stadium,3
-HJHMarshall,New Zealand,West Indies,1,4,0,0,25.0,0,0,0,0,0,0,Eden Park,-5
-HJHMarshall,New Zealand,Australia,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Eden Park,8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HJHMarshall,New Zealand,South Africa,3,3,0,0,100.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2005,3
+HJHMarshall,New Zealand,Australia,8,7,0,0,114.28571428571428,0,0,0,0,0,0,Eden Park,0,0,2005,8
+HJHMarshall,New Zealand,West Indies,1,4,0,0,25.0,0,0,0,0,0,0,Eden Park,1,1,2006,15
+HJHMarshall,New Zealand,West Indies,43,54,3,0,79.62962962962963,0,0,0,0,0,0,Jade Stadium,0,0,2006,46
+HJHMarshall,New Zealand,Sri Lanka,4,6,1,0,66.66666666666666,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,3
+HJHMarshall,New Zealand,Australia,0,3,0,0,0.0,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2007,0
+HJHMarshall,New Zealand,Sri Lanka,12,11,2,0,109.09090909090908,0,0,0,0,0,0,Jade Stadium,0,1,2006,22
+HJHMarshall,New Zealand,Bangladesh,50,57,2,1,87.71929824561403,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,62
+HJHMarshall,New Zealand,South Africa,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,-5
+HJHMarshall,New Zealand,West Indies,2,5,0,0,40.0,0,0,0,0,0,0,McLean Park,0,0,2006,-4
+HJHMarshall,New Zealand,West Indies,19,28,0,0,67.85714285714286,0,0,0,0,0,0,Eden Park,0,0,2006,17
+HJHMarshall,New Zealand,Sri Lanka,50,72,1,0,69.44444444444444,0,0,0,0,0,0,Westpac Stadium,0,0,2006,57
+HJHMarshall,New Zealand,Ireland,16,21,2,0,76.19047619047619,0,0,0,0,0,0,Providence Stadium,0,0,2007,18
+HJHMarshall,New Zealand,Australia,5,16,0,0,31.25,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,1,2006,7
+HJHMarshall,New Zealand,Sri Lanka,4,4,1,0,100.0,0,0,0,0,0,0,Jade Stadium,0,0,2007,5
+HJHMarshall,New Zealand,West Indies,15,24,2,0,62.5,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,15
+HJHMarshall,New Zealand,Sri Lanka,17,17,2,0,100.0,0,0,0,0,0,0,McLean Park,0,0,2006,19
+HJHMarshall,New Zealand,Sri Lanka,3,10,0,0,30.0,0,0,0,0,0,0,Eden Park,0,0,2007,-3

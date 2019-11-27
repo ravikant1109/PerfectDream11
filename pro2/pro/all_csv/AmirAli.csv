@@ -1,12 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AmirAli,Oman,Bangladesh,4,4,1,0,100.0,24,4,28,0,0,7.0,Himachal Pradesh Cricket Association Stadium,5
-AmirAli,Oman,Bangladesh,4,4,1,0,100.0,24,4,28,0,0,7.0,Himachal Pradesh Cricket Association Stadium,5
-AmirAli,Oman,Bangladesh,4,4,1,0,100.0,24,4,28,0,0,7.0,Himachal Pradesh Cricket Association Stadium,5
-AmirAli,Oman,Ireland,32,18,5,1,177.77777777777777,5,0,9,0,0,0,Himachal Pradesh Cricket Association Stadium,39
-AmirAli,Oman,Afghanistan,1,1,0,0,100.0,5,0,11,0,0,0,Khan Shaheb Osman Ali Stadium,1
-AmirAli,Oman,Hong Kong,32,14,4,1,228.57142857142856,5,0,6,1,0,0,Khan Shaheb Osman Ali Stadium,63
-AmirAli,Oman,United Arab Emirates,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Shere Bangla National Stadium,-4
-AmirAli,Oman,United Arab Emirates,13,11,0,0,118.18181818181819,0,0,0,0,0,0,Sheikh Zayed Stadium,13
-AmirAli,Oman,Afghanistan,7,5,1,0,140.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,8
-AmirAli,Oman,Hong Kong,6,9,0,0,66.66666666666666,11,1,15,0,0,15.0,Sheikh Zayed Stadium,4
-AmirAli,Oman,Bangladesh,4,4,1,0,100.0,24,4,28,0,0,7.0,Himachal Pradesh Cricket Association Stadium,5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AmirAli,Oman,Hong Kong,6,9,0,0,66.66666666666666,11,1,15,0,0,15.0,Sheikh Zayed Stadium,0,1,2015,12
+AmirAli,Oman,Afghanistan,7,5,1,0,140.0,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,0,2015,8
+AmirAli,Oman,Afghanistan,1,1,0,0,100.0,5,0,11,0,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,1
+AmirAli,Oman,Bangladesh,4,4,1,0,100.0,24,4,28,0,0,7.0,Himachal Pradesh Cricket Association Stadium,0,0,2016,5
+AmirAli,Oman,United Arab Emirates,13,11,0,0,118.18181818181819,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2015,13
+AmirAli,Oman,Hong Kong,32,14,4,1,228.57142857142856,5,0,6,1,0,0,Khan Shaheb Osman Ali Stadium,0,0,2016,63
+AmirAli,Oman,United Arab Emirates,2,7,0,0,28.57142857142857,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2016,-4
+AmirAli,Oman,Ireland,32,18,5,1,177.77777777777777,5,0,9,0,0,0,Himachal Pradesh Cricket Association Stadium,0,0,2016,39

@@ -1,4 +1,29 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CSBaugh,West Indies,Australia,1,1,0,0,100.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,1
-CSBaugh,West Indies,Australia,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Kensington Oval Bridgetown,8
-CSBaugh,West Indies,New Zealand,2,2,0,0,100.0,0,0,0,0,0,0,Eden Park,2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CSBaugh,West Indies,New Zealand,2,2,0,0,100.0,0,0,0,0,0,0,Eden Park,0,0,2008,2
+CSBaugh,West Indies,Australia,1,1,0,0,100.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2012,1
+CSBaugh,West Indies,Australia,7,9,1,0,77.77777777777779,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2012,8
+CSBaugh,West Indies,India,21,18,4,0,116.66666666666667,0,0,0,0,0,0,Sabina Park Kingston,0,1,2006,33
+CSBaugh,West Indies,Australia,3,12,0,0,25.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,-3
+CSBaugh,West Indies,India,1,2,0,0,50.0,0,0,0,0,0,0,Sardar Patel Stadium Motera,2,0,2006,21
+CSBaugh,West Indies,Pakistan,3,8,0,0,37.5,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2008,13
+CSBaugh,West Indies,Australia,9,13,1,0,69.23076923076923,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,8
+CSBaugh,West Indies,Australia,13,20,2,0,65.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2012,21
+CSBaugh,West Indies,Zimbabwe,19,11,0,2,172.72727272727272,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2006,31
+CSBaugh,West Indies,Sri Lanka,49,55,4,0,89.0909090909091,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,2,2011,69
+CSBaugh,West Indies,India,1,2,0,0,50.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2006,-3
+CSBaugh,West Indies,Australia,33,72,3,0,45.83333333333333,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2012,38
+CSBaugh,West Indies,India,16,17,1,0,94.11764705882352,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2011,33
+CSBaugh,West Indies,Australia,7,14,1,0,50.0,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,4
+CSBaugh,West Indies,India,39,57,3,0,68.42105263157895,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,2,2011,56
+CSBaugh,West Indies,Pakistan,10,17,1,0,58.82352941176471,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2011,7
+CSBaugh,West Indies,Australia,13,17,1,0,76.47058823529412,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,14
+CSBaugh,West Indies,Zimbabwe,25,15,3,1,166.66666666666669,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2006,38
+CSBaugh,West Indies,Sri Lanka,1,14,0,0,7.142857142857142,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,-5
+CSBaugh,West Indies,Australia,18,17,2,1,105.88235294117648,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2012,30
+CSBaugh,West Indies,Pakistan,5,8,0,0,62.5,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2008,11
+CSBaugh,West Indies,Australia,0,3,0,0,0.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2012,0
+CSBaugh,West Indies,Pakistan,15,22,1,0,68.18181818181817,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2011,14
+CSBaugh,West Indies,India,36,74,0,0,48.64864864864865,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2011,38
+CSBaugh,West Indies,India,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2011,4
+CSBaugh,West Indies,Sri Lanka,28,39,1,0,71.7948717948718,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,1,2011,37
+CSBaugh,West Indies,India,6,13,1,0,46.15384615384615,0,0,0,0,0,0,Kinrara Academy Oval,0,3,2006,25

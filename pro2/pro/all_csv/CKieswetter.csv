@@ -1,36 +1,61 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CKieswetter,England,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-CKieswetter,England,South Africa,50,34,3,3,147.05882352941177,0,0,0,0,0,0,Edgbaston,67
-CKieswetter,England,Sri Lanka,39,29,5,2,134.48275862068965,0,0,0,0,0,0,Beausejour Stadium Gros Islet,48
-CKieswetter,England,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-CKieswetter,England,South Africa,50,34,3,3,147.05882352941177,0,0,0,0,0,0,Edgbaston,67
-CKieswetter,England,Sri Lanka,39,29,5,2,134.48275862068965,0,0,0,0,0,0,Beausejour Stadium Gros Islet,48
-CKieswetter,England,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-CKieswetter,England,South Africa,50,34,3,3,147.05882352941177,0,0,0,0,0,0,Edgbaston,67
-CKieswetter,England,Sri Lanka,39,29,5,2,134.48275862068965,0,0,0,0,0,0,Beausejour Stadium Gros Islet,48
-CKieswetter,England,South Africa,25,24,3,1,104.16666666666667,0,0,0,0,0,0,Riverside Ground,30
-CKieswetter,England,Pakistan,25,28,3,1,89.28571428571429,0,0,0,0,0,0,Kensington Oval Bridgetown,30
-CKieswetter,England,West Indies,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Kennington Oval,11
-CKieswetter,England,New Zealand,15,12,1,1,125.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,18
-CKieswetter,England,Ireland,13,17,0,0,76.47058823529412,0,0,0,0,0,0,Providence Stadium,13
-CKieswetter,England,West Indies,3,8,0,0,37.5,0,0,0,0,0,0,Trent Bridge,-3
-CKieswetter,England,Pakistan,16,10,2,1,160.0,0,0,0,0,0,0,Sophia Gardens,20
-CKieswetter,England,India,35,25,4,2,140.0,0,0,0,0,0,0,R Premadasa Stadium,43
-CKieswetter,England,South Africa,41,43,3,2,95.34883720930233,0,0,0,0,0,0,Kensington Oval Bridgetown,48
-CKieswetter,England,New Zealand,4,14,0,0,28.57142857142857,0,0,0,0,0,0,Pallekele International Cricket Stadium,-2
-CKieswetter,England,West Indies,58,51,3,2,113.72549019607843,0,0,0,0,0,0,Kennington Oval,73
-CKieswetter,England,Pakistan,14,18,2,0,77.77777777777779,0,0,0,0,0,0,Dubai International Cricket Stadium,16
-CKieswetter,England,India,18,15,2,1,120.0,0,0,0,0,0,0,Old Trafford,22
-CKieswetter,England,Pakistan,17,17,1,1,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,20
-CKieswetter,England,Australia,63,49,7,2,128.57142857142858,0,0,0,0,0,0,Kensington Oval Bridgetown,82
-CKieswetter,England,Afghanistan,0,6,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,-8
-CKieswetter,England,West Indies,26,14,1,3,185.71428571428572,0,0,0,0,0,0,Providence Stadium,33
-CKieswetter,England,India,12,11,2,0,109.09090909090908,0,0,0,0,0,0,Eden Gardens,14
-CKieswetter,England,South Africa,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Old Trafford,-5
-CKieswetter,England,Sri Lanka,4,7,0,0,57.14285714285714,0,0,0,0,0,0,County Ground,0
-CKieswetter,England,Pakistan,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Sophia Gardens,7
-CKieswetter,England,Pakistan,31,24,2,1,129.16666666666669,0,0,0,0,0,0,Dubai International Cricket Stadium,35
-CKieswetter,England,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-CKieswetter,England,South Africa,50,34,3,3,147.05882352941177,0,0,0,0,0,0,Edgbaston,67
-CKieswetter,England,Sri Lanka,39,29,5,2,134.48275862068965,0,0,0,0,0,0,Beausejour Stadium Gros Islet,48
-CKieswetter,England,South Africa,25,24,3,1,104.16666666666667,0,0,0,0,0,0,Riverside Ground,30
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CKieswetter,England,India,35,25,4,2,140.0,0,0,0,0,0,0,R Premadasa Stadium,0,1,2012,51
+CKieswetter,England,New Zealand,4,14,0,0,28.57142857142857,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2012,6
+CKieswetter,England,India,12,11,2,0,109.09090909090908,0,0,0,0,0,0,Eden Gardens,0,2,2011,30
+CKieswetter,England,South Africa,50,34,3,3,147.05882352941177,0,0,0,0,0,0,Edgbaston,0,0,2012,67
+CKieswetter,England,Pakistan,25,28,3,1,89.28571428571429,0,0,0,0,0,0,Kensington Oval Bridgetown,0,2,2010,46
+CKieswetter,England,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2012,-8
+CKieswetter,England,South Africa,25,24,3,1,104.16666666666667,0,0,0,0,0,0,Riverside Ground,0,1,2012,38
+CKieswetter,England,Pakistan,14,18,2,0,77.77777777777779,0,0,0,0,0,0,Dubai International Cricket Stadium,1,0,2012,28
+CKieswetter,England,Sri Lanka,39,29,5,2,134.48275862068965,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2010,56
+CKieswetter,England,Pakistan,6,7,1,0,85.71428571428571,0,0,0,0,0,0,Sophia Gardens,0,0,2010,7
+CKieswetter,England,South Africa,41,43,3,2,95.34883720930233,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,48
+CKieswetter,England,West Indies,3,8,0,0,37.5,0,0,0,0,0,0,Trent Bridge,0,2,2012,13
+CKieswetter,England,West Indies,26,14,1,3,185.71428571428572,0,0,0,0,0,0,Providence Stadium,0,0,2010,33
+CKieswetter,England,India,18,15,2,1,120.0,0,0,0,0,0,0,Old Trafford,0,2,2011,38
+CKieswetter,England,South Africa,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Old Trafford,0,2,2012,11
+CKieswetter,England,Pakistan,31,24,2,1,129.16666666666669,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2012,43
+CKieswetter,England,New Zealand,15,12,1,1,125.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,18
+CKieswetter,England,Sri Lanka,4,7,0,0,57.14285714285714,0,0,0,0,0,0,County Ground,0,0,2011,0
+CKieswetter,England,West Indies,58,51,3,2,113.72549019607843,0,0,0,0,0,0,Kennington Oval,0,1,2011,81
+CKieswetter,England,Ireland,13,17,0,0,76.47058823529412,0,0,0,0,0,0,Providence Stadium,0,0,2010,13
+CKieswetter,England,Pakistan,17,17,1,1,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2012,20
+CKieswetter,England,Australia,63,49,7,2,128.57142857142858,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2010,90
+CKieswetter,England,Afghanistan,0,6,0,0,0.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,-8
+CKieswetter,England,Pakistan,16,10,2,1,160.0,0,0,0,0,0,0,Sophia Gardens,0,0,2010,20
+CKieswetter,England,West Indies,10,9,1,0,111.11111111111111,0,0,0,0,0,0,Kennington Oval,0,0,2011,11
+CKieswetter,England,India,6,19,1,0,31.57894736842105,0,0,0,0,0,0,Riverside Ground,0,3,2011,25
+CKieswetter,England,Bangladesh,32,41,3,1,78.04878048780488,0,0,0,0,0,0,Trent Bridge,0,0,2010,37
+CKieswetter,England,India,12,9,1,0,133.33333333333331,0,0,0,0,0,0,Lord's,0,1,2011,21
+CKieswetter,England,Australia,12,24,1,0,50.0,0,0,0,0,0,0,Kennington Oval,0,0,2010,9
+CKieswetter,England,Australia,11,23,1,0,47.82608695652174,0,0,0,0,0,0,Lord's,0,1,2010,14
+CKieswetter,England,Australia,8,9,2,0,88.88888888888889,0,0,0,0,0,0,Sophia Gardens,0,3,2010,34
+CKieswetter,England,India,0,5,0,0,0.0,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2011,-8
+CKieswetter,England,Australia,25,29,2,0,86.20689655172413,0,0,0,0,0,0,Lord's,0,4,2012,59
+CKieswetter,England,Bangladesh,4,2,0,0,200.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,4
+CKieswetter,England,South Africa,14,18,0,1,77.77777777777779,0,0,0,0,0,0,Kennington Oval,0,1,2012,24
+CKieswetter,England,Sri Lanka,3,13,0,0,23.076923076923077,0,0,0,0,0,0,Lord's,0,0,2011,-3
+CKieswetter,England,Bangladesh,107,124,9,3,86.29032258064517,0,0,0,0,0,0,Zohur Ahmed Chowdhury Stadium,0,0,2010,138
+CKieswetter,England,India,46,27,4,3,170.37037037037038,0,0,0,0,0,0,The Rose Bowl,1,1,2011,76
+CKieswetter,England,India,24,22,1,2,109.09090909090908,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,0,2,2013,45
+CKieswetter,England,Sri Lanka,25,31,2,1,80.64516129032258,0,0,0,0,0,0,Headingley,0,0,2011,29
+CKieswetter,England,Bangladesh,20,17,2,1,117.64705882352942,0,0,0,0,0,0,County Ground,2,3,2010,72
+CKieswetter,England,India,63,65,9,1,96.92307692307692,0,0,0,0,0,0,Eden Gardens,0,2,2011,98
+CKieswetter,England,India,0,3,0,0,0.0,0,0,0,0,0,0,JSCA International Stadium Complex,0,0,2013,-8
+CKieswetter,England,South Africa,33,53,3,0,62.264150943396224,0,0,0,0,0,0,Trent Bridge,0,2,2012,50
+CKieswetter,England,Bangladesh,19,26,3,0,73.07692307692307,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2010,30
+CKieswetter,England,Sri Lanka,43,48,5,1,89.58333333333334,0,0,0,0,0,0,Old Trafford,0,0,2011,50
+CKieswetter,England,South Africa,21,13,3,1,161.53846153846155,0,0,0,0,0,0,Lord's,0,2,2012,42
+CKieswetter,England,Sri Lanka,72,70,7,3,102.85714285714285,0,0,0,0,0,0,Trent Bridge,0,3,2011,117
+CKieswetter,England,India,7,8,1,0,87.5,0,0,0,0,0,0,Rajiv Gandhi International Stadium Uppal,0,0,2011,8
+CKieswetter,England,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Old Trafford,0,0,2010,-8
+CKieswetter,England,India,18,38,3,0,47.368421052631575,0,0,0,0,0,0,Nehru Stadium,0,0,2013,15
+CKieswetter,England,Australia,38,44,6,1,86.36363636363636,0,0,0,0,0,0,The Rose Bowl,0,1,2010,54
+CKieswetter,England,South Africa,20,20,1,1,100.0,0,0,0,0,0,0,The Rose Bowl,0,1,2012,31
+CKieswetter,England,India,21,17,4,0,123.52941176470588,0,0,0,0,0,0,Sophia Gardens,0,0,2011,25
+CKieswetter,England,Ireland,14,26,1,1,53.84615384615385,0,0,0,0,0,0,Clontarf Cricket Club Ground,0,1,2011,21
+CKieswetter,England,West Indies,38,39,3,0,97.43589743589743,0,0,0,0,0,0,The Rose Bowl,0,2,2012,57
+CKieswetter,England,Bangladesh,0,2,0,0,0.0,0,0,0,0,0,0,Edgbaston,0,2,2010,8
+CKieswetter,England,India,29,18,4,2,161.11111111111111,0,0,0,0,0,0,Wankhede Stadium,0,1,2011,45
+CKieswetter,England,Pakistan,9,19,0,0,47.368421052631575,0,0,0,0,0,0,Sheikh Zayed Stadium,0,2,2012,19
+CKieswetter,England,India,36,40,3,2,90.0,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2011,43

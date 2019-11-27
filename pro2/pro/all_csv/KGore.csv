@@ -1,6 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-KGore,United States of America,Canada,0,0,0,0,0,23,3,21,3,0,7.0,White Hill Field Sandys Parish,75
-KGore,United States of America,Cayman Islands,0,0,0,0,0,24,4,20,2,0,5.0,White Hill Field Sandys Parish,52
-KGore,United States of America,Bermuda,4,5,0,0,80.0,23,3,5,3,2,1.6666666666666667,Bermuda National Stadium,101
-KGore,United States of America,Canada,0,0,0,0,0,23,3,24,0,0,8.0,White Hill Field Sandys Parish,0
-KGore,United States of America,Canada,0,0,0,0,0,23,3,21,3,0,7.0,White Hill Field Sandys Parish,75
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+KGore,United States of America,Canada,0,0,0,0,0,23,3,24,0,0,8.0,White Hill Field Sandys Parish,0,0,2019,0
+KGore,United States of America,Canada,0,0,0,0,0,23,3,21,3,0,7.0,White Hill Field Sandys Parish,0,0,2019,75
+KGore,United States of America,Cayman Islands,0,0,0,0,0,24,4,20,2,0,5.0,White Hill Field Sandys Parish,1,0,2019,64
+KGore,United States of America,Bermuda,4,5,0,0,80.0,23,3,5,3,2,1.6666666666666667,Bermuda National Stadium,0,1,2019,109
+KGore,United States of America,Papua New Guinea,16,35,2,0,45.714285714285715,59,9,21,4,4,2.3333333333333335,Central Broward Regional Park Stadium Turf Ground,0,0,2019,158
+KGore,United States of America,Papua New Guinea,31,46,3,1,67.3913043478261,29,4,25,3,0,6.25,Central Broward Regional Park Stadium Turf Ground,0,0,2019,109
+KGore,United States of America,Papua New Guinea,6,12,1,0,50.0,35,5,44,0,0,8.8,Affies Park,0,0,2019,3
+KGore,United States of America,Namibia,3,7,0,0,42.857142857142854,53,8,16,2,4,2.0,Central Broward Regional Park Stadium Turf Ground,0,0,2019,85

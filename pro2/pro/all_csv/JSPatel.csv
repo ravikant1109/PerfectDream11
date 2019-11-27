@@ -1,17 +1,44 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JSPatel,New Zealand,Pakistan,0,0,0,0,0,22,3,32,1,0,10.666666666666666,Newlands,21
-JSPatel,New Zealand,Pakistan,0,0,0,0,0,22,3,32,1,0,10.666666666666666,Newlands,21
-JSPatel,New Zealand,Pakistan,0,0,0,0,0,22,3,32,1,0,10.666666666666666,Newlands,21
-JSPatel,New Zealand,Pakistan,0,0,0,0,0,22,3,32,1,0,10.666666666666666,Newlands,21
-JSPatel,New Zealand,West Indies,0,0,0,0,0,11,1,12,2,1,12.0,Seddon Park,58
-JSPatel,New Zealand,Australia,4,8,1,0,50.0,23,3,40,2,0,13.333333333333334,Western Australia Cricket Association Ground,45
-JSPatel,New Zealand,South Africa,0,0,0,0,0,24,4,21,3,0,5.25,New Wanderers Stadium,77
-JSPatel,New Zealand,West Indies,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Eden Park,21
-JSPatel,New Zealand,England,5,5,0,0,100.0,17,2,42,1,0,21.0,Eden Park,24
-JSPatel,New Zealand,India,0,1,0,0,0.0,17,2,38,1,0,19.0,New Wanderers Stadium,11
-JSPatel,New Zealand,Sri Lanka,0,0,0,0,0,7,1,8,1,0,8.0,Eden Park,25
-JSPatel,New Zealand,West Indies,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Eden Park,44
-JSPatel,New Zealand,South Africa,0,0,0,0,0,23,3,17,2,0,5.666666666666667,New Wanderers Stadium,52
-JSPatel,New Zealand,Pakistan,0,0,0,0,0,22,3,32,1,0,10.666666666666666,Newlands,21
-JSPatel,New Zealand,West Indies,0,0,0,0,0,11,1,12,2,1,12.0,Seddon Park,58
-JSPatel,New Zealand,Australia,4,8,1,0,50.0,23,3,40,2,0,13.333333333333334,Western Australia Cricket Association Ground,45
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JSPatel,New Zealand,South Africa,0,0,0,0,0,24,4,21,3,0,5.25,New Wanderers Stadium,1,0,2005,89
+JSPatel,New Zealand,West Indies,0,0,0,0,0,11,1,12,2,1,12.0,Seddon Park,0,0,2008,58
+JSPatel,New Zealand,West Indies,0,0,0,0,0,23,3,34,2,0,11.333333333333334,Eden Park,0,1,2008,52
+JSPatel,New Zealand,Sri Lanka,0,0,0,0,0,7,1,8,1,0,8.0,Eden Park,0,1,2006,33
+JSPatel,New Zealand,England,5,5,0,0,100.0,17,2,42,1,0,21.0,Eden Park,0,1,2008,32
+JSPatel,New Zealand,West Indies,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Eden Park,0,0,2006,21
+JSPatel,New Zealand,Australia,4,8,1,0,50.0,23,3,40,2,0,13.333333333333334,Western Australia Cricket Association Ground,1,1,2007,65
+JSPatel,New Zealand,Pakistan,0,0,0,0,0,22,3,32,1,0,10.666666666666666,Newlands,0,0,2007,21
+JSPatel,New Zealand,South Africa,0,0,0,0,0,23,3,17,2,0,5.666666666666667,New Wanderers Stadium,0,0,2007,52
+JSPatel,New Zealand,India,0,1,0,0,0.0,17,2,38,1,0,19.0,New Wanderers Stadium,0,0,2007,11
+JSPatel,New Zealand,West Indies,0,0,0,0,0,48,8,42,3,0,5.25,Jade Stadium,0,0,2006,77
+JSPatel,New Zealand,Sri Lanka,10,41,0,0,24.390243902439025,54,9,32,2,0,3.5555555555555554,Brabourne Stadium,0,0,2006,60
+JSPatel,New Zealand,England,0,0,0,0,0,47,7,34,1,0,4.857142857142857,AMI Stadium,0,0,2008,29
+JSPatel,New Zealand,Canada,0,0,0,0,0,55,9,31,3,2,3.4444444444444446,Beausejour Stadium Gros Islet,0,0,2007,97
+JSPatel,New Zealand,England,0,0,0,0,0,61,10,55,1,0,5.5,Western Australia Cricket Association Ground,0,0,2007,27
+JSPatel,New Zealand,England,0,0,0,0,0,60,10,34,2,1,3.4,Bellerive Oval,1,1,2007,84
+JSPatel,New Zealand,South Africa,0,0,0,0,0,60,10,39,1,0,3.9,St George's Park,0,1,2007,39
+JSPatel,New Zealand,South Africa,0,0,0,0,0,43,7,54,0,0,7.714285714285714,Newlands,0,0,2007,0
+JSPatel,New Zealand,South Africa,0,0,0,0,0,59,9,36,0,1,4.0,National Cricket Stadium St George's,0,1,2007,20
+JSPatel,New Zealand,South Africa,0,5,0,0,0.0,30,5,26,2,0,5.2,Eden Park,0,0,2017,44
+JSPatel,New Zealand,Australia,1,2,0,0,50.0,48,8,58,0,0,7.25,Bellerive Oval,0,0,2007,-3
+JSPatel,New Zealand,South Africa,2,7,0,0,28.57142857142857,18,3,11,3,0,3.6666666666666665,Brabourne Stadium,0,1,2006,85
+JSPatel,New Zealand,Australia,0,0,0,0,0,60,10,70,2,1,7.0,Seddon Park,0,0,2007,58
+JSPatel,New Zealand,Bangladesh,0,0,0,0,0,60,10,43,1,0,4.3,Saxton Oval,0,1,2016,37
+JSPatel,New Zealand,Australia,0,0,0,0,0,61,10,67,1,0,6.7,Western Australia Cricket Association Ground,0,1,2007,33
+JSPatel,New Zealand,South Africa,0,0,0,0,0,61,10,57,2,0,5.7,Seddon Park,0,0,2017,52
+JSPatel,New Zealand,Australia,16,19,1,0,84.21052631578947,37,6,44,0,0,7.333333333333333,SuperSport Park,0,1,2009,25
+JSPatel,New Zealand,West Indies,0,0,0,0,0,59,9,54,0,0,6.0,McLean Park,0,1,2006,8
+JSPatel,New Zealand,England,0,0,0,0,0,48,8,42,0,0,5.25,Beausejour Stadium Gros Islet,0,0,2007,2
+JSPatel,New Zealand,England,0,0,0,0,0,40,6,14,2,1,2.3333333333333335,Westpac Stadium,0,0,2008,64
+JSPatel,New Zealand,Sri Lanka,34,40,2,1,85.0,59,9,63,0,0,7.0,Sabina Park Kingston,0,0,2007,38
+JSPatel,New Zealand,Bangladesh,7,7,0,0,100.0,60,10,55,2,0,5.5,Clontarf Cricket Club Ground,0,0,2017,59
+JSPatel,New Zealand,Australia,2,2,0,0,100.0,54,9,47,1,0,5.222222222222222,Western Australia Cricket Association Ground,0,0,2009,29
+JSPatel,New Zealand,West Indies,0,0,0,0,0,59,9,58,1,0,6.444444444444445,Eden Park,0,1,2006,33
+JSPatel,New Zealand,West Indies,0,0,0,0,0,22,3,8,1,0,2.6666666666666665,Westpac Stadium,0,0,2009,31
+JSPatel,New Zealand,Australia,4,5,1,0,80.0,60,10,65,1,0,6.5,Bellerive Oval,0,0,2007,30
+JSPatel,New Zealand,Sri Lanka,0,0,0,0,0,59,9,26,2,1,2.888888888888889,Westpac Stadium,0,0,2006,64
+JSPatel,New Zealand,Ireland,0,0,0,0,0,41,6,33,2,0,5.5,Providence Stadium,0,0,2007,52
+JSPatel,New Zealand,Australia,0,0,0,0,0,47,7,38,0,0,5.428571428571429,Melbourne Cricket Ground,0,0,2009,2
+JSPatel,New Zealand,India,0,0,0,0,0,29,4,38,0,0,9.5,AMI Stadium,0,0,2009,-2
+JSPatel,New Zealand,Australia,9,9,0,1,100.0,17,2,25,0,0,12.5,Sydney Cricket Ground,0,1,2009,13
+JSPatel,New Zealand,Sri Lanka,6,14,1,0,42.857142857142854,54,9,42,0,0,4.666666666666667,Eden Park,0,0,2007,5
+JSPatel,New Zealand,West Indies,0,0,0,0,0,11,1,18,1,0,18.0,Queenstown Events Centre,0,0,2006,25

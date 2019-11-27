@@ -1,87 +1,186 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CHGayle,West Indies,Sri Lanka,63,54,8,2,116.66666666666667,18,3,36,0,0,12.0,Kennington Oval,77
-CHGayle,West Indies,Sri Lanka,2,9,0,0,22.22222222222222,1,0,2,0,0,0,Pallekele International Cricket Stadium,-4
-CHGayle,West Indies,South Africa,4,2,0,0,200.0,17,2,17,2,0,8.5,Vidarbha Cricket Association Stadium Jamtha,54
-CHGayle,West Indies,England,43,35,5,2,122.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,52
-CHGayle,West Indies,England,36,31,1,4,116.12903225806453,0,0,0,0,0,0,Kensington Oval Bridgetown,45
-CHGayle,West Indies,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,6
-CHGayle,West Indies,Australia,53,37,6,2,143.24324324324326,0,0,0,0,0,0,Shere Bangla National Stadium,71
-CHGayle,West Indies,England,58,35,6,4,165.71428571428572,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,105
-CHGayle,West Indies,India,22,28,4,0,78.57142857142857,17,2,13,0,0,6.5,Lord's,26
-CHGayle,West Indies,Ireland,0,0,0,0,0,18,3,23,2,0,7.666666666666667,R Premadasa Stadium,50
-CHGayle,West Indies,England,4,2,0,0,200.0,0,0,0,0,0,0,Eden Gardens,4
-CHGayle,West Indies,Sri Lanka,63,54,8,2,116.66666666666667,18,3,36,0,0,12.0,Kennington Oval,77
-CHGayle,West Indies,Sri Lanka,2,9,0,0,22.22222222222222,1,0,2,0,0,0,Pallekele International Cricket Stadium,-4
-CHGayle,West Indies,South Africa,4,2,0,0,200.0,17,2,17,2,0,8.5,Vidarbha Cricket Association Stadium Jamtha,54
-CHGayle,West Indies,England,43,35,5,2,122.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,52
-CHGayle,West Indies,England,36,31,1,4,116.12903225806453,0,0,0,0,0,0,Kensington Oval Bridgetown,45
-CHGayle,West Indies,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,6
-CHGayle,West Indies,Australia,53,37,6,2,143.24324324324326,0,0,0,0,0,0,Shere Bangla National Stadium,71
-CHGayle,West Indies,England,58,35,6,4,165.71428571428572,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,105
-CHGayle,West Indies,India,22,28,4,0,78.57142857142857,17,2,13,0,0,6.5,Lord's,26
-CHGayle,West Indies,Ireland,0,0,0,0,0,18,3,23,2,0,7.666666666666667,R Premadasa Stadium,50
-CHGayle,West Indies,England,4,2,0,0,200.0,0,0,0,0,0,0,Eden Gardens,4
-CHGayle,West Indies,Sri Lanka,63,54,8,2,116.66666666666667,18,3,36,0,0,12.0,Kennington Oval,77
-CHGayle,West Indies,Sri Lanka,2,9,0,0,22.22222222222222,1,0,2,0,0,0,Pallekele International Cricket Stadium,-4
-CHGayle,West Indies,South Africa,4,2,0,0,200.0,17,2,17,2,0,8.5,Vidarbha Cricket Association Stadium Jamtha,54
-CHGayle,West Indies,England,43,35,5,2,122.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,52
-CHGayle,West Indies,England,36,31,1,4,116.12903225806453,0,0,0,0,0,0,Kensington Oval Bridgetown,45
-CHGayle,West Indies,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,6
-CHGayle,West Indies,Australia,53,37,6,2,143.24324324324326,0,0,0,0,0,0,Shere Bangla National Stadium,71
-CHGayle,West Indies,England,58,35,6,4,165.71428571428572,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,105
-CHGayle,West Indies,India,22,28,4,0,78.57142857142857,17,2,13,0,0,6.5,Lord's,26
-CHGayle,West Indies,Ireland,0,0,0,0,0,18,3,23,2,0,7.666666666666667,R Premadasa Stadium,50
-CHGayle,West Indies,England,4,2,0,0,200.0,0,0,0,0,0,0,Eden Gardens,4
-CHGayle,West Indies,Bangladesh,0,3,0,0,0.0,23,3,22,0,0,7.333333333333333,New Wanderers Stadium,-8
-CHGayle,West Indies,Sri Lanka,3,18,0,0,16.666666666666664,11,1,14,0,0,14.0,R Premadasa Stadium,-3
-CHGayle,West Indies,England,5,8,1,0,62.5,0,0,0,0,0,0,Kennington Oval,4
-CHGayle,West Indies,New Zealand,1,4,0,0,25.0,23,3,31,2,0,10.333333333333334,Seddon Park,41
-CHGayle,West Indies,Australia,75,44,5,6,170.45454545454547,0,0,0,0,0,0,R Premadasa Stadium,100
-CHGayle,West Indies,India,98,68,5,7,144.11764705882354,12,2,22,1,0,11.0,Kensington Oval Bridgetown,146
-CHGayle,West Indies,England,100,53,5,11,188.67924528301887,0,0,0,0,0,0,Wankhede Stadium,143
-CHGayle,West Indies,England,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Trent Bridge,-4
-CHGayle,West Indies,New Zealand,10,13,2,0,76.92307692307693,23,3,22,2,0,7.333333333333333,Eden Park,62
-CHGayle,West Indies,England,61,38,7,1,160.5263157894737,3,0,9,0,0,0,Kennington Oval,78
-CHGayle,West Indies,Australia,5,6,1,0,83.33333333333334,11,1,15,2,0,15.0,Bellerive Oval,56
-CHGayle,West Indies,India,18,20,1,1,90.0,0,0,0,0,0,0,Sabina Park Kingston,21
-CHGayle,West Indies,South Africa,14,17,2,0,82.35294117647058,5,0,12,0,0,0,Sir Vivian Richards Stadium North Sound,16
-CHGayle,West Indies,Bangladesh,48,49,3,2,97.95918367346938,0,0,0,0,0,0,Shere Bangla National Stadium,55
-CHGayle,West Indies,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Arnos Vale Ground Kingstown,-5
-CHGayle,West Indies,New Zealand,38,20,3,3,190.0,5,0,15,0,0,0,Pallekele International Cricket Stadium,47
-CHGayle,West Indies,India,34,37,1,2,91.8918918918919,0,0,0,0,0,0,Shere Bangla National Stadium,39
-CHGayle,West Indies,Bangladesh,6,7,1,0,85.71428571428571,23,3,20,0,0,6.666666666666667,Shere Bangla National Stadium,7
-CHGayle,West Indies,Sri Lanka,5,5,1,0,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,6
-CHGayle,West Indies,New Zealand,85,62,7,5,137.09677419354838,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,110
-CHGayle,West Indies,South Africa,5,8,0,0,62.5,5,0,7,0,0,0,Kennington Oval,3
-CHGayle,West Indies,England,15,9,3,0,166.66666666666669,23,3,25,1,0,8.333333333333334,Kennington Oval,43
-CHGayle,West Indies,New Zealand,53,40,3,4,132.5,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,72
-CHGayle,West Indies,England,25,15,2,2,166.66666666666669,5,0,11,1,0,0,Providence Stadium,56
-CHGayle,West Indies,South Africa,0,3,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,-8
-CHGayle,West Indies,Australia,88,54,5,6,162.96296296296296,11,1,13,0,0,13.0,Kennington Oval,113
-CHGayle,West Indies,India,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Wankhede Stadium,6
-CHGayle,West Indies,Sri Lanka,3,15,0,0,20.0,5,0,9,0,0,0,Shere Bangla National Stadium,-3
-CHGayle,West Indies,South Africa,77,31,5,8,248.38709677419354,0,0,0,0,0,0,Newlands,106
-CHGayle,West Indies,Australia,8,7,0,1,114.28571428571428,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,10
-CHGayle,West Indies,Australia,4,3,1,0,133.33333333333331,2,0,5,1,0,0,Beausejour Stadium Gros Islet,30
-CHGayle,West Indies,Pakistan,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Arnos Vale Ground Kingstown,6
-CHGayle,West Indies,Australia,12,17,1,1,70.58823529411765,0,0,0,0,0,0,Sydney Cricket Ground,15
-CHGayle,West Indies,Ireland,18,21,3,0,85.71428571428571,0,0,0,0,0,0,Sabina Park Kingston,21
-CHGayle,West Indies,Australia,54,35,5,4,154.2857142857143,0,0,0,0,0,0,R Premadasa Stadium,75
-CHGayle,West Indies,South Africa,90,44,9,7,204.54545454545453,0,0,0,0,0,0,New Wanderers Stadium,121
-CHGayle,West Indies,New Zealand,92,48,6,8,191.66666666666669,18,3,17,2,0,5.666666666666667,Eden Park,174
-CHGayle,West Indies,South Africa,117,64,6,10,182.8125,0,0,0,0,0,0,New Wanderers Stadium,159
-CHGayle,West Indies,Sri Lanka,63,54,8,2,116.66666666666667,18,3,36,0,0,12.0,Kennington Oval,77
-CHGayle,West Indies,Sri Lanka,2,9,0,0,22.22222222222222,1,0,2,0,0,0,Pallekele International Cricket Stadium,-4
-CHGayle,West Indies,South Africa,4,2,0,0,200.0,17,2,17,2,0,8.5,Vidarbha Cricket Association Stadium Jamtha,54
-CHGayle,West Indies,England,43,35,5,2,122.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,52
-CHGayle,West Indies,England,36,31,1,4,116.12903225806453,0,0,0,0,0,0,Kensington Oval Bridgetown,45
-CHGayle,West Indies,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,6
-CHGayle,West Indies,Australia,53,37,6,2,143.24324324324326,0,0,0,0,0,0,Shere Bangla National Stadium,71
-CHGayle,West Indies,England,58,35,6,4,165.71428571428572,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,105
-CHGayle,West Indies,India,22,28,4,0,78.57142857142857,17,2,13,0,0,6.5,Lord's,26
-CHGayle,West Indies,Ireland,0,0,0,0,0,18,3,23,2,0,7.666666666666667,R Premadasa Stadium,50
-CHGayle,West Indies,England,4,2,0,0,200.0,0,0,0,0,0,0,Eden Gardens,4
-CHGayle,West Indies,Bangladesh,0,3,0,0,0.0,23,3,22,0,0,7.333333333333333,New Wanderers Stadium,-8
-CHGayle,West Indies,Sri Lanka,3,18,0,0,16.666666666666664,11,1,14,0,0,14.0,R Premadasa Stadium,-3
-CHGayle,West Indies,England,5,8,1,0,62.5,0,0,0,0,0,0,Kennington Oval,4
-CHGayle,West Indies,New Zealand,1,4,0,0,25.0,23,3,31,2,0,10.333333333333334,Seddon Park,41
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CHGayle,West Indies,Sri Lanka,63,54,8,2,116.66666666666667,18,3,36,0,0,12.0,Kennington Oval,0,0,2009,77
+CHGayle,West Indies,Bangladesh,0,3,0,0,0.0,23,3,22,0,0,7.333333333333333,New Wanderers Stadium,0,1,2007,0
+CHGayle,West Indies,England,36,31,1,4,116.12903225806453,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2014,45
+CHGayle,West Indies,India,18,20,1,1,90.0,0,0,0,0,0,0,Sabina Park Kingston,0,0,2017,21
+CHGayle,West Indies,Australia,12,17,1,1,70.58823529411765,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,15
+CHGayle,West Indies,Bangladesh,48,49,3,2,97.95918367346938,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,55
+CHGayle,West Indies,Australia,5,6,1,0,83.33333333333334,11,1,15,2,0,15.0,Bellerive Oval,0,0,2010,56
+CHGayle,West Indies,New Zealand,85,62,7,5,137.09677419354838,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2012,110
+CHGayle,West Indies,England,58,35,6,4,165.71428571428572,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,0,1,2012,113
+CHGayle,West Indies,Sri Lanka,2,9,0,0,22.22222222222222,1,0,2,0,0,0,Pallekele International Cricket Stadium,0,0,2012,-4
+CHGayle,West Indies,New Zealand,1,4,0,0,25.0,23,3,31,2,0,10.333333333333334,Seddon Park,0,0,2008,41
+CHGayle,West Indies,India,98,68,5,7,144.11764705882354,12,2,22,1,0,11.0,Kensington Oval Bridgetown,0,0,2010,146
+CHGayle,West Indies,Australia,54,35,5,4,154.2857142857143,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,75
+CHGayle,West Indies,New Zealand,92,48,6,8,191.66666666666669,18,3,17,2,0,5.666666666666667,Eden Park,0,0,2008,174
+CHGayle,West Indies,Pakistan,5,5,1,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,14
+CHGayle,West Indies,South Africa,77,31,5,8,248.38709677419354,0,0,0,0,0,0,Newlands,0,1,2015,114
+CHGayle,West Indies,Australia,4,3,1,0,133.33333333333331,2,0,5,1,0,0,Beausejour Stadium Gros Islet,0,1,2010,38
+CHGayle,West Indies,England,2,9,0,0,22.22222222222222,0,0,0,0,0,0,Trent Bridge,0,0,2012,-4
+CHGayle,West Indies,South Africa,4,2,0,0,200.0,17,2,17,2,0,8.5,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,54
+CHGayle,West Indies,Pakistan,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2013,-5
+CHGayle,West Indies,Ireland,0,0,0,0,0,18,3,23,2,0,7.666666666666667,R Premadasa Stadium,0,1,2012,58
+CHGayle,West Indies,Sri Lanka,3,15,0,0,20.0,5,0,9,0,0,0,Shere Bangla National Stadium,0,0,2014,-3
+CHGayle,West Indies,England,4,2,0,0,200.0,0,0,0,0,0,0,Eden Gardens,0,1,2016,12
+CHGayle,West Indies,England,25,15,2,2,166.66666666666669,5,0,11,1,0,0,Providence Stadium,0,0,2010,56
+CHGayle,West Indies,Ireland,18,21,3,0,85.71428571428571,0,0,0,0,0,0,Sabina Park Kingston,0,0,2014,21
+CHGayle,West Indies,India,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Wankhede Stadium,0,0,2016,6
+CHGayle,West Indies,New Zealand,10,13,2,0,76.92307692307693,23,3,22,2,0,7.333333333333333,Eden Park,0,0,2006,62
+CHGayle,West Indies,England,43,35,5,2,122.85714285714286,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2014,52
+CHGayle,West Indies,New Zealand,38,20,3,3,190.0,5,0,15,0,0,0,Pallekele International Cricket Stadium,0,1,2012,55
+CHGayle,West Indies,South Africa,14,17,2,0,82.35294117647058,5,0,12,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,16
+CHGayle,West Indies,South Africa,90,44,9,7,204.54545454545453,0,0,0,0,0,0,New Wanderers Stadium,0,0,2015,121
+CHGayle,West Indies,Australia,53,37,6,2,143.24324324324326,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,71
+CHGayle,West Indies,New Zealand,53,40,3,4,132.5,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,1,2012,80
+CHGayle,West Indies,England,5,8,1,0,62.5,0,0,0,0,0,0,Kennington Oval,0,0,2007,4
+CHGayle,West Indies,India,22,28,4,0,78.57142857142857,17,2,13,0,0,6.5,Lord's,0,0,2009,26
+CHGayle,West Indies,England,61,38,7,1,160.5263157894737,3,0,9,0,0,0,Kennington Oval,0,0,2007,78
+CHGayle,West Indies,Sri Lanka,5,5,1,0,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,6
+CHGayle,West Indies,Sri Lanka,3,18,0,0,16.666666666666664,11,1,14,0,0,14.0,R Premadasa Stadium,0,0,2012,-3
+CHGayle,West Indies,South Africa,0,3,0,0,0.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,-8
+CHGayle,West Indies,England,15,9,3,0,166.66666666666669,23,3,25,1,0,8.333333333333334,Kennington Oval,0,0,2009,43
+CHGayle,West Indies,Bangladesh,6,7,1,0,85.71428571428571,23,3,20,0,0,6.666666666666667,Shere Bangla National Stadium,0,0,2012,7
+CHGayle,West Indies,South Africa,117,64,6,10,182.8125,0,0,0,0,0,0,New Wanderers Stadium,0,1,2007,167
+CHGayle,West Indies,England,100,53,5,11,188.67924528301887,0,0,0,0,0,0,Wankhede Stadium,0,0,2016,143
+CHGayle,West Indies,Australia,75,44,5,6,170.45454545454547,0,0,0,0,0,0,R Premadasa Stadium,0,0,2012,100
+CHGayle,West Indies,Australia,8,7,0,1,114.28571428571428,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2013,10
+CHGayle,West Indies,India,34,37,1,2,91.8918918918919,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,47
+CHGayle,West Indies,South Africa,5,8,0,0,62.5,5,0,7,0,0,0,Kennington Oval,0,1,2009,11
+CHGayle,West Indies,Pakistan,5,6,1,0,83.33333333333334,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2013,6
+CHGayle,West Indies,Australia,88,54,5,6,162.96296296296296,11,1,13,0,0,13.0,Kennington Oval,0,0,2009,113
+CHGayle,West Indies,Australia,92,95,6,4,96.84210526315789,35,5,26,1,1,5.2,Warner Park Basseterre,0,0,2008,149
+CHGayle,West Indies,Ireland,36,66,3,1,54.54545454545454,47,7,41,1,0,5.857142857142857,Saxton Oval,0,1,2015,72
+CHGayle,West Indies,India,0,8,0,0,0.0,61,10,33,1,0,3.3,Sabina Park Kingston,0,0,2006,23
+CHGayle,West Indies,England,79,63,10,3,125.39682539682539,29,4,34,0,0,8.5,Kensington Oval Bridgetown,0,0,2007,103
+CHGayle,West Indies,South Africa,41,24,5,2,170.83333333333331,0,0,0,0,0,0,Kingsmead,0,0,2015,50
+CHGayle,West Indies,Australia,0,1,0,0,0.0,56,9,46,1,0,5.111111111111111,Kinrara Academy Oval,0,2,2006,35
+CHGayle,West Indies,New Zealand,25,37,1,1,67.56756756756756,0,0,0,0,0,0,Queenstown Events Centre,0,0,2008,26
+CHGayle,West Indies,India,21,19,4,0,110.5263157894737,7,1,11,0,0,11.0,Kennington Oval,0,0,2013,25
+CHGayle,West Indies,Bangladesh,58,68,3,5,85.29411764705883,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2014,87
+CHGayle,West Indies,New Zealand,38,23,6,2,165.2173913043478,54,9,71,1,0,7.888888888888889,Jade Stadium,0,1,2006,81
+CHGayle,West Indies,Sri Lanka,35,48,1,2,72.91666666666666,0,0,0,0,0,0,Riverside Ground,0,0,2019,40
+CHGayle,West Indies,England,43,21,8,1,204.76190476190476,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,2,2011,69
+CHGayle,West Indies,Bangladesh,3,18,0,0,16.666666666666664,23,3,19,1,0,6.333333333333333,National Cricket Stadium St George's,1,0,2014,34
+CHGayle,West Indies,England,36,42,5,1,85.71428571428571,31,5,23,0,0,4.6,The Rose Bowl,0,0,2019,47
+CHGayle,West Indies,Zimbabwe,33,54,3,1,61.111111111111114,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,2,2010,52
+CHGayle,West Indies,Pakistan,41,39,7,1,105.12820512820514,35,5,33,2,1,6.6,Gaddafi Stadium,0,0,2006,108
+CHGayle,West Indies,Bangladesh,2,21,0,0,9.523809523809524,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,-4
+CHGayle,West Indies,India,0,2,0,0,0.0,0,0,0,0,0,0,Nehru Stadium,0,0,2013,-8
+CHGayle,West Indies,Sri Lanka,14,18,3,0,77.77777777777779,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2013,17
+CHGayle,West Indies,England,31,30,3,2,103.33333333333334,0,0,0,0,0,0,County Ground,0,1,2009,46
+CHGayle,West Indies,India,34,39,7,0,87.17948717948718,23,3,34,0,0,11.333333333333334,Sardar Patel Stadium Motera,0,0,2006,35
+CHGayle,West Indies,Pakistan,0,7,0,0,0.0,59,9,44,0,0,4.888888888888889,Sheikh Zayed Stadium,0,1,2008,4
+CHGayle,West Indies,Sri Lanka,109,102,9,7,106.86274509803921,0,0,0,0,0,0,Sabina Park Kingston,0,0,2013,148
+CHGayle,West Indies,Australia,5,9,1,0,55.55555555555556,11,1,34,0,0,34.0,Warner Park Basseterre,0,0,2008,2
+CHGayle,West Indies,India,51,63,10,0,80.95238095238095,61,10,46,1,0,4.6,Queen's Park Oval Port of Spain,0,2,2006,114
+CHGayle,West Indies,India,6,11,1,0,54.54545454545454,48,8,38,1,0,4.75,Indian Petrochemicals Corporation Limited Sports Complex Ground,0,1,2007,40
+CHGayle,West Indies,New Zealand,11,22,2,0,50.0,0,0,0,0,0,0,Warner Park Basseterre,0,2,2012,25
+CHGayle,West Indies,New Zealand,61,35,2,8,174.28571428571428,0,0,0,0,0,0,Westpac Stadium,0,2,2015,103
+CHGayle,West Indies,Bangladesh,104,122,11,3,85.24590163934425,47,7,25,1,1,3.5714285714285716,Sawai Mansingh Stadium,0,1,2006,184
+CHGayle,West Indies,South Africa,10,19,1,0,52.63157894736842,5,0,4,0,0,0,St George's Park,0,0,2015,7
+CHGayle,West Indies,Australia,37,29,6,2,127.58620689655173,5,0,5,0,0,0,Brabourne Stadium,0,1,2006,55
+CHGayle,West Indies,Australia,53,55,5,3,96.36363636363636,29,4,26,1,0,6.5,National Cricket Stadium St George's,0,0,2008,97
+CHGayle,West Indies,New Zealand,87,87,8,6,100.0,12,2,8,1,0,4.0,Old Trafford,0,0,2019,144
+CHGayle,West Indies,India,27,14,6,0,192.85714285714286,11,1,11,0,0,11.0,Beausejour Stadium Gros Islet,0,0,2009,33
+CHGayle,West Indies,India,0,1,0,0,0.0,60,10,57,2,0,5.7,MA Chidambaram Stadium Chepauk,0,0,2007,44
+CHGayle,West Indies,Bangladesh,6,17,1,0,35.294117647058826,51,8,58,0,1,7.25,Warner Park Basseterre,0,0,2014,9
+CHGayle,West Indies,Pakistan,1,8,0,0,12.5,0,0,0,0,0,0,Providence Stadium,0,0,2013,-5
+CHGayle,West Indies,South Africa,1,5,0,0,20.0,3,0,5,0,0,0,Buffalo Park,0,0,2015,-5
+CHGayle,West Indies,Ireland,18,15,3,0,120.0,60,10,23,2,0,2.3,Sabina Park Kingston,0,1,2007,85
+CHGayle,West Indies,Zimbabwe,11,35,0,0,31.428571428571427,59,9,17,1,2,1.8888888888888888,Queen's Park Oval Port of Spain,0,0,2006,52
+CHGayle,West Indies,South Africa,19,14,1,1,135.71428571428572,0,0,0,0,0,0,New Wanderers Stadium,0,0,2015,22
+CHGayle,West Indies,India,11,25,1,0,44.0,0,0,0,0,0,0,Queen's Park Oval Trinidad,0,0,2019,6
+CHGayle,West Indies,India,21,30,2,1,70.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2015,25
+CHGayle,West Indies,Zimbabwe,40,51,3,3,78.43137254901961,60,10,32,0,1,3.2,Sabina Park Kingston,0,0,2007,63
+CHGayle,West Indies,India,11,11,2,0,100.0,0,0,0,0,0,0,Sabina Park Kingston,0,1,2013,21
+CHGayle,West Indies,Sri Lanka,0,1,0,0,0.0,62,10,34,0,0,3.4,Sinhalese Sports Club Ground,0,0,2011,-2
+CHGayle,West Indies,Pakistan,30,47,3,1,63.829787234042556,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2013,33
+CHGayle,West Indies,India,46,72,6,1,63.888888888888886,35,5,28,0,0,5.6,Queen's Park Oval Port of Spain,0,1,2006,62
+CHGayle,West Indies,Zimbabwe,95,95,13,1,100.0,47,7,24,1,1,3.4285714285714284,Beausejour Stadium Gros Islet,0,0,2006,157
+CHGayle,West Indies,India,40,68,5,1,58.82352941176471,59,9,35,0,0,3.888888888888889,Warner Park Basseterre,1,0,2006,61
+CHGayle,West Indies,New Zealand,5,14,1,0,35.714285714285715,0,0,0,0,0,0,Warner Park Basseterre,0,1,2012,8
+CHGayle,West Indies,England,6,14,1,0,42.857142857142854,0,0,0,0,0,0,Lord's,1,0,2007,13
+CHGayle,West Indies,South Africa,32,35,3,0,91.42857142857143,35,5,42,1,0,8.4,National Cricket Stadium St George's,0,0,2007,60
+CHGayle,West Indies,England,0,4,0,0,0.0,5,0,3,0,0,0,Beausejour Stadium Gros Islet,0,0,2009,-8
+CHGayle,West Indies,South Africa,26,36,3,1,72.22222222222221,43,7,41,0,0,5.857142857142857,Sir Vivian Richards Stadium North Sound,0,0,2010,33
+CHGayle,West Indies,India,64,48,8,2,133.33333333333331,19,3,14,0,0,4.666666666666667,Sabina Park Kingston,0,2,2009,104
+CHGayle,West Indies,Australia,79,100,7,3,79.0,42,7,46,0,0,6.571428571428571,Kinrara Academy Oval,0,1,2006,108
+CHGayle,West Indies,Zimbabwe,58,81,4,2,71.60493827160494,0,0,0,0,0,0,Harare Sports Club,0,0,2007,74
+CHGayle,West Indies,Pakistan,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Sabina Park Kingston,0,0,2007,-4
+CHGayle,West Indies,India,6,19,1,0,31.57894736842105,0,0,0,0,0,0,Old Trafford,0,0,2019,1
+CHGayle,West Indies,England,80,43,5,8,186.04651162790697,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2009,117
+CHGayle,West Indies,Australia,34,23,6,0,147.82608695652172,6,1,9,0,0,9.0,Brisbane Cricket Ground Woolloongabba,0,0,2010,40
+CHGayle,West Indies,Bangladesh,35,40,4,2,87.5,0,0,0,0,0,0,Sheikh Abu Naser Stadium,0,0,2012,43
+CHGayle,West Indies,New Zealand,125,112,8,9,111.60714285714286,0,0,0,0,0,0,Sabina Park Kingston,0,0,2012,167
+CHGayle,West Indies,Zimbabwe,32,21,4,2,152.38095238095238,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,0,2010,40
+CHGayle,West Indies,Zimbabwe,63,42,8,2,150.0,0,0,0,0,0,0,Arnos Vale Ground Kingstown,0,1,2010,91
+CHGayle,West Indies,New Zealand,5,12,1,0,41.66666666666667,59,9,50,3,0,5.555555555555555,McLean Park,0,0,2006,77
+CHGayle,West Indies,Australia,4,14,1,0,28.57142857142857,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2013,-1
+CHGayle,West Indies,Pakistan,4,14,0,0,28.57142857142857,0,0,0,0,0,0,Hagley Oval,0,1,2015,6
+CHGayle,West Indies,South Africa,12,19,1,0,63.1578947368421,60,10,38,2,1,3.8,Queen's Park Oval Port of Spain,0,0,2010,75
+CHGayle,West Indies,Pakistan,50,34,6,3,147.05882352941177,0,0,0,0,0,0,Trent Bridge,0,1,2019,78
+CHGayle,West Indies,Australia,4,8,0,0,50.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2013,0
+CHGayle,West Indies,India,4,31,0,0,12.903225806451612,0,0,0,0,0,0,Providence Stadium Guyana,0,0,2019,-2
+CHGayle,West Indies,Pakistan,9,14,2,0,64.28571428571429,0,0,0,0,0,0,Multan Cricket Stadium,0,3,2006,33
+CHGayle,West Indies,Pakistan,39,47,4,1,82.97872340425532,0,0,0,0,0,0,Kennington Oval,0,1,2013,53
+CHGayle,West Indies,New Zealand,63,59,4,5,106.77966101694916,0,0,0,0,0,0,Sabina Park Kingston,0,0,2012,85
+CHGayle,West Indies,England,101,130,10,1,77.6923076923077,59,9,31,3,1,3.4444444444444446,Sardar Patel Stadium Motera,0,1,2006,226
+CHGayle,West Indies,Zimbabwe,49,75,7,0,65.33333333333333,54,9,21,2,2,2.3333333333333335,Antigua Recreation Ground St John's,0,2,2006,142
+CHGayle,West Indies,Bangladesh,1,12,0,0,8.333333333333332,52,8,28,2,1,3.5,Kensington Oval Bridgetown,0,1,2007,67
+CHGayle,West Indies,Bangladesh,16,25,1,1,64.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2012,17
+CHGayle,West Indies,Australia,14,5,0,2,280.0,17,2,17,0,0,8.5,Melbourne Cricket Ground,0,0,2010,18
+CHGayle,West Indies,Australia,24,27,4,0,88.88888888888889,60,10,39,1,1,3.9,Brabourne Stadium,0,0,2006,67
+CHGayle,West Indies,Sri Lanka,10,21,1,0,47.61904761904761,58,9,63,0,0,7.0,Providence Stadium,0,0,2007,5
+CHGayle,West Indies,England,20,20,4,0,100.0,5,0,8,0,0,0,Providence Stadium,1,0,2009,36
+CHGayle,West Indies,South Africa,3,4,0,0,75.0,26,4,21,2,0,5.25,Sydney Cricket Ground,0,0,2015,55
+CHGayle,West Indies,New Zealand,2,22,0,0,9.090909090909092,59,9,36,0,0,4.0,Eden Park,0,1,2006,8
+CHGayle,West Indies,Zimbabwe,2,9,0,0,22.22222222222222,35,5,36,2,0,7.2,Harare Sports Club,0,0,2007,46
+CHGayle,West Indies,England,2,11,0,0,18.181818181818183,19,3,14,0,0,4.666666666666667,Providence Stadium,0,0,2009,0
+CHGayle,West Indies,Sri Lanka,11,20,1,0,55.00000000000001,8,1,6,2,0,6.0,Queen's Park Oval Port of Spain,0,0,2008,58
+CHGayle,West Indies,Zimbabwe,2,20,0,0,10.0,13,2,14,0,0,7.0,Queen's Park Oval Port of Spain,0,0,2006,-4
+CHGayle,West Indies,New Zealand,18,25,3,0,72.0,4,0,11,0,0,0,Westpac Stadium,0,0,2009,21
+CHGayle,West Indies,Pakistan,21,34,2,1,61.76470588235294,0,0,0,0,0,0,Beausejour Stadium Gros Islet,1,0,2013,35
+CHGayle,West Indies,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Adelaide Oval,0,0,2010,-8
+CHGayle,West Indies,Australia,0,8,0,0,0.0,5,0,7,0,0,0,Sydney Cricket Ground,0,0,2010,-8
+CHGayle,West Indies,Sri Lanka,0,0,0,0,0,60,10,42,2,0,4.2,Beausejour Stadium Gros Islet,0,0,2008,54
+CHGayle,West Indies,Sri Lanka,0,5,0,0,0.0,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,-8
+CHGayle,West Indies,Netherlands,80,114,7,2,70.17543859649122,0,0,0,0,0,0,Feroz Shah Kotla,0,1,2011,107
+CHGayle,West Indies,England,82,128,8,0,64.0625,11,1,11,0,0,11.0,Trent Bridge,0,2,2007,112
+CHGayle,West Indies,South Africa,0,1,0,0,0.0,0,0,0,0,0,0,SuperSport Park,0,0,2015,-8
+CHGayle,West Indies,Pakistan,113,107,11,5,105.60747663551402,37,6,33,0,0,5.5,Sheikh Zayed Stadium,0,0,2008,152
+CHGayle,West Indies,India,45,37,9,0,121.62162162162163,61,10,50,1,1,5.0,Kinrara Academy Oval,0,0,2006,89
+CHGayle,West Indies,Bangladesh,0,14,0,0,0.0,12,2,23,0,0,11.5,The Cooper Associates County Ground,0,1,2019,-6
+CHGayle,West Indies,Zimbabwe,215,151,10,16,142.3841059602649,37,6,37,2,0,6.166666666666667,Manuka Oval,0,1,2015,331
+CHGayle,West Indies,Australia,10,25,2,0,40.0,18,3,16,0,0,5.333333333333333,National Cricket Stadium St George's,0,1,2008,16
+CHGayle,West Indies,Pakistan,8,12,1,0,66.66666666666666,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2013,7
+CHGayle,West Indies,Zimbabwe,88,117,7,2,75.21367521367522,60,10,25,1,0,2.5,Providence Stadium,1,1,2010,158
+CHGayle,West Indies,South Africa,36,28,5,1,128.57142857142858,0,0,0,0,0,0,Sophia Gardens,0,1,2013,51
+CHGayle,West Indies,South Africa,16,20,1,1,80.0,0,0,0,0,0,0,Windsor Park Roseau,0,0,2010,19
+CHGayle,West Indies,Bangladesh,15,22,2,1,68.18181818181817,0,0,0,0,0,0,Sheikh Abu Naser Stadium,0,1,2012,25
+CHGayle,West Indies,Zimbabwe,41,34,7,1,120.58823529411764,18,3,3,3,2,1.0,Sardar Patel Stadium Motera,0,0,2006,147
+CHGayle,West Indies,Sri Lanka,4,12,0,0,33.33333333333333,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,0,2011,-2
+CHGayle,West Indies,Australia,21,19,4,0,110.5263157894737,0,0,0,0,0,0,Trent Bridge,0,0,2019,25
+CHGayle,West Indies,Zimbabwe,57,68,2,3,83.82352941176471,0,0,0,0,0,0,Providence Stadium,0,0,2010,73
+CHGayle,West Indies,South Africa,29,28,4,0,103.57142857142858,59,9,60,1,0,6.666666666666667,Windsor Park Roseau,0,0,2010,58
+CHGayle,West Indies,England,46,39,3,5,117.94871794871796,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2009,59
+CHGayle,West Indies,Zimbabwe,35,78,3,1,44.871794871794876,41,6,30,2,1,5.0,Antigua Recreation Ground St John's,0,0,2006,94
+CHGayle,West Indies,Afghanistan,7,18,1,0,38.88888888888889,36,6,28,1,0,4.666666666666667,Headingley,1,1,2019,51
+CHGayle,West Indies,South Africa,45,40,8,0,112.5,29,4,27,0,0,6.75,Sir Vivian Richards Stadium North Sound,0,1,2010,61
+CHGayle,West Indies,England,11,11,2,0,100.0,29,4,31,0,0,7.75,Edgbaston,0,0,2009,13
+CHGayle,West Indies,Pakistan,7,10,1,0,70.0,47,7,41,1,0,5.857142857142857,National Stadium,0,0,2006,35
+CHGayle,West Indies,Australia,2,5,0,0,40.0,30,5,36,0,0,7.2,Manuka Oval,0,0,2013,-4
+CHGayle,West Indies,Australia,2,24,0,0,8.333333333333332,25,4,29,0,0,7.25,Sir Vivian Richards Stadium North Sound,0,0,2007,-4
+CHGayle,West Indies,South Africa,2,3,0,0,66.66666666666666,35,5,26,0,0,5.2,Feroz Shah Kotla,0,0,2011,2
+CHGayle,West Indies,Sri Lanka,28,31,4,1,90.32258064516128,24,4,18,0,0,4.5,Sinhalese Sports Club Ground,0,1,2011,46
+CHGayle,West Indies,India,1,8,0,0,12.5,32,5,14,2,1,2.8,Kinrara Academy Oval,0,1,2006,67
+CHGayle,West Indies,Australia,20,26,3,0,76.92307692307693,62,10,60,1,1,6.0,Arnos Vale Ground Kingstown,0,1,2008,64
+CHGayle,West Indies,Australia,7,6,1,0,116.66666666666667,36,6,32,1,0,5.333333333333333,Melbourne Cricket Ground,0,0,2010,35
+CHGayle,West Indies,Sri Lanka,52,82,8,1,63.41463414634146,5,0,6,0,0,0,Queen's Park Oval Port of Spain,0,1,2008,76
+CHGayle,West Indies,New Zealand,16,19,1,1,84.21052631578947,0,0,0,0,0,0,Warner Park Basseterre,0,0,2012,19
+CHGayle,West Indies,India,0,2,0,0,0.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2009,-8
+CHGayle,West Indies,Bangladesh,4,12,1,0,33.33333333333333,66,11,36,1,2,3.272727272727273,Shere Bangla National Stadium,0,1,2012,54
+CHGayle,West Indies,New Zealand,44,58,8,0,75.86206896551724,38,6,35,0,0,5.833333333333333,Sir Vivian Richards Stadium North Sound,0,0,2007,54
+CHGayle,West Indies,India,37,33,5,1,112.12121212121211,17,2,28,0,0,14.0,Sabina Park Kingston,0,0,2009,38
+CHGayle,West Indies,Pakistan,1,5,0,0,20.0,0,0,0,0,0,0,Providence Stadium,0,0,2013,-5
+CHGayle,West Indies,New Zealand,0,17,0,0,0.0,48,8,38,0,0,4.75,Queenstown Events Centre,0,1,2006,4
+CHGayle,West Indies,India,10,15,2,0,66.66666666666666,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2013,10

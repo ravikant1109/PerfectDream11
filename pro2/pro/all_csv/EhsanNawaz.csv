@@ -1,15 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-EhsanNawaz,Hong Kong,Bangladesh,0,0,0,0,0,5,0,10,0,0,0,Zahur Ahmed Chowdhury Stadium,0
-EhsanNawaz,Hong Kong,Oman,0,2,0,0,0.0,5,0,11,0,0,0,Sheikh Zayed Stadium,-8
-EhsanNawaz,Hong Kong,Netherlands,0,0,0,0,0,11,1,24,1,0,24.0,Dubai International Cricket Stadium,25
-EhsanNawaz,Hong Kong,Bangladesh,0,0,0,0,0,5,0,10,0,0,0,Zahur Ahmed Chowdhury Stadium,0
-EhsanNawaz,Hong Kong,Oman,0,2,0,0,0.0,5,0,11,0,0,0,Sheikh Zayed Stadium,-8
-EhsanNawaz,Hong Kong,Netherlands,0,0,0,0,0,11,1,24,1,0,24.0,Dubai International Cricket Stadium,25
-EhsanNawaz,Hong Kong,Bangladesh,0,0,0,0,0,5,0,10,0,0,0,Zahur Ahmed Chowdhury Stadium,0
-EhsanNawaz,Hong Kong,Oman,0,2,0,0,0.0,5,0,11,0,0,0,Sheikh Zayed Stadium,-8
-EhsanNawaz,Hong Kong,Netherlands,0,0,0,0,0,11,1,24,1,0,24.0,Dubai International Cricket Stadium,25
-EhsanNawaz,Hong Kong,Ireland,0,0,0,0,0,6,1,13,0,0,13.0,Bready Cricket Club Magheramason,0
-EhsanNawaz,Hong Kong,Scotland,0,0,0,0,0,15,2,27,1,0,13.5,Sheikh Zayed Stadium,19
-EhsanNawaz,Hong Kong,Bangladesh,0,0,0,0,0,5,0,10,0,0,0,Zahur Ahmed Chowdhury Stadium,0
-EhsanNawaz,Hong Kong,Oman,0,2,0,0,0.0,5,0,11,0,0,0,Sheikh Zayed Stadium,-8
-EhsanNawaz,Hong Kong,Netherlands,0,0,0,0,0,11,1,24,1,0,24.0,Dubai International Cricket Stadium,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+EhsanNawaz,Hong Kong,Bangladesh,0,0,0,0,0,5,0,10,0,0,0,Zahur Ahmed Chowdhury Stadium,0,0,2014,0
+EhsanNawaz,Hong Kong,Ireland,0,0,0,0,0,6,1,13,0,0,13.0,Bready Cricket Club Magheramason,0,0,2016,0
+EhsanNawaz,Hong Kong,Netherlands,0,0,0,0,0,11,1,24,1,0,24.0,Dubai International Cricket Stadium,0,0,2017,25
+EhsanNawaz,Hong Kong,Oman,0,2,0,0,0.0,5,0,11,0,0,0,Sheikh Zayed Stadium,0,0,2017,-8
+EhsanNawaz,Hong Kong,Scotland,0,0,0,0,0,15,2,27,1,0,13.5,Sheikh Zayed Stadium,0,0,2017,19
+EhsanNawaz,Hong Kong,United Arab Emirates,11,40,0,0,27.500000000000004,17,2,20,0,0,10.0,Dubai International Cricket Stadium,0,0,2017,3
+EhsanNawaz,Hong Kong,United Arab Emirates,0,1,0,0,0.0,57,9,28,1,2,3.111111111111111,Kinrara Academy Oval,0,0,2014,39
+EhsanNawaz,Hong Kong,Scotland,0,0,0,0,0,44,7,29,0,0,4.142857142857143,Sheikh Zayed Stadium,0,0,2017,4

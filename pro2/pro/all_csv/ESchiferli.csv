@@ -1,10 +1,9 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ESchiferli,Netherlands,Pakistan,2,8,0,0,25.0,24,4,36,0,0,9.0,Lord's,-4
-ESchiferli,Netherlands,Pakistan,2,8,0,0,25.0,24,4,36,0,0,9.0,Lord's,-4
-ESchiferli,Netherlands,Pakistan,2,8,0,0,25.0,24,4,36,0,0,9.0,Lord's,-4
-ESchiferli,Netherlands,Pakistan,2,8,0,0,25.0,24,4,36,0,0,9.0,Lord's,-4
-ESchiferli,Netherlands,Pakistan,2,8,0,0,25.0,24,4,36,0,0,9.0,Lord's,-4
-ESchiferli,Netherlands,England,5,7,0,0,71.42857142857143,23,3,33,1,0,11.0,Lord's,26
-ESchiferli,Netherlands,Scotland,0,0,0,0,0,24,4,18,0,1,4.5,Civil Service Cricket Club Stormont,12
-ESchiferli,Netherlands,Canada,0,0,0,0,0,18,3,27,1,0,9.0,Dubai International Cricket Stadium,25
-ESchiferli,Netherlands,Pakistan,2,8,0,0,25.0,24,4,36,0,0,9.0,Lord's,-4
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ESchiferli,Netherlands,England,5,7,0,0,71.42857142857143,23,3,33,1,0,11.0,Lord's,0,1,2009,34
+ESchiferli,Netherlands,Pakistan,2,8,0,0,25.0,24,4,36,0,0,9.0,Lord's,0,1,2009,4
+ESchiferli,Netherlands,Canada,0,0,0,0,0,18,3,27,1,0,9.0,Dubai International Cricket Stadium,0,0,2010,25
+ESchiferli,Netherlands,Scotland,0,0,0,0,0,24,4,18,0,1,4.5,Civil Service Cricket Club Stormont,1,1,2008,32
+ESchiferli,Netherlands,Bermuda,0,0,0,0,0,38,6,21,1,0,3.5,Ruaraka Sports Club Ground,0,0,2007,31
+ESchiferli,Netherlands,Canada,3,6,0,0,50.0,11,1,12,0,0,12.0,Maple Leaf North-West Ground,0,0,2013,-1
+ESchiferli,Netherlands,Ireland,5,8,1,0,62.5,47,7,34,2,2,4.857142857142857,VRA Ground,0,0,2013,74
+ESchiferli,Netherlands,Scotland,5,13,1,0,38.46153846153847,32,5,37,0,0,7.4,Clontarf Cricket Club Ground,0,0,2008,0

@@ -1,2 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SPTerry,Ireland,Hong Kong,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Bready Cricket Club Magheramason,2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SPTerry,Ireland,Hong Kong,4,6,0,0,66.66666666666666,0,0,0,0,0,0,Bready Cricket Club Magheramason,0,1,2016,10
+SPTerry,Ireland,Afghanistan,4,17,0,0,23.52941176470588,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2016,-2
+SPTerry,Ireland,South Africa,16,17,3,0,94.11764705882352,0,0,0,0,0,0,Willowmoore Park,0,0,2016,19
+SPTerry,Ireland,Australia,0,1,0,0,0.0,0,0,0,0,0,0,Willowmoore Park,0,0,2016,-8
+SPTerry,Ireland,Afghanistan,9,30,0,0,30.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,2,2016,19

@@ -1,6 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BaljitSingh,Italy,Guernsey,3,10,0,0,30.0,12,2,12,1,0,6.0,College Field,22
-BaljitSingh,Italy,Jersey,0,2,0,0,0.0,23,3,26,0,0,8.666666666666666,College Field,-8
-BaljitSingh,Italy,Denmark,1,4,0,0,25.0,25,4,20,4,0,5.0,King George V Sports Ground,105
-BaljitSingh,Italy,Germany,0,0,0,0,0,24,4,41,0,0,10.25,Sportpark Maarschalkerweerd,-4
-BaljitSingh,Italy,Guernsey,3,10,0,0,30.0,12,2,12,1,0,6.0,College Field,22
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BaljitSingh,Italy,Jersey,0,2,0,0,0.0,23,3,26,0,0,8.666666666666666,College Field,1,0,2019,4
+BaljitSingh,Italy,Guernsey,3,10,0,0,30.0,12,2,12,1,0,6.0,College Field,0,0,2019,22
+BaljitSingh,Italy,Denmark,1,4,0,0,25.0,25,4,20,4,0,5.0,King George V Sports Ground,0,0,2019,105
+BaljitSingh,Italy,Germany,0,0,0,0,0,24,4,41,0,0,10.25,Sportpark Maarschalkerweerd,0,1,2019,4

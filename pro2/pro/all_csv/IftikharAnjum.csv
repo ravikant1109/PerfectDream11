@@ -1,3 +1,45 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-IftikharAnjum,Pakistan,Bangladesh,0,0,0,0,0,23,3,34,0,0,11.333333333333334,Gymkhana Club Ground,-6
-IftikharAnjum,Pakistan,Sri Lanka,0,0,0,0,0,23,3,35,1,0,11.666666666666666,R Premadasa Stadium,19
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+IftikharAnjum,Pakistan,Bangladesh,0,0,0,0,0,23,3,34,0,0,11.333333333333334,Gymkhana Club Ground,1,0,2007,6
+IftikharAnjum,Pakistan,Sri Lanka,0,0,0,0,0,23,3,35,1,0,11.666666666666666,R Premadasa Stadium,0,0,2009,19
+IftikharAnjum,Pakistan,South Africa,4,13,0,0,30.76923076923077,41,6,27,0,1,4.5,New Wanderers Stadium,0,0,2007,10
+IftikharAnjum,Pakistan,South Africa,0,0,0,0,0,47,7,34,3,0,4.857142857142857,Iqbal Stadium,0,0,2007,79
+IftikharAnjum,Pakistan,Australia,1,1,0,0,100.0,53,8,32,0,0,4.0,Dubai Sports City Cricket Stadium,0,0,2009,5
+IftikharAnjum,Pakistan,Zimbabwe,32,17,2,2,188.23529411764704,0,0,0,0,0,0,Sabina Park Kingston,0,0,2007,38
+IftikharAnjum,Pakistan,Australia,0,0,0,0,0,11,1,18,0,0,18.0,Dubai Sports City Cricket Stadium,0,0,2009,0
+IftikharAnjum,Pakistan,Australia,16,8,1,1,200.0,57,9,39,1,1,4.333333333333333,Western Australia Cricket Association Ground,0,0,2010,56
+IftikharAnjum,Pakistan,West Indies,0,0,0,0,0,41,6,21,1,1,3.5,Gaddafi Stadium,0,0,2006,39
+IftikharAnjum,Pakistan,Ireland,8,45,0,0,17.77777777777778,62,10,29,2,1,2.9,Sabina Park Kingston,0,0,2007,66
+IftikharAnjum,Pakistan,Zimbabwe,0,0,0,0,0,35,5,43,2,0,8.6,Niaz Stadium Hyderabad,0,0,2008,50
+IftikharAnjum,Pakistan,West Indies,7,11,0,0,63.63636363636363,57,9,40,1,0,4.444444444444445,Sheikh Zayed Stadium,0,0,2008,34
+IftikharAnjum,Pakistan,Hong Kong,3,2,0,0,150.0,36,6,20,2,0,3.3333333333333335,National Stadium,0,0,2008,59
+IftikharAnjum,Pakistan,India,0,0,0,0,0,59,9,62,2,0,6.888888888888889,National Stadium,0,0,2008,50
+IftikharAnjum,Pakistan,India,0,0,0,0,0,59,9,38,1,0,4.222222222222222,Captain Roop Singh Stadium,0,0,2007,29
+IftikharAnjum,Pakistan,Sri Lanka,0,0,0,0,0,41,6,30,0,0,5.0,R Premadasa Stadium,0,0,2009,2
+IftikharAnjum,Pakistan,India,0,0,0,0,0,59,9,51,3,1,5.666666666666667,National Stadium,0,0,2008,85
+IftikharAnjum,Pakistan,Sri Lanka,0,0,0,0,0,53,8,40,0,0,5.0,Sinhalese Sports Club Ground,0,1,2006,10
+IftikharAnjum,Pakistan,South Africa,2,3,0,0,66.66666666666666,35,5,29,2,0,5.8,Multan Cricket Stadium,0,0,2007,52
+IftikharAnjum,Pakistan,New Zealand,0,0,0,0,0,47,7,41,1,2,5.857142857142857,Punjab Cricket Association Stadium Mohali,0,1,2006,51
+IftikharAnjum,Pakistan,Zimbabwe,0,0,0,0,0,30,5,40,1,0,8.0,National Stadium,0,0,2008,25
+IftikharAnjum,Pakistan,South Africa,0,2,0,0,0.0,59,9,46,3,0,5.111111111111111,Gaddafi Stadium,0,0,2007,69
+IftikharAnjum,Pakistan,Sri Lanka,0,0,0,0,0,41,6,14,2,1,2.3333333333333335,R Premadasa Stadium,0,0,2006,64
+IftikharAnjum,Pakistan,Sri Lanka,0,0,0,0,0,42,7,40,1,0,5.714285714285714,Sawai Mansingh Stadium,0,1,2006,35
+IftikharAnjum,Pakistan,West Indies,11,19,0,0,57.89473684210527,59,9,45,3,3,5.0,Sabina Park Kingston,1,0,2007,120
+IftikharAnjum,Pakistan,South Africa,0,1,0,0,0.0,60,10,44,3,1,4.4,Gaddafi Stadium,0,0,2007,79
+IftikharAnjum,Pakistan,Sri Lanka,0,0,0,0,0,50,8,42,4,1,5.25,National Stadium,0,0,2009,118
+IftikharAnjum,Pakistan,South Africa,2,6,0,0,33.33333333333333,60,10,27,2,4,2.7,Punjab Cricket Association Stadium Mohali,0,1,2006,92
+IftikharAnjum,Pakistan,India,0,0,0,0,0,60,10,52,2,1,5.2,Sawai Mansingh Stadium,0,0,2007,60
+IftikharAnjum,Pakistan,India,6,3,0,0,200.0,59,9,44,1,0,4.888888888888889,National Stadium,0,0,2006,35
+IftikharAnjum,Pakistan,Sri Lanka,7,5,1,0,140.0,47,7,60,0,0,8.571428571428571,National Stadium,0,0,2008,8
+IftikharAnjum,Pakistan,India,0,0,0,0,0,47,7,50,0,0,7.142857142857143,Nehru Stadium,0,0,2007,0
+IftikharAnjum,Pakistan,West Indies,7,5,0,0,140.0,34,5,56,0,0,11.2,Multan Cricket Stadium,0,0,2006,1
+IftikharAnjum,Pakistan,India,0,0,0,0,0,44,7,64,0,0,9.142857142857142,Punjab Cricket Association Stadium Mohali,0,0,2007,-2
+IftikharAnjum,Pakistan,Bangladesh,0,0,0,0,0,61,10,20,2,6,2.0,National Stadium,0,1,2008,112
+IftikharAnjum,Pakistan,Bangladesh,0,0,0,0,0,38,6,17,2,1,2.8333333333333335,Gaddafi Stadium,0,0,2008,64
+IftikharAnjum,Pakistan,Bangladesh,5,3,1,0,166.66666666666669,49,8,61,1,0,7.625,Gaddafi Stadium,0,0,2008,31
+IftikharAnjum,Pakistan,South Africa,9,14,1,0,64.28571428571429,59,9,64,1,1,7.111111111111111,Gaddafi Stadium,0,0,2007,41
+IftikharAnjum,Pakistan,Sri Lanka,0,5,0,0,0.0,31,5,55,0,0,11.0,Gaddafi Stadium,0,0,2009,-12
+IftikharAnjum,Pakistan,India,0,0,0,0,0,59,9,58,2,1,6.444444444444445,Shere Bangla National Stadium,0,0,2008,58
+IftikharAnjum,Pakistan,Sri Lanka,0,0,0,0,0,48,8,31,5,0,3.875,R Premadasa Stadium,0,0,2009,147
+IftikharAnjum,Pakistan,India,16,19,2,0,84.21052631578947,60,10,64,0,0,6.4,Shere Bangla National Stadium,0,1,2008,26
+IftikharAnjum,Pakistan,Bangladesh,0,0,0,0,0,50,8,34,2,2,4.25,Iqbal Stadium,0,0,2008,70
+IftikharAnjum,Pakistan,England,14,39,1,0,35.8974358974359,48,8,31,1,3,3.875,Edgbaston,0,0,2006,64

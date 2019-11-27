@@ -1,119 +1,239 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-ADMathews,Sri Lanka,West Indies,12,5,1,1,240.0,23,3,16,3,0,5.333333333333333,Kennington Oval,92
-ADMathews,Sri Lanka,England,13,13,0,1,100.0,11,1,7,1,0,7.0,Kennington Oval,40
-ADMathews,Sri Lanka,United Arab Emirates,8,9,0,0,88.88888888888889,22,3,25,0,0,8.333333333333334,Shere Bangla National Stadium,8
-ADMathews,Sri Lanka,New Zealand,81,49,7,4,165.3061224489796,0,0,0,0,0,0,Eden Park,104
-ADMathews,Sri Lanka,West Indies,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Pallekele International Cricket Stadium,21
-ADMathews,Sri Lanka,Zimbabwe,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Providence Stadium,0
-ADMathews,Sri Lanka,Bangladesh,11,11,0,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,11
-ADMathews,Sri Lanka,Zimbabwe,0,0,0,0,0,12,2,9,0,0,4.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,4
-ADMathews,Sri Lanka,West Indies,37,13,2,3,284.61538461538464,0,0,0,0,0,0,Pallekele International Cricket Stadium,45
-ADMathews,Sri Lanka,Australia,8,4,1,0,200.0,23,3,25,2,0,8.333333333333334,Kensington Oval Bridgetown,59
-ADMathews,Sri Lanka,New Zealand,21,22,2,0,95.45454545454545,11,1,19,1,0,19.0,R Premadasa Stadium,48
-ADMathews,Sri Lanka,New Zealand,27,33,1,1,81.81818181818183,17,2,17,1,0,8.5,Central Broward Regional Park Stadium Turf Ground,55
-ADMathews,Sri Lanka,England,58,49,3,1,118.36734693877551,5,0,14,0,0,0,Beausejour Stadium Gros Islet,71
-ADMathews,Sri Lanka,Australia,5,4,1,0,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,6
-ADMathews,Sri Lanka,Pakistan,9,25,0,0,36.0,23,3,10,2,0,3.3333333333333335,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,59
-ADMathews,Sri Lanka,India,18,19,3,0,94.73684210526315,17,2,16,0,0,8.0,Shere Bangla National Stadium,21
-ADMathews,Sri Lanka,West Indies,12,5,1,1,240.0,23,3,16,3,0,5.333333333333333,Kennington Oval,92
-ADMathews,Sri Lanka,England,13,13,0,1,100.0,11,1,7,1,0,7.0,Kennington Oval,40
-ADMathews,Sri Lanka,United Arab Emirates,8,9,0,0,88.88888888888889,22,3,25,0,0,8.333333333333334,Shere Bangla National Stadium,8
-ADMathews,Sri Lanka,New Zealand,81,49,7,4,165.3061224489796,0,0,0,0,0,0,Eden Park,104
-ADMathews,Sri Lanka,West Indies,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Pallekele International Cricket Stadium,21
-ADMathews,Sri Lanka,Zimbabwe,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Providence Stadium,0
-ADMathews,Sri Lanka,Bangladesh,11,11,0,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,11
-ADMathews,Sri Lanka,Zimbabwe,0,0,0,0,0,12,2,9,0,0,4.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,4
-ADMathews,Sri Lanka,West Indies,37,13,2,3,284.61538461538464,0,0,0,0,0,0,Pallekele International Cricket Stadium,45
-ADMathews,Sri Lanka,Australia,8,4,1,0,200.0,23,3,25,2,0,8.333333333333334,Kensington Oval Bridgetown,59
-ADMathews,Sri Lanka,New Zealand,21,22,2,0,95.45454545454545,11,1,19,1,0,19.0,R Premadasa Stadium,48
-ADMathews,Sri Lanka,New Zealand,27,33,1,1,81.81818181818183,17,2,17,1,0,8.5,Central Broward Regional Park Stadium Turf Ground,55
-ADMathews,Sri Lanka,England,58,49,3,1,118.36734693877551,5,0,14,0,0,0,Beausejour Stadium Gros Islet,71
-ADMathews,Sri Lanka,Australia,5,4,1,0,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,6
-ADMathews,Sri Lanka,Pakistan,9,25,0,0,36.0,23,3,10,2,0,3.3333333333333335,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,59
-ADMathews,Sri Lanka,India,18,19,3,0,94.73684210526315,17,2,16,0,0,8.0,Shere Bangla National Stadium,21
-ADMathews,Sri Lanka,West Indies,12,5,1,1,240.0,23,3,16,3,0,5.333333333333333,Kennington Oval,92
-ADMathews,Sri Lanka,England,13,13,0,1,100.0,11,1,7,1,0,7.0,Kennington Oval,40
-ADMathews,Sri Lanka,United Arab Emirates,8,9,0,0,88.88888888888889,22,3,25,0,0,8.333333333333334,Shere Bangla National Stadium,8
-ADMathews,Sri Lanka,New Zealand,81,49,7,4,165.3061224489796,0,0,0,0,0,0,Eden Park,104
-ADMathews,Sri Lanka,West Indies,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Pallekele International Cricket Stadium,21
-ADMathews,Sri Lanka,Zimbabwe,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Providence Stadium,0
-ADMathews,Sri Lanka,Bangladesh,11,11,0,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,11
-ADMathews,Sri Lanka,Zimbabwe,0,0,0,0,0,12,2,9,0,0,4.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,4
-ADMathews,Sri Lanka,West Indies,37,13,2,3,284.61538461538464,0,0,0,0,0,0,Pallekele International Cricket Stadium,45
-ADMathews,Sri Lanka,Australia,8,4,1,0,200.0,23,3,25,2,0,8.333333333333334,Kensington Oval Bridgetown,59
-ADMathews,Sri Lanka,New Zealand,21,22,2,0,95.45454545454545,11,1,19,1,0,19.0,R Premadasa Stadium,48
-ADMathews,Sri Lanka,New Zealand,27,33,1,1,81.81818181818183,17,2,17,1,0,8.5,Central Broward Regional Park Stadium Turf Ground,55
-ADMathews,Sri Lanka,England,58,49,3,1,118.36734693877551,5,0,14,0,0,0,Beausejour Stadium Gros Islet,71
-ADMathews,Sri Lanka,Australia,5,4,1,0,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,6
-ADMathews,Sri Lanka,Pakistan,9,25,0,0,36.0,23,3,10,2,0,3.3333333333333335,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,59
-ADMathews,Sri Lanka,India,18,19,3,0,94.73684210526315,17,2,16,0,0,8.0,Shere Bangla National Stadium,21
-ADMathews,Sri Lanka,South Africa,0,0,0,0,0,5,0,8,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0
-ADMathews,Sri Lanka,West Indies,1,5,0,0,20.0,24,4,12,1,1,3.0,R Premadasa Stadium,34
-ADMathews,Sri Lanka,New Zealand,0,0,0,0,0,17,2,4,0,1,2.0,Pallekele International Cricket Stadium,14
-ADMathews,Sri Lanka,Ireland,10,7,1,0,142.85714285714286,17,2,23,0,0,11.5,Lord's,5
-ADMathews,Sri Lanka,West Indies,3,2,0,0,150.0,6,1,12,0,0,12.0,Trent Bridge,3
-ADMathews,Sri Lanka,Pakistan,9,8,1,0,112.5,23,3,23,1,0,7.666666666666667,Lord's,35
-ADMathews,Sri Lanka,Pakistan,35,25,3,1,140.0,11,1,17,0,0,17.0,Lord's,40
-ADMathews,Sri Lanka,England,11,5,0,1,220.00000000000003,13,2,31,0,0,15.5,Zahur Ahmed Chowdhury Stadium,7
-ADMathews,Sri Lanka,Afghanistan,21,11,3,1,190.9090909090909,19,3,17,1,0,5.666666666666667,Eden Gardens,53
-ADMathews,Sri Lanka,New Zealand,0,5,0,0,0.0,24,4,22,1,0,5.5,Central Broward Regional Park Stadium Turf Ground,19
-ADMathews,Sri Lanka,New Zealand,3,6,0,0,50.0,11,1,7,1,1,7.0,Providence Stadium,32
-ADMathews,Sri Lanka,New Zealand,1,2,0,0,50.0,0,0,0,0,0,0,R Premadasa Stadium,-3
-ADMathews,Sri Lanka,New Zealand,0,0,0,0,0,11,1,17,1,0,17.0,Pallekele International Cricket Stadium,25
-ADMathews,Sri Lanka,Pakistan,23,26,1,0,88.46153846153845,25,4,34,1,0,8.5,R Premadasa Stadium,49
-ADMathews,Sri Lanka,Pakistan,10,6,1,0,166.66666666666669,23,3,27,2,0,9.0,R Premadasa Stadium,61
-ADMathews,Sri Lanka,India,46,37,3,2,124.32432432432432,18,3,29,0,0,9.666666666666666,Beausejour Stadium Gros Islet,51
-ADMathews,Sri Lanka,West Indies,20,33,0,0,60.60606060606061,5,0,13,0,0,0,M Chinnaswamy Stadium,18
-ADMathews,Sri Lanka,South Africa,4,9,0,0,44.44444444444444,23,3,13,1,0,4.333333333333333,R Premadasa Stadium,27
-ADMathews,Sri Lanka,Pakistan,14,20,0,0,70.0,0,0,0,0,0,0,Sheikh Zayed Stadium,14
-ADMathews,Sri Lanka,New Zealand,4,5,1,0,80.0,0,0,0,0,0,0,Bay Oval,5
-ADMathews,Sri Lanka,Netherlands,0,0,0,0,0,23,3,16,3,0,5.333333333333333,Zahur Ahmed Chowdhury Stadium,77
-ADMathews,Sri Lanka,England,28,19,3,1,147.36842105263156,17,2,22,0,0,11.0,Pallekele International Cricket Stadium,29
-ADMathews,Sri Lanka,South Africa,1,3,0,0,33.33333333333333,23,3,32,0,0,10.666666666666666,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,-9
-ADMathews,Sri Lanka,Australia,35,27,3,1,129.62962962962962,24,4,40,0,0,10.0,Stadium Australia,38
-ADMathews,Sri Lanka,India,31,30,2,0,103.33333333333334,17,2,23,0,0,11.5,Pallekele International Cricket Stadium,27
-ADMathews,Sri Lanka,South Africa,14,10,2,0,140.0,5,0,15,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,16
-ADMathews,Sri Lanka,West Indies,0,0,0,0,0,11,1,18,1,0,18.0,Kensington Oval Bridgetown,25
-ADMathews,Sri Lanka,Australia,0,0,0,0,0,12,2,10,1,0,5.0,Trent Bridge,27
-ADMathews,Sri Lanka,India,15,4,0,2,375.0,24,4,30,2,0,7.5,Vidarbha Cricket Association Stadium Jamtha,69
-ADMathews,Sri Lanka,Pakistan,50,34,5,1,147.05882352941177,11,1,20,0,0,20.0,Dubai International Cricket Stadium,65
-ADMathews,Sri Lanka,Bangladesh,30,28,1,0,107.14285714285714,23,3,39,2,0,13.0,Pallekele International Cricket Stadium,75
-ADMathews,Sri Lanka,South Africa,54,51,1,3,105.88235294117648,11,1,11,0,0,11.0,New Wanderers Stadium,69
-ADMathews,Sri Lanka,West Indies,5,6,0,0,83.33333333333334,0,0,0,0,0,0,R Premadasa Stadium,5
-ADMathews,Sri Lanka,England,11,10,1,0,110.00000000000001,23,3,28,2,0,9.333333333333334,The Rose Bowl,60
-ADMathews,Sri Lanka,England,73,54,3,5,135.1851851851852,23,3,26,0,0,8.666666666666666,Feroz Shah Kotla,94
-ADMathews,Sri Lanka,South Africa,43,34,3,1,126.47058823529412,18,3,22,1,0,7.333333333333333,Zahur Ahmed Chowdhury Stadium,73
-ADMathews,Sri Lanka,West Indies,40,25,3,2,160.0,5,0,4,0,0,0,Shere Bangla National Stadium,47
-ADMathews,Sri Lanka,Bangladesh,2,3,0,0,66.66666666666666,11,1,9,0,0,9.0,Zahur Ahmed Chowdhury Stadium,0
-ADMathews,Sri Lanka,Pakistan,0,0,0,0,0,5,0,10,0,0,0,Dubai International Cricket Stadium,0
-ADMathews,Sri Lanka,India,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Shere Bangla National Stadium,25
-ADMathews,Sri Lanka,India,26,13,1,2,200.0,18,3,49,0,0,16.333333333333332,Punjab Cricket Association Stadium Mohali,25
-ADMathews,Sri Lanka,South Africa,6,8,0,0,75.0,13,2,29,0,0,14.5,SuperSport Park,0
-ADMathews,Sri Lanka,Pakistan,11,11,0,0,100.0,11,1,9,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,11
-ADMathews,Sri Lanka,New Zealand,6,10,0,0,60.0,23,3,26,0,0,8.666666666666666,Zahur Ahmed Chowdhury Stadium,4
-ADMathews,Sri Lanka,New Zealand,6,4,0,0,150.0,0,0,0,0,0,0,Trent Bridge,6
-ADMathews,Sri Lanka,New Zealand,12,11,0,0,109.09090909090908,11,1,14,0,0,14.0,Pallekele International Cricket Stadium,12
-ADMathews,Sri Lanka,Bangladesh,12,21,0,0,57.14285714285714,17,2,8,1,0,4.0,Shere Bangla National Stadium,37
-ADMathews,Sri Lanka,Pakistan,9,10,1,0,90.0,17,2,25,1,0,12.5,R Premadasa Stadium,29
-ADMathews,Sri Lanka,West Indies,12,5,1,1,240.0,23,3,16,3,0,5.333333333333333,Kennington Oval,92
-ADMathews,Sri Lanka,England,13,13,0,1,100.0,11,1,7,1,0,7.0,Kennington Oval,40
-ADMathews,Sri Lanka,United Arab Emirates,8,9,0,0,88.88888888888889,22,3,25,0,0,8.333333333333334,Shere Bangla National Stadium,8
-ADMathews,Sri Lanka,New Zealand,81,49,7,4,165.3061224489796,0,0,0,0,0,0,Eden Park,104
-ADMathews,Sri Lanka,West Indies,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Pallekele International Cricket Stadium,21
-ADMathews,Sri Lanka,Zimbabwe,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Providence Stadium,0
-ADMathews,Sri Lanka,Bangladesh,11,11,0,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,11
-ADMathews,Sri Lanka,Zimbabwe,0,0,0,0,0,12,2,9,0,0,4.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,4
-ADMathews,Sri Lanka,West Indies,37,13,2,3,284.61538461538464,0,0,0,0,0,0,Pallekele International Cricket Stadium,45
-ADMathews,Sri Lanka,Australia,8,4,1,0,200.0,23,3,25,2,0,8.333333333333334,Kensington Oval Bridgetown,59
-ADMathews,Sri Lanka,New Zealand,21,22,2,0,95.45454545454545,11,1,19,1,0,19.0,R Premadasa Stadium,48
-ADMathews,Sri Lanka,New Zealand,27,33,1,1,81.81818181818183,17,2,17,1,0,8.5,Central Broward Regional Park Stadium Turf Ground,55
-ADMathews,Sri Lanka,England,58,49,3,1,118.36734693877551,5,0,14,0,0,0,Beausejour Stadium Gros Islet,71
-ADMathews,Sri Lanka,Australia,5,4,1,0,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,6
-ADMathews,Sri Lanka,Pakistan,9,25,0,0,36.0,23,3,10,2,0,3.3333333333333335,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,59
-ADMathews,Sri Lanka,India,18,19,3,0,94.73684210526315,17,2,16,0,0,8.0,Shere Bangla National Stadium,21
-ADMathews,Sri Lanka,South Africa,0,0,0,0,0,5,0,8,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0
-ADMathews,Sri Lanka,West Indies,1,5,0,0,20.0,24,4,12,1,1,3.0,R Premadasa Stadium,34
-ADMathews,Sri Lanka,New Zealand,0,0,0,0,0,17,2,4,0,1,2.0,Pallekele International Cricket Stadium,14
-ADMathews,Sri Lanka,Ireland,10,7,1,0,142.85714285714286,17,2,23,0,0,11.5,Lord's,5
-ADMathews,Sri Lanka,West Indies,3,2,0,0,150.0,6,1,12,0,0,12.0,Trent Bridge,3
-ADMathews,Sri Lanka,Pakistan,9,8,1,0,112.5,23,3,23,1,0,7.666666666666667,Lord's,35
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+ADMathews,Sri Lanka,West Indies,12,5,1,1,240.0,23,3,16,3,0,5.333333333333333,Kennington Oval,0,1,2009,100
+ADMathews,Sri Lanka,United Arab Emirates,8,9,0,0,88.88888888888889,22,3,25,0,0,8.333333333333334,Shere Bangla National Stadium,0,2,2016,24
+ADMathews,Sri Lanka,Bangladesh,11,11,0,0,100.0,0,0,0,0,0,0,Zahur Ahmed Chowdhury Stadium,0,2,2014,27
+ADMathews,Sri Lanka,New Zealand,27,33,1,1,81.81818181818183,17,2,17,1,0,8.5,Central Broward Regional Park Stadium Turf Ground,0,1,2010,63
+ADMathews,Sri Lanka,Pakistan,10,6,1,0,166.66666666666669,23,3,27,2,0,9.0,R Premadasa Stadium,0,0,2012,61
+ADMathews,Sri Lanka,India,15,4,0,2,375.0,24,4,30,2,0,7.5,Vidarbha Cricket Association Stadium Jamtha,0,1,2009,77
+ADMathews,Sri Lanka,Australia,35,27,3,1,129.62962962962962,24,4,40,0,0,10.0,Stadium Australia,0,0,2013,38
+ADMathews,Sri Lanka,New Zealand,6,4,0,0,150.0,0,0,0,0,0,0,Trent Bridge,0,1,2009,14
+ADMathews,Sri Lanka,India,18,19,3,0,94.73684210526315,17,2,16,0,0,8.0,Shere Bangla National Stadium,0,0,2016,21
+ADMathews,Sri Lanka,Australia,8,4,1,0,200.0,23,3,25,2,0,8.333333333333334,Kensington Oval Bridgetown,0,0,2010,59
+ADMathews,Sri Lanka,South Africa,6,8,0,0,75.0,13,2,29,0,0,14.5,SuperSport Park,0,0,2017,0
+ADMathews,Sri Lanka,South Africa,1,3,0,0,33.33333333333333,23,3,32,0,0,10.666666666666666,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2013,-1
+ADMathews,Sri Lanka,Zimbabwe,0,0,0,0,0,12,2,9,0,0,4.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,4
+ADMathews,Sri Lanka,West Indies,0,0,0,0,0,23,3,32,1,0,10.666666666666666,Pallekele International Cricket Stadium,0,0,2012,21
+ADMathews,Sri Lanka,England,58,49,3,1,118.36734693877551,5,0,14,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,71
+ADMathews,Sri Lanka,England,73,54,3,5,135.1851851851852,23,3,26,0,0,8.666666666666666,Feroz Shah Kotla,0,0,2016,94
+ADMathews,Sri Lanka,India,46,37,3,2,124.32432432432432,18,3,29,0,0,9.666666666666666,Beausejour Stadium Gros Islet,0,0,2010,51
+ADMathews,Sri Lanka,New Zealand,0,0,0,0,0,11,1,17,1,0,17.0,Pallekele International Cricket Stadium,0,0,2013,25
+ADMathews,Sri Lanka,Netherlands,0,0,0,0,0,23,3,16,3,0,5.333333333333333,Zahur Ahmed Chowdhury Stadium,0,1,2014,85
+ADMathews,Sri Lanka,Pakistan,9,25,0,0,36.0,23,3,10,2,0,3.3333333333333335,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,59
+ADMathews,Sri Lanka,South Africa,14,10,2,0,140.0,5,0,15,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,16
+ADMathews,Sri Lanka,Zimbabwe,4,7,0,0,57.14285714285714,0,0,0,0,0,0,Providence Stadium,0,0,2010,0
+ADMathews,Sri Lanka,Pakistan,0,0,0,0,0,5,0,10,0,0,0,Dubai International Cricket Stadium,0,0,2013,0
+ADMathews,Sri Lanka,Pakistan,35,25,3,1,140.0,11,1,17,0,0,17.0,Lord's,0,0,2009,40
+ADMathews,Sri Lanka,England,11,10,1,0,110.00000000000001,23,3,28,2,0,9.333333333333334,The Rose Bowl,0,0,2016,60
+ADMathews,Sri Lanka,South Africa,43,34,3,1,126.47058823529412,18,3,22,1,0,7.333333333333333,Zahur Ahmed Chowdhury Stadium,1,0,2014,85
+ADMathews,Sri Lanka,New Zealand,1,2,0,0,50.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,-3
+ADMathews,Sri Lanka,Afghanistan,21,11,3,1,190.9090909090909,19,3,17,1,0,5.666666666666667,Eden Gardens,0,0,2016,53
+ADMathews,Sri Lanka,West Indies,5,6,0,0,83.33333333333334,0,0,0,0,0,0,R Premadasa Stadium,0,1,2015,13
+ADMathews,Sri Lanka,West Indies,40,25,3,2,160.0,5,0,4,0,0,0,Shere Bangla National Stadium,0,0,2014,47
+ADMathews,Sri Lanka,South Africa,4,9,0,0,44.44444444444444,23,3,13,1,0,4.333333333333333,R Premadasa Stadium,0,0,2013,27
+ADMathews,Sri Lanka,Bangladesh,30,28,1,0,107.14285714285714,23,3,39,2,0,13.0,Pallekele International Cricket Stadium,0,1,2013,83
+ADMathews,Sri Lanka,New Zealand,12,11,0,0,109.09090909090908,11,1,14,0,0,14.0,Pallekele International Cricket Stadium,0,0,2012,12
+ADMathews,Sri Lanka,West Indies,3,2,0,0,150.0,6,1,12,0,0,12.0,Trent Bridge,0,0,2009,3
+ADMathews,Sri Lanka,Pakistan,23,26,1,0,88.46153846153845,25,4,34,1,0,8.5,R Premadasa Stadium,0,0,2015,49
+ADMathews,Sri Lanka,Australia,0,0,0,0,0,12,2,10,1,0,5.0,Trent Bridge,0,0,2009,27
+ADMathews,Sri Lanka,England,28,19,3,1,147.36842105263156,17,2,22,0,0,11.0,Pallekele International Cricket Stadium,0,0,2012,29
+ADMathews,Sri Lanka,Pakistan,9,8,1,0,112.5,23,3,23,1,0,7.666666666666667,Lord's,1,0,2009,47
+ADMathews,Sri Lanka,New Zealand,3,6,0,0,50.0,11,1,7,1,1,7.0,Providence Stadium,0,1,2010,40
+ADMathews,Sri Lanka,India,31,30,2,0,103.33333333333334,17,2,23,0,0,11.5,Pallekele International Cricket Stadium,0,0,2012,27
+ADMathews,Sri Lanka,West Indies,37,13,2,3,284.61538461538464,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2015,45
+ADMathews,Sri Lanka,England,11,5,0,1,220.00000000000003,13,2,31,0,0,15.5,Zahur Ahmed Chowdhury Stadium,0,1,2014,15
+ADMathews,Sri Lanka,India,0,0,0,0,0,23,3,25,1,0,8.333333333333334,Shere Bangla National Stadium,0,0,2014,25
+ADMathews,Sri Lanka,New Zealand,0,0,0,0,0,17,2,4,0,1,2.0,Pallekele International Cricket Stadium,0,0,2012,14
+ADMathews,Sri Lanka,Australia,5,4,1,0,125.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,6
+ADMathews,Sri Lanka,Bangladesh,2,3,0,0,66.66666666666666,11,1,9,0,0,9.0,Zahur Ahmed Chowdhury Stadium,0,0,2014,0
+ADMathews,Sri Lanka,New Zealand,6,10,0,0,60.0,23,3,26,0,0,8.666666666666666,Zahur Ahmed Chowdhury Stadium,1,1,2014,24
+ADMathews,Sri Lanka,Pakistan,50,34,5,1,147.05882352941177,11,1,20,0,0,20.0,Dubai International Cricket Stadium,0,0,2013,65
+ADMathews,Sri Lanka,West Indies,0,0,0,0,0,11,1,18,1,0,18.0,Kensington Oval Bridgetown,0,2,2010,41
+ADMathews,Sri Lanka,Bangladesh,12,21,0,0,57.14285714285714,17,2,8,1,0,4.0,Shere Bangla National Stadium,2,2,2016,77
+ADMathews,Sri Lanka,Ireland,10,7,1,0,142.85714285714286,17,2,23,0,0,11.5,Lord's,0,0,2009,5
+ADMathews,Sri Lanka,West Indies,1,5,0,0,20.0,24,4,12,1,1,3.0,R Premadasa Stadium,0,0,2012,34
+ADMathews,Sri Lanka,South Africa,54,51,1,3,105.88235294117648,11,1,11,0,0,11.0,New Wanderers Stadium,0,2,2017,85
+ADMathews,Sri Lanka,New Zealand,0,5,0,0,0.0,24,4,22,1,0,5.5,Central Broward Regional Park Stadium Turf Ground,0,0,2010,19
+ADMathews,Sri Lanka,India,26,13,1,2,200.0,18,3,49,0,0,16.333333333333332,Punjab Cricket Association Stadium Mohali,0,0,2009,25
+ADMathews,Sri Lanka,Pakistan,11,11,0,0,100.0,11,1,9,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,11
+ADMathews,Sri Lanka,West Indies,20,33,0,0,60.60606060606061,5,0,13,0,0,0,M Chinnaswamy Stadium,0,0,2016,18
+ADMathews,Sri Lanka,Pakistan,14,20,0,0,70.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2011,14
+ADMathews,Sri Lanka,South Africa,0,0,0,0,0,5,0,8,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,0
+ADMathews,Sri Lanka,New Zealand,81,49,7,4,165.3061224489796,0,0,0,0,0,0,Eden Park,0,0,2016,104
+ADMathews,Sri Lanka,Pakistan,9,10,1,0,90.0,17,2,25,1,0,12.5,R Premadasa Stadium,0,0,2009,29
+ADMathews,Sri Lanka,New Zealand,4,5,1,0,80.0,0,0,0,0,0,0,Bay Oval,0,0,2016,5
+ADMathews,Sri Lanka,England,13,13,0,1,100.0,11,1,7,1,0,7.0,Kennington Oval,0,0,2014,40
+ADMathews,Sri Lanka,New Zealand,21,22,2,0,95.45454545454545,11,1,19,1,0,19.0,R Premadasa Stadium,1,0,2009,60
+ADMathews,Sri Lanka,India,75,96,2,2,78.125,0,0,0,0,0,0,Queens Sports Club,0,0,2010,89
+ADMathews,Sri Lanka,Pakistan,0,0,0,0,0,1,0,0,0,0,0,R Premadasa Stadium,0,0,2012,0
+ADMathews,Sri Lanka,Pakistan,10,32,0,0,31.25,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2011,4
+ADMathews,Sri Lanka,Pakistan,8,32,0,0,25.0,60,10,26,1,1,2.6,Sheikh Zayed Stadium,0,0,2013,41
+ADMathews,Sri Lanka,India,10,11,2,0,90.9090909090909,29,4,6,1,1,1.5,Queen's Park Oval Port of Spain,0,0,2013,51
+ADMathews,Sri Lanka,Pakistan,31,33,2,1,93.93939393939394,29,4,30,0,0,7.5,Sharjah Cricket Stadium,0,0,2013,35
+ADMathews,Sri Lanka,South Africa,58,86,5,1,67.44186046511628,37,6,43,0,0,7.166666666666667,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2014,71
+ADMathews,Sri Lanka,England,30,39,2,0,76.92307692307693,12,2,9,1,0,4.5,Riverside Ground,0,0,2014,61
+ADMathews,Sri Lanka,New Zealand,0,0,0,0,0,40,6,25,3,1,4.166666666666667,Eden Park,0,0,2015,87
+ADMathews,Sri Lanka,England,11,13,2,0,84.61538461538461,0,0,0,0,0,0,Old Trafford,0,0,2014,13
+ADMathews,Sri Lanka,Bangladesh,42,43,1,1,97.67441860465115,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2010,45
+ADMathews,Sri Lanka,Bangladesh,48,54,3,0,88.88888888888889,0,0,0,0,0,0,R.Premadasa Stadium Khettarama,0,0,2019,51
+ADMathews,Sri Lanka,South Africa,21,25,0,0,84.0,5,0,6,0,0,0,De Beers Diamond Oval,0,0,2012,21
+ADMathews,Sri Lanka,Pakistan,18,20,2,0,90.0,59,9,56,1,0,6.222222222222222,R Premadasa Stadium,0,0,2011,45
+ADMathews,Sri Lanka,England,56,69,3,1,81.15942028985508,11,1,8,0,0,8.0,County Ground,0,0,2016,69
+ADMathews,Sri Lanka,England,0,0,0,0,0,60,10,48,1,1,4.8,Westpac Stadium,0,0,2015,37
+ADMathews,Sri Lanka,Pakistan,0,6,0,0,0.0,36,6,19,0,2,3.1666666666666665,Pallekele International Cricket Stadium,1,0,2012,26
+ADMathews,Sri Lanka,Canada,21,17,3,0,123.52941176470588,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2011,24
+ADMathews,Sri Lanka,New Zealand,0,1,0,0,0.0,24,4,17,1,1,4.25,Saxton Oval,0,0,2015,29
+ADMathews,Sri Lanka,Pakistan,4,14,0,0,28.57142857142857,47,7,52,0,1,7.428571428571429,R Premadasa Stadium,0,0,2015,6
+ADMathews,Sri Lanka,New Zealand,46,55,4,0,83.63636363636363,35,5,28,0,0,5.6,Hagley Oval,0,0,2015,52
+ADMathews,Sri Lanka,England,51,64,5,0,79.6875,35,5,21,0,0,4.2,R Premadasa Stadium,0,0,2014,68
+ADMathews,Sri Lanka,West Indies,26,20,2,1,130.0,11,1,6,1,0,6.0,Riverside Ground,0,0,2019,55
+ADMathews,Sri Lanka,Australia,12,14,0,0,85.71428571428571,47,7,46,1,0,6.571428571428571,Melbourne Cricket Ground,0,0,2013,37
+ADMathews,Sri Lanka,Zimbabwe,42,41,0,2,102.4390243902439,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2017,54
+ADMathews,Sri Lanka,Zimbabwe,28,37,4,0,75.67567567567568,0,0,0,0,0,0,Galle International Stadium,0,0,2017,32
+ADMathews,Sri Lanka,South Africa,13,14,1,0,92.85714285714286,36,6,32,1,1,5.333333333333333,R Premadasa Stadium,0,0,2014,49
+ADMathews,Sri Lanka,England,67,56,6,1,119.64285714285714,17,2,17,0,0,8.5,Kennington Oval,0,0,2016,83
+ADMathews,Sri Lanka,Pakistan,0,4,0,0,0.0,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2011,-8
+ADMathews,Sri Lanka,India,14,10,1,0,140.0,41,6,48,0,0,8.0,Bellerive Oval,0,0,2012,15
+ADMathews,Sri Lanka,Pakistan,47,44,2,0,106.81818181818181,22,3,17,0,0,5.666666666666667,Dubai International Cricket Stadium,0,0,2013,51
+ADMathews,Sri Lanka,Pakistan,38,56,5,0,67.85714285714286,29,4,23,1,0,5.75,Rangiri Dambulla International Stadium,0,0,2015,68
+ADMathews,Sri Lanka,Bangladesh,2,5,0,0,40.0,5,0,12,0,0,0,Shere Bangla National Stadium,0,0,2009,-4
+ADMathews,Sri Lanka,New Zealand,0,0,0,0,0,12,2,17,0,0,8.5,Saxton Oval,0,1,2015,8
+ADMathews,Sri Lanka,India,92,103,10,1,89.32038834951457,23,3,18,0,0,6.0,Sardar Patel Stadium Motera,0,0,2014,112
+ADMathews,Sri Lanka,West Indies,13,19,1,0,68.42105263157895,18,3,35,1,0,11.666666666666666,R Premadasa Stadium,0,0,2015,31
+ADMathews,Sri Lanka,Pakistan,0,1,0,0,0.0,29,4,11,0,0,2.75,Rangiri Dambulla International Stadium,0,0,2014,-2
+ADMathews,Sri Lanka,New Zealand,0,1,0,0,0.0,60,10,38,3,1,3.8,Rangiri Dambulla International Stadium,0,1,2010,89
+ADMathews,Sri Lanka,India,6,18,0,0,33.33333333333333,19,3,9,0,1,3.0,Khan Shaheb Osman Ali Stadium,0,0,2014,14
+ADMathews,Sri Lanka,South Africa,11,30,1,0,36.666666666666664,0,0,0,0,0,0,Riverside Ground,0,0,2019,6
+ADMathews,Sri Lanka,West Indies,30,28,2,2,107.14285714285714,49,8,29,4,2,3.625,Queen's Park Oval Port of Spain,0,0,2013,166
+ADMathews,Sri Lanka,South Africa,0,2,0,0,0.0,30,5,23,0,0,4.6,Boland Park,0,1,2012,4
+ADMathews,Sri Lanka,West Indies,55,78,5,0,70.51282051282051,29,4,30,0,0,7.5,Sabina Park Kingston,0,0,2013,68
+ADMathews,Sri Lanka,Ireland,30,55,4,0,54.54545454545454,11,1,6,0,0,6.0,Clontarf Cricket Club Ground,0,0,2014,30
+ADMathews,Sri Lanka,Bangladesh,3,15,0,0,20.0,43,7,24,3,0,3.4285714285714284,Shere Bangla National Stadium,0,2,2014,94
+ADMathews,Sri Lanka,India,33,29,2,0,113.79310344827587,57,9,35,2,1,3.888888888888889,Western Australia Cricket Association Ground,0,0,2012,99
+ADMathews,Sri Lanka,Pakistan,5,9,0,0,55.55555555555556,36,6,30,1,0,5.0,R Premadasa Stadium,0,0,2009,28
+ADMathews,Sri Lanka,Pakistan,12,23,0,0,52.17391304347826,17,2,9,0,0,4.5,R Premadasa Stadium,0,0,2015,12
+ADMathews,Sri Lanka,Zimbabwe,0,2,0,0,0.0,29,4,29,2,0,7.25,Pallekele International Cricket Stadium,0,0,2011,42
+ADMathews,Sri Lanka,New Zealand,14,19,1,1,73.68421052631578,35,5,27,0,0,5.4,R Premadasa Stadium,0,0,2011,19
+ADMathews,Sri Lanka,Pakistan,44,51,1,3,86.27450980392157,24,4,29,0,0,7.25,Sharjah Cricket Stadium,0,0,2013,51
+ADMathews,Sri Lanka,Afghanistan,0,2,0,0,0.0,0,0,0,0,0,0,Sophia Gardens,0,1,2019,0
+ADMathews,Sri Lanka,Pakistan,93,116,8,0,80.17241379310344,12,2,15,0,0,7.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2014,117
+ADMathews,Sri Lanka,Pakistan,39,55,2,1,70.9090909090909,0,0,0,0,0,0,Sophia Gardens,0,0,2017,43
+ADMathews,Sri Lanka,England,85,116,5,1,73.27586206896551,0,0,0,0,0,0,Headingley,0,0,2019,100
+ADMathews,Sri Lanka,England,1,21,0,0,4.761904761904762,5,0,4,0,0,0,Lord's,0,0,2011,-5
+ADMathews,Sri Lanka,Australia,0,0,0,0,0,59,9,50,0,1,5.555555555555555,Sydney Cricket Ground,0,0,2013,10
+ADMathews,Sri Lanka,India,0,2,0,0,0.0,17,2,16,0,1,8.0,Rangiri Dambulla International Stadium,0,0,2010,0
+ADMathews,Sri Lanka,India,52,45,6,0,115.55555555555554,0,0,0,0,0,0,Kennington Oval,0,0,2017,66
+ADMathews,Sri Lanka,Australia,9,11,1,0,81.81818181818183,0,0,0,0,0,0,Kennington Oval,0,0,2019,10
+ADMathews,Sri Lanka,South Africa,23,22,1,1,104.54545454545455,23,3,32,0,0,10.666666666666666,R Premadasa Stadium,0,3,2013,46
+ADMathews,Sri Lanka,Pakistan,55,61,4,0,90.1639344262295,62,10,38,2,1,3.8,Rangiri Dambulla International Stadium,0,1,2010,139
+ADMathews,Sri Lanka,Australia,0,0,0,0,0,60,10,24,2,1,2.4,Adelaide Oval,0,0,2013,64
+ADMathews,Sri Lanka,Australia,24,31,1,0,77.41935483870968,41,6,43,2,0,7.166666666666667,Bellerive Oval,0,0,2012,75
+ADMathews,Sri Lanka,South Africa,15,14,0,0,107.14285714285714,47,7,43,2,1,6.142857142857143,SuperSport Park,0,2,2009,89
+ADMathews,Sri Lanka,Pakistan,0,0,0,0,0,59,9,41,2,0,4.555555555555555,Rangiri Dambulla International Stadium,0,0,2009,54
+ADMathews,Sri Lanka,Pakistan,3,4,0,0,75.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2011,3
+ADMathews,Sri Lanka,India,6,9,0,0,66.66666666666666,17,2,25,0,0,12.5,R Premadasa Stadium,0,0,2009,-2
+ADMathews,Sri Lanka,Australia,2,5,0,0,40.0,41,6,30,2,0,5.0,Rangiri Dambulla International Stadium,0,0,2016,48
+ADMathews,Sri Lanka,England,30,33,4,0,90.9090909090909,42,7,30,1,1,4.285714285714286,Lord's,0,0,2014,71
+ADMathews,Sri Lanka,Zimbabwe,31,31,0,1,100.0,11,1,13,0,0,13.0,Harare Sports Club,0,0,2008,33
+ADMathews,Sri Lanka,Bangladesh,87,91,8,1,95.6043956043956,0,0,0,0,0,0,R.Premadasa Stadium Khettarama,0,0,2019,105
+ADMathews,Sri Lanka,South Africa,14,20,1,0,70.0,29,4,18,0,1,4.5,Pallekele International Cricket Stadium,0,0,2013,27
+ADMathews,Sri Lanka,Bangladesh,0,0,0,0,0,33,5,40,1,1,8.0,Melbourne Cricket Ground,1,0,2015,45
+ADMathews,Sri Lanka,England,46,35,7,0,131.42857142857142,11,1,13,0,0,13.0,Headingley,0,1,2011,61
+ADMathews,Sri Lanka,Australia,6,6,0,0,100.0,0,0,0,0,0,0,R Premadasa Stadium,0,0,2011,6
+ADMathews,Sri Lanka,West Indies,36,23,1,1,156.52173913043478,37,6,33,0,0,5.5,Sinhalese Sports Club Ground,0,1,2011,49
+ADMathews,Sri Lanka,England,13,15,2,0,86.66666666666667,0,0,0,0,0,0,Sophia Gardens,0,0,2016,15
+ADMathews,Sri Lanka,Zimbabwe,43,32,6,1,134.375,0,0,0,0,0,0,Galle International Stadium,0,0,2017,51
+ADMathews,Sri Lanka,New Zealand,54,48,7,0,112.5,30,5,16,1,0,3.2,Pallekele International Cricket Stadium,0,1,2012,108
+ADMathews,Sri Lanka,England,44,54,3,0,81.48148148148148,0,0,0,0,0,0,Edgbaston,0,0,2016,47
+ADMathews,Sri Lanka,New Zealand,0,0,0,0,0,29,4,36,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,0
+ADMathews,Sri Lanka,South Africa,34,40,1,1,85.0,17,2,15,0,1,7.5,Pallekele International Cricket Stadium,0,0,2014,45
+ADMathews,Sri Lanka,Australia,0,1,0,0,0.0,23,3,10,1,0,3.3333333333333335,Brisbane Cricket Ground Woolloongabba,0,0,2013,23
+ADMathews,Sri Lanka,Pakistan,89,88,9,2,101.13636363636364,54,9,48,2,0,5.333333333333333,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2014,162
+ADMathews,Sri Lanka,New Zealand,17,22,2,0,77.27272727272727,0,0,0,0,0,0,Hagley Oval,0,0,2015,19
+ADMathews,Sri Lanka,India,0,0,0,0,0,48,8,21,1,3,2.625,Rangiri Dambulla International Stadium,0,0,2010,55
+ADMathews,Sri Lanka,South Africa,19,32,1,0,59.375,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2015,16
+ADMathews,Sri Lanka,England,40,80,4,0,50.0,23,3,14,0,0,4.666666666666667,Pallekele International Cricket Stadium,0,0,2014,44
+ADMathews,Sri Lanka,India,10,14,1,0,71.42857142857143,20,3,17,0,0,5.666666666666667,Rajiv Gandhi International Stadium Uppal,1,0,2014,25
+ADMathews,Sri Lanka,Australia,15,18,3,0,83.33333333333334,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,18
+ADMathews,Sri Lanka,Ireland,24,19,1,1,126.3157894736842,24,4,34,1,1,8.5,The Village Malahide,0,2,2016,76
+ADMathews,Sri Lanka,South Africa,15,14,2,0,107.14285714285714,23,3,22,0,0,7.333333333333333,Chevrolet Park,1,0,2012,29
+ADMathews,Sri Lanka,Australia,57,60,1,2,95.0,35,5,18,2,0,3.6,R Premadasa Stadium,0,0,2016,126
+ADMathews,Sri Lanka,New Zealand,2,11,0,0,18.181818181818183,35,5,34,2,0,6.8,New Wanderers Stadium,0,0,2009,46
+ADMathews,Sri Lanka,India,19,37,1,0,51.35135135135135,35,5,20,6,0,4.0,R Premadasa Stadium,0,0,2009,186
+ADMathews,Sri Lanka,England,0,0,0,0,0,35,5,28,0,0,5.6,Kennington Oval,0,0,2013,2
+ADMathews,Sri Lanka,Pakistan,16,13,2,0,123.07692307692308,42,7,23,0,1,3.2857142857142856,Shere Bangla National Stadium,0,0,2014,32
+ADMathews,Sri Lanka,Zimbabwe,24,47,4,0,51.06382978723404,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2017,24
+ADMathews,Sri Lanka,New Zealand,95,124,6,0,76.61290322580645,0,0,0,0,0,0,Bay Oval,0,0,2016,109
+ADMathews,Sri Lanka,India,17,30,1,0,56.666666666666664,31,5,35,0,0,7.0,Adelaide Oval,2,0,2012,38
+ADMathews,Sri Lanka,India,10,25,0,0,40.0,59,9,38,1,1,4.222222222222222,Queen's Park Oval Port of Spain,0,0,2013,41
+ADMathews,Sri Lanka,West Indies,27,34,1,0,79.41176470588235,11,1,11,1,0,11.0,Pallekele International Cricket Stadium,0,0,2015,53
+ADMathews,Sri Lanka,England,73,109,5,0,66.97247706422019,35,5,22,2,0,4.4,Trent Bridge,0,0,2016,138
+ADMathews,Sri Lanka,Pakistan,38,49,2,1,77.55102040816327,35,5,15,1,0,3.0,Sheikh Zayed Stadium,0,0,2013,73
+ADMathews,Sri Lanka,England,62,65,6,0,95.38461538461539,0,0,0,0,0,0,Old Trafford,0,1,2011,84
+ADMathews,Sri Lanka,Australia,67,80,7,0,83.75,41,6,45,0,0,7.5,Bellerive Oval,0,0,2013,82
+ADMathews,Sri Lanka,India,51,94,1,1,54.25531914893617,23,3,11,1,0,3.6666666666666665,Sophia Gardens,0,0,2013,89
+ADMathews,Sri Lanka,Bangladesh,20,26,0,1,76.92307692307693,17,2,21,0,0,10.5,Shere Bangla National Stadium,0,0,2014,18
+ADMathews,Sri Lanka,India,75,68,9,1,110.29411764705883,50,8,44,2,1,5.5,Eden Gardens,0,0,2014,154
+ADMathews,Sri Lanka,Pakistan,8,11,0,0,72.72727272727273,59,9,38,1,2,4.222222222222222,Pallekele International Cricket Stadium,0,1,2015,61
+ADMathews,Sri Lanka,Australia,64,79,4,1,81.0126582278481,54,9,37,2,0,4.111111111111111,Western Australia Cricket Association Ground,0,0,2012,132
+ADMathews,Sri Lanka,Pakistan,70,41,8,2,170.73170731707316,17,2,10,1,0,5.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,1,0,2015,129
+ADMathews,Sri Lanka,New Zealand,0,4,0,0,0.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,-8
+ADMathews,Sri Lanka,England,0,0,0,0,0,29,4,20,1,0,5.0,R Premadasa Stadium,0,1,2011,35
+ADMathews,Sri Lanka,Australia,26,49,2,0,53.06122448979592,17,2,6,1,0,3.0,R Premadasa Stadium,0,0,2011,55
+ADMathews,Sri Lanka,India,37,26,4,0,142.30769230769232,61,10,64,1,1,6.4,Vidarbha Cricket Association Stadium Jamtha,1,0,2009,86
+ADMathews,Sri Lanka,Australia,0,0,0,0,0,23,3,26,1,0,8.666666666666666,Sydney Cricket Ground,0,1,2012,33
+ADMathews,Sri Lanka,England,0,0,0,0,0,37,6,23,1,0,3.8333333333333335,R Premadasa Stadium,0,1,2014,39
+ADMathews,Sri Lanka,England,18,23,2,0,78.26086956521739,36,6,26,1,0,4.333333333333333,Kennington Oval,0,0,2014,49
+ADMathews,Sri Lanka,South Africa,0,0,0,0,0,41,6,31,0,1,5.166666666666667,Pallekele International Cricket Stadium,0,0,2013,10
+ADMathews,Sri Lanka,South Africa,28,30,1,1,93.33333333333333,12,2,13,0,0,6.5,Buffalo Park,0,0,2012,31
+ADMathews,Sri Lanka,India,23,32,3,0,71.875,24,4,34,0,0,8.5,Barabati Stadium,0,0,2014,26
+ADMathews,Sri Lanka,England,39,50,1,2,78.0,17,2,22,0,0,11.0,Trent Bridge,0,0,2011,40
+ADMathews,Sri Lanka,Bangladesh,56,39,6,1,143.5897435897436,47,7,46,0,0,6.571428571428571,Shere Bangla National Stadium,0,0,2014,72
+ADMathews,Sri Lanka,India,0,0,0,0,0,35,5,37,1,0,7.4,Rangiri Dambulla International Stadium,0,0,2010,25
+ADMathews,Sri Lanka,England,42,36,6,0,116.66666666666667,38,6,23,1,0,3.8333333333333335,Edgbaston,0,0,2014,79
+ADMathews,Sri Lanka,Pakistan,10,11,0,0,90.9090909090909,55,9,42,1,0,4.666666666666667,R Premadasa Stadium,0,0,2012,39
+ADMathews,Sri Lanka,India,15,28,2,0,53.57142857142857,42,7,32,2,1,4.571428571428571,Rangiri Dambulla International Stadium,0,0,2010,75
+ADMathews,Sri Lanka,England,37,48,3,0,77.08333333333334,41,6,34,2,0,5.666666666666667,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2014,92
+ADMathews,Sri Lanka,Pakistan,61,105,2,2,58.0952380952381,29,4,11,1,1,2.75,Sheikh Zayed Stadium,0,0,2011,110
+ADMathews,Sri Lanka,Afghanistan,44,81,2,0,54.32098765432099,43,7,44,3,0,6.285714285714286,University Oval,0,1,2015,125
+ADMathews,Sri Lanka,New Zealand,41,36,4,0,113.88888888888889,17,2,19,1,0,9.5,Wankhede Stadium,0,0,2011,68
+ADMathews,Sri Lanka,Bangladesh,74,105,7,1,70.47619047619048,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,99
+ADMathews,Sri Lanka,Australia,77,92,8,1,83.69565217391305,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,95
+ADMathews,Sri Lanka,Pakistan,32,42,2,1,76.19047619047619,0,0,0,0,0,0,Dubai International Cricket Stadium,0,1,2011,44
+ADMathews,Sri Lanka,Australia,5,8,0,0,62.5,23,3,8,0,0,2.6666666666666665,Melbourne Cricket Ground,0,0,2012,9
+ADMathews,Sri Lanka,Pakistan,0,0,0,0,0,41,6,15,1,2,2.5,Rangiri Dambulla International Stadium,0,0,2009,47
+ADMathews,Sri Lanka,Pakistan,80,78,4,2,102.56410256410255,59,9,42,0,1,4.666666666666667,R Premadasa Stadium,0,0,2012,108
+ADMathews,Sri Lanka,Australia,40,73,4,0,54.794520547945204,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2016,40
+ADMathews,Sri Lanka,New Zealand,74,66,9,1,112.12121212121211,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,93
+ADMathews,Sri Lanka,Australia,17,11,2,0,154.54545454545453,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2010,27
+ADMathews,Sri Lanka,India,139,117,6,10,118.80341880341881,41,6,33,2,1,5.5,JSCA International Stadium Complex,0,1,2014,249
+ADMathews,Sri Lanka,Bangladesh,52,58,7,0,89.65517241379311,0,0,0,0,0,0,R.Premadasa Stadium Khettarama,0,0,2019,67
+ADMathews,Sri Lanka,India,71,58,5,1,122.41379310344827,51,8,53,0,0,6.625,R Premadasa Stadium,0,0,2012,86
+ADMathews,Sri Lanka,New Zealand,2,4,0,0,50.0,35,5,20,0,0,4.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,2
+ADMathews,Sri Lanka,England,33,26,1,3,126.92307692307692,17,2,17,0,1,8.5,R Premadasa Stadium,0,0,2014,48
+ADMathews,Sri Lanka,Bangladesh,0,0,0,0,0,53,8,36,2,2,4.5,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2013,70
+ADMathews,Sri Lanka,India,13,16,2,0,81.25,29,4,29,0,0,7.25,Pallekele International Cricket Stadium,0,0,2012,15
+ADMathews,Sri Lanka,New Zealand,9,34,1,0,26.47058823529412,0,0,0,0,0,0,Sophia Gardens,0,0,2013,4
+ADMathews,Sri Lanka,Australia,35,62,1,0,56.451612903225815,17,2,18,0,0,9.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2011,32
+ADMathews,Sri Lanka,England,20,27,1,0,74.07407407407408,11,1,8,0,0,8.0,R Premadasa Stadium,0,0,2014,21
+ADMathews,Sri Lanka,Pakistan,8,10,1,0,80.0,47,7,48,0,0,6.857142857142857,R Premadasa Stadium,0,0,2009,9
+ADMathews,Sri Lanka,India,7,17,0,0,41.17647058823529,60,10,59,1,0,5.9,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2012,28
+ADMathews,Sri Lanka,West Indies,0,0,0,0,0,41,6,35,0,0,5.833333333333333,Sinhalese Sports Club Ground,0,0,2011,2
+ADMathews,Sri Lanka,New Zealand,7,13,0,0,53.84615384615385,42,7,38,1,0,5.428571428571429,Pallekele International Cricket Stadium,0,1,2012,38
+ADMathews,Sri Lanka,Scotland,51,21,1,6,242.85714285714283,0,0,0,0,0,0,Bellerive Oval,0,0,2015,72
+ADMathews,Sri Lanka,India,14,36,1,0,38.88888888888889,35,5,18,1,1,3.6,R Premadasa Stadium,0,0,2012,48
+ADMathews,Sri Lanka,Australia,0,4,0,0,0.0,42,7,35,0,0,5.0,R Premadasa Stadium,0,1,2016,2
+ADMathews,Sri Lanka,Pakistan,55,51,5,1,107.84313725490196,30,5,25,1,1,5.0,Khan Shaheb Osman Ali Stadium,0,1,2014,113
+ADMathews,Sri Lanka,New Zealand,39,47,5,1,82.97872340425532,5,0,2,0,0,0,Seddon Park,1,1,2015,66
+ADMathews,Sri Lanka,Australia,9,19,0,0,47.368421052631575,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2010,11
+ADMathews,Sri Lanka,New Zealand,0,9,0,0,0.0,0,0,0,0,0,0,Sophia Gardens,0,0,2019,-8
+ADMathews,Sri Lanka,Pakistan,0,0,0,0,0,59,9,48,0,0,5.333333333333333,Pallekele International Cricket Stadium,0,0,2012,2
+ADMathews,Sri Lanka,New Zealand,0,1,0,0,0.0,5,0,4,0,0,0,Rangiri Dambulla International Stadium,0,0,2013,-8
+ADMathews,Sri Lanka,India,113,129,10,2,87.59689922480621,0,0,0,0,0,0,Headingley,0,1,2019,151
+ADMathews,Sri Lanka,New Zealand,15,33,2,0,45.45454545454545,11,1,17,0,0,17.0,Hagley Oval,0,1,2015,19
+ADMathews,Sri Lanka,West Indies,0,0,0,0,0,23,3,20,0,0,6.666666666666667,Sinhalese Sports Club Ground,0,0,2011,0
+ADMathews,Sri Lanka,India,44,33,4,1,133.33333333333331,47,7,24,1,2,3.4285714285714284,Sabina Park Kingston,0,1,2013,105
+ADMathews,Sri Lanka,England,52,77,6,0,67.53246753246754,48,8,26,0,2,3.25,New Wanderers Stadium,0,0,2009,86
+ADMathews,Sri Lanka,India,1,4,0,0,25.0,63,10,48,1,0,4.8,Rangiri Dambulla International Stadium,0,1,2010,32
+ADMathews,Sri Lanka,Australia,12,20,1,0,60.0,17,2,21,1,0,10.5,Kennington Oval,0,0,2013,32
+ADMathews,Sri Lanka,Australia,35,32,2,1,109.375,43,7,60,1,0,8.571428571428571,Sydney Cricket Ground,1,0,2015,76
+ADMathews,Sri Lanka,Pakistan,43,50,3,0,86.0,30,5,22,0,0,4.4,Rangiri Dambulla International Stadium,0,1,2009,58

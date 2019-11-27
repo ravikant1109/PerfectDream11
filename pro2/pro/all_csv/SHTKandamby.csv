@@ -1,3 +1,29 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SHTKandamby,Sri Lanka,Pakistan,2,3,0,0,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0
-SHTKandamby,Sri Lanka,Pakistan,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Maple Leaf North-West Ground,8
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SHTKandamby,Sri Lanka,Pakistan,10,15,0,0,66.66666666666666,0,0,0,0,0,0,Maple Leaf North-West Ground,0,1,2008,16
+SHTKandamby,Sri Lanka,Pakistan,2,3,0,0,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,0
+SHTKandamby,Sri Lanka,Bangladesh,0,0,0,0,0,29,4,21,0,0,5.25,Shere Bangla National Stadium,0,0,2010,2
+SHTKandamby,Sri Lanka,India,17,32,1,0,53.125,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,1,2009,22
+SHTKandamby,Sri Lanka,Pakistan,42,72,3,0,58.333333333333336,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,41
+SHTKandamby,Sri Lanka,India,10,13,2,0,76.92307692307693,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,12
+SHTKandamby,Sri Lanka,England,11,13,1,0,84.61538461538461,5,0,9,0,0,0,Lord's,0,0,2011,12
+SHTKandamby,Sri Lanka,India,22,29,3,0,75.86206896551724,0,0,0,0,0,0,Barabati Stadium,0,0,2009,25
+SHTKandamby,Sri Lanka,India,1,12,0,0,8.333333333333332,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2010,-5
+SHTKandamby,Sri Lanka,India,31,46,2,0,67.3913043478261,41,6,37,2,0,6.166666666666667,Rangiri Dambulla International Stadium,0,0,2010,81
+SHTKandamby,Sri Lanka,South Africa,6,5,1,0,120.0,0,0,0,0,0,0,SuperSport Park,0,0,2009,7
+SHTKandamby,Sri Lanka,Pakistan,32,37,3,0,86.48648648648648,0,0,0,0,0,0,Rangiri Dambulla International Stadium,0,0,2009,35
+SHTKandamby,Sri Lanka,India,10,15,0,0,66.66666666666666,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,8
+SHTKandamby,Sri Lanka,Zimbabwe,40,101,0,0,39.603960396039604,5,0,3,0,0,0,Harare Sports Club,0,0,2008,34
+SHTKandamby,Sri Lanka,India,93,133,8,0,69.92481203007519,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,107
+SHTKandamby,Sri Lanka,India,8,11,1,0,72.72727272727273,24,4,23,0,1,5.75,Shere Bangla National Stadium,0,1,2010,27
+SHTKandamby,Sri Lanka,India,12,22,1,0,54.54545454545454,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2009,9
+SHTKandamby,Sri Lanka,New Zealand,11,20,1,0,55.00000000000001,5,0,2,0,0,0,New Wanderers Stadium,0,0,2009,8
+SHTKandamby,Sri Lanka,India,91,73,11,0,124.65753424657535,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,110
+SHTKandamby,Sri Lanka,India,27,32,2,0,84.375,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2009,29
+SHTKandamby,Sri Lanka,India,26,27,3,0,96.29629629629629,0,0,0,0,0,0,R Premadasa Stadium,0,0,2009,29
+SHTKandamby,Sri Lanka,England,6,15,1,0,40.0,0,0,0,0,0,0,Trent Bridge,0,0,2011,1
+SHTKandamby,Sri Lanka,India,7,14,0,0,50.0,17,2,14,0,0,7.0,Rangiri Dambulla International Stadium,0,0,2010,3
+SHTKandamby,Sri Lanka,England,0,2,0,0,0.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,0,2014,-8
+SHTKandamby,Sri Lanka,India,23,15,4,0,153.33333333333334,0,0,0,0,0,0,Eden Gardens,0,0,2009,27
+SHTKandamby,Sri Lanka,Pakistan,32,34,2,0,94.11764705882352,0,0,0,0,0,0,Gaddafi Stadium,0,1,2009,42
+SHTKandamby,Sri Lanka,Pakistan,15,27,1,0,55.55555555555556,11,1,16,0,0,16.0,R Premadasa Stadium,0,0,2009,12
+SHTKandamby,Sri Lanka,England,53,87,5,0,60.91954022988506,0,0,0,0,0,0,New Wanderers Stadium,0,1,2009,72

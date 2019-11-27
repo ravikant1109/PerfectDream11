@@ -1,23 +1,91 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RRSarwan,West Indies,Sri Lanka,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Kennington Oval,-1
-RRSarwan,West Indies,Sri Lanka,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Kennington Oval,-1
-RRSarwan,West Indies,Sri Lanka,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Kennington Oval,-1
-RRSarwan,West Indies,Bangladesh,5,7,0,0,71.42857142857143,11,1,10,2,0,10.0,New Wanderers Stadium,55
-RRSarwan,West Indies,Sri Lanka,28,26,0,0,107.6923076923077,0,0,0,0,0,0,Trent Bridge,28
-RRSarwan,West Indies,New Zealand,53,37,3,3,143.24324324324326,0,0,0,0,0,0,Seddon Park,70
-RRSarwan,West Indies,India,0,1,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-8
-RRSarwan,West Indies,South Africa,13,21,1,0,61.904761904761905,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,12
-RRSarwan,West Indies,England,59,49,4,2,120.40816326530613,0,0,0,0,0,0,Queen's Park Oval Port of Spain,75
-RRSarwan,West Indies,Ireland,24,26,1,0,92.3076923076923,0,0,0,0,0,0,Providence Stadium,25
-RRSarwan,West Indies,Sri Lanka,28,35,2,0,80.0,0,0,0,0,0,0,Kensington Oval Bridgetown,30
-RRSarwan,West Indies,South Africa,8,11,0,0,72.72727272727273,0,0,0,0,0,0,Kennington Oval,8
-RRSarwan,West Indies,England,19,11,3,0,172.72727272727272,0,0,0,0,0,0,Kennington Oval,22
-RRSarwan,West Indies,South Africa,6,6,1,0,100.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,7
-RRSarwan,West Indies,Australia,8,4,1,0,200.0,0,0,0,0,0,0,Kennington Oval,9
-RRSarwan,West Indies,Australia,26,31,2,0,83.87096774193549,0,0,0,0,0,0,Beausejour Stadium Gros Islet,28
-RRSarwan,West Indies,New Zealand,4,12,0,0,33.33333333333333,0,0,0,0,0,0,Eden Park,-2
-RRSarwan,West Indies,South Africa,12,8,0,1,150.0,0,0,0,0,0,0,New Wanderers Stadium,14
-RRSarwan,West Indies,Sri Lanka,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Kennington Oval,-1
-RRSarwan,West Indies,Bangladesh,5,7,0,0,71.42857142857143,11,1,10,2,0,10.0,New Wanderers Stadium,55
-RRSarwan,West Indies,Sri Lanka,28,26,0,0,107.6923076923077,0,0,0,0,0,0,Trent Bridge,28
-RRSarwan,West Indies,New Zealand,53,37,3,3,143.24324324324326,0,0,0,0,0,0,Seddon Park,70
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RRSarwan,West Indies,Sri Lanka,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Kennington Oval,0,0,2009,-1
+RRSarwan,West Indies,Bangladesh,5,7,0,0,71.42857142857143,11,1,10,2,0,10.0,New Wanderers Stadium,0,1,2007,63
+RRSarwan,West Indies,England,59,49,4,2,120.40816326530613,0,0,0,0,0,0,Queen's Park Oval Port of Spain,2,0,2009,99
+RRSarwan,West Indies,New Zealand,53,37,3,3,143.24324324324326,0,0,0,0,0,0,Seddon Park,0,1,2008,78
+RRSarwan,West Indies,India,0,1,0,0,0.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,-8
+RRSarwan,West Indies,New Zealand,4,12,0,0,33.33333333333333,0,0,0,0,0,0,Eden Park,0,0,2008,-2
+RRSarwan,West Indies,Australia,26,31,2,0,83.87096774193549,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,28
+RRSarwan,West Indies,Sri Lanka,28,26,0,0,107.6923076923077,0,0,0,0,0,0,Trent Bridge,0,0,2009,28
+RRSarwan,West Indies,Ireland,24,26,1,0,92.3076923076923,0,0,0,0,0,0,Providence Stadium,0,0,2010,25
+RRSarwan,West Indies,South Africa,13,21,1,0,61.904761904761905,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2010,20
+RRSarwan,West Indies,Sri Lanka,28,35,2,0,80.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,30
+RRSarwan,West Indies,South Africa,6,6,1,0,100.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2010,15
+RRSarwan,West Indies,England,19,11,3,0,172.72727272727272,0,0,0,0,0,0,Kennington Oval,0,0,2009,22
+RRSarwan,West Indies,South Africa,12,8,0,1,150.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,14
+RRSarwan,West Indies,South Africa,8,11,0,0,72.72727272727273,0,0,0,0,0,0,Kennington Oval,0,1,2009,16
+RRSarwan,West Indies,Australia,8,4,1,0,200.0,0,0,0,0,0,0,Kennington Oval,0,1,2009,17
+RRSarwan,West Indies,Australia,63,81,5,1,77.77777777777779,0,0,0,0,0,0,Warner Park Basseterre,0,1,2008,86
+RRSarwan,West Indies,India,98,140,7,1,70.0,0,0,0,0,0,0,Sabina Park Kingston,0,0,2006,115
+RRSarwan,West Indies,England,3,8,0,0,37.5,29,4,21,1,1,5.25,Kensington Oval Bridgetown,0,0,2007,32
+RRSarwan,West Indies,Australia,36,66,5,0,54.54545454545454,23,3,22,2,0,7.333333333333333,Kinrara Academy Oval,0,0,2006,87
+RRSarwan,West Indies,New Zealand,38,58,3,0,65.51724137931035,0,0,0,0,0,0,Queenstown Events Centre,0,0,2008,39
+RRSarwan,West Indies,India,1,6,0,0,16.666666666666664,0,0,0,0,0,0,Kennington Oval,0,0,2013,-5
+RRSarwan,West Indies,New Zealand,65,79,7,0,82.27848101265823,0,0,0,0,0,0,Jade Stadium,0,0,2006,80
+RRSarwan,West Indies,England,31,68,3,0,45.588235294117645,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,28
+RRSarwan,West Indies,England,0,2,0,0,0.0,0,0,0,0,0,0,County Ground,0,0,2009,-8
+RRSarwan,West Indies,India,53,84,2,0,63.095238095238095,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,61
+RRSarwan,West Indies,Pakistan,45,69,4,0,65.21739130434783,11,1,23,0,0,23.0,Sheikh Zayed Stadium,0,0,2008,47
+RRSarwan,West Indies,Australia,7,11,1,0,63.63636363636363,53,8,57,3,1,7.125,Warner Park Basseterre,0,0,2008,89
+RRSarwan,West Indies,India,52,104,1,0,50.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2006,57
+RRSarwan,West Indies,Australia,7,10,1,0,70.0,20,3,16,0,0,5.333333333333333,Brabourne Stadium,0,0,2006,10
+RRSarwan,West Indies,Australia,31,45,2,0,68.88888888888889,0,0,0,0,0,0,National Cricket Stadium St George's,0,1,2008,39
+RRSarwan,West Indies,India,62,61,5,1,101.63934426229508,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2009,77
+RRSarwan,West Indies,Zimbabwe,19,44,2,0,43.18181818181818,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2013,15
+RRSarwan,West Indies,Ireland,36,73,2,1,49.31506849315068,0,0,0,0,0,0,Sabina Park Kingston,0,1,2007,42
+RRSarwan,West Indies,Zimbabwe,91,121,5,0,75.20661157024794,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2006,104
+RRSarwan,West Indies,Zimbabwe,12,19,2,0,63.1578947368421,0,0,0,0,0,0,Sabina Park Kingston,0,0,2007,12
+RRSarwan,West Indies,Sri Lanka,51,67,3,1,76.11940298507463,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,0,2011,64
+RRSarwan,West Indies,India,6,9,1,0,66.66666666666666,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,2,2006,21
+RRSarwan,West Indies,India,115,122,10,2,94.26229508196722,5,0,1,1,0,0,Warner Park Basseterre,0,0,2006,170
+RRSarwan,West Indies,South Africa,92,75,10,1,122.66666666666666,23,3,30,0,0,10.0,National Cricket Stadium St George's,0,0,2007,110
+RRSarwan,West Indies,England,23,30,3,0,76.66666666666667,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2009,26
+RRSarwan,West Indies,South Africa,6,6,1,0,100.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2010,7
+RRSarwan,West Indies,India,56,97,4,0,57.73195876288659,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2011,64
+RRSarwan,West Indies,India,15,17,1,0,88.23529411764706,0,0,0,0,0,0,Sabina Park Kingston,0,0,2009,16
+RRSarwan,West Indies,Australia,25,31,5,0,80.64516129032258,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,30
+RRSarwan,West Indies,Ireland,10,19,1,0,52.63157894736842,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,0,2011,7
+RRSarwan,West Indies,Pakistan,28,59,1,0,47.45762711864407,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2011,23
+RRSarwan,West Indies,Pakistan,49,65,9,0,75.38461538461539,0,0,0,0,0,0,Sabina Park Kingston,0,0,2007,58
+RRSarwan,West Indies,England,10,14,2,0,71.42857142857143,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2009,20
+RRSarwan,West Indies,India,1,12,0,0,8.333333333333332,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2011,-5
+RRSarwan,West Indies,New Zealand,42,40,2,1,105.0,11,1,20,0,0,20.0,McLean Park,0,1,2006,54
+RRSarwan,West Indies,Australia,0,3,0,0,0.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2013,-8
+RRSarwan,West Indies,Australia,0,2,0,0,0.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2013,-8
+RRSarwan,West Indies,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Kennington Oval,0,0,2013,-3
+RRSarwan,West Indies,England,29,19,3,1,152.63157894736844,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,0,2006,34
+RRSarwan,West Indies,Zimbabwe,55,61,3,2,90.1639344262295,0,0,0,0,0,0,Antigua Recreation Ground St John's,0,0,2006,70
+RRSarwan,West Indies,Bangladesh,91,91,5,2,100.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2007,108
+RRSarwan,West Indies,India,39,71,3,0,54.929577464788736,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2011,38
+RRSarwan,West Indies,Australia,21,32,3,0,65.625,6,1,5,0,0,5.0,Brabourne Stadium,0,1,2006,30
+RRSarwan,West Indies,Sri Lanka,44,68,1,1,64.70588235294117,18,3,17,1,0,5.666666666666667,Providence Stadium,0,0,2007,72
+RRSarwan,West Indies,England,74,90,4,2,82.22222222222221,0,0,0,0,0,0,Providence Stadium,0,0,2009,90
+RRSarwan,West Indies,India,75,94,5,1,79.7872340425532,0,0,0,0,0,0,Sabina Park Kingston,0,1,2011,98
+RRSarwan,West Indies,England,57,78,5,0,73.07692307692307,0,0,0,0,0,0,Providence Stadium,0,0,2009,70
+RRSarwan,West Indies,Sri Lanka,1,5,0,0,20.0,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,1,2008,3
+RRSarwan,West Indies,Zimbabwe,54,63,5,0,85.71428571428571,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2006,67
+RRSarwan,West Indies,New Zealand,5,15,1,0,33.33333333333333,0,0,0,0,0,0,Westpac Stadium,0,1,2009,8
+RRSarwan,West Indies,Sri Lanka,13,27,1,0,48.148148148148145,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2008,8
+RRSarwan,West Indies,Sri Lanka,0,3,0,0,0.0,0,0,0,0,0,0,Brabourne Stadium,0,0,2006,-8
+RRSarwan,West Indies,Netherlands,49,45,7,1,108.88888888888889,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2011,58
+RRSarwan,West Indies,Zimbabwe,7,4,1,0,175.0,0,0,0,0,0,0,National Cricket Stadium St George's,0,0,2013,8
+RRSarwan,West Indies,Pakistan,55,64,5,0,85.9375,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2008,68
+RRSarwan,West Indies,India,37,52,7,0,71.15384615384616,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,44
+RRSarwan,West Indies,Sri Lanka,75,101,4,1,74.25742574257426,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,0,2011,89
+RRSarwan,West Indies,India,28,39,2,1,71.7948717948718,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2011,32
+RRSarwan,West Indies,England,6,16,1,0,37.5,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2009,1
+RRSarwan,West Indies,Zimbabwe,14,29,1,0,48.275862068965516,0,0,0,0,0,0,Antigua Recreation Ground St John's,0,1,2006,17
+RRSarwan,West Indies,South Africa,38,60,1,0,63.33333333333333,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,0,1,2010,45
+RRSarwan,West Indies,England,9,5,1,0,180.0,0,0,0,0,0,0,Edgbaston,0,0,2009,10
+RRSarwan,West Indies,Australia,12,12,2,0,100.0,0,0,0,0,0,0,Manuka Oval,0,0,2013,14
+RRSarwan,West Indies,Australia,29,58,1,0,50.0,0,0,0,0,0,0,Sir Vivian Richards Stadium North Sound,1,0,2007,38
+RRSarwan,West Indies,India,56,91,3,0,61.53846153846154,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2011,65
+RRSarwan,West Indies,South Africa,2,10,0,0,20.0,0,0,0,0,0,0,Feroz Shah Kotla,0,0,2011,-4
+RRSarwan,West Indies,Sri Lanka,21,48,1,0,43.75,0,0,0,0,0,0,Sinhalese Sports Club Ground,0,0,2011,16
+RRSarwan,West Indies,India,2,12,0,0,16.666666666666664,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2006,-4
+RRSarwan,West Indies,Australia,2,11,0,0,18.181818181818183,30,5,34,1,0,6.8,Arnos Vale Ground Kingstown,0,0,2008,21
+RRSarwan,West Indies,Sri Lanka,35,58,3,0,60.3448275862069,0,0,0,0,0,0,Queen's Park Oval Port of Spain,0,0,2008,36
+RRSarwan,West Indies,India,12,23,0,0,52.17391304347826,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2009,8
+RRSarwan,West Indies,New Zealand,19,28,2,0,67.85714285714286,5,0,5,0,0,0,Sir Vivian Richards Stadium North Sound,0,0,2007,19
+RRSarwan,West Indies,India,45,45,1,3,100.0,0,0,0,0,0,0,Sabina Park Kingston,0,0,2009,52
+RRSarwan,West Indies,New Zealand,14,22,2,0,63.63636363636363,0,0,0,0,0,0,Queenstown Events Centre,0,0,2006,14

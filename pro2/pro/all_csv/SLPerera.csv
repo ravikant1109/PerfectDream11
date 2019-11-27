@@ -1,3 +1,3 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SLPerera,Ghana,Namibia,7,20,0,0,35.0,0,0,0,0,0,0,Kyambogo Cricket Oval,1
-SLPerera,Ghana,Nigeria,3,4,0,0,75.0,0,0,0,0,0,0,Kyambogo Cricket Oval,3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SLPerera,Ghana,Nigeria,3,4,0,0,75.0,0,0,0,0,0,0,Kyambogo Cricket Oval,0,1,2019,11
+SLPerera,Ghana,Namibia,7,20,0,0,35.0,0,0,0,0,0,0,Kyambogo Cricket Oval,0,0,2019,1

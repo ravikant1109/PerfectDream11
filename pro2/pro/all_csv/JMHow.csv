@@ -1,10 +1,35 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JMHow,New Zealand,England,31,25,3,0,124.0,0,0,0,0,0,0,Jade Stadium,34
-JMHow,New Zealand,England,31,25,3,0,124.0,0,0,0,0,0,0,Jade Stadium,34
-JMHow,New Zealand,England,31,25,3,0,124.0,0,0,0,0,0,0,Jade Stadium,34
-JMHow,New Zealand,Australia,4,19,0,0,21.052631578947366,0,0,0,0,0,0,Western Australia Cricket Association Ground,-2
-JMHow,New Zealand,England,1,5,0,0,20.0,0,0,0,0,0,0,Old Trafford,-5
-JMHow,New Zealand,England,6,8,1,0,75.0,0,0,0,0,0,0,Eden Park,7
-JMHow,New Zealand,South Africa,14,11,1,1,127.27272727272727,0,0,0,0,0,0,New Wanderers Stadium,17
-JMHow,New Zealand,England,31,25,3,0,124.0,0,0,0,0,0,0,Jade Stadium,34
-JMHow,New Zealand,Australia,4,19,0,0,21.052631578947366,0,0,0,0,0,0,Western Australia Cricket Association Ground,-2
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JMHow,New Zealand,England,1,5,0,0,20.0,0,0,0,0,0,0,Old Trafford,0,0,2008,-5
+JMHow,New Zealand,England,31,25,3,0,124.0,0,0,0,0,0,0,Jade Stadium,0,1,2008,42
+JMHow,New Zealand,England,6,8,1,0,75.0,0,0,0,0,0,0,Eden Park,0,0,2008,7
+JMHow,New Zealand,Australia,4,19,0,0,21.052631578947366,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2007,-2
+JMHow,New Zealand,South Africa,14,11,1,1,127.27272727272727,0,0,0,0,0,0,New Wanderers Stadium,0,0,2007,17
+JMHow,New Zealand,India,9,15,1,0,60.0,0,0,0,0,0,0,Nehru Stadium,0,4,2010,40
+JMHow,New Zealand,India,5,13,0,0,38.46153846153847,0,0,0,0,0,0,Sawai Mansingh Stadium,0,0,2010,-1
+JMHow,New Zealand,Bangladesh,7,10,0,0,70.0,0,0,0,0,0,0,Queenstown Events Centre,0,0,2007,7
+JMHow,New Zealand,England,24,43,3,0,55.81395348837209,0,0,0,0,0,0,AMI Stadium,0,1,2008,31
+JMHow,New Zealand,England,10,20,1,0,50.0,0,0,0,0,0,0,Eden Park,0,0,2008,7
+JMHow,New Zealand,Pakistan,4,29,0,0,13.793103448275861,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,-2
+JMHow,New Zealand,Sri Lanka,12,23,2,0,52.17391304347826,0,0,0,0,0,0,Jade Stadium,0,0,2006,10
+JMHow,New Zealand,England,22,28,1,1,78.57142857142857,0,0,0,0,0,0,Lord's,0,0,2008,25
+JMHow,New Zealand,Pakistan,12,39,0,0,30.76923076923077,0,0,0,0,0,0,Seddon Park,0,1,2011,14
+JMHow,New Zealand,South Africa,76,108,11,0,70.37037037037037,0,0,0,0,0,0,St George's Park,0,0,2007,95
+JMHow,New Zealand,South Africa,15,34,3,0,44.11764705882353,0,0,0,0,0,0,Newlands,0,0,2007,12
+JMHow,New Zealand,Australia,2,15,0,0,13.333333333333334,0,0,0,0,0,0,Bellerive Oval,0,1,2007,4
+JMHow,New Zealand,Bangladesh,74,78,12,0,94.87179487179486,0,0,0,0,0,0,McLean Park,0,0,2007,94
+JMHow,New Zealand,Bangladesh,88,120,5,1,73.33333333333333,0,0,0,0,0,0,Eden Park,1,1,2007,123
+JMHow,New Zealand,England,28,41,4,0,68.29268292682927,0,0,0,0,0,0,Westpac Stadium,2,0,2008,54
+JMHow,New Zealand,Australia,22,47,1,0,46.808510638297875,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,0,2011,17
+JMHow,New Zealand,Australia,20,60,2,0,33.33333333333333,0,0,0,0,0,0,Adelaide Oval,0,0,2007,16
+JMHow,New Zealand,England,139,118,10,3,117.79661016949152,0,0,0,0,0,0,McLean Park,0,0,2008,171
+JMHow,New Zealand,Pakistan,24,25,2,1,96.0,0,0,0,0,0,0,AMI Stadium,0,0,2011,28
+JMHow,New Zealand,Pakistan,13,30,2,0,43.333333333333336,0,0,0,0,0,0,McLean Park,0,0,2011,9
+JMHow,New Zealand,England,16,20,3,0,80.0,0,0,0,0,0,0,Edgbaston,0,0,2008,19
+JMHow,New Zealand,India,23,44,4,0,52.27272727272727,0,0,0,0,0,0,MA Chidambaram Stadium Chepauk,0,0,2010,23
+JMHow,New Zealand,West Indies,0,7,0,0,0.0,0,0,0,0,0,0,Westpac Stadium,0,3,2009,16
+JMHow,New Zealand,Sri Lanka,5,5,1,0,100.0,0,0,0,0,0,0,Westpac Stadium,0,1,2006,14
+JMHow,New Zealand,England,10,34,1,0,29.411764705882355,0,0,0,0,0,0,County Ground,0,1,2008,13
+JMHow,New Zealand,England,37,62,4,0,59.67741935483871,0,0,0,0,0,0,Kennington Oval,0,2,2008,53
+JMHow,New Zealand,South Africa,90,126,11,0,71.42857142857143,0,0,0,0,0,0,Kingsmead,0,0,2007,109
+JMHow,New Zealand,England,20,46,1,0,43.47826086956522,0,0,0,0,0,0,Riverside Ground,0,1,2008,23
+JMHow,New Zealand,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Queenstown Events Centre,0,0,2006,-8

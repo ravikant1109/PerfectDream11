@@ -1,12 +1,28 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-DBishoo,West Indies,India,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Queen's Park Oval Port of Spain,21
-DBishoo,West Indies,Sri Lanka,6,5,1,0,120.0,5,0,11,0,0,0,Pallekele International Cricket Stadium,7
-DBishoo,West Indies,India,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Queen's Park Oval Port of Spain,21
-DBishoo,West Indies,Sri Lanka,6,5,1,0,120.0,5,0,11,0,0,0,Pallekele International Cricket Stadium,7
-DBishoo,West Indies,India,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Queen's Park Oval Port of Spain,21
-DBishoo,West Indies,Sri Lanka,6,5,1,0,120.0,5,0,11,0,0,0,Pallekele International Cricket Stadium,7
-DBishoo,West Indies,England,0,0,0,0,0,21,3,22,1,0,7.333333333333333,Kennington Oval,25
-DBishoo,West Indies,England,0,2,0,0,0.0,25,4,28,0,0,7.0,Kennington Oval,-8
-DBishoo,West Indies,Pakistan,0,0,0,0,0,24,4,17,4,0,4.25,Beausejour Stadium Gros Islet,112
-DBishoo,West Indies,India,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Queen's Park Oval Port of Spain,21
-DBishoo,West Indies,Sri Lanka,6,5,1,0,120.0,5,0,11,0,0,0,Pallekele International Cricket Stadium,7
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+DBishoo,West Indies,Pakistan,0,0,0,0,0,24,4,17,4,0,4.25,Beausejour Stadium Gros Islet,0,0,2011,112
+DBishoo,West Indies,England,0,2,0,0,0.0,25,4,28,0,0,7.0,Kennington Oval,0,0,2011,-8
+DBishoo,West Indies,Sri Lanka,6,5,1,0,120.0,5,0,11,0,0,0,Pallekele International Cricket Stadium,0,0,2015,7
+DBishoo,West Indies,India,0,0,0,0,0,23,3,31,1,0,10.333333333333334,Queen's Park Oval Port of Spain,0,0,2011,21
+DBishoo,West Indies,England,0,0,0,0,0,21,3,22,1,0,7.333333333333333,Kennington Oval,1,0,2011,37
+DBishoo,West Indies,Pakistan,0,1,0,0,0.0,53,8,44,3,0,5.5,Kensington Oval Bridgetown,0,1,2011,77
+DBishoo,West Indies,England,0,1,0,0,0.0,59,9,34,3,1,3.7777777777777777,MA Chidambaram Stadium Chepauk,0,0,2011,81
+DBishoo,West Indies,Pakistan,0,0,0,0,0,41,6,26,1,1,4.333333333333333,Providence Stadium,0,0,2011,37
+DBishoo,West Indies,India,15,30,0,0,50.0,59,9,31,1,1,3.4444444444444446,Sir Vivian Richards Stadium North Sound,0,0,2017,50
+DBishoo,West Indies,Bangladesh,0,0,0,0,0,48,8,45,1,0,5.625,Shere Bangla National Stadium,0,0,2011,27
+DBishoo,West Indies,Pakistan,16,18,2,0,88.88888888888889,59,9,40,1,0,4.444444444444445,Providence Stadium,0,0,2017,47
+DBishoo,West Indies,India,0,5,0,0,0.0,59,9,37,1,1,4.111111111111111,Queen's Park Oval Port of Spain,0,0,2011,29
+DBishoo,West Indies,Pakistan,0,0,0,0,0,59,9,37,3,0,4.111111111111111,Kensington Oval Bridgetown,0,0,2011,79
+DBishoo,West Indies,England,10,27,1,0,37.03703703703704,30,5,44,0,0,8.8,Kensington Oval Bridgetown,1,1,2017,25
+DBishoo,West Indies,Zimbabwe,0,0,0,0,0,60,10,30,3,1,3.0,Queens Sports Club,0,0,2016,89
+DBishoo,West Indies,India,6,11,1,0,54.54545454545454,59,9,48,1,0,5.333333333333333,MA Chidambaram Stadium Chepauk,0,0,2011,30
+DBishoo,West Indies,Pakistan,0,0,0,0,0,59,9,48,2,0,5.333333333333333,Beausejour Stadium Gros Islet,0,0,2011,52
+DBishoo,West Indies,India,6,15,1,0,40.0,47,7,42,1,0,6.0,Sabina Park Kingston,0,0,2017,26
+DBishoo,West Indies,England,12,6,2,0,200.0,40,6,50,1,0,8.333333333333334,Sir Vivian Richards Stadium North Sound,0,0,2017,39
+DBishoo,West Indies,Pakistan,0,0,0,0,0,60,10,42,0,1,4.2,Providence Stadium,0,0,2017,12
+DBishoo,West Indies,India,4,11,0,0,36.36363636363637,61,10,38,1,0,3.8,Sir Vivian Richards Stadium North Sound,0,1,2017,37
+DBishoo,West Indies,Pakistan,4,4,1,0,100.0,61,10,36,2,1,3.6,Beausejour Stadium Gros Islet,0,0,2011,69
+DBishoo,West Indies,India,0,0,0,0,0,60,10,41,2,1,4.1,Sir Vivian Richards Stadium North Sound,0,0,2011,62
+DBishoo,West Indies,India,0,0,0,0,0,54,9,60,0,0,6.666666666666667,Queen's Park Oval Port of Spain,0,0,2017,0
+DBishoo,West Indies,India,0,2,0,0,0.0,43,7,37,1,0,5.285714285714286,Queen's Park Oval Port of Spain,0,0,2011,19
+DBishoo,West Indies,India,0,0,0,0,0,59,9,39,1,0,4.333333333333333,Queen's Park Oval Port of Spain,0,0,2017,29
+DBishoo,West Indies,Bangladesh,0,0,0,0,0,29,4,21,0,0,5.25,Shere Bangla National Stadium,0,1,2011,10

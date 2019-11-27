@@ -1,32 +1,83 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-STFinn,England,West Indies,0,0,0,0,0,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,25
-STFinn,England,India,0,0,0,0,0,23,3,30,1,0,10.0,Edgbaston,23
-STFinn,England,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Riverside Ground,25
-STFinn,England,West Indies,0,0,0,0,0,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,25
-STFinn,England,India,0,0,0,0,0,23,3,30,1,0,10.0,Edgbaston,23
-STFinn,England,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Riverside Ground,25
-STFinn,England,West Indies,0,0,0,0,0,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,25
-STFinn,England,India,0,0,0,0,0,23,3,30,1,0,10.0,Edgbaston,23
-STFinn,England,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Riverside Ground,25
-STFinn,England,South Africa,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Riverside Ground,25
-STFinn,England,New Zealand,5,6,0,0,83.33333333333334,23,3,34,0,0,11.333333333333334,Seddon Park,-1
-STFinn,England,Australia,0,0,0,0,0,23,3,40,1,0,13.333333333333334,Sophia Gardens,19
-STFinn,England,West Indies,0,0,0,0,0,24,4,22,2,0,5.5,Trent Bridge,52
-STFinn,England,India,8,10,1,0,80.0,26,4,34,2,0,8.5,R Premadasa Stadium,59
-STFinn,England,New Zealand,0,0,0,0,0,24,4,23,3,0,5.75,Pallekele International Cricket Stadium,77
-STFinn,England,West Indies,0,0,0,0,0,11,1,16,0,0,16.0,Kennington Oval,0
-STFinn,England,Sri Lanka,1,3,0,0,33.33333333333333,24,4,25,1,0,6.25,Pallekele International Cricket Stadium,20
-STFinn,England,Pakistan,0,0,0,0,0,24,4,48,1,0,12.0,Dubai International Cricket Stadium,19
-STFinn,England,New Zealand,0,0,0,0,0,23,3,29,0,0,9.666666666666666,Old Trafford,-2
-STFinn,England,Pakistan,0,0,0,0,0,24,4,37,0,0,9.25,Sheikh Zayed Stadium,-2
-STFinn,England,Afghanistan,0,0,0,0,0,27,4,25,1,0,6.25,R Premadasa Stadium,25
-STFinn,England,India,0,0,0,0,0,23,3,22,3,0,7.333333333333333,Eden Gardens,75
-STFinn,England,South Africa,0,0,0,0,0,11,1,22,2,0,22.0,Old Trafford,50
-STFinn,England,New Zealand,0,0,0,0,0,24,4,39,3,0,9.75,Eden Park,73
-STFinn,England,New Zealand,0,0,0,0,0,23,3,19,0,0,6.333333333333333,Westpac Stadium,0
-STFinn,England,Australia,0,0,0,0,0,24,4,47,1,0,11.75,The Rose Bowl,19
-STFinn,England,Pakistan,0,0,0,0,0,23,3,30,3,0,10.0,Dubai International Cricket Stadium,73
-STFinn,England,West Indies,0,0,0,0,0,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,25
-STFinn,England,India,0,0,0,0,0,23,3,30,1,0,10.0,Edgbaston,23
-STFinn,England,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Riverside Ground,25
-STFinn,England,South Africa,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Riverside Ground,25
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+STFinn,England,India,8,10,1,0,80.0,26,4,34,2,0,8.5,R Premadasa Stadium,0,0,2012,59
+STFinn,England,New Zealand,0,0,0,0,0,24,4,23,3,0,5.75,Pallekele International Cricket Stadium,0,0,2012,77
+STFinn,England,India,0,0,0,0,0,23,3,22,3,0,7.333333333333333,Eden Gardens,0,0,2011,75
+STFinn,England,West Indies,0,0,0,0,0,23,3,27,1,0,9.0,Pallekele International Cricket Stadium,0,1,2012,33
+STFinn,England,South Africa,0,0,0,0,0,23,3,22,1,0,7.333333333333333,Riverside Ground,0,0,2012,25
+STFinn,England,Pakistan,0,0,0,0,0,24,4,48,1,0,12.0,Dubai International Cricket Stadium,0,0,2012,19
+STFinn,England,West Indies,0,0,0,0,0,24,4,22,2,0,5.5,Trent Bridge,0,0,2012,52
+STFinn,England,Australia,0,0,0,0,0,24,4,32,1,0,8.0,Riverside Ground,0,0,2013,25
+STFinn,England,India,0,0,0,0,0,23,3,30,1,0,10.0,Edgbaston,0,0,2014,23
+STFinn,England,South Africa,0,0,0,0,0,11,1,22,2,0,22.0,Old Trafford,0,0,2012,50
+STFinn,England,Pakistan,0,0,0,0,0,23,3,30,3,0,10.0,Dubai International Cricket Stadium,1,0,2012,85
+STFinn,England,Australia,0,0,0,0,0,23,3,40,1,0,13.333333333333334,Sophia Gardens,0,1,2015,27
+STFinn,England,Sri Lanka,1,3,0,0,33.33333333333333,24,4,25,1,0,6.25,Pallekele International Cricket Stadium,0,0,2012,20
+STFinn,England,West Indies,0,0,0,0,0,11,1,16,0,0,16.0,Kennington Oval,0,1,2011,8
+STFinn,England,New Zealand,0,0,0,0,0,24,4,39,3,0,9.75,Eden Park,0,0,2013,73
+STFinn,England,New Zealand,5,6,0,0,83.33333333333334,23,3,34,0,0,11.333333333333334,Seddon Park,0,0,2013,-1
+STFinn,England,Pakistan,0,0,0,0,0,24,4,37,0,0,9.25,Sheikh Zayed Stadium,0,0,2012,-2
+STFinn,England,Australia,0,0,0,0,0,24,4,47,1,0,11.75,The Rose Bowl,0,0,2013,19
+STFinn,England,New Zealand,0,0,0,0,0,23,3,29,0,0,9.666666666666666,Old Trafford,0,1,2015,6
+STFinn,England,Afghanistan,0,0,0,0,0,27,4,25,1,0,6.25,R Premadasa Stadium,0,1,2012,33
+STFinn,England,New Zealand,0,0,0,0,0,23,3,19,0,0,6.333333333333333,Westpac Stadium,0,1,2013,8
+STFinn,England,Ireland,0,0,0,0,0,17,2,1,0,3,0.5,The Village Malahide,0,0,2015,30
+STFinn,England,India,0,0,0,0,0,58,9,54,1,0,6.0,Lord's,0,0,2011,25
+STFinn,England,Sri Lanka,0,0,0,0,0,48,8,54,0,0,6.75,Westpac Stadium,0,0,2015,0
+STFinn,England,Australia,0,1,0,0,0.0,47,7,49,0,1,7.0,Sydney Cricket Ground,0,0,2015,0
+STFinn,England,India,0,0,0,0,0,60,10,28,2,2,2.8,Himachal Pradesh Cricket Association Stadium,0,2,2013,88
+STFinn,England,Australia,0,3,0,0,0.0,64,10,58,0,1,5.8,Western Australia Cricket Association Ground,0,1,2011,10
+STFinn,England,Sri Lanka,1,4,0,0,25.0,60,10,63,0,1,6.3,R Premadasa Stadium,0,0,2014,3
+STFinn,England,Australia,0,0,0,0,0,36,6,35,1,0,5.833333333333333,Old Trafford,0,0,2012,27
+STFinn,England,India,6,13,0,0,46.15384615384615,55,9,50,0,0,5.555555555555555,Feroz Shah Kotla,0,0,2011,2
+STFinn,England,Australia,0,0,0,0,0,60,10,47,2,0,4.7,Lord's,0,0,2012,54
+STFinn,England,India,0,0,0,0,0,53,8,37,2,1,4.625,Headingley,1,1,2014,82
+STFinn,England,New Zealand,0,0,0,0,0,61,10,74,2,0,7.4,Riverside Ground,0,0,2015,50
+STFinn,England,Australia,0,0,0,0,0,55,9,39,1,0,4.333333333333333,Kennington Oval,1,1,2012,49
+STFinn,England,South Africa,0,0,0,0,0,47,7,42,0,0,6.0,Kennington Oval,0,0,2012,0
+STFinn,England,New Zealand,0,0,0,0,0,60,10,57,2,0,5.7,Trent Bridge,0,0,2013,52
+STFinn,England,Australia,0,0,0,0,0,61,10,51,2,0,5.1,Sydney Cricket Ground,1,0,2011,64
+STFinn,England,New Zealand,0,8,0,0,0.0,11,1,49,0,0,49.0,Westpac Stadium,0,0,2015,-8
+STFinn,England,New Zealand,0,0,0,0,0,55,9,28,3,3,3.111111111111111,Eden Park,1,0,2013,117
+STFinn,England,New Zealand,0,2,0,0,0.0,62,10,55,1,0,5.5,Seddon Park,0,2,2013,35
+STFinn,England,India,0,0,0,0,0,60,10,63,1,0,6.3,Saurashtra Cricket Association Stadium,0,0,2013,25
+STFinn,England,New Zealand,6,4,1,0,150.0,63,10,69,1,1,6.9,Kennington Oval,0,0,2015,40
+STFinn,England,New Zealand,0,2,0,0,0.0,61,10,57,0,0,5.7,The Rose Bowl,0,0,2015,-6
+STFinn,England,Australia,1,5,0,0,20.0,55,9,55,3,0,6.111111111111111,Lord's,0,0,2015,70
+STFinn,England,Australia,35,24,5,1,145.83333333333331,62,10,63,1,0,6.3,Brisbane Cricket Ground Woolloongabba,0,0,2011,67
+STFinn,England,India,2,4,0,0,50.0,60,10,47,2,3,4.7,Eden Gardens,0,0,2011,76
+STFinn,England,India,3,12,0,0,25.0,56,9,51,1,0,5.666666666666667,JSCA International Stadium Complex,0,0,2013,24
+STFinn,England,Sri Lanka,0,0,0,0,0,35,5,29,1,0,5.8,Pallekele International Cricket Stadium,0,0,2014,27
+STFinn,England,Australia,10,17,0,0,58.82352941176471,41,6,41,0,0,6.833333333333333,The Rose Bowl,0,0,2015,6
+STFinn,England,Australia,0,0,0,0,0,59,9,65,2,0,7.222222222222222,Bellerive Oval,0,0,2015,50
+STFinn,England,Australia,1,6,0,0,16.666666666666664,60,10,71,5,0,7.1,Melbourne Cricket Ground,0,0,2015,136
+STFinn,England,India,0,0,0,0,0,59,9,36,3,1,4.0,Western Australia Cricket Association Ground,0,1,2015,95
+STFinn,England,Sri Lanka,0,2,0,0,0.0,36,6,35,1,1,5.833333333333333,R Premadasa Stadium,0,0,2014,27
+STFinn,England,South Africa,0,0,0,0,0,62,10,35,1,0,3.5,Lord's,0,0,2012,31
+STFinn,England,West Indies,2,4,0,0,50.0,61,10,35,2,1,3.5,Kensington Oval Bridgetown,0,0,2017,62
+STFinn,England,New Zealand,0,0,0,0,0,60,10,33,1,1,3.3,McLean Park,0,0,2013,39
+STFinn,England,India,18,18,1,1,100.0,56,9,68,1,1,7.555555555555555,Rajiv Gandhi International Stadium Uppal,2,0,2011,78
+STFinn,England,Australia,0,0,0,0,0,47,7,43,2,1,6.142857142857143,Old Trafford,0,1,2015,66
+STFinn,England,India,0,0,0,0,0,61,10,39,1,1,3.9,Punjab Cricket Association Stadium Mohali,0,0,2013,39
+STFinn,England,Sri Lanka,0,0,0,0,0,41,6,42,1,0,7.0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2014,33
+STFinn,England,Ireland,0,0,0,0,0,61,10,47,0,2,4.7,The Village Malahide,0,0,2013,20
+STFinn,England,South Africa,0,0,0,0,0,48,8,45,1,1,5.625,Kennington Oval,0,0,2013,35
+STFinn,England,India,0,1,0,0,0.0,59,9,52,2,0,5.777777777777778,Nehru Stadium,0,0,2013,44
+STFinn,England,West Indies,0,0,0,0,0,54,9,49,0,0,5.444444444444445,Sir Vivian Richards Stadium North Sound,1,1,2017,22
+STFinn,England,Australia,0,0,0,0,0,61,10,45,2,2,4.5,Sophia Gardens,0,0,2013,70
+STFinn,England,South Africa,15,8,2,0,187.5,59,9,60,1,0,6.666666666666667,The Rose Bowl,0,0,2012,42
+STFinn,England,India,0,0,0,0,0,49,8,34,5,1,4.25,Brisbane Cricket Ground Woolloongabba,0,0,2015,153
+STFinn,England,India,6,8,0,0,75.0,49,8,50,1,0,6.25,Trent Bridge,0,0,2014,31
+STFinn,England,India,0,0,0,0,0,62,10,46,1,1,4.6,Sophia Gardens,0,1,2011,45
+STFinn,England,Australia,0,0,0,0,0,60,10,37,4,2,3.7,Riverside Ground,0,0,2012,130
+STFinn,England,Ireland,0,0,0,0,0,30,5,16,2,1,3.2,Clontarf Cricket Club Ground,0,1,2011,72
+STFinn,England,Scotland,1,1,0,0,100.0,53,8,26,3,3,3.25,Hagley Oval,0,0,2015,106
+STFinn,England,West Indies,0,0,0,0,0,35,5,29,1,0,5.8,The Rose Bowl,0,0,2012,27
+STFinn,England,Pakistan,0,0,0,0,0,61,10,26,3,1,2.6,Dubai International Cricket Stadium,1,0,2012,101
+STFinn,England,India,1,4,0,0,25.0,59,9,49,3,1,5.444444444444445,Wankhede Stadium,0,0,2011,80
+STFinn,England,Pakistan,0,0,0,0,0,60,10,35,4,0,3.5,Sheikh Zayed Stadium,0,0,2012,114
+STFinn,England,Australia,16,23,1,1,69.56521739130434,60,10,69,2,1,6.9,Old Trafford,0,0,2013,75
+STFinn,England,Australia,6,38,0,0,15.789473684210526,60,10,54,1,0,5.4,Western Australia Cricket Association Ground,0,0,2015,27
+STFinn,England,Pakistan,0,0,0,0,0,62,10,39,4,1,3.9,Sheikh Zayed Stadium,0,0,2012,122
+STFinn,England,India,0,0,0,0,0,59,9,45,2,0,5.0,Punjab Cricket Association Stadium Mohali,0,0,2011,52
+STFinn,England,New Zealand,0,0,0,0,0,43,7,39,4,1,5.571428571428571,Edgbaston,0,0,2015,118
+STFinn,England,New Zealand,0,0,0,0,0,60,10,51,1,1,5.1,Trent Bridge,0,1,2015,43

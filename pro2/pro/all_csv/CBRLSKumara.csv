@@ -1,2 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-CBRLSKumara,Sri Lanka,Pakistan,0,0,0,0,0,23,3,24,2,0,8.0,Gaddafi Stadium,50
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+CBRLSKumara,Sri Lanka,Pakistan,0,0,0,0,0,23,3,24,2,0,8.0,Gaddafi Stadium,0,0,2019,50
+CBRLSKumara,Sri Lanka,Pakistan,1,8,0,0,12.5,59,9,62,1,0,6.888888888888889,National Stadium,1,0,2019,32
+CBRLSKumara,Sri Lanka,Bangladesh,0,0,0,0,0,45,7,45,1,0,6.428571428571429,R.Premadasa Stadium Khettarama,1,0,2019,37
+CBRLSKumara,Sri Lanka,Pakistan,0,0,0,0,0,42,7,57,1,0,8.142857142857142,National Stadium,0,0,2019,25
+CBRLSKumara,Sri Lanka,Bangladesh,0,4,0,0,0.0,50,8,79,1,0,9.875,Rangiri Dambulla International Stadium,0,0,2017,15
+CBRLSKumara,Sri Lanka,Bangladesh,0,0,0,0,0,29,4,26,2,0,6.5,R.Premadasa Stadium Khettarama,0,1,2019,58
+CBRLSKumara,Sri Lanka,South Africa,5,7,1,0,71.42857142857143,53,8,49,1,0,6.125,New Wanderers Stadium,0,0,2017,31
+CBRLSKumara,Sri Lanka,South Africa,0,0,0,0,0,42,7,60,0,1,8.571428571428571,SuperSport Park,0,1,2017,16
+CBRLSKumara,Sri Lanka,Bangladesh,0,0,0,0,0,62,10,42,0,1,4.2,R.Premadasa Stadium Khettarama,0,0,2019,12
+CBRLSKumara,Sri Lanka,South Africa,1,7,0,0,14.285714285714285,41,6,73,2,0,12.166666666666666,Newlands,0,0,2017,39

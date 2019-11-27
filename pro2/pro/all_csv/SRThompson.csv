@@ -1,38 +1,40 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SRThompson,Ireland,Oman,10,9,1,0,111.11111111111111,23,3,21,2,0,7.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),61
-SRThompson,Ireland,Afghanistan,56,35,6,2,160.0,19,3,18,1,0,6.0,Greater Noida Sports Complex Ground,99
-SRThompson,Ireland,Hong Kong,0,1,0,0,0.0,12,2,13,0,0,6.5,The Village Malahide,-8
-SRThompson,Ireland,Nepal,21,11,0,2,190.9090909090909,13,2,18,0,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),25
-SRThompson,Ireland,United Arab Emirates,2,2,0,0,100.0,11,1,24,0,0,24.0,Sheikh Zayed Stadium,2
-SRThompson,Ireland,Oman,10,9,1,0,111.11111111111111,23,3,21,2,0,7.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),61
-SRThompson,Ireland,Afghanistan,56,35,6,2,160.0,19,3,18,1,0,6.0,Greater Noida Sports Complex Ground,99
-SRThompson,Ireland,Hong Kong,0,1,0,0,0.0,12,2,13,0,0,6.5,The Village Malahide,-8
-SRThompson,Ireland,Nepal,21,11,0,2,190.9090909090909,13,2,18,0,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),25
-SRThompson,Ireland,United Arab Emirates,2,2,0,0,100.0,11,1,24,0,0,24.0,Sheikh Zayed Stadium,2
-SRThompson,Ireland,Oman,10,9,1,0,111.11111111111111,23,3,21,2,0,7.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),61
-SRThompson,Ireland,Afghanistan,56,35,6,2,160.0,19,3,18,1,0,6.0,Greater Noida Sports Complex Ground,99
-SRThompson,Ireland,Hong Kong,0,1,0,0,0.0,12,2,13,0,0,6.5,The Village Malahide,-8
-SRThompson,Ireland,Nepal,21,11,0,2,190.9090909090909,13,2,18,0,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),25
-SRThompson,Ireland,United Arab Emirates,2,2,0,0,100.0,11,1,24,0,0,24.0,Sheikh Zayed Stadium,2
-SRThompson,Ireland,Papua New Guinea,6,4,1,0,150.0,20,3,15,0,0,5.0,Civil Service Cricket Club Stormont,9
-SRThompson,Ireland,Zimbabwe,3,6,0,0,50.0,0,0,0,0,0,0,Sylhet Stadium,-1
-SRThompson,Ireland,United Arab Emirates,0,0,0,0,0,5,0,5,0,0,0,Sylhet Stadium,0
-SRThompson,Ireland,West Indies,7,8,1,0,87.5,6,1,9,1,0,9.0,Sabina Park Kingston,33
-SRThompson,Ireland,Papua New Guinea,10,7,0,1,142.85714285714286,0,0,0,0,0,0,Tony Ireland Stadium,12
-SRThompson,Ireland,Hong Kong,0,0,0,0,0,13,2,27,1,0,13.5,Sheikh Zayed Stadium,19
-SRThompson,Ireland,Afghanistan,43,18,2,5,238.88888888888889,19,3,36,0,0,12.0,Greater Noida Sports Complex Ground,49
-SRThompson,Ireland,Hong Kong,0,0,0,0,0,26,4,26,2,0,6.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),50
-SRThompson,Ireland,Oman,0,0,0,0,0,19,3,23,0,0,7.666666666666667,Tolerance Oval,0
-SRThompson,Ireland,Scotland,6,3,1,0,200.0,13,2,24,0,0,12.0,Bready Cricket Club Magheramason,1
-SRThompson,Ireland,Scotland,0,0,0,0,0,25,4,44,1,0,11.0,The Village Malahide,21
-SRThompson,Ireland,Afghanistan,5,7,1,0,71.42857142857143,26,4,44,1,0,11.0,Greater Noida Sports Complex Ground,27
-SRThompson,Ireland,Netherlands,4,5,1,0,80.0,0,0,0,0,0,0,The Village Malahide,5
-SRThompson,Ireland,Nepal,0,0,0,0,0,21,3,11,3,0,3.6666666666666665,Civil Service Cricket Club Stormont,81
-SRThompson,Ireland,Papua New Guinea,5,6,0,0,83.33333333333334,5,0,7,0,0,0,Tony Ireland Stadium,5
-SRThompson,Ireland,Canada,28,28,0,1,100.0,11,1,18,0,0,18.0,Sheikh Zayed Stadium,30
-SRThompson,Ireland,Oman,10,9,1,0,111.11111111111111,23,3,21,2,0,7.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),61
-SRThompson,Ireland,Afghanistan,56,35,6,2,160.0,19,3,18,1,0,6.0,Greater Noida Sports Complex Ground,99
-SRThompson,Ireland,Hong Kong,0,1,0,0,0.0,12,2,13,0,0,6.5,The Village Malahide,-8
-SRThompson,Ireland,Nepal,21,11,0,2,190.9090909090909,13,2,18,0,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),25
-SRThompson,Ireland,United Arab Emirates,2,2,0,0,100.0,11,1,24,0,0,24.0,Sheikh Zayed Stadium,2
-SRThompson,Ireland,Papua New Guinea,6,4,1,0,150.0,20,3,15,0,0,5.0,Civil Service Cricket Club Stormont,9
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SRThompson,Ireland,Hong Kong,0,0,0,0,0,13,2,27,1,0,13.5,Sheikh Zayed Stadium,0,0,2019,19
+SRThompson,Ireland,Scotland,6,3,1,0,200.0,13,2,24,0,0,12.0,Bready Cricket Club Magheramason,0,0,2015,1
+SRThompson,Ireland,Canada,28,28,0,1,100.0,11,1,18,0,0,18.0,Sheikh Zayed Stadium,0,0,2019,30
+SRThompson,Ireland,Papua New Guinea,5,6,0,0,83.33333333333334,5,0,7,0,0,0,Tony Ireland Stadium,0,1,2016,13
+SRThompson,Ireland,United Arab Emirates,0,0,0,0,0,5,0,5,0,0,0,Sylhet Stadium,0,0,2014,0
+SRThompson,Ireland,Hong Kong,0,0,0,0,0,26,4,26,2,0,6.5,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0,2019,62
+SRThompson,Ireland,Oman,10,9,1,0,111.11111111111111,23,3,21,2,0,7.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,61
+SRThompson,Ireland,Netherlands,4,5,1,0,80.0,0,0,0,0,0,0,The Village Malahide,0,0,2015,5
+SRThompson,Ireland,Oman,0,0,0,0,0,19,3,23,0,0,7.666666666666667,Tolerance Oval,0,1,2019,8
+SRThompson,Ireland,Hong Kong,0,1,0,0,0.0,12,2,13,0,0,6.5,The Village Malahide,0,1,2015,0
+SRThompson,Ireland,Afghanistan,43,18,2,5,238.88888888888889,19,3,36,0,0,12.0,Greater Noida Sports Complex Ground,0,1,2017,57
+SRThompson,Ireland,Nepal,0,0,0,0,0,21,3,11,3,0,3.6666666666666665,Civil Service Cricket Club Stormont,0,2,2015,97
+SRThompson,Ireland,Scotland,0,0,0,0,0,25,4,44,1,0,11.0,The Village Malahide,0,0,2019,21
+SRThompson,Ireland,Zimbabwe,3,6,0,0,50.0,0,0,0,0,0,0,Sylhet Stadium,0,0,2014,-1
+SRThompson,Ireland,Afghanistan,5,7,1,0,71.42857142857143,26,4,44,1,0,11.0,Greater Noida Sports Complex Ground,0,0,2017,27
+SRThompson,Ireland,United Arab Emirates,2,2,0,0,100.0,11,1,24,0,0,24.0,Sheikh Zayed Stadium,0,1,2016,10
+SRThompson,Ireland,Afghanistan,56,35,6,2,160.0,19,3,18,1,0,6.0,Greater Noida Sports Complex Ground,0,0,2017,99
+SRThompson,Ireland,Papua New Guinea,6,4,1,0,150.0,20,3,15,0,0,5.0,Civil Service Cricket Club Stormont,0,1,2015,17
+SRThompson,Ireland,Papua New Guinea,10,7,0,1,142.85714285714286,0,0,0,0,0,0,Tony Ireland Stadium,0,0,2016,12
+SRThompson,Ireland,West Indies,7,8,1,0,87.5,6,1,9,1,0,9.0,Sabina Park Kingston,0,0,2014,33
+SRThompson,Ireland,Nepal,21,11,0,2,190.9090909090909,13,2,18,0,0,9.0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,33
+SRThompson,Ireland,Scotland,35,36,4,0,97.22222222222221,24,4,20,1,0,5.0,The Village Malahide,0,1,2014,74
+SRThompson,Ireland,Scotland,39,36,4,1,108.33333333333333,18,3,16,0,0,5.333333333333333,The Village Malahide,0,1,2014,55
+SRThompson,Ireland,Australia,24,16,0,2,150.0,35,5,37,1,1,7.4,Civil Service Cricket Club Stormont,0,0,2015,61
+SRThompson,Ireland,Sri Lanka,1,8,0,0,12.5,25,4,19,1,0,4.75,Clontarf Cricket Club Ground,0,0,2014,24
+SRThompson,Ireland,Afghanistan,3,9,0,0,33.33333333333333,61,10,39,1,1,3.9,Greater Noida Sports Complex Ground,0,1,2017,44
+SRThompson,Ireland,Afghanistan,8,14,1,0,57.14285714285714,0,0,0,0,0,0,Greater Noida Sports Complex Ground,0,1,2017,13
+SRThompson,Ireland,India,2,2,0,0,100.0,39,6,46,2,1,7.666666666666667,Seddon Park,0,0,2015,60
+SRThompson,Ireland,Scotland,22,31,3,0,70.96774193548387,0,0,0,0,0,0,The Village Malahide,0,0,2014,25
+SRThompson,Ireland,United Arab Emirates,5,11,0,0,45.45454545454545,37,6,32,1,0,5.333333333333333,ICC Global Cricket Academy,0,0,2017,26
+SRThompson,Ireland,England,4,3,1,0,133.33333333333331,18,3,30,0,0,10.0,County Ground,0,0,2017,3
+SRThompson,Ireland,West Indies,33,35,4,0,94.28571428571428,24,4,18,2,0,4.5,Sabina Park Kingston,0,1,2014,99
+SRThompson,Ireland,United Arab Emirates,0,0,0,0,0,39,6,36,0,0,6.0,ICC Global Cricket Academy,0,1,2017,8
+SRThompson,Ireland,Bangladesh,0,0,0,0,0,25,4,20,0,0,5.0,Malahide,0,0,2017,2
+SRThompson,Ireland,Afghanistan,37,27,7,0,137.03703703703704,50,8,55,0,0,6.875,Greater Noida Sports Complex Ground,0,1,2017,52
+SRThompson,Ireland,Pakistan,12,15,1,0,80.0,62,10,59,1,1,5.9,Adelaide Oval,0,0,2015,48
+SRThompson,Ireland,Zimbabwe,1,5,0,0,20.0,0,0,0,0,0,0,Harare Sports Club,0,1,2015,3
+SRThompson,Ireland,Afghanistan,2,7,0,0,28.57142857142857,17,2,14,0,0,7.0,Greater Noida Sports Complex Ground,0,0,2017,-4
+SRThompson,Ireland,Afghanistan,0,0,0,0,0,47,7,45,0,0,6.428571428571429,Greater Noida Sports Complex Ground,1,0,2017,12

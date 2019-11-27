@@ -1,6 +1,25 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JavedAhmadi,Afghanistan,Ireland,6,5,1,0,120.0,0,0,0,0,0,0,Dubai International Cricket Stadium,7
-JavedAhmadi,Afghanistan,Ireland,6,5,1,0,120.0,0,0,0,0,0,0,Dubai International Cricket Stadium,7
-JavedAhmadi,Afghanistan,Ireland,6,5,1,0,120.0,0,0,0,0,0,0,Dubai International Cricket Stadium,7
-JavedAhmadi,Afghanistan,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Warner Park Basseterre,-8
-JavedAhmadi,Afghanistan,Ireland,6,5,1,0,120.0,0,0,0,0,0,0,Dubai International Cricket Stadium,7
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JavedAhmadi,Afghanistan,Ireland,6,5,1,0,120.0,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2012,7
+JavedAhmadi,Afghanistan,West Indies,0,2,0,0,0.0,0,0,0,0,0,0,Warner Park Basseterre,0,0,2017,-8
+JavedAhmadi,Afghanistan,Zimbabwe,56,60,7,1,93.33333333333333,0,0,0,0,0,0,Queens Sports Club,0,0,2014,73
+JavedAhmadi,Afghanistan,Ireland,4,12,0,0,33.33333333333333,5,0,5,0,0,0,Clontarf Cricket Club Ground,0,1,2012,6
+JavedAhmadi,Afghanistan,Scotland,16,33,2,0,48.484848484848484,11,1,7,0,0,7.0,Grange Cricket Club Ground Raeburn Place,0,1,2016,20
+JavedAhmadi,Afghanistan,Scotland,39,61,5,0,63.934426229508205,0,0,0,0,0,0,Grange Cricket Club Ground Raeburn Place,0,0,2016,42
+JavedAhmadi,Afghanistan,United Arab Emirates,0,0,0,0,0,11,1,12,0,0,12.0,ICC Academy,0,1,2014,8
+JavedAhmadi,Afghanistan,Scotland,51,53,8,0,96.22641509433963,5,0,8,0,0,0,University Oval,0,0,2015,67
+JavedAhmadi,Afghanistan,Netherlands,25,29,4,1,86.20689655172413,0,0,0,0,0,0,Sharjah Cricket Stadium,0,0,2012,31
+JavedAhmadi,Afghanistan,Australia,0,3,0,0,0.0,23,3,16,0,0,5.333333333333333,Sharjah Cricket Association Stadium,0,0,2012,-6
+JavedAhmadi,Afghanistan,Ireland,29,44,3,0,65.9090909090909,23,3,15,0,0,5.0,Civil Service Cricket Club Stormont,0,0,2016,32
+JavedAhmadi,Afghanistan,Scotland,25,32,3,0,78.125,0,0,0,0,0,0,Cambusdoon New Ground,0,0,2010,28
+JavedAhmadi,Afghanistan,Ireland,13,21,1,0,61.904761904761905,47,7,28,1,0,4.0,Dubai International Cricket Stadium,0,0,2015,41
+JavedAhmadi,Afghanistan,West Indies,9,35,1,0,25.71428571428571,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,4
+JavedAhmadi,Afghanistan,West Indies,0,4,0,0,0.0,11,1,10,1,0,10.0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,1,2019,25
+JavedAhmadi,Afghanistan,Bangladesh,1,2,0,0,50.0,28,4,32,0,0,8.0,Manuka Oval,0,0,2015,-3
+JavedAhmadi,Afghanistan,Ireland,3,10,0,0,30.0,0,0,0,0,0,0,Civil Service Cricket Club Stormont,0,0,2016,-3
+JavedAhmadi,Afghanistan,Sri Lanka,24,23,4,0,104.34782608695652,0,0,0,0,0,0,University Oval,0,0,2015,28
+JavedAhmadi,Afghanistan,England,7,16,0,0,43.75,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2015,1
+JavedAhmadi,Afghanistan,West Indies,81,104,8,2,77.88461538461539,0,0,0,0,0,0,Darren Sammy National Cricket Stadium Gros Islet,0,0,2017,101
+JavedAhmadi,Afghanistan,Scotland,74,84,9,1,88.09523809523809,0,0,0,0,0,0,ICC Academy,0,0,2015,93
+JavedAhmadi,Afghanistan,West Indies,5,13,1,0,38.46153846153847,20,3,15,0,0,5.0,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0,0,2019,2
+JavedAhmadi,Afghanistan,Scotland,21,21,3,0,100.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2015,32
+JavedAhmadi,Afghanistan,Zimbabwe,7,13,1,0,53.84615384615385,0,0,0,0,0,0,Queens Sports Club,0,0,2014,4

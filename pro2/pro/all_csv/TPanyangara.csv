@@ -1,30 +1,51 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-TPanyangara,Zimbabwe,Netherlands,0,0,0,0,0,24,4,40,1,0,10.0,Sylhet Stadium,23
-TPanyangara,Zimbabwe,Pakistan,1,3,0,0,33.33333333333333,11,1,8,1,0,8.0,Harare Sports Club,20
-TPanyangara,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,42,1,0,10.5,Queens Sports Club,16
-TPanyangara,Zimbabwe,United Arab Emirates,0,0,0,0,0,17,2,23,0,0,11.5,Sylhet Stadium,-6
-TPanyangara,Zimbabwe,Netherlands,0,0,0,0,0,24,4,40,1,0,10.0,Sylhet Stadium,23
-TPanyangara,Zimbabwe,Netherlands,0,0,0,0,0,24,4,40,1,0,10.0,Sylhet Stadium,23
-TPanyangara,Zimbabwe,Pakistan,1,3,0,0,33.33333333333333,11,1,8,1,0,8.0,Harare Sports Club,20
-TPanyangara,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,42,1,0,10.5,Queens Sports Club,16
-TPanyangara,Zimbabwe,United Arab Emirates,0,0,0,0,0,17,2,23,0,0,11.5,Sylhet Stadium,-6
-TPanyangara,Zimbabwe,Netherlands,0,0,0,0,0,24,4,40,1,0,10.0,Sylhet Stadium,23
-TPanyangara,Zimbabwe,Netherlands,0,0,0,0,0,24,4,40,1,0,10.0,Sylhet Stadium,23
-TPanyangara,Zimbabwe,Pakistan,1,3,0,0,33.33333333333333,11,1,8,1,0,8.0,Harare Sports Club,20
-TPanyangara,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,42,1,0,10.5,Queens Sports Club,16
-TPanyangara,Zimbabwe,United Arab Emirates,0,0,0,0,0,17,2,23,0,0,11.5,Sylhet Stadium,-6
-TPanyangara,Zimbabwe,Scotland,0,0,0,0,0,24,4,20,1,0,5.0,Vidarbha Cricket Association Stadium Jamtha,27
-TPanyangara,Zimbabwe,Ireland,0,0,0,0,0,23,3,39,4,0,13.0,Sylhet Stadium,102
-TPanyangara,Zimbabwe,Bangladesh,0,0,0,0,0,26,4,30,3,0,7.5,Shere Bangla National Stadium,75
-TPanyangara,Zimbabwe,Bangladesh,4,3,1,0,133.33333333333331,20,3,25,0,0,8.333333333333334,Shere Bangla National Stadium,5
-TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,24,4,27,2,0,6.75,Harare Sports Club,50
-TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,23,3,29,0,0,9.666666666666666,Harare Sports Club,-2
-TPanyangara,Zimbabwe,Bangladesh,0,0,0,0,0,24,4,33,3,0,8.25,Queens Sports Club,75
-TPanyangara,Zimbabwe,Afghanistan,17,7,0,1,242.85714285714283,23,3,33,3,0,11.0,Vidarbha Cricket Association Stadium Jamtha,90
-TPanyangara,Zimbabwe,Hong Kong,0,2,0,0,0.0,23,3,27,0,0,9.0,Vidarbha Cricket Association Stadium Jamtha,-8
-TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,14,2,28,1,0,14.0,Gaddafi Stadium,19
-TPanyangara,Zimbabwe,Netherlands,0,0,0,0,0,24,4,40,1,0,10.0,Sylhet Stadium,23
-TPanyangara,Zimbabwe,Pakistan,1,3,0,0,33.33333333333333,11,1,8,1,0,8.0,Harare Sports Club,20
-TPanyangara,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,42,1,0,10.5,Queens Sports Club,16
-TPanyangara,Zimbabwe,United Arab Emirates,0,0,0,0,0,17,2,23,0,0,11.5,Sylhet Stadium,-6
-TPanyangara,Zimbabwe,Scotland,0,0,0,0,0,24,4,20,1,0,5.0,Vidarbha Cricket Association Stadium Jamtha,27
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+TPanyangara,Zimbabwe,Bangladesh,1,3,0,0,33.33333333333333,25,4,42,1,0,10.5,Queens Sports Club,0,0,2013,16
+TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,23,3,29,0,0,9.666666666666666,Harare Sports Club,0,0,2013,-2
+TPanyangara,Zimbabwe,Hong Kong,0,2,0,0,0.0,23,3,27,0,0,9.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,-8
+TPanyangara,Zimbabwe,Afghanistan,17,7,0,1,242.85714285714283,23,3,33,3,0,11.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,90
+TPanyangara,Zimbabwe,Bangladesh,4,3,1,0,133.33333333333331,20,3,25,0,0,8.333333333333334,Shere Bangla National Stadium,0,0,2015,5
+TPanyangara,Zimbabwe,Scotland,0,0,0,0,0,24,4,20,1,0,5.0,Vidarbha Cricket Association Stadium Jamtha,0,0,2016,27
+TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,24,4,27,2,0,6.75,Harare Sports Club,0,0,2015,50
+TPanyangara,Zimbabwe,Ireland,0,0,0,0,0,23,3,39,4,0,13.0,Sylhet Stadium,0,0,2014,102
+TPanyangara,Zimbabwe,Bangladesh,0,0,0,0,0,24,4,33,3,0,8.25,Queens Sports Club,0,0,2013,75
+TPanyangara,Zimbabwe,Bangladesh,0,0,0,0,0,26,4,30,3,0,7.5,Shere Bangla National Stadium,0,0,2015,75
+TPanyangara,Zimbabwe,Netherlands,0,0,0,0,0,24,4,40,1,0,10.0,Sylhet Stadium,0,1,2014,31
+TPanyangara,Zimbabwe,Pakistan,1,3,0,0,33.33333333333333,11,1,8,1,0,8.0,Harare Sports Club,0,0,2015,20
+TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,14,2,28,1,0,14.0,Gaddafi Stadium,0,0,2015,19
+TPanyangara,Zimbabwe,United Arab Emirates,0,0,0,0,0,17,2,23,0,0,11.5,Sylhet Stadium,0,1,2014,2
+TPanyangara,Zimbabwe,India,6,6,0,0,100.0,53,8,54,2,1,6.75,Eden Park,0,0,2015,64
+TPanyangara,Zimbabwe,Pakistan,10,29,0,0,34.48275862068966,61,10,49,0,2,4.9,Brisbane Cricket Ground Woolloongabba,0,0,2015,24
+TPanyangara,Zimbabwe,Afghanistan,1,1,0,0,100.0,48,8,43,2,1,5.375,Queens Sports Club,0,0,2015,61
+TPanyangara,Zimbabwe,Pakistan,1,4,0,0,25.0,60,10,62,0,1,6.2,Harare Sports Club,0,0,2013,3
+TPanyangara,Zimbabwe,New Zealand,7,8,0,1,87.5,56,9,53,0,1,5.888888888888889,Harare Sports Club,0,0,2015,19
+TPanyangara,Zimbabwe,United Arab Emirates,0,0,0,0,0,58,9,66,0,0,7.333333333333333,Saxton Oval,0,0,2015,0
+TPanyangara,Zimbabwe,Sri Lanka,0,4,0,0,0.0,37,6,51,0,0,8.5,Pallekele International Cricket Stadium,0,2,2011,8
+TPanyangara,Zimbabwe,Pakistan,4,4,1,0,100.0,50,8,43,0,0,5.375,Gaddafi Stadium,0,0,2015,7
+TPanyangara,Zimbabwe,Bangladesh,4,4,1,0,100.0,60,10,41,3,0,4.1,Shere Bangla National Stadium,0,0,2015,84
+TPanyangara,Zimbabwe,Bangladesh,8,31,1,0,25.806451612903224,61,10,52,2,1,5.2,Zahur Ahmed Chowdhury Stadium,0,1,2014,71
+TPanyangara,Zimbabwe,Sri Lanka,12,10,1,1,120.0,45,7,39,1,0,5.571428571428571,Harare Sports Club,0,0,2016,42
+TPanyangara,Zimbabwe,Bangladesh,7,9,1,0,77.77777777777779,61,10,66,3,2,6.6,Zahur Ahmed Chowdhury Stadium,0,1,2014,107
+TPanyangara,Zimbabwe,New Zealand,0,0,0,0,0,61,10,54,2,2,5.4,Harare Sports Club,0,0,2015,68
+TPanyangara,Zimbabwe,Pakistan,3,10,0,0,30.0,60,10,71,0,1,7.1,Harare Sports Club,0,0,2013,5
+TPanyangara,Zimbabwe,Pakistan,4,6,1,0,66.66666666666666,57,9,70,1,1,7.777777777777778,Harare Sports Club,0,0,2015,36
+TPanyangara,Zimbabwe,Bangladesh,0,5,0,0,0.0,63,10,51,2,2,5.1,Shere Bangla National Stadium,0,0,2014,60
+TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,60,10,38,0,2,3.8,Harare Sports Club,0,0,2013,22
+TPanyangara,Zimbabwe,Afghanistan,0,0,0,0,0,55,9,62,2,1,6.888888888888889,Queens Sports Club,0,0,2014,58
+TPanyangara,Zimbabwe,South Africa,0,12,0,0,0.0,36,6,39,1,0,6.5,Queens Sports Club,0,0,2014,17
+TPanyangara,Zimbabwe,Ireland,5,5,0,0,100.0,55,9,69,1,0,7.666666666666667,Bellerive Oval,0,1,2015,38
+TPanyangara,Zimbabwe,India,0,0,0,0,0,55,9,54,0,1,6.0,Harare Sports Club,0,0,2015,8
+TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,48,8,47,0,0,5.875,Gaddafi Stadium,0,0,2015,2
+TPanyangara,Zimbabwe,Bangladesh,5,9,0,0,55.55555555555556,60,10,39,1,0,3.9,Shere Bangla National Stadium,0,0,2015,32
+TPanyangara,Zimbabwe,Afghanistan,0,0,0,0,0,51,8,31,0,0,3.875,Queens Sports Club,0,0,2015,6
+TPanyangara,Zimbabwe,Ireland,8,12,1,0,66.66666666666666,42,7,27,1,1,3.857142857142857,Harare Sports Club,0,0,2015,46
+TPanyangara,Zimbabwe,Australia,1,9,0,0,11.11111111111111,43,7,69,0,1,9.857142857142858,Harare Sports Club,0,0,2014,1
+TPanyangara,Zimbabwe,Ireland,0,0,0,0,0,48,8,41,1,3,5.125,Harare Sports Club,0,0,2015,51
+TPanyangara,Zimbabwe,West Indies,4,8,0,0,50.0,59,9,82,1,0,9.11111111111111,Manuka Oval,0,0,2015,23
+TPanyangara,Zimbabwe,Pakistan,0,0,0,0,0,60,10,75,1,2,7.5,Gaddafi Stadium,0,1,2015,49
+TPanyangara,Zimbabwe,Bangladesh,0,1,0,0,0.0,61,10,53,1,1,5.3,Queens Sports Club,0,0,2013,27
+TPanyangara,Zimbabwe,South Africa,4,4,1,0,100.0,62,10,73,1,2,7.3,Seddon Park,0,0,2015,46
+TPanyangara,Zimbabwe,New Zealand,4,9,1,0,44.44444444444444,33,5,42,0,0,8.4,Sardar Patel Stadium Motera,0,0,2011,-1
+TPanyangara,Zimbabwe,Pakistan,0,2,0,0,0.0,43,7,23,1,0,3.2857142857142856,Harare Sports Club,0,0,2015,23
+TPanyangara,Zimbabwe,Afghanistan,15,12,2,0,125.0,60,10,56,1,1,5.6,Queens Sports Club,0,0,2014,52
+TPanyangara,Zimbabwe,New Zealand,33,39,4,0,84.61538461538461,35,5,30,0,0,6.0,Harare Sports Club,0,0,2015,37
+TPanyangara,Zimbabwe,Bangladesh,0,1,0,0,0.0,60,10,58,2,0,5.8,Shere Bangla National Stadium,0,0,2014,44

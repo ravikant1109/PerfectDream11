@@ -1,77 +1,110 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SPNarine,West Indies,Sri Lanka,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Pallekele International Cricket Stadium,0
-SPNarine,West Indies,England,0,0,0,0,0,11,1,8,1,0,8.0,Kensington Oval Bridgetown,25
-SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,16,3,0,5.333333333333333,Shere Bangla National Stadium,77
-SPNarine,West Indies,Australia,0,0,0,0,0,23,3,19,2,1,6.333333333333333,Shere Bangla National Stadium,58
-SPNarine,West Indies,England,0,0,0,0,0,25,4,33,0,0,8.25,Pallekele International Cricket Stadium,0
-SPNarine,West Indies,Ireland,0,0,0,0,0,24,4,21,1,0,5.25,R Premadasa Stadium,27
-SPNarine,West Indies,Sri Lanka,23,18,2,1,127.77777777777777,24,4,21,1,0,5.25,Pallekele International Cricket Stadium,54
-SPNarine,West Indies,England,0,0,0,0,0,24,4,34,1,0,8.5,Kensington Oval Bridgetown,25
-SPNarine,West Indies,Sri Lanka,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Pallekele International Cricket Stadium,0
-SPNarine,West Indies,England,0,0,0,0,0,11,1,8,1,0,8.0,Kensington Oval Bridgetown,25
-SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,16,3,0,5.333333333333333,Shere Bangla National Stadium,77
-SPNarine,West Indies,Australia,0,0,0,0,0,23,3,19,2,1,6.333333333333333,Shere Bangla National Stadium,58
-SPNarine,West Indies,England,0,0,0,0,0,25,4,33,0,0,8.25,Pallekele International Cricket Stadium,0
-SPNarine,West Indies,Ireland,0,0,0,0,0,24,4,21,1,0,5.25,R Premadasa Stadium,27
-SPNarine,West Indies,Sri Lanka,23,18,2,1,127.77777777777777,24,4,21,1,0,5.25,Pallekele International Cricket Stadium,54
-SPNarine,West Indies,England,0,0,0,0,0,24,4,34,1,0,8.5,Kensington Oval Bridgetown,25
-SPNarine,West Indies,Sri Lanka,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Pallekele International Cricket Stadium,0
-SPNarine,West Indies,England,0,0,0,0,0,11,1,8,1,0,8.0,Kensington Oval Bridgetown,25
-SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,16,3,0,5.333333333333333,Shere Bangla National Stadium,77
-SPNarine,West Indies,Australia,0,0,0,0,0,23,3,19,2,1,6.333333333333333,Shere Bangla National Stadium,58
-SPNarine,West Indies,England,0,0,0,0,0,25,4,33,0,0,8.25,Pallekele International Cricket Stadium,0
-SPNarine,West Indies,Ireland,0,0,0,0,0,24,4,21,1,0,5.25,R Premadasa Stadium,27
-SPNarine,West Indies,Sri Lanka,23,18,2,1,127.77777777777777,24,4,21,1,0,5.25,Pallekele International Cricket Stadium,54
-SPNarine,West Indies,England,0,0,0,0,0,24,4,34,1,0,8.5,Kensington Oval Bridgetown,25
-SPNarine,West Indies,Sri Lanka,0,0,0,0,0,21,3,10,3,0,3.3333333333333335,R Premadasa Stadium,81
-SPNarine,West Indies,Pakistan,9,8,2,0,112.5,23,3,22,3,0,7.333333333333333,Queen's Park Oval Port of Spain,86
-SPNarine,West Indies,Pakistan,1,4,0,0,25.0,17,2,21,0,0,10.5,Dubai International Cricket Stadium,-9
-SPNarine,West Indies,Australia,0,0,0,0,0,17,2,19,2,0,9.5,R Premadasa Stadium,48
-SPNarine,West Indies,Afghanistan,0,0,0,0,0,23,3,11,3,0,3.6666666666666665,Warner Park Basseterre,81
-SPNarine,West Indies,Ireland,12,14,0,0,85.71428571428571,23,3,12,1,0,4.0,Sabina Park Kingston,41
-SPNarine,West Indies,India,0,0,0,0,0,18,3,50,0,0,16.666666666666668,Central Broward Regional Park Stadium Turf Ground,-6
-SPNarine,West Indies,India,9,7,0,1,128.57142857142858,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,11
-SPNarine,West Indies,India,2,6,0,0,33.33333333333333,23,3,29,0,0,9.666666666666666,Providence Stadium Guyana,-6
-SPNarine,West Indies,Afghanistan,0,0,0,0,0,24,4,28,0,0,7.0,Warner Park Basseterre,0
-SPNarine,West Indies,England,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Trent Bridge,-2
-SPNarine,West Indies,India,0,0,0,0,0,17,2,22,0,0,11.0,Sabina Park Kingston,-4
-SPNarine,West Indies,Afghanistan,0,0,0,0,0,17,2,29,1,0,14.5,Warner Park Basseterre,19
-SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,21,0,0,7.0,Sheikh Zayed Stadium,0
-SPNarine,West Indies,Bangladesh,0,0,0,0,0,23,3,18,1,0,6.0,Shere Bangla National Stadium,25
-SPNarine,West Indies,Pakistan,28,16,3,1,175.0,24,4,26,3,0,6.5,Arnos Vale Ground Kingstown,108
-SPNarine,West Indies,New Zealand,3,4,0,0,75.0,24,4,21,3,0,5.25,Pallekele International Cricket Stadium,80
-SPNarine,West Indies,India,7,3,0,1,233.33333333333334,25,4,20,0,0,5.0,Shere Bangla National Stadium,11
-SPNarine,West Indies,New Zealand,0,0,0,0,0,18,3,19,0,0,6.333333333333333,Windsor Park Roseau,0
-SPNarine,West Indies,Bangladesh,0,0,0,0,0,18,3,27,0,0,9.0,Shere Bangla National Stadium,0
-SPNarine,West Indies,Australia,0,0,0,0,0,23,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0
-SPNarine,West Indies,Pakistan,30,19,4,1,157.89473684210526,24,4,36,0,0,9.0,Dubai International Cricket Stadium,36
-SPNarine,West Indies,Pakistan,9,9,0,0,100.0,23,3,19,0,0,6.333333333333333,Queen's Park Oval Port of Spain,9
-SPNarine,West Indies,Pakistan,1,6,0,0,16.666666666666664,23,3,22,0,0,7.333333333333333,Kensington Oval Bridgetown,-5
-SPNarine,West Indies,India,4,13,0,0,30.76923076923077,23,3,28,0,0,9.333333333333334,Central Broward Regional Park Stadium Turf Ground,-4
-SPNarine,West Indies,New Zealand,0,0,0,0,0,24,4,36,3,0,9.0,Central Broward Regional Park Stadium Turf Ground,75
-SPNarine,West Indies,India,2,4,0,0,50.0,23,3,14,2,0,4.666666666666667,Central Broward Regional Park Stadium Turf Ground,52
-SPNarine,West Indies,Zimbabwe,1,1,0,0,100.0,23,3,23,0,0,7.666666666666667,Sir Vivian Richards Stadium North Sound,1
-SPNarine,West Indies,New Zealand,0,0,0,0,0,23,3,18,2,0,6.0,Westpac Stadium,50
-SPNarine,West Indies,Sri Lanka,0,0,0,0,0,24,4,24,1,0,6.0,R Premadasa Stadium,25
-SPNarine,West Indies,New Zealand,0,0,0,0,0,24,4,12,4,0,3.0,Central Broward Regional Park Stadium Turf Ground,114
-SPNarine,West Indies,Pakistan,0,0,0,0,0,18,3,34,1,0,11.333333333333334,Queen's Park Oval Port of Spain,19
-SPNarine,West Indies,Sri Lanka,0,0,0,0,0,23,3,20,0,0,6.666666666666667,Shere Bangla National Stadium,0
-SPNarine,West Indies,New Zealand,0,0,0,0,0,24,4,19,2,0,4.75,Windsor Park Roseau,54
-SPNarine,West Indies,Australia,0,0,0,0,0,23,3,19,2,0,6.333333333333333,Brisbane Cricket Ground Woolloongabba,50
-SPNarine,West Indies,Australia,2,4,0,0,50.0,23,3,33,0,0,11.0,Kensington Oval Bridgetown,-6
-SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,24,1,0,8.0,Arnos Vale Ground Kingstown,25
-SPNarine,West Indies,Ireland,6,7,0,0,85.71428571428571,23,3,16,1,0,5.333333333333333,Sabina Park Kingston,33
-SPNarine,West Indies,Zimbabwe,0,0,0,0,0,23,3,18,2,0,6.0,Sir Vivian Richards Stadium North Sound,50
-SPNarine,West Indies,Australia,4,1,0,0,400.0,12,2,16,0,0,8.0,R Premadasa Stadium,4
-SPNarine,West Indies,New Zealand,0,2,0,0,0.0,24,4,50,0,0,12.5,Eden Park,-14
-SPNarine,West Indies,Sri Lanka,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Pallekele International Cricket Stadium,0
-SPNarine,West Indies,England,0,0,0,0,0,11,1,8,1,0,8.0,Kensington Oval Bridgetown,25
-SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,16,3,0,5.333333333333333,Shere Bangla National Stadium,77
-SPNarine,West Indies,Australia,0,0,0,0,0,23,3,19,2,1,6.333333333333333,Shere Bangla National Stadium,58
-SPNarine,West Indies,England,0,0,0,0,0,25,4,33,0,0,8.25,Pallekele International Cricket Stadium,0
-SPNarine,West Indies,Ireland,0,0,0,0,0,24,4,21,1,0,5.25,R Premadasa Stadium,27
-SPNarine,West Indies,Sri Lanka,23,18,2,1,127.77777777777777,24,4,21,1,0,5.25,Pallekele International Cricket Stadium,54
-SPNarine,West Indies,England,0,0,0,0,0,24,4,34,1,0,8.5,Kensington Oval Bridgetown,25
-SPNarine,West Indies,Sri Lanka,0,0,0,0,0,21,3,10,3,0,3.3333333333333335,R Premadasa Stadium,81
-SPNarine,West Indies,Pakistan,9,8,2,0,112.5,23,3,22,3,0,7.333333333333333,Queen's Park Oval Port of Spain,86
-SPNarine,West Indies,Pakistan,1,4,0,0,25.0,17,2,21,0,0,10.5,Dubai International Cricket Stadium,-9
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SPNarine,West Indies,India,0,0,0,0,0,18,3,50,0,0,16.666666666666668,Central Broward Regional Park Stadium Turf Ground,0,0,2016,-6
+SPNarine,West Indies,India,0,0,0,0,0,17,2,22,0,0,11.0,Sabina Park Kingston,0,2,2017,12
+SPNarine,West Indies,Pakistan,1,4,0,0,25.0,17,2,21,0,0,10.5,Dubai International Cricket Stadium,0,0,2016,-9
+SPNarine,West Indies,Bangladesh,0,0,0,0,0,23,3,18,1,0,6.0,Shere Bangla National Stadium,0,0,2014,25
+SPNarine,West Indies,Afghanistan,0,0,0,0,0,17,2,29,1,0,14.5,Warner Park Basseterre,0,0,2017,19
+SPNarine,West Indies,New Zealand,0,0,0,0,0,24,4,36,3,0,9.0,Central Broward Regional Park Stadium Turf Ground,0,0,2012,75
+SPNarine,West Indies,Zimbabwe,1,1,0,0,100.0,23,3,23,0,0,7.666666666666667,Sir Vivian Richards Stadium North Sound,0,0,2013,1
+SPNarine,West Indies,England,0,0,0,0,0,25,4,33,0,0,8.25,Pallekele International Cricket Stadium,0,0,2012,0
+SPNarine,West Indies,Sri Lanka,0,0,0,0,0,23,3,23,0,0,7.666666666666667,Pallekele International Cricket Stadium,0,0,2012,0
+SPNarine,West Indies,England,0,0,0,0,0,24,4,34,1,0,8.5,Kensington Oval Bridgetown,0,0,2014,25
+SPNarine,West Indies,Zimbabwe,0,0,0,0,0,23,3,18,2,0,6.0,Sir Vivian Richards Stadium North Sound,0,0,2013,50
+SPNarine,West Indies,Australia,4,1,0,0,400.0,12,2,16,0,0,8.0,R Premadasa Stadium,0,0,2012,4
+SPNarine,West Indies,India,4,13,0,0,30.76923076923077,23,3,28,0,0,9.333333333333334,Central Broward Regional Park Stadium Turf Ground,0,0,2019,-4
+SPNarine,West Indies,Pakistan,0,0,0,0,0,18,3,34,1,0,11.333333333333334,Queen's Park Oval Port of Spain,0,0,2017,19
+SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,16,3,0,5.333333333333333,Shere Bangla National Stadium,0,0,2014,77
+SPNarine,West Indies,England,0,0,0,0,0,23,3,28,0,0,9.333333333333334,Trent Bridge,0,0,2012,-2
+SPNarine,West Indies,Pakistan,28,16,3,1,175.0,24,4,26,3,0,6.5,Arnos Vale Ground Kingstown,0,0,2013,108
+SPNarine,West Indies,Sri Lanka,0,0,0,0,0,24,4,24,1,0,6.0,R Premadasa Stadium,0,1,2015,33
+SPNarine,West Indies,India,2,6,0,0,33.33333333333333,23,3,29,0,0,9.666666666666666,Providence Stadium Guyana,0,0,2019,-6
+SPNarine,West Indies,Ireland,0,0,0,0,0,24,4,21,1,0,5.25,R Premadasa Stadium,0,0,2012,27
+SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,21,0,0,7.0,Sheikh Zayed Stadium,0,0,2016,0
+SPNarine,West Indies,Australia,0,0,0,0,0,23,3,21,0,0,7.0,Beausejour Stadium Gros Islet,0,0,2012,0
+SPNarine,West Indies,Sri Lanka,0,0,0,0,0,23,3,20,0,0,6.666666666666667,Shere Bangla National Stadium,0,0,2014,0
+SPNarine,West Indies,Ireland,6,7,0,0,85.71428571428571,23,3,16,1,0,5.333333333333333,Sabina Park Kingston,0,0,2014,33
+SPNarine,West Indies,New Zealand,0,0,0,0,0,23,3,18,2,0,6.0,Westpac Stadium,0,0,2014,50
+SPNarine,West Indies,England,0,0,0,0,0,11,1,8,1,0,8.0,Kensington Oval Bridgetown,0,0,2014,25
+SPNarine,West Indies,New Zealand,3,4,0,0,75.0,24,4,21,3,0,5.25,Pallekele International Cricket Stadium,0,0,2012,80
+SPNarine,West Indies,Australia,0,0,0,0,0,23,3,19,2,1,6.333333333333333,Shere Bangla National Stadium,0,0,2014,58
+SPNarine,West Indies,Sri Lanka,23,18,2,1,127.77777777777777,24,4,21,1,0,5.25,Pallekele International Cricket Stadium,0,0,2015,54
+SPNarine,West Indies,New Zealand,0,0,0,0,0,24,4,12,4,0,3.0,Central Broward Regional Park Stadium Turf Ground,0,0,2012,114
+SPNarine,West Indies,Australia,2,4,0,0,50.0,23,3,33,0,0,11.0,Kensington Oval Bridgetown,0,0,2012,-6
+SPNarine,West Indies,New Zealand,0,2,0,0,0.0,24,4,50,0,0,12.5,Eden Park,0,0,2014,-14
+SPNarine,West Indies,India,2,4,0,0,50.0,23,3,14,2,0,4.666666666666667,Central Broward Regional Park Stadium Turf Ground,0,0,2019,52
+SPNarine,West Indies,India,9,7,0,1,128.57142857142858,0,0,0,0,0,0,Central Broward Regional Park Stadium Turf Ground,0,0,2016,11
+SPNarine,West Indies,Pakistan,9,8,2,0,112.5,23,3,22,3,0,7.333333333333333,Queen's Park Oval Port of Spain,0,0,2017,86
+SPNarine,West Indies,Pakistan,9,9,0,0,100.0,23,3,19,0,0,6.333333333333333,Queen's Park Oval Port of Spain,0,0,2017,9
+SPNarine,West Indies,New Zealand,0,0,0,0,0,24,4,19,2,0,4.75,Windsor Park Roseau,0,0,2014,54
+SPNarine,West Indies,Sri Lanka,0,0,0,0,0,21,3,10,3,0,3.3333333333333335,R Premadasa Stadium,0,0,2012,81
+SPNarine,West Indies,Bangladesh,0,0,0,0,0,18,3,27,0,0,9.0,Shere Bangla National Stadium,0,0,2012,0
+SPNarine,West Indies,Afghanistan,0,0,0,0,0,23,3,11,3,0,3.6666666666666665,Warner Park Basseterre,0,1,2017,89
+SPNarine,West Indies,Pakistan,1,6,0,0,16.666666666666664,23,3,22,0,0,7.333333333333333,Kensington Oval Bridgetown,0,0,2017,-5
+SPNarine,West Indies,Australia,0,0,0,0,0,17,2,19,2,0,9.5,R Premadasa Stadium,0,0,2012,48
+SPNarine,West Indies,Australia,0,0,0,0,0,23,3,19,2,0,6.333333333333333,Brisbane Cricket Ground Woolloongabba,0,0,2013,50
+SPNarine,West Indies,Pakistan,30,19,4,1,157.89473684210526,24,4,36,0,0,9.0,Dubai International Cricket Stadium,0,0,2016,36
+SPNarine,West Indies,India,7,3,0,1,233.33333333333334,25,4,20,0,0,5.0,Shere Bangla National Stadium,0,0,2014,11
+SPNarine,West Indies,New Zealand,0,0,0,0,0,18,3,19,0,0,6.333333333333333,Windsor Park Roseau,0,1,2014,8
+SPNarine,West Indies,Afghanistan,0,0,0,0,0,24,4,28,0,0,7.0,Warner Park Basseterre,0,0,2017,0
+SPNarine,West Indies,Pakistan,0,0,0,0,0,23,3,24,1,0,8.0,Arnos Vale Ground Kingstown,0,0,2013,25
+SPNarine,West Indies,Ireland,12,14,0,0,85.71428571428571,23,3,12,1,0,4.0,Sabina Park Kingston,0,0,2014,41
+SPNarine,West Indies,New Zealand,0,0,0,0,0,24,4,50,1,0,12.5,Queenstown Events Centre,0,0,2014,19
+SPNarine,West Indies,India,2,9,0,0,22.22222222222222,59,9,49,2,0,5.444444444444445,Kennington Oval,0,0,2013,48
+SPNarine,West Indies,Bangladesh,7,4,0,1,175.0,45,7,13,3,1,1.8571428571428572,National Cricket Stadium St George's,0,0,2014,98
+SPNarine,West Indies,Bangladesh,3,5,0,0,60.0,59,9,30,0,1,3.3333333333333335,National Cricket Stadium St George's,0,1,2014,23
+SPNarine,West Indies,India,8,15,1,0,53.333333333333336,59,9,43,2,1,4.777777777777778,MA Chidambaram Stadium Chepauk,0,0,2011,67
+SPNarine,West Indies,Sri Lanka,0,0,0,0,0,36,6,21,3,0,3.5,R Premadasa Stadium,0,0,2015,81
+SPNarine,West Indies,Bangladesh,7,8,0,0,87.5,64,10,38,3,1,3.8,Shere Bangla National Stadium,0,0,2012,96
+SPNarine,West Indies,India,0,6,0,0,0.0,64,10,57,1,1,5.7,Nehru Stadium,0,1,2013,35
+SPNarine,West Indies,Australia,5,8,1,0,62.5,59,9,36,2,3,4.0,Providence Stadium,0,0,2016,82
+SPNarine,West Indies,Sri Lanka,0,0,0,0,0,59,9,44,4,1,4.888888888888889,Sabina Park Kingston,0,0,2013,120
+SPNarine,West Indies,New Zealand,10,12,2,0,83.33333333333334,60,10,28,2,2,2.8,Warner Park Basseterre,0,1,2012,92
+SPNarine,West Indies,South Africa,18,13,3,0,138.46153846153845,59,9,47,0,0,5.222222222222222,Warner Park Basseterre,0,1,2016,31
+SPNarine,West Indies,Australia,7,10,1,0,70.0,59,9,55,2,0,6.111111111111111,Beausejour Stadium Gros Islet,0,0,2012,58
+SPNarine,West Indies,Australia,23,18,4,0,127.77777777777777,62,10,56,1,1,5.6,Kensington Oval Bridgetown,0,0,2016,62
+SPNarine,West Indies,Zimbabwe,0,0,0,0,0,61,10,41,1,1,4.1,National Cricket Stadium St George's,0,0,2013,37
+SPNarine,West Indies,Bangladesh,0,0,0,0,0,59,9,31,1,0,3.4444444444444446,Warner Park Basseterre,0,0,2014,31
+SPNarine,West Indies,Sri Lanka,0,1,0,0,0.0,47,7,27,1,0,3.857142857142857,R Premadasa Stadium,0,0,2015,23
+SPNarine,West Indies,Pakistan,14,35,2,0,40.0,21,3,33,0,0,11.0,Providence Stadium,0,0,2013,6
+SPNarine,West Indies,New Zealand,0,0,0,0,0,60,10,49,1,0,4.9,Saxton Oval,0,0,2014,29
+SPNarine,West Indies,Pakistan,1,6,0,0,16.666666666666664,48,8,39,1,0,4.875,Sharjah Cricket Stadium,0,0,2016,24
+SPNarine,West Indies,New Zealand,0,0,0,0,0,59,9,30,1,2,3.3333333333333335,Eden Park,0,0,2013,47
+SPNarine,West Indies,Australia,1,2,0,0,50.0,62,10,51,0,0,5.1,Kensington Oval Bridgetown,0,0,2016,-1
+SPNarine,West Indies,India,0,0,0,0,0,59,9,32,1,2,3.5555555555555554,Green Park,0,0,2013,47
+SPNarine,West Indies,India,5,12,0,0,41.66666666666667,60,10,61,0,0,6.1,Sabina Park Kingston,0,0,2013,-1
+SPNarine,West Indies,Pakistan,0,0,0,0,0,41,6,29,0,0,4.833333333333333,Beausejour Stadium Gros Islet,0,0,2013,4
+SPNarine,West Indies,New Zealand,6,9,0,0,66.66666666666666,60,10,27,5,1,2.7,Warner Park Basseterre,0,0,2012,159
+SPNarine,West Indies,England,10,6,0,1,166.66666666666669,61,10,52,1,1,5.2,Sir Vivian Richards Stadium North Sound,0,1,2014,55
+SPNarine,West Indies,Australia,10,10,2,0,100.0,59,9,36,3,1,4.0,Arnos Vale Ground Kingstown,0,0,2012,99
+SPNarine,West Indies,Sri Lanka,9,14,1,0,64.28571428571429,44,7,25,0,1,3.5714285714285716,Pallekele International Cricket Stadium,0,0,2015,22
+SPNarine,West Indies,Bangladesh,36,45,3,0,80.0,48,8,39,1,1,4.875,Sheikh Abu Naser Stadium,0,0,2012,76
+SPNarine,West Indies,New Zealand,0,0,0,0,0,62,10,45,2,0,4.5,Sabina Park Kingston,0,0,2012,54
+SPNarine,West Indies,Australia,0,11,0,0,0.0,18,3,24,0,0,8.0,Western Australia Cricket Association Ground,0,0,2013,-8
+SPNarine,West Indies,Pakistan,23,16,2,2,143.75,60,10,58,1,0,5.8,Sharjah Cricket Stadium,0,1,2016,64
+SPNarine,West Indies,Australia,24,6,0,3,400.0,59,9,38,1,1,4.222222222222222,Western Australia Cricket Association Ground,0,0,2013,67
+SPNarine,West Indies,Australia,23,25,3,0,92.0,59,9,34,2,2,3.7777777777777777,Sydney Cricket Ground,0,0,2013,98
+SPNarine,West Indies,India,0,3,0,0,0.0,60,10,39,0,2,3.9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0,0,2013,14
+SPNarine,West Indies,Pakistan,11,8,1,0,137.5,59,9,34,3,2,3.7777777777777777,Kennington Oval,0,0,2013,109
+SPNarine,West Indies,New Zealand,0,0,0,0,0,61,10,26,2,4,2.6,Sabina Park Kingston,0,0,2012,88
+SPNarine,West Indies,Bangladesh,13,8,2,0,162.5,49,8,32,1,1,4.0,Shere Bangla National Stadium,0,0,2012,52
+SPNarine,West Indies,England,4,5,1,0,80.0,61,10,25,1,0,2.5,Sir Vivian Richards Stadium North Sound,0,0,2014,36
+SPNarine,West Indies,Pakistan,0,0,0,0,0,62,10,43,0,1,4.3,Beausejour Stadium Gros Islet,0,0,2013,12
+SPNarine,West Indies,New Zealand,0,0,0,0,0,34,5,37,0,0,7.4,Seddon Park,0,0,2014,0
+SPNarine,West Indies,Pakistan,0,6,0,0,0.0,59,9,47,1,1,5.222222222222222,Sheikh Zayed Stadium,0,0,2016,27
+SPNarine,West Indies,Australia,0,3,0,0,0.0,59,9,28,0,1,3.111111111111111,Melbourne Cricket Ground,0,1,2013,14
+SPNarine,West Indies,Zimbabwe,0,0,0,0,0,59,9,28,3,4,3.111111111111111,National Cricket Stadium St George's,0,0,2013,113
+SPNarine,West Indies,Australia,0,0,0,0,0,47,7,30,4,1,4.285714285714286,Arnos Vale Ground Kingstown,1,0,2012,132
+SPNarine,West Indies,Australia,0,3,0,0,0.0,60,10,24,1,0,2.4,Arnos Vale Ground Kingstown,0,1,2012,31
+SPNarine,West Indies,India,27,33,3,1,81.81818181818183,37,6,46,0,0,7.666666666666667,Holkar Cricket Stadium,0,0,2011,32
+SPNarine,West Indies,England,0,4,0,0,0.0,61,10,47,1,0,4.7,The Rose Bowl,0,0,2012,21
+SPNarine,West Indies,Pakistan,14,5,2,0,280.0,55,9,55,0,0,6.111111111111111,Beausejour Stadium Gros Islet,0,1,2013,24
+SPNarine,West Indies,South Africa,1,5,0,0,20.0,60,10,36,3,1,3.6,Kensington Oval Bridgetown,0,0,2016,84
+SPNarine,West Indies,South Africa,0,0,0,0,0,41,6,48,0,0,8.0,Sophia Gardens,0,0,2013,0
+SPNarine,West Indies,England,0,0,0,0,0,61,10,37,2,1,3.7,Sir Vivian Richards Stadium North Sound,0,1,2014,72
+SPNarine,West Indies,Bangladesh,10,17,1,0,58.82352941176471,61,10,50,0,2,5.0,Sheikh Abu Naser Stadium,0,2,2012,41
+SPNarine,West Indies,India,0,0,0,0,0,59,9,34,2,1,3.7777777777777777,Sardar Patel Stadium Motera,0,0,2011,64
+SPNarine,West Indies,Australia,1,3,0,0,33.33333333333333,60,10,55,2,0,5.5,Manuka Oval,0,0,2013,47
+SPNarine,West Indies,New Zealand,6,7,0,0,85.71428571428571,60,10,22,2,3,2.2,Warner Park Basseterre,0,0,2012,86
+SPNarine,West Indies,Bangladesh,0,0,0,0,0,62,10,41,4,1,4.1,Shere Bangla National Stadium,0,0,2012,120
+SPNarine,West Indies,Pakistan,1,1,0,0,100.0,60,10,28,4,2,2.8,Providence Stadium,0,0,2013,131
+SPNarine,West Indies,India,21,34,0,2,61.76470588235294,29,4,39,0,0,9.75,Queen's Park Oval Port of Spain,0,0,2013,21

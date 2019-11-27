@@ -1,7 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-SSaeed,Maldives,Malaysia,0,0,0,0,0,11,1,20,0,0,20.0,Kinrara Academy Oval,0
-SSaeed,Maldives,Malaysia,0,0,0,0,0,11,1,20,0,0,20.0,Kinrara Academy Oval,0
-SSaeed,Maldives,Malaysia,0,0,0,0,0,11,1,20,0,0,20.0,Kinrara Academy Oval,0
-SSaeed,Maldives,Thailand,0,0,0,0,0,5,0,10,0,0,0,Kinrara Academy Oval,0
-SSaeed,Maldives,Thailand,0,0,0,0,0,23,3,24,1,0,8.0,Kinrara Academy Oval,25
-SSaeed,Maldives,Malaysia,0,0,0,0,0,11,1,20,0,0,20.0,Kinrara Academy Oval,0
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+SSaeed,Maldives,Malaysia,0,0,0,0,0,11,1,20,0,0,20.0,Kinrara Academy Oval,0,0,2019,0
+SSaeed,Maldives,Thailand,0,0,0,0,0,5,0,10,0,0,0,Kinrara Academy Oval,0,2,2019,16
+SSaeed,Maldives,Thailand,0,0,0,0,0,23,3,24,1,0,8.0,Kinrara Academy Oval,1,0,2019,37

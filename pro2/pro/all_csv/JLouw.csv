@@ -1,4 +1,4 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JLouw,South Africa,Bangladesh,1,2,0,0,50.0,19,3,18,0,0,6.0,New Wanderers Stadium,-3
-JLouw,South Africa,Australia,0,0,0,0,0,26,4,36,2,0,9.0,SuperSport Park,50
-JLouw,South Africa,Bangladesh,1,2,0,0,50.0,19,3,18,0,0,6.0,New Wanderers Stadium,-3
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JLouw,South Africa,Australia,0,0,0,0,0,26,4,36,2,0,9.0,SuperSport Park,0,0,2009,50
+JLouw,South Africa,Bangladesh,1,2,0,0,50.0,19,3,18,0,0,6.0,New Wanderers Stadium,0,0,2008,-3
+JLouw,South Africa,Bangladesh,23,7,1,2,328.57142857142856,43,7,50,0,0,7.142857142857143,Senwes Park,0,0,2008,28

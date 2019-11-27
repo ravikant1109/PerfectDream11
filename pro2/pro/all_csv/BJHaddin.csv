@@ -1,50 +1,125 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BJHaddin,Australia,India,5,4,0,0,125.0,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,5
-BJHaddin,Australia,India,5,8,0,0,62.5,0,0,0,0,0,0,Kingsmead,3
-BJHaddin,Australia,South Africa,4,4,0,0,100.0,0,0,0,0,0,0,Kingsmead,4
-BJHaddin,Australia,West Indies,15,9,1,1,166.66666666666669,0,0,0,0,0,0,Shere Bangla National Stadium,18
-BJHaddin,Australia,Sri Lanka,15,10,3,0,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,18
-BJHaddin,Australia,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-BJHaddin,Australia,India,5,4,0,0,125.0,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,5
-BJHaddin,Australia,India,5,8,0,0,62.5,0,0,0,0,0,0,Kingsmead,3
-BJHaddin,Australia,South Africa,4,4,0,0,100.0,0,0,0,0,0,0,Kingsmead,4
-BJHaddin,Australia,West Indies,15,9,1,1,166.66666666666669,0,0,0,0,0,0,Shere Bangla National Stadium,18
-BJHaddin,Australia,Sri Lanka,15,10,3,0,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,18
-BJHaddin,Australia,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-BJHaddin,Australia,India,5,4,0,0,125.0,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,5
-BJHaddin,Australia,India,5,8,0,0,62.5,0,0,0,0,0,0,Kingsmead,3
-BJHaddin,Australia,South Africa,4,4,0,0,100.0,0,0,0,0,0,0,Kingsmead,4
-BJHaddin,Australia,West Indies,15,9,1,1,166.66666666666669,0,0,0,0,0,0,Shere Bangla National Stadium,18
-BJHaddin,Australia,Sri Lanka,15,10,3,0,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,18
-BJHaddin,Australia,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-BJHaddin,Australia,New Zealand,49,37,4,2,132.43243243243242,0,0,0,0,0,0,AMI Stadium,57
-BJHaddin,Australia,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Melbourne Cricket Ground,-5
-BJHaddin,Australia,Pakistan,8,8,0,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,8
-BJHaddin,Australia,New Zealand,15,10,2,0,150.0,0,0,0,0,0,0,Sydney Cricket Ground,17
-BJHaddin,Australia,Pakistan,25,20,2,1,125.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,29
-BJHaddin,Australia,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,-3
-BJHaddin,Australia,India,8,7,0,1,114.28571428571428,0,0,0,0,0,0,Kensington Oval Bridgetown,10
-BJHaddin,Australia,West Indies,37,17,2,2,217.6470588235294,0,0,0,0,0,0,Bellerive Oval,43
-BJHaddin,Australia,Bangladesh,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Kensington Oval Bridgetown,4
-BJHaddin,Australia,Sri Lanka,7,9,0,0,77.77777777777779,0,0,0,0,0,0,Pallekele International Cricket Stadium,7
-BJHaddin,Australia,Sri Lanka,16,17,0,1,94.11764705882352,0,0,0,0,0,0,Trent Bridge,18
-BJHaddin,Australia,Sri Lanka,35,31,3,1,112.90322580645163,0,0,0,0,0,0,Western Australia Cricket Association Ground,40
-BJHaddin,Australia,India,6,8,1,0,75.0,0,0,0,0,0,0,Shere Bangla National Stadium,7
-BJHaddin,Australia,India,5,5,0,0,100.0,0,0,0,0,0,0,Brabourne Stadium,5
-BJHaddin,Australia,Pakistan,24,27,2,0,88.88888888888889,0,0,0,0,0,0,Dubai International Cricket Stadium,26
-BJHaddin,Australia,England,1,2,0,0,50.0,0,0,0,0,0,0,Kensington Oval Bridgetown,-3
-BJHaddin,Australia,South Africa,16,13,0,1,123.07692307692308,0,0,0,0,0,0,SuperSport Park,18
-BJHaddin,Australia,South Africa,0,3,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,-8
-BJHaddin,Australia,West Indies,24,20,2,1,120.0,0,0,0,0,0,0,Kennington Oval,28
-BJHaddin,Australia,West Indies,22,11,1,2,200.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,27
-BJHaddin,Australia,West Indies,42,46,5,0,91.30434782608695,0,0,0,0,0,0,Beausejour Stadium Gros Islet,47
-BJHaddin,Australia,Zimbabwe,6,13,0,0,46.15384615384615,0,0,0,0,0,0,Newlands,0
-BJHaddin,Australia,West Indies,6,6,1,0,100.0,0,0,0,0,0,0,Sydney Cricket Ground,7
-BJHaddin,Australia,India,5,4,0,0,125.0,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,5
-BJHaddin,Australia,India,5,8,0,0,62.5,0,0,0,0,0,0,Kingsmead,3
-BJHaddin,Australia,South Africa,4,4,0,0,100.0,0,0,0,0,0,0,Kingsmead,4
-BJHaddin,Australia,West Indies,15,9,1,1,166.66666666666669,0,0,0,0,0,0,Shere Bangla National Stadium,18
-BJHaddin,Australia,Sri Lanka,15,10,3,0,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,18
-BJHaddin,Australia,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,-8
-BJHaddin,Australia,New Zealand,49,37,4,2,132.43243243243242,0,0,0,0,0,0,AMI Stadium,57
-BJHaddin,Australia,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Melbourne Cricket Ground,-5
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BJHaddin,Australia,West Indies,6,6,1,0,100.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,7
+BJHaddin,Australia,Sri Lanka,15,10,3,0,150.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,1,2010,26
+BJHaddin,Australia,West Indies,37,17,2,2,217.6470588235294,0,0,0,0,0,0,Bellerive Oval,0,1,2010,51
+BJHaddin,Australia,Pakistan,25,20,2,1,125.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,1,1,2010,49
+BJHaddin,Australia,South Africa,4,4,0,0,100.0,0,0,0,0,0,0,Kingsmead,0,0,2014,4
+BJHaddin,Australia,Pakistan,8,8,0,0,100.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2014,8
+BJHaddin,Australia,India,8,7,0,1,114.28571428571428,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,10
+BJHaddin,Australia,India,5,8,0,0,62.5,0,0,0,0,0,0,Kingsmead,0,0,2007,3
+BJHaddin,Australia,New Zealand,15,10,2,0,150.0,0,0,0,0,0,0,Sydney Cricket Ground,1,1,2009,37
+BJHaddin,Australia,West Indies,42,46,5,0,91.30434782608695,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,1,2010,55
+BJHaddin,Australia,Pakistan,24,27,2,0,88.88888888888889,0,0,0,0,0,0,Dubai International Cricket Stadium,0,0,2009,26
+BJHaddin,Australia,Sri Lanka,7,9,0,0,77.77777777777779,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,7
+BJHaddin,Australia,Sri Lanka,35,31,3,1,112.90322580645163,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2010,48
+BJHaddin,Australia,South Africa,16,13,0,1,123.07692307692308,0,0,0,0,0,0,SuperSport Park,0,1,2009,26
+BJHaddin,Australia,Zimbabwe,6,13,0,0,46.15384615384615,0,0,0,0,0,0,Newlands,0,0,2007,0
+BJHaddin,Australia,Sri Lanka,16,17,0,1,94.11764705882352,0,0,0,0,0,0,Trent Bridge,0,0,2009,18
+BJHaddin,Australia,India,6,8,1,0,75.0,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2014,15
+BJHaddin,Australia,Pakistan,1,2,0,0,50.0,0,0,0,0,0,0,Beausejour Stadium Gros Islet,0,0,2010,-3
+BJHaddin,Australia,West Indies,15,9,1,1,166.66666666666669,0,0,0,0,0,0,Shere Bangla National Stadium,0,2,2014,34
+BJHaddin,Australia,Sri Lanka,0,1,0,0,0.0,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,0,2011,-8
+BJHaddin,Australia,England,1,2,0,0,50.0,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,-3
+BJHaddin,Australia,South Africa,0,3,0,0,0.0,0,0,0,0,0,0,New Wanderers Stadium,0,0,2009,-8
+BJHaddin,Australia,India,5,5,0,0,100.0,0,0,0,0,0,0,Brabourne Stadium,0,0,2007,5
+BJHaddin,Australia,Pakistan,1,4,0,0,25.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,-5
+BJHaddin,Australia,Bangladesh,6,9,0,0,66.66666666666666,0,0,0,0,0,0,Kensington Oval Bridgetown,0,0,2010,4
+BJHaddin,Australia,New Zealand,49,37,4,2,132.43243243243242,0,0,0,0,0,0,AMI Stadium,0,0,2010,57
+BJHaddin,Australia,India,5,4,0,0,125.0,0,0,0,0,0,0,Saurashtra Cricket Association Stadium,0,1,2013,13
+BJHaddin,Australia,West Indies,22,11,1,2,200.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2013,27
+BJHaddin,Australia,West Indies,24,20,2,1,120.0,0,0,0,0,0,0,Kennington Oval,0,0,2009,28
+BJHaddin,Australia,Bangladesh,10,11,1,0,90.9090909090909,0,0,0,0,0,0,Shere Bangla National Stadium,0,1,2011,19
+BJHaddin,Australia,South Africa,19,13,2,0,146.15384615384613,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2009,21
+BJHaddin,Australia,England,35,33,5,1,106.06060606060606,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2014,58
+BJHaddin,Australia,West Indies,17,12,0,1,141.66666666666669,0,0,0,0,0,0,Kinrara Academy Oval,0,3,2006,43
+BJHaddin,Australia,Pakistan,8,13,1,0,61.53846153846154,0,0,0,0,0,0,Dubai Sports City Cricket Stadium,0,3,2009,31
+BJHaddin,Australia,England,16,8,3,0,200.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2015,19
+BJHaddin,Australia,Pakistan,40,54,3,1,74.07407407407408,0,0,0,0,0,0,Dubai Sports City Cricket Stadium,0,2,2009,61
+BJHaddin,Australia,Pakistan,7,13,0,0,53.84615384615385,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,2,2010,19
+BJHaddin,Australia,England,27,63,1,1,42.857142857142854,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,3,2011,48
+BJHaddin,Australia,England,26,37,2,0,70.27027027027027,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,0,2014,28
+BJHaddin,Australia,Sri Lanka,10,14,0,0,71.42857142857143,0,0,0,0,0,0,Melbourne Cricket Ground,0,3,2013,34
+BJHaddin,Australia,Pakistan,0,1,0,0,0.0,0,0,0,0,0,0,Sheikh Zayed Stadium,0,1,2009,0
+BJHaddin,Australia,New Zealand,6,5,0,0,120.0,0,0,0,0,0,0,Westpac Stadium,0,0,2007,6
+BJHaddin,Australia,New Zealand,43,68,5,1,63.23529411764706,0,0,0,0,0,0,Adelaide Oval,0,1,2009,56
+BJHaddin,Australia,South Africa,9,7,0,0,128.57142857142858,0,0,0,0,0,0,SuperSport Park,0,1,2011,17
+BJHaddin,Australia,India,18,32,1,0,56.25,0,0,0,0,0,0,Kinrara Academy Oval,0,1,2006,23
+BJHaddin,Australia,India,3,4,0,0,75.0,0,0,0,0,0,0,JSCA International Stadium Complex,0,0,2013,3
+BJHaddin,Australia,Pakistan,36,32,7,0,112.5,0,0,0,0,0,0,Sheikh Zayed Stadium,0,0,2009,43
+BJHaddin,Australia,India,87,72,8,3,120.83333333333333,0,0,0,0,0,0,Nehru Stadium,0,0,2007,109
+BJHaddin,Australia,South Africa,9,7,0,1,128.57142857142858,0,0,0,0,0,0,Harare Sports Club,0,0,2014,11
+BJHaddin,Australia,Zimbabwe,49,66,2,3,74.24242424242425,0,0,0,0,0,0,Harare Sports Club,0,0,2014,57
+BJHaddin,Australia,India,10,14,2,0,71.42857142857143,0,0,0,0,0,0,Maharashtra Cricket Association Stadium,0,1,2013,20
+BJHaddin,Australia,South Africa,53,63,6,1,84.12698412698413,0,0,0,0,0,0,Kingsmead,0,2,2009,85
+BJHaddin,Australia,Sri Lanka,41,45,6,0,91.11111111111111,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2006,55
+BJHaddin,Australia,India,5,32,0,0,15.625,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2008,-1
+BJHaddin,Australia,England,20,25,1,0,80.0,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2011,21
+BJHaddin,Australia,Sri Lanka,50,67,4,1,74.6268656716418,0,0,0,0,0,0,Adelaide Oval,0,1,2013,72
+BJHaddin,Australia,Pakistan,26,56,4,0,46.42857142857143,0,0,0,0,0,0,Sheikh Zayed Stadium,1,0,2009,36
+BJHaddin,Australia,India,46,63,1,4,73.01587301587301,0,0,0,0,0,0,Kinrara Academy Oval,0,1,2006,63
+BJHaddin,Australia,Bangladesh,8,19,1,0,42.10526315789473,0,0,0,0,0,0,Shere Bangla National Stadium,0,0,2011,3
+BJHaddin,Australia,New Zealand,49,63,5,2,77.77777777777779,0,0,0,0,0,0,Eden Park,0,1,2007,66
+BJHaddin,Australia,Pakistan,7,7,0,0,100.0,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,4,2010,39
+BJHaddin,Australia,New Zealand,43,42,4,2,102.38095238095238,0,0,0,0,0,0,Eden Park,0,1,2015,59
+BJHaddin,Australia,Sri Lanka,5,6,1,0,83.33333333333334,0,0,0,0,0,0,R Premadasa Stadium,0,1,2011,14
+BJHaddin,Australia,New Zealand,26,25,2,1,104.0,0,0,0,0,0,0,Bellerive Oval,0,3,2007,54
+BJHaddin,Australia,New Zealand,17,21,3,0,80.95238095238095,0,0,0,0,0,0,Westpac Stadium,0,2,2010,36
+BJHaddin,Australia,South Africa,63,53,5,1,118.86792452830188,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,2,2009,94
+BJHaddin,Australia,Sri Lanka,7,14,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2008,3
+BJHaddin,Australia,New Zealand,38,31,4,1,122.58064516129032,0,0,0,0,0,0,Seddon Park,0,2,2007,60
+BJHaddin,Australia,India,25,55,0,1,45.45454545454545,0,0,0,0,0,0,Vidarbha Cricket Association Ground,0,0,2007,21
+BJHaddin,Australia,India,1,1,0,0,100.0,0,0,0,0,0,0,Sawai Mansingh Stadium,0,1,2013,9
+BJHaddin,Australia,England,37,57,7,0,64.91228070175438,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,2,2011,58
+BJHaddin,Australia,West Indies,70,78,3,4,89.74358974358975,0,0,0,0,0,0,Kinrara Academy Oval,0,3,2006,113
+BJHaddin,Australia,England,39,47,5,0,82.97872340425532,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2011,60
+BJHaddin,Australia,Sri Lanka,12,18,1,0,66.66666666666666,0,0,0,0,0,0,Pallekele International Cricket Stadium,0,1,2011,19
+BJHaddin,Australia,New Zealand,12,16,2,0,75.0,0,0,0,0,0,0,McLean Park,0,1,2010,22
+BJHaddin,Australia,Pakistan,23,27,2,0,85.18518518518519,0,0,0,0,0,0,Sharjah Cricket Stadium,0,3,2014,49
+BJHaddin,Australia,South Africa,1,4,0,0,25.0,0,0,0,0,0,0,Docklands Stadium,0,3,2006,19
+BJHaddin,Australia,Bangladesh,3,13,0,0,23.076923076923077,0,0,0,0,0,0,Marrara Cricket Ground,0,1,2008,5
+BJHaddin,Australia,New Zealand,110,123,7,5,89.43089430894308,0,0,0,0,0,0,Seddon Park,0,2,2010,159
+BJHaddin,Australia,England,42,30,4,1,140.0,0,0,0,0,0,0,Bellerive Oval,2,1,2015,80
+BJHaddin,Australia,South Africa,62,64,7,1,96.875,0,0,0,0,0,0,New Wanderers Stadium,0,3,2009,103
+BJHaddin,Australia,England,5,8,0,0,62.5,0,0,0,0,0,0,Bellerive Oval,0,0,2011,3
+BJHaddin,Australia,England,31,14,5,0,221.42857142857144,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2015,52
+BJHaddin,Australia,Sri Lanka,8,15,1,0,53.333333333333336,0,0,0,0,0,0,R Premadasa Stadium,0,2,2011,21
+BJHaddin,Australia,New Zealand,55,52,8,0,105.76923076923077,0,0,0,0,0,0,Vidarbha Cricket Association Stadium Jamtha,0,4,2011,103
+BJHaddin,Australia,New Zealand,31,54,1,1,57.407407407407405,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,0,2009,30
+BJHaddin,Australia,South Africa,15,36,1,0,41.66666666666667,0,0,0,0,0,0,Newlands,0,1,2009,18
+BJHaddin,Australia,West Indies,32,42,1,2,76.19047619047619,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,37
+BJHaddin,Australia,Pakistan,27,14,3,0,192.85714285714286,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2010,38
+BJHaddin,Australia,Sri Lanka,5,22,1,0,22.727272727272727,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,1,2011,8
+BJHaddin,Australia,South Africa,1,4,0,0,25.0,0,0,0,0,0,0,SuperSport Park,0,1,2009,3
+BJHaddin,Australia,Pakistan,42,83,3,1,50.602409638554214,0,0,0,0,0,0,R Premadasa Stadium,0,2,2011,59
+BJHaddin,Australia,India,40,49,7,0,81.63265306122449,0,0,0,0,0,0,M Chinnaswamy Stadium,0,1,2013,55
+BJHaddin,Australia,New Zealand,0,1,0,0,0.0,0,0,0,0,0,0,Eden Park,0,1,2010,0
+BJHaddin,Australia,South Africa,6,19,0,0,31.57894736842105,0,0,0,0,0,0,Harare Sports Club,0,0,2014,0
+BJHaddin,Australia,Sri Lanka,49,55,8,0,89.0909090909091,0,0,0,0,0,0,Melbourne Cricket Ground,0,0,2010,57
+BJHaddin,Australia,India,24,17,2,1,141.1764705882353,0,0,0,0,0,0,Punjab Cricket Association Stadium Mohali,0,5,2013,68
+BJHaddin,Australia,Pakistan,1,1,0,0,100.0,0,0,0,0,0,0,Adelaide Oval,0,4,2010,33
+BJHaddin,Australia,Sri Lanka,1,3,0,0,33.33333333333333,0,0,0,0,0,0,Sydney Cricket Ground,0,0,2010,-5
+BJHaddin,Australia,New Zealand,88,66,5,3,133.33333333333331,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,1,2009,115
+BJHaddin,Australia,South Africa,23,28,1,0,82.14285714285714,0,0,0,0,0,0,Bellerive Oval,1,0,2009,36
+BJHaddin,Australia,West Indies,43,47,5,0,91.48936170212765,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2013,64
+BJHaddin,Australia,Zimbabwe,46,58,2,2,79.3103448275862,0,0,0,0,0,0,Harare Sports Club,0,1,2014,60
+BJHaddin,Australia,South Africa,11,17,1,0,64.70588235294117,0,0,0,0,0,0,Harare Sports Club,0,1,2014,18
+BJHaddin,Australia,Sri Lanka,7,7,1,0,100.0,0,0,0,0,0,0,Mahinda Rajapaksa International Cricket Stadium Sooriyawewa,0,2,2011,24
+BJHaddin,Australia,South Africa,3,10,0,0,30.0,0,0,0,0,0,0,Adelaide Oval,0,0,2009,-3
+BJHaddin,Australia,South Africa,23,26,2,2,88.46153846153845,0,0,0,0,0,0,Kingsmead,0,0,2011,29
+BJHaddin,Australia,India,69,84,7,1,82.14285714285714,0,0,0,0,0,0,M Chinnaswamy Stadium,0,0,2007,86
+BJHaddin,Australia,Bangladesh,16,32,1,0,50.0,0,0,0,0,0,0,Marrara Cricket Ground,0,0,2008,13
+BJHaddin,Australia,South Africa,6,15,0,0,40.0,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2009,8
+BJHaddin,Australia,England,9,12,1,0,75.0,0,0,0,0,0,0,Western Australia Cricket Association Ground,0,1,2015,18
+BJHaddin,Australia,India,13,12,1,0,108.33333333333333,0,0,0,0,0,0,Melbourne Cricket Ground,0,1,2015,22
+BJHaddin,Australia,Pakistan,17,20,1,1,85.0,0,0,0,0,0,0,Dubai International Cricket Stadium,1,0,2014,32
+BJHaddin,Australia,Sri Lanka,31,46,3,0,67.3913043478261,0,0,0,0,0,0,Brisbane Cricket Ground Woolloongabba,0,2,2010,48
+BJHaddin,Australia,New Zealand,12,20,1,0,60.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,2,2009,27
+BJHaddin,Australia,India,19,40,2,0,47.5,0,0,0,0,0,0,Wankhede Stadium,0,0,2007,15
+BJHaddin,Australia,England,20,16,4,0,125.0,0,0,0,0,0,0,Adelaide Oval,0,2,2011,40
+BJHaddin,Australia,West Indies,50,54,4,1,92.5925925925926,0,0,0,0,0,0,Arnos Vale Ground Kingstown,1,3,2008,100
+BJHaddin,Australia,South Africa,13,23,0,0,56.52173913043478,0,0,0,0,0,0,St George's Park,0,2,2011,25
+BJHaddin,Australia,West Indies,8,16,0,0,50.0,0,0,0,0,0,0,Melbourne Cricket Ground,0,3,2010,28
+BJHaddin,Australia,South Africa,78,63,7,4,123.80952380952381,0,0,0,0,0,0,St George's Park,0,1,2009,109
+BJHaddin,Australia,Zimbabwe,29,66,3,0,43.93939393939394,0,0,0,0,0,0,Sardar Patel Stadium Motera,0,3,2011,50
+BJHaddin,Australia,Sri Lanka,25,9,4,1,277.77777777777777,0,0,0,0,0,0,Sydney Cricket Ground,0,2,2015,47
+BJHaddin,Australia,New Zealand,109,114,8,3,95.6140350877193,0,0,0,0,0,0,Sydney Cricket Ground,0,1,2009,147

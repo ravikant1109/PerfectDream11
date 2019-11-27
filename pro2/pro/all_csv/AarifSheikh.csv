@@ -1,18 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-AarifSheikh,Nepal,Hong Kong,21,25,1,0,84.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),22
-AarifSheikh,Nepal,Zimbabwe,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Indian Association Ground,9
-AarifSheikh,Nepal,Ireland,26,26,1,0,100.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),27
-AarifSheikh,Nepal,Hong Kong,21,25,1,0,84.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),22
-AarifSheikh,Nepal,Zimbabwe,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Indian Association Ground,9
-AarifSheikh,Nepal,Ireland,26,26,1,0,100.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),27
-AarifSheikh,Nepal,Hong Kong,21,25,1,0,84.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),22
-AarifSheikh,Nepal,Zimbabwe,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Indian Association Ground,9
-AarifSheikh,Nepal,Ireland,26,26,1,0,100.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),27
-AarifSheikh,Nepal,Singapore,39,39,5,0,100.0,0,0,0,0,0,0,Indian Association Ground,44
-AarifSheikh,Nepal,Netherlands,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),-4
-AarifSheikh,Nepal,Zimbabwe,25,21,3,1,119.04761904761905,0,0,0,0,0,0,Indian Association Ground,30
-AarifSheikh,Nepal,Oman,20,13,2,1,153.84615384615387,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),24
-AarifSheikh,Nepal,Hong Kong,21,25,1,0,84.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),22
-AarifSheikh,Nepal,Zimbabwe,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Indian Association Ground,9
-AarifSheikh,Nepal,Ireland,26,26,1,0,100.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),27
-AarifSheikh,Nepal,Singapore,39,39,5,0,100.0,0,0,0,0,0,0,Indian Association Ground,44
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+AarifSheikh,Nepal,Hong Kong,21,25,1,0,84.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,22
+AarifSheikh,Nepal,Zimbabwe,25,21,3,1,119.04761904761905,0,0,0,0,0,0,Indian Association Ground,0,0,2019,30
+AarifSheikh,Nepal,Singapore,39,39,5,0,100.0,0,0,0,0,0,0,Indian Association Ground,0,0,2019,44
+AarifSheikh,Nepal,Oman,20,13,2,1,153.84615384615387,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,24
+AarifSheikh,Nepal,Zimbabwe,8,11,1,0,72.72727272727273,0,0,0,0,0,0,Indian Association Ground,0,1,2019,17
+AarifSheikh,Nepal,Netherlands,2,6,0,0,33.33333333333333,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,1,2019,4
+AarifSheikh,Nepal,Ireland,26,26,1,0,100.0,0,0,0,0,0,0,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0,2019,27

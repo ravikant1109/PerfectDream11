@@ -1,2 +1,8 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BAParchment,West Indies,South Africa,10,6,0,1,166.66666666666669,0,0,0,0,0,0,St George's Park,12
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BAParchment,West Indies,South Africa,10,6,0,1,166.66666666666669,0,0,0,0,0,0,St George's Park,0,0,2007,12
+BAParchment,West Indies,South Africa,19,25,3,0,76.0,0,0,0,0,0,0,SuperSport Park,0,0,2008,22
+BAParchment,West Indies,South Africa,2,13,0,0,15.384615384615385,0,0,0,0,0,0,New Wanderers Stadium,0,0,2008,-4
+BAParchment,West Indies,Zimbabwe,25,43,4,0,58.139534883720934,0,0,0,0,0,0,Queens Sports Club,0,0,2007,25
+BAParchment,West Indies,South Africa,5,20,0,0,25.0,0,0,0,0,0,0,St George's Park,0,0,2008,-1
+BAParchment,West Indies,South Africa,8,17,1,0,47.05882352941176,0,0,0,0,0,0,Newlands,0,0,2008,3
+BAParchment,West Indies,South Africa,48,80,5,1,60.0,0,0,0,0,0,0,Kingsmead,0,0,2008,53

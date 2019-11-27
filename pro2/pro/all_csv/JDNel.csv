@@ -1,6 +1,12 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-JDNel,Scotland,Pakistan,13,7,2,0,185.71428571428572,23,3,25,2,1,8.333333333333334,Kingsmead,73
-JDNel,Scotland,Ireland,0,3,0,0,0.0,20,3,27,0,0,9.0,Dubai International Cricket Stadium,-8
-JDNel,Scotland,Netherlands,0,0,0,0,0,18,3,19,1,0,6.333333333333333,Civil Service Cricket Club Stormont,25
-JDNel,Scotland,Bermuda,0,0,0,0,0,23,3,14,3,0,4.666666666666667,Civil Service Cricket Club Stormont,79
-JDNel,Scotland,Pakistan,13,7,2,0,185.71428571428572,23,3,25,2,1,8.333333333333334,Kingsmead,73
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+JDNel,Scotland,Netherlands,0,0,0,0,0,18,3,19,1,0,6.333333333333333,Civil Service Cricket Club Stormont,0,0,2008,25
+JDNel,Scotland,Ireland,0,3,0,0,0.0,20,3,27,0,0,9.0,Dubai International Cricket Stadium,0,0,2010,-8
+JDNel,Scotland,Bermuda,0,0,0,0,0,23,3,14,3,0,4.666666666666667,Civil Service Cricket Club Stormont,0,0,2008,79
+JDNel,Scotland,Pakistan,13,7,2,0,185.71428571428572,23,3,25,2,1,8.333333333333334,Kingsmead,0,0,2007,73
+JDNel,Scotland,Ireland,1,1,0,0,100.0,30,5,20,0,0,4.0,Clontarf Cricket Club Ground,0,0,2008,5
+JDNel,Scotland,South Africa,0,0,0,0,0,17,2,25,0,0,12.5,Warner Park Basseterre,0,0,2007,-6
+JDNel,Scotland,Kenya,0,0,0,0,0,41,6,25,2,2,4.166666666666667,Cambusdoon New Ground,0,0,2008,70
+JDNel,Scotland,Ireland,0,0,0,0,0,39,6,44,0,0,7.333333333333333,Willowmoore Park,0,0,2009,0
+JDNel,Scotland,Canada,5,11,1,0,45.45454545454545,48,8,43,0,0,5.375,Willowmoore Park,0,1,2009,10
+JDNel,Scotland,Afghanistan,11,18,1,0,61.111111111111114,17,2,27,0,0,13.5,Cambusdoon New Ground,0,0,2010,4
+JDNel,Scotland,Netherlands,0,0,0,0,0,55,9,39,1,0,4.333333333333333,Clontarf Cricket Club Ground,1,0,2008,41

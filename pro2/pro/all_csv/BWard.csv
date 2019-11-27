@@ -1,17 +1,11 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-BWard,Jersey,Ireland,12,22,0,0,54.54545454545454,17,2,24,0,0,12.0,Tolerance Oval,2
-BWard,Jersey,Ireland,12,22,0,0,54.54545454545454,17,2,24,0,0,12.0,Tolerance Oval,2
-BWard,Jersey,Ireland,12,22,0,0,54.54545454545454,17,2,24,0,0,12.0,Tolerance Oval,2
-BWard,Jersey,Ireland,12,22,0,0,54.54545454545454,17,2,24,0,0,12.0,Tolerance Oval,2
-BWard,Jersey,Ireland,12,22,0,0,54.54545454545454,17,2,24,0,0,12.0,Tolerance Oval,2
-BWard,Jersey,Canada,14,16,0,1,87.5,17,2,22,1,0,11.0,Tolerance Oval,37
-BWard,Jersey,Nigeria,11,5,0,1,220.00000000000003,23,3,20,1,0,6.666666666666667,Sheikh Zayed Stadium,38
-BWard,Jersey,Oman,16,19,0,1,84.21052631578947,23,3,28,0,0,9.333333333333334,Sheikh Zayed Stadium,16
-BWard,Jersey,Italy,20,13,1,1,153.84615384615387,17,2,16,1,1,8.0,College Field,56
-BWard,Jersey,Norway,4,6,0,0,66.66666666666666,13,2,12,1,0,6.0,King George V Sports Ground,27
-BWard,Jersey,Denmark,1,4,0,0,25.0,23,3,23,0,0,7.666666666666667,King George V Sports Ground,-5
-BWard,Jersey,United Arab Emirates,47,26,2,4,180.76923076923077,23,3,14,1,0,4.666666666666667,Tolerance Oval,86
-BWard,Jersey,Germany,58,39,4,4,148.71794871794873,5,0,14,2,0,0,College Field,128
-BWard,Jersey,Hong Kong,0,1,0,0,0.0,24,4,19,3,1,4.75,Sheikh Zayed Stadium,79
-BWard,Jersey,Ireland,12,22,0,0,54.54545454545454,17,2,24,0,0,12.0,Tolerance Oval,2
-BWard,Jersey,Canada,14,16,0,1,87.5,17,2,22,1,0,11.0,Tolerance Oval,37
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+BWard,Jersey,Hong Kong,0,1,0,0,0.0,24,4,19,3,1,4.75,Sheikh Zayed Stadium,0,0,2019,79
+BWard,Jersey,Germany,58,39,4,4,148.71794871794873,5,0,14,2,0,0,College Field,0,0,2019,128
+BWard,Jersey,Nigeria,11,5,0,1,220.00000000000003,23,3,20,1,0,6.666666666666667,Sheikh Zayed Stadium,0,1,2019,46
+BWard,Jersey,Oman,16,19,0,1,84.21052631578947,23,3,28,0,0,9.333333333333334,Sheikh Zayed Stadium,0,1,2019,24
+BWard,Jersey,Denmark,1,4,0,0,25.0,23,3,23,0,0,7.666666666666667,King George V Sports Ground,0,1,2019,3
+BWard,Jersey,United Arab Emirates,47,26,2,4,180.76923076923077,23,3,14,1,0,4.666666666666667,Tolerance Oval,0,1,2019,94
+BWard,Jersey,Ireland,12,22,0,0,54.54545454545454,17,2,24,0,0,12.0,Tolerance Oval,0,0,2019,2
+BWard,Jersey,Italy,20,13,1,1,153.84615384615387,17,2,16,1,1,8.0,College Field,0,1,2019,64
+BWard,Jersey,Norway,4,6,0,0,66.66666666666666,13,2,12,1,0,6.0,King George V Sports Ground,0,0,2019,27
+BWard,Jersey,Canada,14,16,0,1,87.5,17,2,22,1,0,11.0,Tolerance Oval,0,0,2019,37

@@ -1,3 +1,6 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-RSharma,India,Australia,0,0,0,0,0,22,3,28,1,0,9.333333333333334,Stadium Australia,23
-RSharma,India,Australia,0,0,0,0,0,21,3,29,2,0,9.666666666666666,Melbourne Cricket Ground,48
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+RSharma,India,Australia,0,0,0,0,0,21,3,29,2,0,9.666666666666666,Melbourne Cricket Ground,1,0,2012,60
+RSharma,India,Australia,0,0,0,0,0,22,3,28,1,0,9.333333333333334,Stadium Australia,0,0,2012,23
+RSharma,India,West Indies,0,0,0,0,0,59,9,46,1,1,5.111111111111111,MA Chidambaram Stadium Chepauk,0,0,2011,35
+RSharma,India,Sri Lanka,0,0,0,0,0,48,8,45,1,0,5.625,R Premadasa Stadium,0,0,2012,27
+RSharma,India,West Indies,0,0,0,0,0,59,9,43,3,1,4.777777777777778,Holkar Cricket Stadium,1,0,2011,99

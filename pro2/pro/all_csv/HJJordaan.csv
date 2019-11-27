@@ -1,6 +1,5 @@
-Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,Total Score
-HJJordaan,Thailand,Malaysia,33,30,4,0,110.00000000000001,0,0,0,0,0,0,Kinrara Academy Oval,37
-HJJordaan,Thailand,Malaysia,37,45,2,0,82.22222222222221,0,0,0,0,0,0,Kinrara Academy Oval,39
-HJJordaan,Thailand,Maldives,20,24,2,0,83.33333333333334,0,0,0,0,0,0,Kinrara Academy Oval,22
-HJJordaan,Thailand,Maldives,4,9,0,0,44.44444444444444,0,0,0,0,0,0,Kinrara Academy Oval,-2
-HJJordaan,Thailand,Malaysia,33,30,4,0,110.00000000000001,0,0,0,0,0,0,Kinrara Academy Oval,37
+Player name,Country,Opponent team,Runs Scored,Balls played,Four,Six,Strike Rate,Balls bowled,over,Runs Given,Wickets,Maiden Over,Economy,Venue,runout,catch,year,Total Score
+HJJordaan,Thailand,Malaysia,33,30,4,0,110.00000000000001,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,37
+HJJordaan,Thailand,Maldives,20,24,2,0,83.33333333333334,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,22
+HJJordaan,Thailand,Malaysia,37,45,2,0,82.22222222222221,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,39
+HJJordaan,Thailand,Maldives,4,9,0,0,44.44444444444444,0,0,0,0,0,0,Kinrara Academy Oval,0,0,2019,-2
