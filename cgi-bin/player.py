@@ -2,6 +2,9 @@
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from name import AllNames
+import numpy as np
+import ensem
 class Player:
 	""" Player class
 	This is a player class which will store details of players playing in the perticular match.
@@ -54,28 +57,86 @@ class Player:
 		for player in players:
 			match.bowlers.append(Player(player.find('div', attrs = {'class':'playerName_73cad'}).text, player.findAll('div', attrs = {'class':'playerCardCell_bf9d8 playerPointsCell_aa0e3'})[1].text))
 		p.driver.quit()
+		wk_ = []
+		bowler_ = []
+		ar_ = []
+		batsmen_ = []
 		data = "<table style='float:left'><caption>WICKETKEEPER</caption>"
 		data = data + "<th>Player</th><th>Credit</th>"
 		for wk in match.wk:
 			name , credit = wk.print_pl()
+			wk_.append(name)
 			data = data + "<tr><td>"+name+"</td><td>"+credit+"</td></tr>"
 		data = data + "</table>"
 		data = data + "<table style='float:left'><caption>BATSMEN</caption>"
 		data = data + "<th>Player</th><th>Credit</th>"
 		for batsman in match.batsmen:
 			name , credit = batsman.print_pl()
+			batsmen_.append(name)
 			data = data + "<tr><td>"+name+"</td><td>"+credit+"</td></tr>"
 		data = data + "</table>"
 		data = data + "<table style='float:left'><caption>ALLROUNDER</caption>"
 		data = data + "<th>Player</th><th>Credit</th>"
 		for ar in match.ar:
 			name , credit = ar.print_pl()
+			ar_.append(name)
 			data = data + "<tr><td>"+name+"</td><td>"+credit+"</td></tr>"
 		data = data + "</table>"
 		data = data + "<table style='float:left'><caption>BOWLER</caption>"
 		data = data + "<th>Player</th><th>Credit</th>"
 		for bowler in match.bowlers:
 			name , credit = bowler.print_pl()
+			bowler_.append(name)
 			data = data + "<tr><td>"+name+"</td><td>"+credit+"</td></tr>"
 		data = data + "</table>"
-		return data
+		f = open("allcsv.txt", "r")
+		second = []
+		x = 0
+		try:
+			while True:
+				p = next(f)
+				second.append(p)
+		except:
+			x = 0
+		data1 = "<table style='float:left'><caption>WICKETKEEPER</caption>"
+		data1 = data1 + "<th>Player</th><th>Score1</th><th>Score2</th><th>Score3</th>"
+		nm = AllNames(wk_, second)
+		nm.get_players()
+		name , indx = nm.all_players()
+		scores = ensem.pred(name,indx)
+		print(name,scores)
+		for i in range(len(scores)):
+			print(name[i],scores[i])
+			data1 = data1 + "<tr><td>"+name[i]+"</td><td>"+scores[i][0]+"</td><td>"+scores[i][1]+"</td><td>"+scores[i][2]+"</td></tr>"
+		data1 = data1 + "<table style='float:left'><caption>Batsman</caption>"
+		data1 = data1 + "<th>Player</th><th>Score1</th><th>Score2</th><th>Score3</th>"
+		nm = AllNames(batsmen_, second)
+		nm.get_players()
+		name , indx = nm.all_players()
+		scores = ensem.pred(name,indx)
+		print(name,scores)
+		for i in range(len(scores)):
+			print(name[i],scores[i])
+			data1 = data1 + "<tr><td>"+name[i]+"</td><td>"+scores[i][0]+"</td><td>"+scores[i][1]+"</td><td>"+scores[i][2]+"</td></tr>"
+		data1 = data1 + "<table style='float:left'><caption>All Rounder</caption>"
+		data1 = data1 + "<th>Player</th><th>Score1</th><th>Score2</th><th>Score3</th>"
+		nm = AllNames(ar_, second)
+		nm.get_players()
+		name , indx = nm.all_players()
+		scores = ensem.pred(name,indx)
+		print(name,scores)
+		for i in range(len(scores)):
+			print(name[i],scores[i])
+			data1 = data1 + "<tr><td>"+name[i]+"</td><td>"+scores[i][0]+"</td><td>"+scores[i][1]+"</td><td>"+scores[i][2]+"</td></tr>"
+		data1 = data1 + "<table style='float:left'><caption>Bowler</caption>"
+		data1 = data1 + "<th>Player</th><th>Score1</th><th>Score2</th><th>Score3</th>"
+		nm = AllNames(bowler_, second)
+		nm.get_players()
+		name , indx = nm.all_players()
+		scores = ensem.pred(name,indx)
+		print(name,scores)
+		for i in range(len(scores)):
+			print(name[i],scores[i])
+			data1 = data1 + "<tr><td>"+name[i]+"</td><td>"+scores[i][0]+"</td><td>"+scores[i][1]+"</td><td>"+scores[i][2]+"</td></tr>"
+		data1 = data1 + "</table>"
+		return data , data1
