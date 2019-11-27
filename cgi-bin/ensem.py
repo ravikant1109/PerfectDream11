@@ -50,8 +50,6 @@ def pred(name , indx):
 			ann_score = ann_classifier.predict(np.array(x_pred))
 			ann_score = str(ann_score[0][0])
 			score.append([rf_score[0],svm_score[0],ann_score[0]])
-			print(score)
-			exit()
 	return score
 		
 '''output = open('train/'+i+'/models_classifier.pkl', 'wb')

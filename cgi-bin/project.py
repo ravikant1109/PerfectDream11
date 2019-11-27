@@ -124,14 +124,15 @@ for match in p.matches:
 			data = data + "<form class=\"modal-content animate\" action=''>"
 			data = data + "<div class=\"container\">"
 			data = data + "<h1>Players Details</h1><hr>"
-			data = data + Player.open_match(p, match)
-			data = data + "<br><div class=\"clearfix\"><button id=\""+idd +"p\" type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none';document.getElementById('id01').style.display='block'\" class=\"cancelbtn\">Predict</button></div><br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none'\" class=\"cancelbtn\">Close</button></div></div></form></div>"
+			data1 , data2 = Player.open_match(p, match)
+			data = data + data1
+			data = data + "<br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none';document.getElementById('"+idd+"p').style.display='block'\" class=\"cancelbtn\">Predict</button></div><br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none'\" class=\"cancelbtn\">Close</button></div></div></form></div>"
 			data = data + "<div id=\""+idd+"p\" class=\"modal\">"
 			data = data + "<form class=\"modal-content animate\" action=''>"
 			data = data + "<div class=\"container\">"
-			data = data + "<h1>Players Details</h1><hr>"
-			data = data + Player.open_match(p, match)
-			data = data + "<br><div class=\"clearfix\"><button id=\""+idd +"p\" type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none';document.getElementById('id01').style.display='block'\" class=\"cancelbtn\">Predict</button></div><br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"').style.display='none'\" class=\"cancelbtn\">Close</button></div></div></form></div>"
+			data = data + "<h1>Players Predictions</h1><hr>"
+			data = data + data2
+			data = data + "<br><div class=\"clearfix\"><button type=\"button\" style=\"width:100%\" onclick=\"document.getElementById('"+idd+"p').style.display='none'\" class=\"cancelbtn\">Close</button></div></div></form></div>"
 			f = open('../update/match/'+idd+'/update.txt','w')
 			f.write(data)
 			f.close()
